@@ -2,7 +2,7 @@ import requests
 from geopy.distance import geodesic
 
 # Address and Nominatim API URL
-address = "yildirim beyazit, Kayseri, Turkey"
+address = "Emniyet Evleri, 34415 Kâğıthane/İstanbul, Türkiye"
 nominatim_url = "https://nominatim.openstreetmap.org/search"
 
 # 1. Convert the address to coordinates (Geocoding)
@@ -14,7 +14,7 @@ params = {
 
 # Add User-Agent header
 headers = {
-    "User-Agent": "MyGeocodingApp/1.0 (myemail@example.com)"  # Put your email address here
+    "User-Agent": "MyGeocodingApp/1.0 (meforpresident38@gmail.com)"  # Put your email address here
 }
 
 response = requests.get(nominatim_url, params=params, headers=headers)
