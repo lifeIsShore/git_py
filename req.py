@@ -1,44 +1,44 @@
 import requests
 from geopy.distance import geodesic
 
-# Adres ve Nominatim API URL'si
-address = "Vöhrenbacher Straße 49, Villingen, 78050 Villingen-Schwenningen"
+# Address and Nominatim API URL
+address = "yildirim beyazit, Kayseri, Turkey"
 nominatim_url = "https://nominatim.openstreetmap.org/search"
 
-# 1. Adresi koordinatlara dönüştürme (Geocoding)
+# 1. Convert the address to coordinates (Geocoding)
 params = {
     "q": address,
     "format": "json",
     "limit": 1
 }
 
-# User-Agent başlığı ekle
+# Add User-Agent header
 headers = {
-    "User-Agent": "MyGeocodingApp/1.0 (myemail@example.com)"  # Kendi e-posta adresinizi buraya yazın
+    "User-Agent": "MyGeocodingApp/1.0 (myemail@example.com)"  # Put your email address here
 }
 
 response = requests.get(nominatim_url, params=params, headers=headers)
 
-# Yanıtı kontrol et
+# Check the response
 try:
-    response.raise_for_status()  # HTTP hatalarını kontrol et
-    location_data = response.json()  # JSON olarak yanıtı ayrıştır
+    response.raise_for_status()  # Check for HTTP errors
+    location_data = response.json()  # Parse the response as JSON
 except requests.exceptions.HTTPError as err:
-    print(f"Hata: {err}")
-    print(f"Yanıt içeriği: {response.text}")
+    print(f"Error: {err}")
+    print(f"Response content: {response.text}")
 except ValueError:
-    print("Yanıt JSON formatında değil.")
-    print(f"Yanıt içeriği: {response.text}")
+    print("Response is not in JSON format.")
+    print(f"Response content: {response.text}")
     location_data = []
 
-# Hata kontrolü
+# Error checking
 if location_data:
-    # İlk sonuçtan koordinatları al
+    # Get coordinates from the first result
     location_data = location_data[0]
     lat, lon = float(location_data["lat"]), float(location_data["lon"])
-    print(f"Adres koordinatları: Enlem: {lat}, Boylam: {lon}")
+    print(f"Address coordinates: Latitude: {lat}, Longitude: {lon}")
     
-    # 2. Çevredeki marketler, otobüs/tren durakları ve parkları bulma
+    # 2. Find nearby markets, bus/train stops, and parks
     overpass_url = "http://overpass-api.de/api/interpreter"
     query = f"""
     [out:json];
@@ -52,34 +52,34 @@ if location_data:
     """
     overpass_response = requests.get(overpass_url, params={"data": query})
 
-    # Yanıtı kontrol et
+    # Check the response
     if overpass_response.ok:
         nearby_locations = overpass_response.json()["elements"]
         
-        # Türleri kontrol etmek için bir set oluştur
+        # Create a set to check types
         seen_types = {}
     
-        # 3. Mesafe hesaplama ve tür belirleme
+        # 3. Calculate distance and determine type
         for place in nearby_locations:
-            # Konum türünü belirleme
+            # Determine location type
             if place.get("tags", {}).get("amenity") == "market":
                 place_type = "Market"
             elif place.get("tags", {}).get("public_transport") == "stop_position" and place.get("tags", {}).get("bus") == "yes":
-                place_type = "Otobüs Durağı"
+                place_type = "Bus Stop"
             elif place.get("tags", {}).get("railway") == "station":
-                place_type = "Tren Durağı"
+                place_type = "Train Station"
             elif place.get("tags", {}).get("leisure") == "park":
                 place_type = "Park"
             else:
-                place_type = "Bilinmeyen"
+                place_type = "Unknown"
     
-            # Eğer daha önce bu türde bir yer listelenmemişse
+            # If this type of place has not been listed before
             if place_type not in seen_types:
-                # Mesafe hesaplama
+                # Calculate distance
                 place_coords = (place["lat"], place["lon"])
                 distance = geodesic((lat, lon), place_coords).meters
     
-                # Puanlama
+                # Scoring
                 if distance < 500:
                     score = 10
                 elif distance < 1000:
@@ -89,11 +89,11 @@ if location_data:
                 else:
                     score = 2
     
-                print(f"{place_type}: Mesafe {distance:.2f} m, Puan: {score}")
-                seen_types[place_type] = True  # Bu türdeki yerin zaten listelendiğini belirt
+                print(f"{place_type}: Distance {distance:.2f} m, Score: {score}")
+                seen_types[place_type] = True  # Mark this type of place as already listed
     else:
         print("Nearby locations API call failed.")
-        print(f"Yanıt içeriği: {overpass_response.text}")
+        print(f"Response content: {overpass_response.text}")
 
 else:
-    print("Adres bulunamadı veya geçersiz. Lütfen adresi kontrol edin.")
+    print("Address not found or invalid. Please check the address.")
