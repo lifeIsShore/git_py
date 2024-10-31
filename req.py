@@ -2,7 +2,7 @@ import requests
 from geopy.distance import geodesic
 
 # Address and Nominatim API URL
-address = "Emniyet Evleri, 34415 Kâğıthane/İstanbul, Türkiye"
+address = "Spittelstraße 28, 78056 Villingen-Schwenningen, Germany"
 nominatim_url = "https://nominatim.openstreetmap.org/search"
 
 # 1. Convert the address to coordinates (Geocoding)
@@ -43,7 +43,7 @@ if location_data:
     query = f"""
     [out:json];
     (
-      node(around:1000,{lat},{lon})[amenity=market];
+      node(around:1000,{lat},{lon})[shop=supermarket];
       node(around:1000,{lat},{lon})[public_transport=stop_position][bus=yes];
       node(around:1000,{lat},{lon})[railway=station];
       node(around:1000,{lat},{lon})[leisure=park];
@@ -62,7 +62,7 @@ if location_data:
         # 3. Calculate distance and determine type
         for place in nearby_locations:
             # Determine location type
-            if place.get("tags", {}).get("amenity") == "market":
+            if place.get("tags", {}).get("shop") == "supermarket":
                 place_type = "Market"
             elif place.get("tags", {}).get("public_transport") == "stop_position" and place.get("tags", {}).get("bus") == "yes":
                 place_type = "Bus Stop"
