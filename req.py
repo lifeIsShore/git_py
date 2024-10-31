@@ -2,7 +2,7 @@ import requests
 from geopy.distance import geodesic
 
 # Address and Nominatim API URL
-address = "Spittelstraße 28, 78056 Villingen-Schwenningen, Germany"
+address = "Kaiserring 10, 78050 Villingen-Schwenningen"
 nominatim_url = "https://nominatim.openstreetmap.org/search"
 
 # 1. Convert the address to coordinates (Geocoding)
@@ -14,7 +14,7 @@ params = {
 
 # Add User-Agent header
 headers = {
-    "User-Agent": "MyGeocodingApp/1.0 (meforpresident38@gmail.com)"  # Put your email address here
+    "User-Agent": "MyGeocodingApp/1.0 (meforpresident38@gmail.com)"
 }
 
 response = requests.get(nominatim_url, params=params, headers=headers)
@@ -44,6 +44,11 @@ if location_data:
     [out:json];
     (
       node(around:1000,{lat},{lon})[shop=supermarket];
+      node(around:1000,{lat},{lon})[shop=convenience];
+      node(around:1000,{lat},{lon})[shop=variety_store];
+      node(around:1000,{lat},{lon})[shop=general];
+      node(around:1000,{lat},{lon})[shop=greengrocer];
+      node(around:1000,{lat},{lon})[shop=department_store];
       node(around:1000,{lat},{lon})[public_transport=stop_position][bus=yes];
       node(around:1000,{lat},{lon})[railway=station];
       node(around:1000,{lat},{lon})[leisure=park];
@@ -63,7 +68,17 @@ if location_data:
         for place in nearby_locations:
             # Determine location type
             if place.get("tags", {}).get("shop") == "supermarket":
-                place_type = "Market"
+                place_type = "Supermarket"
+            elif place.get("tags", {}).get("shop") == "convenience":
+                place_type = "Convenience Store"
+            elif place.get("tags", {}).get("shop") == "general":
+                place_type = "general store"
+            elif place.get("tags", {}).get("shop") == "variety_store":
+                place_type = "variety store"
+            elif place.get("tags", {}).get("shop") == "greengrocer":
+                place_type = "greengrocer"
+            elif place.get("tags", {}).get("shop") == "department_store":
+                place_type = "department_store"
             elif place.get("tags", {}).get("public_transport") == "stop_position" and place.get("tags", {}).get("bus") == "yes":
                 place_type = "Bus Stop"
             elif place.get("tags", {}).get("railway") == "station":
