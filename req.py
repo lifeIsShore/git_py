@@ -77,6 +77,7 @@ if location_data:
         # Create dictionaries to track types and last locations
         seen_types = {}
         last_location = {}
+        total_score = 0  # Initialize total score
 
         # 3. Calculate distance and determine type
         for place in nearby_locations:
@@ -148,6 +149,7 @@ if location_data:
                 else:
                     score = 3
 
+                total_score += score  # Add to total score
                 print(f"{place_type}: Distance {distance:.2f} m, Score: {score}")
                 last_location[place_type] = place_coords  # Update last location for this type
                 seen_types[place_type] = True
@@ -156,6 +158,10 @@ if location_data:
             else:
                 print(f"{place_type} is more than 1000 m away and will not be scored.")
                 
+                
+        # Print the total score
+        print(f"Total Score: {total_score}")
+
     else:
         print("Nearby locations API call failed.")
         print(f"Response content: {overpass_response.text}")
