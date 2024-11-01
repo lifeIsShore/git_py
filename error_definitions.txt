@@ -1,0 +1,2 @@
+error1:{Nearby locations API call failed.}
+error2:{Address not found or invalid.}
