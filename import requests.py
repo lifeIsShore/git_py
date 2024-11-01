@@ -1,8 +1,9 @@
 import requests
 from geopy.distance import geodesic
+import matplotlib.pyplot as plt
 
 # Address and Nominatim API URL
-address = "Rottweiler Str. 4, 78056 Villingen-Schwenningen"
+address = "Jakob-Kienzle-Straße 22, 78054 Villingen-Schwenningen"
 nominatim_url = "https://nominatim.openstreetmap.org/search"
 
 # 1. Convert the address to coordinates (Geocoding)
@@ -26,6 +27,7 @@ try:
 except requests.exceptions.HTTPError as err:
     print(f"Error: {err}")
     print(f"Response content: {response.text}")
+    location_data = []
 except ValueError:
     print("Response is not in JSON format.")
     print(f"Response content: {response.text}")
@@ -76,6 +78,11 @@ if location_data:
         
         # Create a set to check types
         seen_types = {}
+        
+        # Lists for plotting
+        plot_latitudes = []
+        plot_longitudes = []
+        plot_types = []
     
         # 3. Calculate distance and determine type
         for place in nearby_locations:
@@ -142,7 +149,30 @@ if location_data:
                     score = 2
     
                 print(f"{place_type}: Distance {distance:.2f} m, Score: {score}")
+                
+                # Add to plot lists
+                plot_latitudes.append(place["lat"])
+                plot_longitudes.append(place["lon"])
+                plot_types.append(place_type)
+
                 seen_types[place_type] = True  # Mark this type of place as already listed
+                
+        # Plotting
+        plt.figure(figsize=(10, 8))
+        plt.scatter(plot_longitudes, plot_latitudes, c='blue', alpha=0.5, edgecolors='k')
+        plt.title('Nearby Locations')
+        plt.xlabel('Longitude')
+        plt.ylabel('Latitude')
+        
+        # Annotate each point with its type
+        for i, place_type in enumerate(plot_types):
+            plt.annotate(place_type, (plot_longitudes[i], plot_latitudes[i]), fontsize=9, ha='right')
+        
+        plt.scatter(lon, lat, c='red', label='Your Location', s=100)  # Plot your location
+        plt.legend()
+        plt.grid()
+        plt.show()
+
     else:
         print("Nearby locations API call failed.")
         print(f"Response content: {overpass_response.text}")
