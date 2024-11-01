@@ -2,7 +2,7 @@ import requests
 from geopy.distance import geodesic
 
 # Address and Nominatim API URL
-address = "Kaiserring 10, 78050 Villingen-Schwenningen"
+address = "Rottweiler Str. 4, 78056 Villingen-Schwenningen"
 nominatim_url = "https://nominatim.openstreetmap.org/search"
 
 # 1. Convert the address to coordinates (Geocoding)
@@ -52,6 +52,19 @@ if location_data:
       node(around:1000,{lat},{lon})[public_transport=stop_position][bus=yes];
       node(around:1000,{lat},{lon})[railway=station];
       node(around:1000,{lat},{lon})[leisure=park];
+      node(around:1000,{lat},{lon})[amenity=fast_food];
+      node(around:1000,{lat},{lon})[amenity=ice_cream];
+      node(around:1000,{lat},{lon})[building=supermarket];
+      node(around:1000,{lat},{lon})[leisure=garden];
+      node(around:1000,{lat},{lon})[place=square];
+      node(around:1000,{lat},{lon})[amenity=library];
+      node(around:1000,{lat},{lon})[amenity=pharmacy];
+      node(around:1000,{lat},{lon})[shop=cosmetics];
+      node(around:1000,{lat},{lon})[amenity=school];
+      node(around:1000,{lat},{lon})[amenity=kindergarten];
+      node(around:1000,{lat},{lon})[amenity=university];
+      node(around:1000,{lat},{lon})[education=centre];
+      node(around:1000,{lat},{lon})[landuse=education];
     );
     out;
     """
@@ -72,19 +85,43 @@ if location_data:
             elif place.get("tags", {}).get("shop") == "convenience":
                 place_type = "Convenience Store"
             elif place.get("tags", {}).get("shop") == "general":
-                place_type = "general store"
+                place_type = "General Store"
             elif place.get("tags", {}).get("shop") == "variety_store":
-                place_type = "variety store"
+                place_type = "Variety Store"
             elif place.get("tags", {}).get("shop") == "greengrocer":
-                place_type = "greengrocer"
+                place_type = "Greengrocer"
             elif place.get("tags", {}).get("shop") == "department_store":
-                place_type = "department_store"
+                place_type = "Department Store"
             elif place.get("tags", {}).get("public_transport") == "stop_position" and place.get("tags", {}).get("bus") == "yes":
                 place_type = "Bus Stop"
             elif place.get("tags", {}).get("railway") == "station":
                 place_type = "Train Station"
-            elif place.get("tags", {}).get("leisure") == "park":
-                place_type = "Park"
+            elif place.get("tags", {}).get("amenity") == "fast_food":
+                place_type = "Fast food"
+            elif place.get("tags", {}).get("amenity") == "ice_cream":
+                place_type = "Ice Cream"
+            elif place.get("tags", {}).get("building") == "supermarket":
+                place_type = "market2"        
+            elif place.get("tags", {}).get("leisure") == "garden":
+                place_type = "garden"
+            elif place.get("tags", {}).get("place") == "square":
+                place_type = "Square"
+            elif place.get("tags", {}).get("amenity") == "library":
+                place_type = "library"
+            elif place.get("tags", {}).get("amenity") == "pharmacy":
+                place_type = "pharmacy"
+            elif place.get("tags", {}).get("shop") == "cosmetics":
+                place_type = "cosmetics"
+            elif place.get("tags", {}).get("amenity") == "school":
+                place_type = "school"
+            elif place.get("tags", {}).get("amenity") == "kindergarten":
+                place_type = "kindergarten"
+            elif place.get("tags", {}).get("amenity") == "university":
+                place_type = "university"
+            elif place.get("tags", {}).get("landuse") == "education":
+                place_type = "education"
+            elif place.get("tags", {}).get("education") == "centre":
+                place_type = "centre"
             else:
                 place_type = "Unknown"
     
