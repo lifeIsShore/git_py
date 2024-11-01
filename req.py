@@ -38,7 +38,7 @@ if location_data:
     lat, lon = float(location_data["lat"]), float(location_data["lon"])
     print(f"Address coordinates: Latitude: {lat}, Longitude: {lon}")
     
-    # 2. Find nearby markets, bus/train stops, and parks
+    # 2. Find nearby locations
     overpass_url = "http://overpass-api.de/api/interpreter"
     query = f"""
     [out:json];
@@ -74,9 +74,10 @@ if location_data:
     if overpass_response.ok:
         nearby_locations = overpass_response.json()["elements"]
         
-        # Create a set to check types
+        # Create dictionaries to track types and last locations
         seen_types = {}
-    
+        last_location = {}
+
         # 3. Calculate distance and determine type
         for place in nearby_locations:
             # Determine location type
@@ -97,52 +98,64 @@ if location_data:
             elif place.get("tags", {}).get("railway") == "station":
                 place_type = "Train Station"
             elif place.get("tags", {}).get("amenity") == "fast_food":
-                place_type = "Fast food"
+                place_type = "Fast Food"
             elif place.get("tags", {}).get("amenity") == "ice_cream":
                 place_type = "Ice Cream"
             elif place.get("tags", {}).get("building") == "supermarket":
-                place_type = "market2"        
+                place_type = "Market"
             elif place.get("tags", {}).get("leisure") == "garden":
-                place_type = "garden"
+                place_type = "Garden"
             elif place.get("tags", {}).get("place") == "square":
                 place_type = "Square"
             elif place.get("tags", {}).get("amenity") == "library":
-                place_type = "library"
+                place_type = "Library"
             elif place.get("tags", {}).get("amenity") == "pharmacy":
-                place_type = "pharmacy"
+                place_type = "Pharmacy"
             elif place.get("tags", {}).get("shop") == "cosmetics":
-                place_type = "cosmetics"
+                place_type = "Cosmetics Store"
             elif place.get("tags", {}).get("amenity") == "school":
-                place_type = "school"
+                place_type = "School"
             elif place.get("tags", {}).get("amenity") == "kindergarten":
-                place_type = "kindergarten"
+                place_type = "Kindergarten"
             elif place.get("tags", {}).get("amenity") == "university":
-                place_type = "university"
+                place_type = "University"
             elif place.get("tags", {}).get("landuse") == "education":
-                place_type = "education"
+                place_type = "Education Area"
             elif place.get("tags", {}).get("education") == "centre":
-                place_type = "centre"
+                place_type = "Education Centre"
             else:
                 place_type = "Unknown"
-    
-            # If this type of place has not been listed before
-            if place_type not in seen_types:
-                # Calculate distance
-                place_coords = (place["lat"], place["lon"])
-                distance = geodesic((lat, lon), place_coords).meters
-    
-                # Scoring
-                if distance < 500:
+
+            # Calculate distance
+            place_coords = (place["lat"], place["lon"])
+            distance = geodesic((lat, lon), place_coords).meters
+            
+            # Check distance from last location of the same type
+            if place_type in last_location:
+                prev_coords = last_location[place_type]
+                prev_distance = geodesic(prev_coords, place_coords).meters
+            else:
+                prev_distance = float("inf")  # No previous location
+            
+            # Apply distance-based scoring if within 1000 meters and far enough from previous same type
+            if distance <= 1000.0 and prev_distance > 90.0:
+                if distance <= 200:
                     score = 10
-                elif distance < 1000:
-                    score = 7
-                elif distance < 2000:
+                elif distance <= 500:
+                    score = 8
+                elif distance <= 750:
                     score = 5
                 else:
-                    score = 2
-    
+                    score = 3
+
                 print(f"{place_type}: Distance {distance:.2f} m, Score: {score}")
-                seen_types[place_type] = True  # Mark this type of place as already listed
+                last_location[place_type] = place_coords  # Update last location for this type
+                seen_types[place_type] = True
+            elif distance <= 1000:
+                print(f"{place_type} within 1000 m but too close to previous same type; skipped.")
+            else:
+                print(f"{place_type} is more than 1000 m away and will not be scored.")
+                
     else:
         print("Nearby locations API call failed.")
         print(f"Response content: {overpass_response.text}")
