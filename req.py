@@ -158,6 +158,7 @@ if location_data:
             else:
                 print(f"{place_type} is more than 1000 m away and will not be scored.")
                 
+                
         # Print the total score
         print(f"Total Score: {total_score}")
 
