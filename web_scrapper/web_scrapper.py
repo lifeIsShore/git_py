@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import csv
 
 # İlk sayfanın URL'si
 url = "https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House&locations=AD08DE5960&page=1&order=DateDesc"  
@@ -24,25 +25,30 @@ if pagination:
 last_page_num = max(page_numbers) if page_numbers else 1  # Eğer page_numbers boşsa 1 olarak ayarla
 print(f"En son sayfa numarası: {last_page_num}")
 
-# Tüm sayfalardan veri çekme
-for page in range(1, last_page_num + 1):
-    print(f"Sayfa {page} verileri çekiliyor...")
-    response = requests.get(f"https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House&locations=AD08DE5960&page={page}&order=DateDesc")
-    soup = BeautifulSoup(response.text, "html.parser")
+# CSV dosyasını oluşturma ve yazma işlemi
+with open(r"C:\Users\ahmty\Desktop\ilanlar.csv", mode='w', newline='', encoding='utf-8-sig') as file:
+    writer = csv.writer(file)
+    # CSV dosyasına başlık satırını yazma
+    writer.writerow(["Adres", "Fiyat", "Oda Sayısı", "Yaşam Alanı", "Arsa Büyüklüğü"])
 
-    # Her sayfadaki ilanları çekme işlemi
-    listings = soup.find_all("div", class_="ilan_sinifi")  # Her ilanın div'i (gerçek sınıfı kontrol edin)
+    # Tüm sayfalardan veri çekme
+    for page in range(1, last_page_num + 1):
+        print(f"Sayfa {page} verileri çekiliyor...")
+        response = requests.get(f"https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House&locations=AD08DE5960&page={page}&order=DateDesc")
+        soup = BeautifulSoup(response.text, "html.parser")
 
-    for listing in listings:
-        address = listing.find("div", class_="css-ee7g92").text.strip()  # Adresi listing içinden çek
-        price = listing.find("div", class_="css-11nox3k").text.strip()  # Fiyat sınıfı
-        features = listing.find_all("div", class_="css-9u48bm")  # Özellikler sadece bu listing için çekilsin
-        rooms = features[0].text.strip() if len(features) > 0 else "Bilinmiyor"
-        living_area = features[1].text.strip() if len(features) > 1 else "Bilinmiyor"
-        land_size = features[2].text.strip() if len(features) > 2 else "Bilinmiyor"
+        # Her sayfadaki ilanları çekme işlemi
+        listings = soup.find_all("div", class_="css-79elbk")  # Her ilanın div'i (gerçek sınıfı kontrol edin)
 
-        print(f"Fiyat: {price}")
-        print(f"Adres: {address}")
-        print(f"Oda Sayısı: {rooms}")
-        print(f"Yaşam Alanı: {living_area}")
-        print(f"Arsa Büyüklüğü: {land_size}")
+        for listing in listings:
+            address = listing.find("div", class_="css-ee7g92").text.strip()  # Adresi listing içinden çek
+            price = listing.find("div", class_="css-11nox3k").text.strip()  # Fiyat sınıfı
+            features = listing.find_all("div", class_="css-9u48bm")  # Özellikler sadece bu listing için çekilsin
+            rooms = features[0].text.strip() if len(features) > 0 else "Bilinmiyor"
+            living_area = features[1].text.strip() if len(features) > 1 else "Bilinmiyor"
+            land_size = features[2].text.strip() if len(features) > 2 else "Bilinmiyor"
+
+            # CSV dosyasına verileri yazma
+            writer.writerow([address, price, rooms, living_area, land_size])
+
+print("Veriler başarıyla 'ilanlar.csv' dosyasına kaydedildi.")
