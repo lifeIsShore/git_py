@@ -1,6 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
+import logging
+
+# Set up logging configuration
+logging.basicConfig(
+    filename=r"C:\Users\ahmty\Desktop\web_scraper.log",  # Log dosyasının adı
+    level=logging.INFO,  # Log seviyesi
+    format='%(asctime)s - %(levelname)s - %(message)s',  # Log formatı
+)
 
 # URL of the first page
 url = "https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House&locations=AD08DE5960&page=1&order=DateDesc"  
@@ -23,7 +31,7 @@ if pagination:
 
 # Find the last page number
 last_page_num = max(page_numbers) if page_numbers else 1  # Set to 1 if page_numbers is empty
-print(f"Last page number: {last_page_num}")
+logging.info(f"Last page number: {last_page_num}")  # Log the last page number
 
 # Create and write to the CSV file
 with open(r"C:\Users\ahmty\Desktop\ads.csv", mode='w', newline='', encoding='utf-8-sig') as file:
@@ -33,11 +41,12 @@ with open(r"C:\Users\ahmty\Desktop\ads.csv", mode='w', newline='', encoding='utf
 
     # Retrieve data from all pages
     for page in range(1, last_page_num + 1):
+        logging.info(f"Scraping page {page}...")  # Log the page number being scraped
         response = requests.get(f"https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House&locations=AD08DE5960&page={page}&order=DateDesc")
         soup = BeautifulSoup(response.text, "html.parser")
 
         # Extract listings from each page
-        listings = soup.find_all("div", class_="css-gg38ii")  # The <div> that contains each listing (verify the actual class)
+        listings = soup.find_all("div", class_="css-gg38ii")  # The <div> that contains each listing
 
         for listing in listings:
             address = listing.find("div", class_="css-ee7g92").text.strip()  # Extract the address from the listing
@@ -52,4 +61,7 @@ with open(r"C:\Users\ahmty\Desktop\ads.csv", mode='w', newline='', encoding='utf
             # Write the data to the CSV file
             writer.writerow([address, price, rooms, living_area, land_size])
 
+        logging.info(f"Finished scraping page {page}.")  # Log when a page has been scraped
+
+logging.info("Data has been successfully saved to 'ads.csv'.")  # Log when all data is saved
 print("Data has been successfully saved to 'ads.csv'.")
