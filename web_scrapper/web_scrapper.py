@@ -89,8 +89,3 @@ for row in unknown_rows:
     logging.info(f"Row {row[0]} has unknown values: {', '.join(row[1])}")
 
 logging.info("Data has been successfully saved to 'ads.csv'.")  # Log when all data is saved
-print(f"Data has been successfully saved to 'ads.csv'.")
-print(f"Total records scraped: {total_records}")
-print(f"Total unknown values found: {unknown_count}")
-for row in unknown_rows:
-    print(f"Row {row[0]} has unknown values: {', '.join(row[1])}")
