@@ -26,7 +26,7 @@ last_page_num = max(page_numbers) if page_numbers else 1  # Set to 1 if page_num
 print(f"Last page number: {last_page_num}")
 
 # Create and write to the CSV file
-with open(r"C:\Users\ahmty\Desktop\ilanlar.csv", mode='w', newline='', encoding='utf-8-sig') as file:
+with open(r"C:\Users\ahmty\Desktop\ads.csv", mode='w', newline='', encoding='utf-8-sig') as file:
     writer = csv.writer(file)
     # Write the header row to the CSV file
     writer.writerow(["Address", "Price", "Number of Rooms", "Living Area", "Land Size"])
@@ -56,4 +56,4 @@ with open(r"C:\Users\ahmty\Desktop\ilanlar.csv", mode='w', newline='', encoding=
             # Write the data to the CSV file
             writer.writerow([address, price, rooms, living_area, land_size])
 
-print("Data has been successfully saved to 'ilanlar.csv'.")
+print("Data has been successfully saved to 'ads.csv'.")
