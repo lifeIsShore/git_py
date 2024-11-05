@@ -29,7 +29,7 @@ print(f"Last page number: {last_page_num}")
 with open(r"C:\Users\ahmty\Desktop\ads.csv", mode='w', newline='', encoding='utf-8-sig') as file:
     writer = csv.writer(file)
     # Write the header row to the CSV file
-    writer.writerow(["Address", "Price", "Number of Rooms", "Living Area", "Land Size"])
+    writer.writerow(["Street", "City_Code", "Price", "Number of Rooms", "Living Area", "Land Size"])
 
     # Retrieve data from all pages
     for page in range(1, last_page_num + 1):
@@ -37,21 +37,17 @@ with open(r"C:\Users\ahmty\Desktop\ads.csv", mode='w', newline='', encoding='utf
         soup = BeautifulSoup(response.text, "html.parser")
 
         # Extract listings from each page
-        listings = soup.find_all("div", class_="css-79elbk")  # The <div> that contains each listing (verify the actual class)
+        listings = soup.find_all("div", class_="css-gg38ii")  # The <div> that contains each listing (verify the actual class)
 
         for listing in listings:
             address = listing.find("div", class_="css-ee7g92").text.strip()  # Extract the address from the listing
             price = listing.find("div", class_="css-11nox3k").text.strip()  # Extract the price class
             features = listing.find_all("div", class_="css-9u48bm")  # Extract features for this listing
             
-            rooms = features[0].text.strip() if len(features) > 0 else "Unknown"  # Extract number of rooms
-            living_area = features[1].text.strip() if len(features) > 1 else "Unknown"  # Extract living area
-            land_size = features[2].text.strip() if len(features) > 2 else "Unknown"  # Extract land size
-            # Check if features have 3rd and 4th indices
-            if len(features) > 3:
-                land_size = features[3].text.strip()  # Update land size from the 4th feature
-            if len(features) > 4:
-                land_size = features[4].text.strip()  # Update land size from the 5th feature
+            # Extract number of rooms, living area, and land size
+            rooms = features[0].text.strip() if len(features) > 0 else "Unknown"  # First feature (rooms)
+            living_area = features[2].text.strip() if len(features) > 2 else "Unknown"  # Third feature (living area)
+            land_size = features[4].text.strip() if len(features) > 4 else "Unknown"  # Fifth feature (land size)
             
             # Write the data to the CSV file
             writer.writerow([address, price, rooms, living_area, land_size])
