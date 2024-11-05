@@ -53,7 +53,7 @@ with open(r"C:\Users\ahmty\Desktop\ads.csv", mode='w', newline='', encoding='utf
         # Extract listings from each page
         listings = soup.find_all("div", class_="css-gg38ii")  # The <div> that contains each listing
 
-        for idx, listing in enumerate(listings, start=1):  # Include the index (starting from 1) to track row number
+        for listing in listings:  # No need for enumerate, we just write each listing in order
             address = listing.find("div", class_="css-ee7g92").text.strip()  # Extract the address from the listing
             price = listing.find("div", class_="css-11nox3k").text.strip()  # Extract the price class
             features = listing.find_all("div", class_="css-9u48bm")  # Extract features for this listing
@@ -74,7 +74,7 @@ with open(r"C:\Users\ahmty\Desktop\ads.csv", mode='w', newline='', encoding='utf
             
             if unknowns:
                 unknown_count += 1
-                unknown_rows.append((idx, unknowns))  # Add row index and unknown feature(s) to the list
+                unknown_rows.append((total_records + 1, unknowns))  # Add row index and unknown feature(s) to the list
 
             # Write the data to the CSV file
             writer.writerow([address, price, rooms, living_area, land_size])
@@ -86,6 +86,6 @@ with open(r"C:\Users\ahmty\Desktop\ads.csv", mode='w', newline='', encoding='utf
 logging.info(f"Total records scraped: {total_records}")
 logging.info(f"Total unknown values found: {unknown_count}")
 for row in unknown_rows:
-    logging.info(f"Row {row[0]} has unknown values: {', '.join(row[1])}")
+    logging.info(f"Row {row[0]+1} has unknown values: {', '.join(row[1])}")
 
 logging.info("Data has been successfully saved to 'ads.csv'.")  # Log when all data is saved
