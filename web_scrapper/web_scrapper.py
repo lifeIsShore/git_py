@@ -33,7 +33,6 @@ with open(r"C:\Users\ahmty\Desktop\ilanlar.csv", mode='w', newline='', encoding=
 
     # Tüm sayfalardan veri çekme
     for page in range(1, last_page_num + 1):
-        print(f"Sayfa {page} verileri çekiliyor...")
         response = requests.get(f"https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House&locations=AD08DE5960&page={page}&order=DateDesc")
         soup = BeautifulSoup(response.text, "html.parser")
 
@@ -44,10 +43,16 @@ with open(r"C:\Users\ahmty\Desktop\ilanlar.csv", mode='w', newline='', encoding=
             address = listing.find("div", class_="css-ee7g92").text.strip()  # Adresi listing içinden çek
             price = listing.find("div", class_="css-11nox3k").text.strip()  # Fiyat sınıfı
             features = listing.find_all("div", class_="css-9u48bm")  # Özellikler sadece bu listing için çekilsin
+            
             rooms = features[0].text.strip() if len(features) > 0 else "Bilinmiyor"
             living_area = features[1].text.strip() if len(features) > 1 else "Bilinmiyor"
             land_size = features[2].text.strip() if len(features) > 2 else "Bilinmiyor"
-
+            # Eğer features 3 ve 4. indekslere sahipse, onları kontrol et
+            if len(features) > 3:
+                land_size = features[3].text.strip()
+            if len(features) > 4:
+                land_size = features[4].text.strip()
+            
             # CSV dosyasına verileri yazma
             writer.writerow([address, price, rooms, living_area, land_size])
 
