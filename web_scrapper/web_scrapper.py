@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import csv
 import logging
 import requests
+import re  # For sanitizing the address to be used in a filename
 
 # Set up logging configuration
 logging.basicConfig(
@@ -10,13 +11,21 @@ logging.basicConfig(
     format='%(message)s',  # only message no time or date
 )
 
-def scrape_immowelt(url, output_csv, log_file):
+def sanitize_filename(name):
+    """
+    Sanitizes the given string to make it a valid filename.
+    """
+    # Remove any characters that are not allowed in filenames
+    return re.sub(r'[<>:"/\\|?*]', '', name).replace(" ", "_")
+
+def scrape_immowelt(url, output_dir, log_file):
     """
     Scrapes real estate listings from Immowelt.de based on the provided URL and saves the data to a CSV file.
+    The filename is dynamically created based on the first address listed.
 
     Args:
         url (str): The base URL of the Immowelt search page.
-        output_csv (str): Path where the output CSV will be saved.
+        output_dir (str): Directory path where the CSV file will be saved.
         log_file (str): Path where logs will be saved.
     """
     # Set up logging configuration
@@ -48,6 +57,14 @@ def scrape_immowelt(url, output_csv, log_file):
     total_records = 0
     unknown_count = 0
     unknown_rows = []
+
+    # Extract address from the first listing to create the file name
+    first_listing = soup.find("div", class_="css-79elbk")
+    first_address = first_listing.find("div", class_="css-ee7g92").text.strip() if first_listing else "Unknown"
+    safe_address = sanitize_filename(first_address)  # Clean the address for use in the filename
+
+    # Set the output CSV file path with the dynamic name
+    output_csv = f"{output_dir}\\{safe_address}_ads.csv"
 
     # Create and write to the CSV file
     with open(output_csv, mode='w', newline='', encoding='utf-8-sig') as file:
@@ -110,8 +127,8 @@ def scrape_immowelt(url, output_csv, log_file):
 
     logging.warning(f"Data has been successfully saved to '{output_csv}'.")
 
-# Example of how to call the function with different URLs
+# Example of how to call the function with different URLs and output directory
 base_url = "https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House,Apartment&locations=AD08DE5241"
-output_file = r"C:\Users\ahmty\Desktop\ads8.csv"
+output_directory = r"C:\Users\ahmty\Desktop"  # The directory where you want to save the CSV file
 log_file = r"C:\Users\ahmty\Desktop\web_scraper.log"
-scrape_immowelt(base_url, output_file, log_file)
+scrape_immowelt(base_url, output_directory, log_file)
