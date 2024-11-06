@@ -5,9 +5,9 @@ import requests
 
 # Set up logging configuration
 logging.basicConfig(
-    filename=r"C:\Users\ahmty\Desktop\web_scraper.log",  # Log dosyasının adı
-    level=logging.WARNING,  # Log seviyesi: Sadece WARNING ve daha yüksek seviyedeki loglar kaydedilecek
-    format='%(message)s',  # Sadece mesaj kısmı kaydedilecek
+    filename=r"C:\Users\ahmty\Desktop\web_scraper.log",  # Log file name
+    level=logging.WARNING,  # Log level: only high lever warnings will be saved
+    format='%(message)s',  # only message no time or date
 )
 
 # URL of the first page
