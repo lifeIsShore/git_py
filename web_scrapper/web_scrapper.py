@@ -6,8 +6,8 @@ import requests
 # Set up logging configuration
 logging.basicConfig(
     filename=r"C:\Users\ahmty\Desktop\web_scraper.log",  # Log dosyasının adı
-    level=logging.INFO,  # Log seviyesi
-    format='%(asctime)s - %(levelname)s - %(message)s',  # Log formatı
+    level=logging.WARNING,  # Log seviyesi: Sadece WARNING ve daha yüksek seviyedeki loglar kaydedilecek
+    format='%(message)s',  # Sadece mesaj kısmı kaydedilecek
 )
 
 # URL of the first page
@@ -46,13 +46,13 @@ with open(r"C:\Users\ahmty\Desktop\ads1.csv", mode='w', newline='', encoding='ut
 
     # Retrieve data from all pages
     for page in range(1, last_page_num + 1):
-        logging.info(f"Scraping page {page}...")  # Log the page number being scraped
+        # Log only the critical information
+        logging.warning(f"Scraping page {page}...")  # Log the page number being scraped
         response = requests.get(f"https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House,Apartment&locations=AD08DE5960&page={page}")
         soup = BeautifulSoup(response.text, "html.parser")
 
         # Extract listings from each page
         listings = soup.find_all("div", class_="css-79elbk")  # The <div> that contains each listing
-        #listings2 = soup.find_all("div", class_="css-79elbk")  # The <div> that contains each listing
 
         for listing in listings:
             address = listing.find("div", class_="css-ee7g92").text.strip() if listing.find("div", class_="css-ee7g92") else "Unknown"
@@ -66,11 +66,9 @@ with open(r"C:\Users\ahmty\Desktop\ads1.csv", mode='w', newline='', encoding='ut
             
             # Extract URL using 'css-xt08q3' class in a tag
             url = "Unknown"
-            for listing2 in listings:
-                link_tag = listing.find("a", class_="css-xt08q3")
-                if link_tag:
-                    url = link_tag['href']
-                    break
+            link_tag = listing.find("a", class_="css-xt08q3")
+            if link_tag:
+                url = link_tag['href']
 
             # Track unknown values
             unknowns = []
@@ -91,12 +89,14 @@ with open(r"C:\Users\ahmty\Desktop\ads1.csv", mode='w', newline='', encoding='ut
             writer.writerow([address, price, rooms, living_area, land_size, url])
             total_records += 1
 
-        logging.info(f"Finished scraping page {page}.")  # Log when a page has been scraped
+        # Log page completion only if there are issues
+        if page % 10 == 0:  # Example: Log every 10th page for better monitoring
+            logging.warning(f"Finished scraping page {page}.")
 
-# Log the final counts
-logging.info(f"Total records scraped: {total_records}")
-logging.info(f"Total unknown values found: {unknown_count}")
+# Log only the critical summary
+logging.warning(f"Total records scraped: {total_records}")
+logging.warning(f"Total unknown values found: {unknown_count}")
 for row in unknown_rows:
-    logging.info(f"Row {row[0]+1} has unknown values: {', '.join(row[1])}")
+    logging.warning(f"Row {row[0]+1} has unknown values: {', '.join(row[1])}")
 
-logging.info("Data has been successfully saved to 'ads.csv'.")  # Log when all data is saved
+logging.warning("Data has been successfully saved to 'ads.csv'.")  # Log when all data is saved
