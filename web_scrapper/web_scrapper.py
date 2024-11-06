@@ -11,7 +11,7 @@ logging.basicConfig(
 )
 
 # URL of the first page
-url = "https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House&locations=AD08DE5960&page=1&order=DateDesc"  
+url = "https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House&locations=AD08DE5960&page=1"  
 response = requests.get(url)
 soup = BeautifulSoup(response.text, "html.parser")
 
@@ -47,7 +47,7 @@ with open(r"C:\Users\ahmty\Desktop\ads.csv", mode='w', newline='', encoding='utf
     # Retrieve data from all pages
     for page in range(1, last_page_num + 1):
         logging.info(f"Scraping page {page}...")  # Log the page number being scraped
-        response = requests.get(f"https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House&locations=AD08DE5960&page={page}&order=DateDesc")
+        response = requests.get(f"https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House,Apartment&locations=AD08DE5960&page={page}")
         soup = BeautifulSoup(response.text, "html.parser")
 
         # Extract listings from each page
