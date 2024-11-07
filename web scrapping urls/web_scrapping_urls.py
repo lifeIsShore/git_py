@@ -5,13 +5,11 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+import threading
 
 # Zip kodlarının bulunduğu CSV dosyasının yolu
 input_csv = r"C:\Users\ahmty\Desktop\project sources\germany_cities_zipcodes2.csv"
 output_csv = r"C:\Users\ahmty\Desktop\project sources\immowelt_urls.csv"
-
-# WebDriver'ı başlat
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 # CSV dosyasından zip kodlarını oku
 zip_codes = pd.read_csv(input_csv)['ZipCode'].tolist()
@@ -20,12 +18,11 @@ zip_codes = pd.read_csv(input_csv)['ZipCode'].tolist()
 with open(output_csv, 'w', newline='', encoding='utf-8') as file:
     file.write("ZipCode,URL\n")
 
-# Her zip kodu için işlemi başlat
-for zip_code in zip_codes:
+# Web scraping işlemi için fonksiyon
+def scrape_zip_code(zip_code):
     try:
-        # Web sitesini kapatıp tekrar aç
-        driver.quit()
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))  # Yeni bir driver başlat
+        # WebDriver'ı başlat
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
         # Web sitesine git
         driver.get("https://www.immowelt.de/")
@@ -53,10 +50,25 @@ for zip_code in zip_codes:
 
         print(f"ZIP kodu {zip_code} için URL kaydedildi: {clean_url}")
 
+        driver.quit()
+
     except Exception as e:
         print(f"ZIP kodu {zip_code} için hata oluştu: {e}")
 
-# Tarayıcıyı kapat
-driver.quit()
+# Thread'ler için bir liste oluştur
+threads = []
+max_threads = 10  # Aynı anda çalışacak maksimum thread sayısı
 
-#need to run at least 4 loop at the same time
+# ZIP kodlarını işlerken paralel thread oluştur
+for i in range(0, len(zip_codes), max_threads):
+    current_batch = zip_codes[i:i+max_threads]  # Her batch 10 ZIP kodu olacak
+    for zip_code in current_batch:
+        thread = threading.Thread(target=scrape_zip_code, args=(zip_code,))
+        threads.append(thread)
+        thread.start()
+
+    # Batch'in tamamlanmasını bekle
+    for thread in threads[-len(current_batch):]:
+        thread.join()
+
+print("Scraping işlemi tamamlandı.")
