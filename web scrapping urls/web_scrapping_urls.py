@@ -57,11 +57,11 @@ def scrape_zip_code(zip_code):
 
 # Thread'ler için bir liste oluştur
 threads = []
-max_threads = 4  # Aynı anda çalışacak maksimum thread sayısı
+max_threads = 5  # Aynı anda çalışacak maksimum thread sayısı
 
 # ZIP kodlarını işlerken paralel thread oluştur
 for i in range(0, len(zip_codes), max_threads):
-    current_batch = zip_codes[i:i+max_threads]  # Her batch 4 ZIP kodu olacak
+    current_batch = zip_codes[i:i+max_threads]  # Her batch 5 ZIP kodu olacak
     for zip_code in current_batch:
         thread = threading.Thread(target=scrape_zip_code, args=(zip_code,))
         threads.append(thread)
