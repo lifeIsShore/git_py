@@ -7,61 +7,61 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import threading
 
-# Zip kodlarının bulunduğu CSV dosyasının yolu
+# find the path
 input_csv = r"C:\Users\ahmty\Desktop\project sources\germany_cities_zipcodes2.csv"
 output_csv = r"C:\Users\ahmty\Desktop\project sources\immowelt_urls.csv"
 
-# CSV dosyasından zip kodlarını oku
+# read from csv
 zip_codes = pd.read_csv(input_csv)['ZipCode'].tolist()
 
-# Yeni CSV dosyasına başlık yaz
+# write a headline for the .csv (dynamic)
 with open(output_csv, 'w', newline='', encoding='utf-8') as file:
     file.write("ZipCode,URL\n")
 
-# Web scraping işlemi için fonksiyon
+# Web scraping function
 def scrape_zip_code(zip_code):
     try:
-        # WebDriver'ı başlat
+        # start WebDriver
         driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
-        # Web sitesine git
+        # go to the Web
         driver.get("https://www.immowelt.de/")
 
-        # ZIP kodu input elementini bul ve ZIP kodunu gir
+        # find input elemetn and type zip
         input_field = driver.find_element(By.CSS_SELECTOR, "input[aria-label='Ort oder Postleitzahl eingeben']")
-        input_field.clear()  # Önceden girilen değerleri temizle
+        input_field.clear()  # clean last value
         input_field.send_keys(zip_code)
 
-        # Enter'a basmadan önce birkaç saniye bekle
-        time.sleep(2)  # 2 saniye bekle, gerekirse artırabilirsiniz
-        input_field.send_keys(Keys.RETURN)  # Enter'a bas
+        # wait before click enter
+        time.sleep(2)  # 2 seconds before action 
+        input_field.send_keys(Keys.RETURN)  # click enter
 
-        # Sayfanın yüklenmesi için bekle
-        time.sleep(3)  # Sayfanın tam olarak yüklenmesini sağlamak için
+        # wait for the page reload
+        time.sleep(3)  # ... second wait
 
-        # Yeni URL'yi al
+        # take new url
         current_url = driver.current_url
-        # URL'yi istenen şekilde düzenle (parametre kısmını kaldır)
+        # URL cleansing (trim after &order) 
         clean_url = current_url.split("&order")[0]
 
-        # URL'yi ve ZIP kodunu yeni CSV dosyasına kaydet
+        # save URLs to .csv
         with open(output_csv, 'a', newline='', encoding='utf-8') as file:
             file.write(f"{zip_code},{clean_url}\n")
 
-        print(f"ZIP kodu {zip_code} için URL kaydedildi: {clean_url}")
+        print(f"ZIP code {zip_code}, URL is saved: {clean_url}")
 
         driver.quit()
 
     except Exception as e:
-        print(f"ZIP kodu {zip_code} için hata oluştu: {e}")
+        print(f"Error occured for {zip_code} zip code: {e}")
 
-# Thread'ler için bir liste oluştur
+# list for Thread
 threads = []
-max_threads = 10  # Aynı anda çalışacak maksimum thread sayısı
+max_threads = 10  # max thread that work at the same time
 
-# ZIP kodlarını işlerken paralel thread oluştur
+# create parallel threads
 for i in range(0, len(zip_codes), max_threads):
-    current_batch = zip_codes[i:i+max_threads]  # Her batch 10 ZIP kodu olacak
+    current_batch = zip_codes[i:i+max_threads]  # every batch 10 ZIP code
     for zip_code in current_batch:
         thread = threading.Thread(target=scrape_zip_code, args=(zip_code,))
         threads.append(thread)
@@ -71,4 +71,4 @@ for i in range(0, len(zip_codes), max_threads):
     for thread in threads[-len(current_batch):]:
         thread.join()
 
-print("Scraping işlemi tamamlandı.")
+print("Scraping is done.")
