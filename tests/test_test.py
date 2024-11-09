@@ -1,4 +1,4 @@
-from geo_score import score_address
+from scoring.geospatial_scoring.geo_score import score_address
 
 address = "Yıldırım Beyazıt, 38030 Melikgazi/Kayseri, Türkiye"
 score = score_address(address)
