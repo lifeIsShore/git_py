@@ -13,7 +13,7 @@ def process_urls_from_csv(input_csv, output_dir):
     with open(input_csv, mode='r', newline='', encoding='utf-8-sig') as file:
         reader = csv.reader(file)
         for row in reader:
-            url = row[0]  # Assuming URL is in the first column
+            url = row[-1]  # URL is assumed to be in the last column
             print(f"Processing URL: {url}")
             try:
                 scrape_immowelt(url, output_dir)
@@ -25,7 +25,7 @@ def process_urls_from_csv(input_csv, output_dir):
     print("Finished processing all URLs.")
 
 # CSV dosyasının konumu ve çıktı klasörünün yolu
-input_csv = r"C:\Users\ahmty\Desktop\Python\geo_DSproject_github_clone\git_py\csv_input\immowelt_urls_copy (used in web scraping).csv"
+input_csv = r"C:\Users\ahmty\Desktop\Python\geo_DSproject_github_clone\git_py\csv_input\cities will be taken place in calculaion.csv"
 output_dir = r"C:\Users\ahmty\Desktop\Python\geo_DSproject_github_clone\git_py\csv_output\web_scraping"
 
 # URL'leri işleme
