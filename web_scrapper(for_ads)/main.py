@@ -21,9 +21,12 @@ def process_urls_from_csv(input_csv, output_dir):
             except Exception as e:
                 print(f"Error processing URL {url}: {e}")
 
+    # Print message when all URLs have been processed
+    print("Finished processing all URLs.")
+
 # CSV dosyasının konumu ve çıktı klasörünün yolu
-input_csv = r"C:\Users\ahmty\Desktop\cities will be taken place in calculation.csv"
-output_dir = r"C:\Users\ahmty\Desktop\web_scraping"
+input_csv = r"C:\Users\ahmty\Desktop\Python\geo_DSproject_github_clone\git_py\csv_input\immowelt_urls_copy (used in web scraping).csv"
+output_dir = r"C:\Users\ahmty\Desktop\Python\geo_DSproject_github_clone\git_py\csv_output\web_scraping"
 
 # URL'leri işleme
 process_urls_from_csv(input_csv, output_dir)
