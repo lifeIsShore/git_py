@@ -25,7 +25,7 @@ def process_urls_from_csv(input_csv, output_dir):
     print("Finished processing all URLs.")
 
 # CSV dosyasının konumu ve çıktı klasörünün yolu
-input_csv = r"C:\Users\ahmty\Desktop\Python\geo_DSproject_github_clone\git_py\csv_input\cities will be taken place in calculaion.csv"
+input_csv = r"C:\Users\ahmty\Desktop\Python\geo_DSproject_github_clone\git_py\csv_input\immowelt_urls_copy (used in web scraping).csv"
 output_dir = r"C:\Users\ahmty\Desktop\Python\geo_DSproject_github_clone\git_py\csv_output\web_scraping"
 
 # URL'leri işleme
