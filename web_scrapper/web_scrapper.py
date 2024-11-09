@@ -128,5 +128,5 @@ def scrape_immowelt(url, output_dir):
 
 # Example of how to call the function with different URLs and output directory
 base_url = "https://www.immowelt.de/classified-search?distributionTypes=Buy,Buy_Auction,Compulsory_Auction&estateTypes=House,Apartment&locations=AD08DE5960"
-output_directory = r"C:\Users\ahmty\Desktop"  # The directory where you want to save the CSV and log files
+output_directory = r"C:\Users\ahmty\Desktop\web_scraping"  # The directory where you want to save the CSV and log files
 scrape_immowelt(base_url, output_directory)
