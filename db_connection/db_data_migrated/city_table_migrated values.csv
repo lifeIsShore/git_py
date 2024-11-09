@@ -1,0 +1,5802 @@
+city_ID;City_name;population
+1;Körner, Weinbergen;0
+2;Menteroda, Obermehler;0
+3;Schlotheim;0
+4;Großengottern, Heroldishausen;0
+5;Südeichsfeld;0
+6;Vogtei, Kammerforst u.a.;0
+7;Rodeberg, Dünwald u.a.;0
+8;Mühlhausen, Unstruttal;0
+9;Großvargula, Tonna;0
+10;Bad Tennstedt;0
+11;Bad Langensalza;0
+12;Tambach-Dietharz/ Thür.;0
+13;Leinatal;0
+14;Tabarz/ Thür. Wald;0
+15;Georgenthal/ Thür. Wald;0
+16;Luisenthal, Ohrdruf, Wolfis;0
+17;Waltershausen;0
+18;Drei Gleichen;0
+19;Gotha;46615
+20;Wutha-Farnroda;0
+21;Seebach;0
+22;Ruhla;0
+23;Berka/ Werra;0
+24;Gerstungen;0
+25;Creuzburg;0
+26;Treffurt/Ifta;0
+27;Mihla;0
+28;Hörselberg-Hainich;0
+29;Marksuhl, Krauthausen u.a.;0
+30;Harztor;0
+31;Heringen/ Helme;0
+32;Sollstedt;0
+33;Ellrich;0
+34;Bleicherode;0
+35;Werther Hohenstein Wolkramshausen;0
+36;Nordhausen;43912
+37;Greußen Clingen Großenehrich;0
+38;Ebeleben;0
+39;Kyffhäuserland;0
+40;Sondershausen;0
+41;Rastenberg;0
+42;Straußfurt;0
+43;Weißensee;0
+44;Buttstädt, Großbrembach, Kleinbrembach;0
+45;Kölleda;0
+46;Sömmerda;0
+47;Bad Sulza;0
+48;Apolda;0
+49;Kranichfeld u.a.;0
+50;Blankenhain;0
+51;Lehnstedt u.a.;0
+52;Berlstedt;0
+53;Bad Berka u.a.;0
+54;Weimar;64727
+55;Arnstadt;0
+56;Elleben, Wachsenburg;0
+57;Gräfenroda;0
+58;Stadtilm, Ilmtal;0
+59;Udestedt, Mönchenholzhausen u.a.;0
+60;Großrudestedt, Schloßvippach u.a.;0
+61;Nesse-Apfelstädt, Nottleben;0
+62;Gebesee;0
+63;Rockhausen, Klettbach;0
+64;Großfahner, Dachwig u.a.;0
+65;Erfurt;203254
+66;Katzhütte;0
+67;Oberweißbach u.a.;0
+68;Gräfenthal;0
+69;Neuhaus am Rennweg, Lauscha;0
+70;Geschwenda;0
+71;Suhl;43509
+72;Großbreitenbach;0
+73;Ilmenau;0
+74;Eisfeld, Auengrund;0
+75;Veilsdorf;0
+76;Schleusegrund;0
+77;Biberau, Masserberg;0
+78;Bad Colberg-Heldburg;0
+79;Themar;0
+80;Hildburghausen;0
+81;Walldorf;0
+82;Wasungen;0
+83;Grabfeld;0
+84;Römhild;0
+85;Meiningen;0
+86;Breitungen/Werra;0
+87;Brotterode-Trusetal;0
+88;Floh-Seligenthal;0
+89;Schwallungen;0
+90;Steinbach-Hallenberg;0
+91;Schmalkalden;0
+92;Oberhof;0
+93;Benshausen;0
+94;Schleusingen u.a.;0
+95;Viernau u.a.;0
+96;Zella-Mehlis;0
+97;Suhl, Marisfeld, Rohr u.a.;0
+98;Igersheim;0
+99;Niederstetten;0
+100;Weikersheim;0
+101;Bad Mergentheim;0
+102;Assamstadt;0
+103;Wittighausen;0
+104;Werbach;0
+105;Königheim;0
+106;Großrinderfeld;0
+107;Grünsfeld;0
+108;Boxberg;0
+109;Tauberbischofsheim;0
+110;Lauda-Königshofen;0
+111;Stadtprozelten;0
+112;Hasloch;0
+113;Faulbach;0
+114;Dorfprozelten;0
+115;Collenberg;0
+116;Altenbuch;0
+117;Külsheim;0
+118;Freudenberg, Collenberg;0
+119;Kreuzwertheim;0
+120;Wertheim;0
+121;Wiesthal;0
+122;Urspringen;0
+123;Triefenstein;0
+124;Steinfeld;0
+125;Schollbrunn;0
+126;Rothenfels;0
+127;Roden;0
+128;Rechtenbach;0
+129;Partenstein;0
+130;Neustadt a. Main;0
+131;Neuhütten;0
+132;Karbach;0
+133;Hafenlohr, Rothenbuch;0
+134;Esselbach;0
+135;Erlenbach b. Marktheidenfeld;0
+136;Bischbrunn;0
+137;Birkenfeld;0
+138;Frammersbach;0
+139;Marktheidenfeld;0
+140;Zeitlofs;0
+141;Wartmannsroth;0
+142;Schondra;0
+143;Rieneck;0
+144;Riedenberg;0
+145;Obersinn;0
+146;Oberleichtersbach;0
+147;Neuendorf;0
+148;Motten;0
+149;Mittelsinn;0
+150;Karsbach;0
+151;Gräfendorf;0
+152;Gössenheim;0
+153;Geroda;0
+154;Fellen;0
+155;Eußenheim;0
+156;Burgsinn;0
+157;Aura i. Sinngrund;0
+158;Wildflecken;0
+159;Bad Brückenau;0
+160;Karlstadt;0
+161;Gemünden a. Main;0
+162;Ramsthal;0
+163;Fuchsstadt;0
+164;Elfershausen;0
+165;Burglauer;0
+166;Oberthulba;0
+167;Nüdlingen;0
+168;Euerdorf;0
+169;Oerlenbach;0
+170;Maßbach;0
+171;Bad Bocklet;0
+172;Burkardroth;0
+173;Münnerstadt;0
+174;Bad Kissingen;0
+175;Schönau a.d. Brend;0
+176;Sandberg;0
+177;Oberelsbach;0
+178;Bastheim;0
+179;Bischofsheim a.d. Rhön;0
+180;Fladungen;0
+181;Nordheim v.d. Rhön;0
+182;Ostheim v.d. Rhön;0
+183;Oberstreu;0
+184;Mellrichstadt;0
+185;Bad Königshofen i. Grabfeld;0
+186;Hohenroth;0
+187;Bad Neustadt an der Saale;0
+188;Wonfurt;0
+189;Wipfeld;0
+190;Wasserlosen;0
+191;Waigolshausen;0
+192;Üchtelhausen;0
+193;Theres;0
+194;Sulzheim;0
+195;Sulzdorf a.d. Lederhecke;0
+196;Sennfeld;0
+197;Schwebheim;0
+198;Schwanfeld;0
+199;Sand a. Main;0
+200;Röthlein;0
+201;Riedbach;0
+202;Rannungen;0
+203;Oberschwarzach;0
+204;Oberaurach;0
+205;Michelau i. Steigerwald, Hundelshausen;0
+206;Lülsfeld;0
+207;Kolitzheim;0
+208;Grettstadt;0
+209;Grafenrheinfeld;0
+210;Geldersheim;0
+211;Gädheim;0
+212;Euerbach;0
+213;Ebelsbach;0
+214;Donnersdorf;0
+215;Dingolshausen;0
+216;Burgpreppach;0
+217;Bundorf;0
+218;Bergrheinfeld;0
+219;Aidhausen;0
+220;Poppenhausen;0
+221;Stadtlauringen;0
+222;Königsberg i. Bay.;0
+223;Eltmann;0
+224;Knetzgau;0
+225;Zeil a. Main;0
+226;Gochsheim;0
+227;Niederwerrn;0
+228;Hofheim i. UFr.;0
+229;Dittelbrunn;0
+230;Schonungen;0
+231;Arnstein;0
+232;Gerolzhofen;0
+233;Werneck;0
+234;Haßfurt;0
+235;Schweinfurt;54012
+236;Schwarzach a. Main;0
+237;Prichsenstadt;0
+238;Kleinlangheim;0
+239;Wiesentheid;0
+240;Mainbernheim;0
+241;Rödelsee;0
+242;Iphofen;0
+243;Obernbreit;0
+244;Marktbreit;0
+245;Dettelbach;0
+246;Sommerach;0
+247;Volkach;0
+248;Albertshofen;0
+249;Kitzingen;0
+250;Zell a. Main;0
+251;Waldbüttelbrunn;0
+252;Waldbrunn, Irtenberger Wald;0
+253;Unterpleichfeld;0
+254;Üttingen, Holzkirchen;0
+255;Thüngershem;0
+256;Thüngen;0
+257;Theilheim;0
+258;Winterhausen;0
+259;Röttingen, Tauberrettersheim;0
+260;Riedenheim;0
+261;Retzstadt;0
+262;Remlingen;0
+263;Prosselsheim;0
+264;Neubrunn;0
+265;Margetshöchheim;0
+266;Leinach;0
+267;Kürnach;0
+268;Kleinrinderfeld;0
+269;Kist, Irtenberger Wald;0
+270;Kirchheim;0
+271;Himmelstadt;0
+272;Hettstadt;0
+273;Helmstadt;0
+274;Hausen b. Würzburg;0
+275;Güntersleben;0
+276;Greußenheim;0
+277;Ippesheim;0
+278;Geroldshausen;0
+279;Gelchsheim, Sonderhofen;0
+280;Gaukönigshofen;0
+281;Frickenhausen;0
+282;Erlabrunn;0
+283;Eisenheim;0
+284;Eibelstadt;0
+285;Bütthard;0
+286;Bieberehren;0
+287;Bergtheim, Oberpleichfeld;0
+288;Aub;0
+289;Altertheim;0
+290;Randersacker;0
+291;Reichenberg, Guttenberger Wald;0
+292;Giebelstadt;0
+293;Estenfeld;0
+294;Rottendorf;0
+295;Zellingen;0
+296;Rimpar;0
+297;Gerbrunn;0
+298;Uffenheim;0
+299;Veitshöchheim;0
+300;Höchberg;0
+301;Ochsenfurt;0
+302;Würzburg;0
+303;Frankenblick, Schalkau, Bachfeld;0
+304;Neuhaus-Schierschnitz, Judenbach;0
+305;Steinach;0
+306;Sonneberg;0
+307;Niederfüllbach;0
+308;Dörfles-Esbach;0
+309;Lautertal;0
+310;Meeder;0
+311;Ahorn;0
+312;Weitramsdorf;0
+313;Rodach b. Coburg;0
+314;Rödental;0
+315;Neustadt b. Coburg;0
+316;Coburg;41901
+317;Weißenbrunn;0
+318;Tschirn;0
+319;Nordhalben;0
+320;Marktrodach;0
+321;Steinbach a. Wald;0
+322;Teuschnitz;0
+323;Tettau;0
+324;Wilhelmsthal;0
+325;Steinwiesen;0
+326;Wallenfels;0
+327;Stockheim;0
+328;Ludwigsstadt;0
+329;Pressig;0
+330;Küps;0
+331;Kronach;0
+332;Weidhausen b. Coburg;0
+333;Schneckenlohe;0
+334;Marktzeuln;0
+335;Itzgrund;0
+336;Hochstadt a. Main;0
+337;Grub a. Forst;0
+338;Großheirath;0
+339;Mitwitz;0
+340;Altenkunstadt;0
+341;Redwitz a.d. Rodach;0
+342;Untersiemau;0
+343;Ebensfeld;0
+344;Michelau i. OFr.;0
+345;Sonnefeld;0
+346;Ebersdorf b. Coburg;0
+347;Burgkunstadt;0
+348;Zapfendorf;0
+349;Wonsees;0
+350;Wattendorf;0
+351;Walsdorf;0
+352;Wachenroth;0
+353;Viereth-Trunstadt;0
+354;Untermerzbach;0
+355;Stettfeld;0
+356;Stadelhofen;0
+357;Schönbrunn i. Steigerwald;0
+358;Rentweinsdorf;0
+359;Reckendorf;0
+360;Rauhenebrach;0
+361;Rattelsdorf;0
+362;Pommersfelden;0
+363;Pfarrweisach;0
+364;Pettstadt;0
+365;Oberhaid;0
+366;Mühlhausen;0
+367;Lisberg;0
+368;Lauter;0
+369;Königsfeld;0
+370;Kirchlauter;0
+371;Kemmern;0
+372;Gundelsheim;0
+373;Gerach;0
+374;Geiselwind;0
+375;Frensdorf;0
+376;Ebrach;0
+377;Buttenheim;0
+378;Burgwindheim;0
+379;Burghaslach;0
+380;Breitbrunn;0
+381;Breitengüßbach;0
+382;Baunach;0
+383;Altendorf;0
+384;Seßlach;0
+385;Burgebrach;0
+386;Stegaurach;0
+387;Schlüsselfeld;0
+388;Strullendorf;0
+389;Maroldsweisach;0
+390;Litzendorf;0
+391;Bischberg;0
+392;Memmelsdorf;0
+393;Hirschaid;0
+394;Scheßlitz;0
+395;Ebern;0
+396;Hallstadt;0
+397;Bamberg;70047
+398;Tröstau;0
+399;Thiersheim;0
+400;Schirnding;0
+401;Plößberg;0
+402;Pechbrunn;0
+403;Neusorg;0
+404;Neualbenreuth;0
+405;Nagel;0
+406;Mähring;0
+407;Konnersreuth;0
+408;Hohenberg a.d. Eger;0
+409;Fuchsmühl;0
+410;Friedenfels;0
+411;Fichtelberg;0
+412;Falkenberg;0
+413;Ebnath;0
+414;Brand;0
+415;Bad Alexandersbad;0
+416;Wiesau;0
+417;Bärnau;0
+418;Mitterteich;0
+419;Arzberg;0
+420;Marktredwitz;0
+421;Vorbach;0
+422;Emtmannsberg;0
+423;Plankenfels;0
+424;Neustadt a. Kulm;0
+425;Neudrossenfeld;0
+426;Mistelbach;0
+427;Marktschorgast;0
+428;Kulmain;0
+429;Kastl;0
+430;Immenreuth;0
+431;Hummeltal;0
+432;Himmelkron;0
+433;Heinersreuth;0
+434;Harsdorf;0
+435;Goldkronach;0
+436;Glashütten;0
+437;Gesees;0
+438;Bischofsgrün;0
+439;Mistelgau;0
+440;Eckersdorf;0
+441;Warmensteinach;0
+442;Gefrees;0
+443;Kemnath;0
+444;Speichersdorf;0
+445;Bindlach;0
+446;Bad Berneck im Fichtelgebirge;0
+447;Bayreuth;75061
+448;Untersteinach;0
+449;Trebgast;0
+450;Rugendorf;0
+451;Ludwigschorgast;0
+452;Kupferberg;0
+453;Ködnitz;0
+454;Kasendorf;0
+455;Guttenberg;0
+456;Grafengehaig;0
+457;Presseck;0
+458;Marktleugast;0
+459;Stadtsteinach;0
+460;Neuenmarkt;0
+461;Mainleus;0
+462;Zell;0
+463;Stammbach;0
+464;Sparneck;0
+465;Münchberg;0
+466;Thierstein;0
+467;Röslau;0
+468;Regnitzlosau;0
+469;Lichtenberg;0
+470;Leupoldsgrün;0
+471;Köditz;0
+472;Issigau;0
+473;Höchstädt;0
+474;Gattendorf;0
+475;Feilitzsch;0
+476;Döhlau;0
+477;Berg;0
+478;Geroldsgrün;0
+479;Konradsreuth;0
+480;Schönwald;0
+481;Marktleuthen;0
+482;Weißenstadt;0
+483;Kirchenlamitz;0
+484;Selbitz;0
+485;Oberkotzau;0
+486;Bad Steben;0
+487;Schwarzenbach a. Wald;0
+488;Schwarzenbach a.d. Saale;0
+489;Naila;0
+490;Hof;49239
+491;Zenting;0
+492;Winzer;0
+493;Windorf;0
+494;Wallerfing;0
+495;Schöfweg;0
+496;Schaufling;0
+497;Stephansposching;0
+498;Sankt Oswald;0
+499;Riedlhütte;0
+500;Otzing;0
+501;Oberpöring;0
+502;Offenberg;0
+503;Niederwinkling;0
+504;Niederalteich;0
+505;Neuschönau;0
+506;Moos;0
+507;Mariaposching;0
+508;Lalling;0
+509;Künzing;0
+510;Innernzell;0
+511;Iggensbach;0
+512;Hohenau;0
+513;Hofkirchen;0
+514;Haarbach;0
+515;Grattersdorf;0
+516;Grafling;0
+517;Fürstenstein;0
+518;Eppenschlag;0
+519;Eging a. See;0
+520;Buchhofen;0
+521;Außernzell;0
+522;Auerbach;0
+523;Aicha vorm Wald;0
+524;Aholming;0
+525;Metten;0
+526;Wallersdorf;0
+527;Spiegelau;0
+528;Schönberg;0
+529;Schöllnach;0
+530;Bernried;0
+531;Ortenburg;0
+532;Hengersberg;0
+533;Osterhofen;0
+534;Grafenau;0
+535;Deggendorf;0
+536;Plattling;0
+537;Roßbach;0
+538;Mamming;0
+539;Simbach;0
+540;Pilsting;0
+541;Eichendorf;0
+542;Arnstorf;0
+543;Landau a.d. Isar;0
+544;Sankt Englmar;0
+545;Stallwang;0
+546;Schwarzach;0
+547;Rattiszell;0
+548;Rattenberg;0
+549;Rain;0
+550;Perkam;0
+551;Perasdorf;0
+552;Parkstetten;0
+553;Oberschneiding;0
+554;Neukirchen;0
+555;Mitterfels;0
+556;Loitzendorf;0
+557;Konzell;0
+558;Kirchroth;0
+559;Haselbach;0
+560;Haibach;0
+561;Feldkirchen;0
+562;Falkenfels;0
+563;Atting;0
+564;Ascha;0
+565;Aholfing;0
+566;Straßkirchen;0
+567;Leiblfing;0
+568;Hunderdorf;0
+569;Geiselhöring;0
+570;Aiterhofen;0
+571;Bogen;0
+572;Straubing;44580
+573;Rinchnach;0
+574;Prackenbach;0
+575;Patersdorf;0
+576;Langdorf;0
+577;Kollnburg;0
+578;Kirchdorf i. Wald;0
+579;Kirchberg;0
+580;Frauenau;0
+581;Drachselsried;0
+582;Böbrach;0
+583;Bischofsmais;0
+584;Bayerisch Eisenstein;0
+585;Achslach;0
+586;Bodenmais;0
+587;Teisnach;0
+588;Zachenberg;0
+589;Viechtach;0
+590;Thurmansbang;0
+591;Tettenweis;0
+592;Stubenberg;0
+593;Sonnen;0
+594;Saldenburg;0
+595;Ruderting;0
+596;Ringelai;0
+597;Philippsreut;0
+598;Perlesreut;0
+599;Neukirchen vorm Wald;0
+600;Neuhaus a. Inn;0
+601;Kößlarn;0
+602;Kirchham;0
+603;Hinterschmiding;0
+604;Grainet;0
+605;Fürsteneck;0
+606;Ering;0
+607;Bayerbach;0
+608;Thyrnau;0
+609;Röhrnbach;0
+610;Obernzell;0
+611;Neuburg a. Inn;0
+612;Büchlberg;0
+613;Salzweg;0
+614;Jandelsbrunn;0
+615;Hutthurm;0
+616;Tiefenbach;0
+617;Tittling;0
+618;Ruhstorf a.d. Rott;0
+619;Rotthalmünster;0
+620;Neureichenau;0
+621;Griesbach i. Rottal;0
+622;Fürstenzell;0
+623;Freyung;0
+624;Bad Füssing;0
+625;Waldkirchen;0
+626;Pocking;0
+627;Hauzenberg;0
+628;Passau;50560
+629;Zandt;0
+630;Willmering;0
+631;Weiding;0
+632;Waffenbrunn;0
+633;Treffelstein;0
+634;Stamsried;0
+635;Schorndorf;39697
+636;Schönthal;0
+637;Runding;0
+638;Rimbach;0
+639;Pösing;0
+640;Pemfling;0
+641;Hohenwarth;0
+642;Grafenwiesen;0
+643;Gleißenberg;0
+644;Blaibach;0
+645;Arrach;0
+646;Arnschwang;0
+647;Arnbruck;0
+648;Lohberg;0
+649;Miltach;0
+650;Chamerau;0
+651;Lam;0
+652;Eschlkam;0
+653;Traitsching;0
+654;Neukirchen b. Hl. Blut;0
+655;Waldmünchen;0
+656;Kötzting;0
+657;Furth i. Wald;0
+658;Roding;0
+659;Wildenberg;0
+660;Train;0
+661;Teugn;0
+662;Siegenburg;0
+663;Rohr i. NB;0
+664;Painten;0
+665;Mindelstetten;0
+666;Kirchdorf;0
+667;Ihrlerstein;0
+668;Hausen;0
+669;Essing;0
+670;Saal a.d. Donau;0
+671;Riedenburg;0
+672;Altmannstein;0
+673;Neustadt a.d. Donau;0
+674;Abensberg;0
+675;Zeitlarn;0
+676;Wolfsegg;0
+677;Walderbach;0
+678;Wald;0
+679;Rettenbach;0
+680;Reichenbach;0
+681;Pielenhofen;0
+682;Pettendorf;0
+683;Michelsneukirchen;0
+684;Kallmünz;0
+685;Duggendorf;0
+686;Deuerling;0
+687;Brennberg;0
+688;Altenthann;0
+689;Beratzhausen;0
+690;Wenzenbach;0
+691;Laaber, Brunn;0
+692;Sinzing;0
+693;Teublitz;0
+694;Hemau;0
+695;Nittendorf;0
+696;Maxhütte-Haidhof;0
+697;Lappersdorf;0
+698;Burglengenfeld;0
+699;Wiesent;0
+700;Thalmassing;0
+701;Tegernheim;0
+702;Sünching;0
+703;Pfatter;0
+704;Pfakofen;0
+705;Mötzing;0
+706;Mintraching;0
+707;Köfering;0
+708;Hagelstadt;0
+709;Donaustauf;0
+710;Barbing;0
+711;Bach an der Donau;0
+712;Aufhausen;0
+713;Alteglofsheim;0
+714;Wörth an der Donau;0
+715;Obertraubling;0
+716;Pentling;0
+717;Bad Abbach;0
+718;Neutraubling;0
+719;Regensburg;129151
+720;Weiherhammer;0
+721;Waldthurn;0
+722;Trabitz;0
+723;Tännesberg;0
+724;Störnstein;0
+725;Schwarzenbach;0
+726;Schirmitz;0
+727;Reuth b. Erbendorf;0
+728;Püchersreuth;0
+729;Pleystein;0
+730;Pirk;0
+731;Parkstein;0
+732;Moosbach;0
+733;Mantel;0
+734;Luhe-Wildenau;0
+735;Leuchtenberg;0
+736;Krummennaab;0
+737;Kohlberg;0
+738;Kaltenbrunn;0
+739;Bechtsried;0
+740;Georgenberg;0
+741;Flossenbürg;0
+742;Etzenricht;0
+743;Eslarn;0
+744;Pressath;0
+745;Floß;0
+746;Erbendorf;0
+747;Windischeschenbach;0
+748;Altenstadt a.d. Waldnaab;0
+749;Neustadt a.d. Waldnaab;0
+750;Vohenstrauß;0
+751;Winklarn;0
+752;Trausnitz;0
+753;Thanstein;0
+754;Teunz;0
+755;Stulln;0
+756;Stadlern;0
+757;Schwarzach b. Nabburg;0
+758;Schmidgaden;0
+759;Niedermurach;0
+760;Guteneck;0
+761;Dieterskirchen;0
+762;Schönsee;0
+763;Pfreimd;0
+764;Wernberg-Köblitz;0
+765;Oberviechtach;0
+766;Schwarzenfeld;0
+767;Nabburg;0
+768;Steinberg;0
+769;Schwarzhofen;0
+770;Neukirchen-Balbini;0
+771;Rötz;0
+772;Wackersdorf;0
+773;Bodenwöhr;0
+774;Bruck i.d. OPf.;0
+775;Sengenthal;0
+776;Pilsach;0
+777;Hohenfels;0
+778;Deining;0
+779;Breitenbrunn;0
+780;Berngau;0
+781;Seubersdorf i.d. OPf.;0
+782;Postbauer-Heng;0
+783;Berg b.Neumarkt i.d.OPf.;0
+784;Dietfurt a.d. Altmühl;0
+785;Freystadt;0
+786;Beilngries;0
+787;Parsberg;0
+788;Neumarkt i.d. OPf.;0
+789;Schmidmühlen;0
+790;Rieden;0
+791;Poppenricht;0
+792;Lauterhofen;0
+793;Königstein;0
+794;Illschwang;0
+795;Hohenburg;0
+796;Hirschbach;0
+797;Gebenbach;0
+798;Freudenberg;0
+799;Freihung;0
+800;Fensterbach;0
+801;Etzelwang;0
+802;Ensdorf;0
+803;Edelsfeld;0
+804;Ebermannsdorf;0
+805;Birgland;0
+806;Ammerthal;0
+807;Neukirchen b. Sulzbach-Rosen;0
+808;Hahnbach;0
+809;Schnaittenbach;0
+810;Vilseck;0
+811;Kümmersbruck;0
+812;Hirschau;0
+813;Sulzbach-Rosenberg;0
+814;Amberg;44737
+815;Wellheim;0
+816;Solnhofen;0
+817;Polsingen;0
+818;Mörnsheim;0
+819;Meinheim;0
+820;Markt Berolzheim;0
+821;Langenaltheim;0
+822;Höttingen;0
+823;Ettenstatt;0
+824;Dollnstein;0
+825;Alesheim;0
+826;Ellingen;0
+827;Nennslingen;0
+828;Pappenheim;0
+829;Pleinfeld;0
+830;Weißenburg i. Bay.;0
+831;Wittelshofen;0
+832;Westheim;0
+833;Weidenbach;0
+834;Weiltingen;0
+835;Unterschwaningen;0
+836;Theilenhofen;0
+837;Röckingen;0
+838;Pfofeld;0
+839;Ornbau;0
+840;Muhr a. See;0
+841;Mitteleschenbach;0
+842;Merkendorf;0
+843;Langfurth;0
+844;Haundorf;0
+845;Gnotzheim;0
+846;Gerolfingen;0
+847;Ehingen;0
+848;Dittenheim;0
+849;Arberg;0
+850;Absberg;0
+851;Heidenheim;0
+852;Wassertrüdingen;0
+853;Gunzenhausen;0
+854;Wolframs-Eschenbach;0
+855;Wörnitz;0
+856;Windelsbach;0
+857;Wilburgstetten;0
+858;Wieseth;0
+859;Wettringen;0
+860;Weihenzell;0
+861;Steinsfeld;0
+862;Schopfloch;0
+863;Schnelldorf;0
+864;Sachsen b. Ansbach;0
+865;Rügland;0
+866;Ohrenbach;0
+867;Obernzenn;0
+868;Oberdachstetten;0
+869;Neusitz;0
+870;Mönchsroth;0
+871;Marktbergel;0
+872;Lehrberg;0
+873;Insingen;0
+874;Geslau;0
+875;Gebsattel;0
+876;Gallmersgarten;0
+877;Flachslanden;0
+878;Dürrwangen;0
+879;Dombühl;0
+880;Dentlein a. Forst;0
+881;Colmberg;0
+882;Burk;0
+883;Burgoberbach;0
+884;Burgbernheim;0
+885;Buch a. Wald;0
+886;Bruckberg;0
+887;Aurach;0
+888;Adelshofen;0
+889;Lichtenau;0
+890;Schillingsfürst;0
+891;Petersaurach;0
+892;Leutershausen;0
+893;Windsbach;0
+894;Bechhofen;0
+895;Herrieden;0
+896;Neuendettelsau;0
+897;Heilsbronn;0
+898;Rothenburg ob der Tauber;0
+899;Ansbach;0
+900;Wilhelmsdorf;0
+901;Vestenbergsgreuth;0
+902;Uehlfeld;0
+903;Sugenheim;0
+904;Oberscheinfeld;0
+905;Münchsteinach;0
+906;Markt Taschendorf;0
+907;Markt Nordheim;0
+908;Markt Bibart;0
+909;Lonnerstadt;0
+910;Langenfeld;59378
+911;Ipsheim;0
+912;Illesheim;0
+913;Hagenbüchach;0
+914;Gutenstetten;0
+915;Gerhardshofen;0
+916;Ergersheim;0
+917;Dietersheim;0
+918;Dachsbach;0
+919;Baudenbach;0
+920;Markt Erlbach;0
+921;Diespeck;0
+922;Wilhermsdorf;0
+923;Emskirchen;0
+924;Scheinfeld;0
+925;Bad Windsheim;0
+926;Neustadt a.d.Aisch;0
+927;Wiesenthau;0
+928;Weißenohe;0
+929;Weilersbach;0
+930;Unterleinleiter;0
+931;Pretzfeld;0
+932;Pinzberg;0
+933;Leutenbach;0
+934;Kunreuth;0
+935;Kirchehrenbach;0
+936;Hiltpoltstein;0
+937;Hallerndorf;0
+938;Gremsdorf;0
+939;Egloffstein;0
+940;Aufseß;0
+941;Wiesenttal;0
+942;Waischenfeld;0
+943;Röttenbach;0
+944;Igensdorf;0
+945;Heroldsbach;0
+946;Hemhofen;0
+947;Heiligenstadt i. OFr.;0
+948;Eggolsheim;0
+949;Adelsdorf;0
+950;Gräfenberg;0
+951;Ebermannstadt;0
+952;Forchheim;0
+953;Schnabelwaid;0
+954;Plech;0
+955;Obertrubach;0
+956;Betzenstein;0
+957;Kirchenthumbach;0
+958;Weigendorf;0
+959;Vorra;0
+960;Simmelsdorf;0
+961;Reichenschwand;0
+962;Ottensoos;0
+963;Kirchensittenbach;0
+964;Henfenfeld;0
+965;Engelthal/Offenhausen;0
+966;Alfeld;0
+967;Velden/Hartenstein;0
+968;Neunkirchen am Sand;0
+969;Happurg;0
+970;Leinburg;0
+971;Pommelsbrunn;0
+972;Hersbruck;0
+973;Rohr;0
+974;Büchenbach;0
+975;Abenberg;0
+976;Heideck;0
+977;Thalmässing;0
+978;Spalt;0
+979;Greding;0
+980;Georgensgmünd;0
+981;Hilpoltstein;0
+982;Poxdorf;0
+983;Oberreichenbach;0
+984;Möhrendorf/Mark;0
+985;Langensendelbach;0
+986;Heßdorf;0
+987;Großenseebach;0
+988;Effeltrich;0
+989;Bubenreuth;0
+990;Aurachtal;0
+991;Weisendorf;0
+992;Baiersdorf;0
+993;Uttenreuth, Marloffstein;0
+994;Neunkirchen a. Brand;0
+995;Herzogenaurach;0
+996;Erlangen;102675
+997;Fürth;0
+998;Trautskirchen;0
+999;Puschendorf;0
+1000;Neuhof a.d.Zenn;0
+1001;Ammerndorf;0
+1002;Großhabersdorf;0
+1003;Winkelhaid;0
+1004;Rückersdorf;0
+1005;Pyrbaum;0
+1006;Dietenhofen;0
+1007;Schwanstetten;0
+1008;Schwarzenbruck;0
+1009;Veitsbronn;0
+1010;Allersberg;0
+1011;Langenzenn;0
+1012;Roßtal;0
+1013;Schwaig b. Nürnberg, Behringersdorfer Forst;0
+1014;Heroldsberg;0
+1015;Burgthann;0
+1016;Cadolzburg;0
+1017;Röthenbach an der Pegnitz;0
+1018;Stein;0
+1019;Eckental;0
+1020;Nürnberg-Feucht, Feuchter Forst;0
+1021;Wendelstein;0
+1022;Oberasbach;0
+1023;Altdorf bei Nürnberg;0
+1024;Zirndorf;0
+1025;Nürnberg;0
+1026;Unterstadion;0
+1027;Untermarchtal;0
+1028;Rottenacker;0
+1029;Öpfingen;0
+1030;Oberstadion;0
+1031;Obermarchtal;0
+1032;Oberdischingen;0
+1033;Griesingen;0
+1034;Emerkingen;0
+1035;Altheim;0
+1036;Allmendingen;0
+1037;Schelklingen;0
+1038;Munderkingen;0
+1039;Ehingen (Donau), Lauterach;0
+1040;Hermaringen;0
+1041;Sontheim an der Brenz;0
+1042;Nattheim;0
+1043;Dischingen;0
+1044;Böhmenkirch;0
+1045;Steinheim am Albuch;0
+1046;Königsbronn;0
+1047;Gerstetten;0
+1048;Herbrechtingen;0
+1049;Giengen an der Brenz;0
+1050;Heidenheim an der Brenz;50067
+1051;Zöschingen;0
+1052;Ziertheim;0
+1053;Schwenningen;0
+1054;Medlingen;0
+1055;Lutzingen;0
+1056;Holzheim;0
+1057;Haunsheim;0
+1058;Finningen;0
+1059;Blindheim;0
+1060;Bächingen a.d. Brenz;0
+1061;Bachhagel;0
+1062;Syrgenstein;0
+1063;Wittislingen;0
+1064;Gundelfingen a.d. Donau;0
+1065;Höchstädt a.d. Donau;0
+1066;Lauingen (Donau);0
+1067;Dillingen a.d. Donau;0
+1068;Winterbach;0
+1069;Waldstetten;0
+1070;Röfingen;0
+1071;Offingen;0
+1072;Landensberg;0
+1073;Kötz;0
+1074;Kammeltal;0
+1075;Haldenwang;0
+1076;Gundremmingen;0
+1077;Glött;0
+1078;Ellzee;0
+1079;Dürrlauingen;0
+1080;Burtenbach;0
+1081;Bubesheim;0
+1082;Bibertal;0
+1083;Aislingen;0
+1084;Jettingen-Scheppach;0
+1085;Leipheim;0
+1086;Ichenhausen;0
+1087;Burgau;0
+1088;Günzburg;0
+1089;Unterroth;0
+1090;Roggenburg;0
+1091;Osterberg;0
+1092;Oberroth;0
+1093;Kellmünz a.d. Iller;0
+1094;Buch;0
+1095;Bellenberg;0
+1096;Pfaffenhofen a.d. Roth;0
+1097;Altenstadt;0
+1098;Nersingen;0
+1099;Elchingen;0
+1100;Vöhringen;0
+1101;Weißenhorn;0
+1102;Illertissen;0
+1103;Senden;0
+1104;Neu-Ulm;51389
+1105;Westerstetten;0
+1106;Weidenstetten;0
+1107;Staig;0
+1108;Schnürpflingen;0
+1109;Rammingen;0
+1110;Nellingen;0
+1111;Neenstetten;0
+1112;Merklingen;0
+1113;Illerrieden;0
+1114;Hüttisheim;0
+1115;Breitingen;0
+1116;Bernstadt;0
+1117;Berghülen;0
+1118;Beimerstetten;0
+1119;Ballendorf;0
+1120;Asselfingen;0
+1121;Altheim (Alb);0
+1122;Lonsee;0
+1123;Illerkirchberg;0
+1124;Niederstotzingen;0
+1125;Dietenheim;0
+1126;Dornstadt;0
+1127;Erbach;0
+1128;Laichingen;0
+1129;Blaubeuren;0
+1130;Blaustein;0
+1131;Langenau;0
+1132;Ulm;120451
+1133;Stetten;0
+1134;Daisendorf;0
+1135;Meersburg;0
+1136;Frickingen;0
+1137;Bermatingen;0
+1138;Owingen;0
+1139;Deggenhausertal;0
+1140;Uhldingen-Mühlhofen;0
+1141;Salem;0
+1142;Markdorf;0
+1143;Überlingen;0
+1144;Leibertingen, Buchheim;0
+1145;Illmensee;0
+1146;Herdwangen-Schönach;0
+1147;Heiligenberg;0
+1148;Beuron;0
+1149;Pfullendorf;0
+1150;Meßkirch, Sauldorf;0
+1151;Zwiefalten;0
+1152;Unlingen;0
+1153;Dürmentingen;0
+1154;Uttenweiler;0
+1155;Ertingen;0
+1156;Herbertingen;0
+1157;Langenenslingen;0
+1158;Mengen;0
+1159;Riedlingen;0
+1160;Wain;0
+1161;Mietingen;0
+1162;Kirchberg an der Iller;0
+1163;Gutenzell-Hürbel;0
+1164;Burgrieden;0
+1165;Balzheim;0
+1166;Achstetten;0
+1167;Schwendi;0
+1168;Laupheim;0
+1169;Tannheim;0
+1170;Kirchdorf an der Iller;0
+1171;Ingoldingen;0
+1172;Hochdorf;0
+1173;Erolzheim;0
+1174;Dettingen an der Iller;0
+1175;Berkheim;0
+1176;Attenweiler;0
+1177;Warthausen;0
+1178;Ummendorf;0
+1179;Mittelbiberach;0
+1180;Maselheim;0
+1181;Eberhardzell;0
+1182;Schemmerhofen;0
+1183;Rot an der Rot;0
+1184;Bad Schussenried;0
+1185;Bad Buchau;0
+1186;Ochsenhausen;0
+1187;Biberach an der Riß;0
+1188;Unterwaldhausen;0
+1189;Riedhausen;0
+1190;Königseggwald;0
+1191;Hoßkirch;0
+1192;Fleischwangen;0
+1193;Ebersbach-Musbach;0
+1194;Ebenweiler;0
+1195;Bergatreute;0
+1196;Hohentengen;0
+1197;Wolfegg;0
+1198;Altshausen;0
+1199;Ostrach;0
+1200;Kißlegg;0
+1201;Bad Saulgau, Allmannsweiler;0
+1202;Bad Waldsee;0
+1203;Aulendorf;0
+1204;Aitrach;0
+1205;Aichstetten;0
+1206;Isny im Allgäu;0
+1207;Waldburg;0
+1208;Grünkraut;0
+1209;Bodnegg;0
+1210;Wolpertswende;0
+1211;Schlier;0
+1212;Amtzell;0
+1213;Fronreute;0
+1214;Vogt;0
+1215;Horgenzell;0
+1216;Argenbühl;0
+1217;Baienfurt;0
+1218;Weingarten;0
+1219;Ravensburg;48825
+1220;Oberreute;0
+1221;Heimenkirch;0
+1222;Scheidegg;0
+1223;Weiler-Simmerberg;0
+1224;Lindenberg im Allgäu;0
+1225;Nonnenhorn;0
+1226;Achberg;0
+1227;Hergatz;0
+1228;Wasserburg (Bodensee);0
+1229;Sigmarszell;0
+1230;Lindau (Bodensee);0
+1231;Neukirch;0
+1232;Eriskirch;0
+1233;Oberteuringen;0
+1234;Immenstaad am Bodensee;0
+1235;Langenargen;0
+1236;Kressbronn am Bodensee;0
+1237;Meckenbeuren;0
+1238;Tettnang;0
+1239;Friedrichshafen;58403
+1240;Woringen;0
+1241;Wolfertschwenden;0
+1242;Winterrieden;0
+1243;Westerheim;0
+1244;Unteregg;0
+1245;Ungerhausen;0
+1246;Trunkelsberg;0
+1247;Sontheim;0
+1248;Salgen;0
+1249;Pleß;0
+1250;Pfaffenhausen;0
+1251;Oberschönegg;0
+1252;Oberrieden;0
+1253;Niederrieden;0
+1254;Memmingerberg;0
+1255;Legau;0
+1256;Lautrach;0
+1257;Lauben;0
+1258;Lachen;0
+1259;Kronburg;0
+1260;Kirchheim in Schwaben;0
+1261;Kirchhaslach;0
+1262;Kammlach;0
+1263;Holzgünz;0
+1264;Heimertingen;0
+1265;Hawangen;0
+1266;Fellheim;0
+1267;Erkheim;0
+1268;Eppishausen;0
+1269;Egg an der Günz;0
+1270;Apfeltrach;0
+1271;Buxheim;0
+1272;Boos;0
+1273;Böhen;0
+1274;Benningen;0
+1275;Markt Rettenbach;0
+1276;Bad Grönenbach;0
+1277;Babenhausen;0
+1278;Ottobeuren;0
+1279;Mindelheim;0
+1280;Memmingen;41135
+1281;Westendorf;0
+1282;Stöttwang;0
+1283;Stötten am Auerberg;0
+1284;Ruderatshofen;0
+1285;Roßhaupten;0
+1286;Ronsberg;0
+1287;Rieden am Forggensee;0
+1288;Pforzen;0
+1289;Mauerstetten;0
+1290;Lengenwang;0
+1291;Kaltental;0
+1292;Irsee;0
+1293;Hopferau;0
+1294;Görisried;0
+1295;Germaringen;0
+1296;Friesenried;0
+1297;Eggenthal;0
+1298;Bidingen;0
+1299;Baisweil;0
+1300;Aitrang;0
+1301;Unterthingau;0
+1302;Schwangau;0
+1303;Biessenhofen;0
+1304;Obergünzburg;0
+1305;Füssen;0
+1306;Kaufbeuren;42505
+1307;Rettenberg;0
+1308;Missen-Wilhams;0
+1309;Burgberg im Allgäu;0
+1310;Blaichach;0
+1311;Sonthofen;0
+1312;Immenstadt im Allgäu;0
+1313;Wildpoldsried;0
+1314;Wertach;0
+1315;Untrasried;0
+1316;Rückholz;0
+1317;Betzigau;0
+1318;Wiggensbach;0
+1319;Nesselwang;0
+1320;Weitnau;0
+1321;Sulzberg;0
+1322;Durach;0
+1323;Oy-Mittelberg;0
+1324;Dietmannsried;0
+1325;Pfronten;0
+1326;Waltenhofen;0
+1327;Kempten (Allgäu);0
+1328;Schwabsoien;0
+1329;Schwabbruck;0
+1330;Prem;0
+1331;Lechbruck;0
+1332;Kinsau;0
+1333;Ingenried;0
+1334;Hohenfurch;0
+1335;Burggen;0
+1336;Bernbeuren;0
+1337;Apfeldorf;0
+1338;Schongau;0
+1339;Windach;0
+1340;Weil;0
+1341;Vilgertshofen;0
+1342;Unterdießen;0
+1343;Thaining;0
+1344;Eresing;0
+1345;Schwifting;0
+1346;Schondorf a. Ammersee;0
+1347;Scheuring;0
+1348;Rott;0
+1349;Reichling;0
+1350;Pürgen;0
+1351;Prittriching;0
+1352;Penzing;0
+1353;Hofstetten;0
+1354;Greifenberg;0
+1355;Fuchstal;0
+1356;Finning;0
+1357;Denklingen;0
+1358;Utting a. Ammersee;0
+1359;Kaufering;0
+1360;Dießen a. Ammersee;0
+1361;Landsberg a. Lech;0
+1362;Wiedergeltingen;0
+1363;Walkertshofen;0
+1364;Waal;0
+1365;Tussenhausen;0
+1366;Scherstetten;0
+1367;Oberostendorf;0
+1368;Mittelneufnach;0
+1369;Mickhausen;0
+1370;Markt Wald;0
+1371;Langenneufnach;0
+1372;Lamerdingen;0
+1373;Jengen;0
+1374;Igling;0
+1375;Hurlach;0
+1376;Hiltenfingen;0
+1377;Langerringen;0
+1378;Fischach;0
+1379;Großaitingen;0
+1380;Türkheim;0
+1381;Untermeitingen;0
+1382;Ettringen;0
+1383;Schwabmünchen;0
+1384;Bad Wörishofen;0
+1385;Buchloe;0
+1386;Wechingen;0
+1387;Wallerstein;0
+1388;Reimlingen;0
+1389;Munningen;0
+1390;Möttingen;0
+1391;Mönchsdeggingen;0
+1392;Megesheim;0
+1393;Marktoffingen;0
+1394;Maihingen;0
+1395;Hohenaltheim;0
+1396;Hainsfarth;0
+1397;Fremdingen;0
+1398;Ehingen a. Ries;0
+1399;Ederheim;0
+1400;Deiningen;0
+1401;Auhausen;0
+1402;Amerdingen;0
+1403;Alerheim;0
+1404;Oettingen i. Bay.;0
+1405;Nördlingen;0
+1406;Wolferstadt;0
+1407;Westendorf, Kühlenthal;0
+1408;Weichering;0
+1409;Tagmersheim;0
+1410;Rögling;0
+1411;Rohrenfels;0
+1412;Otting;0
+1413;Oberndorf a.Lech;0
+1414;Oberhausen;219176
+1415;Nordendorf;0
+1416;Niederschönenfeld;0
+1417;Münster;0
+1418;Mertingen;0
+1419;Marxheim;0
+1420;Kaisheim;0
+1421;Huisheim;0
+1422;Genderkingen;0
+1423;Fünfstetten;0
+1424;Ellgau;0
+1425;Ehekirchen;0
+1426;Buchdorf;0
+1427;Baar;0
+1428;Bergheim;63558
+1429;Thierhaupten;0
+1430;Königsmoos;0
+1431;Karlshuld;0
+1432;Burgheim;0
+1433;Asbach-Bäumenheim;0
+1434;Tapfheim;0
+1435;Bissingen;0
+1436;Harburg;202571
+1437;Wemding;0
+1438;Buttenwiesen;0
+1439;Rennertshofen;0
+1440;Wertingen;0
+1441;Neuburg an der Donau;0
+1442;Donauwörth;0
+1443;Waidhofen;0
+1444;Sielenbach;0
+1445;Schiltberg;0
+1446;Petersdorf;0
+1447;Obergriesbach;0
+1448;Langenmosen;0
+1449;Inchenhofen;0
+1450;Hollenbach;0
+1451;Hilgertshausen-Tandern;0
+1452;Gachenbach;0
+1453;Brunnen;0
+1454;Berg im Gau;0
+1455;Aresing;0
+1456;Adelzhausen;0
+1457;Hohenwart;0
+1458;Kühbach;0
+1459;Pöttmes;0
+1460;Aichach;0
+1461;Schrobenhausen;0
+1462;Wiesenbach;0
+1463;Wehringen;0
+1464;Ustersbach;0
+1465;Ursberg;0
+1466;Schmiechen;0
+1467;Ried;0
+1468;Rehling;0
+1469;Oberottmarshausen;0
+1470;Münsterhausen;0
+1471;Merching;0
+1472;Laugna;0
+1473;Kutzenhausen;0
+1474;Kettershausen;0
+1475;Horgau;0
+1476;Eurasburg;0
+1477;Emersacker;0
+1478;Egling a.d. Paar;0
+1479;Ebershausen;0
+1480;Deisenhausen;0
+1481;Breitenthal;0
+1482;Bonstetten;0
+1483;Biberbach;0
+1484;Balzhausen;0
+1485;Aystetten;0
+1486;Aletshausen;0
+1487;Aichen;0
+1488;Adelsried;0
+1489;Neuburg a.d. Kammel;0
+1490;Ziemetshausen;0
+1491;Thannhausen;0
+1492;Welden;0
+1493;Langweid a. Lech;0
+1494;Gessertshausen;0
+1495;Gablingen;0
+1496;Dasing;0
+1497;Altenmünster;0
+1498;Aindling;0
+1499;Affing;0
+1500;Zusmarshausen;0
+1501;Kissing;0
+1502;Dinkelscherben;0
+1503;Diedorf;0
+1504;Mering;0
+1505;Meitingen;0
+1506;Bobingen;0
+1507;Stadtbergen;0
+1508;Krumbach (Schwaben);0
+1509;Gersthofen;0
+1510;Neusäß;0
+1511;Königsbrunn;0
+1512;Friedberg;0
+1513;Augsburg;259196
+1514;Haimhausen;0
+1515;Fahrenzhausen;0
+1516;Unterföhring;0
+1517;Oberschleißheim;0
+1518;Karlsfeld;0
+1519;Garching b. München;0
+1520;Ismaning;0
+1521;Unterschleißheim;0
+1522;Pastetten;0
+1523;Oberpframmern;0
+1524;Moosach;0
+1525;Hohenlinden;0
+1526;Hohenbrunn;0
+1527;Forstinning;0
+1528;Forstern;0
+1529;Egmating;0
+1530;Buch a. Buchrain;0
+1531;Aying;0
+1532;Pliening;0
+1533;Brunnthal;0
+1534;Anzing;0
+1535;Steinhöring;0
+1536;Putzbrunn;0
+1537;Höhenkirchen-Siegertsbrunn;0
+1538;Grasbrunn;0
+1539;Glonn;0
+1540;Aßling;0
+1541;Kirchseeon;0
+1542;Aschheim;0
+1543;Zorneding;0
+1544;Parsdorf/Hergolding;0
+1545;Baldham;0
+1546;Vaterstetten;0
+1547;Poing;0
+1548;Neubiberg;0
+1549;Markt Schwaben;0
+1550;Grafing b. München;0
+1551;Ebersberg;0
+1552;Kirchheim b. München;0
+1553;Haar;0
+1554;Ottobrunn/Riemerling;0
+1555;Walpertskirchen;0
+1556;Neuching;0
+1557;Langenpreising;0
+1558;Finsing;0
+1559;Eitting;0
+1560;Bockhorn;0
+1561;Berglern;0
+1562;Wörth;0
+1563;Wartenberg;0
+1564;Moosinning;0
+1565;Fraunberg;0
+1566;Oberding;0
+1567;Erding;0
+1568;Mauern;0
+1569;Marzling;0
+1570;Langenbach;0
+1571;Kirchdorf a.d. Amper;0
+1572;Hörgertshausen;0
+1573;Hohenkammer;0
+1574;Haag a.d. Amper;0
+1575;Gammelsdorf;0
+1576;Zolling;0
+1577;Nandlstadt;0
+1578;Kranzberg;0
+1579;Hallbergmoos;0
+1580;Attenkirchen;0
+1581;Allershausen;0
+1582;Eching;0
+1583;Neufahrn b. Freising;0
+1584;Moosburg a.d. Isar;0
+1585;Freising;42570
+1586;Pörnbach;0
+1587;Paunzhausen;0
+1588;Jetzendorf;0
+1589;Ilmmünster;0
+1590;Gerolsbach;0
+1591;Schweitenkirchen;0
+1592;Scheyern;0
+1593;Rohrbach;0
+1594;Reichertshausen;0
+1595;Geisenfeld;0
+1596;Wolnzach;0
+1597;Pfaffenhofen a.d. Ilm;0
+1598;Sulzemoos;0
+1599;Weichs;0
+1600;Vierkirchen;0
+1601;Erdweg;0
+1602;Altomünster;0
+1603;Schwabhausen;0
+1604;Röhrmoos;0
+1605;Hebertshausen;0
+1606;Petershausen;0
+1607;Odelzhausen;0
+1608;Bergkirchen;0
+1609;Markt Indersdorf;0
+1610;Dachau;39740
+1611;Wettstetten;0
+1612;Walting;0
+1613;Titting;0
+1614;Stammham;0
+1615;Schernfeld;0
+1616;Pollenfeld;0
+1617;Oberdolling;0
+1618;Nassenfels;0
+1619;Münchsmünster;0
+1620;Kinding;0
+1621;Karlskron;0
+1622;Hitzhofen;0
+1623;Hepberg;0
+1624;Ernsgaden;0
+1625;Eitensheim;0
+1626;Egweil;0
+1627;Böhmfeld;0
+1628;Adelschlag;0
+1629;Pförring;0
+1630;Lenting;0
+1631;Großmehring;0
+1632;Denkendorf;0
+1633;Kösching;0
+1634;Vohburg a.d. Donau;0
+1635;Reichertshofen;0
+1636;Gaimersheim;0
+1637;Manching;0
+1638;Eichstätt;0
+1639;Ingolstadt;120658
+1640;Unterneukirchen;0
+1641;Tüßling;0
+1642;Teising;0
+1643;Taufkirchen;0
+1644;Reischach;0
+1645;Polling;0
+1646;Pleiskirchen;0
+1647;Erlbach;0
+1648;Oberneukirchen;0
+1649;Oberbergkirchen;0
+1650;Mettenheim;0
+1651;Mehring;0
+1652;Kraiburg a. Inn;0
+1653;Kirchweidach;0
+1654;Jettenbach;0
+1655;Halsbach;0
+1656;Geratskirchen;0
+1657;Feichten a.d. Alz;0
+1658;Engelsberg;0
+1659;Emmerting;0
+1660;Egglkofen;0
+1661;Aschau a. Inn;0
+1662;Winhöring;0
+1663;Ampfing;0
+1664;Marktl;0
+1665;Tittmoning;0
+1666;Neuötting;0
+1667;Garching a.d. Alz;0
+1668;Töging a. Inn;0
+1669;Burgkirchen an der Alz;0
+1670;Altötting;0
+1671;Burghausen;0
+1672;Waldkraiburg;0
+1673;Mühldorf a. Inn;0
+1674;Steinkirchen;0
+1675;Reichertsheim;0
+1676;Lengdorf;0
+1677;Hohenpolding;0
+1678;Heldenstein;0
+1679;Buchbach;0
+1680;Sankt Wolfgang;0
+1681;Isen;0
+1682;Schwindegg;0
+1683;Taufkirchen (Vils);0
+1684;Dorfen;0
+1685;Postmünster;0
+1686;Julbach;0
+1687;Egglham;0
+1688;Wittibreut;0
+1689;Johanniskirchen;0
+1690;Dietersburg;0
+1691;Kirchdorf a. Inn;0
+1692;Triftern;0
+1693;Bad Birnbach;0
+1694;Simbach a. Inn;0
+1695;Pfarrkirchen;0
+1696;Unterdietfurt;0
+1697;Schönau;0
+1698;Mitterskirchen;0
+1699;Malgersdorf;0
+1700;Hebertsfelden;0
+1701;Wurmannsquick;0
+1702;Massing;0
+1703;Eggenfelden;0
+1704;Wurmsham;0
+1705;Weng;0
+1706;Vilsheim;0
+1707;Niederviehbach;0
+1708;Neufraunhofen;0
+1709;Loiching;0
+1710;Kröning;0
+1711;Gottfrieding;0
+1712;Gerzen;0
+1713;Buch a. Erlbach;0
+1714;Baierbach;0
+1715;Altfraunhofen;0
+1716;Aham;0
+1717;Adlkofen;0
+1718;Moosthenning;0
+1719;Marklkofen;0
+1720;Frontenhausen;0
+1721;Bodenkirchen;0
+1722;Mengkofen;0
+1723;Velden;0
+1724;Geisenhausen;0
+1725;Gangkofen;0
+1726;Vilsbiburg;0
+1727;Dingolfing;0
+1728;Wörth a.d. Isar;0
+1729;Weihmichl;0
+1730;Volkenschwand;0
+1731;Rudelzhausen;0
+1732;Postau;0
+1733;Obersüßbach;0
+1734;Niederaichbach;0
+1735;Hohenthann;0
+1736;Herrngiersdorf;0
+1737;Furth;112025
+1738;Elsendorf;0
+1739;Bayerbach bei Ergoldsbach;0
+1740;Attenhofen;0
+1741;Aiglsbach;0
+1742;Neufahrn i. NB;0
+1743;Langquaid;0
+1744;Laberweinting;0
+1745;Pfeffenhausen;0
+1746;Au in der Hallertau;0
+1747;Schierling;0
+1748;Mallersdorf-Pfaffenberg;0
+1749;Ergoldsbach;0
+1750;Rottenburg a.d. Laaber;0
+1751;Essenbach;0
+1752;Mainburg;0
+1753;Landshut;60488
+1754;Landshut, Altdorf;0
+1755;Ergolding, Landshut;0
+1756;Bayrischzell;0
+1757;Hausham;0
+1758;Fischbachau;0
+1759;Schliersee;0
+1760;Miesbach;0
+1761;Kreuth;0
+1762;Bad Wiessee;0
+1763;Gmund a. Tegernsee;0
+1764;Rottach-Egern;0
+1765;Tegernsee;0
+1766;Reichersbeuern;0
+1767;Gaißach;0
+1768;Bichl;0
+1769;Benediktbeuern;0
+1770;Bad Heilbrunn;0
+1771;Waakirchen;0
+1772;Weyarn;0
+1773;Warngau;0
+1774;Valley;0
+1775;Otterfing;0
+1776;Dietramszell;0
+1777;Feldkirchen-Westerham;0
+1778;Holzkirchen;0
+1779;Vogtareuth;0
+1780;Unterreit;0
+1781;Soyen;0
+1782;Rechtmehring;0
+1783;Ramerberg;0
+1784;Gars a. Inn;0
+1785;Maitenbeth;0
+1786;Griesstätt;0
+1787;Frauenneuharting;0
+1788;Emmering;0
+1789;Eiselfing;0
+1790;Babensham;0
+1791;Gars am Inn;0
+1792;Albaching;0
+1793;Rott a. Inn;0
+1794;Pfaffing;0
+1795;Edling;0
+1796;Schnaitsee;0
+1797;Haag i. OB;0
+1798;Wasserburg a. Inn;0
+1799;Marktschellenberg;0
+1800;Ramsau b. Berchtesgaden;0
+1801;Bischofswiesen;0
+1802;Schneizlreuth;0
+1803;Bayerisch Gmain;0
+1804;Anger;0
+1805;Piding;0
+1806;Bad Reichenhall;0
+1807;Kirchanschöring;0
+1808;Saaldorf;0
+1809;Fridolfing;0
+1810;Laufen;0
+1811;Ainring;0
+1812;Freilassing;0
+1813;Wonneberg;0
+1814;Vachendorf;0
+1815;Seeon-Seebruck;0
+1816;Traunreut;0
+1817;Taching a. See;0
+1818;Stein a.d. Traun;0
+1819;St. Georgen;0
+1820;Petting;0
+1821;Nußdorf;0
+1822;Neukirchen am Teisenberg;0
+1823;Surberg;0
+1824;Kienberg;0
+1825;Grabenstätt;0
+1826;Altenmarkt a.d. Alz;0
+1827;Palling;0
+1828;Bergen;0
+1829;Tacherting;0
+1830;Chieming;0
+1831;Inzell;0
+1832;Ruhpolding;0
+1833;Teisendorf;0
+1834;Siegsdorf;0
+1835;Trostberg;0
+1836;Traunstein;0
+1837;Schleching;0
+1838;Gstadt a. Chiemsee;0
+1839;Chiemsee;0
+1840;Breitbrunn a. Chiemsee;0
+1841;Rimsting;0
+1842;Marquartstein;0
+1843;Unterwössen;0
+1844;Reit im Winkl;0
+1845;Übersee;0
+1846;Bernau a. Chiemsee;0
+1847;Aschau i. Chiemgau;0
+1848;Grassau;0
+1849;Prien a. Chiemsee, Herrenchiemssee;0
+1850;Söchtenau;0
+1851;Schonstett;0
+1852;Schechen;0
+1853;Prutting;0
+1854;Pittenhart;0
+1855;Nußdorf a. Inn;0
+1856;Höslwang;0
+1857;Halfing;0
+1858;Flintsbach a. Inn;0
+1859;Eggstätt;0
+1860;Amerang;0
+1861;Samerberg;0
+1862;Obing;0
+1863;Neubeuern;0
+1864;Frasdorf;0
+1865;Großkarolinenfeld;0
+1866;Tuntenhausen;0
+1867;Rohrdorf;0
+1868;Brannenburg;0
+1869;Bad Endorf;0
+1870;Kiefersfelden;0
+1871;Riedering;0
+1872;Oberaudorf;0
+1873;Bad Feilnbach;0
+1874;Stephanskirchen;0
+1875;Raubling;0
+1876;Kolbermoor;0
+1877;Bruckmühl;0
+1878;Bad Aibling;0
+1879;Rosenheim;60167
+1880;Königsdorf;0
+1881;Egling;0
+1882;Münsing;0
+1883;Geretsried;0
+1884;Wolfratshausen;0
+1885;Wallgau;0
+1886;Oberau;0
+1887;Krün;0
+1888;Grainau;0
+1889;Farchant;0
+1890;Ettal;0
+1891;Garmisch-Partenkirchen (Schneefernerhaus);0
+1892;Uffing a. Staffelsee;0
+1893;Spatzenhausen;0
+1894;Schwaigen;0
+1895;Schlehdorf;0
+1896;Saulgrub;0
+1897;Ohlstadt;0
+1898;Großweil;0
+1899;Eschenlohe;0
+1900;Eglfing;0
+1901;Bayersoien;0
+1902;Bad Kohlgrub;0
+1903;Walchensee;0
+1904;Kochel a. See;0
+1905;Murnau a. Staffelsee;0
+1906;Wildsteig;0
+1907;Wielenbach;0
+1908;Wessobrunn;0
+1909;Sindelsdorf;0
+1910;Seeshaupt;0
+1911;Rottenbuch;0
+1912;Raisting;0
+1913;Pähl;0
+1914;Obersöchering;0
+1915;Iffeldorf;0
+1916;Habach;0
+1917;Eberfing;0
+1918;Böbing;0
+1919;Antdorf;0
+1920;Huglfing;0
+1921;Hohenpeißenberg;0
+1922;Peißenberg;0
+1923;Penzberg;0
+1924;Weilheim i. OB;0
+1925;Pentenried;0
+1926;Andechs;0
+1927;Pöcking;0
+1928;Feldafing;0
+1929;Tutzing;0
+1930;Starnberg;0
+1931;Türkenfeld;0
+1932;Steindorf;0
+1933;Schöngeising;0
+1934;Oberschweinbach;0
+1935;Mittelstetten;0
+1936;Mammendorf;0
+1937;Landsberied;0
+1938;Kottgeisering;0
+1939;Jesenwang;0
+1940;Hattenhofen;0
+1941;Grafrath;0
+1942;Egenhofen;0
+1943;Eching a. Ammersee;0
+1944;Althegnenberg;0
+1945;Moorenweis;0
+1946;Geltendorf;0
+1947;Inning a. Ammersee;0
+1948;Fürstenfeldbruck;0
+1949;Alling;0
+1950;Wörthsee;0
+1951;Weßling;0
+1952;Seefeld;0
+1953;Eichenau;0
+1954;Maisach;0
+1955;Herrsching a. Ammersee;0
+1956;Gilching;0
+1957;Gröbenzell;0
+1958;Puchheim;0
+1959;Gräfelfing;0
+1960;Planegg/Krailling;0
+1961;Olching;0
+1962;Gauting;0
+1963;Germering;36834
+1964;Schäftlarn;0
+1965;Baierbrunn;0
+1966;Straßlach-Dingharting;0
+1967;Neuried;0
+1968;Icking;0
+1969;Sauerlach;0
+1970;Pullach i. Isartal;0
+1971;Oberhaching;0
+1972;Grünwald;0
+1973;München;0
+1974;Wutach;0
+1975;Friedenweiler;0
+1976;Dachsberg;0
+1977;Breitnau;0
+1978;Bernau im Schwarzwald;0
+1979;Eisenbach;0
+1980;Feldberg;0
+1981;Grafenhausen;0
+1982;Höchenschwand;0
+1983;Schluchsee;0
+1984;Hinterzarten;0
+1985;Lenzkirch;0
+1986;Bonndorf im Schwarzwald;0
+1987;Löffingen;0
+1988;Titisee-Neustadt;0
+1989;Weilheim;0
+1990;Lottstetten;0
+1991;Eggingen;0
+1992;Dogern;0
+1993;Dettighofen;0
+1994;Hohentengen am Hochrhein;0
+1995;Jestetten;0
+1996;Wutöschingen;0
+1997;Küssaberg;0
+1998;Lauchringen;0
+1999;Stühlingen;0
+2000;Ühlingen-Birkendorf;0
+2001;Albbruck;0
+2002;Klettgau;0
+2003;Waldshut-Tiengen;0
+2004;Schwörstadt;0
+2005;Herrischried;0
+2006;Rickenbach;0
+2007;Görwihl;0
+2008;Murg;0
+2009;Laufenburg (Baden);0
+2010;Bad Säckingen;0
+2011;Wieden;0
+2012;Utzenfeld;0
+2013;Kleines Wiesental;0
+2014;Maulburg;0
+2015;Hausen im Wiesental;0
+2016;Hasel;0
+2017;Häg-Ehrsberg;0
+2018;Todtmoos;0
+2019;Schönau im Schwarzwald;0
+2020;Todtnau;0
+2021;Zell im Wiesental;0
+2022;Wehr;0
+2023;Schopfheim;0
+2024;Grenzach-Wyhlen;0
+2025;Rheinfelden (Baden);0
+2026;Wittlingen;0
+2027;Schallbach;0
+2028;Rümmingen;0
+2029;Inzlingen;0
+2030;Fischingen;0
+2031;Eimeldingen;0
+2032;Binzen;0
+2033;Efringen-Kirchen;0
+2034;Steinen;0
+2035;Weil am Rhein;0
+2036;Lörrach;0
+2037;Malsburg-Marzell;0
+2038;Eschbach;0
+2039;Buggingen;0
+2040;Auggen;0
+2041;Heitersheim;0
+2042;Schliengen;0
+2043;Bad Bellingen;0
+2044;Badenweiler;0
+2045;Kandern;0
+2046;Neuenburg am Rhein;0
+2047;Müllheim;0
+2048;Wyhl;0
+2049;Weisweil;0
+2050;Rheinhausen;0
+2051;Malterdingen;0
+2052;Sasbach am Kaiserstuhl;0
+2053;Riegel Kaiserstuhl;0
+2054;Eichstetten;0
+2055;Bahlingen am Kaiserstuhl;0
+2056;Sexau;0
+2057;Freiamt;0
+2058;Endingen am Kaiserstuhl;0
+2059;Kenzingen;0
+2060;Herbolzheim;0
+2061;Teningen;0
+2062;Emmendingen;0
+2063;Wittnau;0
+2064;Winden im Elztal;0
+2065;Sulzburg;0
+2066;Sölden;0
+2067;Pfaffenweiler;0
+2068;Merdingen;0
+2069;Horben;0
+2070;Gottenheim;0
+2071;Glottertal;0
+2072;Ebringen;0
+2073;Bollschweil;0
+2074;Ballrechten-Dottingen;0
+2075;Au (Breisgau);0
+2076;Vörstetten;0
+2077;Reute;0
+2078;St. Märgen;0
+2079;Sankt Peter;0
+2080;Bötzingen;0
+2081;Simonswald;0
+2082;Gutach im Breisgau;0
+2083;Hartheim;0
+2084;Buchenbach;0
+2085;Oberried;0
+2086;Stegen;0
+2087;Merzhausen;0
+2088;Münstertal;0
+2089;Ihringen;0
+2090;Ehrenkirchen;0
+2091;March;0
+2092;Schallstadt;0
+2093;Umkirch;0
+2094;Staufen im Breisgau;0
+2095;Elzach, Biederbach;0
+2096;Denzlingen;0
+2097;Breisach am Rhein;0
+2098;Kirchzarten;0
+2099;Gundelfingen, Heuweiler;0
+2100;Bad Krozingen;0
+2101;Waldkirch;0
+2102;Freiburg im Breisgau;0
+2103;Hardt;0
+2104;Fluorn-Winzeln;0
+2105;Epfendorf;0
+2106;Aichhalden;0
+2107;Lauterbach;0
+2108;Oberndorf am Neckar;0
+2109;Schramberg;0
+2110;Wellendingen;0
+2111;Villingendorf;0
+2112;Frittlingen;0
+2113;Eschbronn;0
+2114;Bösingen;0
+2115;Dietingen;0
+2116;Zimmern ob Rottweil;0
+2117;Dunningen;0
+2118;Deißlingen;0
+2119;Trossingen;0
+2120;Rottweil;0
+2121;Tuningen;0
+2122;Talheim;0
+2123;Seitingen-Oberflacht;0
+2124;Rietheim-Weilheim;0
+2125;Renquishausen;0
+2126;Mahlstetten;0
+2127;Kolbingen;0
+2128;Königsheim;0
+2129;Irndorf;0
+2130;Hausen ob Verena;0
+2131;Gunningen;0
+2132;Egesheim;0
+2133;Durchhausen;0
+2134;Dürbheim;0
+2135;Denkingen;0
+2136;Deilingen;0
+2137;Bubsheim;0
+2138;Böttingen;0
+2139;Balgheim;0
+2140;Bärenthal;0
+2141;Neuhausen ob Eck;0
+2142;Emmingen-Liptingen;0
+2143;Wurmlingen;0
+2144;Mühlheim an der Donau;0
+2145;Fridingen an der Donau;0
+2146;Wehingen, Reichenbach;0
+2147;Gosheim;0
+2148;Aldingen;0
+2149;Spaichingen;0
+2150;Tuttlingen;34847
+2151;Reichenau;0
+2152;Allensbach;0
+2153;Konstanz;81275
+2154;Orsingen-Nenzingen;0
+2155;Mühlingen;0
+2156;Sipplingen;0
+2157;Bodman-Ludwigshafen;0
+2158;Gaienhofen;0
+2159;Öhningen;0
+2160;Stockach;0
+2161;Radolfzell am Bodensee;0
+2162;Volkertshausen;0
+2163;Aach;0
+2164;Büsingen am Hochrhein;0
+2165;Gailingen am Hochrhein;0
+2166;Mühlhausen-Ehingen;0
+2167;Steißlingen;0
+2168;Eigeltingen;0
+2169;Tengen;0
+2170;Hilzingen;0
+2171;Gottmadingen;0
+2172;Rielasingen-Worblingen;0
+2173;Engen;0
+2174;Singen;45696
+2175;Bräunlingen;0
+2176;Immendingen;0
+2177;Geisingen;0
+2178;Hüfingen;0
+2179;Blumberg;0
+2180;Donaueschingen;0
+2181;Gütenbach;0
+2182;Vöhrenbach;0
+2183;Schönwald im Schwarzwald;0
+2184;Schonach im Schwarzwald;0
+2185;Hornberg;0
+2186;Königsfeld im Schwarzwald;0
+2187;Furtwangen im Schwarzwald;0
+2188;Triberg im Schwarzwald;0
+2189;Unterkirnach;0
+2190;Mönchweiler;0
+2191;Brigachtal;0
+2192;Dauchingen;0
+2193;Niedereschach;0
+2194;Bad Dürrheim;0
+2195;Villingen-Schwenningen;81770
+2196;Schuttertal;0
+2197;Rust;0
+2198;Ringsheim;0
+2199;Meißenheim;0
+2200;Mahlberg;0
+2201;Kippenheim;0
+2202;Kappel-Grafenhausen;0
+2203;Schwanau;0
+2204;Seelbach;0
+2205;Ettenheim;0
+2206;Friesenheim;0
+2207;Lahr/Schwarzwald;0
+2208;Sasbachwalden;0
+2209;Lauf;0
+2210;Ottenhöfen im Schwarzwald;0
+2211;Sasbach;0
+2212;Kappelrodeck;0
+2213;Renchen;0
+2214;Rheinau;0
+2215;Achern (Abweichung Exklaven);0
+2216;Rheinmünster;0
+2217;Ottersweier;0
+2218;Bühlertal;0
+2219;Bühl;0
+2220;Ortenberg;0
+2221;Ohlsbach;0
+2222;Mühlenbach;0
+2223;Lautenbach;0
+2224;Gutach (Schwarzwaldbahn);0
+2225;Berghaupten;0
+2226;Nordrach;0
+2227;Oberharmersbach;0
+2228;Biberach;0
+2229;Bad Rippoldsau-Schapbach;0
+2230;Schenkenzell;0
+2231;Durbach;0
+2232;Schiltach;0
+2233;Hausach;0
+2234;Hohberg;0
+2235;Schutterwald;0
+2236;Bad Peterstal-Griesbach;0
+2237;Zell am Harmersbach;0
+2238;Willstätt;0
+2239;Oppenau;0
+2240;Gengenbach;0
+2241;Fischerbach, Haslach, Hofstetten;0
+2242;Wolfach, Oberwolfach;0
+2243;Oberkirch;0
+2244;Kehl;34009
+2245;Offenburg;59238
+2246;Bruchweiler-Bärenbach u.a.;0
+2247;Bad Bergzabern u.a.;0
+2248;Hochstadt;0
+2249;Offenbach an der Queich;0
+2250;Steinweiler;0
+2251;Kandel;0
+2252;Insheim;0
+2253;Herxheim;0
+2254;Albersweiler, Silz u.a.;0
+2255;Annweiler am Trifels;0
+2256;Wilgartswiesen;0
+2257;Hauenstein;0
+2258;Rhodt u.a.;0
+2259;Frankweiler;0
+2260;Billigheim-Ingenheim, Birkweiler;0
+2261;Landau in der Pfalz;41612
+2262;Scheibenhardt;0
+2263;Neupotz;0
+2264;Neuburg am Rhein;0
+2265;Leimersheim;0
+2266;Kuhardt;0
+2267;Hördt;0
+2268;Hatzenbühl;0
+2269;Hagenbach;0
+2270;Rheinzabern;0
+2271;Rülzheim;0
+2272;Bellheim;0
+2273;Jockgrim;0
+2274;Germersheim;0
+2275;Kronau;0
+2276;Hambrücken;0
+2277;Dettenheim;0
+2278;Kraichtal;0
+2279;Ubstadt-Weiher;0
+2280;Forst;0
+2281;Karlsdorf-Neuthard;0
+2282;Östringen;0
+2283;Graben-Neudorf;0
+2284;Bad Schönborn;0
+2285;Philippsburg;0
+2286;Bruchsal;42785
+2287;Weisenbach;0
+2288;Loffenau;0
+2289;Forbach;0
+2290;Gernsbach;0
+2291;Gaggenau;0
+2292;Hügelsheim;0
+2293;Sinzheim;0
+2294;Baden-Baden;54239
+2295;Steinmauern;0
+2296;Elchesheim-Illingen;0
+2297;Bischweier;0
+2298;Au am Rhein;0
+2299;Iffezheim;0
+2300;Ötigheim;0
+2301;Bietigheim;0
+2302;Muggensturm;0
+2303;Kuppenheim;0
+2304;Durmersheim;0
+2305;Rastatt;47906
+2306;Marxzell;0
+2307;Linkenheim-Hochstetten;0
+2308;Eggenstein-Leopoldshafen;0
+2309;Waldbronn;0
+2310;Bad Herrenalb;0
+2311;Pfinztal;0
+2312;Malsch;0
+2313;Karlsbad;0
+2314;Stutensee;0
+2315;Rheinstetten;0
+2316;Ettlingen;38942
+2317;Karlsruhe;283799
+2318;Wurmberg;0
+2319;Sternenfels;0
+2320;Wiernsheim;0
+2321;Ötisheim;0
+2322;Knittlingen;0
+2323;Maulbronn;0
+2324;Illingen;0
+2325;Mühlacker;0
+2326;Unterreichenbach;0
+2327;Simmozheim;0
+2328;Ostelsheim;0
+2329;Deckenpfronn;0
+2330;Gechingen;0
+2331;Neuweiler;0
+2332;Neubulach;0
+2333;Bad Teinach-Zavelstein;0
+2334;Althengstett;0
+2335;Bad Liebenzell;0
+2336;Calw;0
+2337;Höfen an der Enz;0
+2338;Enzklösterle;0
+2339;Dobel;0
+2340;Straubenhardt;0
+2341;Engelsbrand;0
+2342;Schömberg;0
+2343;Bad Wildbad;0
+2344;Neuenbürg;0
+2345;Kieselbronn;0
+2346;Ölbronn-Dürrn;0
+2347;Neulingen;0
+2348;Neuhausen;0
+2349;Eisingen;0
+2350;Kämpfelbach;0
+2351;Tiefenbronn;0
+2352;Ispringen;0
+2353;Niefern-Öschelbronn;0
+2354;Keltern;0
+2355;Königsbach-Stein;0
+2356;Remchingen;0
+2357;Pforzheim;119313
+2358;Zaisenhausen;0
+2359;Kürnbach;0
+2360;Sulzfeld;0
+2361;Gondelsheim;0
+2362;Gemmingen;0
+2363;Walzbachtal;0
+2364;Oberderdingen;0
+2365;Eppingen;0
+2366;Bretten;0
+2367;Zuzenhausen;0
+2368;Spechbach;0
+2369;Siegelsbach;0
+2370;Reichartshausen;0
+2371;Neidenstein;0
+2372;Lobbach;0
+2373;Ittlingen;0
+2374;Hüffenhardt;0
+2375;Eschelbronn;0
+2376;Epfenbach;0
+2377;Neckarbischofsheim;0
+2378;Helmstadt-Bargen;0
+2379;Angelbachtal;0
+2380;Waibstadt;0
+2381;Kirchardt;0
+2382;Meckesheim;0
+2383;Bad Rappenau;0
+2384;Sinsheim;35219
+2385;Neunkirchen;49843
+2386;Neckarzimmern;0
+2387;Fahrenbach;0
+2388;Binau;0
+2389;Neudenau;0
+2390;Aglasterhausen;0
+2391;Haßmersheim;0
+2392;Schefflenz;0
+2393;Obrigheim;0
+2394;Billigheim;0
+2395;Limbach;0
+2396;Elztal;0
+2397;Mosbach;0
+2398;Rosenberg;0
+2399;Ravenstein;0
+2400;Höpfingen;0
+2401;Seckach;0
+2402;Adelsheim;0
+2403;Hardheim;0
+2404;Walldürn;0
+2405;Buchen;0
+2406;Osterburken;0
+2407;Weißbach;0
+2408;Dörzbach;0
+2409;Niedernhall;0
+2410;Mulfingen;0
+2411;Forchtenberg;0
+2412;Künzelsau, Ingelfingen;0
+2413;Zweiflingen;0
+2414;Waldenburg;0
+2415;Kupferzell;0
+2416;Neuenstein;0
+2417;Pfedelbach;0
+2418;Bretzfeld;0
+2419;Öhringen;0
+2420;Wallhausen;0
+2421;Stimpfach;0
+2422;Langenburg;0
+2423;Kreßberg;0
+2424;Kirchberg an der Jagst;0
+2425;Satteldorf;0
+2426;Frankenhardt;0
+2427;Rot am See;0
+2428;Gerabronn;0
+2429;Fichtenau;0
+2430;Schrozberg;0
+2431;Blaufelden;0
+2432;Crailsheim;0
+2433;Wolpertshausen;0
+2434;Untermünkheim;0
+2435;Michelfeld;0
+2436;Michelbach an der Bilz;0
+2437;Braunsbach;0
+2438;Vellberg;0
+2439;Rosengarten;0
+2440;Mainhardt;0
+2441;Ilshofen;0
+2442;Sulzbach-Laufen;0
+2443;Fichtenberg;0
+2444;Bühlerzell;0
+2445;Bühlertann;0
+2446;Obersontheim;0
+2447;Oberrot;0
+2448;Gschwend;0
+2449;Gaildorf;0
+2450;Walheim;0
+2451;Pfaffenhofen;0
+2452;Mundelsheim;0
+2453;Hessigheim;0
+2454;Freudental;0
+2455;Erligheim;0
+2456;Cleebronn;0
+2457;Pleidelsheim;0
+2458;Neckarwestheim;0
+2459;Ingersheim;0
+2460;Gemmrigheim;0
+2461;Zaberfeld;0
+2462;Sersheim;0
+2463;Löchgau;0
+2464;Kirchheim am Neckar;0
+2465;Güglingen;0
+2466;Ilsfeld;0
+2467;Bönnigheim;0
+2468;Besigheim;0
+2469;Lauffen am Neckar;0
+2470;Sachsenheim;0
+2471;Brackenheim;0
+2472;Bietigheim-Bissingen;41769
+2473;Widdern;0
+2474;Untereisesheim;0
+2475;Roigheim;0
+2476;Offenau;0
+2477;Massenbachhausen;0
+2478;Lehrensteinsfeld;0
+2479;Jagsthausen;0
+2480;Ellhofen;0
+2481;Eberstadt;0
+2482;Löwenstein;0
+2483;Langenbrettach;0
+2484;Hardthausen am Kocher;0
+2485;Krautheim;0
+2486;Erlenbach;0
+2487;Abstatt;0
+2488;Oedheim;0
+2489;Nordheim;0
+2490;Flein;0
+2491;Möckmühl;0
+2492;Schöntal;0
+2493;Leingarten;0
+2494;Bad Wimpfen;0
+2495;Untergruppenbach;0
+2496;Neuenstadt am Kocher;0
+2497;Schwaigern;0
+2498;Weinsberg;0
+2499;Obersulm;0
+2500;Bad Friedrichshall;0
+2501;Neckarsulm;0
+2502;Heilbronn;120733
+2503;Deizisau;0
+2504;Altbach;0
+2505;Aichwald;0
+2506;Neuhausen auf den Fildern;0
+2507;Ostfildern;0
+2508;Esslingen am Neckar;0
+2509;Lichtenwald;0
+2510;Kaisersbach;0
+2511;Baltmannsweiler;0
+2512;Berglen;0
+2513;Urbach;0
+2514;Plüderhausen;0
+2515;Welzheim;0
+2516;Rudersberg;0
+2517;Remshalden;0
+2518;Schechingen;0
+2519;Ruppertshofen;0
+2520;Leinzell;0
+2521;Iggingen;0
+2522;Heuchlingen;0
+2523;Göggingen;0
+2524;Eschach, Obergröningen;0
+2525;Durlangen, Weggen-Ziegelhütte, Leinhäusle;0
+2526;Bartholomä;0
+2527;Spraitbach;0
+2528;Mögglingen;0
+2529;Böbingen an der Rems;0
+2530;Mutlangen;0
+2531;Alfdorf, Schillinghof;0
+2532;Lorch;0
+2533;Heubach;0
+2534;Stadt Schwäbisch Gmünd;0
+2535;Schwäbisch Gmünd, Täferrot;0
+2536;Wört;0
+2537;Tannhausen;0
+2538;Stödtlen;0
+2539;Rainau;0
+2540;Neuler;0
+2541;Jagstzell;0
+2542;Ellenberg;0
+2543;Adelmannsfelden;0
+2544;Unterschneidheim;0
+2545;Riesbürg;0
+2546;Kirchheim am Ries;0
+2547;Lauchheim;0
+2548;Westhausen;0
+2549;Hüttlingen;0
+2550;Essingen;0
+2551;Neresheim;0
+2552;Oberkochen;0
+2553;Bopfingen;0
+2554;Aalen;67085
+2555;Wiesensteig;0
+2556;Mühlhausen im Täle;0
+2557;Hohenstadt/Drackenstein;0
+2558;Gruibingen;0
+2559;Bad Ditzenbach;0
+2560;Amstetten;0
+2561;Bad Überkingen;0
+2562;Gingen an der Fils;0
+2563;Kuchen;0
+2564;Deggingen;0
+2565;Geislingen an der Steige;0
+2566;Schlierbach;0
+2567;Owen;0
+2568;Ohmden;0
+2569;Notzingen;0
+2570;Neidlingen;0
+2571;Holzmaden;0
+2572;Erkenbrechtsweiler;0
+2573;Bissingen an der Teck;0
+2574;Dettingen unter Teck;0
+2575;Reichenbach an der Fils;0
+2576;Köngen;0
+2577;Lenningen;0
+2578;Wernau (Neckar);0
+2579;Wendlingen am Neckar;0
+2580;Weilheim an der Teck;0
+2581;Kirchheim unter Teck;40206
+2582;Plochingen;0
+2583;Zell unter Aichelberg;0
+2584;Wangen;0
+2585;Wäschenbeuren;0
+2586;Schlat;0
+2587;Ottenbach;0
+2588;Lauterstein;0
+2589;Gammelshausen;0
+2590;Eschenbach;0
+2591;Dürnau;0
+2592;Börtlingen;0
+2593;Birenbach;0
+2594;Aichelberg;0
+2595;Adelberg;0
+2596;Rechberghausen;0
+2597;Albershausen;0
+2598;Heiningen;0
+2599;Bad Boll;0
+2600;Salach;0
+2601;Süßen;0
+2602;Donzdorf;0
+2603;Uhingen;0
+2604;Ebersbach an der Fils;0
+2605;Eislingen/Fils;0
+2606;Göppingen;0
+2607;Engstingen;0
+2608;Wannweil;0
+2609;Sonnenbühl;0
+2610;Trochtelfingen;0
+2611;St. Johann;0
+2612;Gomaringen;0
+2613;Lichtenstein;0
+2614;Eningen;0
+2615;Pfullingen;0
+2616;Reutlingen;112627
+2617;Unterensingen;0
+2618;Schlaitdorf;0
+2619;Neckartailfingen;0
+2620;Großbettlingen;0
+2621;Grafenberg;0
+2622;Beuren;0
+2623;Bempflingen;0
+2624;Altenriet;0
+2625;Altdorf;0
+2626;Neckartenzlingen;0
+2627;Wolfschlugen;0
+2628;Oberboihingen;0
+2629;Neuffen;0
+2630;Aichtal;0
+2631;Nürtingen;0
+2632;Römerstein;0
+2633;Riederich;0
+2634;Hülben;0
+2635;Grabenstetten;0
+2636;Dettingen an der Erms;0
+2637;Bad Urach;0
+2638;Metzingen;0
+2639;Pfronstetten;0
+2640;Mehrstetten;0
+2641;Heroldstatt;0
+2642;Hayingen;0
+2643;Gomadingen;0
+2644;Hohenstein;0
+2645;Veringenstadt;0
+2646;Sigmaringendorf;0
+2647;Scheer;0
+2648;Inzigkofen;0
+2649;Hettingen;0
+2650;Bingen;0
+2651;Stetten am kalten Markt;0
+2652;Krauchenwies;0
+2653;Gammertingen;0
+2654;Sigmaringen;0
+2655;Straßberg;0
+2656;Bitz;0
+2657;Winterlingen;0
+2658;Meßstetten;0
+2659;Albstadt;46664
+2660;Neufra;0
+2661;Jungingen;0
+2662;Grosselfingen;0
+2663;Rangendingen;0
+2664;Bodelshausen;0
+2665;Bisingen;0
+2666;Haigerloch;0
+2667;Burladingen;0
+2668;Hechingen;0
+2669;Zimmern unter der Burg;0
+2670;Weilen unter den Rinnen;0
+2671;Ratshausen;0
+2672;Obernheim;0
+2673;Nusplingen;0
+2674;Hausen am Tann;0
+2675;Dotternhausen;0
+2676;Dormettingen;0
+2677;Dautmergen;0
+2678;Geislingen;0
+2679;Rosenfeld;0
+2680;Balingen;34414
+2681;Wörnersberg;0
+2682;Seewald;0
+2683;Grömbach;0
+2684;Glatten;0
+2685;Loßburg;0
+2686;Pfalzgrafenweiler;0
+2687;Dornstetten;0
+2688;Alpirsbach;0
+2689;Baiersbronn;0
+2690;Freudenstadt;0
+2691;Egenhausen;0
+2692;Simmersfeld;0
+2693;Ebhausen;0
+2694;Haiterbach;0
+2695;Wildberg;0
+2696;Altensteig;0
+2697;Nagold;0
+2698;Empfingen;0
+2699;Eutingen im Gäu;0
+2700;Starzach;0
+2701;Waldachtal;0
+2702;Dornhan;0
+2703;Sulz am Neckar;0
+2704;Horb am Neckar;0
+2705;Neustetten;0
+2706;Nehren;0
+2707;Hirrlingen;0
+2708;Dußlingen;0
+2709;Walddorfhäslach;0
+2710;Kirchentellinsfurt;0
+2711;Dettenhausen;0
+2712;Ofterdingen;0
+2713;Kusterdingen;0
+2714;Pliezhausen;0
+2715;Ammerbuch;0
+2716;Mössingen;0
+2717;Rottenburg am Neckar;0
+2718;Tübingen;0
+2719;Oberriexingen;0
+2720;Eberdingen;0
+2721;Tamm;0
+2722;Erdmannhausen;0
+2723;Benningen am Neckar;0
+2724;Großbottwar;0
+2725;Oberstenfeld;0
+2726;Beilstein;0
+2727;Steinheim, Murr;0
+2728;Markgröningen;0
+2729;Schwieberdingen;0
+2730;Möglingen;0
+2731;Freiberg am Neckar;0
+2732;Remseck am Neckar;0
+2733;Asperg;0
+2734;Marbach am Neckar;0
+2735;Vaihingen an der Enz;0
+2736;Ludwigsburg;87603
+2737;Spiegelberg;0
+2738;Großerlach;0
+2739;Burgstetten;0
+2740;Allmersbach im Tal;0
+2741;Oppenweiler;0
+2742;Althütte;0
+2743;Affalterbach;0
+2744;Sulzbach an der Murr;0
+2745;Weissach im Tal;0
+2746;Auenwald;0
+2747;Aspach;0
+2748;Wüstenrot, Beilstein-Stocksberg;0
+2749;Murrhardt;0
+2750;Backnang;35778
+2751;Schwaikheim;0
+2752;Korb;0
+2753;Kernen im Remstal;0
+2754;Weinstadt;0
+2755;Winnenden;0
+2756;Waiblingen;52945
+2757;Wimsheim;0
+2758;Mönsheim;0
+2759;Heimsheim;0
+2760;Friolzheim;0
+2761;Weissach;0
+2762;Hemmingen;0
+2763;Rutesheim;0
+2764;Renningen;0
+2765;Weil der Stadt;0
+2766;Ditzingen;0
+2767;Leonberg;45711
+2768;Mötzingen;0
+2769;Hildrizhausen;0
+2770;Nufringen;0
+2771;Bondorf;0
+2772;Steinenbronn;0
+2773;Ehningen;0
+2774;Aidlingen;0
+2775;Jettingen;0
+2776;Gäufelden;0
+2777;Gärtringen;0
+2778;Waldenbuch;0
+2779;Magstadt;0
+2780;Schönaich;0
+2781;Weil im Schönbuch;0
+2782;Holzgerlingen;0
+2783;Herrenberg;0
+2784;Sindelfingen;61311
+2785;Böblingen;0
+2786;Gerlingen;0
+2787;Korntal-Münchingen;0
+2788;Kornwestheim;0
+2789;Filderstadt;43550
+2790;Leinfelden-Echterdingen;36672
+2791;Fellbach;43935
+2792;Stuttgart/Leinfelden-Echterdingen;0
+2793;Stuttgart;589793
+2794;Abtsteinach;0
+2795;Gorxheimertal;0
+2796;Laudenbach;0
+2797;Mörlenbach;0
+2798;Hemsbach;0
+2799;Hirschberg an der Bergstraße;0
+2800;Birkenau;0
+2801;Wald-Michelbach;0
+2802;Weinheim;43325
+2803;Zwingenberg;0
+2804;Neckargerach;0
+2805;Schönbrunn;0
+2806;Hirschhorn, Brombach, Heddesbach;0
+2807;Waldbrunn;0
+2808;Mudau;0
+2809;Eberbach;0
+2810;Wilhelmsfeld;0
+2811;Mauer;0
+2812;Heiligkreuzsteinach;0
+2813;Gaiberg;0
+2814;Bammental;0
+2815;Neckarsteinach;0
+2816;Dielheim;0
+2817;Rauenberg;0
+2818;Nußloch;0
+2819;Dossenheim;0
+2820;Eppelheim;0
+2821;Sandhausen;0
+2822;Schriesheim;0
+2823;Leimen;0
+2824;Wiesloch;0
+2825;Neckargemünd;0
+2826;Heidelberg;143345
+2827;Neulußheim;0
+2828;Altlußheim;0
+2829;Reilingen;0
+2830;Oberhausen-Rheinhausen;0
+2831;Sankt Leon-Rot;0
+2832;Brühl;0
+2833;Ketsch;0
+2834;Hockenheim;0
+2835;Waghäusel;0
+2836;Schwetzingen;0
+2837;Groß-Rohrheim;0
+2838;Biblis;0
+2839;Bürstadt;0
+2840;Lampertheim;0
+2841;Ilvesheim;0
+2842;Heddesheim;0
+2843;Edingen-Neckarhausen;0
+2844;Ladenburg;0
+2845;Viernheim;0
+2846;Mannheim;307960
+2847;Callbach;0
+2848;Becherbach;0
+2849;Hallgarten;0
+2850;Feilbingert;0
+2851;Obermoschel, Schiersfeld;0
+2852;Winterborn, Waldgrehweiler, Niedermoschel, u.a.;0
+2853;Alsenz;0
+2854;Kriegsfeld;0
+2855;Imsbach;0
+2856;Dreisen, Standenbühl;0
+2857;Dannenfels;0
+2858;Schwarzengraben, St. Alban, Gerbach;0
+2859;Dielkirchen;0
+2860;Steinbach, Weitersweiler, Bennhausen, Mörsfeld, Würzweiler, Ruppertsecken u.a.;0
+2861;Rockenhausen, Bisterschied u.a.;0
+2862;Nußbach;0
+2863;Kreimbach-Kaulbach;0
+2864;Hinzweiler;0
+2865;Eßweiler;0
+2866;Rothselberg u.a.;0
+2867;Wolfstein;0
+2868;Offenbach-Hundheim;0
+2869;Odenbach;0
+2870;Langweiler;0
+2871;Grumbach;0
+2872;Medard, Rathskirchen u.a.;0
+2873;Lauterecken u.a.;0
+2874;Olsbrücken;0
+2875;Mehlbach;0
+2876;Katzweiler;0
+2877;Hirschhorn;0
+2878;Otterbach;0
+2879;Sippersfeld;0
+2880;Münchweiler an der Alsenz;0
+2881;Lohnsfeld;0
+2882;Börrstadt;0
+2883;Gundersweiler, Gonbach u.a.;0
+2884;Winnweiler;0
+2885;Schmalenberg;0
+2886;Heltersberg;0
+2887;Geiselberg;0
+2888;Waldfischbach-Burgalben;0
+2889;Schopp;0
+2890;Krickenbach;0
+2891;Trippstadt u.a.;0
+2892;Schallodenbach;0
+2893;Niederkirchen;0
+2894;Schneckenhausen;0
+2895;Otterberg;0
+2896;Waldleiningen, Fischbach;0
+2897;Hochspeyer;0
+2898;Rodenbach;0
+2899;Mackenbach;0
+2900;Weilerbach u.a.;0
+2901;Sembach;0
+2902;Neuhemsbach;0
+2903;Mehlingen;0
+2904;Enkenbach-Alsenborn;0
+2905;Kaiserslautern;98732
+2906;Gundheim;0
+2907;Gundersheim;0
+2908;Dittelsheim-Heßloch;0
+2909;Bechtheim;0
+2910;Westhofen, Bermersheim;0
+2911;Flörsheim-Dalsheim;0
+2912;Offstein;0
+2913;Monsheim;0
+2914;Wintersheim;0
+2915;Hillesheim;0
+2916;Dorn-Dürkheim;0
+2917;Guntersblum;0
+2918;Hamm;185327
+2919;Gimbsheim;0
+2920;Alsheim;0
+2921;Eich;0
+2922;Osthofen;0
+2923;Worms;81099
+2924;Kirrweiler (Pfalz);0
+2925;Maikammer;0
+2926;Edesheim;0
+2927;Venningen;0
+2928;Edenkoben;0
+2929;Weidenthal;0
+2930;Lindenberg;0
+2931;Esthal;0
+2932;Elmstein;0
+2933;Frankenstein, Neidenfels, Frankeneck;0
+2934;Lambrecht (Pfalz);0
+2935;Böhl-Iggelheim;0
+2936;Haßloch;0
+2937;Neustadt an der Weinstraße;0
+2938;Zeiskam;0
+2939;Gommersheim;0
+2940;Harthausen;0
+2941;Hanhofen;0
+2942;Dudenhofen;0
+2943;Westheim (Pfalz);0
+2944;Weingarten (Pfalz);0
+2945;Schwegenheim;0
+2946;Lustadt;0
+2947;Freisbach;0
+2948;Lingenfeld;0
+2949;Römerberg;0
+2950;Speyer;50343
+2951;Wattenheim;0
+2952;Altleiningen;0
+2953;Carlsberg;0
+2954;Tiefenthal;0
+2955;Hettenleidelheim;0
+2956;Albisheim (Pfrimm);0
+2957;Göllheim;0
+2958;Ramsen;0
+2959;Eisenberg (Pfalz);0
+2960;Marnheim;0
+2961;Bolanden;0
+2962;Bischheim u.a.;0
+2963;Kirchheimbolanden;0
+2964;Obrigheim (Pfalz);0
+2965;Kirchheim an der Weinstraße;0
+2966;Ebertsheim;0
+2967;Bockenheim an der Weinstraße;0
+2968;Weisenheim am Berg;0
+2969;Kindenheim;0
+2970;Grünstadt;0
+2971;Beindersheim;0
+2972;Heßheim;0
+2973;Weisenheim am Sand;0
+2974;Freinsheim;0
+2975;Dirmstein;0
+2976;Lambsheim;0
+2977;Bobenheim-Roxheim;0
+2978;Gerolsheim;0
+2979;Frankenthal (Pfalz);0
+2980;Kallstadt;0
+2981;Erpolzheim;0
+2982;Otterstadt;0
+2983;Waldsee;0
+2984;Gönnheim;0
+2985;Friedelsheim;0
+2986;Ellerstadt;0
+2987;Wachenheim an der Weinstraße;0
+2988;Ruppertsberg;0
+2989;Niederkirchen bei Deidesheim;0
+2990;Meckenheim;0
+2991;Forst an der Weinstraße;0
+2992;Deidesheim;0
+2993;Neuhofen;0
+2994;Fußgönheim;0
+2995;Birkenheide;0
+2996;Rödersheim-Gronau;0
+2997;Hochdorf-Assenheim;0
+2998;Dannstadt-Schauernheim;0
+2999;Altrip;0
+3000;Limburgerhof;0
+3001;Mutterstadt;0
+3002;Schifferstadt;0
+3003;Bad Dürkheim;0
+3004;Ludwigshafen am Rhein;163196
+3005;Hinterweidenthal;0
+3006;Fischbach, Erfweiler u.a.;0
+3007;Dahn;0
+3008;Höheinöd, Petersberg u.a.;0
+3009;Thaleischweiler-Fröschen;0
+3010;Münchweiler an der Rodalb;0
+3011;Clausen;0
+3012;Rodalben;0
+3013;Lemberg;0
+3014;Vinningen, Trulben, Ruppertsweiler u.a.;0
+3015;Pirmasens;43582
+3016;Obernheim-Kirchenarnbach u.a.;0
+3017;Wallhalben u.a.;0
+3018;Breitenbach;0
+3019;Waldmohr;0
+3020;Herschweiler-Pettersheim;0
+3021;Glan-Münchweiler;0
+3022;Brücken (Pfalz);0
+3023;Altenkirchen;0
+3024;Schönenberg-Kübelberg;0
+3025;Bruchmühlbach-Miesau;0
+3026;Rammelsbach u.a.;0
+3027;Altenglan;0
+3028;Hütschenhausen;0
+3029;Steinwenden u.a.;0
+3030;Ramstein-Miesenbach;0
+3031;Pfeffelbach;0
+3032;Kusel;0
+3033;Kindsbach;0
+3034;Mittelbrunn, Queidersbach u.a.;0
+3035;Landstuhl;0
+3036;Schmelz;0
+3037;Lebach;0
+3038;Nalbach;0
+3039;Überherrn;0
+3040;Wallerfangen;0
+3041;Saarwellingen;0
+3042;Wadgassen;0
+3043;Rehlingen-Siersburg;0
+3044;Schwalbach;0
+3045;Dillingen/Saar;0
+3046;Saarlouis;38333
+3047;Weiskirchen;0
+3048;Perl;0
+3049;Beckingen;0
+3050;Mettlach;0
+3051;Wadern;0
+3052;Losheim;0
+3053;Merzig;0
+3054;Oberthal;0
+3055;Marpingen;0
+3056;Namborn;0
+3057;Tholey;0
+3058;Freisen;0
+3059;Nohfelden;0
+3060;Nonnweiler;0
+3061;Sankt Wendel;0
+3062;Merchweiler;0
+3063;Spiesen-Elversberg;0
+3064;Schiffweiler;0
+3065;Eppelborn;0
+3066;Ottweiler;0
+3067;Rieschweiler-Mühlbach;0
+3068;Reifenberg;0
+3069;Maßweiler;0
+3070;Bottenbach;0
+3071;Dellfeld;0
+3072;Kleinbundenbach;0
+3073;Hornbach;0
+3074;Contwig;0
+3075;Battweiler u.a.;0
+3076;Zweibrücken;0
+3077;Kirkel;0
+3078;Gersheim;0
+3079;Bexbach;0
+3080;Blieskastel;0
+3081;Homburg;44607
+3082;Mandelbachtal;0
+3083;Sankt Ingbert;38697
+3084;Bous;0
+3085;Großrosseln;0
+3086;Püttlingen;0
+3087;Völklingen;0
+3088;Friedrichsthal;0
+3089;Riegelsberg;0
+3090;Quierschied;0
+3091;Sulzbach/Saar;0
+3092;Kleinblittersdorf;0
+3093;Heusweiler;0
+3094;Saarbrücken;0
+3095;Frankfurt am Main;650000
+3096;Sulzbach (Taunus);0
+3097;Liederbach am Taunus;0
+3098;Kriftel;0
+3099;Schwalbach am Taunus;0
+3100;Eppstein;0
+3101;Bad Soden am Taunus;0
+3102;Hattersheim;0
+3103;Kelkheim;0
+3104;Eschborn;0
+3105;Hofheim am Taunus;37750
+3106;Niederneisen;0
+3107;Elbtal;0
+3108;Birlenbach;0
+3109;Altendiez;0
+3110;Hahnstätten u.a.;0
+3111;Selters;0
+3112;Beselich;0
+3113;Brechen;0
+3114;Villmar;0
+3115;Elz;0
+3116;Dornburg;0
+3117;Hünfelden;0
+3118;Runkel;0
+3119;Hadamar;0
+3120;Diez, Hambach, Aull;0
+3121;Burgschwalbach;0
+3122;Limburg;0
+3123;Waldems;0
+3124;Niedernhausen;0
+3125;Bad Camberg;0
+3126;Hünstetten, Idstein;0
+3127;Raunheim;0
+3128;Bischofsheim;0
+3129;Trebur;0
+3130;Ginsheim-Gustavsburg;0
+3131;Kelsterbach;0
+3132;Flörsheim am Main;0
+3133;Rüsselsheim;0
+3134;Kiedrich;0
+3135;Walluf;0
+3136;Schlangenbad;0
+3137;Rüdesheim am Rhein;0
+3138;Oestrich-Winkel;0
+3139;Geisenheim;0
+3140;Eltville am Rhein;0
+3141;Aarbergen;0
+3142;Heidenrod;0
+3143;Bad Schwalbach;0
+3144;Hochheim am Main;0
+3145;Taunusstein;0
+3146;Wiesbaden;272432
+3147;Eppertshausen;0
+3148;Otzberg;0
+3149;Schaafheim;0
+3150;Groß-Zimmern;0
+3151;Groß-Umstadt;0
+3152;Dieburg;0
+3153;Unter-Hainbrunn;0
+3154;Mossautal;0
+3155;Badisch Schöllenbach;0
+3156;Brombachtal;0
+3157;Lützelbach;0
+3158;Breuberg;0
+3159;Höchst i. Odw.;0
+3160;Bad König;0
+3161;Michelstadt;0
+3162;Grasellenbach;0
+3163;Lautertal (Odenwald);0
+3164;Einhausen;0
+3165;Lindenfels;0
+3166;Alsbach-Hähnlein;0
+3167;Lorsch;0
+3168;Heppenheim (Bergstraße);0
+3169;Bensheim;39439
+3170;Stockstadt am Rhein;0
+3171;Gernsheim;0
+3172;Büttelborn;0
+3173;Nauheim;0
+3174;Riedstadt;0
+3175;Mörfelden-Walldorf;0
+3176;Groß-Gerau;0
+3177;Messel;0
+3178;Fränkisch-Crumbach;0
+3179;Fischbachtal;0
+3180;Bickenbach;0
+3181;Groß-Bieberau;0
+3182;Modautal;0
+3183;Brensbach;0
+3184;Erzhausen;0
+3185;Reichelsheim (Odenwald);0
+3186;Roßdorf;0
+3187;Ober-Ramstadt;0
+3188;Mühltal;0
+3189;Reinheim;0
+3190;Griesheim;0
+3191;Seeheim-Jugenheim;0
+3192;Weiterstadt;0
+3193;Pfungstadt;0
+3194;Darmstadt;140385
+3195;Wörth a.Main;0
+3196;Weilbach;0
+3197;Schneeberg;0
+3198;Röllbach;0
+3199;Mönchberg;0
+3200;Kirchzell;0
+3201;Eichenbühl;0
+3202;Bürgstadt;0
+3203;Kleinheubach, Rüdenau;0
+3204;Großheubach;0
+3205;Amorbach;0
+3206;Klingenberg a. Main;0
+3207;Erlenbach a.Main;0
+3208;Miltenberg;0
+3209;Weibersbrunn, Rohrbrunner Forst;0
+3210;Sailauf;0
+3211;Mespelbrunn;0
+3212;Dammbach;0
+3213;Heimbuchenthal;0
+3214;Heinrichsthal;0
+3215;Heigenbrücken;0
+3216;Großwallstadt;0
+3217;Johannesberg;0
+3218;Glattbach;0
+3219;Eschau;0
+3220;Rothenbuch, Rothenbucher Forst;0
+3221;Waldaschaff, Waldaschaffer Forst;0
+3222;Bessenbach;0
+3223;Mömlingen;0
+3224;Leidersbach;0
+3225;Laufach;0
+3226;Niedernberg;0
+3227;Kleinwallstadt;0
+3228;Sulzbach am Main;0
+3229;Wiesen, Wiesener Forst;0
+3230;Krombach;0
+3231;Kleinkahl;0
+3232;Geiselbach;0
+3233;Schöllkrippen, Blankenbach;0
+3234;Elsenfeld;0
+3235;Mainaschaff;0
+3236;Stockstadt am Main;0
+3237;Kleinostheim;0
+3238;Kahl am Main;0
+3239;Karlstein am Main;0
+3240;Obernburg a.Main;0
+3241;Mömbris;0
+3242;Goldbach;0
+3243;Hösbach;0
+3244;Großostheim;0
+3245;Alzenau;0
+3246;Aschaffenburg;68551
+3247;Kefenrod;0
+3248;Hirzenhain;0
+3249;Glauburg;0
+3250;Limeshain;0
+3251;Ranstadt;0
+3252;Gedern;0
+3253;Schotten;0
+3254;Nidda;0
+3255;Büdingen;0
+3256;Flörsbachtal;0
+3257;Jossgrund;0
+3258;Brachttal;0
+3259;Birstein;0
+3260;Bad Soden-Salmünster;0
+3261;Bad Orb;0
+3262;Wächtersbach;0
+3263;Biebergemünd;0
+3264;Hasselroth;0
+3265;Linsengericht;0
+3266;Gründau;0
+3267;Freigericht;0
+3268;Gelnhausen;0
+3269;Ronneburg;0
+3270;Hammersbach;0
+3271;Neuberg;0
+3272;Großkrotzenburg;0
+3273;Mainhausen;0
+3274;Erlensee;0
+3275;Hainburg;0
+3276;Langenselbold;0
+3277;Seligenstadt;0
+3278;Bruchköbel;0
+3279;Maintal;38313
+3280;Hanau;0
+3281;Egelsbach;0
+3282;Rödermark;0
+3283;Dreieich;40367
+3284;Neu-Isenburg;0
+3285;Langen;35416
+3286;Obertshausen;0
+3287;Mühlheim am Main;0
+3288;Heusenstamm;0
+3289;Dietzenbach;0
+3290;Rodgau;43315
+3291;Offenbach am Main;0
+3292;Kronberg im Taunus;0
+3293;Königstein im Taunus;0
+3294;Steinbach (Taunus);0
+3295;Oberursel (Taunus);0
+3296;Schmitten;0
+3297;Friedrichsdorf;0
+3298;Bad Homburg v.d. Höhe;0
+3299;Grävenwiesbach;0
+3300;Weilrod;0
+3301;Wehrheim;0
+3302;Neu-Anspach;0
+3303;Usingen;0
+3304;Ober-Mörlen;0
+3305;Bad Nauheim;0
+3306;Echzell;0
+3307;Wöllstadt;0
+3308;Reichelsheim (Wetterau);0
+3309;Wölfersheim;0
+3310;Florstadt;0
+3311;Niddatal;0
+3312;Rosbach v.d. Höhe;0
+3313;Karben;0
+3314;Friedberg (Hessen);0
+3315;Niederdorfelden;0
+3316;Schöneck;0
+3317;Nidderau;0
+3318;Bad Vilbel;0
+3319;Frankfurt am Main (Taunusturm);0
+3320;Frankfurt;0
+3321;Frankfurt am Main, Opernturm;0
+3322;Bromskirchen, Hallenberg;0
+3323;Medebach;0
+3324;Winterberg;0
+3325;Olsberg;0
+3326;Bestwig;0
+3327;Eslohe;0
+3328;Meschede;0
+3329;Sundern;0
+3330;Arnsberg;76612
+3331;Anröchte;0
+3332;Rüthen;0
+3333;Erwitte;0
+3334;Geseke;0
+3335;Warstein;0
+3336;Lippstadt;67219
+3337;Möhnesee;0
+3338;Welver;0
+3339;Lippetal;0
+3340;Bad Sassendorf;0
+3341;Soest;48037
+3342;Ense;0
+3343;Werl;0
+3344;Holzwickede;0
+3345;Unna;66734
+3346;Olfen;0
+3347;Nordkirchen;0
+3348;Ascheberg;0
+3349;Selm;0
+3350;Werne;0
+3351;Lüdinghausen;0
+3352;Wadersloh;0
+3353;Ennigerloh;0
+3354;Oelde;0
+3355;Beckum;37814
+3356;Ahlen;55280
+3357;Bönen;0
+3358;Bergkamen;52329
+3359;Kamen;45927
+3360;Herscheid;0
+3361;Plettenberg;0
+3362;Neuenrade;0
+3363;Balve;0
+3364;Werdohl;0
+3365;Nachrodt-Wiblingwerde;0
+3366;Altena;0
+3367;Wickede (Ruhr);0
+3368;Fröndenberg/Ruhr;0
+3369;Menden;58451
+3370;Hemer;37502
+3371;Iserlohn;97910
+3372;Schalksmühle;0
+3373;Kierspe;0
+3374;Halver;0
+3375;Meinerzhagen;0
+3376;Lüdenscheid;0
+3377;Witten;101247
+3378;Schwelm;0
+3379;Herdecke;0
+3380;Wetter (Ruhr);0
+3381;Gevelsberg;0
+3382;Ennepetal;0
+3383;Schwerte;50399
+3384;Hagen;198972
+3385;Unnau;0
+3386;Nistertal, Enspel;0
+3387;Nister;0
+3388;Hattert;0
+3389;Alpenrod;0
+3390;Oberlahr;0
+3391;Oberdreis;0
+3392;Neitersen;0
+3393;Mammelzen;0
+3394;Weyerbusch;0
+3395;Flammersfeld;0
+3396;Malberg, Norken, Höchstenbach u.a.;0
+3397;Hachenburg;0
+3398;Steimel;0
+3399;Birnbach;0
+3400;Altenkirchen (Westerwald);0
+3401;Pracht;0
+3402;Birken-Honigsessen;0
+3403;Weitefeld;0
+3404;Scheuerfeld;0
+3405;Nauroth;0
+3406;Katzwinkel (Sieg);0
+3407;Gebhardshain;0
+3408;Elkenroth;0
+3409;Hamm (Sieg);0
+3410;Niederfischbach;0
+3411;Daaden;0
+3412;Herdorf;0
+3413;Mudersbach;0
+3414;Kirchen (Sieg);0
+3415;Fürthen;0
+3416;Wissen, Hövels u.a.;0
+3417;Emmerzhausen, Niederdreisbach, Steinebach;0
+3418;Betzdorf;0
+3419;Drolshagen;0
+3420;Wenden;0
+3421;Olpe;0
+3422;Attendorn;0
+3423;Finnentrop;0
+3424;Kirchhundem;0
+3425;Schmallenberg;0
+3426;Lennestadt;0
+3427;Erndtebrück;0
+3428;Bad Laasphe;0
+3429;Bad Berleburg;0
+3430;Burbach;0
+3431;Hilchenbach;0
+3432;Netphen;0
+3433;Wilnsdorf;0
+3434;Kreuztal;0
+3435;Siegen;107242
+3436;Mastershausen;0
+3437;Briedel;0
+3438;Blankenrath u.a.;0
+3439;Bad Bertrich;0
+3440;Pünderich;0
+3441;Reil;0
+3442;Bullay, Alf, Zell;0
+3443;Peterswald-Löffelscheid u.a.;0
+3444;Zell (Mosel);0
+3445;Enkirch u.a.;0
+3446;Irmenach;0
+3447;Traben-Trarbach;0
+3448;Pommern;0
+3449;Alflen;0
+3450;Lutzerath;0
+3451;Gevenich;0
+3452;Büchel;0
+3453;Ellenz-Poltersdorf;0
+3454;Senheim;0
+3455;Klotten;0
+3456;Ediger-Eller;0
+3457;Cochem;0
+3458;Retterath;0
+3459;Uersfeld;0
+3460;Ulmen;0
+3461;Düngenheim;0
+3462;Kaisersesch;0
+3463;Binningen;0
+3464;Mertloch, Welling u.a.;0
+3465;Polch;0
+3466;Kempenich;0
+3467;Bell;0
+3468;Mendig;0
+3469;Kottenheim;0
+3470;Mayen;0
+3471;Burgbrohl;0
+3472;Brohl-Lützing;0
+3473;Niederzissen;0
+3474;Saffig;0
+3475;Nickenich;0
+3476;Kruft;0
+3477;Plaidt;0
+3478;Kretz;0
+3479;Andernach;0
+3480;Leutesdorf;0
+3481;Rheinbrohl;0
+3482;Willroth;0
+3483;Horhausen (Westerwald);0
+3484;Niederbreitbach;0
+3485;Waldbreitbach, Hasuen;0
+3486;Straßenhaus;0
+3487;Anhausen;0
+3488;Melsbach;0
+3489;Rengsdorf;0
+3490;Weißenthurm;0
+3491;Neuwied;66805
+3492;Oberrod u.a.;0
+3493;Rennerod, Zehnhausen, Nister-Möhrendorf, Waigandshain;0
+3494;Nisterau u.a.;0
+3495;Bad Marienberg (Westerwald);0
+3496;Höhn;0
+3497;Bellingen, Kölbingen, Gemünden u.a.;0
+3498;Westerburg;0
+3499;Dernbach (Westerwald);0
+3500;Siershahn;0
+3501;Mogendorf, Ebernhahn, Staudt u.a.;0
+3502;Wirges, Stadt;0
+3503;Meudt, Molsberg, Hundsangen, Niederahr u.a.;0
+3504;Nentershausen, Hübingen, Niederelbert u.a.;0
+3505;Montabaur;0
+3506;Singhofen;0
+3507;Nassau;0
+3508;Schönborn;0
+3509;Katzenelnbogen;0
+3510;Nastätten u.a.;0
+3511;Kaub;0
+3512;Bornich, Patersberg;0
+3513;Sankt Goarshausen u.a.;0
+3514;Kamp-Bornhofen-Filsen;0
+3515;Osterspai;0
+3516;Braubach;0
+3517;Eitelborn;0
+3518;Neuhäusel;0
+3519;Winningen;0
+3520;Lehmen, Niederfell, Oberfell, Wolken u.a.;0
+3521;Kobern-Gondorf;0
+3522;Sankt Goar;0
+3523;Waldesch, Hünenfeld;0
+3524;Spay;0
+3525;Rhens;0
+3526;Raubach;0
+3527;Dürrholz;0
+3528;Puderbach;0
+3529;Ochtendung;0
+3530;Lonnig;0
+3531;Münstermaifeld;0
+3532;Leiningen;0
+3533;Beltheim;0
+3534;Kastellaun;0
+3535;Wildenbungert, Gondershausen, Nörtershausen u.a.;0
+3536;Emmelshausen;0
+3537;Großmaischeid;0
+3538;Kleinmaischeid;0
+3539;Dierdorf;0
+3540;Müden;0
+3541;Treis-Karden;0
+3542;Herschbach;0
+3543;Freilingen, Freirachdorf u.a.;0
+3544;Selters (Westerwald);0
+3545;Nauort;0
+3546;Ransbach-Baumbach;0
+3547;Urmitz;0
+3548;Mülheim-Kärlich;0
+3549;Hilgert;0
+3550;Hillscheid;0
+3551;Höhr-Grenzhausen;0
+3552;Weitersburg;0
+3553;Urbar (bei Koblenz);0
+3554;Vallendar;0
+3555;Bendorf;0
+3556;Boppard;0
+3557;Fachbach, Exklave Lahnstein;0
+3558;Bad Ems Umland;0
+3559;Bad Ems;0
+3560;Lahnstein;0
+3561;Koblenz;107319
+3562;Heimbach;0
+3563;Berschweiler bei Baumholder;0
+3564;Berglangenbach, Ruschberg u.a.;0
+3565;Baumholder;0
+3566;Hoppstädten-Weiersbach;0
+3567;Brücken, Oberbrombach u.a.;0
+3568;Birkenfeld u.a.;0
+3569;Niederwörresbach;0
+3570;Herrstein;0
+3571;Idar-Oberstein;0
+3572;Seesbach;0
+3573;Merxheim;0
+3574;Bundenbach;0
+3575;Rhaunen;0
+3576;Hundsbach;0
+3577;Hennweiler;0
+3578;Simmertal;0
+3579;Kirn;0
+3580;Gau-Bickelheim;0
+3581;Wöllstein;0
+3582;Waldböckelheim;0
+3583;Hargesheim;0
+3584;Rüdesheim;0
+3585;Rehborn;0
+3586;Meisenheim;0
+3587;Norheim u.a.;0
+3588;Bad Kreuznach;43213
+3589;Wallertheim;0
+3590;Sprendlingen;0
+3591;Odernheim am Glan;0
+3592;Monzingen;0
+3593;Staudernheim;0
+3594;Sobernheim;0
+3595;Bretzenheim;0
+3596;Hackenheim;0
+3597;Riesweiler;0
+3598;Ellern (Hunsrück), Schnorbach;0
+3599;Argenthal;0
+3600;Rheinböllen;0
+3601;Büchenbeuren;0
+3602;Gemünden;0
+3603;Sohren;0
+3604;Dickenschied u.a.;0
+3605;Kirchberg u.a.;0
+3606;Tiefenbach u.a.;0
+3607;Simmern/Hunsrück u.a.;0
+3608;Aspisheim, Grolsheim;0
+3609;Gensingen;0
+3610;Guldental;0
+3611;Langenlonsheim;0
+3612;Seibersbach;0
+3613;Stromberg;0
+3614;Ockenheim;0
+3615;Gau-Algesheim;0
+3616;Niederburg;0
+3617;Oberwesel;0
+3618;Waldalgesheim;0
+3619;Münster-Sarmsheim;0
+3620;Bacharach, Breitscheid;0
+3621;Weiler bei Bingen;0
+3622;Bingen am Rhein;0
+3623;Nackenheim;0
+3624;Harxheim;0
+3625;Bodenheim;0
+3626;Saulheim;0
+3627;Armsheim;0
+3628;Wörrstadt;0
+3629;Nierstein;0
+3630;Mommenheim;0
+3631;Oppenheim;0
+3632;Stadecken-Elsheim;0
+3633;Ober-Olm;0
+3634;Nieder-Olm;0
+3635;Wackernheim;0
+3636;Heidesheim am Rhein;0
+3637;Budenheim;0
+3638;Mainz-Kastel;0
+3639;Gau-Odernheim;0
+3640;Flonheim;0
+3641;Albig;0
+3642;Alzey;0
+3643;Ingelheim am Rhein;0
+3644;Mainz;184997
+3645;Mainz Ebersheim, Hechtsheim;0
+3646;Daleiden, Preischeid u.a.;0
+3647;Arzfeld;0
+3648;Körperich u.a.;0
+3649;Neuerburg u.a.;0
+3650;Bollendorf;0
+3651;Ferschweiler;0
+3652;Irrel;0
+3653;Preist;0
+3654;Speicher;0
+3655;Badem, Gindorf, Neidenbach;0
+3656;Kyllburg;0
+3657;Waxweiler;0
+3658;Dudeldorf;0
+3659;Bettingen;0
+3660;Rittersdorf u.a.;0
+3661;Bitburg;0
+3662;Üttfeld;0
+3663;Lützkampen;0
+3664;Winterspelt;0
+3665;Schönecken;0
+3666;Lasel;0
+3667;Hallschlag;0
+3668;Büdesheim;0
+3669;Bleialf;0
+3670;Pronsfeld;0
+3671;Prüm;0
+3672;Stadtkyll;0
+3673;Lissendorf;0
+3674;Schüller;0
+3675;Esch;0
+3676;Jünkerath;0
+3677;Üxheim;0
+3678;Walsdorf, Nohn u.a.;0
+3679;Birresborn;0
+3680;Pelm, Neroth u.a.;0
+3681;Gerolstein;0
+3682;Gillenfeld;0
+3683;Mehren u.a.;0
+3684;Daun;0
+3685;Ürzig;0
+3686;Bausendorf;0
+3687;Kröv;0
+3688;Großlittgen;0
+3689;Bettenfeld, Niederöfflingen u.a.;0
+3690;Manderscheid;0
+3691;Spangdahlem;0
+3692;Salmtal;0
+3693;Landscheid;0
+3694;Klausen;0
+3695;Hetzerath, Dierscheid, Heckenmünster;0
+3696;Niersbach, Sehlem, Plein u.a.;0
+3697;Wittlich;0
+3698;Piesport;0
+3699;Morbach;0
+3700;Zeltingen-Rachtig, Erden, Lösnich u.a.;0
+3701;Wintrich;0
+3702;Mülheim (Mosel);0
+3703;Maring-Noviand;0
+3704;Kleinich;0
+3705;Monzelfeld, Hochscheid u.a.;0
+3706;Bernkastel-Kues u.a.;0
+3707;Wiltingen;0
+3708;Wincheringen;0
+3709;Tawern;0
+3710;Serrig;0
+3711;Nittel;0
+3712;Irsch;0
+3713;Freudenburg;0
+3714;Ayl, Trassem u.a.;0
+3715;Saarburg;0
+3716;Schillingen;0
+3717;Kell am See;0
+3718;Malborn;0
+3719;Thalfang;0
+3720;Reinsfeld;0
+3721;Gusenburg;0
+3722;Deuselbach, Hermeskeil, Rorodt;0
+3723;Trittenheim;0
+3724;Neumagen-Dhron;0
+3725;Kenn;0
+3726;Föhren;0
+3727;Fell;0
+3728;Leiwen u.a.;0
+3729;Schweich;0
+3730;Wasserliesch;0
+3731;Pellingen;0
+3732;Konz;0
+3733;Waldrach;0
+3734;Mertesdorf;0
+3735;Osburg, Gusterath, Farschweiler, Kasel u.a.;0
+3736;Pluwig;0
+3737;Zerf;0
+3738;Zemmer;0
+3739;Trierweiler;0
+3740;Ralingen;0
+3741;Newel;0
+3742;Langsur;0
+3743;Kordel;0
+3744;Welschbillig, Igel, Aach;0
+3745;Trier;100129
+3746;Dahlem;0
+3747;Nettersheim;0
+3748;Blankenheim;0
+3749;Hellenthal;0
+3750;Schleiden;0
+3751;Kall;0
+3752;Weilerswist;0
+3753;Swisttal;0
+3754;Zülpich;0
+3755;Bad Münstereifel;0
+3756;Mechernich;0
+3757;Euskirchen;54889
+3758;Niederkassel;36480
+3759;Troisdorf;74749
+3760;Ruppichteroth;0
+3761;Lohmar;0
+3762;Eitorf;0
+3763;Sankt Augustin;56094
+3764;Siegburg;39135
+3765;Königswinter;0
+3766;Rheinbreitbach;0
+3767;Bad Honnef;0
+3768;Erpel;0
+3769;Windhagen;0
+3770;Neustadt (Wied);0
+3771;Bruchhausen, Unkel;0
+3772;Asbach, Buchholz;0
+3773;Sankt Katharinen (Landkreis Neuwied);0
+3774;Vettelschloß, Kretzhaus (Linz am Rhein);0
+3775;Bad Hönningen;0
+3776;Breitscheid, Dattenberg, Hausen, Hümmerich, Kasbach-Ohlenberg, Roßbach u.a.;0
+3777;Linz am Rhein, Ockenfels;0
+3778;Bodenbach, Kelberg, Kirsbach u.a.;0
+3779;Barweiler, Bauler, Hoffeld, Pomster, Wiesemscheid, Wirft;0
+3780;Antweiler, Aremberg, Dorsel, Eichenbach, Aremberg, Fuchshofen und Müsch;0
+3781;Reifferscheid, Kaltenborn, Wershofen u.a.;0
+3782;Adenau, Kottenborn u.a.;0
+3783;Mayschoß;0
+3784;Dernau;0
+3785;Ahrbrück, Heckenbach, Hönningen, Kesseling, Rech;0
+3786;Altenahr, Berg, Kalenborn, Kirchsahr;0
+3787;Grafschaft;0
+3788;Bad Breisig, Waldorf, Gönnersdorf;0
+3789;Sinzig;0
+3790;Bad Neuenahr-Ahrweiler;0
+3791;Schalkenbach, Königsfeld, Dedenbach;0
+3792;Remagen;0
+3793;Rheinbach;0
+3794;Alfter;0
+3795;Wachtberg;0
+3796;Bornheim;48523
+3797;Bonn;313125
+3798;Gangelt, Selfkant;0
+3799;Übach-Palenberg;0
+3800;Waldfeucht, Heinsberg;0
+3801;Geilenkirchen;0
+3802;Baesweiler;0
+3803;Alsdorf;46340
+3804;Inden;0
+3805;Aldenhoven;0
+3806;Titz;0
+3807;Linnich;0
+3808;Jülich;0
+3809;Merzenich;0
+3810;Hürtgenwald;0
+3811;Vettweiß;0
+3812;Nörvenich;0
+3813;Nideggen;0
+3814;Niederzier;0
+3815;Langerwehe;0
+3816;Kreuzau;0
+3817;Düren;0
+3818;Eschweiler;55778
+3819;Stolberg;58874
+3820;Stolberg (Rhld.);0
+3821;Roetgen;0
+3822;Monschau;0
+3823;Simmerath;0
+3824;Würselen;0
+3825;Herzogenrath;47381
+3826;Aachen;265208
+3827;Engelskirchen;0
+3828;Marienheide;0
+3829;Bergneustadt;0
+3830;Wiehl;0
+3831;Gummersbach;53131
+3832;Friesenhagen;0
+3833;Morsbach;0
+3834;Nümbrecht;0
+3835;Reichshof;0
+3836;Waldbröl;0
+3837;Odenthal;0
+3838;Rösrath;0
+3839;Bergisch Gladbach;106184
+3840;Burscheid;0
+3841;Leverkusen;162738
+3842;Köln;0
+3843;Wesseling;35665
+3844;Erftstadt;51207
+3845;Hürth;0
+3846;Pulheim;53762
+3847;Frechen;48733
+3848;Elsdorf;0
+3849;Bedburg;0
+3850;Kerpen;64226
+3851;Wilsum;0
+3852;Itterbeck/Wielen;0
+3853;Hoogstede;0
+3854;Bawinkel;0
+3855;Uelsen, Halle, Gölenkamp, Getelo;0
+3856;Lengerich u.a.;0
+3857;Wietmarschen;0
+3858;Andervenne, Beesten, Freren, Messingen, Thuine;0
+3859;Esche, Georgsdorf, Lage, Neuenhaus, Osterwald;0
+3860;Ringe, Laar, Emlichheim;0
+3861;Lingen;51310
+3862;Oberlangen, Niederlangen;0
+3863;Stavern;0
+3864;Lähden;0
+3865;Herzlake, Dohren;0
+3866;Twist;0
+3867;Sustrum, Lathen u.a.;0
+3868;Werlte, Vrees, Lahn;0
+3869;Sögel u.a.;0
+3870;Geeste;0
+3871;Haselünne;0
+3872;Haren;0
+3873;Meppen;34198
+3874;Lindern (Oldenburg);0
+3875;Molbergen;0
+3876;Cappeln (Oldenburg);0
+3877;Lastrup;0
+3878;Emstek;0
+3879;Garrel;0
+3880;Cloppenburg;0
+3881;Nortrup;0
+3882;Menslage;0
+3883;Badbergen;0
+3884;Essen (Oldenburg);0
+3885;Berge, Bippen;0
+3886;Löningen;0
+3887;Quakenbrück;0
+3888;Voltlage;0
+3889;Rieste;0
+3890;Gehrde;0
+3891;Alfhausen;0
+3892;Bersenbrück;0
+3893;Merzen, Neuenkirchen;0
+3894;Fürstenau;0
+3895;Kettenkamp, Eggermühlen, Ankum;0
+3896;Bramsche;0
+3897;Ladbergen;0
+3898;Tecklenburg;0
+3899;Lienen;0
+3900;Lengerich;0
+3901;Recke;0
+3902;Lotte;0
+3903;Mettingen;0
+3904;Westerkappeln;0
+3905;Ibbenbüren;0
+3906;Lembruch, Burlage;0
+3907;Drebber;0
+3908;Bakum;0
+3909;Barver, Dickel, Hemsloh, Rehden, Wetschen, Wehrblecker Heide;0
+3910;Holdorf;0
+3911;Lemförde u.a.;0
+3912;Neuenkirchen-Vörden;0
+3913;Visbek;0
+3914;Goldenstedt;0
+3915;Wagenfeld;0
+3916;Dinklage;0
+3917;Barnstorf, Eydelstedt, Drentwede;0
+3918;Damme;0
+3919;Lohne;0
+3920;Vechta;0
+3921;Diepholz;0
+3922;Melle;46514
+3923;Glandorf;0
+3924;Bad Rothenfelde;0
+3925;Hasbergen;0
+3926;Dissen;0
+3927;Bad Laer;0
+3928;Belm;0
+3929;Bad Iburg;0
+3930;Ostercappeln;0
+3931;Hilter;0
+3932;Hagen am Teutoburger Wald;0
+3933;Bohmte;0
+3934;Bad Essen;0
+3935;Bissendorf;0
+3936;Wallenhorst;0
+3937;Georgsmarienhütte;0
+3938;Osnabrück;0
+3939;Legden;0
+3940;Reken;0
+3941;Billerbeck;0
+3942;Rosendahl;0
+3943;Gescher;0
+3944;Stadtlohn;0
+3945;Vreden;0
+3946;Ahaus;38165
+3947;Coesfeld;36631
+3948;Metelen;0
+3949;Schöppingen;0
+3950;Heek;0
+3951;Horstmar;0
+3952;Ochtrup;0
+3953;Gronau;46161
+3954;Steinfurt;34601
+3955;Nordhorn;52803
+3956;Salzbergen;0
+3957;Hopsten;0
+3958;Emsbüren;0
+3959;Neuenkirchen;0
+3960;Lünne, Schapen, Spelle;0
+3961;Hörstel;0
+3962;Engden, Isterberg, Schüttorf u.a.;0
+3963;Bad Bentheim;0
+3964;Rheine;76491
+3965;Saerbeck;0
+3966;Laer;0
+3967;Beelen;0
+3968;Nordwalde;0
+3969;Everswinkel;0
+3970;Ostbevern;0
+3971;Altenberge;0
+3972;Sassenberg;0
+3973;Havixbeck;0
+3974;Sendenhorst;0
+3975;Drensteinfurt;0
+3976;Nottuln;0
+3977;Telgte;0
+3978;Emsdetten;35582
+3979;Greven;35080
+3980;Dülmen;0
+3981;Warendorf;38707
+3982;Grefrath;0
+3983;Tönisvorst;0
+3984;Kempen;36312
+3985;Willich;51843
+3986;Krefeld;237984
+3987;Wachtendonk;0
+3988;Sonsbeck;0
+3989;Issum;0
+3990;Weeze;0
+3991;Kerken;0
+3992;Straelen;0
+3993;Kevelaer-Kervenheim;0
+3994;Kevelaer-Winnekendonk;0
+3995;Kevelaer-Wetten;0
+3996;Kevelaer-Twisteden;0
+3997;Kevelaer-Mitte;0
+3998;Geldern;34013
+3999;Uedem;0
+4000;Goch;0
+4001;Kranenburg;0
+4002;Bedburg-Hau;0
+4003;Kalkar;0
+4004;Kleve;49072
+4005;Rheurdt;0
+4006;Neukirchen-Vluyn;0
+4007;Rheinberg;0
+4008;Kamp-Lintfort;39490
+4009;Moers;107816
+4010;Duisburg;504358
+4011;Hünxe;0
+4012;Voerde (Niederrhein);0
+4013;Dinslaken;70573
+4014;Alpen;0
+4015;Schermbeck;0
+4016;Xanten;0
+4017;Hamminkeln;0
+4018;Wesel;61685
+4019;Rees;0
+4020;Emmerich am Rhein;0
+4021;Isselburg;0
+4022;Rhede;0
+4023;Bocholt;73943
+4024;Heiden;0
+4025;Südlohn;0
+4026;Raesfeld;0
+4027;Velen;0
+4028;Borken;40876
+4029;Dorsten;79981
+4030;Bottrop;119909
+4031;Gladbeck;76940
+4032;Gelsenkirchen;270028
+4033;Gelsenkirchen Rotthausen;0
+4034;Marl;91398
+4035;Oer-Erkenschwick;0
+4036;Waltrop;0
+4037;Haltern am See;0
+4038;Datteln;36338
+4039;Herten;65306
+4040;Recklinghausen;122438
+4041;Sprockhövel;0
+4042;Hattingen;56866
+4043;Mülheim an der Ruhr;0
+4044;Essen;593085
+4045;Bochum;385729
+4046;Herne;172108
+4047;Castrop-Rauxel;77924
+4048;Lünen;0
+4049;Dortmund;588462
+4050;Wermelskirchen;36816
+4051;Remscheid;117118
+4052;Leichlingen;0
+4053;Haan;0
+4054;Solingen;164359
+4055;Heiligenhaus;0
+4056;Velbert;87669
+4057;Hückeswagen;0
+4058;Wülfrath;0
+4059;Wuppertal;360797
+4060;Wassenberg;0
+4061;Wegberg;0
+4062;Hückelhoven;0
+4063;Erkelenz;44650
+4064;Viersen;76153
+4065;Rommerskirchen;0
+4066;Kaarst;42112
+4067;Dormagen;63582
+4068;Grevenbroich;64779
+4069;Neuss;152457
+4070;Brüggen;0
+4071;Niederkrüchten;0
+4072;Schwalmtal;0
+4073;Jüchen;0
+4074;Korschenbroich;0
+4075;Nettetal;42417
+4076;Mönchengladbach;0
+4077;Ratingen;91606
+4078;Mettmann;39550
+4079;Monheim am Rhein;43038
+4080;Hilden;56565
+4081;Hilden, Düsseldorf;0
+4082;Erkrath;47815
+4083;Meerbusch;54826
+4084;Düsseldorf;0
+4085;Gardelegen;0
+4086;Oebisfelde;0
+4087;Bismark;0
+4088;Kalbe;0
+4089;Arendsee;0
+4090;Seehausen, Werben, Leppin u.a.;0
+4091;Osterburg, Altmärkische Höhe;0
+4092;Goldbeck, Arneburg u.a.;0
+4093;Tangermünde;0
+4094;Rochau;0
+4095;Stendal;37722
+4096;Havelberg;0
+4097;Sandau;0
+4098;Tangerhütte u.a.;0
+4099;Börde-Hakel;0
+4100;Staßfurt;0
+4101;Hecklingen;0
+4102;Güsten;0
+4103;Egeln, Borne, Wolmirsleben u.a.;0
+4104;Schwanebeck, Gröningen, Kroppenstedt;0
+4105;Hötensleben, Völpke, Ottleben u.a.;0
+4106;Oschersleben (Bode);0
+4107;Harbke, Sommersdorf, Wefensleben, Ummendorf, Eilsleben;0
+4108;Rätzlingen, Wegenstedt, Calvörde, Böddensell u.a.;0
+4109;Weferlingen, Behnsdorf, Belsdorf u.a.;0
+4110;Haldensleben, Flechtingen, Bülstringen u.a.;0
+4111;Erxleben, Nordgermersleben u.a.;0
+4112;Haldensleben;0
+4113;Wolmirstedt u.a.;0
+4114;Jerichow;0
+4115;Elbe-Parey;0
+4116;Burg;0
+4117;Loburg, Leitzkau;0
+4118;Güterglück, Lindau, Deetz u.a.;0
+4119;Zerbst/Anhalt;0
+4120;Barby;0
+4121;Gommern, Dannigkow;0
+4122;Calbe, Rosenburg u.a.;0
+4123;Welsleben, Biere, Eickendorf u.a.;0
+4124;Schönebeck;0
+4125;Schönebeck (Elbe);0
+4126;Barleben;0
+4127;Biederitz, Gerwisch, Menz u.a.;0
+4128;Sülzetal;0
+4129;Eichenbarleben, Irxleben, Niederndodeleben u.a.;0
+4130;Wanzleben-Börde;0
+4131;Magdeburg;229826
+4132;Oberharz am Brocken;0
+4133;Langenstein, Derenburg;0
+4134;Blankenburg, Oberharz am Brocken;0
+4135;Wernigerode;34463
+4136;Ilsenburg, Nordharz;0
+4137;Wernigerode, Nordharz;0
+4138;Huy;0
+4139;Badersleben u.a.;0
+4140;Osterwieck;0
+4141;Harsleben;0
+4142;Wegeleben;0
+4143;Halberstadt, Groß Quenstedt;0
+4144;Halberstadt;39729
+4145;Hahausen, Lutter, Wallmoden;0
+4146;Seesen;0
+4147;Wildemann;0
+4148;Altenau, Schulenberg;0
+4149;Liebenburg;0
+4150;Braunlage;0
+4151;Goslar;43560
+4152;Langelsheim;0
+4153;Clausthal-Zellerfeld, Oberschulenberg;0
+4154;Bad Harzburg, Torfhaus;0
+4155;Wagenhoff, Ringelah;0
+4156;Osloß;0
+4157;Bokensdorf;0
+4158;Weyhausen;0
+4159;Wasbüttel;0
+4160;Ribbesbüttel;0
+4161;Isenbüttel;0
+4162;Calberlah;0
+4163;Hillerse;0
+4164;Leiferde;0
+4165;Müden (Aller);0
+4166;Meinersen;0
+4167;Vordorf;0
+4168;Rötgesbüttel;0
+4169;Didderse;0
+4170;Adenbüttel;0
+4171;Meine;0
+4172;Sassenburg;0
+4173;Gifhorn;43000
+4174;Beetzendorf, Rohrberg, Jübar;0
+4175;Klötze, Apenburg-Winterfeld;0
+4176;Tappenbeck;0
+4177;Jembke;0
+4178;Barwedel;0
+4179;Tülau;0
+4180;Tiddische;0
+4181;Rühen;0
+4182;Parsau;0
+4183;Ehra-Lessien;0
+4184;Bergfeld;0
+4185;Brome;0
+4186;Groß Twülpstedt;0
+4187;Grafhorst;0
+4188;Danndorf;0
+4189;Bahrdorf;0
+4190;Velpke;0
+4191;Wolfsburg;123064
+4192;Söllingen;0
+4193;Gevensleben;0
+4194;Beierstedt;0
+4195;Jerxheim;0
+4196;Wolsdorf;0
+4197;Warberg;0
+4198;Süpplingenburg;0
+4199;Räbke;0
+4200;Süpplingen, Frellstedt;0
+4201;Büddenstedt;0
+4202;Rennau, Querenhorst, Mariental, Grasleben;0
+4203;Schöningen;0
+4204;Helmstedt;0
+4205;Wittmar;0
+4206;Semmenstedt;0
+4207;Roklum;0
+4208;Kissenbrück;0
+4209;Hedeper;0
+4210;Denkte;0
+4211;Schladen-Werla;0
+4212;Dorstadt, Flöthe, Börßum u.a.;0
+4213;Wolfenbüttel;0
+4214;Sehlde;0
+4215;Heere;0
+4216;Haverlah;0
+4217;Elbe;0
+4218;Burgdorf;0
+4219;Baddeckenstedt;0
+4220;Lengede;0
+4221;Salzgitter;101079
+4222;Schwülper;0
+4223;Wendeburg;0
+4224;Sickte, Dettum u.a.;0
+4225;Schöppenstedt;0
+4226;Lehre;0
+4227;Cremlingen;0
+4228;Vechelde;0
+4229;Königslutter am Elm;0
+4230;Braunschweig;244715
+4231;Fürstenberg;0
+4232;Lauenförde;0
+4233;Marienmünster;0
+4234;Boffzen, Derental;0
+4235;Beverungen;0
+4236;Höxter;0
+4237;Heinsen;0
+4238;Brevörde, Polle, Vahlbruch;0
+4239;Negenborn;0
+4240;Holenberg;0
+4241;Golmbach;0
+4242;Bevern;0
+4243;Lüerdissen;0
+4244;Dielmissen;0
+4245;Holzen, Eschershausen, Eimen;0
+4246;Stadtoldendorf u.a.;0
+4247;Halle;0
+4248;Bodenwerder, Pegestorf, Kirchbrak, Hehlen;0
+4249;Holzminden;0
+4250;Kalefeld;0
+4251;Dassel;0
+4252;Bad Gandersheim;0
+4253;Einbeck, Kreiensen;0
+4254;Bad Grund;0
+4255;Osterode am Harz;0
+4256;Walkenried;0
+4257;Bad Sachsa;0
+4258;Gieboldehausen, Rhumequelle;0
+4259;Bad Lauterberg;0
+4260;Herzberg, Elbingerode, Hörden;0
+4261;Küllstedt;0
+4262;Niederorschel u.a.;0
+4263;Dingelstädt;0
+4264;Am Ohmberg, Sonnenstein;0
+4265;Worbis;0
+4266;Leinefelde-Worbis, Wingerode, Hausen;0
+4267;Arenshausen, Uder u.a.;0
+4268;Heiligenstadt;0
+4269;Weißenborn;0
+4270;Berkatal;0
+4271;Ringgau;0
+4272;Herleshausen;0
+4273;Meißner;0
+4274;Wehretal;0
+4275;Waldkappel;0
+4276;Wanfried;0
+4277;Meinhard;0
+4278;Eschwege;0
+4279;Neu-Eichenberg;0
+4280;Großalmerode;0
+4281;Bad Sooden-Allendorf;0
+4282;Hessisch Lichtenau;0
+4283;Witzenhausen;0
+4284;Witzenhausen, Gutsbezirk;0
+4285;Wulften;0
+4286;Hattorf;0
+4287;Bodenfelde, Wahlsburg;0
+4288;Katlenburg-Lindau;0
+4289;Moringen;0
+4290;Hardegsen;0
+4291;Nörten-Hardenberg;0
+4292;Uslar;0
+4293;Northeim;0
+4294;Adelebsen;0
+4295;Seulingen, Waake u.a.;0
+4296;Friedland;0
+4297;Gleichen;0
+4298;Dransfeld u.a.;0
+4299;Rosdorf;0
+4300;Bovenden;0
+4301;Duderstadt;0
+4302;Göttingen;0
+4303;Tiefenort;0
+4304;Dermbach, Wiesenthal;0
+4305;Krayenberggemeinde, Frauensee;0
+4306;Stadtlengsfeld, Weilar, Urnshausen;0
+4307;Barchfeld-Immelborn;0
+4308;Kaltennordheim;0
+4309;Bad Liebenstein;0
+4310;Bad Salzungen;0
+4311;Geisa;0
+4312;Unterbreizbach;0
+4313;Vacha, Unterbreizbach;0
+4314;Freiensteinau;0
+4315;Steinau an der Straße;0
+4316;Sinntal;0
+4317;Schlüchtern;0
+4318;Bad Salzschlirf;0
+4319;Herbstein;0
+4320;Grebenhain;0
+4321;Romrod;0
+4322;Antrifttal;0
+4323;Feldatal;0
+4324;Grebenau;0
+4325;Kirtorf;0
+4326;Alsfeld;0
+4327;Friedewald;0
+4328;Breitenbach am Herzberg;0
+4329;Neuenstein (Hessen);0
+4330;Hohenroda;0
+4331;Hauneck;0
+4332;Oberaula;0
+4333;Schenklengsfeld;0
+4334;Kirchheim (Hessen);0
+4335;Niederaula;0
+4336;Philippsthal;0
+4337;Heringen;0
+4338;Bad Hersfeld, Ludwigsau;0
+4339;Cornberg;0
+4340;Ronshausen;0
+4341;Nentershausen;0
+4342;Alheim;0
+4343;Wildeck;0
+4344;Sontra;0
+4345;Rotenburg an der Fulda;0
+4346;Bebra;0
+4347;Rasdorf;0
+4348;Nüsttal;0
+4349;Haunetal;0
+4350;Dipperz;0
+4351;Ebersburg;0
+4352;Hosenfeld;0
+4353;Burghaun;0
+4354;Kalbach;0
+4355;Hofbieber;0
+4356;Tann;0
+4357;Großenlüder;0
+4358;Eiterfeld;0
+4359;Gersfeld;0
+4360;Eichenzell;0
+4361;Neuhof;0
+4362;Hilders, Ehrenberg;0
+4363;Schlitz;0
+4364;Flieden;0
+4365;Petersberg;0
+4366;Künzell;0
+4367;Hünfeld;0
+4368;Fulda;63760
+4369;Merenberg;0
+4370;Weinbach;0
+4371;Mengerskirchen;0
+4372;Löhnberg;0
+4373;Weilmünster;0
+4374;Weilburg;0
+4375;Siegbach;0
+4376;Breitscheid;0
+4377;Sinn;0
+4378;Driedorf;0
+4379;Mittenaar;0
+4380;Greifenstein;0
+4381;Herborn;0
+4382;Angelburg;0
+4383;Dietzhölztal;0
+4384;Eschenburg;0
+4385;Haiger;0
+4386;Dillenburg;0
+4387;Bischoffen;0
+4388;Waldolms;0
+4389;Hohenahr;0
+4390;Schöffengrund;0
+4391;Leun;0
+4392;Lahnau;0
+4393;Ehringshausen;0
+4394;Hüttenberg;0
+4395;Braunfels;0
+4396;Aßlar;0
+4397;Solms;0
+4398;Wetzlar;52656
+4399;Wetzlar Garbeinheim;0
+4400;Rockenberg;0
+4401;Münzenberg;0
+4402;Butzbach;0
+4403;Allendorf;0
+4404;Rabenau;0
+4405;Fernwald;0
+4406;Staufenberg;0
+4407;Lollar;0
+4408;Heuchelheim;0
+4409;Reiskirchen;0
+4410;Biebertal;0
+4411;Linden;0
+4412;Wettenberg;0
+4413;Langgöns;0
+4414;Lich;0
+4415;Buseck;0
+4416;Pohlheim;0
+4417;Hungen;0
+4418;Gießen;0
+4419;Gemünden (Felda);0
+4420;Ulrichstein;0
+4421;Mücke;0
+4422;Laubach;0
+4423;Homberg (Ohm);0
+4424;Grünberg;0
+4425;Wohratal;0
+4426;Amöneburg;0
+4427;Rauschenberg;0
+4428;Neustadt;53984
+4429;Kirchhain;0
+4430;Stadtallendorf;0
+4431;Steffenberg;0
+4432;Breidenbach;0
+4433;Dautphetal;0
+4434;Biedenkopf;0
+4435;Rosenthal;0
+4436;Münchhausen;0
+4437;Hatzfeld;0
+4438;Haina;0
+4439;Fronhausen;0
+4440;Frankenau;0
+4441;Lichtenfels;0
+4442;Lohra;0
+4443;Burgwald;0
+4444;Weimar (Lahn);0
+4445;Lahntal;0
+4446;Cölbe;0
+4447;Battenberg;0
+4448;Ebsdorfergrund;0
+4449;Wetter;0
+4450;Bad Endbach;0
+4451;Gladenbach;0
+4452;Frankenberg;0
+4453;Marburg;0
+4454;Schwarzenborn;0
+4455;Schrecksbach;0
+4456;Ottrau;0
+4457;Jesberg;0
+4458;Gilserberg;0
+4459;Willingshausen;0
+4460;Neukirchen (Knüll);0
+4461;Frielendorf;0
+4462;Schwalmstadt;0
+4463;Neuental;0
+4464;Bad Zwesten;0
+4465;Knüllwald;0
+4466;Wabern;0
+4467;Felsberg;0
+4468;Homberg;0
+4469;Fritzlar;0
+4470;Edertal;0
+4471;Bad Wildungen;0
+4472;Diemelsee;0
+4473;Vöhl;0
+4474;Waldeck;0
+4475;Willingen (Upland);0
+4476;Korbach;0
+4477;Breuna;0
+4478;Twistetal;0
+4479;Diemelstadt;0
+4480;Volkmarsen;0
+4481;Wolfhagen;0
+4482;Bad Arolsen;0
+4483;Willebadessen;0
+4484;Borgentreich;0
+4485;Marsberg;0
+4486;Warburg;0
+4487;Oberweser;0
+4488;Liebenau (Hessen);0
+4489;Grebenstein;0
+4490;Trendelburg;0
+4491;Bad Karlshafen;0
+4492;Calden;0
+4493;Immenhausen;0
+4494;Hofgeismar;0
+4495;Reinhardshagen;0
+4496;Hann. Münden, Gutsbezirk Reinhardswald;0
+4497;Nieste;0
+4498;Körle;0
+4499;Morschen;0
+4500;Malsfeld;0
+4501;Söhrewald;0
+4502;Habichtswald;0
+4503;Espenau;0
+4504;Naumburg;0
+4505;Bad Emstal;0
+4506;Niedenstein;0
+4507;Guxhagen;0
+4508;Helsa;0
+4509;Edermünde;0
+4510;Ahnatal;0
+4511;Zierenberg;0
+4512;Spangenberg;0
+4513;Gudensberg;0
+4514;Fuldabrück;0
+4515;Schauenburg;0
+4516;Niestetal;0
+4517;Kaufungen;0
+4518;Lohfelden;0
+4519;Vellmar;0
+4520;Kassel, Fuldatal;0
+4521;Baunatal;0
+4522;Melsungen;0
+4523;Kassel;194501
+4524;Borgholzhausen;0
+4525;Werther (Westf.);0
+4526;Leopoldshöhe;0
+4527;Oerlinghausen;0
+4528;Steinhagen;0
+4529;Halle (Westfalen);0
+4530;Versmold;0
+4531;Schloß Holte-Stukenbrock;0
+4532;Bielefeld;331906
+4533;Langenberg;0
+4534;Herzebrock-Clarholz;0
+4535;Harsewinkel;0
+4536;Verl;0
+4537;Rietberg;0
+4538;Rheda-Wiedenbrück;0
+4539;Gütersloh;0
+4540;Bertelsmann;0
+4541;Schlangen;0
+4542;Altenbeken;0
+4543;Borchen;0
+4544;Bad Lippspringe;0
+4545;Hövelhof;0
+4546;Salzkotten;0
+4547;Büren;0
+4548;Delbrück;0
+4549;Paderborn;142161
+4550;Nieheim;0
+4551;Brakel;0
+4552;Bad Driburg;0
+4553;Steinheim;0
+4554;Augustdorf;0
+4555;Blomberg;0
+4556;Schieder-Schwalenberg;0
+4557;Horn-Bad Meinberg;0
+4558;Lage;36097
+4559;Detmold;73680
+4560;Extertal;0
+4561;Dörentrup;0
+4562;Kalletal;0
+4563;Barntrup;0
+4564;Lügde;0
+4565;Hüllhorst;0
+4566;Vlotho;0
+4567;Löhne;0
+4568;Bad Oeynhausen;49513
+4569;Hille;0
+4570;Petershagen;0
+4571;Porta Westfalica;36364
+4572;Minden;82879
+4573;Rahden;0
+4574;Preußisch Oldendorf;0
+4575;Stemwede;0
+4576;Espelkamp;0
+4577;Lübbecke;0
+4578;Rödinghausen;0
+4579;Kirchlengern;0
+4580;Bünde;0
+4581;Spenge;0
+4582;Enger;0
+4583;Hiddenhausen;0
+4584;Bad Salzuflen;54899
+4585;Herford;64879
+4586;Ottenstein;0
+4587;Pohle, Lauenau, Messenkamp, Hülsede etc;0
+4588;Coppenbrügge;0
+4589;Emmerthal;0
+4590;Aerzen;0
+4591;Bad Münder am Deister;0
+4592;Hessisch Oldendorf;0
+4593;Springe;0
+4594;Bad Pyrmont;0
+4595;Hameln;58666
+4596;Auetal;0
+4597;Rinteln;0
+4598;Wiedensahl;0
+4599;Pollhagen;0
+4600;Nordsehl;0
+4601;Meerbeck;0
+4602;Lauenhagen;0
+4603;Niederwöhren;0
+4604;Luhden;0
+4605;Buchholz;0
+4606;Ahnsen;0
+4607;Heeßen, Bad Eilsen;0
+4608;Lüdersfeld;0
+4609;Heuerßen;0
+4610;Beckedorf;0
+4611;Lindhorst;0
+4612;Hespe;0
+4613;Helpsen, Seggebruch;0
+4614;Nienstädt;0
+4615;Obernkirchen;0
+4616;Bückeburg;0
+4617;Stadthagen;0
+4618;Stöckse;0
+4619;Rodewald;0
+4620;Linsburg;0
+4621;Steimbke;0
+4622;Leese;0
+4623;Husum;0
+4624;Estorf;0
+4625;Landesbergen;0
+4626;Rohrsen;0
+4627;Haßbergen;0
+4628;Drakenburg;0
+4629;Heemsen;0
+4630;Pennigsehl;0
+4631;Binnen;0
+4632;Liebenau;0
+4633;Wietzen;0
+4634;Balge;0
+4635;Marklohe;0
+4636;Warmsen;0
+4637;Raddestorf;0
+4638;Diepenau;0
+4639;Uchte;0
+4640;Steyerberg;0
+4641;Stolzenau;0
+4642;Nienburg/Weser;0
+4643;Haste, Hohnhorst;0
+4644;Hagenburg;0
+4645;Wölpinghausen;0
+4646;Suthfeld;0
+4647;Auhagen, Sachsenhagen;0
+4648;Apelern, Rodenberg;0
+4649;Rehburg-Loccum;0
+4650;Bad Nenndorf;0
+4651;Neustadt am Rübenberge;0
+4652;Wunstorf;42080
+4653;Sehnde;0
+4654;Uetze;0
+4655;Lehrte;43920
+4656;Hohenhameln;0
+4657;Lahstedt;0
+4658;Ilsede;0
+4659;Edemissen;0
+4660;Peine;49953
+4661;Diekholzen;0
+4662;Lamspringe;0
+4663;Algermissen;0
+4664;Holle;0
+4665;Söhlde;0
+4666;Giesen;0
+4667;Harsum;0
+4668;Schellerten;0
+4669;Nordstemmen;0
+4670;Bockenem;0
+4671;Bad Salzdetfurth;0
+4672;Sarstedt;0
+4673;Hildesheim;103052
+4674;Duingen;0
+4675;Freden (Leine);0
+4676;Sibbesse;0
+4677;Grünenplan, Delligsen;0
+4678;Alfeld (Leine);0
+4679;Eime;0
+4680;Gronau (Leine);0
+4681;Salzhemmendorf;0
+4682;Elze;0
+4683;Gehrden;0
+4684;Pattensen;0
+4685;Wennigsen (Deister);0
+4686;Ronnenberg;0
+4687;Burgwedel;0
+4688;Seelze;0
+4689;Isernhagen;0
+4690;Wedemark;0
+4691;Barsinghausen;0
+4692;Laatzen;40038
+4693;Langenhagen;50439
+4694;Garbsen;63355
+4695;Langenhagen (Flughafen);0
+4696;Hannover;515140
+4697;Bomlitz;0
+4698;Hodenhagen u.a.;0
+4699;Schwarmstedt u.a.;0
+4700;Bad Fallingbostel, Osterheide;0
+4701;Walsrode, Ostenholz;0
+4702;Wietzendorf;0
+4703;Bispingen;0
+4704;Schneverdingen, Heimbuch;0
+4705;Munster;0
+4706;Soltau;0
+4707;Weste;0
+4708;Stoetze;0
+4709;Soltendiek;0
+4710;Schwienau;0
+4711;Römstedt;0
+4712;Rätzlingen;0
+4713;Oetzen;0
+4714;Natendorf;0
+4715;Jelmstorf;0
+4716;Himbergen;0
+4717;Hanstedt;0
+4718;Gerdau;0
+4719;Emmendorf;0
+4720;Eimke;0
+4721;Barum;0
+4722;Altenmedingen;0
+4723;Ebstorf;0
+4724;Rosche;0
+4725;Wriedel;0
+4726;Suhlendorf;0
+4727;Wrestedt;0
+4728;Suderburg;0
+4729;Bienenbüttel;0
+4730;Bad Bevensen;0
+4731;Uelzen;34996
+4732;Zernien;0
+4733;Woltersdorf;0
+4734;Waddeweitz;0
+4735;Trebel;0
+4736;Schnackenburg;0
+4737;Prezelle;0
+4738;Neu Darchau;0
+4739;Lübbow;0
+4740;Luckau (Wendland);0
+4741;Lemgow;0
+4742;Langendorf;0
+4743;Küsten;0
+4744;Karwitz;0
+4745;Jameln;0
+4746;Höhbeck;0
+4747;Gusborn;0
+4748;Gorleben;0
+4749;Göhrde;0
+4750;Damnatz;0
+4751;Gartow;0
+4752;Schnega;0
+4753;Wustrow;0
+4754;Clenze;0
+4755;Hitzacker (Elbe);0
+4756;Lüchow;0
+4757;Kuhfelde;0
+4758;Dähre, Diesdorf, Wallstawe;0
+4759;Salzwedel;0
+4760;Wahrenholz;0
+4761;Schönewörde;0
+4762;Lüder;0
+4763;Groß Oesingen;0
+4764;Wesendorf;0
+4765;Bad Bodenteich;0
+4766;Hankensbüttel, Obernholz, Dedelstorf;0
+4767;Wittingen;0
+4768;Ummern;0
+4769;Steinhorst;0
+4770;Sprakensehl;0
+4771;Langlingen;0
+4772;Hohne;0
+4773;Höfer;0
+4774;Habighorst;0
+4775;Eicklingen;0
+4776;Bröckel;0
+4777;Beedenbostel;0
+4778;Ahnsbeck;0
+4779;Adelheidsdorf;0
+4780;Eldingen;0
+4781;Eschede;0
+4782;Unterlüß;0
+4783;Wienhausen;0
+4784;Wathlingen;0
+4785;Nienhagen;0
+4786;Lachendorf;0
+4787;Faßberg;0
+4788;Wietze;0
+4789;Hermannsburg;0
+4790;Hambühren;0
+4791;Winsen (Aller);0
+4792;Bergen, Lohheide u.a.;0
+4793;Celle, Wittbeck;0
+4794;Celle;71010
+4795;Grasberg;0
+4796;Oyten;0
+4797;Ottersberg;0
+4798;Lilienthal;0
+4799;Syke;0
+4800;Weyhe;0
+4801;Achim;0
+4802;Stuhr;0
+4803;Schwanewede;0
+4804;Bremen;546501
+4805;Lemwerder;0
+4806;Berne;0
+4807;Dötlingen;0
+4808;Hude (Oldenburg);0
+4809;Wildeshausen;0
+4810;Ganderkesee;0
+4811;Delmenhorst;75893
+4812;Hambergen, Holste u.a.;0
+4813;Worpswede;0
+4814;Ritterhude;0
+4815;Osterholz-Scharmbeck;0
+4816;Wurster Nordseeküste;0
+4817;Geestland;0
+4818;Schiffdorf;0
+4819;Beverstedt;0
+4820;Loxstedt;0
+4821;Bremerhaven;117446
+4822;Bremerhaven, Bremen;0
+4823;Neuwerk;0
+4824;Helgoland;0
+4825;Cuxhaven;52677
+4826;Kutenholz;0
+4827;Selsingen;0
+4828;Gnarrenburg;0
+4829;Bremervörde;0
+4830;Sittensen u.a.;0
+4831;Tarmstedt, Breddorf u.a.;0
+4832;Zeven, Elsdorf;0
+4833;Fintel, Lauenbrück u.a.;0
+4834;Bothel, Kirchwalsede u.a.;0
+4835;Scheeßel;0
+4836;Visselhövede;0
+4837;Sottrum, Reeßum, Bötersen u.a.;0
+4838;Rotenburg;0
+4839;Riede;0
+4840;Blender;0
+4841;Rethem (Aller), Häuslingen, Frankenfeld;0
+4842;Schweringen, Warpe, Bücken;0
+4843;Asendorf;0
+4844;Martfeld, Schwarme;0
+4845;Eystrup, Hassel u.a.;0
+4846;Thedinghausen, Emtinghausen;0
+4847;Hoya, Hoyerhagen, Hilgermissen;0
+4848;Dörverden;0
+4849;Kirchlinteln;0
+4850;Bruchhausen-Vilsen, Süstedt;0
+4851;Langwedel;0
+4852;Verden;0
+4853;Freistatt, Varrel, Wehrbleck;0
+4854;Affinghausen und Sudwalde;0
+4855;Siedenburg, Staffhorst;0
+4856;Schwaförden;0
+4857;Neuenkirchen, Scholen;0
+4858;Maasen, Mellinghausen;0
+4859;Ehrenburg;0
+4860;Borstel;0
+4861;Bahrenborstel, Barenburg, Kirchdorf;0
+4862;Harpstedt, Groß Ippener, Colnrade u.a.;0
+4863;Twistringen;0
+4864;Sulingen;0
+4865;Bassum;0
+4866;Butjadingen;0
+4867;Nordenham;0
+4868;Ovelgönne;0
+4869;Stadland;0
+4870;Elsfleth;0
+4871;Brake;0
+4872;Neubörger, Neulehe;0
+4873;Walchum;0
+4874;Dersum;0
+4875;Börger;0
+4876;Surwold;0
+4877;Lorup, Rastdorf;0
+4878;Rhede (Ems);0
+4879;Esterwegen u.a.;0
+4880;Dörpen, Lehe, u.a.;0
+4881;Papenburg;34117
+4882;Filsum;0
+4883;Detern;0
+4884;Nortmoor;0
+4885;Jemgum;0
+4886;Ostrhauderfehn;0
+4887;Hesel, Neukamperfehn u.a.;0
+4888;Bunde;0
+4889;Weener;0
+4890;Rhauderfehn;0
+4891;Westoverledingen;0
+4892;Moormerland;0
+4893;Leer;33886
+4894;Hinte;0
+4895;Borkum;0
+4896;Krummhörn;0
+4897;Emden;51526
+4898;Apen;0
+4899;Saterland;0
+4900;Barßel;0
+4901;Uplengen;0
+4902;Westerstede;0
+4903;Wiesmoor;0
+4904;Ihlow;0
+4905;Großefehn;0
+4906;Südbrookmerland;0
+4907;Aurich;40319
+4908;Baltrum;0
+4909;Juist, Memmert;0
+4910;Westerholt, Schweindorf u.a.;0
+4911;Dornum;0
+4912;Norderney;0
+4913;Großheide;0
+4914;Upgant-Schott, Osteel u.a.;0
+4915;Hage, Halbemond u.a.;0
+4916;Norden;0
+4917;Ochtersum;0
+4918;Blomberg, Neuschoo;0
+4919;Wangerooge;0
+4920;Spiekeroog;0
+4921;Langeoog;0
+4922;Sande;0
+4923;Friedeburg;0
+4924;Jever;0
+4925;Wangerland;0
+4926;Esens, Neuharlingersiel u.a.;0
+4927;Schortens;0
+4928;Wittmund;0
+4929;Wilhelmshaven;84393
+4930;Jade;0
+4931;Zetel;0
+4932;Varel;0
+4933;Bösel;0
+4934;Wiefelstede;0
+4935;Hatten;0
+4936;Wardenburg;0
+4937;Großenkneten;0
+4938;Rastede;0
+4939;Friesoythe;0
+4940;Bad Zwischenahn;0
+4941;Oldenburg (Oldenburg);0
+4942;Oldenburg;159218
+4943;Kampen (Sylt);0
+4944;Hörnum (Sylt);0
+4945;Wenningstedt-Braderup (Sylt);0
+4946;List;0
+4947;Sylt;0
+4948;Amrum;0
+4949;Föhr;0
+4950;Neukirchen, Aventoft;0
+4951;Ladelund;0
+4952;Rodenäs;0
+4953;Süderlügum, Braderup u.a.;0
+4954;Risum-Lindholm, Stedesand;0
+4955;Leck;0
+4956;Niebüll;0
+4957;Uelvesbüll, Witzwort;0
+4958;Winnert;0
+4959;Wester-Ohrstedt;0
+4960;Viöl;0
+4961;Tetenbüll;0
+4962;Tating, Westerhever, Tümlauer Koog;0
+4963;Stapel;0
+4964;Drage, Seeth;0
+4965;Schwabstedt;0
+4966;Rantrum;0
+4967;Ostenfeld;0
+4968;Oldenswort;0
+4969;Habel, Gröde;0
+4970;Oland;0
+4971;Mildstedt;0
+4972;Löwenstedt;0
+4973;Langeneß;0
+4974;Joldelund;0
+4975;Horstedt;0
+4976;Hallig Hooge;0
+4977;Högel;0
+4978;Hattstedt u.a.;0
+4979;Haselund;0
+4980;Ahrenshöft;0
+4981;Bordelum;0
+4982;Behrendorf, Bondelum;0
+4983;Süderoog, Pellworm;0
+4984;Nordstrand, Elisabeth-Sophien-Koog, Südfall;0
+4985;Langenhorn, Ockholm u.a.;0
+4986;Friedrichstadt, Koldenbüttel u.a.;0
+4987;Garding, Osterhever, Poppenbüll u.a.;0
+4988;Tönning;0
+4989;Sankt Peter-Ording;0
+4990;Bredstedt, Breklum u.a.;0
+4991;Husum, Schwesing u.a.;0
+4992;Wrohm;0
+4993;Wöhrden;0
+4994;Weddingstedt;0
+4995;Pahlen;0
+4996;Linden, Barkenholm;0
+4997;Delve;0
+4998;Dellstedt;0
+4999;Nordhastedt;0
+5000;Tellingstedt;0
+5001;Hennstedt;0
+5002;Sankt Annen, Rehm-Flehde-Bargen;0
+5003;Lunden;0
+5004;Hemmingstedt;0
+5005;Albersdorf;0
+5006;Wesselburen;0
+5007;Büsum;0
+5008;Heide u.a.;0
+5009;Windbergen;0
+5010;Süderhastedt;0
+5011;Schafstedt, Weidenhof, Bornholt;0
+5012;Neufeld, Schmedeswurth;0
+5013;Eggstedt;0
+5014;Barlt, Busenwurth;0
+5015;Friedrichskoog;0
+5016;Eddelak, Averlak, Dingen, Ramhusen;0
+5017;Burg (Dithmarschen);0
+5018;Kronprinzenkoog, Marne u.a.;0
+5019;Meldorf;0
+5020;Sankt Michaelisdonn,Gudendorf,Volsemenhusen,Trennewurth;0
+5021;Wewelsfleth;0
+5022;Westermoor;0
+5023;Wacken;0
+5024;Vaale;0
+5025;Reher;0
+5026;Ottenbüttel;0
+5027;Osterstedt;0
+5028;Oldendorf;0
+5029;Münsterdorf;0
+5030;Lütjenwestedt, Tackesdorf;0
+5031;Holstenniendorf;0
+5032;Hohenaspe;0
+5033;Fitzbek;0
+5034;Dägeling, Neuenbrook;0
+5035;Brokdorf;0
+5036;Beringstedt;0
+5037;Beidenfleth, Klein Kampen;0
+5038;Sankt Margarethen;0
+5039;Kremperheide;0
+5040;Lägerdorf;0
+5041;Wrist;0
+5042;Schenefeld;0
+5043;Hanerau-Hademarschen, Seefeld u.a.;0
+5044;Wilster;0
+5045;Hohenlockstedt;0
+5046;Kellinghusen;0
+5047;Brunsbüttel;0
+5048;Itzehoe;0
+5049;Tangstedt;0
+5050;Prisdorf;0
+5051;Kummerfeld;0
+5052;Borstel-Hohenraden;0
+5053;Heist;0
+5054;Hetlingen;0
+5055;Haseldorf;0
+5056;Holm;0
+5057;Alveslohe;0
+5058;Hemdingen;0
+5059;Appen;0
+5060;Ellerau;0
+5061;Ellerbek;0
+5062;Halstenbek;0
+5063;Rellingen;0
+5064;Quickborn;0
+5065;Uetersen;0
+5066;Pinneberg;40577
+5067;Herzhorn, Kamerlanderdeich;0
+5068;Kollmar, Pagensand;0
+5069;Borsfleth;0
+5070;Ellerhoop;0
+5071;Seestermühe;0
+5072;Seester;0
+5073;Kiebitzreihe;0
+5074;Klein Offenseth-Sparrieshoop;0
+5075;Brande-Hörnerkirchen;0
+5076;Krempe, Grevenkop, Süderau, Muchelndorf;0
+5077;Horst;0
+5078;Barmstedt;0
+5079;Glückstadt;0
+5080;Elmshorn;48703
+5081;Wees;0
+5082;Wanderup;0
+5083;Sterup;0
+5084;Medelby;0
+5085;Jörl;0
+5086;Großsolt;0
+5087;Dollerup;0
+5088;Oeversee;0
+5089;Mittelangeln;0
+5090;Handewitt;0
+5091;Schafflund, Meyn u.a.;0
+5092;Langballig;0
+5093;Husby;0
+5094;Steinberg, Steinbergkirche;0
+5095;Großenwiehe, Lindewitt;0
+5096;Sörup;0
+5097;Tarp;0
+5098;Glücksburg, Munkbrarup;0
+5099;Harrislee;0
+5100;Flensburg;85838
+5101;Flensburg, Tastrup;0
+5102;Wohlde;0
+5103;Ulsnis;0
+5104;Treia, Ahrenviölfeld;0
+5105;Tolk, Twedt;0
+5106;Taarstedt;0
+5107;Struxdorf, Schnarup-Thumby;0
+5108;Stolk;0
+5109;Silberstedt, Schwittschau;0
+5110;Sieverstedt;0
+5111;Selk, Geltdorf, Hahnekrug;0
+5112;Schaalby, Geelbek;0
+5113;Nübel;0
+5114;Idstedt;0
+5115;Jagel, Lottorf;0
+5116;Hollingstedt;0
+5117;Havetoft;0
+5118;Groß Rheide;0
+5119;Ellingstedt;0
+5120;Dörpstedt;0
+5121;Dannewerk;0
+5122;Busdorf;0
+5123;Brodersby, Goltoft;0
+5124;Börm;0
+5125;Bergenhusen;0
+5126;Böklund u.a.;0
+5127;Fahrdorf;0
+5128;Bollingstedt, Jübek;0
+5129;Eggebek, Langstedt, Sollerup, Süderhackstedt;0
+5130;Schuby;0
+5131;Kropp u.a.;0
+5132;Schleswig;0
+5133;Todenbüttel;0
+5134;Tetenhusen;0
+5135;Hamweddel;0
+5136;Sehestedt;0
+5137;Schülp bei Rendsburg;0
+5138;Owschlag u.a.;0
+5139;Nübbel;0
+5140;Jevenstedt;0
+5141;Hohn;0
+5142;Hamdorf;0
+5143;Erfde;0
+5144;Emkendorf;0
+5145;Elsdorf-Westermühlen;0
+5146;Meggerdorf, Friedrichsholm, Friedrichsgraben u.a.;0
+5147;Breiholz, Tackesdorf-Nord;0
+5148;Bredenbek;0
+5149;Borgstedt;0
+5150;Bargstedt, Brammer, Oldenbüttel;0
+5151;Alt Duvenstedt;0
+5152;Schacht-Audorf;0
+5153;Fockbek;0
+5154;Westerrönfeld;0
+5155;Osterrönfeld;0
+5156;Büdelsdorf, Rickert;0
+5157;Rendsburg;0
+5158;Wiemersdorf;0
+5159;Wasbek;0
+5160;Warder;0
+5161;Timmaspe;0
+5162;Struvenhütten;0
+5163;Sievershütten;0
+5164;Schmalfeld;0
+5165;Schmalensee;0
+5166;Schillsdorf;0
+5167;Rickling;0
+5168;Padenstedt;0
+5169;Lentföhrden;0
+5170;Kisdorf;0
+5171;Hartenholm;0
+5172;Groß Kummerfeld;0
+5173;Großharrie;0
+5174;Großenaspe;0
+5175;Gnutz;0
+5176;Bönebüttel;0
+5177;Börnhöved;0
+5178;Brokstedt;0
+5179;Aukrug, Wiedenborstel;0
+5180;Trappenkamp;0
+5181;Wankendorf;0
+5182;Boostedt;0
+5183;Hohenwestedt;0
+5184;Nortorf;0
+5185;Bordesholm;0
+5186;Bad Bramstedt;0
+5187;Kaltenkirchen;0
+5188;Henstedt-Ulzburg;0
+5189;Neumünster;0
+5190;Stoltebüll;0
+5191;Rabenkirchen-Faulück;0
+5192;Mohrkirch, Rügge;0
+5193;Maasholm, Schleimünde;0
+5194;Esgrus;0
+5195;Böel;0
+5196;Arnis, Marienhof;0
+5197;Dörphof;0
+5198;Gelting;0
+5199;Süderbrarup;0
+5200;Kappeln;0
+5201;Waabs;0
+5202;Osterby;0
+5203;Loose;0
+5204;Holzdorf;0
+5205;Holtsee;0
+5206;Groß Wittensee;0
+5207;Barkelsby;0
+5208;Ascheffel;0
+5209;Fleckeby u.a.;0
+5210;Kosel, Rieseby u.a.;0
+5211;Damp;0
+5212;Eckernförde;0
+5213;Grebin;0
+5214;Blekendorf;0
+5215;Lütjenburg;0
+5216;Plön;0
+5217;Westensee;0
+5218;Hohenfelde;0
+5219;Fargau-Pratjau;0
+5220;Rumohr;0
+5221;Probsteierhagen;0
+5222;Osdorf;0
+5223;Nettelsee;0
+5224;Mönkeberg;0
+5225;Mielkendorf;0
+5226;Kirchbarkau;0
+5227;Felm;0
+5228;Felde;0
+5229;Blumenthal;0
+5230;Achterwehr;0
+5231;Selent;0
+5232;Laboe;0
+5233;Schönkirchen;0
+5234;Dänischenhagen;0
+5235;Heikendorf;0
+5236;Schwentinetal;0
+5237;Schwentinental;0
+5238;Flintbek;0
+5239;Schönberg (Holstein);0
+5240;Gettorf u.a.;0
+5241;Preetz;0
+5242;Altenholz;0
+5243;Kiel;232758
+5244;Kronshagen;0
+5245;Kiel Russee;0
+5246;Melsdorf;0
+5247;Bad Kleinen u.a.;0
+5248;Neukloster;0
+5249;Neuburg-Steinhausen, Hornstorf;0
+5250;Dorf Mecklenburg, Lübow u.a.;0
+5251;Wismar;45255
+5252;Barnekow, Gägelow u.a.;0
+5253;Wismar, Groß Krankow u.a.;0
+5254;Klütz;0
+5255;Boltenhagen;0
+5256;Dassow;0
+5257;Grevesmühlen, Stepenitztal, Upahl u.a.;0
+5258;Berkenthin;0
+5259;Ziethen;0
+5260;Ratzeburg;0
+5261;Gudow;0
+5262;Sandesneben u.a.;0
+5263;Nusse;0
+5264;Sterley;0
+5265;Breitenfelde, Lankau;0
+5266;Mölln;0
+5267;Elmenhorst;0
+5268;Sülfeld;0
+5269;Nahe;0
+5270;Bargfeld-Stegen;0
+5271;Klein Wesenberg;0
+5272;Reinfeld (Holstein);0
+5273;Lasbek;0
+5274;Seth;0
+5275;Bad Oldesloe;0
+5276;Wittenborn;0
+5277;Wensin;0
+5278;Bark;0
+5279;Tensfeld;0
+5280;Seedorf;0
+5281;Rohlstorf;0
+5282;Pronstorf;0
+5283;Neuengörs;0
+5284;Leezen;0
+5285;Geschendorf;0
+5286;Nehms;0
+5287;Wahlstedt;0
+5288;Bad Segeberg;0
+5289;Heringsdorf;0
+5290;Großenbrode;0
+5291;Heiligenhafen;0
+5292;Fehmarn;0
+5293;Oldenburg in Holstein;0
+5294;Grube;0
+5295;Dahme;0
+5296;Kellenhusen;0
+5297;Schönwalde am Bungsberg;0
+5298;Grömitz;0
+5299;Lensahn;0
+5300;Glasau;0
+5301;Kasseedorf;0
+5302;Bosau;0
+5303;Malente, Kirchnüchel;0
+5304;Eutin, Süsel;0
+5305;Pansdorf;0
+5306;Scharbeutz, Süsel;0
+5307;Scharbeutz;0
+5308;Timmendorfer Strand;0
+5309;Sarkwitz;0
+5310;Krummesse, Klempau;0
+5311;Groß Grönau;0
+5312;Ratekau;0
+5313;Ahrensbök;0
+5314;Zarpen;0
+5315;Stockelsdorf;0
+5316;Bad Schwartau;0
+5317;Lübeck;0
+5318;Lübeck Schlutup/St. Gertrud;0
+5319;Lübeck St. Lorenz Nord;0
+5320;Witzhave;0
+5321;Tremsbüttel;0
+5322;Todendorf;0
+5323;Steinburg;0
+5324;Siek;0
+5325;Hoisdorf;0
+5326;Linau;0
+5327;Kuddewörde;0
+5328;Grönwohld;0
+5329;Lütjensee;0
+5330;Ammersbek;0
+5331;Trittau;0
+5332;Bargteheide, Delingsdorf u.a.;0
+5333;Hamfelde, Kasseburg, Köthel, Rausdorf, Schönberg;0
+5334;Großhansdorf;0
+5335;Ahrensburg;0
+5336;Barsbüttel;0
+5337;Wedel;0
+5338;Norderstedt;71439
+5339;Hamburg;1739117
+5340;Hamburg, Oststeinbek;0
+5341;Wingst;0
+5342;Oberndorf;0
+5343;Neuhaus (Oste);0
+5344;Bülkau;0
+5345;Cadenberge;0
+5346;Wanna;0
+5347;Ihlienworth;0
+5348;Stinstedt;0
+5349;Mittelstenahe;0
+5350;Lamstedt;0
+5351;Nordleda;0
+5352;Otterndorf;0
+5353;Osten;0
+5354;Hechthausen;0
+5355;Hemmoor;0
+5356;Dollern;0
+5357;Wischhafen;0
+5358;Oederquart;0
+5359;Krummendeich;0
+5360;Balje;0
+5361;Freiburg (Elbe);0
+5362;Hollern-Twielenfleth;0
+5363;Grünendeich;0
+5364;Fredenbeck;0
+5365;Hammah;0
+5366;Großenwörden;0
+5367;Engelschoff;0
+5368;Himmelpforten;0
+5369;Drochtersen;0
+5370;Ahlerstedt;0
+5371;Harsefeld;0
+5372;Stade;45634
+5373;Regesbostel;0
+5374;Moisburg;0
+5375;Halvesbostel;0
+5376;Sauensiek;0
+5377;Beckdorf;0
+5378;Apensen;0
+5379;Horneburg;0
+5380;Jork;0
+5381;Neu Wulmstorf;0
+5382;Buxtehude;38192
+5383;Kröppelshagen-Fahrendorf;0
+5384;Kollow;0
+5385;Hohenhorn;0
+5386;Brunstorf;0
+5387;Hohnstorf (Elbe), Hittbergen;0
+5388;Aumühle;0
+5389;Woltersdorf, Müssen u.a.;0
+5390;Bröthen;0
+5391;Glinde;0
+5392;Geesthacht;0
+5393;Fuhlenhagen;0
+5394;Gülzow;0
+5395;Lauenburg/Elbe;0
+5396;Reinbek;0
+5397;Radbruch;0
+5398;Handorf;0
+5399;Wulfsen;0
+5400;Vierhöfen;0
+5401;Toppenstedt;0
+5402;Garstedt;0
+5403;Marxen;0
+5404;Brackel;0
+5405;Marschacht;0
+5406;Stelle;0
+5407;Winsen;0
+5408;Embsen;0
+5409;Deutsch Evern;0
+5410;Melbeck, Barnstedt;0
+5411;Wendisch Evern;0
+5412;Thomasburg;0
+5413;Reinstorf;0
+5414;Neetze;0
+5415;Barendorf, Vastorf;0
+5416;Tespe;0
+5417;Kirchgellersen, Westergellersen, Südergellersen;0
+5418;Reppenstedt, Lüneburg;0
+5419;Soderstorf;0
+5420;Betzendorf;0
+5421;Oldendorf (Luhe), Amelinghausen, Rehlingen;0
+5422;Brietlingen;0
+5423;Artlenburg;0
+5424;Scharnebeck, Echem, Lüdersburg, Rullstorf;0
+5425;Salzhausen;0
+5426;Tosterglope;0
+5427;Nahrendorf;0
+5428;Dahlenburg;0
+5429;Adendorf;0
+5430;Vögelsen;0
+5431;Mechtersen;0
+5432;Bardowick, Wittorf, Barum;0
+5433;Bleckede;0
+5434;Lüneburg;0
+5435;Hollenstedt, Drestedt u.a.;0
+5436;Undeloh;0
+5437;Eggestorf;0
+5438;Hanstedt, Asendorf;0
+5439;Jesteburg;0
+5440;Welle;0
+5441;Otter;0
+5442;Heidenau;0
+5443;Handeloh;0
+5444;Tostedt, Kakenstorf u.a.;0
+5445;Buchholz in der Nordheide;37404
+5446;Harmstorf;0
+5447;Bendestorf;0
+5448;Seevetal;41266
+5449;Warin;0
+5450;Sternberg;0
+5451;Marnitz, Siggelkow;0
+5452;Spornitz;0
+5453;Parchim;0
+5454;Karstädt, Dambeck, Klüß;0
+5455;Perleberg, Berge u.a.;0
+5456;Plattenburg;0
+5457;Legde/Quitzöbel, Bad Wilsnack;0
+5458;Wittenberge, Rühstädt;0
+5459;Lenzen;0
+5460;Neustadt-Glewe;0
+5461;Dömitz;0
+5462;Grabow u.a.;0
+5463;Neu Kaliß;0
+5464;Ludwigslust;0
+5465;Amt Neuhaus, Stapel;0
+5466;Vellahn;0
+5467;Boizenburg, Gresse, Greven u.a.;0
+5468;Lübtheen;0
+5469;Zarrentin;0
+5470;Wittenburg u.a.;0
+5471;Hagenow u.a.;0
+5472;Rehna, Carlow u.a.;0
+5473;Lützow;0
+5474;Gadebusch;0
+5475;Plate;0
+5476;Banzkow, Sukow;0
+5477;Rastow;0
+5478;Pampow;0
+5479;Wittenförden u.a.;0
+5480;Brüsewitz;0
+5481;Lübstorf;0
+5482;Pinnow;0
+5483;Schwerin;96641
+5484;Binz;0
+5485;Putbus;0
+5486;Samtens;0
+5487;Gingst;0
+5488;Hiddensee;0
+5489;Sagard;0
+5490;Sassnitz;0
+5491;Miltzow u.a.;0
+5492;Rakow;0
+5493;Wittenhagen;0
+5494;Grimmen;0
+5495;Velgast;0
+5496;Tribsees;0
+5497;Franzburg, Richtenberg, u.a.;0
+5498;Prohn;0
+5499;Niepars;0
+5500;Stralsund;58976
+5501;Zingst a. Darß;0
+5502;Barth;0
+5503;Ahrenshagen-Daskow, Trinwillershagen u.a.;0
+5504;Saal;0
+5505;Löbnitz;0
+5506;Ribnitz-Damgarten;0
+5507;Lalendorf, Langhagen;0
+5508;Güstrow;0
+5509;Schwaan u.a.;0
+5510;Kröpelin, Carinerland;0
+5511;Neubukow, Ravensberg u.a.;0
+5512;Kühlungsborn;0
+5513;Retschow, Admannshagen-Bargeshagen u.a.;0
+5514;Bad Doberan, Bartenshagen-Parkentin u.a.;0
+5515;Stäbelow, Kritzmow;0
+5516;Dummerstorf;0
+5517;Sanitz;0
+5518;Roggentin, Broderstorf u.a.;0
+5519;Rostock, Gelbensande, Rövershagen u.a.;0
+5520;Rostock, Graal-Müritz;0
+5521;Rostock;198293
+5522;Elmenhorst/Lichtenhagen, Rostock;0
+5523;Rostock, Lambrechtshagen;0
+5524;Rostock, Papendorf u.a.;0
+5525;Lubmin;0
+5526;Gützkow;0
+5527;Karlsburg;0
+5528;Greifswald;52731
+5529;Koserow;0
+5530;Zinnowitz;0
+5531;Karlshagen;0
+5532;Kröslin, Krummin, Lassan u.a.;0
+5533;Wolgast;0
+5534;Benz, Heringsdorf u.a.;0
+5535;Ostseebad Heringsdorf;0
+5536;Seebad Ahlbeck;0
+5537;Usedom u.a.;0
+5538;Ducherow;0
+5539;Spantekow;0
+5540;Krien u.a.;0
+5541;Klein Bünzow;0
+5542;Anklam;0
+5543;Ferdinandshof u.a.;0
+5544;Vogelsang-Warsin, Meiersberg, Mönkebude u.a.;0
+5545;Ueckermünde;0
+5546;Eggesin;0
+5547;Torgelow;0
+5548;Groß Miltzow;0
+5549;Woldegk;0
+5550;Uckerland, Groß Luckow, Schönhausen;0
+5551;Strasburg;0
+5552;Krackow, Nadrensee;0
+5553;Penkun u.a.;0
+5554;Brüssow;0
+5555;Blankensee, Grambow u.a.;0
+5556;Löcknitz, Rothenklempenow;0
+5557;Pasewalk u.a.;0
+5558;Prenzlau, Nordwestuckermark u.a.;0
+5559;Lychen;0
+5560;Feldberger Seenlandschaft;0
+5561;Wesenberg;0
+5562;Mirow;0
+5563;Rechlin;0
+5564;Möllenbeck;0
+5565;Neustrelitz;0
+5566;Möllenhagen;0
+5567;Penzlin;0
+5568;Nossentiner Hütte;0
+5569;Malchow u.a.;0
+5570;Wredenhagen;0
+5571;Röbel/Müritz;0
+5572;Grabowhöfe, Moltzow u.a.;0
+5573;Waren/ Müritz;0
+5574;Dargun;0
+5575;Neukalen;0
+5576;Stavenhagen;0
+5577;Malchin;0
+5578;Bentzin;0
+5579;Jarmen;0
+5580;Loitz;0
+5581;Demmin u.a.;0
+5582;Demmin;0
+5583;Friedland, Galenbeck, Datzetal;0
+5584;Cölpin;0
+5585;Rosenow;0
+5586;Burow;0
+5587;Altentreptow;0
+5588;Sponholz, Neunkirchen u.a.;0
+5589;Neubrandenburg;68082
+5590;Triglitz, Putlitz;0
+5591;Meyenburg, Kümmernitztal u.a.;0
+5592;Pritzwalk, Groß Pankow;0
+5593;Wittstock/Dosse, Heiligengrabe;0
+5594;Wusterhausen;0
+5595;Gumtow, Kyritz u.a.;0
+5596;Neustadt (Dosse) u.a.;0
+5597;Rheinsberg;0
+5598;Lindow u.a.;0
+5599;Fehrbellin;0
+5600;Neuruppin;0
+5601;Fehrbellin, Temnitzquell, Märkisch Linden u.a.;0
+5602;Zehdenick;0
+5603;Leegebruch;0
+5604;Kremmen;0
+5605;Hennigsdorf;0
+5606;Velten, Oberkrämer;0
+5607;Mühlenbecker Land;0
+5608;Hohen Neuendorf OT Bergfelde;0
+5609;Liebenwalde;0
+5610;Borgsdorf;0
+5611;Schildow;0
+5612;Glienicke/Nordbahn;0
+5613;Birkenwerder;0
+5614;Hohen Neuendorf;0
+5615;Oranienburg, Mühlenbecker Land;0
+5616;Biesenthal;0
+5617;Werneuchen;0
+5618;Wandlitz;0
+5619;Panketal;0
+5620;Bernau;0
+5621;Gartz (Oder);0
+5622;Biesendahlshof, Berkholz-Meyenburg;0
+5623;Schwedt;0
+5624;Angermünde;0
+5625;Wriezen;0
+5626;Bad Freienwalde u.a.;0
+5627;Oderberg u.a.;0
+5628;Joachimsthal u.a.;0
+5629;Schorfheide;0
+5630;Melchow, Chorin u.a.;0
+5631;Eberswalde;41980
+5632;Golßen;0
+5633;Dahme u.a.;0
+5634;Luckau, Waldrehna, Heideblick, Fürstlich Drehna;0
+5635;Straupitz;0
+5636;Schönwalde;0
+5637;Lübben (Spreewald);0
+5638;Neuzelle;0
+5639;Eisenhüttenstadt;0
+5640;Lieberose;0
+5641;Wendisch Rietz;0
+5642;Storkow;0
+5643;Am Mellensee;0
+5644;Baruth;0
+5645;Rangsdorf;0
+5646;Blankenfelde-Mahlow;0
+5647;Zossen;0
+5648;Halbe;0
+5649;Teupitz;0
+5650;Heidesee;0
+5651;Mittenwalde;0
+5652;Märkisch Buchholz;0
+5653;Groß Köris;0
+5654;Wildau;0
+5655;Bestensee;0
+5656;Zeuthen;0
+5657;Schulzendorf b. Eichenwade;0
+5658;Königs Wusterhausen;0
+5659;Schöneiche bei Berlin;0
+5660;Rüdersdorf;0
+5661;Erkner;0
+5662;Spreenhagen;0
+5663;Bad Saarow-Pieskow;0
+5664;Briesen, Rauen u.a.;0
+5665;Fürstenwalde/ Spree;0
+5666;Oberbarnim, Märkische Höhe u.a.;0
+5667;Müncheberg;0
+5668;Fredersdorf-Vogelsdorf, Petershagen;0
+5669;Neuenhagen, Hoppegarten;0
+5670;Lichtenow, Altlandsberg u.a.;0
+5671;Strausberg;0
+5672;Golzow, Zechin u.a.;0
+5673;Zeschdorf, Podelzig, Lebus;0
+5674;Letschin;0
+5675;Neutrebbin, Neuhardenberg;0
+5676;Seelow, Lietzen u.a.;0
+5677;Brieskow-Finkenheerd;0
+5678;Treplin, Jacobsdorf, Frankfurt (Oder);0
+5679;Frankfurt/ Oder;0
+5680;Großbeeren;0
+5681;Ludwigsfelde;0
+5682;Trebbin;0
+5683;Nuthe-Urstromtal;0
+5684;Luckenwalde;0
+5685;Treuenbrietzen;0
+5686;Jüterbog;0
+5687;Görzke;0
+5688;Wiesenburg;0
+5689;Niemegk;0
+5690;Brück, Borkheide u.a.;0
+5691;Belzig;0
+5692;Havelsee;0
+5693;Lehnin;0
+5694;Ziesar;0
+5695;Wusterwitz, Rosenau, Bensdorf;0
+5696;Beetzsee, Wollin, Wenzlow, Golzow u.a.;0
+5697;Brandenburg/Havel;0
+5698;Brandenburg/ Havel;0
+5699;Rhinow;0
+5700;Premnitz;0
+5701;Rathenow;0
+5702;Ketzin;0
+5703;Friesack;0
+5704;Brieselang;0
+5705;Nauen;0
+5706;Dallgow-Döberitz;0
+5707;Falkensee;37468
+5708;Nuthetal;0
+5709;Seddiner See;0
+5710;Michendorf;0
+5711;Groß Kreutz;0
+5712;Schwielowswee;0
+5713;Beelitz;0
+5714;Werder/ Havel;0
+5715;Kleinmachnow;0
+5716;Teltow;0
+5717;Potsdam;145292
+5718;Berlin Schmargendorf;0
+5719;Berlin Wilmersdorf;0
+5720;Berlin Dahlem;0
+5721;Berlin Grunewald;0
+5722;Berlin Zehlendorf;0
+5723;Berlin Nikolassee;0
+5724;Berlin Wannsee;0
+5725;Berlin Gatow;0
+5726;Berlin Charlottenburg;0
+5727;Berlin Westend;0
+5728;Berlin Siemensstadt;0
+5729;Berlin Charlottenburg-Nord;0
+5730;Berlin Haselhorst;0
+5731;Berlin Spandau;0
+5732;Berlin Wlhelmstadt;0
+5733;Berlin Wilhelmstadt;0
+5734;Berlin Staaken;0
+5735;Berlin Falkenhagener Feld;0
+5736;Berlin Hakenfelde;0
+5737;Berlin Reinickendorf;0
+5738;Berlin Tegel;0
+5739;Berlin Lübars;0
+5740;Berlin Hermsdorf;0
+5741;Berlin Frohnau;0
+5742;Berlin Märkisches Viertel;0
+5743;Berlin-West;0
+5744;Berlin Wedding;0
+5745;Berlin Gesundbrunnen;0
+5746;Berlin Pankow;0
+5747;Berlin Blankenfelde;0
+5748;Berlin Rosenthal;0
+5749;Berlin Niederschönhausen;0
+5750;Berlin Blankenburg;0
+5751;Berlin Französisch Buchholz;0
+5752;Berlin Buch;0
+5753;Berlin Heinelsdorf;0
+5754;Berlin Weißensee;0
+5755;Berlin Wartenberg;0
+5756;Berlin Falkenberg;0
+5757;Berlin Alt-Hohenschönhausen;0
+5758;Berlin Neu-Schönhausen;0
+5759;Berlin;3426354
+5760;Berlin Biesdorf;0
+5761;Berlin Hellersdorf;0
+5762;Berlin Mahlsdorf;0
+5763;Berlin Kaulsdorf;0
+5764;Berlin Rahnsdorf;0
+5765;Berlin Wiesengrund;0
+5766;Berlin Köpenick;0
+5767;Berlin Köpenik;0
+5768;Schönefeld;0
+5769;Berlin Schmöckwitz;0
+5770;Berlin Bohnsdorf;0
+5771;Berlin Altglienicke;0
+5772;Berlin Teltowkanal III;0
+5773;Berlin Oberschöneweide;0
+5774;Berlin Niederschöneweide;0
+5775;Berlin Baumschulenweg;0
+5776;Berlin Alt Treptow;0
+5777;Berlin Britz;0
+5778;Berlin Rudow;0
+5779;Berlin Gropiusstadt;0
+5780;Berlin Buckow;0
+5781;Berlin Lankwitz;0
+5782;Berlin-Lichterfelde;0
+5783;Berlin Lichtenfelde;0
+5784;Berlin Steglitz;0
+5785;Berlin Friedenau;0
+5786;Berlin Schöneberg;0
+5787;Berlin Mariendorf;0
+5788;Berlin Tempelhof;0
+5789;Berlin Neukölln;0
+5790;Berlin Kreuzberg;0
+5791;Berlin Tiergarten;0
+5792;Berlin Wilhelmsdorf;0
+5793;Berlin Halensee;0
+5794;Berlin Moabit;0
+5795;Berlin Prenzlauer Berg;0
+5796;Berlin Lichtenberg;0
+5797;Berlin Karlshorst;0
+5798;Berlin Rummelsburg;0
+5799;Berlin Friedrichsfelde;0
+5800;Berlin Friedrichshain;0
+5801;Berlin Mitte;0
