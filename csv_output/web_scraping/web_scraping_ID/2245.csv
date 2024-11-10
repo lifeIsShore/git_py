@@ -1,91 +1,91 @@
-﻿Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL
-"Buer, Melle (49328)",325.000 € 1.199 €/m²,8 Zimmer,271 m²,2.746 m² Grundstück,https://www.immowelt.de/expose/8efdc646-8da9-42d7-8384-f4763271bb5c
-"Melle - Mitte, Melle (49324)",359.900 € 2.278 €/m²,6 Zimmer,158 m²,500 m² Grundstück,https://www.immowelt.de/expose/46b1e243-cd88-43d0-b848-47c8f65e33bb
-"Melle - Mitte, Melle (49324)",525.100 € 4.030 €/m²,4 Zimmer,"130,3 m²",Unknown,https://www.immowelt.de/expose/e4d2354d-95c2-4ae3-9b58-9dc8336aa865
-"Melle - Mitte, Melle (49324)",540.000 € 3.396 €/m²,4 Zimmer,159 m²,2.000 m² Grundstück,https://www.immowelt.de/expose/90c17e63-c6e3-47e7-9ca4-6f9fc3c60573
-"Melle - Mitte, Melle (49324)",610.000 € 1.061 €/m²,575 m²,738 m² Grundstück,Unknown,https://www.immowelt.de/expose/49e24fe9-7da3-4e73-8295-227b449b8617
-"Buer, Melle (49328)",350.000 € 2.011 €/m²,4 Zimmer,174 m²,520 m² Grundstück,https://www.immowelt.de/expose/aee14dfc-490a-4b3a-b921-338209bdd680
-"Melle - Mitte, Melle (49324)",220.240 € 4.093 €/m²,2 Zimmer,"53,8 m²",EG,https://www.immowelt.de/expose/32de47f1-52ff-43e0-b3a3-f7b7a47c46fa
-"Melle - Mitte, Melle (49324)",429.000 € 3.613 €/m²,4 Zimmer,"118,7 m²",EG,https://www.immowelt.de/expose/af143588-bfb9-4405-8e5a-c429ee22b35c
-"Melle - Mitte, Melle (49324)",267.710 € 3.548 €/m²,2 Zimmer,"75,5 m²",EG,https://www.immowelt.de/expose/9a2d35e1-4cc9-4ece-983a-635eb0a6539c
-"Melle - Mitte, Melle (49324)",221.138 € 3.990 €/m²,2 Zimmer,"55,4 m²",EG,https://www.immowelt.de/expose/7d40f20e-fa16-439a-a62a-a8af1e53e0e3
-"Wellingholzhausen, Melle (49326)",Preis auf Anfrage,10 Zimmer,400 m²,3.685 m² Grundstück,https://www.immowelt.de/expose/07522ac0-ccb4-44b4-87c4-37856a75e569
-"Buer, Melle / Buer (49328)",255.635 € 3.776 €/m²,2 Zimmer,"67,7 m²",Unknown,https://www.immowelt.de/expose/c189ad5d-b16d-4ce2-9b72-38f0851c7074
-"Melle - Mitte, Melle (49324)",303.900 € 3.937 €/m²,2 Zimmer,"77,2 m²",Unknown,https://www.immowelt.de/expose/cd0a9f5c-390d-4e80-b174-d85b874740ac
-"Riemsloh, Melle/Riemsloh (49328)",409.000 € 1.236 €/m²,12 Zimmer,331 m²,1.767 m² Grundstück,https://www.immowelt.de/expose/8ed73e59-a652-47b0-b280-6fcc3cfc756d
-"Buer, Melle (49328)",393.910 € 3.077 €/m²,4 Zimmer,128 m²,659 m² Grundstück,https://www.immowelt.de/expose/8d6f7d81-75d3-41cb-aeaa-7b9a5407ee16
-"Buer, Melle (49328)",394.760 € 2.597 €/m²,5 Zimmer,152 m²,596 m² Grundstück,https://www.immowelt.de/expose/85f1231a-5ec4-4bc1-a566-e7c5f1ce2ead
-"Melle - Mitte, Melle / Eicken-Bruche (49324)",355.000 € 1.690 €/m²,4 Zimmer,210 m²,970 m² Grundstück,https://www.immowelt.de/expose/87cc81fc-798f-4517-ab4b-5bdd192222cb
-"Melle - Mitte, Melle (49324)",645.000 € 1.568 €/m²,24 Zimmer,"411,3 m²",885 m² Grundstück,https://www.immowelt.de/expose/1b760448-0b6e-4ba5-a771-ca8bd67d0052
-"Melle - Mitte, Melle (49324)",588.000 € 2.324 €/m²,9 Zimmer,253 m²,801 m² Grundstück,https://www.immowelt.de/expose/473331a6-3a64-4b49-b490-2e70c9c187f0
-"Wellingholzhausen, Melle (49326)",587.980 € 2.357 €/m²,6 Zimmer,"249,4 m²",528 m² Grundstück,https://www.immowelt.de/expose/c22509c5-f90b-43df-b434-5610120ad7a8
-"Wellingholzhausen, Melle (49326)",445.000 € 2.397 €/m²,6 Zimmer,"185,7 m²",750 m² Grundstück,https://www.immowelt.de/expose/8b24caee-5c01-4fc0-b0f2-b8eead0acb0b
-"Melle - Mitte, Melle (49324)",299.999 € 3.000 €/m²,"4,5 Zimmer",100 m²,225 m² Grundstück,https://www.immowelt.de/expose/09612588-50de-497a-8eb0-1079dd671209
-"Riemsloh, Melle (49328)",1.499.000 € 4.889 €/m²,"306,6 m²",17.119 m² Grundstück,Unknown,https://www.immowelt.de/expose/5f826f85-8f4d-4e94-83e0-a7a755b37e5f
-"Melle - Mitte, Melle (49324)",580.000 € 2.555 €/m²,8 Zimmer,227 m²,763 m² Grundstück,https://www.immowelt.de/expose/cfaa7cd4-524c-4bea-a8cd-f82409e3262a
-"Melle - Mitte, Melle (49324)",514.000 € 2.448 €/m²,10 Zimmer,210 m²,435 m² Grundstück,https://www.immowelt.de/expose/12595d9b-1998-4e26-a2cd-a27e28bdb8bd
-"Gesmold, Melle (49326)",Preis auf Anfrage,"507,5 m²",20.843 m² Grundstück,Unknown,https://www.immowelt.de/expose/82dd35c7-8c29-48dc-b934-edc2e09da078
-"Bruchmühlen, Melle (49328)",Preis auf Anfrage,10 Zimmer,440 m²,1.400 m² Grundstück,https://www.immowelt.de/expose/5bb9e778-f14e-4f88-8dc6-e4ac7c77ef34
-"Melle - Mitte, Melle (49324)",98.000 € 1.782 €/m²,1 Zimmer,55 m²,1. Geschoss,https://www.immowelt.de/expose/e6145551-ea4d-4abd-bab9-90f9be6eaf33
-"Riemsloh, Melle (49328)",425.000 € 1.801 €/m²,7 Zimmer,236 m²,810 m² Grundstück,https://www.immowelt.de/expose/f6050d4a-b7d7-42b4-8a15-b770ca8ba69d
-"Melle - Mitte, Melle (49324)",149.000 € 2.099 €/m²,2 Zimmer,71 m²,Unknown,https://www.immowelt.de/expose/98d650b2-5bbe-4ff2-9611-8efac2178a52
-"Buer, Melle (49328)",695.000 € 2.623 €/m²,9 Zimmer,265 m²,15.199 m² Grundstück,https://www.immowelt.de/expose/51a1ab45-e4b7-47f7-8c87-ca869ffce0bc
-"Riemsloh, Melle (49328)",1.499.000 € 4.889 €/m²,"306,6 m²",17.119 m² Grundstück,Unknown,https://www.immowelt.de/expose/9ffbe695-9329-49c0-85e3-705f798fa142
-"Melle - Mitte, Melle (49324)",429.700 € 3.528 €/m²,4 Zimmer,"121,8 m²",1. Geschoss,https://www.immowelt.de/expose/4e353e3e-b8a9-4bab-95e0-1466e32f9fca
-"Melle - Mitte, Melle (49324)",280.106 € 3.971 €/m²,2 Zimmer,"70,5 m²",EG,https://www.immowelt.de/expose/e9cb1998-ef21-499c-bff6-cc747cd3eefb
-"Melle - Mitte, Melle (49324)",266.378 € 3.975 €/m²,2 Zimmer,67 m²,EG,https://www.immowelt.de/expose/75818981-23ce-4b89-9de7-0bab2d8e23ff
-"Buer, Melle (49328)",350.000 € 1.923 €/m²,6 Zimmer,182 m²,730 m² Grundstück,https://www.immowelt.de/expose/7a01547b-decf-4509-a81f-986893193a60
-"Gesmold, Melle (49326)",340.876 € 6.794 €/m²,1 Zimmer,"50,2 m²",EG,https://www.immowelt.de/expose/25ad42f7-5bd5-40e2-9d01-a2c05b5659e3
-"Gesmold, Melle (49326)",340.876 € 6.794 €/m²,1 Zimmer,"50,2 m²",EG,https://www.immowelt.de/expose/cd31a396-5457-4e2e-9efb-1a90e60d329d
-"Gesmold, Melle (49326)",340.876 € 6.794 €/m²,1 Zimmer,"50,2 m²",EG,https://www.immowelt.de/expose/53e93680-f837-4ab1-9ac1-577ef0b1de15
-"Gesmold, Melle (49326)",340.876 € 6.794 €/m²,1 Zimmer,"50,2 m²",EG,https://www.immowelt.de/expose/178eddf0-55ad-4351-b986-84383c3f9ace
-"Melle - Mitte, Melle (49324)",445.388 € 3.944 €/m²,4 Zimmer,"112,9 m²",EG,https://www.immowelt.de/expose/d21da070-8b21-4be3-a066-333a85af33f8
-"Gesmold, Melle (49326)",395.000 € 1.266 €/m²,12 Zimmer,312 m²,4.351 m² Grundstück,https://www.immowelt.de/expose/c6a1a6e4-2a3d-449b-bca3-2134258a624d
-"Melle - Mitte, Melle (49324)",450.000 € 2.623 €/m²,5 Zimmer,"171,6 m²",600 m² Grundstück,https://www.immowelt.de/expose/fe1b8f3c-a906-4915-a788-33e0daa6399e
-"Melle - Mitte, Melle (49324)",512.000 € 2.473 €/m²,3 Zimmer,207 m²,600 m² Grundstück,https://www.immowelt.de/expose/fcae43f6-018a-4561-bfcd-45c1d609021c
-"Melle - Mitte, Melle (49324)",359.900 € 2.278 €/m²,6 Zimmer,158 m²,500 m² Grundstück,https://www.immowelt.de/expose/c2716a90-90a1-4bc0-898c-1912d1bc73d2
-"Neuenkirchen, Melle (49326)",1.390.000 € 3.783 €/m²,10 Zimmer,"367,5 m²",8.534 m² Grundstück,https://www.immowelt.de/expose/70d6b642-44a3-4b81-9966-57fbc3c6c8e2
-"Melle - Mitte, Melle (49324)",499.000 € 2.321 €/m²,6 Zimmer,215 m²,645 m² Grundstück,https://www.immowelt.de/expose/86a99d85-ac67-4b40-a7d4-db428b147bc0
-"Buer, Melle / Buer (49328)",356.228 € 3.776 €/m²,4 Zimmer,"94,3 m²",Unknown,https://www.immowelt.de/expose/536f7739-afbe-4799-a3f2-28181b51551d
-"Buer, Melle / Buer (49328)",273.005 € 3.776 €/m²,2 Zimmer,"72,3 m²",Unknown,https://www.immowelt.de/expose/c4e33c98-7d19-49fa-a598-33a585dc0e87
-"Buer, Melle / Buer (49328)",336.064 € 3.776 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/8d80ed13-371d-4320-9d07-4028ee01b1ae
-"Buer, Melle / Buer (49328)",255.635 € 3.776 €/m²,2 Zimmer,"67,7 m²",Unknown,https://www.immowelt.de/expose/84f92299-4590-4ba1-9cb8-32b95d154953
-"Buer, Melle / Buer (49328)",356.228 € 3.776 €/m²,4 Zimmer,"94,3 m²",Unknown,https://www.immowelt.de/expose/3d3d0fbe-cb44-4c39-9531-147bdd0ff376
-"Buer, Melle / Buer (49328)",273.005 € 3.776 €/m²,2 Zimmer,"72,3 m²",Unknown,https://www.immowelt.de/expose/7790aeee-ee21-4759-9c7b-c7f2f9f97db1
-"Buer, Melle / Buer (49328)",336.064 € 3.776 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/3f802c38-5f6b-467b-9887-ae94d469ae66
-"Buer, Melle / Buer (49328)",255.635 € 3.776 €/m²,2 Zimmer,"67,7 m²",Unknown,https://www.immowelt.de/expose/97e5d3de-b0f3-41be-b054-b37ffadd61be
-"Buer, Melle / Buer (49328)",356.228 € 3.776 €/m²,4 Zimmer,"94,3 m²",Unknown,https://www.immowelt.de/expose/03348820-42f4-4bba-ac55-8b62e43148ec
-"Buer, Melle / Buer (49328)",273.005 € 3.776 €/m²,2 Zimmer,"72,3 m²",Unknown,https://www.immowelt.de/expose/526d9f08-2d97-4475-92f1-61e53f716637
-"Buer, Melle / Buer (49328)",336.064 € 3.776 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/5e15d589-afd3-4243-9fb9-9827652f07f9
-"Melle - Mitte, Melle (49324)",458.900 € 3.902 €/m²,4 Zimmer,"117,6 m²",Unknown,https://www.immowelt.de/expose/83e822d9-71ba-4aa4-b1c6-c06d358efd1f
-"Wellingholzhausen, Melle / Wellingholzhausen (49326)",336.000 € 4.200 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/de5269d4-1622-4970-8f5f-baa31ae1a92e
-"Wellingholzhausen, Melle / Wellingholzhausen (49326)",369.600 € 4.200 €/m²,3 Zimmer,88 m²,Unknown,https://www.immowelt.de/expose/d72d8ef9-b349-4425-bec0-0ea28c898718
-"Wellingholzhausen, Melle / Wellingholzhausen (49326)",333.060 € 4.200 €/m²,3 Zimmer,"79,3 m²",Unknown,https://www.immowelt.de/expose/1a05c872-e191-4a0c-be3c-59d2ec5fa2c4
-"Wellingholzhausen, Melle / Wellingholzhausen (49326)",336.000 € 4.200 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/16d61667-fe32-47bc-a86c-3fc1571bf150
-"Wellingholzhausen, Melle / Wellingholzhausen (49326)",369.600 € 4.195 €/m²,3 Zimmer,"88,1 m²",Unknown,https://www.immowelt.de/expose/c3f0fde7-c303-46c4-b6ac-4e7dd9a2fe44
-"Wellingholzhausen, Melle / Wellingholzhausen (49326)",333.060 € 4.200 €/m²,3 Zimmer,"79,3 m²",Unknown,https://www.immowelt.de/expose/e302f70c-92f9-4fd6-8c02-be73e0445489
-"Bruchmühlen, Rödinghausen (32289)",571.400 € 3.056 €/m²,187 m²,946 m² Grundstück,Unknown,https://www.immowelt.de/expose/5b139e10-f588-4afb-a8cb-02dce6b1b0de
-"Bruchmühlen, Rödinghausen (32289)",398.900 € 2.624 €/m²,5 Zimmer,152 m²,945 m² Grundstück,https://www.immowelt.de/expose/f8b70913-1271-4165-b2c1-c262e6141663
-"Wallenbrück, Spenge (32139)",250.000 € 4.167 €/m²,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/88c6faf2-9e75-4f8e-beb9-2f84b4f0bcfe
-"Bruchmühlen, Rödinghausen (32289)",360.000 € 2.250 €/m²,5 Zimmer,160 m²,1.193 m² Grundstück,https://www.immowelt.de/expose/1b4242e0-bd69-4e83-91cc-8fbae6820baf
-"Wallenbrück, Spenge (32139)",454.900 € 2.757 €/m²,3 Zimmer,165 m²,500 m² Grundstück,https://www.immowelt.de/expose/d005ce6e-75e4-43af-accc-25ec770cd414
-"Wallenbrücker Str. 10, Wallenbrück, Spenge (32139)",149.000 € 1.674 €/m²,3 Zimmer,89 m²,1. Geschoss,https://www.immowelt.de/expose/bff170d1-204d-45d9-bc3c-e5e3b2e13ff7
-"Bruchmühlen, Rödinghausen (32289)",326.270 € 2.453 €/m²,4 Zimmer,133 m²,473 m² Grundstück,https://www.immowelt.de/expose/dc46e196-5390-48db-aa8f-66f64dbde42a
-"Bruchmühlen, Rödinghausen (32289)",393.410 € 3.074 €/m²,4 Zimmer,128 m²,923 m² Grundstück,https://www.immowelt.de/expose/df2be254-b86b-4451-ba6e-89b0a420fdfb
-"Wallenbrück, Spenge (32139)",285.000 € 1.645 €/m²,9 Zimmer,200 m²,539 m² Grundstück,https://www.immowelt.de/expose/e3fe794c-a888-4fd6-a7df-9c6dd82cf2a5
-"Holsen, Bünde (32257)",350.000 € 3.933 €/m²,2 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/7a0f45c6-e9be-4164-9f70-8ac9b188cc32
-"Wallenbrück, Spenge (32139)",295.000 € 934 €/m²,11 Zimmer,316 m²,1.200 m² Grundstück,https://www.immowelt.de/expose/5b44f26a-bf8c-487b-90da-50a5f1705262
-"Spenge, Spenge (32139)",Preis auf Anfrage,4 Zimmer,135 m²,450 m² Grundstück,https://www.immowelt.de/expose/4960abf0-2f58-4ea9-9294-1b23c53d3a05
-"Holsen, Bünde (32257)",158.000 € 878 €/m²,6 Zimmer,180 m²,1.287 m² Grundstück,https://www.immowelt.de/expose/4bbdaf92-5a12-461c-be13-69e896ba83af
-"Ahle, Bünde (32257)",367.079 € 2.581 €/m²,4 Zimmer,"142,2 m²",540 m² Grundstück,https://www.immowelt.de/expose/6cd5ce4e-1cfe-4d76-9559-0f7b784ce900
-"Bardüttingdorf, Spenge (32139)",795.000 € 3.180 €/m²,8 Zimmer,250 m²,10.998 m² Grundstück,https://www.immowelt.de/expose/83f6bf60-4dd5-42ad-9aa0-ab24e9dde6ef
-"Spenge, Spenge (32139)",260.534 € 1.980 €/m²,5 Zimmer,"131,6 m²",500 m² Grundstück,https://www.immowelt.de/expose/25a92211-d241-449c-b1c8-1672d97f4172
-"Spenge, Spenge (32139)",1.350.000 € 5.355 €/m²,"252,1 m²",Unknown,Unknown,https://www.immowelt.de/expose/b91e6e00-6174-4e6c-9aaa-82ab19472dce
-"Rödinghausen, Rödinghausen (32289)",820.000 € 2.523 €/m²,11 Zimmer,325 m²,1.516 m² Grundstück,https://www.immowelt.de/expose/d9b21417-d0f3-44fa-998f-c658ef8cde61
-"Spenge, Spenge (32139)",250.501 € 2.149 €/m²,5 Zimmer,"116,6 m²",500 m² Grundstück,https://www.immowelt.de/expose/644e96d8-953c-4a57-a860-476837d1ee89
-"Molkenkeller 18, Holsen, Bünde (32257)",659.000 € 1.121 €/m²,588 m²,1.301 m² Grundstück,Unknown,https://www.immowelt.de/expose/9ac127a3-a574-4512-a443-d2ae57498da2
-"Spenge, Spenge (32139)",450.000 € 4.500 €/m²,100 m²,Unknown,Unknown,https://www.immowelt.de/expose/2cf88785-aa21-4646-8ad9-75581ed733c7
-"Schwenningdorf, Rödinghausen (32289)",410.000 € 2.595 €/m²,5 Zimmer,158 m²,616 m² Grundstück,https://www.immowelt.de/expose/767f38c5-b743-45e6-b773-ab17d302b88b
-"Borgholzhausen, Borgholzhausen (33829)",383.387 € 3.577 €/m²,4 Zimmer,"107,2 m²",494 m² Grundstück,https://www.immowelt.de/expose/0d2dd4da-3372-4d0c-b424-1edd139bafce
-"Schwenningdorf, Rödinghausen (32289)",325.000 € 989 €/m²,6 Zimmer,"328,6 m²",2.445 m² Grundstück,https://www.immowelt.de/expose/ed52b8bb-4ab4-40a9-9a94-f30d8bc76db5
-"Ostkilver, Rödinghausen (32289)",325.650 € 3.540 €/m²,3 Zimmer,92 m²,711 m² Grundstück,https://www.immowelt.de/expose/744cb254-5968-464b-82b9-3bbf9fbfdc5d
+Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL;city_id
+Buer, Melle (49328),325.000 € 1.199 €/m²,8 Zimmer,271 m²,2.746 m² Grundstück,https://www.immowelt.de/expose/8efdc646-8da9-42d7-8384-f4763271bb5c;2245
+Melle - Mitte, Melle (49324),359.900 € 2.278 €/m²,6 Zimmer,158 m²,500 m² Grundstück,https://www.immowelt.de/expose/46b1e243-cd88-43d0-b848-47c8f65e33bb;2245
+"Melle - Mitte, Melle (49324),525.100 € 4.030 €/m²,4 Zimmer,""130,3 m²"",Unknown,https://www.immowelt.de/expose/e4d2354d-95c2-4ae3-9b58-9dc8336aa865";2245
+Melle - Mitte, Melle (49324),540.000 € 3.396 €/m²,4 Zimmer,159 m²,2.000 m² Grundstück,https://www.immowelt.de/expose/90c17e63-c6e3-47e7-9ca4-6f9fc3c60573;2245
+Melle - Mitte, Melle (49324),610.000 € 1.061 €/m²,575 m²,738 m² Grundstück,Unknown,https://www.immowelt.de/expose/49e24fe9-7da3-4e73-8295-227b449b8617;2245
+Buer, Melle (49328),350.000 € 2.011 €/m²,4 Zimmer,174 m²,520 m² Grundstück,https://www.immowelt.de/expose/aee14dfc-490a-4b3a-b921-338209bdd680;2245
+"Melle - Mitte, Melle (49324),220.240 € 4.093 €/m²,2 Zimmer,""53,8 m²"",EG,https://www.immowelt.de/expose/32de47f1-52ff-43e0-b3a3-f7b7a47c46fa";2245
+"Melle - Mitte, Melle (49324),429.000 € 3.613 €/m²,4 Zimmer,""118,7 m²"",EG,https://www.immowelt.de/expose/af143588-bfb9-4405-8e5a-c429ee22b35c";2245
+"Melle - Mitte, Melle (49324),267.710 € 3.548 €/m²,2 Zimmer,""75,5 m²"",EG,https://www.immowelt.de/expose/9a2d35e1-4cc9-4ece-983a-635eb0a6539c";2245
+"Melle - Mitte, Melle (49324),221.138 € 3.990 €/m²,2 Zimmer,""55,4 m²"",EG,https://www.immowelt.de/expose/7d40f20e-fa16-439a-a62a-a8af1e53e0e3";2245
+Wellingholzhausen, Melle (49326),Preis auf Anfrage,10 Zimmer,400 m²,3.685 m² Grundstück,https://www.immowelt.de/expose/07522ac0-ccb4-44b4-87c4-37856a75e569;2245
+"Buer, Melle / Buer (49328),255.635 € 3.776 €/m²,2 Zimmer,""67,7 m²"",Unknown,https://www.immowelt.de/expose/c189ad5d-b16d-4ce2-9b72-38f0851c7074";2245
+"Melle - Mitte, Melle (49324),303.900 € 3.937 €/m²,2 Zimmer,""77,2 m²"",Unknown,https://www.immowelt.de/expose/cd0a9f5c-390d-4e80-b174-d85b874740ac";2245
+Riemsloh, Melle/Riemsloh (49328),409.000 € 1.236 €/m²,12 Zimmer,331 m²,1.767 m² Grundstück,https://www.immowelt.de/expose/8ed73e59-a652-47b0-b280-6fcc3cfc756d;2245
+Buer, Melle (49328),393.910 € 3.077 €/m²,4 Zimmer,128 m²,659 m² Grundstück,https://www.immowelt.de/expose/8d6f7d81-75d3-41cb-aeaa-7b9a5407ee16;2245
+Buer, Melle (49328),394.760 € 2.597 €/m²,5 Zimmer,152 m²,596 m² Grundstück,https://www.immowelt.de/expose/85f1231a-5ec4-4bc1-a566-e7c5f1ce2ead;2245
+Melle - Mitte, Melle / Eicken-Bruche (49324),355.000 € 1.690 €/m²,4 Zimmer,210 m²,970 m² Grundstück,https://www.immowelt.de/expose/87cc81fc-798f-4517-ab4b-5bdd192222cb;2245
+"Melle - Mitte, Melle (49324),645.000 € 1.568 €/m²,24 Zimmer,""411,3 m²"",885 m² Grundstück,https://www.immowelt.de/expose/1b760448-0b6e-4ba5-a771-ca8bd67d0052";2245
+Melle - Mitte, Melle (49324),588.000 € 2.324 €/m²,9 Zimmer,253 m²,801 m² Grundstück,https://www.immowelt.de/expose/473331a6-3a64-4b49-b490-2e70c9c187f0;2245
+"Wellingholzhausen, Melle (49326),587.980 € 2.357 €/m²,6 Zimmer,""249,4 m²"",528 m² Grundstück,https://www.immowelt.de/expose/c22509c5-f90b-43df-b434-5610120ad7a8";2245
+"Wellingholzhausen, Melle (49326),445.000 € 2.397 €/m²,6 Zimmer,""185,7 m²"",750 m² Grundstück,https://www.immowelt.de/expose/8b24caee-5c01-4fc0-b0f2-b8eead0acb0b";2245
+"Melle - Mitte, Melle (49324),299.999 € 3.000 €/m²,""4,5 Zimmer"",100 m²,225 m² Grundstück,https://www.immowelt.de/expose/09612588-50de-497a-8eb0-1079dd671209";2245
+"Riemsloh, Melle (49328),1.499.000 € 4.889 €/m²,""306,6 m²"",17.119 m² Grundstück,Unknown,https://www.immowelt.de/expose/5f826f85-8f4d-4e94-83e0-a7a755b37e5f";2245
+Melle - Mitte, Melle (49324),580.000 € 2.555 €/m²,8 Zimmer,227 m²,763 m² Grundstück,https://www.immowelt.de/expose/cfaa7cd4-524c-4bea-a8cd-f82409e3262a;2245
+Melle - Mitte, Melle (49324),514.000 € 2.448 €/m²,10 Zimmer,210 m²,435 m² Grundstück,https://www.immowelt.de/expose/12595d9b-1998-4e26-a2cd-a27e28bdb8bd;2245
+"Gesmold, Melle (49326),Preis auf Anfrage,""507,5 m²"",20.843 m² Grundstück,Unknown,https://www.immowelt.de/expose/82dd35c7-8c29-48dc-b934-edc2e09da078";2245
+Bruchmühlen, Melle (49328),Preis auf Anfrage,10 Zimmer,440 m²,1.400 m² Grundstück,https://www.immowelt.de/expose/5bb9e778-f14e-4f88-8dc6-e4ac7c77ef34;2245
+Melle - Mitte, Melle (49324),98.000 € 1.782 €/m²,1 Zimmer,55 m²,1. Geschoss,https://www.immowelt.de/expose/e6145551-ea4d-4abd-bab9-90f9be6eaf33;2245
+Riemsloh, Melle (49328),425.000 € 1.801 €/m²,7 Zimmer,236 m²,810 m² Grundstück,https://www.immowelt.de/expose/f6050d4a-b7d7-42b4-8a15-b770ca8ba69d;2245
+Melle - Mitte, Melle (49324),149.000 € 2.099 €/m²,2 Zimmer,71 m²,Unknown,https://www.immowelt.de/expose/98d650b2-5bbe-4ff2-9611-8efac2178a52;2245
+Buer, Melle (49328),695.000 € 2.623 €/m²,9 Zimmer,265 m²,15.199 m² Grundstück,https://www.immowelt.de/expose/51a1ab45-e4b7-47f7-8c87-ca869ffce0bc;2245
+"Riemsloh, Melle (49328),1.499.000 € 4.889 €/m²,""306,6 m²"",17.119 m² Grundstück,Unknown,https://www.immowelt.de/expose/9ffbe695-9329-49c0-85e3-705f798fa142";2245
+"Melle - Mitte, Melle (49324),429.700 € 3.528 €/m²,4 Zimmer,""121,8 m²"",1. Geschoss,https://www.immowelt.de/expose/4e353e3e-b8a9-4bab-95e0-1466e32f9fca";2245
+"Melle - Mitte, Melle (49324),280.106 € 3.971 €/m²,2 Zimmer,""70,5 m²"",EG,https://www.immowelt.de/expose/e9cb1998-ef21-499c-bff6-cc747cd3eefb";2245
+Melle - Mitte, Melle (49324),266.378 € 3.975 €/m²,2 Zimmer,67 m²,EG,https://www.immowelt.de/expose/75818981-23ce-4b89-9de7-0bab2d8e23ff;2245
+Buer, Melle (49328),350.000 € 1.923 €/m²,6 Zimmer,182 m²,730 m² Grundstück,https://www.immowelt.de/expose/7a01547b-decf-4509-a81f-986893193a60;2245
+"Gesmold, Melle (49326),340.876 € 6.794 €/m²,1 Zimmer,""50,2 m²"",EG,https://www.immowelt.de/expose/25ad42f7-5bd5-40e2-9d01-a2c05b5659e3";2245
+"Gesmold, Melle (49326),340.876 € 6.794 €/m²,1 Zimmer,""50,2 m²"",EG,https://www.immowelt.de/expose/cd31a396-5457-4e2e-9efb-1a90e60d329d";2245
+"Gesmold, Melle (49326),340.876 € 6.794 €/m²,1 Zimmer,""50,2 m²"",EG,https://www.immowelt.de/expose/53e93680-f837-4ab1-9ac1-577ef0b1de15";2245
+"Gesmold, Melle (49326),340.876 € 6.794 €/m²,1 Zimmer,""50,2 m²"",EG,https://www.immowelt.de/expose/178eddf0-55ad-4351-b986-84383c3f9ace";2245
+"Melle - Mitte, Melle (49324),445.388 € 3.944 €/m²,4 Zimmer,""112,9 m²"",EG,https://www.immowelt.de/expose/d21da070-8b21-4be3-a066-333a85af33f8";2245
+Gesmold, Melle (49326),395.000 € 1.266 €/m²,12 Zimmer,312 m²,4.351 m² Grundstück,https://www.immowelt.de/expose/c6a1a6e4-2a3d-449b-bca3-2134258a624d;2245
+"Melle - Mitte, Melle (49324),450.000 € 2.623 €/m²,5 Zimmer,""171,6 m²"",600 m² Grundstück,https://www.immowelt.de/expose/fe1b8f3c-a906-4915-a788-33e0daa6399e";2245
+Melle - Mitte, Melle (49324),512.000 € 2.473 €/m²,3 Zimmer,207 m²,600 m² Grundstück,https://www.immowelt.de/expose/fcae43f6-018a-4561-bfcd-45c1d609021c;2245
+Melle - Mitte, Melle (49324),359.900 € 2.278 €/m²,6 Zimmer,158 m²,500 m² Grundstück,https://www.immowelt.de/expose/c2716a90-90a1-4bc0-898c-1912d1bc73d2;2245
+"Neuenkirchen, Melle (49326),1.390.000 € 3.783 €/m²,10 Zimmer,""367,5 m²"",8.534 m² Grundstück,https://www.immowelt.de/expose/70d6b642-44a3-4b81-9966-57fbc3c6c8e2";2245
+Melle - Mitte, Melle (49324),499.000 € 2.321 €/m²,6 Zimmer,215 m²,645 m² Grundstück,https://www.immowelt.de/expose/86a99d85-ac67-4b40-a7d4-db428b147bc0;2245
+"Buer, Melle / Buer (49328),356.228 € 3.776 €/m²,4 Zimmer,""94,3 m²"",Unknown,https://www.immowelt.de/expose/536f7739-afbe-4799-a3f2-28181b51551d";2245
+"Buer, Melle / Buer (49328),273.005 € 3.776 €/m²,2 Zimmer,""72,3 m²"",Unknown,https://www.immowelt.de/expose/c4e33c98-7d19-49fa-a598-33a585dc0e87";2245
+Buer, Melle / Buer (49328),336.064 € 3.776 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/8d80ed13-371d-4320-9d07-4028ee01b1ae;2245
+"Buer, Melle / Buer (49328),255.635 € 3.776 €/m²,2 Zimmer,""67,7 m²"",Unknown,https://www.immowelt.de/expose/84f92299-4590-4ba1-9cb8-32b95d154953";2245
+"Buer, Melle / Buer (49328),356.228 € 3.776 €/m²,4 Zimmer,""94,3 m²"",Unknown,https://www.immowelt.de/expose/3d3d0fbe-cb44-4c39-9531-147bdd0ff376";2245
+"Buer, Melle / Buer (49328),273.005 € 3.776 €/m²,2 Zimmer,""72,3 m²"",Unknown,https://www.immowelt.de/expose/7790aeee-ee21-4759-9c7b-c7f2f9f97db1";2245
+Buer, Melle / Buer (49328),336.064 € 3.776 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/3f802c38-5f6b-467b-9887-ae94d469ae66;2245
+"Buer, Melle / Buer (49328),255.635 € 3.776 €/m²,2 Zimmer,""67,7 m²"",Unknown,https://www.immowelt.de/expose/97e5d3de-b0f3-41be-b054-b37ffadd61be";2245
+"Buer, Melle / Buer (49328),356.228 € 3.776 €/m²,4 Zimmer,""94,3 m²"",Unknown,https://www.immowelt.de/expose/03348820-42f4-4bba-ac55-8b62e43148ec";2245
+"Buer, Melle / Buer (49328),273.005 € 3.776 €/m²,2 Zimmer,""72,3 m²"",Unknown,https://www.immowelt.de/expose/526d9f08-2d97-4475-92f1-61e53f716637";2245
+Buer, Melle / Buer (49328),336.064 € 3.776 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/5e15d589-afd3-4243-9fb9-9827652f07f9;2245
+"Melle - Mitte, Melle (49324),458.900 € 3.902 €/m²,4 Zimmer,""117,6 m²"",Unknown,https://www.immowelt.de/expose/83e822d9-71ba-4aa4-b1c6-c06d358efd1f";2245
+Wellingholzhausen, Melle / Wellingholzhausen (49326),336.000 € 4.200 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/de5269d4-1622-4970-8f5f-baa31ae1a92e;2245
+Wellingholzhausen, Melle / Wellingholzhausen (49326),369.600 € 4.200 €/m²,3 Zimmer,88 m²,Unknown,https://www.immowelt.de/expose/d72d8ef9-b349-4425-bec0-0ea28c898718;2245
+"Wellingholzhausen, Melle / Wellingholzhausen (49326),333.060 € 4.200 €/m²,3 Zimmer,""79,3 m²"",Unknown,https://www.immowelt.de/expose/1a05c872-e191-4a0c-be3c-59d2ec5fa2c4";2245
+Wellingholzhausen, Melle / Wellingholzhausen (49326),336.000 € 4.200 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/16d61667-fe32-47bc-a86c-3fc1571bf150;2245
+"Wellingholzhausen, Melle / Wellingholzhausen (49326),369.600 € 4.195 €/m²,3 Zimmer,""88,1 m²"",Unknown,https://www.immowelt.de/expose/c3f0fde7-c303-46c4-b6ac-4e7dd9a2fe44";2245
+"Wellingholzhausen, Melle / Wellingholzhausen (49326),333.060 € 4.200 €/m²,3 Zimmer,""79,3 m²"",Unknown,https://www.immowelt.de/expose/e302f70c-92f9-4fd6-8c02-be73e0445489";2245
+Bruchmühlen, Rödinghausen (32289),571.400 € 3.056 €/m²,187 m²,946 m² Grundstück,Unknown,https://www.immowelt.de/expose/5b139e10-f588-4afb-a8cb-02dce6b1b0de;2245
+Bruchmühlen, Rödinghausen (32289),398.900 € 2.624 €/m²,5 Zimmer,152 m²,945 m² Grundstück,https://www.immowelt.de/expose/f8b70913-1271-4165-b2c1-c262e6141663;2245
+"Wallenbrück, Spenge (32139),250.000 € 4.167 €/m²,""1,5 Zimmer"",60 m²,frei ab sofort,https://www.immowelt.de/expose/88c6faf2-9e75-4f8e-beb9-2f84b4f0bcfe";2245
+Bruchmühlen, Rödinghausen (32289),360.000 € 2.250 €/m²,5 Zimmer,160 m²,1.193 m² Grundstück,https://www.immowelt.de/expose/1b4242e0-bd69-4e83-91cc-8fbae6820baf;2245
+Wallenbrück, Spenge (32139),454.900 € 2.757 €/m²,3 Zimmer,165 m²,500 m² Grundstück,https://www.immowelt.de/expose/d005ce6e-75e4-43af-accc-25ec770cd414;2245
+Wallenbrücker Str. 10, Wallenbrück, Spenge (32139),149.000 € 1.674 €/m²,3 Zimmer,89 m²,1. Geschoss,https://www.immowelt.de/expose/bff170d1-204d-45d9-bc3c-e5e3b2e13ff7;2245
+Bruchmühlen, Rödinghausen (32289),326.270 € 2.453 €/m²,4 Zimmer,133 m²,473 m² Grundstück,https://www.immowelt.de/expose/dc46e196-5390-48db-aa8f-66f64dbde42a;2245
+Bruchmühlen, Rödinghausen (32289),393.410 € 3.074 €/m²,4 Zimmer,128 m²,923 m² Grundstück,https://www.immowelt.de/expose/df2be254-b86b-4451-ba6e-89b0a420fdfb;2245
+Wallenbrück, Spenge (32139),285.000 € 1.645 €/m²,9 Zimmer,200 m²,539 m² Grundstück,https://www.immowelt.de/expose/e3fe794c-a888-4fd6-a7df-9c6dd82cf2a5;2245
+Holsen, Bünde (32257),350.000 € 3.933 €/m²,2 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/7a0f45c6-e9be-4164-9f70-8ac9b188cc32;2245
+Wallenbrück, Spenge (32139),295.000 € 934 €/m²,11 Zimmer,316 m²,1.200 m² Grundstück,https://www.immowelt.de/expose/5b44f26a-bf8c-487b-90da-50a5f1705262;2245
+Spenge, Spenge (32139),Preis auf Anfrage,4 Zimmer,135 m²,450 m² Grundstück,https://www.immowelt.de/expose/4960abf0-2f58-4ea9-9294-1b23c53d3a05;2245
+Holsen, Bünde (32257),158.000 € 878 €/m²,6 Zimmer,180 m²,1.287 m² Grundstück,https://www.immowelt.de/expose/4bbdaf92-5a12-461c-be13-69e896ba83af;2245
+"Ahle, Bünde (32257),367.079 € 2.581 €/m²,4 Zimmer,""142,2 m²"",540 m² Grundstück,https://www.immowelt.de/expose/6cd5ce4e-1cfe-4d76-9559-0f7b784ce900";2245
+Bardüttingdorf, Spenge (32139),795.000 € 3.180 €/m²,8 Zimmer,250 m²,10.998 m² Grundstück,https://www.immowelt.de/expose/83f6bf60-4dd5-42ad-9aa0-ab24e9dde6ef;2245
+"Spenge, Spenge (32139),260.534 € 1.980 €/m²,5 Zimmer,""131,6 m²"",500 m² Grundstück,https://www.immowelt.de/expose/25a92211-d241-449c-b1c8-1672d97f4172";2245
+"Spenge, Spenge (32139),1.350.000 € 5.355 €/m²,""252,1 m²"",Unknown,Unknown,https://www.immowelt.de/expose/b91e6e00-6174-4e6c-9aaa-82ab19472dce";2245
+Rödinghausen, Rödinghausen (32289),820.000 € 2.523 €/m²,11 Zimmer,325 m²,1.516 m² Grundstück,https://www.immowelt.de/expose/d9b21417-d0f3-44fa-998f-c658ef8cde61;2245
+"Spenge, Spenge (32139),250.501 € 2.149 €/m²,5 Zimmer,""116,6 m²"",500 m² Grundstück,https://www.immowelt.de/expose/644e96d8-953c-4a57-a860-476837d1ee89";2245
+Molkenkeller 18, Holsen, Bünde (32257),659.000 € 1.121 €/m²,588 m²,1.301 m² Grundstück,Unknown,https://www.immowelt.de/expose/9ac127a3-a574-4512-a443-d2ae57498da2;2245
+Spenge, Spenge (32139),450.000 € 4.500 €/m²,100 m²,Unknown,Unknown,https://www.immowelt.de/expose/2cf88785-aa21-4646-8ad9-75581ed733c7;2245
+Schwenningdorf, Rödinghausen (32289),410.000 € 2.595 €/m²,5 Zimmer,158 m²,616 m² Grundstück,https://www.immowelt.de/expose/767f38c5-b743-45e6-b773-ab17d302b88b;2245
+"Borgholzhausen, Borgholzhausen (33829),383.387 € 3.577 €/m²,4 Zimmer,""107,2 m²"",494 m² Grundstück,https://www.immowelt.de/expose/0d2dd4da-3372-4d0c-b424-1edd139bafce";2245
+"Schwenningdorf, Rödinghausen (32289),325.000 € 989 €/m²,6 Zimmer,""328,6 m²"",2.445 m² Grundstück,https://www.immowelt.de/expose/ed52b8bb-4ab4-40a9-9a94-f30d8bc76db5";2245
+Ostkilver, Rödinghausen (32289),325.650 € 3.540 €/m²,3 Zimmer,92 m²,711 m² Grundstück,https://www.immowelt.de/expose/744cb254-5968-464b-82b9-3bbf9fbfdc5d;2245

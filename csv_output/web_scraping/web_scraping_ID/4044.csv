@@ -1,571 +1,571 @@
-﻿Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL
-"Nordstadt, Hannover (30167)",399.000 € 4.807 €/m²,"3,5 Zimmer",83 m²,4. Geschoss,https://www.immowelt.de/expose/a958d96b-db05-4a9f-89d9-bb0c8ef2ddd4
-"Nordstadt, Hannover (30167)",650.000 € 4.420 €/m²,3 Zimmer,"147,1 m²",Unknown,https://www.immowelt.de/expose/ed254851-e7b4-4248-b4c4-f67fed5cd341
-"Anderten, Hannover / Anderten (30559)",195.000 € 2.600 €/m²,3 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/18ebee1a-9343-447f-a49d-0e5ad04fc7ad
-"Oststadt, Hannover (30161)",815.000 € 5.821 €/m²,4 Zimmer,140 m²,EG,https://www.immowelt.de/expose/e05075c3-fcaf-4146-a10e-5f9f8154e5d9
-"Linden-Mitte, Hannover (30449)",400.000 € 3.596 €/m²,4 Zimmer,"111,3 m²",2. Geschoss,https://www.immowelt.de/expose/b73603a6-5541-4be0-92a3-2cd496a669f6
-"Bornum, Hannover (30453)",199.000 € 3.062 €/m²,3 Zimmer,65 m²,1. Geschoss,https://www.immowelt.de/expose/a7f161e4-8435-4886-a276-e5054f09e888
-"Nordstadt, Hannover (30167)",165.000 € 4.853 €/m²,2 Zimmer,34 m²,2. Geschoss,https://www.immowelt.de/expose/1c352cd3-d61a-4673-8668-4ba9d9273b60
-"Groß-Buchholz, Hannover (30655)",350.000 € 2.804 €/m²,4 Zimmer,"124,8 m²",1. Geschoss,https://www.immowelt.de/expose/2b4ee42b-9caa-4dc4-b888-f78610a99027
-"Odenwaldstr. 16, Sahlkamp, Hannover (30657)",205.000 € 2.455 €/m²,"3,5 Zimmer","83,5 m²",3. Geschoss,https://www.immowelt.de/expose/d8508798-6b6f-4bde-8b40-2415934b16cf
-"Bemerode, Hannover (30539)",799.900 € 5.333 €/m²,4 Zimmer,150 m²,408 m² Grundstück,https://www.immowelt.de/expose/a5aacf75-8873-45b8-a3ff-56e008a20dc8
-"Sahlkamp, Hannover / Sahlkamp (30179)",490.000 € 2.882 €/m²,7 Zimmer,170 m²,565 m² Grundstück,https://www.immowelt.de/expose/10b4b630-eeb3-4dee-bb4c-fbf58ce1b8d1
-"Anderten, Hannover / Anderten (30559)",180.000 € 2.813 €/m²,2 Zimmer,64 m²,Unknown,https://www.immowelt.de/expose/bfcbaae6-49eb-4d9d-8f71-ab1665af594f
-"Seelhorst, Hannover / Kirchrode (30559)",485.000 € 5.706 €/m²,3 Zimmer,85 m²,EG,https://www.immowelt.de/expose/8e8b29fa-d69d-4477-be1d-f275e82e6489
-"Rosalind-Franklin-Allee 40, Bemerode, Hannover (30539)",552.000 € 5.778 €/m²,3 Zimmer,"95,5 m²",frei ab sofort,https://www.immowelt.de/projekte/expose/k2hg632
-"Kirchrode, Hannover (30559)",900.000 € 4.712 €/m²,6 Zimmer,191 m²,452 m² Grundstück,https://www.immowelt.de/expose/f6d47151-50d1-4258-918f-39651aba902f
-"Döhren, Hannover (30519)",332.000 € 3.255 €/m²,4 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/d2346100-697e-422f-897d-a4f545dd3978
-"Wettbergen, Hannover / Wettbergen (30457)",460.000 € 2.026 €/m²,227 m²,635 m² Grundstück,Unknown,https://www.immowelt.de/expose/1ee2d927-81ac-46b1-98eb-016bbae1d8e0
-"Davenstedt, Hannover (30455)",290.000 € 2.522 €/m²,"3,5 Zimmer",115 m²,263 m² Grundstück,https://www.immowelt.de/expose/15da07c5-7cca-41d4-849f-e91eeb60c2b0
-"Bornumer Straße 156, Bornum, Hannover / Bornum (30453)",399.900 € 3.333 €/m²,"4,5 Zimmer",120 m²,156 m² Grundstück,https://www.immowelt.de/expose/2cf3e177-31a6-4e88-8c1c-a2d3b624b512
-"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167)",398.000 € 7.094 €/m²,2 Zimmer,"56,1 m²",3. Geschoss,https://www.immowelt.de/projekte/expose/k224832
-"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167)",875.000 € 7.543 €/m²,4 Zimmer,116 m²,3. Geschoss,https://www.immowelt.de/projekte/expose/k224832
-"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167)",665.000 € 6.856 €/m²,3 Zimmer,97 m²,2. Geschoss,https://www.immowelt.de/projekte/expose/k224832
-"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167)",635.000 € 6.356 €/m²,3 Zimmer,"99,9 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k224832
-"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167)",349.000 € 7.079 €/m²,1 Zimmer,"49,3 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k224832
-"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167)",380.000 € 6.726 €/m²,2 Zimmer,"56,5 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k224832
-"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167)",469.000 € 6.212 €/m²,2 Zimmer,"75,5 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k224832
-"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167)",585.000 € 6.000 €/m²,3 Zimmer,"97,5 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k224832
-"Haltenhoffstrasse 47 B, Nordstadt, Hannover (30167)",645.000 € 6.017 €/m²,3 Zimmer,"107,2 m²",Unknown,https://www.immowelt.de/projekte/expose/k224832
-"Haltenhoffstrasse 47 C, Nordstadt, Hannover (30167)",569.000 € 5.909 €/m²,3 Zimmer,"96,3 m²",Unknown,https://www.immowelt.de/projekte/expose/k224832
-"Haltenhoffstrasse 47 B, Nordstadt, Hannover (30167)",622.000 € 5.802 €/m²,3 Zimmer,"107,2 m²",2. Geschoss,https://www.immowelt.de/projekte/expose/k224832
-"Schulenburger Landstr. 54, Hainholz, Hannover (30165)",165.000 € 2.705 €/m²,2 Zimmer,61 m²,4. Geschoss,https://www.immowelt.de/expose/54d17763-541f-41d2-982d-f62314847771
-"Oststadt, Hannover (30161)",4.460.000 € 4.901 €/m²,28 Zimmer,910 m²,800 m² Grundstück,https://www.immowelt.de/expose/a68c84f3-a616-4e3e-8847-9a44ff1b6858
-"Groß-Buchholz, Hannover (30659)",489.000 € 2.778 €/m²,6 Zimmer,176 m²,510 m² Grundstück,https://www.immowelt.de/expose/89af4248-4a56-4d22-ba52-e455acbcdb74
-Unknown,Unknown,3 Zimmer,"77,5 m²",2. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732
-"St.-Ingbert-Str. 14, Kirchrode, Hannover (30559)",775.000 € 3.414 €/m²,7 Zimmer,227 m²,574 m² Grundstück,https://www.immowelt.de/expose/d04cce67-f254-4c3b-902c-23d31860744b
-"Lange Straße 1, Anderten, Hannover (30559)",180.000 € 3.114 €/m²,2 Zimmer,"57,8 m²",3. Geschoss,https://www.immowelt.de/expose/2881244b-b37d-447d-ab64-3e4cdfa7ba42
-"Wülfel, Hannover (30519)",120.000 € 2.500 €/m²,1 Zimmer,48 m²,4. Geschoss,https://www.immowelt.de/expose/5b069c3d-c455-48d5-88ae-04ac16249fb7
-"Vahrenwald, Hannover (30161)",325.000 € 4.333 €/m²,3 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/f2c17465-000b-46cb-ab2c-1570697d0af5
-"List, Hannover (30161)",850.000 € 3.269 €/m²,5 Zimmer,260 m²,4. Geschoss,https://www.immowelt.de/expose/c7b19e3c-e425-43d9-b129-a4aec61a71f4
-"Oberricklingen, Hannover (30459)",430.000 € 3.726 €/m²,5 Zimmer,"115,4 m²",EG,https://www.immowelt.de/expose/c3daca5d-0e7e-4c41-a083-592f28297bb6
-"Südstadt, Hannover (30173)",189.000 € 4.174 €/m²,2 Zimmer,"45,3 m²",1. Geschoss,https://www.immowelt.de/expose/cd485862-3150-48f4-9c80-27c163282d68
-"Kirchrode, Hannover (30559)",345.000 € 5.308 €/m²,2 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/3f133a40-1f90-470c-b028-d0442a9481a0
-"Mittelfeld, Hannover / Bemerode (30539)",390.000 € 2.143 €/m²,"4,5 Zimmer",182 m²,605 m² Grundstück,https://www.immowelt.de/expose/c46e493a-37bd-436e-a3ac-1da819d9a81a
-"Heideviertel, Hannover / Heideviertel (30625)",155.000 € 2.617 €/m²,2 Zimmer,"58,6 m²",1. Geschoss,https://www.immowelt.de/expose/438a2971-49d4-40ab-ad35-361e01159312
-"Badenstedt, Hannover (30455)",650.000 € 1.706 €/m²,381 m²,479 m² Grundstück,Unknown,https://www.immowelt.de/expose/f0909e6e-e1ba-4bc1-ae6b-0d48ad363987
-"Mühlenberg, Hannover (30457)",110.000 € 1.746 €/m²,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/a305799e-6814-4772-91eb-89ca2b920b3a
-"Mühlenberg, Hannover (30457)",110.000 € 1.746 €/m²,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/88b159ca-d9d3-4f79-bcb2-7942ea4d28bd
-"Linden-Mitte, Hannover / Linden-Mitte (30449)",645.000 € 3.909 €/m²,"4,5 Zimmer",165 m²,4. Geschoss,https://www.immowelt.de/expose/38cb7654-7552-4e76-8da7-f8bd9cff157f
-"Groß-Buchholz, Hannover (30627)",295.000 € 3.105 €/m²,4 Zimmer,95 m²,7. Geschoss,https://www.immowelt.de/expose/232d6348-a98f-48b2-b14a-ff0468e6fb6a
-"Groß-Buchholz, Hannover (30655)",99.000 € 2.856 €/m²,1 Zimmer,"34,7 m²",2. Geschoss,https://www.immowelt.de/expose/ec045873-817b-4a4b-b59c-3c2b825632ac
-"Limmer, Hannover / Limmer (30453)",440.000 € 5.134 €/m²,3 Zimmer,"85,7 m²",3. Geschoss,https://www.immowelt.de/expose/f13a7f3c-645b-4273-84df-99117c4fc1a3
-"Vahrenwald, Hannover (30165)",215.000 € 2.807 €/m²,3 Zimmer,"76,6 m²",2. Geschoss,https://www.immowelt.de/expose/4dec9d19-4ea3-481a-a7d4-b8e604bc0b82
-"Südstadt, Hannover (30173)",286.000 € 4.306 €/m²,2 Zimmer,"66,4 m²",2. Geschoss,https://www.immowelt.de/expose/2ba86b49-75b9-4f28-ae0a-5467a21a5f47
-"Döhren, Hannover (30519)",695.000 € 4.238 €/m²,5 Zimmer,164 m²,295 m² Grundstück,https://www.immowelt.de/expose/3757f5c9-5d3c-46bc-9c43-b4611589eb95
-"Mühlenberg, Hannover (30457)",138.000 € 1.704 €/m²,2 Zimmer,81 m²,2. Geschoss,https://www.immowelt.de/expose/1d39758f-c396-4b91-80b0-a18bc45f0fb1
-"Wettbergen, Hannover (30559)",733.382 € 5.867 €/m²,5 Zimmer,125 m²,401 m² Grundstück,https://www.immowelt.de/expose/dc75450d-b7bc-4b91-b7c4-ab16589fbbe4
-"Wettbergen, Hannover (30559)",726.549 € 5.546 €/m²,5 Zimmer,131 m²,401 m² Grundstück,https://www.immowelt.de/expose/4b9ac3ed-d662-4a54-826c-d27efac4ae57
-"Wettbergen, Hannover (30559)",681.360 € 8.309 €/m²,3 Zimmer,82 m²,401 m² Grundstück,https://www.immowelt.de/expose/163298f0-0b0c-4fb1-8eba-f2803e93a965
-"Calenberger Neustadt, Hannover (30169)",980.000 € 4.804 €/m²,3 Zimmer,204 m²,4. Geschoss,https://www.immowelt.de/expose/49b0db47-a54a-46d4-bd90-d68261825336
-"Lützerodestraße 4, List, Hannover (30161)",269.900 € 4.092 €/m²,3 Zimmer,66 m²,4. Geschoss,https://www.immowelt.de/expose/058597f1-d3fc-4996-9c58-5fbcb35f0734
-"Misburg-Nord, Hannover (30629)",125.000 € 2.404 €/m²,2 Zimmer,52 m²,Unknown,https://www.immowelt.de/expose/0b23216b-7035-4688-80a0-02f6d4635a0f
-"Groß-Buchholz, Hannover (30659)",637.549 € 4.867 €/m²,5 Zimmer,131 m²,548 m² Grundstück,https://www.immowelt.de/expose/3dfb2c9f-1bce-4211-90e3-e60f859b0b0d
-"Groß-Buchholz, Hannover (30659)",644.382 € 5.155 €/m²,5 Zimmer,125 m²,548 m² Grundstück,https://www.immowelt.de/expose/a647ad6b-1938-45c7-8c34-6da2066dd5c2
-"Groß-Buchholz, Hannover (30659)",592.360 € 7.224 €/m²,3 Zimmer,82 m²,548 m² Grundstück,https://www.immowelt.de/expose/15e13240-5eea-474c-9d8c-7cb452e38804
-"Ledeburg, Hannover / Burg (30419)",245.000 € 2.784 €/m²,3 Zimmer,88 m²,Unknown,https://www.immowelt.de/expose/dc886d89-d4d5-45f1-8a06-0e1558e596f7
-"Mitte, Hannover (30140)",673.000 € 2.698 €/m²,6 Zimmer,"249,4 m²",510 m² Grundstück,https://www.immowelt.de/expose/d1fa8942-9d01-465a-8a93-3893a534f6f4
-"Vahrenheide, Hannover (30057)",655.900 € 4.234 €/m²,5 Zimmer,"154,9 m²",540 m² Grundstück,https://www.immowelt.de/expose/e99c720d-6821-47a5-b1bd-82dc417be38a
-"Oststadt, Hannover (30161)",3.780.000 € 3.286 €/m²,35 Zimmer,1.160 m²,493 m² Grundstück,https://www.immowelt.de/expose/2e3758c7-1524-4279-9892-4ac693ff2490
-"Treptowweg, Sahlkamp, Hannover (30179)",575.000 € 3.528 €/m²,8 Zimmer,163 m²,624 m² Grundstück,https://www.immowelt.de/expose/762a928e-7407-48c9-addf-fb747e37267a
-"Groß-Buchholz, Hannover (30627)",250.000 € 2.976 €/m²,4 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/6d94cc07-378e-4928-b72f-253db49344fc
-"Leinhausen, Hannover (30419)",380.000 € 3.016 €/m²,4 Zimmer,126 m²,frei ab sofort,https://www.immowelt.de/expose/0679dbcc-3713-466a-a034-95bfbce72e80
-"Lahe, Hannover (30659)",194.900 € 2.663 €/m²,2 Zimmer,"73,2 m²",550 m² Grundstück,https://www.immowelt.de/expose/d11c9c4d-7f68-4388-8fe7-ec13281881c3
-"Wettbergen, Hannover (30457)",420.000 € 3.727 €/m²,4 Zimmer,"112,7 m²",305 m² Grundstück,https://www.immowelt.de/expose/b2883386-f3f5-4064-87ef-031bedc74b83
-"Davenstedt, Hannover (30455)",Preis auf Anfrage,7 Zimmer,145 m²,340 m² Grundstück,https://www.immowelt.de/expose/284d738d-d0cb-4d32-9bc6-68cbed1de6a4
-"List, Hannover (30163)",135.000 € 3.857 €/m²,1 Zimmer,35 m²,3. Geschoss,https://www.immowelt.de/expose/c91079ef-a045-42c6-9e8d-a21ab609f127
-"Ahlem, Hannover (30453)",207.000 € 2.508 €/m²,4 Zimmer,"82,5 m²",Unknown,https://www.immowelt.de/expose/a3cc30fe-d358-493f-af74-9a1d2fa70d8b
-"Bothfeld, Hannover / Bothfeld (30659)",664.000 € 3.320 €/m²,4 Zimmer,"164,6 m²",319 m² Grundstück,https://www.immowelt.de/expose/410522b9-c16b-4b3b-86f2-d04e712fcb19
-"Mitte, Hannover (30161)",849.000 € 5.855 €/m²,5 Zimmer,145 m²,4. Geschoss,https://www.immowelt.de/expose/161b5156-bdc2-4ad5-b10a-b33332e3efa8
-"Rosalind-Franklin-Allee 38, Bemerode, Hannover (30539)",548.000 € 5.779 €/m²,3 Zimmer,"94,8 m²",Unknown,https://www.immowelt.de/projekte/expose/k2hg632
-"Wettbergen, Hannover / Wettbergen (30457)",178.000 € 2.738 €/m²,2 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/7ce72b12-0eaf-4e86-8aac-3c00756a5f22
-"Bothfeld, Hannover (30659)",142.500 € 3.314 €/m²,2 Zimmer,43 m²,1. Geschoss,https://www.immowelt.de/expose/dabd6b83-cd20-440c-8f9b-59e078bdef46
-"Misburg-Nord, Hannover (30629)",530.000 € 3.313 €/m²,6 Zimmer,160 m²,900 m² Grundstück,https://www.immowelt.de/expose/da302ce4-4243-4b33-9c48-2cc18bbccc41
-"Misburg-Nord, Hannover (30629)",139.000 € 2.306 €/m²,3 Zimmer,"60,3 m²",2. Geschoss,https://www.immowelt.de/expose/4537eb65-12a7-49bc-a9ce-b58702f06db7
-"Im Dorfe 16 A, Bornum, Hannover (30453)",395.000 € 2.565 €/m²,5 Zimmer,154 m²,193 m² Grundstück,https://www.immowelt.de/expose/91fddf78-0f2d-4bd3-ada3-9fb12f17c420
-"Sulzbacher Str. 6, Kirchrode, Hannover (30559)",468.000 € 3.545 €/m²,4 Zimmer,132 m²,2. Geschoss,https://www.immowelt.de/expose/f76947a0-cf53-4a0b-bcab-43c4f43e9990
-"Asplundweg 9, Kirchrode, Hannover (30559)",565.000 € 3.285 €/m²,5 Zimmer,172 m²,EG,https://www.immowelt.de/expose/3b6edd96-f23d-4dc0-8416-33c27d7f6d08
-"Knoevenagelweg 3, Hainholz, Hannover (30165)",180.000 € 2.060 €/m²,4 Zimmer,"87,4 m²",EG,https://www.immowelt.de/expose/cc8c0cb7-ed6f-4de2-8c6b-3537212d5313
-"Knoevenagelweg 3, Hainholz, Hannover (30165)",145.000 € 1.960 €/m²,2 Zimmer,"73,8 m²",4. Geschoss,https://www.immowelt.de/expose/b4208c9e-df94-48a3-8d81-ebc615f0b930
-"Ostfeldstraße, Kirchrode, Hannover (30559)",669.000 € 5.817 €/m²,3 Zimmer,115 m²,400 m² Grundstück,https://www.immowelt.de/expose/393f6223-6885-48d7-923e-d372f84def54
-"Misburg-Nord, Hannover (30629)",375.000 € 3.125 €/m²,3 Zimmer,120 m²,460 m² Grundstück,https://www.immowelt.de/expose/b93284eb-aa5e-4370-b045-a20c4aec8957
-"List, Hannover (30177)",737.500 € 5.156 €/m²,4 Zimmer,"143,1 m²",Unknown,https://www.immowelt.de/projekte/expose/k2jm832
-"List, Hannover (30177)",698.500 € 5.261 €/m²,4 Zimmer,"132,8 m²",Unknown,https://www.immowelt.de/projekte/expose/k2jm832
-"Bornumer Straße -, Bornum, Hannover / Bornum (30453)",453.900 € 3.783 €/m²,"4,5 Zimmer",120 m²,150 m² Grundstück,https://www.immowelt.de/expose/c14feac8-a95d-486f-949f-0b2db5a0b347
-"Lyraweg 8, Badenstedt, Hannover (30455)",140.000 € 2.408 €/m²,"2,5 Zimmer","58,1 m²",2. Geschoss,https://www.immowelt.de/expose/cc0720d8-dec8-48f2-99fc-a4bfab723781
-"Schulenburger Landstr. 54, Hainholz, Hannover (30165)",190.000 € 2.568 €/m²,3 Zimmer,74 m²,3. Geschoss,https://www.immowelt.de/expose/8168591a-ce66-46af-ac8e-c7d4a358bf07
-"Elbestr. 6, Leinhausen, Hannover (30419)",155.000 € 2.960 €/m²,2 Zimmer,"52,4 m²",2. Geschoss,https://www.immowelt.de/expose/7368b580-d55d-4bef-8c3f-24ea061c8e9c
-Unknown,Unknown,4 Zimmer,"132,2 m²",3. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732
-"Oststadt, Hannover (30161)",4.460.000 € 4.901 €/m²,28 Zimmer,910 m²,800 m² Grundstück,https://www.immowelt.de/expose/2d213c54-cdbf-4a0e-990d-079cc62f9d8d
-"List, Hannover (30163)",433.000 € 2.812 €/m²,154 m²,Unknown,Unknown,https://www.immowelt.de/expose/4742129d-4afb-42c8-ae8a-ff6b4e7dab90
-"Lehrter Str. 16, Anderten, Hannover (30559)",233.000 € 2.354 €/m²,4 Zimmer,99 m²,2. Geschoss,https://www.immowelt.de/expose/3daf2b43-e520-4308-a19d-f8714054b55e
-"List, Hannover (30177)",371.650 € 4.250 €/m²,3 Zimmer,"87,5 m²",Unknown,https://www.immowelt.de/expose/4be025a0-6cd0-4ea4-8a18-62693ff566ab
-"Nordstadt, Hannover (30167)",3.200.000 € 5.818 €/m²,9 Zimmer,550 m²,4.050 m² Grundstück,https://www.immowelt.de/expose/b0cd10ce-fa85-43ec-9852-46b6d0a9f694
-"Anderten, Hannover / Anderten (30559)",293.000 € 2.968 €/m²,4 Zimmer,"98,7 m²",Unknown,https://www.immowelt.de/expose/9540e7bc-a96a-4554-b072-ff9c99253c0f
-"Mitte, Hannover (30159)",Preis auf Anfrage,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/d6427de6-1506-4da2-93d5-bec78d45c91d
-"Linden-Süd, Hannover (30175)",Preis auf Anfrage,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/9e2ef714-363e-48da-8bc5-18597580c7b7
-"Hainholz, Hannover (30171)",Preis auf Anfrage,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/6703ffdd-1b0d-4064-98ff-66f510cd33b9
-"Südstadt, Hannover (30173)",1.105.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/b2ea75c7-9cdf-4203-99e7-8eeef0e5e92b
-"Linden-Nord, Hannover (30163)",1.105.000 € 1.995 €/m²,554 m²,391 m² Grundstück,Unknown,https://www.immowelt.de/expose/c8788fca-3982-4696-97c1-06d855435fe3
-"Mitte, Hannover (30159)",20.000.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/76e4cfc6-18a4-4f62-ab78-a2bf64c699d9
-"Mühlenberg, Hannover (30457)",200.000 € 1.302 €/m²,"4,5 Zimmer","153,6 m²",2. Geschoss,https://www.immowelt.de/expose/e153981e-6079-4ee2-9a80-8432c73ef1e4
-"Südstadt, Hannover (30171)",380.000 € 3.667 €/m²,3 Zimmer,"103,6 m²",Unknown,https://www.immowelt.de/expose/eef148ea-6836-45b5-adf0-ac8c3fcfae3c
-"List, Hannover (30161)",3.400.000 €,750 m² Grundstück,Unknown,Unknown,https://www.immowelt.de/expose/92466425-4413-45ba-a1f2-3cd388c02782
-"Anderten, Hannover (30559)",165.000 € 2.845 €/m²,2 Zimmer,58 m²,EG,https://www.immowelt.de/expose/7efd2fd9-fd68-48a9-b6e3-e632e3c4565d
-"Mitte, Hannover (30169)",1.950.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/25bfe0ee-668b-461c-a591-e86b6aa837dc
-"Mars-La-Tour-Str. 17, Zoo, Hannover (30175)",12.000.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/37f72982-b9af-47c0-b3fe-100ff139f20c
-"Bult, Hannover (30173)",895.000 € 6.885 €/m²,4 Zimmer,130 m²,Unknown,https://www.immowelt.de/expose/f78aa567-4f86-4ba3-9a36-b05d729b191b
-"Wunstorfer Landstr.3, Ahlem, Hannover (30453)",75.000 € 2.986 €/m²,1 Zimmer,"25,1 m²",2. Geschoss,https://www.immowelt.de/expose/18911745-35e8-47dd-98ca-ce4129b0cfab
-"Hainholz, Hannover (30165)",1.850.000 € 2.284 €/m²,810 m²,Unknown,Unknown,https://www.immowelt.de/expose/c1410df4-17d5-47e6-8498-8d8ee68df8e8
-"Hainholz, Hannover (30165)",1.850.000 € 2.284 €/m²,810 m²,Unknown,Unknown,https://www.immowelt.de/expose/81738db9-d287-4e99-b481-fb2f988ab543
-"Hildesheimer Straße 432, Wülfel, Hannover (30519)",721.728 € 5.600 €/m²,4 Zimmer,"128,9 m²",4. Geschoss,https://www.immowelt.de/expose/24b7cbf9-c5fb-49ae-8936-8445ba9404fe
-Unknown,Unknown,4 Zimmer,"120,7 m²",3. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732
-Unknown,Unknown,3 Zimmer,"103,4 m²",EG,https://www.immowelt.de/projekte/expose/k2jt732
-"Hildesheimer Straße 432, Wülfel, Hannover (30519)",539.280 € 5.600 €/m²,3 Zimmer,"96,3 m²",EG,https://www.immowelt.de/expose/90cfe017-8641-47c0-91a9-4776005b2d9d
-Unknown,Unknown,3 Zimmer,"88,9 m²",2. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732
-"Hildesheimer Straße 432, Wülfel, Hannover (30519)",497.672 € 5.600 €/m²,3 Zimmer,"88,9 m²",1. Geschoss,https://www.immowelt.de/expose/2a6edbb7-b36d-452d-a186-62676be1680f
-Unknown,Unknown,3 Zimmer,"81,2 m²",2. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732
-Unknown,Unknown,3 Zimmer,"81,2 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732
-"Hildesheimer Straße 432, Wülfel, Hannover (30519)",434.112 € 5.600 €/m²,3 Zimmer,"77,5 m²",1. Geschoss,https://www.immowelt.de/expose/cac4bb2c-b862-4cef-9751-20c278e24df9
-"Hildesheimer Straße 432, Wülfel, Hannover (30519)",416.976 € 5.600 €/m²,2 Zimmer,"74,5 m²",EG,https://www.immowelt.de/expose/0e31cfa4-0827-4c19-9151-60b5c6feb923
-"Bult, Hannover (30173)",725.000 € 5.620 €/m²,3 Zimmer,129 m²,2. Geschoss,https://www.immowelt.de/expose/b314b1fa-dc82-486a-bd80-6ba2827a3083
-"Zoo, Hannover (30175)",650.000 € 3.824 €/m²,4 Zimmer,170 m²,3. Geschoss,https://www.immowelt.de/expose/4b40c459-9b95-4f43-9bd2-79be604af19d
-Unknown,Unknown,4 Zimmer,"115,9 m²",4. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732
-"Vahrenwald, Hannover (30165)",1.850.000 € 2.166 €/m²,854 m²,863 m² Grundstück,Unknown,https://www.immowelt.de/expose/0f70d98e-e9f0-4c3a-91b6-31dffef14efd
-"Mitte, Hannover (30159)",Preis auf Anfrage,500 m²,Unknown,Unknown,https://www.immowelt.de/expose/08ed59d7-d3b5-43dc-9682-5fc5aa7eebe6
-"Badenstedt, Hannover (30455)",1.650.000 € 3.395 €/m²,486 m²,520 m² Grundstück,Unknown,https://www.immowelt.de/expose/88325f32-d493-48b5-96ef-50a5d2e9d087
-"Kirchrode, Hannover (30559)",545.000 € 5.450 €/m²,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/acdcd236-a399-4724-aee2-486ec2f33945
-"Herrenhausen, Hannover (30419)",5.000.000 € 7.692 €/m²,650 m²,3.500 m² Grundstück,Unknown,https://www.immowelt.de/expose/41502628-72ab-4f78-9035-d49f5c97ac24
-"-, Waldhausen, Hannover (30519)",1.299.000 € 8.119 €/m²,6 Zimmer,160 m²,230 m² Grundstück,https://www.immowelt.de/expose/76fe9d43-08be-450c-8021-f59eeb0b1138
-"Wettbergen, Hannover (30457)",439.000 € 3.430 €/m²,5 Zimmer,128 m²,196 m² Grundstück,https://www.immowelt.de/expose/e97ec1b5-fa6f-4a7a-bf9b-b8e8556fa242
-"Misburg-Süd, Hannover (30629)",215.000 € 2.849 €/m²,4 Zimmer,"75,5 m²",2. Geschoss,https://www.immowelt.de/expose/e6384b4d-1b1b-46d3-9ce0-a9411809d1cb
-"Kirchrode, Hannover-Kirchrode (30559)",220.000 € 2.588 €/m²,3 Zimmer,85 m²,205 m² Grundstück,https://www.immowelt.de/expose/39b356b7-1f34-4766-914b-a2e8b9462ba3
-"List, Hannover (30161)",330.000 € 3.511 €/m²,3 Zimmer,94 m²,4. Geschoss,https://www.immowelt.de/expose/f7bbe850-f4c0-47f9-b3c0-5890cf354b61
-"Bothfeld, Hannover (30659)",225.000 € 2.961 €/m²,3 Zimmer,76 m²,2. Geschoss,https://www.immowelt.de/expose/d975d391-c340-42f0-a531-8a4374e5ac00
-"Kleefeld, Hannover (30625)",138.000 € 2.706 €/m²,2 Zimmer,51 m²,2. Geschoss,https://www.immowelt.de/expose/2c1a1758-1d9a-41bc-9920-99e24dd2e5c2
-"Hinrichsring 15A, List, Hannover (30177)",349.000 € 2.837 €/m²,4 Zimmer,123 m²,Unknown,https://www.immowelt.de/expose/28130efc-cd82-4203-af45-2454c1527b0f
-"Anderten, Hannover (30559)",150.000 € 2.447 €/m²,2 Zimmer,"61,4 m²",1. Geschoss,https://www.immowelt.de/expose/ded4bcec-10aa-43d1-9371-7f43551bdbaf
-"Linden-Nord, Hannover (30451)",95.000 € 2.963 €/m²,1 Zimmer,"32,1 m²",Unknown,https://www.immowelt.de/expose/7001a814-601b-4bd8-91bb-4529b087264b
-"Davenstedt, Hannover (30455)",279.000 € 2.573 €/m²,3 Zimmer,"108,4 m²",Unknown,https://www.immowelt.de/expose/a19c9850-ad0b-4add-8278-e90feab76c46
-"Kirchrode, Hannover (30559)",249.000 € 2.767 €/m²,3 Zimmer,90 m²,1. Geschoss,https://www.immowelt.de/expose/f2f89c98-24c8-4059-a55c-20ff22f34fcf
-"Herrenhausen, Hannover (30419)",350.000 € 3.712 €/m²,3 Zimmer,"94,3 m²",197 m² Grundstück,https://www.immowelt.de/expose/8fedfef9-0305-4dad-91be-0961ef2a7a91
-"Oberricklingen, Hannover (30459)",289.000 € 3.400 €/m²,3 Zimmer,85 m²,1. Geschoss,https://www.immowelt.de/expose/bd926651-8a6a-4eae-9d83-4e8840599fe7
-"Marienwerder, Hannover (30419)",375.000 € 3.151 €/m²,6 Zimmer,119 m²,531 m² Grundstück,https://www.immowelt.de/expose/aeca0fa8-bf92-46c9-a45c-b5b77f6b923c
-"Davenstedt, Hannover (30455)",120.000 € 2.546 €/m²,1 Zimmer,"47,4 m²",5. Geschoss,https://www.immowelt.de/expose/8b0a8e57-c647-43c2-80cf-280dff069cab
-"Ada-Lessing-Straße, Bothfeld, Hannover (30657)",555.750 € 3.348 €/m²,5 Zimmer,166 m²,652 m² Grundstück,https://www.immowelt.de/expose/d44eb7dc-041e-4c20-b70e-55999114b0bc
-"List, Hannover (30163)",565.000 € 5.594 €/m²,2 Zimmer,101 m²,4. Geschoss,https://www.immowelt.de/expose/5b4a0b08-1d94-4c0f-95dc-2d7f8ed7bfb8
-"List, Hannover (30163)",775.000 € 5.657 €/m²,3 Zimmer,137 m²,4. Geschoss,https://www.immowelt.de/expose/53fccf8d-1e63-41d3-abdb-fa8261f11565
-"Am Uhrturm, Döhren, Hannover (30519)",259.000 € 3.597 €/m²,2 Zimmer,72 m²,3. Geschoss,https://www.immowelt.de/expose/66c43eee-8cda-4bd5-8bf7-7f7173e919d6
-"Bothfeld, Hannover (30659)",549.000 € 4.816 €/m²,4 Zimmer,114 m²,Unknown,https://www.immowelt.de/expose/29b0dd48-6ac7-4149-b56c-633bf7aace1a
-"Am Dornbusch 1, Ahlem, Hannover (30453)",79.000 € 3.292 €/m²,1 Zimmer,24 m²,1. Geschoss,https://www.immowelt.de/expose/95e20534-00d3-429d-90bf-d4269dc134cc
-"List, Hannover (30163)",349.000 € 3.921 €/m²,4 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/ba736c09-3e8b-4633-a451-d5ef0563f030
-"List, Hannover (30177)",1.999.999 € 5.848 €/m²,5 Zimmer,342 m²,690 m² Grundstück,https://www.immowelt.de/expose/688fbcda-4e65-4821-aa53-18b6f0d880ed
-"Alte Gehägestraße 6b, Misburg-Nord, Hannover (30627)",699.000 € 2.913 €/m²,8 Zimmer,240 m²,540 m² Grundstück,https://www.immowelt.de/expose/62eaa370-e804-4b56-8259-c36316893f53
-"Alte Gehägestraße 6b, Misburg-Nord, Hannover (30627)",649.000 € 5.408 €/m²,4 Zimmer,120 m²,245 m² Grundstück,https://www.immowelt.de/expose/213e3b52-d86d-4f18-b8db-14adf21d0200
-"Wettbergen, Hannover (30457)",539.000 € 5.166 €/m²,4 Zimmer,"104,3 m²",2. Geschoss,https://www.immowelt.de/expose/a5680505-6695-48de-9cce-e054d467132e
-"Ledeburg, Hannover (30419)",259.000 € 3.047 €/m²,3 Zimmer,85 m²,3. Geschoss,https://www.immowelt.de/expose/ad0cd538-6f00-4e2c-bd44-c08f2358ee9c
-"Linden-Süd, Hannover (30449)",240.000 € 2.759 €/m²,3 Zimmer,87 m²,4. Geschoss,https://www.immowelt.de/expose/fc21d312-020f-4668-9ee0-5cb584298297
-"Hartenbrakenstrasse 28, Bothfeld, Hannover (30659)",699.000 € 4.481 €/m²,6 Zimmer,156 m²,200 m² Grundstück,https://www.immowelt.de/expose/a8511ec8-9c59-42b9-b195-c7f146ae08cf
-"Veilchenstrasse 1, Mitte, Hannover (30175)",311.000 € 2.704 €/m²,4 Zimmer,115 m²,4. Geschoss,https://www.immowelt.de/expose/e0f4ccac-8cda-4c6a-9ebe-7e99eab9197e
-"Isernhagen-Süd, Isernhagen-Süd (30657)",700.000 € 5.000 €/m²,4 Zimmer,140 m²,223 m² Grundstück,https://www.immowelt.de/expose/ca57103d-fe4d-40a0-bab2-cfc6ce8b78e3
-"Vahrenwald, Hannover (30165)",549.000 € 3.464 €/m²,4 Zimmer,"158,5 m²",189 m² Grundstück,https://www.immowelt.de/expose/4676b479-a5bb-48c7-a554-de62ab2a323b
-"Wettbergen, Hannover (30457)",459.000 € 5.221 €/m²,3 Zimmer,"87,9 m²",3. Geschoss,https://www.immowelt.de/expose/b6668104-32bd-41fb-8e1c-968a9ca16f6f
-"Misburg-Nord, Hannover (30627)",199.000 € 2.237 €/m²,3 Zimmer,"88,9 m²",Unknown,https://www.immowelt.de/expose/5d21d28f-d383-4eef-b353-4044744026b0
-"Misburg-Nord, Hannover (30627)",179.000 € 3.255 €/m²,2 Zimmer,55 m²,4. Geschoss,https://www.immowelt.de/expose/a2780a2d-b7cf-4030-8f5d-39b957e639af
-"Stöcken, Hannover (30419)",2.300.000 € 11.500 €/m²,20 Zimmer,200 m²,1.900 m² Grundstück,https://www.immowelt.de/expose/ddf5e805-55a2-4cf7-99f6-aab27d759d68
-"Lahe, Hannover / Lahe (30659)",390.000 € 4.254 €/m²,4 Zimmer,"91,7 m²",118 m² Grundstück,https://www.immowelt.de/expose/897ab409-c499-43fe-ba13-623fdaaf166d
-"Mitte, Hannover (30175)",4.990.000 € 2.772 €/m²,1.800 m²,661 m² Grundstück,Unknown,https://www.immowelt.de/expose/84a80066-f3d0-40bf-a58a-1bb243bc2c2b
-"Wettbergen, Hannover (30457)",172.500 € 2.184 €/m²,3 Zimmer,79 m²,2. Geschoss,https://www.immowelt.de/expose/d243e104-dbf8-4336-bc0c-965037aeebe5
-"Oststadt, Hannover (30161)",1.999.999 € 8.000 €/m²,10 Zimmer,250 m²,800 m² Grundstück,https://www.immowelt.de/expose/a3b92e66-fc95-4049-8e10-075e4eff4778
-"Misburg-Nord, Hannover (30627)",189.000 € 3.436 €/m²,2 Zimmer,55 m²,4. Geschoss,https://www.immowelt.de/expose/389ec99e-fa8b-434e-aef2-087270458c4b
-"Südstadt, Hannover / Südstadt (30173)",435.000 € 3.955 €/m²,3 Zimmer,110 m²,2. Geschoss,https://www.immowelt.de/expose/dcf2907c-3e5b-4c15-99a5-0be656ed06e5
-"Vahrenwald, Hannover (30165)",349.000 € 4.106 €/m²,3 Zimmer,85 m²,1. Geschoss,https://www.immowelt.de/expose/ec77c1d3-fbf7-4123-948c-65cbc921d44b
-"Bemerode, Hannover (30539)",279.000 € 3.720 €/m²,3 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/b7e48278-80ed-4a3c-950f-8a5b73b4fb9e
-"Davenstedt, Hannover (30455)",212.000 € 2.986 €/m²,3 Zimmer,71 m²,3. Geschoss,https://www.immowelt.de/expose/5e9abf32-6743-4d60-885a-4f066d7b30e1
-"Misburg-Süd, Hannover (30559)",495.000 € 4.670 €/m²,4 Zimmer,106 m²,386 m² Grundstück,https://www.immowelt.de/expose/9dd7707a-3fc6-4db9-a3c9-b22c45dd9181
-"Anderten, Hannover / Anderten (30559)",449.000 € 2.566 €/m²,4 Zimmer,175 m²,1. Geschoss,https://www.immowelt.de/expose/b3358f51-6e99-477e-b7ae-9172da5bfb85
-"Misburg-Nord, Hannover (30629)",128.000 € 2.065 €/m²,2 Zimmer,62 m²,frei ab sofort,https://www.immowelt.de/expose/6f642855-6ee3-471d-a326-1b1a13add187
-"Ricklingen, Hannover-Ricklingen (30453)",130.000 € 2.031 €/m²,3 Zimmer,64 m²,3. Geschoss,https://www.immowelt.de/expose/84c3ef4f-aded-41ab-8d49-6c3c629efb59
-"Raffaelstraße 6, List, Hannover (30177)",369.500 €,3 Zimmer,"94,5 m²",Unknown,https://www.immowelt.de/expose/56cfd2b7-63ba-4b17-a94d-41381a2a9fbd
-"Ledeburg, Hannover Herrenhausen (30419)",199.000 € 2.970 €/m²,3 Zimmer,67 m²,2. Geschoss,https://www.immowelt.de/expose/f9437cb3-ad46-4375-80fa-892040d45fa5
-"Vahrenwald, Hannover (30163)",255.000 € 3.400 €/m²,3 Zimmer,75 m²,EG,https://www.immowelt.de/expose/52ebcf94-d5f4-4026-8e92-7136dceeac96
-"Linden-Süd, Hannover (30449)",310.000 € 3.690 €/m²,3 Zimmer,84 m²,1. Geschoss,https://www.immowelt.de/expose/575f5641-51fc-481f-9cde-f0b85c58d5b5
-"Linden-Mitte, Hannover (30449)",259.500 € 2.544 €/m²,4 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/ca4f8819-d507-4921-8106-9090bcc33356
-"Marienwerder, Hannover (30419)",99.000 € 2.750 €/m²,1 Zimmer,36 m²,2. Geschoss,https://www.immowelt.de/expose/ae8bf3e1-55b6-44e1-a381-d24e2a9fa671
-"Isernhagen-Süd, Isernhagen-Süd (30657)",1.600.000 € 6.061 €/m²,5 Zimmer,264 m²,1.913 m² Grundstück,https://www.immowelt.de/expose/d7e95c9d-c9fd-404e-9ab0-5bb763fb8abf
-"Sahlkamp, Hannover (30179)",734.909 € 7.349 €/m²,3 Zimmer,100 m²,795 m² Grundstück,https://www.immowelt.de/expose/2762d6e5-c623-449d-9f53-d4458b017839
-"Groß-Buchholz, Hannover (30655)",198.000 € 2.955 €/m²,3 Zimmer,67 m²,3. Geschoss,https://www.immowelt.de/expose/5d717266-91c9-4f83-aadc-373e8c0dc3f4
-"Hinrichsring 15, List, Hannover (30177)",205.000 € 2.563 €/m²,3 Zimmer,80 m²,1. Geschoss,https://www.immowelt.de/expose/f4032ad0-af80-46bb-a662-336e9b342181
-"Misburg-Nord, Hannover (30629)",290.000 € 2.900 €/m²,3 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/2ac03a6d-1364-41da-82d2-d315e7991881
-"Herrenhausen, Hannover (31535)",79.000 € 2.194 €/m²,1 Zimmer,36 m²,2. Geschoss,https://www.immowelt.de/expose/9563139f-cb38-4768-a381-58faca77f06a
-"Misburg-Nord, Hannover (30627)",105.000 € 2.100 €/m²,2 Zimmer,"50,1 m²",5. Geschoss,https://www.immowelt.de/expose/0ae34e24-6d39-45c6-87ff-22ec3cc536e3
-"List, Hannover (30161)",287.000 € 4.159 €/m²,2 Zimmer,69 m²,2. Geschoss,https://www.immowelt.de/expose/7ddd8d41-c04d-42d9-a34b-228f7ef03015
-"Südstadt, Hannover (30173)",379.000 € 4.211 €/m²,3 Zimmer,90 m²,2. Geschoss,https://www.immowelt.de/expose/6d6d6782-3585-460b-b0dc-57115fdb3ff5
-"List, Hannover-List (30163)",440.000 € 4.000 €/m²,5 Zimmer,110 m²,Unknown,https://www.immowelt.de/expose/707e1a83-b791-4212-9308-5b2d60f72de1
-"Misburg-Nord, Hannover (30627)",160.000 € 3.265 €/m²,2 Zimmer,49 m²,6. Geschoss,https://www.immowelt.de/expose/668e4394-bae3-40c2-9945-827aa98d292c
-"Sahlkamp, Hannover (30179)",794.453 € 5.126 €/m²,5 Zimmer,155 m²,795 m² Grundstück,https://www.immowelt.de/expose/8df4b046-214e-4ec5-b500-06dcb68b43b0
-"Kirchrode, Hannover (30559)",169.000 € 1.536 €/m²,5 Zimmer,110 m²,736 m² Grundstück,https://www.immowelt.de/expose/ad1be20b-68a4-4d81-b1e2-1d6c248afd9f
-"Wülfel, Hannover (30519)",229.000 € 3.181 €/m²,3 Zimmer,72 m²,2. Geschoss,https://www.immowelt.de/expose/137257bc-729f-440d-b66a-d06aed0ddfa5
-"Anderten, Hannover (30559)",129.000 € 1.991 €/m²,2 Zimmer,"64,8 m²",2. Geschoss,https://www.immowelt.de/expose/68bd5126-a314-4955-a0b9-5729b8863b87
-"List, Hannover (30163)",299.000 € 3.721 €/m²,3 Zimmer,"80,5 m²",4. Geschoss,https://www.immowelt.de/expose/bdb78ccd-e718-4671-b8f3-704e8bde7d48
-"Sahlkamp, Hannover (30179)",751.967 € 5.259 €/m²,5 Zimmer,143 m²,795 m² Grundstück,https://www.immowelt.de/expose/7dd724e8-e380-40c7-85e8-b1d00e6a5043
-"Sahlkamp, Hannover (30179)",734.363 € 5.440 €/m²,4 Zimmer,135 m²,795 m² Grundstück,https://www.immowelt.de/expose/b80159ed-0a12-436c-a93a-9c8c53931bd9
-"Sahlkamp, Hannover (30179)",743.938 € 5.511 €/m²,4 Zimmer,135 m²,795 m² Grundstück,https://www.immowelt.de/expose/c072b8d6-ed5b-490c-942f-8e5a365acfcf
-"Nordstadt, Hannover (30167)",265.000 € 4.953 €/m²,2 Zimmer,"53,5 m²",2. Geschoss,https://www.immowelt.de/expose/3f3ef3c9-2b11-40b2-8496-1011dc6923f4
-"Bemerode, Hannover (30539)",159.000 € 2.484 €/m²,2 Zimmer,64 m²,6. Geschoss,https://www.immowelt.de/expose/49083fdc-d979-45c0-8e9f-437a2d122fa2
-"Pasemannweg 14, Bothfeld, Hannover (30659)",289.000 € 3.042 €/m²,3 Zimmer,95 m²,frei ab sofort,https://www.immowelt.de/expose/eccdf417-afeb-4875-a523-89824e588496
-"Misburg-Süd, Hannover (30559)",185.000 € 2.606 €/m²,2 Zimmer,71 m²,2. Geschoss,https://www.immowelt.de/expose/97ffd65f-d326-40f8-8771-de9e476e059e
-"Davenstedt, Hannover (30455)",155.000 € 2.452 €/m²,2 Zimmer,62 m²,4. Geschoss,https://www.immowelt.de/expose/e5b24cf7-68c6-4894-bc28-8759550bffe6
-"Vahrenheide, Hannover (30179)",149.000 € 1.774 €/m²,3 Zimmer,84 m²,12. Geschoss,https://www.immowelt.de/expose/3f46ba9f-61f3-408f-adfc-db1d86a44340
-"Wettbergen, Hannover (30457)",250.000 € 3.425 €/m²,3 Zimmer,73 m²,5. Geschoss,https://www.immowelt.de/expose/2ff09a2f-8860-47c8-a783-dcaf456aeb2a
-"Marienwerder, Hannover (30419)",195.000 € 2.826 €/m²,3 Zimmer,69 m²,3. Geschoss,https://www.immowelt.de/expose/45475e1b-9cde-4a2f-b369-77007428ce15
-"Misburg-Nord, Hannover (30627)",746.000 € 6.016 €/m²,6 Zimmer,"124,2 m²","1.247,2 m² Grundstück",https://www.immowelt.de/expose/085e2e87-d97b-4f45-8a38-719a8095fa65
-"Bothfeld, Hannover (30659)",295.000 € 3.688 €/m²,3 Zimmer,80 m²,EG,https://www.immowelt.de/expose/f6ef7635-49d0-430b-a265-404d69bd908d
-"List, Hannover (30163)",420.000 € 3.584 €/m²,4 Zimmer,113 m²,2. Geschoss,https://www.immowelt.de/expose/43372e95-c36d-4cb6-83cc-2eec6ef50899
-"Bothfeld, Hannover (30659)",310.000 € 3.780 €/m²,3 Zimmer,82 m²,Unknown,https://www.immowelt.de/expose/7e2d6a0f-2819-4f55-abc8-4a061c50fff1
-"Badenstedt, Hannover (30455)",249.000 € 1.992 €/m²,7 Zimmer,125 m²,351 m² Grundstück,https://www.immowelt.de/expose/19dc52ee-3d41-4e6a-929b-4888004cb9b4
-"Bothfeld, Hannover / Bothfeld (30659)",315.000 € 2.500 €/m²,3 Zimmer,126 m²,740 m² Grundstück,https://www.immowelt.de/expose/c0443256-98e7-4b37-93bb-734578fccb7b
-"Seelhorst, Hannover (30519)",199.000 € 3.827 €/m²,2 Zimmer,52 m²,Unknown,https://www.immowelt.de/expose/ee005242-9f7c-43ee-beef-12bb63dc4265
-"Groß-Buchholz, Hannover (30655)",890.000 € 4.450 €/m²,"3,5 Zimmer",200 m²,EG,https://www.immowelt.de/expose/9c4f76a7-a13e-49ff-a365-0453138914f1
-"Vahrenwald, Hannover (30165)",198.000 € 3.300 €/m²,2 Zimmer,60 m²,2. Geschoss,https://www.immowelt.de/expose/bdaf196c-d155-4e7c-ac79-72333173e206
-"Ledeburg, Hannover (30419)",409.000 € 2.176 €/m²,7 Zimmer,188 m²,994 m² Grundstück,https://www.immowelt.de/expose/d125fbfc-3000-41fe-82aa-9fd49b7037e1
-"List, Hannover (30163)",339.000 € 3.809 €/m²,4 Zimmer,89 m²,3. Geschoss,https://www.immowelt.de/expose/2f38e573-b753-4c7f-891a-b3c138e15a80
-"Waldhausen, Hannover (30519)",600.000 € 4.688 €/m²,4 Zimmer,128 m²,1. Geschoss,https://www.immowelt.de/expose/1624d44c-f0ae-4c62-b1cb-24415fa598da
-"Döhren, Hannover (30519)",299.000 € 3.738 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/77559deb-48fa-4e45-9e86-cdd20dbe49a9
-"Kirchrode, Hannover / Kirchrode (30559)",987.000 € 5.364 €/m²,6 Zimmer,184 m²,4. Geschoss,https://www.immowelt.de/expose/481896f3-ef4a-41d4-b668-779922c8af5a
-"Mühlenberg, Hannover (30457)",111.000 € 2.242 €/m²,1 Zimmer,"49,5 m²",6. Geschoss,https://www.immowelt.de/expose/300bcced-745a-4edd-818b-fa3193a10414
-"List, Hannover (30163)",230.000 € 4.792 €/m²,2 Zimmer,48 m²,Unknown,https://www.immowelt.de/expose/b60492c3-c960-49e8-8485-67d8cd879e82
-"Hainholz, Hannover (30165)",198.000 € 2.538 €/m²,3 Zimmer,78 m²,2. Geschoss,https://www.immowelt.de/expose/ae374c76-dd53-4665-b40f-905d8d6f9ece
-"Seelhorst, Hannover / Seelhorst (30519)",199.000 € 4.738 €/m²,3 Zimmer,42 m²,200 m² Grundstück,https://www.immowelt.de/expose/7b6cc112-2ea0-41cc-9ebf-6937ee22be3c
-"Anderten, Hannover (30559)",499.000 € 3.465 €/m²,5 Zimmer,144 m²,418 m² Grundstück,https://www.immowelt.de/expose/0eaa31ec-ce71-4ba7-9d09-db5ac5193fa5
-"List, Hannover (30177)",595.000 € 4.440 €/m²,4 Zimmer,134 m²,frei ab 01.06.2025,https://www.immowelt.de/expose/6fe08556-b793-4729-96e1-3e96ae9dc937
-"Badenstedt, Hannover-Badenstedt (30455)",220.000 € 2.157 €/m²,3 Zimmer,102 m²,3. Geschoss,https://www.immowelt.de/expose/24ac2618-9551-4173-a663-a3b1afbb59be
-"Mittelfeld, Hannover / Mittelfeld (30519)",400.000 € 2.740 €/m²,7 Zimmer,146 m²,401 m² Grundstück,https://www.immowelt.de/expose/c58643b0-bc48-45bd-bd80-80d84ab33c3b
-"Groß-Buchholz, Hannover (30655)",989.000 € 3.308 €/m²,7 Zimmer,299 m²,Unknown,https://www.immowelt.de/expose/43a46e47-9c1e-4c53-8696-811d34c4e749
-"Vahrenheide, Hannover (30179)",358.000 € 3.374 €/m²,4 Zimmer,"106,1 m²",458 m² Grundstück,https://www.immowelt.de/expose/72d2b14a-5e6b-40e2-a167-c5f3bf7d314b
-"Leinhausen, Hannover (30419)",349.000 € 2.792 €/m²,5 Zimmer,125 m²,255 m² Grundstück,https://www.immowelt.de/expose/2e612572-18dc-4bae-892c-d77dc291ef3f
-"Groß-Buchholz, Hannover (30655)",199.000 € 2.457 €/m²,3 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/514a85ef-63b2-4621-b84a-d6ea0f1e3997
-"Bemerode, Hannover (30539)",415.000 € 3.320 €/m²,"6,5 Zimmer",125 m²,194 m² Grundstück,https://www.immowelt.de/expose/fb4db18c-969e-4c01-8f0a-e15d6c8578d1
-"Isernhagen-Süd, Hannover (30657)",575.000 € 3.532 €/m²,6 Zimmer,"162,8 m²",737 m² Grundstück,https://www.immowelt.de/expose/78a36813-8e58-445b-9050-76abfc30a152
-"Davenstedt, Hannover (30455)",305.000 € 1.968 €/m²,4 Zimmer,155 m²,Unknown,https://www.immowelt.de/expose/325550a8-3d89-411a-a0b0-d6701ccb6728
-"Davenstedt, Hannover (30455)",305.000 € 1.968 €/m²,4 Zimmer,155 m²,99 m² Grundstück,https://www.immowelt.de/expose/30cdea47-d1b6-476b-b01a-2fffaee57c5a
-"Theodor-Theuss-Ring 34, Heideviertel, Hannover (30627)",179.000 € 3.255 €/m²,2 Zimmer,55 m²,4. Geschoss,https://www.immowelt.de/expose/153aa91c-5a7a-4e41-8509-4470749abcb9
-"Davenstedt, Hannover (30455)",384.999 € 2.962 €/m²,5 Zimmer,130 m²,152 m² Grundstück,https://www.immowelt.de/expose/44afc6e3-10b8-49fb-b565-040e6b66eacd
-"Groß-Buchholz, Hannover (30655)",155.000 € 2.385 €/m²,3 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/cb557e80-80b1-4364-bc7e-26a57b3c3d5b
-"Nordstadt, Hannover (30167)",1.298.000 € 2.150 €/m²,22 Zimmer,"603,8 m²",381 m² Grundstück,https://www.immowelt.de/expose/a6b8b6d5-fef9-4f28-a8f2-86b7f6c0cd1b
-"Seelhorst, Hannover (30519)",325.000 € 2.754 €/m²,5 Zimmer,118 m²,266 m² Grundstück,https://www.immowelt.de/expose/a2e49276-4205-459c-a3e7-a7bc7ccdd4c3
-"List, Hannover (30655)",115.000 € 2.544 €/m²,2 Zimmer,"45,2 m²",2. Geschoss,https://www.immowelt.de/expose/02a79aec-816a-466c-bb35-0be0047dc357
-"Sahlkamp, Hannover (30179)",695.000 € 5.792 €/m²,4 Zimmer,120 m²,474 m² Grundstück,https://www.immowelt.de/expose/4edb57be-b073-42b1-91f5-bca2b249c5d6
-"Kirchrode, Hannover (30559)",895.120 € 5.812 €/m²,4 Zimmer,154 m²,550 m² Grundstück,https://www.immowelt.de/expose/ae2be318-0b0a-4fa6-9f09-bc2d7b62ac03
-"Sahlkamp, Hannover (30179)",299.000 € 2.718 €/m²,4 Zimmer,110 m²,380 m² Grundstück,https://www.immowelt.de/expose/04a7af94-8ae9-4aa7-8182-37fbd218274f
-"Süntelstraße 17, Stöcken, Hannover (30419)",180.000 € 2.537 €/m²,3 Zimmer,71 m²,1. Geschoss,https://www.immowelt.de/expose/cdbb8299-d497-40dd-b3fa-a17de1de6c26
-"Südstadt, Hannover / Südstadt (30173)",Preis auf Anfrage,3 Zimmer,185 m²,4. Geschoss,https://www.immowelt.de/expose/642c7704-2f77-4eeb-a726-c271f19e5910
-"Bothfeld, Hannover (30659)",589.000 € 3.704 €/m²,5 Zimmer,159 m²,349 m² Grundstück,https://www.immowelt.de/expose/a2880d08-bb88-44d3-a8a4-a40395a0785f
-"Wettbergen, Hannover (30457)",135.000 € 2.368 €/m²,2 Zimmer,57 m²,4. Geschoss,https://www.immowelt.de/expose/44246854-8d46-4660-9cf1-d996acd797d6
-"Kirchrode, Hannover-Kirchrode (30559)",660.000 € 4.286 €/m²,4 Zimmer,154 m²,2. Geschoss,https://www.immowelt.de/expose/eec9e018-f94c-4a41-9ee3-96e009d3d310
-"Vahrenwald, Hannover (30165)",295.000 € 2.218 €/m²,"5,5 Zimmer",133 m²,5. Geschoss,https://www.immowelt.de/expose/b46da8e7-2d4d-416c-a10f-691c84236f07
-"List, Hannover (30163)",173.000 € 1.880 €/m²,4 Zimmer,92 m²,Unknown,https://www.immowelt.de/expose/56018648-a30e-49ec-a55a-2e823f24013b
-"Mitte, Hannover (30453)",1.120.800 € 4.493 €/m²,6 Zimmer,"249,4 m²",628 m² Grundstück,https://www.immowelt.de/expose/7de18005-1e45-4c74-bd03-7f647f07e905
-"Linden-Süd, Ricklingen (30457)",1.987.000 € 7.948 €/m²,3 Zimmer,250 m²,1.285 m² Grundstück,https://www.immowelt.de/expose/59c282ea-c1c3-4a64-ac6d-3a76caf3b787
-"Mitte, Hannover (30163)",598.400 € 3.439 €/m²,7 Zimmer,174 m²,480 m² Grundstück,https://www.immowelt.de/expose/a2957428-aff1-4dcd-aaaf-866a30f30147
-"Altgarbsen - Nord, Hannover (30171)",558.000 € 3.236 €/m²,4 Zimmer,"172,5 m²",582 m² Grundstück,https://www.immowelt.de/expose/9de51630-a3ae-431d-a4e2-658ae5d09860
-"Misburg-Nord, Hannover (30629)",299.000 € 1.993 €/m²,5 Zimmer,150 m²,309 m² Grundstück,https://www.immowelt.de/expose/d32691d9-5ae1-46bd-855e-afcc41b3de69
-"Anecampstraße 6, Bemerode, Hannover (30539)",185.000 € 2.534 €/m²,3 Zimmer,73 m²,1. Geschoss,https://www.immowelt.de/expose/fd31d9b1-c508-43bb-b563-94425db1e879
-"Mittelfeld, Hannover (30519)",190.000 € 2.159 €/m²,4 Zimmer,88 m²,EG,https://www.immowelt.de/expose/9b441c2b-614f-4b44-9bb7-2bdbe636fbdf
-"Bothfeld, Hannover (30659)",395.000 € 3.264 €/m²,5 Zimmer,121 m²,1. Geschoss,https://www.immowelt.de/expose/24748ebf-ca61-4c81-b3cb-dc37abfb67e3
-"Oststadt, Hannover (30161)",3.780.000 € 3.286 €/m²,35 Zimmer,"1.150,5 m²",493 m² Grundstück,https://www.immowelt.de/expose/6c3c10cd-3bce-4a6d-8233-bf10f26e2a51
-"List, Hannover (30163)",173.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/f639c37f-d799-4ae7-82e3-8c94d38a9eff
-"Leinhausen, Hannover (30419)",449.000 € 4.119 €/m²,5 Zimmer,109 m²,218 m² Grundstück,https://www.immowelt.de/expose/988025bb-6657-43f7-bc15-37e65b8895b6
-"Leinhausen, Hannover (30419)",529.000 € 3.599 €/m²,3 Zimmer,147 m²,167 m² Grundstück,https://www.immowelt.de/expose/8764dbb0-5b14-4f99-ae73-667c3be2ea40
-"List, Hannover (30163)",173.000 € 1.880 €/m²,4 Zimmer,92 m²,Unknown,https://www.immowelt.de/expose/6e51d28b-c8f3-4d28-88fa-1a574639d3b3
-"Bothfeld, Hannover (30657)",429.000 € 2.860 €/m²,6 Zimmer,150 m²,220 m² Grundstück,https://www.immowelt.de/expose/94d179ec-4223-4e47-b0b1-fe99fe7223c7
-"Oststadt, Hannover (30161)",165.000 € 3.409 €/m²,3 Zimmer,"48,4 m²",Unknown,https://www.immowelt.de/expose/72914af1-10ea-4d36-a3a7-25474c11df35
-"Wettbergen, Hannover (30457)",140.000 € 2.456 €/m²,2 Zimmer,57 m²,frei ab sofort,https://www.immowelt.de/expose/73c57202-92ec-41d9-a554-ff20ff135cb3
-"Vahrenwald, Hannover (30163)",149.000 € 2.525 €/m²,3 Zimmer,60 m²,1. Geschoss,https://www.immowelt.de/expose/67dc2051-075d-4a40-b223-4fadde0840a0
-"List, Hannover - List (30177)",1.460.000 € 7.644 €/m²,5 Zimmer,191 m²,277 m² Grundstück,https://www.immowelt.de/expose/ff176d8e-e471-4e9b-8377-76cbc42ec83f
-"List, Hannover - List (30177)",1.348.000 € 6.690 €/m²,5 Zimmer,"201,5 m²",236 m² Grundstück,https://www.immowelt.de/expose/6d83f4a7-7bf6-4006-accc-b1bd8ac63f90
-"Burg, Hannover (30419)",148.000 € 2.277 €/m²,3 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/6432976a-3bd5-408c-8bdb-8bc66ccf21dc
-"Ahlem, Hannover (30453)",285.000 € 2.615 €/m²,3 Zimmer,109 m²,2. Geschoss,https://www.immowelt.de/expose/536ebeb2-9de9-4a2d-8c08-29b30b04274f
-"Mitte, Hannover (30159)",299.000 € 5.246 €/m²,2 Zimmer,57 m²,1. Geschoss,https://www.immowelt.de/expose/d0f1f2f5-fec9-4e02-861c-ded9b2555e94
-"Döhren, Hannover (30519)",695.000 € 3.515 €/m²,"8,5 Zimmer","197,7 m²",1. Geschoss,https://www.immowelt.de/expose/c3d53aed-6b9e-4003-85a4-a3b62903e7da
-"Mühlenberg, Hannover (30457)",305.000 € 3.177 €/m²,4 Zimmer,"125,1 m²",230 m² Grundstück,https://www.immowelt.de/expose/72fb3a02-976b-4d33-9113-4f35ef619f76
-"Groß-Buchholz, Hannover (30655)",200.000 € 2.628 €/m²,3 Zimmer,"76,1 m²",3. Geschoss,https://www.immowelt.de/expose/89e32996-c083-4224-bd60-fb9b5be0a470
-"Kleefeld, Hannover (30625)",934.990 € 5.267 €/m²,5 Zimmer,"177,5 m²",575 m² Grundstück,https://www.immowelt.de/expose/0547e670-1146-440d-957b-33da8a8dd813
-"Anderten, Hannover (30559)",997.900 € 5.437 €/m²,5 Zimmer,"183,6 m²",554 m² Grundstück,https://www.immowelt.de/expose/b4498899-e631-4405-b340-b129a9c345ff
-"Kleefeld, Hannover (30519)",945.900 € 6.142 €/m²,4 Zimmer,154 m²,575 m² Grundstück,https://www.immowelt.de/expose/61fbe043-e088-410a-93a6-6244d3f207d7
-"Kirchrode, Kirchrode (30559)",975.000 € 6.588 €/m²,5 Zimmer,148 m²,525 m² Grundstück,https://www.immowelt.de/expose/55999e1e-c77d-4a60-8924-77598d886d4f
-"Kirchrode, Hannover (30559)",875.000 € 6.250 €/m²,5 Zimmer,140 m²,575 m² Grundstück,https://www.immowelt.de/expose/196b1e36-46a5-4121-8ec1-13bd68487e9a
-"Seelhorst, Hannover (30519)",1.045.900 € 5.698 €/m²,5 Zimmer,"183,6 m²",575 m² Grundstück,https://www.immowelt.de/expose/169e2577-67a9-4c59-bbef-a44aba8a7aa4
-"Vahrenwald, Hannover (30419)",675.970 € 3.920 €/m²,5 Zimmer,"172,5 m²",555 m² Grundstück,https://www.immowelt.de/expose/df2237f4-e7a3-4471-8f9b-3aa8a4dc0810
-"Vahrenwald, Hannover (30419)",569.920 € 3.305 €/m²,5 Zimmer,"172,5 m²",550 m² Grundstück,https://www.immowelt.de/expose/1093a7fa-6b0a-4abf-936d-a9ca4b8a9805
-"Kirchrode, Hannover (30559)",979.970 € 5.339 €/m²,5 Zimmer,"183,6 m²",550 m² Grundstück,https://www.immowelt.de/expose/bac7a265-e473-409b-9de4-7ebdbb0c8f42
-"Mühlenberg, Hannover / Mühlenberg (30457)",329.000 € 1.674 €/m²,9 Zimmer,"196,5 m²",459 m² Grundstück,https://www.immowelt.de/expose/9cdd0a27-100d-48a1-ac8a-6fb7adef4491
-"Karl-Schurz-Weg 4 F, Mittelfeld, Hannover - Mittelfeld (30519)",678.000 € 4.913 €/m²,6 Zimmer,138 m²,361 m² Grundstück,https://www.immowelt.de/expose/3bf592e8-13d3-45fb-b1ee-baa03749acfc
-"Sahlkamp, Hannover (30179)",349.000 € 3.490 €/m²,4 Zimmer,100 m²,255 m² Grundstück,https://www.immowelt.de/expose/9f2db054-5453-4f14-90ff-309a199c1541
-"Misburg-Nord, Hannover (30629)",499.000 € 2.610 €/m²,8 Zimmer,"191,2 m²",605 m² Grundstück,https://www.immowelt.de/expose/630d70da-b5e0-48bc-9d71-d98bbef23b11
-"Kirchrode, Hannover (30559)",549.000 € 3.921 €/m²,5 Zimmer,140 m²,397 m² Grundstück,https://www.immowelt.de/expose/2c35b48c-8453-4259-a7f7-f4e4b31effbf
-"Lahe, Hannover (30659)",695.000 € 4.030 €/m²,5 Zimmer,"172,5 m²",575 m² Grundstück,https://www.immowelt.de/expose/d51d1c60-47f3-4a79-8c8c-54aeb38b9ae6
-"Wülfel, Hannover (30519)",269.000 € 3.363 €/m²,3 Zimmer,80 m²,EG,https://www.immowelt.de/expose/993b8431-7313-4a5c-b2ab-003b7ecaa5fd
-"Mitte, Hannover (30159)",399.000 € 3.325 €/m²,4 Zimmer,120 m²,3. Geschoss,https://www.immowelt.de/expose/06f65315-af93-49df-b9b6-62976231d164
-"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167)",329.000 € 5.436 €/m²,2 Zimmer,"60,5 m²",Unknown,https://www.immowelt.de/expose/d6606dcf-88f7-48e3-8620-20a4557d526c
-"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167)",215.000 € 5.706 €/m²,1 Zimmer,"37,7 m²",Unknown,https://www.immowelt.de/expose/3e8be80e-7aa1-413f-8143-fdaa50410dab
-"Linden-Mitte, Hannover (30449)",160.000 € 1.975 €/m²,3 Zimmer,81 m²,1. Geschoss,https://www.immowelt.de/expose/f12e1b8d-2720-4576-baf3-f9debba8373e
-"Seelhorst, Bothfeld (30657)",871.950 € 3.496 €/m²,6 Zimmer,"249,4 m²",575 m² Grundstück,https://www.immowelt.de/expose/6553ccd8-6c9a-462d-a884-e12e5df82106
-"Lahe, Hannover (30659)",581.900 € 3.592 €/m²,5 Zimmer,162 m²,700 m² Grundstück,https://www.immowelt.de/expose/8f6326a5-4c68-435d-8689-d3556693e887
-"Kirchrode, Hannover (30559)",780.000 € 4.875 €/m²,6 Zimmer,160 m²,452 m² Grundstück,https://www.immowelt.de/expose/4b021798-f36a-4882-aa05-559024592469
-"Kirchrode, Hannover (30559)",790.000 € 4.247 €/m²,7 Zimmer,186 m²,452 m² Grundstück,https://www.immowelt.de/expose/9222e77a-b995-4f61-88b4-6a6426400c12
-"Friedhofsallee 4-8, Seelhorst, Hannover / Seelhorst (30519)",539.900 € 4.575 €/m²,"4,5 Zimmer",118 m²,Unknown,https://www.immowelt.de/expose/35c86a0e-884d-4310-9ce0-e6dcfaaad187
-"Kirchrode, Hannover (30559)",780.000 € 5.065 €/m²,6 Zimmer,154 m²,452 m² Grundstück,https://www.immowelt.de/expose/b98c6446-75f4-4779-b78b-d2992fb71e9a
-"Bothfeld, Hannover (30659)",279.000 € 3.941 €/m²,3 Zimmer,"70,5 m²",Unknown,https://www.immowelt.de/expose/28c2f77c-feee-4faa-a3f3-d70f5f375afa
-"Kleefeld, Hannover / Kleefeld (30625)",848.500 € 4.139 €/m²,5 Zimmer,205 m²,Unknown,https://www.immowelt.de/expose/450b804b-4a16-484c-bc68-6b879115851f
-"Limmer, Hannover / Limmer (30453)",995.000 € 7.210 €/m²,4 Zimmer,138 m²,3. Geschoss,https://www.immowelt.de/expose/faf177bb-10b2-40a9-9c11-21f8d5298183
-"Kirchrode, Hannover (30559)",340.000 € 2.615 €/m²,3 Zimmer,130 m²,2. Geschoss,https://www.immowelt.de/expose/ae555cad-5449-4478-a916-fe4947ceb543
-"Linden-Nord, Hannover (30451)",255.000 € 4.048 €/m²,3 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/a3d2cbf2-264a-458c-a6d9-e8a0992f4385
-"Misburg-Nord, Hannover (30629)",350.000 € 1.777 €/m²,7 Zimmer,197 m²,290 m² Grundstück,https://www.immowelt.de/expose/01becd65-fe6a-4b40-9f98-0d2a31975f01
-"Mühlenberg, Hannover (30457)",144.000 € 1.892 €/m²,2 Zimmer,"76,1 m²",3. Geschoss,https://www.immowelt.de/expose/2ad85c56-f4c4-447a-8044-1dd11e3f4442
-"Bothfeld, Hannover (30657)",644.900 € 4.161 €/m²,6 Zimmer,155 m²,432 m² Grundstück,https://www.immowelt.de/expose/e11f7ef0-516a-48c4-9d13-e0ed114f79a7
-"Kleefeld, Hannover (30625)",398.000 € 4.234 €/m²,4 Zimmer,94 m²,EG,https://www.immowelt.de/expose/ce0db8d6-8107-446b-bf12-2096124a9dea
-"Oberricklingen, Hannover / Ricklingen (30459)",450.000 € 3.524 €/m²,5 Zimmer,"127,7 m²",784 m² Grundstück,https://www.immowelt.de/expose/1b88518f-a2fd-4f6f-ace3-7b7e8c6e082c
-"Kirchrode, Kirchrode (30559)",975.000 € 6.588 €/m²,5 Zimmer,148 m²,525 m² Grundstück,https://www.immowelt.de/expose/cc0bc4ea-cd42-4320-b9a1-20cc1f0e3eb8
-"Bothfeld, Hannover (30659)",496.000 € 5.753 €/m²,3 Zimmer,"86,2 m²",4. Geschoss,https://www.immowelt.de/expose/75ef0970-034c-4e8c-83ff-612a6f00fb55
-"Mühlenberg, Hannover-Mühlenberg (30457)",175.000 € 2.160 €/m²,3 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/d0baa07e-978b-4f8d-8888-e727a387b3cd
-"Sahlkamp, Hannover (30179)",378.000 € 2.800 €/m²,5 Zimmer,135 m²,193 m² Grundstück,https://www.immowelt.de/expose/10517042-ce79-4c64-b05b-702160c41f12
-"Bothfeld, Hannover / Bothfeld (30659)",390.000 € 3.545 €/m²,"4,5 Zimmer",110 m²,325 m² Grundstück,https://www.immowelt.de/expose/f5754381-a48c-4a6b-a6b4-10ec172769f6
-"Marienwerder, Hannover (30419)",265.000 € 2.944 €/m²,4 Zimmer,90 m²,2. Geschoss,https://www.immowelt.de/expose/e645aefe-632f-400d-8ded-af78966948fd
-"Stöcken, Hannover-Stöcken (30419)",250.000 € 2.907 €/m²,3 Zimmer,86 m²,1. Geschoss,https://www.immowelt.de/expose/3d3a6753-d0aa-4f48-a43c-792ad395a55c
-"Badenstedt, Hannover (30455)",549.900 € 3.437 €/m²,6 Zimmer,160 m²,360 m² Grundstück,https://www.immowelt.de/expose/4577b974-3182-4e1a-8319-151da5783e1b
-"Anderten, Hannover (30559)",299.000 € 3.082 €/m²,4 Zimmer,97 m²,2. Geschoss,https://www.immowelt.de/expose/4875b68d-a8c8-4cee-8bd4-e3a0b3be8f04
-"Linden-Mitte, Hannover (30449)",169.000 € 1.988 €/m²,3 Zimmer,85 m²,4. Geschoss,https://www.immowelt.de/expose/49db15a1-fc94-437e-a6b8-c6a9223fa77a
-"Nordstadt, Hannover (30167)",898.000 € 2.427 €/m²,370 m²,501 m² Grundstück,Unknown,https://www.immowelt.de/expose/9dc312a7-7c58-4644-819b-2afbc48b275b
-Unknown,Unknown,2 Zimmer,"60,1 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632
-"Heideviertel, Hannover (30625)",1.345.000 € 5.435 €/m²,9 Zimmer,"247,5 m²",476 m² Grundstück,https://www.immowelt.de/expose/22476732-677e-4c68-a82e-74ace7bffce7
-"Groß-Buchholz, Hannover (30655)",990.000 € 2.041 €/m²,485 m²,858 m² Grundstück,Unknown,https://www.immowelt.de/expose/87779c5c-f42d-4318-b799-4fdcbe5917c8
-"Linden-Süd, Hannover (30449)",225.000 € 3.000 €/m²,3 Zimmer,75 m²,EG,https://www.immowelt.de/expose/ee57258d-9e79-4c80-99ea-e86b744a1ac9
-"Vinnhorst, Hannover (30419)",689.900 € 4.999 €/m²,4 Zimmer,138 m²,439 m² Grundstück,https://www.immowelt.de/expose/5451af52-a1bf-46b5-a1e6-7f3b0e09af78
-"Misburg-Nord, Hannover / Misburg-Nord (30629)",399.000 € 2.660 €/m²,"4,5 Zimmer",150 m²,247 m² Grundstück,https://www.immowelt.de/expose/6762ef22-0040-4821-bcb9-af0e87550640
-"Südstadt, Hannover (30173)",498.000 € 4.150 €/m²,6 Zimmer,120 m²,frei ab sofort,https://www.immowelt.de/expose/d286e8fa-5b0d-4200-a701-c184a5cbce53
-"Anderten, Hannover (30559)",198.000 € 2.506 €/m²,3 Zimmer,79 m²,Unknown,https://www.immowelt.de/expose/c6630b81-e6e7-4576-96ae-a81d4823d745
-"Seelhorst, Bothfeld (30657)",851.950 € 3.416 €/m²,6 Zimmer,"249,4 m²",625 m² Grundstück,https://www.immowelt.de/expose/85d72c31-a7f3-44cb-b86c-eca7d59c56a6
-"Davenstedt, Hannover (30455)",680.000 € 2.595 €/m²,7 Zimmer,262 m²,520 m² Grundstück,https://www.immowelt.de/expose/d7a11c7d-8d03-4340-a471-9c21198d9e45
-"Groß-Buchholz, Hannover (30655)",200.000 € 3.125 €/m²,2 Zimmer,64 m²,2. Geschoss,https://www.immowelt.de/expose/f50fc980-1301-47ab-8198-d31de150de42
-"Wettbergen, Hannover (30457)",125.000 € 2.232 €/m²,2 Zimmer,56 m²,1. Geschoss,https://www.immowelt.de/expose/771a65c7-7a0a-4ea5-9a45-58375928a030
-"Kirchrode, Hannover / Kirchrode (30559)",618.000 € 3.768 €/m²,6 Zimmer,164 m²,514 m² Grundstück,https://www.immowelt.de/expose/62427b86-7713-41f3-818d-36f6885fb8f3
-"Marienwerderstr.3, Linden-Mitte, Hannover (30449)",1.650.000 € 2.825 €/m²,22 Zimmer,584 m²,297 m² Grundstück,https://www.immowelt.de/expose/3f415967-21ce-47d6-bd0d-deb02a40c00f
-"Oststadt, Hannover (30161)",395.000 € 4.593 €/m²,"2,5 Zimmer",86 m²,4. Geschoss,https://www.immowelt.de/expose/60eee529-83cc-4b11-806c-502191c2cc14
-"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167)",422.000 €,3 Zimmer,Unknown,Unknown,https://www.immowelt.de/expose/843b924e-c7cd-471a-9cbc-b818d590c4e6
-"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167)",225.000 €,1 Zimmer,Unknown,Unknown,https://www.immowelt.de/expose/31590b3a-3a0e-4490-9c33-f1141787136f
-"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167)",333.000 € 5.501 €/m²,2 Zimmer,"60,5 m²",Unknown,https://www.immowelt.de/expose/221fedbd-a963-49be-9217-8a9802fbc304
-"Mitte, Hannover (30159)",280.000 € 6.222 €/m²,1 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/d88bf4d8-a265-4c75-b912-32d2faab8239
-"Misburg-Nord, Hannover (30629)",175.000 € 2.333 €/m²,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/380ae6f4-f61e-4634-9af6-d631f95a73a9
-"Bothfeld, Hannover (30659)",569.000 € 4.411 €/m²,3 Zimmer,129 m²,Unknown,https://www.immowelt.de/expose/12fca62a-ec31-4b0f-bc5a-4c0a39755354
-"List, Hannover (30177)",999.999 € 5.848 €/m²,5 Zimmer,171 m²,345 m² Grundstück,https://www.immowelt.de/expose/e709625f-d34a-48bd-a786-48e6ed57fcde
-"Linden-Nord, Hannover (30451)",158.000 € 4.938 €/m²,1 Zimmer,32 m²,1. Geschoss,https://www.immowelt.de/expose/8163413b-3172-4393-9e91-8367f76c97b7
-"Davenstedt, Hannover (30455)",599.000 € 3.565 €/m²,5 Zimmer,168 m²,Unknown,https://www.immowelt.de/expose/99ea018b-58f8-4c2a-bded-186a86593984
-"Nordstadt, Hannover (30167)",199.000 € 2.884 €/m²,3 Zimmer,69 m²,3. Geschoss,https://www.immowelt.de/expose/eb1d4293-7ac9-45c2-a76d-6e3c4ebcb8a9
-"Groß-Buchholz, Hannover / Groß Buchholz (30655)",1.287.000 € 7.707 €/m²,6 Zimmer,167 m²,459 m² Grundstück,https://www.immowelt.de/expose/42e05d96-23fc-4510-bf61-1fa0f978ad58
-"List, Hannover (30177)",398.000 € 4.055 €/m²,3 Zimmer,"98,2 m²",Unknown,https://www.immowelt.de/expose/62c1625a-e9dc-4ba3-83df-1f775cab3511
-"Davenstedt, Hannover (30455)",285.000 € 3.434 €/m²,4 Zimmer,83 m²,3. Geschoss,https://www.immowelt.de/expose/55f7eaa4-5438-4f4c-b957-9ddbdedd4f61
-"Groß-Buchholz, Hannover (30655)",169.000 € 2.817 €/m²,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/2eead798-cd38-4020-b0ad-e18e078cf913
-Unknown,Unknown,3 Zimmer,"84,6 m²",2. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632
-Unknown,Unknown,2 Zimmer,77 m²,3. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632
-Unknown,Unknown,3 Zimmer,"104,4 m²",EG,https://www.immowelt.de/projekte/expose/k2hg632
-Unknown,Unknown,3 Zimmer,"74,4 m²",EG,https://www.immowelt.de/projekte/expose/k2hg632
-Unknown,Unknown,4 Zimmer,"103,2 m²",3. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632
-"Korallenweg 7, Davenstedt, Hannover (30455)",260.000 € 3.102 €/m²,3 Zimmer,"83,8 m²",1. Geschoss,https://www.immowelt.de/expose/03b60a95-7700-4426-91d5-3638009f465e
-"Groß-Buchholz, Hannover (30627)",460.000 € 5.897 €/m²,4 Zimmer,78 m²,641 m² Grundstück,https://www.immowelt.de/expose/1304aaa3-57be-4b2a-9a86-66f39ae19d22
-"Oststadt, Hannover (30161)",320.000 € 4.000 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/9b774392-d381-4ef6-9b04-89544d28c2b3
-Unknown,Unknown,2 Zimmer,"68,9 m²",frei ab sofort,https://www.immowelt.de/projekte/expose/k2hg632
-Unknown,Unknown,3 Zimmer,"73,1 m²",frei ab sofort,https://www.immowelt.de/projekte/expose/k2hg632
-Unknown,Unknown,3 Zimmer,"73,3 m²",frei ab sofort,https://www.immowelt.de/projekte/expose/k2hg632
-"Oberricklingen, Hannover (30459)",249.000 € 2.929 €/m²,3 Zimmer,85 m²,1. Geschoss,https://www.immowelt.de/expose/ad275e79-86f5-4f9d-a4c5-6d2ad29f9d7d
-"List, Hannover (30655)",125.000 € 2.604 €/m²,2 Zimmer,48 m²,EG,https://www.immowelt.de/expose/eb33c970-56cb-4016-98a2-e95d96dae62b
-"Bothfeld, Hannover (30657)",929.900 € 6.325 €/m²,6 Zimmer,147 m²,553 m² Grundstück,https://www.immowelt.de/expose/0f180e13-d24c-4a84-8545-f3d91521c6f9
-"Bothfeld, Hannover (30657)",879.900 € 5.985 €/m²,6 Zimmer,147 m²,448 m² Grundstück,https://www.immowelt.de/expose/119927a7-32b9-4ee0-9a72-fba9c65052df
-"Borglingstraße 2, Ledeburg, Hannover - Ledeburg (30419)",460.000 € 3.286 €/m²,6 Zimmer,140 m²,503 m² Grundstück,https://www.immowelt.de/expose/b54ed0f2-cd76-48c4-bfdf-afc3e55b6afa
-"Oststadt, Hannover (30161)",352.000 € 4.190 €/m²,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/7d952c4c-b511-48c5-a782-381d61f76785
-"Waldheim, Hannover / Südstadt (30173)",Preis auf Anfrage,3 Zimmer,89 m²,2. Geschoss,https://www.immowelt.de/expose/2246dd15-1419-4b43-887d-76a8778640fb
-"Ahlem, Hannover OT Ahlem (30453)",650.000 € 3.824 €/m²,5 Zimmer,170 m²,800 m² Grundstück,https://www.immowelt.de/expose/1f7c74c9-a5c6-4ea3-b5bb-89d8d1c0f53e
-"Linden-Süd, Hannover (30449)",399.000 € 3.837 €/m²,4 Zimmer,104 m²,Unknown,https://www.immowelt.de/expose/6f2b6659-61c9-48a6-af53-073b1618834a
-"Misburg-Nord, Hannover (30629)",329.000 € 4.062 €/m²,2 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/68ad09e3-87fa-43d2-842c-740180f2c9ae
-"Hainholz, Hannover (30165)",279.000 € 3.096 €/m²,3 Zimmer,"90,1 m²",Unknown,https://www.immowelt.de/expose/da60bec7-d15e-473e-b0a6-0c1bb00361fd
-Unknown,Unknown,3 Zimmer,"73,1 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632
-"Davenstedt, Hannover (30455)",370.000 € 2.270 €/m²,4 Zimmer,163 m²,664 m² Grundstück,https://www.immowelt.de/expose/e1200e1f-da1a-4998-902a-87e94a2048d5
-"Bothfeld, Hannover (30659)",595.000 € 5.219 €/m²,4 Zimmer,114 m²,157 m² Grundstück,https://www.immowelt.de/expose/0126be2a-4dc8-453f-98d0-968e826bfbe1
-"List, Hannover (30177)",270.000 € 3.649 €/m²,3 Zimmer,74 m²,1. Geschoss,https://www.immowelt.de/expose/e830846e-ea78-4cc7-bdc5-e955e2bfd457
-"Bothfeld, Hannover / Bothfeld (30659)",240.000 € 3.593 €/m²,2 Zimmer,"66,8 m²",Unknown,https://www.immowelt.de/expose/d7c4b610-aad7-4ce2-a1dc-857dbba1946f
-"Mittelfeld, Hannover / Bemerode (30539)",225.000 € 1.991 €/m²,6 Zimmer,113 m²,558 m² Grundstück,https://www.immowelt.de/expose/1bcccb8f-a3c5-4e14-aed0-e1ae92c9ca63
-"Bothfeld, Hannover (30657)",399.000 € 3.069 €/m²,6 Zimmer,130 m²,612 m² Grundstück,https://www.immowelt.de/expose/a162d9d0-a618-4f76-aef7-7a8b184c01cb
-"Vahrenwald, Hannover (30163)",249.000 € 3.000 €/m²,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/1be51dbe-d4cb-4c8c-bc10-d715b060922e
-"Badenstedt, Hannover (30455)",890.000 € 1.508 €/m²,590 m²,874 m² Grundstück,Unknown,https://www.immowelt.de/expose/b57d9cf6-c5dd-4c7f-8b72-c2691c51b36b
-"Linden-Nord, Hannover (30451)",95.000 € 2.968 €/m²,1 Zimmer,32 m²,Unknown,https://www.immowelt.de/expose/92069a04-1bdf-4b02-9842-f1346958ba07
-"Mittelfeld, Hannover (30519)",98.000 € 2.279 €/m²,2 Zimmer,43 m²,3. Geschoss,https://www.immowelt.de/expose/57ad81f4-06c5-4c57-8115-7ac4100107ea
-"Sahlkamp, Hannover (30179)",599.000 € 6.656 €/m²,90 m²,748 m² Grundstück,Unknown,https://www.immowelt.de/expose/09f20019-ae63-44ee-aa21-85de8f10d160
-"Limmer, Hannover (30453)",220.000 € 2.815 €/m²,3 Zimmer,"78,2 m²",Unknown,https://www.immowelt.de/expose/964964c6-c561-4822-84e6-44846e9ff22c
-"Bornum, Hannover (30453)",349.000 € 3.244 €/m²,4 Zimmer,"107,6 m²",Unknown,https://www.immowelt.de/expose/4ae51556-e602-4eeb-a20f-4827ca1e2e68
-"Davenstedt, Hannover / Davenstedt (30455)",420.000 € 2.917 €/m²,4 Zimmer,144 m²,748 m² Grundstück,https://www.immowelt.de/expose/7a226193-c540-433b-9d9d-42ae09be10a9
-"List, Hannover (30177)",499.000 € 3.642 €/m²,"3,5 Zimmer",137 m²,2. Geschoss,https://www.immowelt.de/expose/931bda6a-a502-4bcf-bab2-bed8a32ef3d1
-"Bemerode, Hannover (30539)",179.000 € 2.034 €/m²,3 Zimmer,88 m²,1. Geschoss,https://www.immowelt.de/expose/287c86d4-8d16-4b6e-b541-fdd0a869ceef
-"List, Hannover (30163)",650.000 € 4.114 €/m²,5 Zimmer,158 m²,3. Geschoss,https://www.immowelt.de/expose/3010e089-691e-4f21-b7bb-e8761f6d0cbd
-"Linden-Nord, Hannover (30451)",280.000 € 4.516 €/m²,"2,5 Zimmer",62 m²,4. Geschoss,https://www.immowelt.de/expose/711b4159-6dd5-493d-8dc9-040c049ed78a
-"Davenstedt, Hannover (30455)",170.000 € 2.582 €/m²,2 Zimmer,"65,8 m²",2. Geschoss,https://www.immowelt.de/expose/703e7be4-e83e-4b38-949b-51e2efabfd4e
-"Südstadt, Hannover (30171)",275.000 € 4.555 €/m²,2 Zimmer,"60,4 m²",Unknown,https://www.immowelt.de/expose/16351f2f-df62-4279-9609-43995b7fdbf5
-"Linden-Nord, Hannover (30451)",479.000 € 4.790 €/m²,4 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/58e9a88e-c869-425c-8508-572215886fe3
-"Calenberger Neustadt, Hannover (30169)",189.000 € 4.725 €/m²,2 Zimmer,40 m²,3. Geschoss,https://www.immowelt.de/expose/9d78f6bc-815f-43f9-bbb4-b82e0fc28ee2
-"Bohnhorststraße 1-7, Hainholz, Hannover (30165)",485.900 € 4.600 €/m²,4 Zimmer,"105,6 m²",Unknown,https://www.immowelt.de/expose/d907f727-aeb7-4bb5-a95d-649127d5110a
-"Bohnhorststraße 1-7, Hainholz, Hannover (30165)",324.900 € 4.611 €/m²,3 Zimmer,"70,5 m²",Unknown,https://www.immowelt.de/expose/ad4b0155-3474-482f-ba2a-8d0cadffbdc6
-"Bohnhorststraße 1-7, Hainholz, Hannover (30165)",286.900 € 4.608 €/m²,2 Zimmer,"62,3 m²",Unknown,https://www.immowelt.de/expose/818f4032-bf9e-47f6-bd07-a2ce7f2a79d7
-"Bohnhorststraße 1-7, Hainholz, Hannover (30165)",206.900 € 4.599 €/m²,1 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/55f83670-a46c-4ca3-bd95-e38d082b625b
-"Stöcken, Hannover (30419)",159.000 € 2.569 €/m²,2 Zimmer,58 m²,5. Geschoss,https://www.immowelt.de/expose/49d56202-f727-4763-a885-f13175bde78f
-"Stöcken, Hannover (30419)",250.000 € 2.778 €/m²,3 Zimmer,90 m²,1. Geschoss,https://www.immowelt.de/expose/38315b10-c9c6-42dd-be50-6c0703f9c85d
-"Kirchrode, Kirchrode (30559)",975.000 € 6.588 €/m²,5 Zimmer,148 m²,500 m² Grundstück,https://www.immowelt.de/expose/09be7f9f-cede-481e-88e3-3585549ad24b
-"Misburg-Nord, Hannover (30629)",1.450.000 € 4.434 €/m²,7 Zimmer,327 m²,1.408 m² Grundstück,https://www.immowelt.de/expose/a21a3ec6-a0b6-4681-a697-a6838bf8594c
-"Oststadt, Hannover / Oststadt (30161)",559.000 € 4.138 €/m²,4 Zimmer,"135,1 m²",Unknown,https://www.immowelt.de/expose/5a59b95a-82fe-48e6-91eb-ff0c55cba633
-"Burg, Hannover (30419)",850.000 € 2.279 €/m²,373 m²,958 m² Grundstück,Unknown,https://www.immowelt.de/expose/9970375f-ca88-4be6-afa0-069afb864d57
-"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167)",389.000 € 5.807 €/m²,2 Zimmer,67 m²,Unknown,https://www.immowelt.de/expose/56e9d3f6-b265-4d1c-955e-5d5b7f124264
-"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167)",442.000 € 5.850 €/m²,2 Zimmer,"75,6 m²",Unknown,https://www.immowelt.de/expose/1d3310fc-7046-4d5d-9ec9-228d67d8f0c6
-"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167)",455.000 € 5.462 €/m²,3 Zimmer,"83,3 m²",Unknown,https://www.immowelt.de/expose/788a065b-db77-4bce-9fe8-176a1351bb93
-"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167)",419.000 € 5.467 €/m²,3 Zimmer,"76,6 m²",Unknown,https://www.immowelt.de/expose/d0806dfa-a252-4388-b73d-eb27d6e567c4
-"Vahrenwald, Hannover (30163)",392.000 € 3.920 €/m²,3 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/4b189cfc-af2c-4221-a155-e660c1581ba7
-"Bothfeld, Hannover (30657)",365.000 € 4.244 €/m²,3 Zimmer,86 m²,Unknown,https://www.immowelt.de/expose/9562e886-4e05-4095-8fa9-d29ac3f38dfb
-"Bothfeld, Hannover (30659)",699.000 € 5.027 €/m²,4 Zimmer,"139,1 m²",963 m² Grundstück,https://www.immowelt.de/expose/ceb1ed7c-57bc-4235-b977-e63e1ba93880
-"Ahlem, Hannover (30453)",695.000 € 3.907 €/m²,8 Zimmer,"177,9 m²",801 m² Grundstück,https://www.immowelt.de/expose/79ee2e2f-9ca5-4874-bd67-ec06aca5339f
-"Isernhagen-Süd, Hannover-Isernhagen-Süd (30657)",1.950.000 € 6.724 €/m²,6 Zimmer,290 m²,1.361 m² Grundstück,https://www.immowelt.de/expose/f6f7e4a0-6f5b-4a8d-976a-e905e62bddee
-"Am Mittelfelde 83a, Mittelfeld, Hannover (30519)",124.999 € 2.451 €/m²,3 Zimmer,51 m²,1. Geschoss,https://www.immowelt.de/expose/f287e530-abfd-4506-a34a-80eae20cbb48
-"Groß-Buchholz, Hannover-Steuerndieb (30655)",2.950.000 € 10.424 €/m²,7 Zimmer,283 m²,7.058 m² Grundstück,https://www.immowelt.de/expose/aded1b1a-b087-42e4-a826-8e43c3c88f66
-"Nordstadt, Hannover (30167)",215.000 € 4.778 €/m²,2 Zimmer,45 m²,2. Geschoss,https://www.immowelt.de/expose/e243956f-ce64-4d32-8112-ce27b7dcd163
-"Südstadt, Hannover (30173)",245.000 € 3.952 €/m²,2 Zimmer,62 m²,4. Geschoss,https://www.immowelt.de/expose/512bf275-7962-4237-b5e6-c852cf93b739
-"Bothfeld, Hannover (30659)",565.000 € 4.956 €/m²,4 Zimmer,114 m²,100 m² Grundstück,https://www.immowelt.de/expose/ece2e263-dd8e-402a-af0b-c348bef76d97
-"Nordstadt, Hannover-Herrenhausen (30167)",3.200.000 € 6.214 €/m²,9 Zimmer,515 m²,4.024 m² Grundstück,https://www.immowelt.de/expose/e4aef80d-07ff-45be-8cf3-4cb177860223
-"Bornum, Hannover (30453)",199.000 € 2.726 €/m²,3 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/8a0c3526-eb7d-42f1-851b-e1570cbe0aba
-"Bemerode, Hannover / Bemerode (30539)",750.000 € 3.036 €/m²,9 Zimmer,247 m²,342 m² Grundstück,https://www.immowelt.de/expose/8eff4b6d-3472-4f92-9d40-52b245e80389
-"Linden-Nord, Hannover (30451)",270.000 € 4.286 €/m²,3 Zimmer,63 m²,3. Geschoss,https://www.immowelt.de/expose/8167d70a-8924-461e-bded-8703155f1140
-"List, Hannover (30163)",565.000 € 5.594 €/m²,2 Zimmer,101 m²,4. Geschoss,https://www.immowelt.de/expose/daaf9fcc-8058-4432-92e7-077f46f6a74f
-"Bothfeld, Hannover (30659)",499.000 € 4.664 €/m²,4 Zimmer,107 m²,1. Geschoss,https://www.immowelt.de/expose/79224ead-fc02-4d6e-b739-d6e538933d36
-"Ahlem, Hannover-Ahlem (30453)",215.000 € 2.363 €/m²,4 Zimmer,91 m²,2. Geschoss,https://www.immowelt.de/expose/768f988a-1a0b-4c62-bd7b-452a966ce97f
-"Mitte, Hannover (30159)",399.000 € 5.620 €/m²,3 Zimmer,71 m²,2. Geschoss,https://www.immowelt.de/expose/95a77302-167d-40a0-8978-3a52957b4c72
-"Wettbergen, Hannover (30457)",1.250.000 € 2.315 €/m²,20 Zimmer,540 m²,2.468 m² Grundstück,https://www.immowelt.de/expose/bafffca4-922a-407f-be47-2cbf114d8561
-"Bornumer Straße 156, Bornum, Hannover / Bornum (30453)",449.900 € 3.749 €/m²,"4,5 Zimmer",120 m²,201 m² Grundstück,https://www.immowelt.de/expose/e1a5375e-ec69-4d9e-86b5-e9cfffd47757
-"Stöcken, Hannover (30419)",81.000 €,1 Zimmer,35 m²,1. Geschoss,https://www.immowelt.de/expose/c2ed23b1-0ae5-4484-aedf-c7967e91e609
-"Kirchrode, Hannover (30559)",2.000.000 € 5.362 €/m²,11 Zimmer,373 m²,1.379 m² Grundstück,https://www.immowelt.de/expose/0eabc808-40d5-4db9-8b71-f7c33c0b4e96
-"Stöcken, Hannover (30419)",179.000 € 2.672 €/m²,3 Zimmer,67 m²,2. Geschoss,https://www.immowelt.de/expose/5194b8c0-ee7d-4745-befa-94bcfbb8a182
-"Große Pfahlstraße 18, Oststadt, Hannover (30161)",399.000 € 4.101 €/m²,4 Zimmer,"97,3 m²",2. Geschoss,https://www.immowelt.de/expose/e2fa7ee6-c361-4cae-82f7-a360fe26e1e2
-"List, Hannover (30177)",717.500 € 5.407 €/m²,4 Zimmer,"132,7 m²",Unknown,https://www.immowelt.de/expose/aec2d39f-4263-4747-9bea-a0b448b34c8a
-"List, Hannover (30177)",717.500 € 5.407 €/m²,4 Zimmer,"132,7 m²",Unknown,https://www.immowelt.de/expose/e7e8b4de-a61a-45d0-a07c-fcfc6018eeb9
-"Nordstadt, Hannover (30167)",299.000 € 4.746 €/m²,3 Zimmer,63 m²,2. Geschoss,https://www.immowelt.de/expose/362f341c-baa0-43f3-812a-a19b9c9a6164
-"List, Hannover (30161)",495.000 € 245 €/m²,5 Zimmer,112 m²,1. Geschoss,https://www.immowelt.de/expose/92f72892-3904-4340-b471-8ad4472061fc
-"Kirchrode, Hannover-Kirchrode (30559)",150.000 € 1.786 €/m²,3 Zimmer,84 m²,2. Geschoss,https://www.immowelt.de/expose/a8da8202-2f4d-4f8e-b006-5a9e610eeef7
-"Herrenhausen, Hannover (30419)",1.690.000 € 2.511 €/m²,1 Zimmer,673 m²,1.406 m² Grundstück,https://www.immowelt.de/expose/2d47635c-bd4f-459b-aefd-3fc6b5e40943
-"Davenstedt, Hannover (30455)",415.000 € 3.723 €/m²,"3,5 Zimmer","111,5 m²",7. Geschoss,https://www.immowelt.de/expose/e337e7d1-bd0c-4e8a-b0b0-4fb6daae118d
-"Linden-Nord, Hannover (30451)",270.000 € 4.286 €/m²,3 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/a635290b-05cc-46ba-b442-6eb568a66b72
-"Davenstedt, Hannover (30455)",250.000 € 3.485 €/m²,3 Zimmer,"71,7 m²",EG,https://www.immowelt.de/expose/996c6e4c-d11e-4ea8-a5bd-49d3b1ad7886
-"Mittelfeld, Hannover (30539)",484.900 € 4.581 €/m²,3 Zimmer,"105,9 m²",Unknown,https://www.immowelt.de/expose/0709e41f-4ede-49ba-a116-e3a9bc07ad38
-"Mittelfeld, Hannover (30539)",199.900 € 4.942 €/m²,1 Zimmer,"40,5 m²",Unknown,https://www.immowelt.de/expose/170d8a79-d960-43be-a07f-2ecf3ded03ad
-"Mittelfeld, Hannover (30539)",349.900 € 4.547 €/m²,2 Zimmer,77 m²,Unknown,https://www.immowelt.de/expose/30dc2c38-1739-4577-a83f-a72bb8ddd7ed
-"Bemerode, Hannover (30539)",579.000 € 4.907 €/m²,5 Zimmer,118 m²,107 m² Grundstück,https://www.immowelt.de/expose/ffa5241e-3922-4606-ad6e-a76a24164bbd
-"Bemerode, Hannover (30539)",659.000 € 4.955 €/m²,5 Zimmer,133 m²,118 m² Grundstück,https://www.immowelt.de/expose/8363c273-9a7e-43aa-878e-3588700556d5
-"Bemerode, Hannover (30539)",679.000 € 5.144 €/m²,5 Zimmer,132 m²,173 m² Grundstück,https://www.immowelt.de/expose/16a798cd-605f-4bc0-ab09-1d8272221d41
-"Bemerode, Hannover (30539)",669.000 € 5.030 €/m²,5 Zimmer,133 m²,125 m² Grundstück,https://www.immowelt.de/expose/98a346d8-a1f2-42a1-a960-852da7c4ea8e
-"Isernhagen-Süd, Hannover-Isernhagen-Süd (30657)",1.950.000 € 4.875 €/m²,6 Zimmer,400 m²,1.900 m² Grundstück,https://www.immowelt.de/expose/febe95b1-b0a1-4cbf-8448-d7645cfeae20
-"Linden-Nord, Hannover (30451)",270.000 € 4.286 €/m²,3 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/55cba306-6712-4d9e-8d01-80e0d6e1b41b
-"Hainholz, Hannover / Hainholz (30165)",388.000 € 3.079 €/m²,4 Zimmer,126 m²,Unknown,https://www.immowelt.de/expose/9ca465e3-25da-4a84-b868-8c2d11764ef6
-"Kirchrode, Hannover / Kirchrode (30559)",1.500.000 € 4.823 €/m²,6 Zimmer,311 m²,1.049 m² Grundstück,https://www.immowelt.de/expose/0920a780-91fd-4fe5-915f-6e5ca1da7e07
-"Linden-Mitte, Hannover (30449)",100.000 € 1.561 €/m²,2 Zimmer,"64,1 m²",2. Geschoss,https://www.immowelt.de/expose/b76c05a6-7cd3-47b5-9043-f1280fd0cde1
-"Waldheim, Hannover / Südstadt (30173)",268.900 € 3.021 €/m²,3 Zimmer,89 m²,2. Geschoss,https://www.immowelt.de/expose/5aed400d-e326-43c8-9548-2a27eadbf32b
-"Bothfeld, Hannover (30659)",569.000 € 4.411 €/m²,3 Zimmer,129 m²,Unknown,https://www.immowelt.de/expose/a3872ec7-94a3-42e6-a1f0-90b54879ade3
-"Mitte, Hannover (30159)",359.000 € 5.934 €/m²,2 Zimmer,"60,5 m²",1. Geschoss,https://www.immowelt.de/expose/46ea22f5-67ae-4135-9c8c-868111add95f
-"Mitte, Hannover (30159)",335.000 € 5.929 €/m²,2 Zimmer,"56,5 m²",1. Geschoss,https://www.immowelt.de/expose/5c5327c3-4b44-43b2-b47d-dd95c664e697
-"Bemerode, Hannover (30539)",219.000 € 2.844 €/m²,3 Zimmer,77 m²,Unknown,https://www.immowelt.de/expose/226c422e-d846-44e7-a1c1-20e1b7d1abaa
-"Stöcken, Hannover (30419)",210.000 € 2.958 €/m²,3 Zimmer,71 m²,9. Geschoss,https://www.immowelt.de/expose/51cf49f7-c608-40f7-b7ee-e446a99f5c19
-"Kirchrode, Hannover / Kirchrode (30559)",595.000 € 4.542 €/m²,3 Zimmer,131 m²,166 m² Grundstück,https://www.immowelt.de/expose/58552fef-9a88-4795-96c5-c5d416657044
-"Hemelingstraße 4, Stöcken, Hannover (30419)",294.000 € 3.303 €/m²,3 Zimmer,89 m²,3. Geschoss,https://www.immowelt.de/expose/1b328748-c748-4c5d-9b23-cbeb3043c35e
-"Mühlenberg, Hannover (30457)",89.000 € 1.510 €/m²,1 Zimmer,59 m²,4. Geschoss,https://www.immowelt.de/expose/053e0047-88d7-4b5e-8705-c444234b9ebd
-"Mittelfeld, Hannover-Mittelfeld (30519)",570.000 € 3.221 €/m²,9 Zimmer,177 m²,748 m² Grundstück,https://www.immowelt.de/expose/0ba4d0ec-5140-4113-aa5f-9fa909c4c6b2
-"Herrenhausen, Hannover (30419)",185.000 € 2.803 €/m²,3 Zimmer,66 m²,2. Geschoss,https://www.immowelt.de/expose/1087ff64-ce15-4e37-ab2d-ec0e907fa8f8
-"Böhmerwaldstraße, Kirchrode, Hannover (30559)",979.000 € 4.491 €/m²,8 Zimmer,218 m²,640 m² Grundstück,https://www.immowelt.de/expose/809a6733-738c-4dcf-acd7-9b5d85f7050a
-"Mühlenberg, Hannover (30457)",240.000 € 2.410 €/m²,3 Zimmer,"99,6 m²",3. Geschoss,https://www.immowelt.de/expose/e698adbe-2fa3-4901-b0ee-ac857dde40a6
-"Waldheim, Hannover / Südstadt (30173)",268.900 € 3.021 €/m²,3 Zimmer,89 m²,2. Geschoss,https://www.immowelt.de/expose/0a673715-5dd9-4d68-b5e5-5c008c85218f
-"Sahlkamp, Hannover / Sahlkamp (30179)",690.000 € 4.235 €/m²,4 Zimmer,160 m²,520 m² Grundstück,https://www.immowelt.de/expose/55abb4a8-2890-47be-8cf3-dbe03a668e43
-"Overbeckstraße 5, List, Hannover - List (30177)",455.000 € 6.465 €/m²,2 Zimmer,"70,4 m²",Unknown,https://www.immowelt.de/expose/ac4bb9a8-0efb-4949-ab09-bc6caebed981
-"Davenstedt, Hannover (30455)",465.500 € 3.665 €/m²,127 m²,400 m² Grundstück,Unknown,https://www.immowelt.de/expose/aaf45181-1e93-43cc-83bf-5b513d0ed986
-"Ottenstraße 10 a, Linden-Nord, Hannover (30451)",119.000 € 1.839 €/m²,2 Zimmer,"64,7 m²",4. Geschoss,https://www.immowelt.de/expose/353cc81b-2985-4789-8435-791402c6601b
-"Waldheim, Hannover (30519)",2.980.000 € 5.996 €/m²,10 Zimmer,497 m²,854 m² Grundstück,https://www.immowelt.de/expose/3d52af3f-0d89-49d2-ab89-9c419766ae69
-"Bornum, Hannover (30453)",190.000 € 3.800 €/m²,"1,5 Zimmer",50 m²,frei ab sofort,https://www.immowelt.de/expose/51cfd25f-6c4f-44fe-8163-68a90d12992e
-"Linden-Nord, Hannover (30451)",350.000 € 3.933 €/m²,2 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/3aa32ae2-87c8-4bc3-972d-511e0aeae457
-"Calenberger Neustadt, Hannover (30169)",250.000 € 4.167 €/m²,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/c5e63901-0f71-4f27-8857-68980a042cfb
-"Sahlkamp, Hannover (30657)",650.000 € 2.955 €/m²,6 Zimmer,220 m²,810 m² Grundstück,https://www.immowelt.de/expose/b4a1f633-103d-4609-90b8-bc7559a5b44f
-"Linden-Mitte, Hannover / Linden-Mitte (30449)",135.000 € 2.700 €/m²,2 Zimmer,50 m²,6. Geschoss,https://www.immowelt.de/expose/ff6e9a68-6962-4192-81f1-5a832ab64576
-"Anderten, Hannover / Anderten (30559)",250.000 € 2.747 €/m²,3 Zimmer,91 m²,EG,https://www.immowelt.de/expose/b9e66990-fde4-4255-b680-feb38659c2dc
-"Ricklingen, Hannover / Ricklingen (30459)",130.000 € 2.955 €/m²,2 Zimmer,44 m²,Unknown,https://www.immowelt.de/expose/1cda91f2-3936-48e3-a811-69a1f6501c77
-"Burg, Hannover (30419)",197.000 € 2.627 €/m²,4 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/b5b1ff67-cfaf-4713-9b7a-a10e05730820
-"Hainholz, Hannover (30165)",229.000 € 3.053 €/m²,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/d5179a3f-2d72-491a-846b-de9b3fce2b44
-"Linden-Süd, Hannover (30449)",450.000 € 4.500 €/m²,100 m²,Unknown,Unknown,https://www.immowelt.de/expose/8a336a5b-068c-4bd1-88ca-f85a1d817484
-"Vahrenwald, Hannover (30165)",350.000 € 4.268 €/m²,82 m²,Unknown,Unknown,https://www.immowelt.de/expose/7cbaccac-4a42-4fee-bd9b-b4d5bc758452
-"Bothfeld, Hannover (30657)",599.999 € 4.800 €/m²,5 Zimmer,125 m²,354 m² Grundstück,https://www.immowelt.de/expose/9d102e99-c3f3-4246-be14-7437668013b7
-"Ahlem, Hannover (30453)",799.000 € 4.037 €/m²,6 Zimmer,"197,9 m²",738 m² Grundstück,https://www.immowelt.de/expose/7a5ec361-5e10-47bc-b666-d4bc1bee5f81
-"Kopenhagener Str. 69, Wettbergen, Hannover (30457)",385.000 € 3.109 €/m²,7 Zimmer,"123,8 m²",284 m² Grundstück,https://www.immowelt.de/expose/29be0a67-88c6-48d1-a32a-f6c1e27d66e4
-"Badenstedt, Hannover (30455)",385.000 € 2.323 €/m²,"6,5 Zimmer","165,7 m²",854 m² Grundstück,https://www.immowelt.de/expose/909d32e0-7300-4850-8385-d677177a3f12
-"Kirchrode, Hannover (30559)",340.000 € 3.620 €/m²,4 Zimmer,"93,9 m²",1. Geschoss,https://www.immowelt.de/expose/6044ddf6-930d-433d-a288-c5fc846fc64c
-"Bemerode, Hannover (30559)",1.540.000 € 6.417 €/m²,5 Zimmer,240 m²,678 m² Grundstück,https://www.immowelt.de/expose/22531f63-6e39-4056-9357-b36053e4aa46
-"Bothfeld, Hannover (30659)",325.000 € 3.568 €/m²,"4,5 Zimmer","91,1 m²",467 m² Grundstück,https://www.immowelt.de/expose/747c772e-a721-4700-9d9f-889372722ddf
-"Linden-Süd, Hannover Linden (30449)",960.000 € 3.148 €/m²,305 m²,460 m² Grundstück,Unknown,https://www.immowelt.de/expose/7eedca43-60df-491e-bd90-c9c49ae7b504
-"Kirchrode, Hannover (30559)",2.100.000 € 8.750 €/m²,8 Zimmer,240 m²,800 m² Grundstück,https://www.immowelt.de/expose/61d74b68-11c3-4702-b2b9-3f2ac869edc6
-"List, Hannover (30655)",139.000 € 2.896 €/m²,2 Zimmer,48 m²,1. Geschoss,https://www.immowelt.de/expose/78277c6d-96da-4c7b-a577-a79eabf702b8
-"List, Hannover (30655)",129.000 € 2.867 €/m²,2 Zimmer,45 m²,1. Geschoss,https://www.immowelt.de/expose/7c9edbd7-d216-4512-9941-6f6791d09af2
-"Döhren, Hannover (30519)",199.000 € 2.390 €/m²,"3,5 Zimmer","83,3 m²",2. Geschoss,https://www.immowelt.de/expose/6c82b97e-93c5-44b3-b805-6a76b45fb87e
-"Limmer, Hannover (30453)",209.000 € 3.850 €/m²,2 Zimmer,"54,3 m²",Unknown,https://www.immowelt.de/expose/47a565ae-d325-47d4-9dea-bea7de603602
-"Seelhorst, Hannover (30159)",250.000 € 4.167 €/m²,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/a3d7faf2-e091-4af2-af53-8488949ceaf9
-"Podbielskistraße 196, List, Hannover - List (30177)",665.000 € 6.217 €/m²,3 Zimmer,107 m²,Unknown,https://www.immowelt.de/expose/6990f004-8b9f-4316-8d20-06db5ce868a3
-"Davenstedt, Hannover / Davenstedt (30455)",189.000 € 2.495 €/m²,3 Zimmer,"75,8 m²",1. Geschoss,https://www.immowelt.de/expose/f3f53e07-373f-41c2-adcf-01c94c4cef4a
-Unknown,Unknown,1 Zimmer,"44,9 m²",UG,https://www.immowelt.de/projekte/expose/k224832
-"Stöcken, Hannover (30419)",199.000 € 2.653 €/m²,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/14a14fde-bb1e-40ba-b8db-d4bc28ea60cc
-"Groß-Buchholz, Hannover (30655)",350.000 € 2.778 €/m²,6 Zimmer,126 m²,281 m² Grundstück,https://www.immowelt.de/expose/46171d08-9570-454f-a9ee-186e8f47ff08
-"Overbeckstraße 5, List, Hannover - List (30177)",675.000 € 8.118 €/m²,2 Zimmer,"83,2 m²",Unknown,https://www.immowelt.de/expose/b1bb5516-d28f-4951-86ac-3c1510058487
-"Podbielskistraße 196, List, Hannover - List (30177)",435.000 € 6.737 €/m²,2 Zimmer,"64,6 m²",Unknown,https://www.immowelt.de/expose/f18e8900-95db-4951-aaa3-4f86e4f6c284
-"Podbielskistraße 196, List, Hannover - List (30177)",454.000 € 6.541 €/m²,2 Zimmer,"69,4 m²",Unknown,https://www.immowelt.de/expose/567f4575-fded-40d2-bcc9-347f8b6c08fe
-"Podbielskistraße 196, List, Hannover - List (30177)",679.000 € 6.492 €/m²,3 Zimmer,"104,6 m²",Unknown,https://www.immowelt.de/expose/84c247b9-e1a3-49ff-b371-1c442135b82b
-"Podbielskistraße 196, List, Hannover - List (30177)",295.000 € 6.076 €/m²,2 Zimmer,"48,6 m²",Unknown,https://www.immowelt.de/expose/9db9a5e4-19cd-4acc-abd4-ded5a5a887ba
-"Zoo, Hannover / Zoo (30175)",849.000 € 1.415 €/m²,17 Zimmer,600 m²,6.819 m² Grundstück,https://www.immowelt.de/expose/828d5c67-993f-4d7f-99ec-298a34f1edb7
-"Kirchrode, Hannover (30559)",158.000 € 2.821 €/m²,2 Zimmer,56 m²,EG,https://www.immowelt.de/expose/4f83e132-a9fb-4780-9989-fdb22fd5fe63
-"Bornumer Straße -, Bornum, Hannover / Bornum (30453)",489.900 € 4.083 €/m²,"4,5 Zimmer",120 m²,407 m² Grundstück,https://www.immowelt.de/expose/d5167ee5-9bea-418f-a8dc-cdc6dd087aa1
-Unknown,Unknown,5 Zimmer,"133,5 m²",Unknown,https://www.immowelt.de/projekte/expose/k2jm832
-"List, Hannover (30177)",737.500 € 5.156 €/m²,4 Zimmer,"143,1 m²",Unknown,https://www.immowelt.de/expose/a9934d31-d4aa-4c75-ba60-16183ad5f7cf
-"Podbielskistraße 196, List, Hannover - List (30177)",369.000 € 5.821 €/m²,1 Zimmer,"63,4 m²",Unknown,https://www.immowelt.de/expose/5199a3ea-7c33-4bc3-bde6-1527a2f8ac0d
-"Podbielskistraße 196, List, Hannover - List (30177)",945.000 € 7.823 €/m²,4 Zimmer,"120,8 m²",Unknown,https://www.immowelt.de/expose/af7fbf83-3cda-42d8-8c0a-ed96bfe9e60e
-"List, Hannover (30177)",698.500 € 5.261 €/m²,4 Zimmer,"132,8 m²",Unknown,https://www.immowelt.de/expose/70053b2d-c927-4088-a822-8301e7da381b
-"Elbestr. 6, Leinhausen, Hannover (30419)",180.000 € 900 €/m²,6 Zimmer,200 m²,3. Geschoss,https://www.immowelt.de/expose/b029792c-7e24-4a6b-b9f4-0993f9af6f04
-Unknown,Unknown,"4,5 Zimmer",118 m²,273 m² Grundstück,https://www.immowelt.de/projekte/expose/k2rc532
-Unknown,Unknown,"4,5 Zimmer",118 m²,238 m² Grundstück,https://www.immowelt.de/projekte/expose/k2rc532
-"List, Hannover (30163)",298.000 € 3.293 €/m²,4 Zimmer,"90,5 m²",Unknown,https://www.immowelt.de/expose/dee31264-65a0-449a-a626-349459d3281e
-"Südstadt, Hannover-Südstadt (30171)",159.000 € 2.891 €/m²,2 Zimmer,55 m²,3. Geschoss,https://www.immowelt.de/expose/230acde6-4f3c-43a2-a216-d381ab40bee1
-"Mühlenberg, Hannover (30457)",160.000 € 1.628 €/m²,4 Zimmer,"98,3 m²",EG,https://www.immowelt.de/expose/a51eaba0-2dc4-4b5f-8ad2-28ce7ad405f3
-"Misburg-Nord, Hannover-Misburg-Nord (30627)",138.000 € 2.421 €/m²,2 Zimmer,57 m²,7. Geschoss,https://www.immowelt.de/expose/9f351859-496c-46b2-a8d0-c9fcc69e70ae
-"Nordstadt, Hannover (30167)",416.000 € 3.888 €/m²,3 Zimmer,107 m²,1. Geschoss,https://www.immowelt.de/expose/f6c97347-3caf-4c27-8b6a-01d7dd6d7d26
-"Julienne-Trouet-Platz 29, Limmer, Hannover (30453)",210.000 € 4.691 €/m²,2 Zimmer,"44,8 m²",1. Geschoss,https://www.immowelt.de/expose/8a16f8e5-a30d-4351-bb1a-593b3360fd6b
-"Limmer, Hannover (30453)",430.000 € 4.918 €/m²,3 Zimmer,"87,4 m²",1. Geschoss,https://www.immowelt.de/expose/1461441f-5c92-444a-ae03-cd80ded5763b
-"Julienne-Trouet-Platz 29, Limmer, Hannover (30453)",335.000 € 5.334 €/m²,2 Zimmer,"62,8 m²",frei ab sofort,https://www.immowelt.de/expose/82e89c6a-0ec9-4115-9075-b474c5c092d5
-Unknown,Unknown,3 Zimmer,"102,1 m²",3. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632
-"Linden-Nord, Hannover (30451)",137.000 € 2.404 €/m²,2 Zimmer,57 m²,1. Geschoss,https://www.immowelt.de/expose/ebd63495-a6cd-4504-86e1-1dbf8396cb59
-"Julienne-Trouet-Platz 27 u. 29, Limmer, Hannover (30453)",684.500 € 6.502 €/m²,4 Zimmer,"105,3 m²",1. Geschoss,https://www.immowelt.de/expose/4d4440fa-3b1b-4c04-90a6-5ee28f49346b
-"Julienne-Trouet-Platz 29, Limmer, Hannover (30453)",530.400 € 5.556 €/m²,3 Zimmer,"95,5 m²",frei ab sofort,https://www.immowelt.de/expose/79ebf10b-7b08-43c1-8c97-78ff1caccacd
-"Julienne-Trouet-Platz 21, Limmer, Hannover (30453)",409.800 € 5.706 €/m²,2 Zimmer,"71,8 m²",frei ab sofort,https://www.immowelt.de/expose/42efe339-29a2-458d-a45f-080ea85a4f59
-"Misburg-Nord, Hannover (30629)",305.000 € 3.765 €/m²,4 Zimmer,81 m²,200 m² Grundstück,https://www.immowelt.de/expose/b4b8a4c6-ff4b-4a2d-b23b-aa0cdf39a078
-"Julienne-Trouet-Platz 35, Limmer, Hannover (30453)",599.000 € 7.377 €/m²,3 Zimmer,"81,2 m²",frei ab sofort,https://www.immowelt.de/expose/b523e734-ddb5-4b9e-bdb4-a29b1370f219
-"Julienne-Trouet-Platz 35, Limmer, Hannover (30453)",486.800 € 5.651 €/m²,3 Zimmer,"86,2 m²",frei ab sofort,https://www.immowelt.de/expose/ee905400-80d7-4c55-bc47-a02d6e47d2f8
-"Julienne-Trouet-Platz 35, Limmer, Hannover (30453)",385.300 € 6.441 €/m²,2 Zimmer,"59,8 m²",frei ab sofort,https://www.immowelt.de/expose/d1bd09e4-c48a-437c-a03c-f6bc8c7f7fb0
-"Julienne-Trouet-Platz 35, Limmer, Hannover (30453)",1.049.000 € 8.498 €/m²,"4,5 Zimmer","123,4 m²",frei ab sofort,https://www.immowelt.de/expose/36c8a794-7c27-4b6f-a4c0-10090959396f
-"Julienne-Trouet-Platz 35, Limmer, Hannover (30453)",414.800 € 7.525 €/m²,2 Zimmer,"55,1 m²",frei ab sofort,https://www.immowelt.de/expose/311d48e2-372e-4ae1-b087-85fa97c0deba
-"Merianweg 9, Groß-Buchholz, Hannover (30655)",240.000 € 3.478 €/m²,3 Zimmer,69 m²,Unknown,https://www.immowelt.de/expose/cfb2aa27-1d83-47eb-b444-207d13eac052
-"Südstadt, Hannover (30173)",295.000 € 3.831 €/m²,2 Zimmer,77 m²,Unknown,https://www.immowelt.de/expose/435c1e35-71ee-4e0e-9db1-5ccd49dff0d9
-"Badenstedt, Hannover (30455)",849.000 € 3.329 €/m²,8 Zimmer,255 m²,798 m² Grundstück,https://www.immowelt.de/expose/6468b787-bd38-4da7-afb0-9fb20db0d8eb
-"Tintentrift, List, Hannover (30177)",400.000 € 3.252 €/m²,4 Zimmer,123 m²,frei ab sofort,https://www.immowelt.de/expose/87b82e89-5b38-4ac6-b419-0ebdd5607fc0
-"Gorch-Fock-Straße, List, Hannover (30177)",200.000 € 2.284 €/m²,3 Zimmer,"87,6 m²",frei ab sofort,https://www.immowelt.de/expose/c8e37ef5-1dcb-4536-997f-2610a649b8bb
-"Emdenstr., Calenberger Neustadt, Hannover (30167)",220.000 € 3.014 €/m²,3 Zimmer,73 m²,frei ab sofort,https://www.immowelt.de/expose/36cab8b7-2e36-4930-83e5-735733f17cbf
-"Misburg-Nord, Hannover (30629)",365.000 € 3.967 €/m²,3 Zimmer,92 m²,337 m² Grundstück,https://www.immowelt.de/expose/193d18b0-b7db-4603-bb80-9c56278c3676
-"Muthesiusweg, Kirchrode, Hannover (30559)",140.000 € 1.186 €/m²,5 Zimmer,118 m²,280 m² Grundstück,https://www.immowelt.de/expose/b6e4759a-7e2f-4355-865b-3ada57c930a7
-"Ostwenderstr, Oststadt, Hannover (30161)",150.000 € 1.899 €/m²,3 Zimmer,79 m²,frei ab sofort,https://www.immowelt.de/expose/013f77cd-a99e-4a7d-92d4-99f678e75d34
-"Große Düwelstr.  B, Südstadt, Hannover (30171)",160.000 € 1.273 €/m²,3 Zimmer,"125,7 m²",frei ab sofort,https://www.immowelt.de/expose/ad39d86a-25c4-42ec-99ef-abaa71c6afd3
-"Tiergartenstr., Kirchrode, Hannover (30559)",170.000 € 1.650 €/m²,3 Zimmer,103 m²,frei ab sofort,https://www.immowelt.de/expose/040559a6-80ac-4662-8f2e-b526c809c3f6
-"Zoo, Hannover / Zoo (30175)",836.000 € 4.918 €/m²,6 Zimmer,170 m²,153 m² Grundstück,https://www.immowelt.de/expose/aabfd1df-518b-4d19-a29c-dec71b39633d
-"Nordstadt, Hannover (30167)",180.000 € 3.396 €/m²,2 Zimmer,"53,2 m²",EG,https://www.immowelt.de/expose/89fadf0b-8a27-42b8-83aa-53181d9bd095
-"Badenstedt, Hannover (30455)",990.000 € 5.051 €/m²,6 Zimmer,196 m²,582 m² Grundstück,https://www.immowelt.de/expose/a9087bbb-ce46-4a77-b5df-c4aab4efbf2f
-"Langenhagen - Langenforth, Langenhagen (30851)",245.000 € 3.500 €/m²,2 Zimmer,"70,2 m²",5. Geschoss,https://www.immowelt.de/expose/89455e4c-6033-45d7-a5a5-e6f6bc6113d9
+Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL;city_id
+"Nordstadt, Hannover (30167),399.000 € 4.807 €/m²,""3,5 Zimmer"",83 m²,4. Geschoss,https://www.immowelt.de/expose/a958d96b-db05-4a9f-89d9-bb0c8ef2ddd4";4044
+"Nordstadt, Hannover (30167),650.000 € 4.420 €/m²,3 Zimmer,""147,1 m²"",Unknown,https://www.immowelt.de/expose/ed254851-e7b4-4248-b4c4-f67fed5cd341";4044
+Anderten, Hannover / Anderten (30559),195.000 € 2.600 €/m²,3 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/18ebee1a-9343-447f-a49d-0e5ad04fc7ad;4044
+Oststadt, Hannover (30161),815.000 € 5.821 €/m²,4 Zimmer,140 m²,EG,https://www.immowelt.de/expose/e05075c3-fcaf-4146-a10e-5f9f8154e5d9;4044
+"Linden-Mitte, Hannover (30449),400.000 € 3.596 €/m²,4 Zimmer,""111,3 m²"",2. Geschoss,https://www.immowelt.de/expose/b73603a6-5541-4be0-92a3-2cd496a669f6";4044
+Bornum, Hannover (30453),199.000 € 3.062 €/m²,3 Zimmer,65 m²,1. Geschoss,https://www.immowelt.de/expose/a7f161e4-8435-4886-a276-e5054f09e888;4044
+Nordstadt, Hannover (30167),165.000 € 4.853 €/m²,2 Zimmer,34 m²,2. Geschoss,https://www.immowelt.de/expose/1c352cd3-d61a-4673-8668-4ba9d9273b60;4044
+"Groß-Buchholz, Hannover (30655),350.000 € 2.804 €/m²,4 Zimmer,""124,8 m²"",1. Geschoss,https://www.immowelt.de/expose/2b4ee42b-9caa-4dc4-b888-f78610a99027";4044
+"Odenwaldstr. 16, Sahlkamp, Hannover (30657),205.000 € 2.455 €/m²,""3,5 Zimmer"",""83,5 m²"",3. Geschoss,https://www.immowelt.de/expose/d8508798-6b6f-4bde-8b40-2415934b16cf";4044
+Bemerode, Hannover (30539),799.900 € 5.333 €/m²,4 Zimmer,150 m²,408 m² Grundstück,https://www.immowelt.de/expose/a5aacf75-8873-45b8-a3ff-56e008a20dc8;4044
+Sahlkamp, Hannover / Sahlkamp (30179),490.000 € 2.882 €/m²,7 Zimmer,170 m²,565 m² Grundstück,https://www.immowelt.de/expose/10b4b630-eeb3-4dee-bb4c-fbf58ce1b8d1;4044
+Anderten, Hannover / Anderten (30559),180.000 € 2.813 €/m²,2 Zimmer,64 m²,Unknown,https://www.immowelt.de/expose/bfcbaae6-49eb-4d9d-8f71-ab1665af594f;4044
+Seelhorst, Hannover / Kirchrode (30559),485.000 € 5.706 €/m²,3 Zimmer,85 m²,EG,https://www.immowelt.de/expose/8e8b29fa-d69d-4477-be1d-f275e82e6489;4044
+"Rosalind-Franklin-Allee 40, Bemerode, Hannover (30539),552.000 € 5.778 €/m²,3 Zimmer,""95,5 m²"",frei ab sofort,https://www.immowelt.de/projekte/expose/k2hg632";4044
+Kirchrode, Hannover (30559),900.000 € 4.712 €/m²,6 Zimmer,191 m²,452 m² Grundstück,https://www.immowelt.de/expose/f6d47151-50d1-4258-918f-39651aba902f;4044
+Döhren, Hannover (30519),332.000 € 3.255 €/m²,4 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/d2346100-697e-422f-897d-a4f545dd3978;4044
+Wettbergen, Hannover / Wettbergen (30457),460.000 € 2.026 €/m²,227 m²,635 m² Grundstück,Unknown,https://www.immowelt.de/expose/1ee2d927-81ac-46b1-98eb-016bbae1d8e0;4044
+"Davenstedt, Hannover (30455),290.000 € 2.522 €/m²,""3,5 Zimmer"",115 m²,263 m² Grundstück,https://www.immowelt.de/expose/15da07c5-7cca-41d4-849f-e91eeb60c2b0";4044
+"Bornumer Straße 156, Bornum, Hannover / Bornum (30453),399.900 € 3.333 €/m²,""4,5 Zimmer"",120 m²,156 m² Grundstück,https://www.immowelt.de/expose/2cf3e177-31a6-4e88-8c1c-a2d3b624b512";4044
+"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167),398.000 € 7.094 €/m²,2 Zimmer,""56,1 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k224832";4044
+Herrenhäuser Kirchweg, Nordstadt, Hannover (30167),875.000 € 7.543 €/m²,4 Zimmer,116 m²,3. Geschoss,https://www.immowelt.de/projekte/expose/k224832;4044
+Herrenhäuser Kirchweg, Nordstadt, Hannover (30167),665.000 € 6.856 €/m²,3 Zimmer,97 m²,2. Geschoss,https://www.immowelt.de/projekte/expose/k224832;4044
+"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167),635.000 € 6.356 €/m²,3 Zimmer,""99,9 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k224832";4044
+"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167),349.000 € 7.079 €/m²,1 Zimmer,""49,3 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k224832";4044
+"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167),380.000 € 6.726 €/m²,2 Zimmer,""56,5 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k224832";4044
+"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167),469.000 € 6.212 €/m²,2 Zimmer,""75,5 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k224832";4044
+"Herrenhäuser Kirchweg, Nordstadt, Hannover (30167),585.000 € 6.000 €/m²,3 Zimmer,""97,5 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k224832";4044
+"Haltenhoffstrasse 47 B, Nordstadt, Hannover (30167),645.000 € 6.017 €/m²,3 Zimmer,""107,2 m²"",Unknown,https://www.immowelt.de/projekte/expose/k224832";4044
+"Haltenhoffstrasse 47 C, Nordstadt, Hannover (30167),569.000 € 5.909 €/m²,3 Zimmer,""96,3 m²"",Unknown,https://www.immowelt.de/projekte/expose/k224832";4044
+"Haltenhoffstrasse 47 B, Nordstadt, Hannover (30167),622.000 € 5.802 €/m²,3 Zimmer,""107,2 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k224832";4044
+Schulenburger Landstr. 54, Hainholz, Hannover (30165),165.000 € 2.705 €/m²,2 Zimmer,61 m²,4. Geschoss,https://www.immowelt.de/expose/54d17763-541f-41d2-982d-f62314847771;4044
+Oststadt, Hannover (30161),4.460.000 € 4.901 €/m²,28 Zimmer,910 m²,800 m² Grundstück,https://www.immowelt.de/expose/a68c84f3-a616-4e3e-8847-9a44ff1b6858;4044
+Groß-Buchholz, Hannover (30659),489.000 € 2.778 €/m²,6 Zimmer,176 m²,510 m² Grundstück,https://www.immowelt.de/expose/89af4248-4a56-4d22-ba52-e455acbcdb74;4044
+"Unknown,Unknown,3 Zimmer,""77,5 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732";4044
+St.-Ingbert-Str. 14, Kirchrode, Hannover (30559),775.000 € 3.414 €/m²,7 Zimmer,227 m²,574 m² Grundstück,https://www.immowelt.de/expose/d04cce67-f254-4c3b-902c-23d31860744b;4044
+"Lange Straße 1, Anderten, Hannover (30559),180.000 € 3.114 €/m²,2 Zimmer,""57,8 m²"",3. Geschoss,https://www.immowelt.de/expose/2881244b-b37d-447d-ab64-3e4cdfa7ba42";4044
+Wülfel, Hannover (30519),120.000 € 2.500 €/m²,1 Zimmer,48 m²,4. Geschoss,https://www.immowelt.de/expose/5b069c3d-c455-48d5-88ae-04ac16249fb7;4044
+Vahrenwald, Hannover (30161),325.000 € 4.333 €/m²,3 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/f2c17465-000b-46cb-ab2c-1570697d0af5;4044
+List, Hannover (30161),850.000 € 3.269 €/m²,5 Zimmer,260 m²,4. Geschoss,https://www.immowelt.de/expose/c7b19e3c-e425-43d9-b129-a4aec61a71f4;4044
+"Oberricklingen, Hannover (30459),430.000 € 3.726 €/m²,5 Zimmer,""115,4 m²"",EG,https://www.immowelt.de/expose/c3daca5d-0e7e-4c41-a083-592f28297bb6";4044
+"Südstadt, Hannover (30173),189.000 € 4.174 €/m²,2 Zimmer,""45,3 m²"",1. Geschoss,https://www.immowelt.de/expose/cd485862-3150-48f4-9c80-27c163282d68";4044
+Kirchrode, Hannover (30559),345.000 € 5.308 €/m²,2 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/3f133a40-1f90-470c-b028-d0442a9481a0;4044
+"Mittelfeld, Hannover / Bemerode (30539),390.000 € 2.143 €/m²,""4,5 Zimmer"",182 m²,605 m² Grundstück,https://www.immowelt.de/expose/c46e493a-37bd-436e-a3ac-1da819d9a81a";4044
+"Heideviertel, Hannover / Heideviertel (30625),155.000 € 2.617 €/m²,2 Zimmer,""58,6 m²"",1. Geschoss,https://www.immowelt.de/expose/438a2971-49d4-40ab-ad35-361e01159312";4044
+Badenstedt, Hannover (30455),650.000 € 1.706 €/m²,381 m²,479 m² Grundstück,Unknown,https://www.immowelt.de/expose/f0909e6e-e1ba-4bc1-ae6b-0d48ad363987;4044
+Mühlenberg, Hannover (30457),110.000 € 1.746 €/m²,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/a305799e-6814-4772-91eb-89ca2b920b3a;4044
+Mühlenberg, Hannover (30457),110.000 € 1.746 €/m²,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/88b159ca-d9d3-4f79-bcb2-7942ea4d28bd;4044
+"Linden-Mitte, Hannover / Linden-Mitte (30449),645.000 € 3.909 €/m²,""4,5 Zimmer"",165 m²,4. Geschoss,https://www.immowelt.de/expose/38cb7654-7552-4e76-8da7-f8bd9cff157f";4044
+Groß-Buchholz, Hannover (30627),295.000 € 3.105 €/m²,4 Zimmer,95 m²,7. Geschoss,https://www.immowelt.de/expose/232d6348-a98f-48b2-b14a-ff0468e6fb6a;4044
+"Groß-Buchholz, Hannover (30655),99.000 € 2.856 €/m²,1 Zimmer,""34,7 m²"",2. Geschoss,https://www.immowelt.de/expose/ec045873-817b-4a4b-b59c-3c2b825632ac";4044
+"Limmer, Hannover / Limmer (30453),440.000 € 5.134 €/m²,3 Zimmer,""85,7 m²"",3. Geschoss,https://www.immowelt.de/expose/f13a7f3c-645b-4273-84df-99117c4fc1a3";4044
+"Vahrenwald, Hannover (30165),215.000 € 2.807 €/m²,3 Zimmer,""76,6 m²"",2. Geschoss,https://www.immowelt.de/expose/4dec9d19-4ea3-481a-a7d4-b8e604bc0b82";4044
+"Südstadt, Hannover (30173),286.000 € 4.306 €/m²,2 Zimmer,""66,4 m²"",2. Geschoss,https://www.immowelt.de/expose/2ba86b49-75b9-4f28-ae0a-5467a21a5f47";4044
+Döhren, Hannover (30519),695.000 € 4.238 €/m²,5 Zimmer,164 m²,295 m² Grundstück,https://www.immowelt.de/expose/3757f5c9-5d3c-46bc-9c43-b4611589eb95;4044
+Mühlenberg, Hannover (30457),138.000 € 1.704 €/m²,2 Zimmer,81 m²,2. Geschoss,https://www.immowelt.de/expose/1d39758f-c396-4b91-80b0-a18bc45f0fb1;4044
+Wettbergen, Hannover (30559),733.382 € 5.867 €/m²,5 Zimmer,125 m²,401 m² Grundstück,https://www.immowelt.de/expose/dc75450d-b7bc-4b91-b7c4-ab16589fbbe4;4044
+Wettbergen, Hannover (30559),726.549 € 5.546 €/m²,5 Zimmer,131 m²,401 m² Grundstück,https://www.immowelt.de/expose/4b9ac3ed-d662-4a54-826c-d27efac4ae57;4044
+Wettbergen, Hannover (30559),681.360 € 8.309 €/m²,3 Zimmer,82 m²,401 m² Grundstück,https://www.immowelt.de/expose/163298f0-0b0c-4fb1-8eba-f2803e93a965;4044
+Calenberger Neustadt, Hannover (30169),980.000 € 4.804 €/m²,3 Zimmer,204 m²,4. Geschoss,https://www.immowelt.de/expose/49b0db47-a54a-46d4-bd90-d68261825336;4044
+Lützerodestraße 4, List, Hannover (30161),269.900 € 4.092 €/m²,3 Zimmer,66 m²,4. Geschoss,https://www.immowelt.de/expose/058597f1-d3fc-4996-9c58-5fbcb35f0734;4044
+Misburg-Nord, Hannover (30629),125.000 € 2.404 €/m²,2 Zimmer,52 m²,Unknown,https://www.immowelt.de/expose/0b23216b-7035-4688-80a0-02f6d4635a0f;4044
+Groß-Buchholz, Hannover (30659),637.549 € 4.867 €/m²,5 Zimmer,131 m²,548 m² Grundstück,https://www.immowelt.de/expose/3dfb2c9f-1bce-4211-90e3-e60f859b0b0d;4044
+Groß-Buchholz, Hannover (30659),644.382 € 5.155 €/m²,5 Zimmer,125 m²,548 m² Grundstück,https://www.immowelt.de/expose/a647ad6b-1938-45c7-8c34-6da2066dd5c2;4044
+Groß-Buchholz, Hannover (30659),592.360 € 7.224 €/m²,3 Zimmer,82 m²,548 m² Grundstück,https://www.immowelt.de/expose/15e13240-5eea-474c-9d8c-7cb452e38804;4044
+Ledeburg, Hannover / Burg (30419),245.000 € 2.784 €/m²,3 Zimmer,88 m²,Unknown,https://www.immowelt.de/expose/dc886d89-d4d5-45f1-8a06-0e1558e596f7;4044
+"Mitte, Hannover (30140),673.000 € 2.698 €/m²,6 Zimmer,""249,4 m²"",510 m² Grundstück,https://www.immowelt.de/expose/d1fa8942-9d01-465a-8a93-3893a534f6f4";4044
+"Vahrenheide, Hannover (30057),655.900 € 4.234 €/m²,5 Zimmer,""154,9 m²"",540 m² Grundstück,https://www.immowelt.de/expose/e99c720d-6821-47a5-b1bd-82dc417be38a";4044
+Oststadt, Hannover (30161),3.780.000 € 3.286 €/m²,35 Zimmer,1.160 m²,493 m² Grundstück,https://www.immowelt.de/expose/2e3758c7-1524-4279-9892-4ac693ff2490;4044
+Treptowweg, Sahlkamp, Hannover (30179),575.000 € 3.528 €/m²,8 Zimmer,163 m²,624 m² Grundstück,https://www.immowelt.de/expose/762a928e-7407-48c9-addf-fb747e37267a;4044
+Groß-Buchholz, Hannover (30627),250.000 € 2.976 €/m²,4 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/6d94cc07-378e-4928-b72f-253db49344fc;4044
+Leinhausen, Hannover (30419),380.000 € 3.016 €/m²,4 Zimmer,126 m²,frei ab sofort,https://www.immowelt.de/expose/0679dbcc-3713-466a-a034-95bfbce72e80;4044
+"Lahe, Hannover (30659),194.900 € 2.663 €/m²,2 Zimmer,""73,2 m²"",550 m² Grundstück,https://www.immowelt.de/expose/d11c9c4d-7f68-4388-8fe7-ec13281881c3";4044
+"Wettbergen, Hannover (30457),420.000 € 3.727 €/m²,4 Zimmer,""112,7 m²"",305 m² Grundstück,https://www.immowelt.de/expose/b2883386-f3f5-4064-87ef-031bedc74b83";4044
+Davenstedt, Hannover (30455),Preis auf Anfrage,7 Zimmer,145 m²,340 m² Grundstück,https://www.immowelt.de/expose/284d738d-d0cb-4d32-9bc6-68cbed1de6a4;4044
+List, Hannover (30163),135.000 € 3.857 €/m²,1 Zimmer,35 m²,3. Geschoss,https://www.immowelt.de/expose/c91079ef-a045-42c6-9e8d-a21ab609f127;4044
+"Ahlem, Hannover (30453),207.000 € 2.508 €/m²,4 Zimmer,""82,5 m²"",Unknown,https://www.immowelt.de/expose/a3cc30fe-d358-493f-af74-9a1d2fa70d8b";4044
+"Bothfeld, Hannover / Bothfeld (30659),664.000 € 3.320 €/m²,4 Zimmer,""164,6 m²"",319 m² Grundstück,https://www.immowelt.de/expose/410522b9-c16b-4b3b-86f2-d04e712fcb19";4044
+Mitte, Hannover (30161),849.000 € 5.855 €/m²,5 Zimmer,145 m²,4. Geschoss,https://www.immowelt.de/expose/161b5156-bdc2-4ad5-b10a-b33332e3efa8;4044
+"Rosalind-Franklin-Allee 38, Bemerode, Hannover (30539),548.000 € 5.779 €/m²,3 Zimmer,""94,8 m²"",Unknown,https://www.immowelt.de/projekte/expose/k2hg632";4044
+Wettbergen, Hannover / Wettbergen (30457),178.000 € 2.738 €/m²,2 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/7ce72b12-0eaf-4e86-8aac-3c00756a5f22;4044
+Bothfeld, Hannover (30659),142.500 € 3.314 €/m²,2 Zimmer,43 m²,1. Geschoss,https://www.immowelt.de/expose/dabd6b83-cd20-440c-8f9b-59e078bdef46;4044
+Misburg-Nord, Hannover (30629),530.000 € 3.313 €/m²,6 Zimmer,160 m²,900 m² Grundstück,https://www.immowelt.de/expose/da302ce4-4243-4b33-9c48-2cc18bbccc41;4044
+"Misburg-Nord, Hannover (30629),139.000 € 2.306 €/m²,3 Zimmer,""60,3 m²"",2. Geschoss,https://www.immowelt.de/expose/4537eb65-12a7-49bc-a9ce-b58702f06db7";4044
+Im Dorfe 16 A, Bornum, Hannover (30453),395.000 € 2.565 €/m²,5 Zimmer,154 m²,193 m² Grundstück,https://www.immowelt.de/expose/91fddf78-0f2d-4bd3-ada3-9fb12f17c420;4044
+Sulzbacher Str. 6, Kirchrode, Hannover (30559),468.000 € 3.545 €/m²,4 Zimmer,132 m²,2. Geschoss,https://www.immowelt.de/expose/f76947a0-cf53-4a0b-bcab-43c4f43e9990;4044
+Asplundweg 9, Kirchrode, Hannover (30559),565.000 € 3.285 €/m²,5 Zimmer,172 m²,EG,https://www.immowelt.de/expose/3b6edd96-f23d-4dc0-8416-33c27d7f6d08;4044
+"Knoevenagelweg 3, Hainholz, Hannover (30165),180.000 € 2.060 €/m²,4 Zimmer,""87,4 m²"",EG,https://www.immowelt.de/expose/cc8c0cb7-ed6f-4de2-8c6b-3537212d5313";4044
+"Knoevenagelweg 3, Hainholz, Hannover (30165),145.000 € 1.960 €/m²,2 Zimmer,""73,8 m²"",4. Geschoss,https://www.immowelt.de/expose/b4208c9e-df94-48a3-8d81-ebc615f0b930";4044
+Ostfeldstraße, Kirchrode, Hannover (30559),669.000 € 5.817 €/m²,3 Zimmer,115 m²,400 m² Grundstück,https://www.immowelt.de/expose/393f6223-6885-48d7-923e-d372f84def54;4044
+Misburg-Nord, Hannover (30629),375.000 € 3.125 €/m²,3 Zimmer,120 m²,460 m² Grundstück,https://www.immowelt.de/expose/b93284eb-aa5e-4370-b045-a20c4aec8957;4044
+"List, Hannover (30177),737.500 € 5.156 €/m²,4 Zimmer,""143,1 m²"",Unknown,https://www.immowelt.de/projekte/expose/k2jm832";4044
+"List, Hannover (30177),698.500 € 5.261 €/m²,4 Zimmer,""132,8 m²"",Unknown,https://www.immowelt.de/projekte/expose/k2jm832";4044
+"Bornumer Straße -, Bornum, Hannover / Bornum (30453),453.900 € 3.783 €/m²,""4,5 Zimmer"",120 m²,150 m² Grundstück,https://www.immowelt.de/expose/c14feac8-a95d-486f-949f-0b2db5a0b347";4044
+"Lyraweg 8, Badenstedt, Hannover (30455),140.000 € 2.408 €/m²,""2,5 Zimmer"",""58,1 m²"",2. Geschoss,https://www.immowelt.de/expose/cc0720d8-dec8-48f2-99fc-a4bfab723781";4044
+Schulenburger Landstr. 54, Hainholz, Hannover (30165),190.000 € 2.568 €/m²,3 Zimmer,74 m²,3. Geschoss,https://www.immowelt.de/expose/8168591a-ce66-46af-ac8e-c7d4a358bf07;4044
+"Elbestr. 6, Leinhausen, Hannover (30419),155.000 € 2.960 €/m²,2 Zimmer,""52,4 m²"",2. Geschoss,https://www.immowelt.de/expose/7368b580-d55d-4bef-8c3f-24ea061c8e9c";4044
+"Unknown,Unknown,4 Zimmer,""132,2 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732";4044
+Oststadt, Hannover (30161),4.460.000 € 4.901 €/m²,28 Zimmer,910 m²,800 m² Grundstück,https://www.immowelt.de/expose/2d213c54-cdbf-4a0e-990d-079cc62f9d8d;4044
+List, Hannover (30163),433.000 € 2.812 €/m²,154 m²,Unknown,Unknown,https://www.immowelt.de/expose/4742129d-4afb-42c8-ae8a-ff6b4e7dab90;4044
+Lehrter Str. 16, Anderten, Hannover (30559),233.000 € 2.354 €/m²,4 Zimmer,99 m²,2. Geschoss,https://www.immowelt.de/expose/3daf2b43-e520-4308-a19d-f8714054b55e;4044
+"List, Hannover (30177),371.650 € 4.250 €/m²,3 Zimmer,""87,5 m²"",Unknown,https://www.immowelt.de/expose/4be025a0-6cd0-4ea4-8a18-62693ff566ab";4044
+Nordstadt, Hannover (30167),3.200.000 € 5.818 €/m²,9 Zimmer,550 m²,4.050 m² Grundstück,https://www.immowelt.de/expose/b0cd10ce-fa85-43ec-9852-46b6d0a9f694;4044
+"Anderten, Hannover / Anderten (30559),293.000 € 2.968 €/m²,4 Zimmer,""98,7 m²"",Unknown,https://www.immowelt.de/expose/9540e7bc-a96a-4554-b072-ff9c99253c0f";4044
+Mitte, Hannover (30159),Preis auf Anfrage,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/d6427de6-1506-4da2-93d5-bec78d45c91d;4044
+Linden-Süd, Hannover (30175),Preis auf Anfrage,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/9e2ef714-363e-48da-8bc5-18597580c7b7;4044
+Hainholz, Hannover (30171),Preis auf Anfrage,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/6703ffdd-1b0d-4064-98ff-66f510cd33b9;4044
+Südstadt, Hannover (30173),1.105.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/b2ea75c7-9cdf-4203-99e7-8eeef0e5e92b;4044
+Linden-Nord, Hannover (30163),1.105.000 € 1.995 €/m²,554 m²,391 m² Grundstück,Unknown,https://www.immowelt.de/expose/c8788fca-3982-4696-97c1-06d855435fe3;4044
+Mitte, Hannover (30159),20.000.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/76e4cfc6-18a4-4f62-ab78-a2bf64c699d9;4044
+"Mühlenberg, Hannover (30457),200.000 € 1.302 €/m²,""4,5 Zimmer"",""153,6 m²"",2. Geschoss,https://www.immowelt.de/expose/e153981e-6079-4ee2-9a80-8432c73ef1e4";4044
+"Südstadt, Hannover (30171),380.000 € 3.667 €/m²,3 Zimmer,""103,6 m²"",Unknown,https://www.immowelt.de/expose/eef148ea-6836-45b5-adf0-ac8c3fcfae3c";4044
+List, Hannover (30161),3.400.000 €,750 m² Grundstück,Unknown,Unknown,https://www.immowelt.de/expose/92466425-4413-45ba-a1f2-3cd388c02782;4044
+Anderten, Hannover (30559),165.000 € 2.845 €/m²,2 Zimmer,58 m²,EG,https://www.immowelt.de/expose/7efd2fd9-fd68-48a9-b6e3-e632e3c4565d;4044
+Mitte, Hannover (30169),1.950.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/25bfe0ee-668b-461c-a591-e86b6aa837dc;4044
+Mars-La-Tour-Str. 17, Zoo, Hannover (30175),12.000.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/37f72982-b9af-47c0-b3fe-100ff139f20c;4044
+Bult, Hannover (30173),895.000 € 6.885 €/m²,4 Zimmer,130 m²,Unknown,https://www.immowelt.de/expose/f78aa567-4f86-4ba3-9a36-b05d729b191b;4044
+"Wunstorfer Landstr.3, Ahlem, Hannover (30453),75.000 € 2.986 €/m²,1 Zimmer,""25,1 m²"",2. Geschoss,https://www.immowelt.de/expose/18911745-35e8-47dd-98ca-ce4129b0cfab";4044
+Hainholz, Hannover (30165),1.850.000 € 2.284 €/m²,810 m²,Unknown,Unknown,https://www.immowelt.de/expose/c1410df4-17d5-47e6-8498-8d8ee68df8e8;4044
+Hainholz, Hannover (30165),1.850.000 € 2.284 €/m²,810 m²,Unknown,Unknown,https://www.immowelt.de/expose/81738db9-d287-4e99-b481-fb2f988ab543;4044
+"Hildesheimer Straße 432, Wülfel, Hannover (30519),721.728 € 5.600 €/m²,4 Zimmer,""128,9 m²"",4. Geschoss,https://www.immowelt.de/expose/24b7cbf9-c5fb-49ae-8936-8445ba9404fe";4044
+"Unknown,Unknown,4 Zimmer,""120,7 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732";4044
+"Unknown,Unknown,3 Zimmer,""103,4 m²"",EG,https://www.immowelt.de/projekte/expose/k2jt732";4044
+"Hildesheimer Straße 432, Wülfel, Hannover (30519),539.280 € 5.600 €/m²,3 Zimmer,""96,3 m²"",EG,https://www.immowelt.de/expose/90cfe017-8641-47c0-91a9-4776005b2d9d";4044
+"Unknown,Unknown,3 Zimmer,""88,9 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732";4044
+"Hildesheimer Straße 432, Wülfel, Hannover (30519),497.672 € 5.600 €/m²,3 Zimmer,""88,9 m²"",1. Geschoss,https://www.immowelt.de/expose/2a6edbb7-b36d-452d-a186-62676be1680f";4044
+"Unknown,Unknown,3 Zimmer,""81,2 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732";4044
+"Unknown,Unknown,3 Zimmer,""81,2 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732";4044
+"Hildesheimer Straße 432, Wülfel, Hannover (30519),434.112 € 5.600 €/m²,3 Zimmer,""77,5 m²"",1. Geschoss,https://www.immowelt.de/expose/cac4bb2c-b862-4cef-9751-20c278e24df9";4044
+"Hildesheimer Straße 432, Wülfel, Hannover (30519),416.976 € 5.600 €/m²,2 Zimmer,""74,5 m²"",EG,https://www.immowelt.de/expose/0e31cfa4-0827-4c19-9151-60b5c6feb923";4044
+Bult, Hannover (30173),725.000 € 5.620 €/m²,3 Zimmer,129 m²,2. Geschoss,https://www.immowelt.de/expose/b314b1fa-dc82-486a-bd80-6ba2827a3083;4044
+Zoo, Hannover (30175),650.000 € 3.824 €/m²,4 Zimmer,170 m²,3. Geschoss,https://www.immowelt.de/expose/4b40c459-9b95-4f43-9bd2-79be604af19d;4044
+"Unknown,Unknown,4 Zimmer,""115,9 m²"",4. Geschoss,https://www.immowelt.de/projekte/expose/k2jt732";4044
+Vahrenwald, Hannover (30165),1.850.000 € 2.166 €/m²,854 m²,863 m² Grundstück,Unknown,https://www.immowelt.de/expose/0f70d98e-e9f0-4c3a-91b6-31dffef14efd;4044
+Mitte, Hannover (30159),Preis auf Anfrage,500 m²,Unknown,Unknown,https://www.immowelt.de/expose/08ed59d7-d3b5-43dc-9682-5fc5aa7eebe6;4044
+Badenstedt, Hannover (30455),1.650.000 € 3.395 €/m²,486 m²,520 m² Grundstück,Unknown,https://www.immowelt.de/expose/88325f32-d493-48b5-96ef-50a5d2e9d087;4044
+Kirchrode, Hannover (30559),545.000 € 5.450 €/m²,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/acdcd236-a399-4724-aee2-486ec2f33945;4044
+Herrenhausen, Hannover (30419),5.000.000 € 7.692 €/m²,650 m²,3.500 m² Grundstück,Unknown,https://www.immowelt.de/expose/41502628-72ab-4f78-9035-d49f5c97ac24;4044
+-, Waldhausen, Hannover (30519),1.299.000 € 8.119 €/m²,6 Zimmer,160 m²,230 m² Grundstück,https://www.immowelt.de/expose/76fe9d43-08be-450c-8021-f59eeb0b1138;4044
+Wettbergen, Hannover (30457),439.000 € 3.430 €/m²,5 Zimmer,128 m²,196 m² Grundstück,https://www.immowelt.de/expose/e97ec1b5-fa6f-4a7a-bf9b-b8e8556fa242;4044
+"Misburg-Süd, Hannover (30629),215.000 € 2.849 €/m²,4 Zimmer,""75,5 m²"",2. Geschoss,https://www.immowelt.de/expose/e6384b4d-1b1b-46d3-9ce0-a9411809d1cb";4044
+Kirchrode, Hannover-Kirchrode (30559),220.000 € 2.588 €/m²,3 Zimmer,85 m²,205 m² Grundstück,https://www.immowelt.de/expose/39b356b7-1f34-4766-914b-a2e8b9462ba3;4044
+List, Hannover (30161),330.000 € 3.511 €/m²,3 Zimmer,94 m²,4. Geschoss,https://www.immowelt.de/expose/f7bbe850-f4c0-47f9-b3c0-5890cf354b61;4044
+Bothfeld, Hannover (30659),225.000 € 2.961 €/m²,3 Zimmer,76 m²,2. Geschoss,https://www.immowelt.de/expose/d975d391-c340-42f0-a531-8a4374e5ac00;4044
+Kleefeld, Hannover (30625),138.000 € 2.706 €/m²,2 Zimmer,51 m²,2. Geschoss,https://www.immowelt.de/expose/2c1a1758-1d9a-41bc-9920-99e24dd2e5c2;4044
+Hinrichsring 15A, List, Hannover (30177),349.000 € 2.837 €/m²,4 Zimmer,123 m²,Unknown,https://www.immowelt.de/expose/28130efc-cd82-4203-af45-2454c1527b0f;4044
+"Anderten, Hannover (30559),150.000 € 2.447 €/m²,2 Zimmer,""61,4 m²"",1. Geschoss,https://www.immowelt.de/expose/ded4bcec-10aa-43d1-9371-7f43551bdbaf";4044
+"Linden-Nord, Hannover (30451),95.000 € 2.963 €/m²,1 Zimmer,""32,1 m²"",Unknown,https://www.immowelt.de/expose/7001a814-601b-4bd8-91bb-4529b087264b";4044
+"Davenstedt, Hannover (30455),279.000 € 2.573 €/m²,3 Zimmer,""108,4 m²"",Unknown,https://www.immowelt.de/expose/a19c9850-ad0b-4add-8278-e90feab76c46";4044
+Kirchrode, Hannover (30559),249.000 € 2.767 €/m²,3 Zimmer,90 m²,1. Geschoss,https://www.immowelt.de/expose/f2f89c98-24c8-4059-a55c-20ff22f34fcf;4044
+"Herrenhausen, Hannover (30419),350.000 € 3.712 €/m²,3 Zimmer,""94,3 m²"",197 m² Grundstück,https://www.immowelt.de/expose/8fedfef9-0305-4dad-91be-0961ef2a7a91";4044
+Oberricklingen, Hannover (30459),289.000 € 3.400 €/m²,3 Zimmer,85 m²,1. Geschoss,https://www.immowelt.de/expose/bd926651-8a6a-4eae-9d83-4e8840599fe7;4044
+Marienwerder, Hannover (30419),375.000 € 3.151 €/m²,6 Zimmer,119 m²,531 m² Grundstück,https://www.immowelt.de/expose/aeca0fa8-bf92-46c9-a45c-b5b77f6b923c;4044
+"Davenstedt, Hannover (30455),120.000 € 2.546 €/m²,1 Zimmer,""47,4 m²"",5. Geschoss,https://www.immowelt.de/expose/8b0a8e57-c647-43c2-80cf-280dff069cab";4044
+Ada-Lessing-Straße, Bothfeld, Hannover (30657),555.750 € 3.348 €/m²,5 Zimmer,166 m²,652 m² Grundstück,https://www.immowelt.de/expose/d44eb7dc-041e-4c20-b70e-55999114b0bc;4044
+List, Hannover (30163),565.000 € 5.594 €/m²,2 Zimmer,101 m²,4. Geschoss,https://www.immowelt.de/expose/5b4a0b08-1d94-4c0f-95dc-2d7f8ed7bfb8;4044
+List, Hannover (30163),775.000 € 5.657 €/m²,3 Zimmer,137 m²,4. Geschoss,https://www.immowelt.de/expose/53fccf8d-1e63-41d3-abdb-fa8261f11565;4044
+Am Uhrturm, Döhren, Hannover (30519),259.000 € 3.597 €/m²,2 Zimmer,72 m²,3. Geschoss,https://www.immowelt.de/expose/66c43eee-8cda-4bd5-8bf7-7f7173e919d6;4044
+Bothfeld, Hannover (30659),549.000 € 4.816 €/m²,4 Zimmer,114 m²,Unknown,https://www.immowelt.de/expose/29b0dd48-6ac7-4149-b56c-633bf7aace1a;4044
+Am Dornbusch 1, Ahlem, Hannover (30453),79.000 € 3.292 €/m²,1 Zimmer,24 m²,1. Geschoss,https://www.immowelt.de/expose/95e20534-00d3-429d-90bf-d4269dc134cc;4044
+List, Hannover (30163),349.000 € 3.921 €/m²,4 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/ba736c09-3e8b-4633-a451-d5ef0563f030;4044
+List, Hannover (30177),1.999.999 € 5.848 €/m²,5 Zimmer,342 m²,690 m² Grundstück,https://www.immowelt.de/expose/688fbcda-4e65-4821-aa53-18b6f0d880ed;4044
+Alte Gehägestraße 6b, Misburg-Nord, Hannover (30627),699.000 € 2.913 €/m²,8 Zimmer,240 m²,540 m² Grundstück,https://www.immowelt.de/expose/62eaa370-e804-4b56-8259-c36316893f53;4044
+Alte Gehägestraße 6b, Misburg-Nord, Hannover (30627),649.000 € 5.408 €/m²,4 Zimmer,120 m²,245 m² Grundstück,https://www.immowelt.de/expose/213e3b52-d86d-4f18-b8db-14adf21d0200;4044
+"Wettbergen, Hannover (30457),539.000 € 5.166 €/m²,4 Zimmer,""104,3 m²"",2. Geschoss,https://www.immowelt.de/expose/a5680505-6695-48de-9cce-e054d467132e";4044
+Ledeburg, Hannover (30419),259.000 € 3.047 €/m²,3 Zimmer,85 m²,3. Geschoss,https://www.immowelt.de/expose/ad0cd538-6f00-4e2c-bd44-c08f2358ee9c;4044
+Linden-Süd, Hannover (30449),240.000 € 2.759 €/m²,3 Zimmer,87 m²,4. Geschoss,https://www.immowelt.de/expose/fc21d312-020f-4668-9ee0-5cb584298297;4044
+Hartenbrakenstrasse 28, Bothfeld, Hannover (30659),699.000 € 4.481 €/m²,6 Zimmer,156 m²,200 m² Grundstück,https://www.immowelt.de/expose/a8511ec8-9c59-42b9-b195-c7f146ae08cf;4044
+Veilchenstrasse 1, Mitte, Hannover (30175),311.000 € 2.704 €/m²,4 Zimmer,115 m²,4. Geschoss,https://www.immowelt.de/expose/e0f4ccac-8cda-4c6a-9ebe-7e99eab9197e;4044
+Isernhagen-Süd, Isernhagen-Süd (30657),700.000 € 5.000 €/m²,4 Zimmer,140 m²,223 m² Grundstück,https://www.immowelt.de/expose/ca57103d-fe4d-40a0-bab2-cfc6ce8b78e3;4044
+"Vahrenwald, Hannover (30165),549.000 € 3.464 €/m²,4 Zimmer,""158,5 m²"",189 m² Grundstück,https://www.immowelt.de/expose/4676b479-a5bb-48c7-a554-de62ab2a323b";4044
+"Wettbergen, Hannover (30457),459.000 € 5.221 €/m²,3 Zimmer,""87,9 m²"",3. Geschoss,https://www.immowelt.de/expose/b6668104-32bd-41fb-8e1c-968a9ca16f6f";4044
+"Misburg-Nord, Hannover (30627),199.000 € 2.237 €/m²,3 Zimmer,""88,9 m²"",Unknown,https://www.immowelt.de/expose/5d21d28f-d383-4eef-b353-4044744026b0";4044
+Misburg-Nord, Hannover (30627),179.000 € 3.255 €/m²,2 Zimmer,55 m²,4. Geschoss,https://www.immowelt.de/expose/a2780a2d-b7cf-4030-8f5d-39b957e639af;4044
+Stöcken, Hannover (30419),2.300.000 € 11.500 €/m²,20 Zimmer,200 m²,1.900 m² Grundstück,https://www.immowelt.de/expose/ddf5e805-55a2-4cf7-99f6-aab27d759d68;4044
+"Lahe, Hannover / Lahe (30659),390.000 € 4.254 €/m²,4 Zimmer,""91,7 m²"",118 m² Grundstück,https://www.immowelt.de/expose/897ab409-c499-43fe-ba13-623fdaaf166d";4044
+Mitte, Hannover (30175),4.990.000 € 2.772 €/m²,1.800 m²,661 m² Grundstück,Unknown,https://www.immowelt.de/expose/84a80066-f3d0-40bf-a58a-1bb243bc2c2b;4044
+Wettbergen, Hannover (30457),172.500 € 2.184 €/m²,3 Zimmer,79 m²,2. Geschoss,https://www.immowelt.de/expose/d243e104-dbf8-4336-bc0c-965037aeebe5;4044
+Oststadt, Hannover (30161),1.999.999 € 8.000 €/m²,10 Zimmer,250 m²,800 m² Grundstück,https://www.immowelt.de/expose/a3b92e66-fc95-4049-8e10-075e4eff4778;4044
+Misburg-Nord, Hannover (30627),189.000 € 3.436 €/m²,2 Zimmer,55 m²,4. Geschoss,https://www.immowelt.de/expose/389ec99e-fa8b-434e-aef2-087270458c4b;4044
+Südstadt, Hannover / Südstadt (30173),435.000 € 3.955 €/m²,3 Zimmer,110 m²,2. Geschoss,https://www.immowelt.de/expose/dcf2907c-3e5b-4c15-99a5-0be656ed06e5;4044
+Vahrenwald, Hannover (30165),349.000 € 4.106 €/m²,3 Zimmer,85 m²,1. Geschoss,https://www.immowelt.de/expose/ec77c1d3-fbf7-4123-948c-65cbc921d44b;4044
+Bemerode, Hannover (30539),279.000 € 3.720 €/m²,3 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/b7e48278-80ed-4a3c-950f-8a5b73b4fb9e;4044
+Davenstedt, Hannover (30455),212.000 € 2.986 €/m²,3 Zimmer,71 m²,3. Geschoss,https://www.immowelt.de/expose/5e9abf32-6743-4d60-885a-4f066d7b30e1;4044
+Misburg-Süd, Hannover (30559),495.000 € 4.670 €/m²,4 Zimmer,106 m²,386 m² Grundstück,https://www.immowelt.de/expose/9dd7707a-3fc6-4db9-a3c9-b22c45dd9181;4044
+Anderten, Hannover / Anderten (30559),449.000 € 2.566 €/m²,4 Zimmer,175 m²,1. Geschoss,https://www.immowelt.de/expose/b3358f51-6e99-477e-b7ae-9172da5bfb85;4044
+Misburg-Nord, Hannover (30629),128.000 € 2.065 €/m²,2 Zimmer,62 m²,frei ab sofort,https://www.immowelt.de/expose/6f642855-6ee3-471d-a326-1b1a13add187;4044
+Ricklingen, Hannover-Ricklingen (30453),130.000 € 2.031 €/m²,3 Zimmer,64 m²,3. Geschoss,https://www.immowelt.de/expose/84c3ef4f-aded-41ab-8d49-6c3c629efb59;4044
+"Raffaelstraße 6, List, Hannover (30177),369.500 €,3 Zimmer,""94,5 m²"",Unknown,https://www.immowelt.de/expose/56cfd2b7-63ba-4b17-a94d-41381a2a9fbd";4044
+Ledeburg, Hannover Herrenhausen (30419),199.000 € 2.970 €/m²,3 Zimmer,67 m²,2. Geschoss,https://www.immowelt.de/expose/f9437cb3-ad46-4375-80fa-892040d45fa5;4044
+Vahrenwald, Hannover (30163),255.000 € 3.400 €/m²,3 Zimmer,75 m²,EG,https://www.immowelt.de/expose/52ebcf94-d5f4-4026-8e92-7136dceeac96;4044
+Linden-Süd, Hannover (30449),310.000 € 3.690 €/m²,3 Zimmer,84 m²,1. Geschoss,https://www.immowelt.de/expose/575f5641-51fc-481f-9cde-f0b85c58d5b5;4044
+Linden-Mitte, Hannover (30449),259.500 € 2.544 €/m²,4 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/ca4f8819-d507-4921-8106-9090bcc33356;4044
+Marienwerder, Hannover (30419),99.000 € 2.750 €/m²,1 Zimmer,36 m²,2. Geschoss,https://www.immowelt.de/expose/ae8bf3e1-55b6-44e1-a381-d24e2a9fa671;4044
+Isernhagen-Süd, Isernhagen-Süd (30657),1.600.000 € 6.061 €/m²,5 Zimmer,264 m²,1.913 m² Grundstück,https://www.immowelt.de/expose/d7e95c9d-c9fd-404e-9ab0-5bb763fb8abf;4044
+Sahlkamp, Hannover (30179),734.909 € 7.349 €/m²,3 Zimmer,100 m²,795 m² Grundstück,https://www.immowelt.de/expose/2762d6e5-c623-449d-9f53-d4458b017839;4044
+Groß-Buchholz, Hannover (30655),198.000 € 2.955 €/m²,3 Zimmer,67 m²,3. Geschoss,https://www.immowelt.de/expose/5d717266-91c9-4f83-aadc-373e8c0dc3f4;4044
+Hinrichsring 15, List, Hannover (30177),205.000 € 2.563 €/m²,3 Zimmer,80 m²,1. Geschoss,https://www.immowelt.de/expose/f4032ad0-af80-46bb-a662-336e9b342181;4044
+Misburg-Nord, Hannover (30629),290.000 € 2.900 €/m²,3 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/2ac03a6d-1364-41da-82d2-d315e7991881;4044
+Herrenhausen, Hannover (31535),79.000 € 2.194 €/m²,1 Zimmer,36 m²,2. Geschoss,https://www.immowelt.de/expose/9563139f-cb38-4768-a381-58faca77f06a;4044
+"Misburg-Nord, Hannover (30627),105.000 € 2.100 €/m²,2 Zimmer,""50,1 m²"",5. Geschoss,https://www.immowelt.de/expose/0ae34e24-6d39-45c6-87ff-22ec3cc536e3";4044
+List, Hannover (30161),287.000 € 4.159 €/m²,2 Zimmer,69 m²,2. Geschoss,https://www.immowelt.de/expose/7ddd8d41-c04d-42d9-a34b-228f7ef03015;4044
+Südstadt, Hannover (30173),379.000 € 4.211 €/m²,3 Zimmer,90 m²,2. Geschoss,https://www.immowelt.de/expose/6d6d6782-3585-460b-b0dc-57115fdb3ff5;4044
+List, Hannover-List (30163),440.000 € 4.000 €/m²,5 Zimmer,110 m²,Unknown,https://www.immowelt.de/expose/707e1a83-b791-4212-9308-5b2d60f72de1;4044
+Misburg-Nord, Hannover (30627),160.000 € 3.265 €/m²,2 Zimmer,49 m²,6. Geschoss,https://www.immowelt.de/expose/668e4394-bae3-40c2-9945-827aa98d292c;4044
+Sahlkamp, Hannover (30179),794.453 € 5.126 €/m²,5 Zimmer,155 m²,795 m² Grundstück,https://www.immowelt.de/expose/8df4b046-214e-4ec5-b500-06dcb68b43b0;4044
+Kirchrode, Hannover (30559),169.000 € 1.536 €/m²,5 Zimmer,110 m²,736 m² Grundstück,https://www.immowelt.de/expose/ad1be20b-68a4-4d81-b1e2-1d6c248afd9f;4044
+Wülfel, Hannover (30519),229.000 € 3.181 €/m²,3 Zimmer,72 m²,2. Geschoss,https://www.immowelt.de/expose/137257bc-729f-440d-b66a-d06aed0ddfa5;4044
+"Anderten, Hannover (30559),129.000 € 1.991 €/m²,2 Zimmer,""64,8 m²"",2. Geschoss,https://www.immowelt.de/expose/68bd5126-a314-4955-a0b9-5729b8863b87";4044
+"List, Hannover (30163),299.000 € 3.721 €/m²,3 Zimmer,""80,5 m²"",4. Geschoss,https://www.immowelt.de/expose/bdb78ccd-e718-4671-b8f3-704e8bde7d48";4044
+Sahlkamp, Hannover (30179),751.967 € 5.259 €/m²,5 Zimmer,143 m²,795 m² Grundstück,https://www.immowelt.de/expose/7dd724e8-e380-40c7-85e8-b1d00e6a5043;4044
+Sahlkamp, Hannover (30179),734.363 € 5.440 €/m²,4 Zimmer,135 m²,795 m² Grundstück,https://www.immowelt.de/expose/b80159ed-0a12-436c-a93a-9c8c53931bd9;4044
+Sahlkamp, Hannover (30179),743.938 € 5.511 €/m²,4 Zimmer,135 m²,795 m² Grundstück,https://www.immowelt.de/expose/c072b8d6-ed5b-490c-942f-8e5a365acfcf;4044
+"Nordstadt, Hannover (30167),265.000 € 4.953 €/m²,2 Zimmer,""53,5 m²"",2. Geschoss,https://www.immowelt.de/expose/3f3ef3c9-2b11-40b2-8496-1011dc6923f4";4044
+Bemerode, Hannover (30539),159.000 € 2.484 €/m²,2 Zimmer,64 m²,6. Geschoss,https://www.immowelt.de/expose/49083fdc-d979-45c0-8e9f-437a2d122fa2;4044
+Pasemannweg 14, Bothfeld, Hannover (30659),289.000 € 3.042 €/m²,3 Zimmer,95 m²,frei ab sofort,https://www.immowelt.de/expose/eccdf417-afeb-4875-a523-89824e588496;4044
+Misburg-Süd, Hannover (30559),185.000 € 2.606 €/m²,2 Zimmer,71 m²,2. Geschoss,https://www.immowelt.de/expose/97ffd65f-d326-40f8-8771-de9e476e059e;4044
+Davenstedt, Hannover (30455),155.000 € 2.452 €/m²,2 Zimmer,62 m²,4. Geschoss,https://www.immowelt.de/expose/e5b24cf7-68c6-4894-bc28-8759550bffe6;4044
+Vahrenheide, Hannover (30179),149.000 € 1.774 €/m²,3 Zimmer,84 m²,12. Geschoss,https://www.immowelt.de/expose/3f46ba9f-61f3-408f-adfc-db1d86a44340;4044
+Wettbergen, Hannover (30457),250.000 € 3.425 €/m²,3 Zimmer,73 m²,5. Geschoss,https://www.immowelt.de/expose/2ff09a2f-8860-47c8-a783-dcaf456aeb2a;4044
+Marienwerder, Hannover (30419),195.000 € 2.826 €/m²,3 Zimmer,69 m²,3. Geschoss,https://www.immowelt.de/expose/45475e1b-9cde-4a2f-b369-77007428ce15;4044
+"Misburg-Nord, Hannover (30627),746.000 € 6.016 €/m²,6 Zimmer,""124,2 m²"",""1.247,2 m² Grundstück"",https://www.immowelt.de/expose/085e2e87-d97b-4f45-8a38-719a8095fa65";4044
+Bothfeld, Hannover (30659),295.000 € 3.688 €/m²,3 Zimmer,80 m²,EG,https://www.immowelt.de/expose/f6ef7635-49d0-430b-a265-404d69bd908d;4044
+List, Hannover (30163),420.000 € 3.584 €/m²,4 Zimmer,113 m²,2. Geschoss,https://www.immowelt.de/expose/43372e95-c36d-4cb6-83cc-2eec6ef50899;4044
+Bothfeld, Hannover (30659),310.000 € 3.780 €/m²,3 Zimmer,82 m²,Unknown,https://www.immowelt.de/expose/7e2d6a0f-2819-4f55-abc8-4a061c50fff1;4044
+Badenstedt, Hannover (30455),249.000 € 1.992 €/m²,7 Zimmer,125 m²,351 m² Grundstück,https://www.immowelt.de/expose/19dc52ee-3d41-4e6a-929b-4888004cb9b4;4044
+Bothfeld, Hannover / Bothfeld (30659),315.000 € 2.500 €/m²,3 Zimmer,126 m²,740 m² Grundstück,https://www.immowelt.de/expose/c0443256-98e7-4b37-93bb-734578fccb7b;4044
+Seelhorst, Hannover (30519),199.000 € 3.827 €/m²,2 Zimmer,52 m²,Unknown,https://www.immowelt.de/expose/ee005242-9f7c-43ee-beef-12bb63dc4265;4044
+"Groß-Buchholz, Hannover (30655),890.000 € 4.450 €/m²,""3,5 Zimmer"",200 m²,EG,https://www.immowelt.de/expose/9c4f76a7-a13e-49ff-a365-0453138914f1";4044
+Vahrenwald, Hannover (30165),198.000 € 3.300 €/m²,2 Zimmer,60 m²,2. Geschoss,https://www.immowelt.de/expose/bdaf196c-d155-4e7c-ac79-72333173e206;4044
+Ledeburg, Hannover (30419),409.000 € 2.176 €/m²,7 Zimmer,188 m²,994 m² Grundstück,https://www.immowelt.de/expose/d125fbfc-3000-41fe-82aa-9fd49b7037e1;4044
+List, Hannover (30163),339.000 € 3.809 €/m²,4 Zimmer,89 m²,3. Geschoss,https://www.immowelt.de/expose/2f38e573-b753-4c7f-891a-b3c138e15a80;4044
+Waldhausen, Hannover (30519),600.000 € 4.688 €/m²,4 Zimmer,128 m²,1. Geschoss,https://www.immowelt.de/expose/1624d44c-f0ae-4c62-b1cb-24415fa598da;4044
+Döhren, Hannover (30519),299.000 € 3.738 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/77559deb-48fa-4e45-9e86-cdd20dbe49a9;4044
+Kirchrode, Hannover / Kirchrode (30559),987.000 € 5.364 €/m²,6 Zimmer,184 m²,4. Geschoss,https://www.immowelt.de/expose/481896f3-ef4a-41d4-b668-779922c8af5a;4044
+"Mühlenberg, Hannover (30457),111.000 € 2.242 €/m²,1 Zimmer,""49,5 m²"",6. Geschoss,https://www.immowelt.de/expose/300bcced-745a-4edd-818b-fa3193a10414";4044
+List, Hannover (30163),230.000 € 4.792 €/m²,2 Zimmer,48 m²,Unknown,https://www.immowelt.de/expose/b60492c3-c960-49e8-8485-67d8cd879e82;4044
+Hainholz, Hannover (30165),198.000 € 2.538 €/m²,3 Zimmer,78 m²,2. Geschoss,https://www.immowelt.de/expose/ae374c76-dd53-4665-b40f-905d8d6f9ece;4044
+Seelhorst, Hannover / Seelhorst (30519),199.000 € 4.738 €/m²,3 Zimmer,42 m²,200 m² Grundstück,https://www.immowelt.de/expose/7b6cc112-2ea0-41cc-9ebf-6937ee22be3c;4044
+Anderten, Hannover (30559),499.000 € 3.465 €/m²,5 Zimmer,144 m²,418 m² Grundstück,https://www.immowelt.de/expose/0eaa31ec-ce71-4ba7-9d09-db5ac5193fa5;4044
+List, Hannover (30177),595.000 € 4.440 €/m²,4 Zimmer,134 m²,frei ab 01.06.2025,https://www.immowelt.de/expose/6fe08556-b793-4729-96e1-3e96ae9dc937;4044
+Badenstedt, Hannover-Badenstedt (30455),220.000 € 2.157 €/m²,3 Zimmer,102 m²,3. Geschoss,https://www.immowelt.de/expose/24ac2618-9551-4173-a663-a3b1afbb59be;4044
+Mittelfeld, Hannover / Mittelfeld (30519),400.000 € 2.740 €/m²,7 Zimmer,146 m²,401 m² Grundstück,https://www.immowelt.de/expose/c58643b0-bc48-45bd-bd80-80d84ab33c3b;4044
+Groß-Buchholz, Hannover (30655),989.000 € 3.308 €/m²,7 Zimmer,299 m²,Unknown,https://www.immowelt.de/expose/43a46e47-9c1e-4c53-8696-811d34c4e749;4044
+"Vahrenheide, Hannover (30179),358.000 € 3.374 €/m²,4 Zimmer,""106,1 m²"",458 m² Grundstück,https://www.immowelt.de/expose/72d2b14a-5e6b-40e2-a167-c5f3bf7d314b";4044
+Leinhausen, Hannover (30419),349.000 € 2.792 €/m²,5 Zimmer,125 m²,255 m² Grundstück,https://www.immowelt.de/expose/2e612572-18dc-4bae-892c-d77dc291ef3f;4044
+Groß-Buchholz, Hannover (30655),199.000 € 2.457 €/m²,3 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/514a85ef-63b2-4621-b84a-d6ea0f1e3997;4044
+"Bemerode, Hannover (30539),415.000 € 3.320 €/m²,""6,5 Zimmer"",125 m²,194 m² Grundstück,https://www.immowelt.de/expose/fb4db18c-969e-4c01-8f0a-e15d6c8578d1";4044
+"Isernhagen-Süd, Hannover (30657),575.000 € 3.532 €/m²,6 Zimmer,""162,8 m²"",737 m² Grundstück,https://www.immowelt.de/expose/78a36813-8e58-445b-9050-76abfc30a152";4044
+Davenstedt, Hannover (30455),305.000 € 1.968 €/m²,4 Zimmer,155 m²,Unknown,https://www.immowelt.de/expose/325550a8-3d89-411a-a0b0-d6701ccb6728;4044
+Davenstedt, Hannover (30455),305.000 € 1.968 €/m²,4 Zimmer,155 m²,99 m² Grundstück,https://www.immowelt.de/expose/30cdea47-d1b6-476b-b01a-2fffaee57c5a;4044
+Theodor-Theuss-Ring 34, Heideviertel, Hannover (30627),179.000 € 3.255 €/m²,2 Zimmer,55 m²,4. Geschoss,https://www.immowelt.de/expose/153aa91c-5a7a-4e41-8509-4470749abcb9;4044
+Davenstedt, Hannover (30455),384.999 € 2.962 €/m²,5 Zimmer,130 m²,152 m² Grundstück,https://www.immowelt.de/expose/44afc6e3-10b8-49fb-b565-040e6b66eacd;4044
+Groß-Buchholz, Hannover (30655),155.000 € 2.385 €/m²,3 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/cb557e80-80b1-4364-bc7e-26a57b3c3d5b;4044
+"Nordstadt, Hannover (30167),1.298.000 € 2.150 €/m²,22 Zimmer,""603,8 m²"",381 m² Grundstück,https://www.immowelt.de/expose/a6b8b6d5-fef9-4f28-a8f2-86b7f6c0cd1b";4044
+Seelhorst, Hannover (30519),325.000 € 2.754 €/m²,5 Zimmer,118 m²,266 m² Grundstück,https://www.immowelt.de/expose/a2e49276-4205-459c-a3e7-a7bc7ccdd4c3;4044
+"List, Hannover (30655),115.000 € 2.544 €/m²,2 Zimmer,""45,2 m²"",2. Geschoss,https://www.immowelt.de/expose/02a79aec-816a-466c-bb35-0be0047dc357";4044
+Sahlkamp, Hannover (30179),695.000 € 5.792 €/m²,4 Zimmer,120 m²,474 m² Grundstück,https://www.immowelt.de/expose/4edb57be-b073-42b1-91f5-bca2b249c5d6;4044
+Kirchrode, Hannover (30559),895.120 € 5.812 €/m²,4 Zimmer,154 m²,550 m² Grundstück,https://www.immowelt.de/expose/ae2be318-0b0a-4fa6-9f09-bc2d7b62ac03;4044
+Sahlkamp, Hannover (30179),299.000 € 2.718 €/m²,4 Zimmer,110 m²,380 m² Grundstück,https://www.immowelt.de/expose/04a7af94-8ae9-4aa7-8182-37fbd218274f;4044
+Süntelstraße 17, Stöcken, Hannover (30419),180.000 € 2.537 €/m²,3 Zimmer,71 m²,1. Geschoss,https://www.immowelt.de/expose/cdbb8299-d497-40dd-b3fa-a17de1de6c26;4044
+Südstadt, Hannover / Südstadt (30173),Preis auf Anfrage,3 Zimmer,185 m²,4. Geschoss,https://www.immowelt.de/expose/642c7704-2f77-4eeb-a726-c271f19e5910;4044
+Bothfeld, Hannover (30659),589.000 € 3.704 €/m²,5 Zimmer,159 m²,349 m² Grundstück,https://www.immowelt.de/expose/a2880d08-bb88-44d3-a8a4-a40395a0785f;4044
+Wettbergen, Hannover (30457),135.000 € 2.368 €/m²,2 Zimmer,57 m²,4. Geschoss,https://www.immowelt.de/expose/44246854-8d46-4660-9cf1-d996acd797d6;4044
+Kirchrode, Hannover-Kirchrode (30559),660.000 € 4.286 €/m²,4 Zimmer,154 m²,2. Geschoss,https://www.immowelt.de/expose/eec9e018-f94c-4a41-9ee3-96e009d3d310;4044
+"Vahrenwald, Hannover (30165),295.000 € 2.218 €/m²,""5,5 Zimmer"",133 m²,5. Geschoss,https://www.immowelt.de/expose/b46da8e7-2d4d-416c-a10f-691c84236f07";4044
+List, Hannover (30163),173.000 € 1.880 €/m²,4 Zimmer,92 m²,Unknown,https://www.immowelt.de/expose/56018648-a30e-49ec-a55a-2e823f24013b;4044
+"Mitte, Hannover (30453),1.120.800 € 4.493 €/m²,6 Zimmer,""249,4 m²"",628 m² Grundstück,https://www.immowelt.de/expose/7de18005-1e45-4c74-bd03-7f647f07e905";4044
+Linden-Süd, Ricklingen (30457),1.987.000 € 7.948 €/m²,3 Zimmer,250 m²,1.285 m² Grundstück,https://www.immowelt.de/expose/59c282ea-c1c3-4a64-ac6d-3a76caf3b787;4044
+Mitte, Hannover (30163),598.400 € 3.439 €/m²,7 Zimmer,174 m²,480 m² Grundstück,https://www.immowelt.de/expose/a2957428-aff1-4dcd-aaaf-866a30f30147;4044
+"Altgarbsen - Nord, Hannover (30171),558.000 € 3.236 €/m²,4 Zimmer,""172,5 m²"",582 m² Grundstück,https://www.immowelt.de/expose/9de51630-a3ae-431d-a4e2-658ae5d09860";4044
+Misburg-Nord, Hannover (30629),299.000 € 1.993 €/m²,5 Zimmer,150 m²,309 m² Grundstück,https://www.immowelt.de/expose/d32691d9-5ae1-46bd-855e-afcc41b3de69;4044
+Anecampstraße 6, Bemerode, Hannover (30539),185.000 € 2.534 €/m²,3 Zimmer,73 m²,1. Geschoss,https://www.immowelt.de/expose/fd31d9b1-c508-43bb-b563-94425db1e879;4044
+Mittelfeld, Hannover (30519),190.000 € 2.159 €/m²,4 Zimmer,88 m²,EG,https://www.immowelt.de/expose/9b441c2b-614f-4b44-9bb7-2bdbe636fbdf;4044
+Bothfeld, Hannover (30659),395.000 € 3.264 €/m²,5 Zimmer,121 m²,1. Geschoss,https://www.immowelt.de/expose/24748ebf-ca61-4c81-b3cb-dc37abfb67e3;4044
+"Oststadt, Hannover (30161),3.780.000 € 3.286 €/m²,35 Zimmer,""1.150,5 m²"",493 m² Grundstück,https://www.immowelt.de/expose/6c3c10cd-3bce-4a6d-8233-bf10f26e2a51";4044
+List, Hannover (30163),173.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/f639c37f-d799-4ae7-82e3-8c94d38a9eff;4044
+Leinhausen, Hannover (30419),449.000 € 4.119 €/m²,5 Zimmer,109 m²,218 m² Grundstück,https://www.immowelt.de/expose/988025bb-6657-43f7-bc15-37e65b8895b6;4044
+Leinhausen, Hannover (30419),529.000 € 3.599 €/m²,3 Zimmer,147 m²,167 m² Grundstück,https://www.immowelt.de/expose/8764dbb0-5b14-4f99-ae73-667c3be2ea40;4044
+List, Hannover (30163),173.000 € 1.880 €/m²,4 Zimmer,92 m²,Unknown,https://www.immowelt.de/expose/6e51d28b-c8f3-4d28-88fa-1a574639d3b3;4044
+Bothfeld, Hannover (30657),429.000 € 2.860 €/m²,6 Zimmer,150 m²,220 m² Grundstück,https://www.immowelt.de/expose/94d179ec-4223-4e47-b0b1-fe99fe7223c7;4044
+"Oststadt, Hannover (30161),165.000 € 3.409 €/m²,3 Zimmer,""48,4 m²"",Unknown,https://www.immowelt.de/expose/72914af1-10ea-4d36-a3a7-25474c11df35";4044
+Wettbergen, Hannover (30457),140.000 € 2.456 €/m²,2 Zimmer,57 m²,frei ab sofort,https://www.immowelt.de/expose/73c57202-92ec-41d9-a554-ff20ff135cb3;4044
+Vahrenwald, Hannover (30163),149.000 € 2.525 €/m²,3 Zimmer,60 m²,1. Geschoss,https://www.immowelt.de/expose/67dc2051-075d-4a40-b223-4fadde0840a0;4044
+List, Hannover - List (30177),1.460.000 € 7.644 €/m²,5 Zimmer,191 m²,277 m² Grundstück,https://www.immowelt.de/expose/ff176d8e-e471-4e9b-8377-76cbc42ec83f;4044
+"List, Hannover - List (30177),1.348.000 € 6.690 €/m²,5 Zimmer,""201,5 m²"",236 m² Grundstück,https://www.immowelt.de/expose/6d83f4a7-7bf6-4006-accc-b1bd8ac63f90";4044
+Burg, Hannover (30419),148.000 € 2.277 €/m²,3 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/6432976a-3bd5-408c-8bdb-8bc66ccf21dc;4044
+Ahlem, Hannover (30453),285.000 € 2.615 €/m²,3 Zimmer,109 m²,2. Geschoss,https://www.immowelt.de/expose/536ebeb2-9de9-4a2d-8c08-29b30b04274f;4044
+Mitte, Hannover (30159),299.000 € 5.246 €/m²,2 Zimmer,57 m²,1. Geschoss,https://www.immowelt.de/expose/d0f1f2f5-fec9-4e02-861c-ded9b2555e94;4044
+"Döhren, Hannover (30519),695.000 € 3.515 €/m²,""8,5 Zimmer"",""197,7 m²"",1. Geschoss,https://www.immowelt.de/expose/c3d53aed-6b9e-4003-85a4-a3b62903e7da";4044
+"Mühlenberg, Hannover (30457),305.000 € 3.177 €/m²,4 Zimmer,""125,1 m²"",230 m² Grundstück,https://www.immowelt.de/expose/72fb3a02-976b-4d33-9113-4f35ef619f76";4044
+"Groß-Buchholz, Hannover (30655),200.000 € 2.628 €/m²,3 Zimmer,""76,1 m²"",3. Geschoss,https://www.immowelt.de/expose/89e32996-c083-4224-bd60-fb9b5be0a470";4044
+"Kleefeld, Hannover (30625),934.990 € 5.267 €/m²,5 Zimmer,""177,5 m²"",575 m² Grundstück,https://www.immowelt.de/expose/0547e670-1146-440d-957b-33da8a8dd813";4044
+"Anderten, Hannover (30559),997.900 € 5.437 €/m²,5 Zimmer,""183,6 m²"",554 m² Grundstück,https://www.immowelt.de/expose/b4498899-e631-4405-b340-b129a9c345ff";4044
+Kleefeld, Hannover (30519),945.900 € 6.142 €/m²,4 Zimmer,154 m²,575 m² Grundstück,https://www.immowelt.de/expose/61fbe043-e088-410a-93a6-6244d3f207d7;4044
+Kirchrode, Kirchrode (30559),975.000 € 6.588 €/m²,5 Zimmer,148 m²,525 m² Grundstück,https://www.immowelt.de/expose/55999e1e-c77d-4a60-8924-77598d886d4f;4044
+Kirchrode, Hannover (30559),875.000 € 6.250 €/m²,5 Zimmer,140 m²,575 m² Grundstück,https://www.immowelt.de/expose/196b1e36-46a5-4121-8ec1-13bd68487e9a;4044
+"Seelhorst, Hannover (30519),1.045.900 € 5.698 €/m²,5 Zimmer,""183,6 m²"",575 m² Grundstück,https://www.immowelt.de/expose/169e2577-67a9-4c59-bbef-a44aba8a7aa4";4044
+"Vahrenwald, Hannover (30419),675.970 € 3.920 €/m²,5 Zimmer,""172,5 m²"",555 m² Grundstück,https://www.immowelt.de/expose/df2237f4-e7a3-4471-8f9b-3aa8a4dc0810";4044
+"Vahrenwald, Hannover (30419),569.920 € 3.305 €/m²,5 Zimmer,""172,5 m²"",550 m² Grundstück,https://www.immowelt.de/expose/1093a7fa-6b0a-4abf-936d-a9ca4b8a9805";4044
+"Kirchrode, Hannover (30559),979.970 € 5.339 €/m²,5 Zimmer,""183,6 m²"",550 m² Grundstück,https://www.immowelt.de/expose/bac7a265-e473-409b-9de4-7ebdbb0c8f42";4044
+"Mühlenberg, Hannover / Mühlenberg (30457),329.000 € 1.674 €/m²,9 Zimmer,""196,5 m²"",459 m² Grundstück,https://www.immowelt.de/expose/9cdd0a27-100d-48a1-ac8a-6fb7adef4491";4044
+Karl-Schurz-Weg 4 F, Mittelfeld, Hannover - Mittelfeld (30519),678.000 € 4.913 €/m²,6 Zimmer,138 m²,361 m² Grundstück,https://www.immowelt.de/expose/3bf592e8-13d3-45fb-b1ee-baa03749acfc;4044
+Sahlkamp, Hannover (30179),349.000 € 3.490 €/m²,4 Zimmer,100 m²,255 m² Grundstück,https://www.immowelt.de/expose/9f2db054-5453-4f14-90ff-309a199c1541;4044
+"Misburg-Nord, Hannover (30629),499.000 € 2.610 €/m²,8 Zimmer,""191,2 m²"",605 m² Grundstück,https://www.immowelt.de/expose/630d70da-b5e0-48bc-9d71-d98bbef23b11";4044
+Kirchrode, Hannover (30559),549.000 € 3.921 €/m²,5 Zimmer,140 m²,397 m² Grundstück,https://www.immowelt.de/expose/2c35b48c-8453-4259-a7f7-f4e4b31effbf;4044
+"Lahe, Hannover (30659),695.000 € 4.030 €/m²,5 Zimmer,""172,5 m²"",575 m² Grundstück,https://www.immowelt.de/expose/d51d1c60-47f3-4a79-8c8c-54aeb38b9ae6";4044
+Wülfel, Hannover (30519),269.000 € 3.363 €/m²,3 Zimmer,80 m²,EG,https://www.immowelt.de/expose/993b8431-7313-4a5c-b2ab-003b7ecaa5fd;4044
+Mitte, Hannover (30159),399.000 € 3.325 €/m²,4 Zimmer,120 m²,3. Geschoss,https://www.immowelt.de/expose/06f65315-af93-49df-b9b6-62976231d164;4044
+"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167),329.000 € 5.436 €/m²,2 Zimmer,""60,5 m²"",Unknown,https://www.immowelt.de/expose/d6606dcf-88f7-48e3-8620-20a4557d526c";4044
+"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167),215.000 € 5.706 €/m²,1 Zimmer,""37,7 m²"",Unknown,https://www.immowelt.de/expose/3e8be80e-7aa1-413f-8143-fdaa50410dab";4044
+Linden-Mitte, Hannover (30449),160.000 € 1.975 €/m²,3 Zimmer,81 m²,1. Geschoss,https://www.immowelt.de/expose/f12e1b8d-2720-4576-baf3-f9debba8373e;4044
+"Seelhorst, Bothfeld (30657),871.950 € 3.496 €/m²,6 Zimmer,""249,4 m²"",575 m² Grundstück,https://www.immowelt.de/expose/6553ccd8-6c9a-462d-a884-e12e5df82106";4044
+Lahe, Hannover (30659),581.900 € 3.592 €/m²,5 Zimmer,162 m²,700 m² Grundstück,https://www.immowelt.de/expose/8f6326a5-4c68-435d-8689-d3556693e887;4044
+Kirchrode, Hannover (30559),780.000 € 4.875 €/m²,6 Zimmer,160 m²,452 m² Grundstück,https://www.immowelt.de/expose/4b021798-f36a-4882-aa05-559024592469;4044
+Kirchrode, Hannover (30559),790.000 € 4.247 €/m²,7 Zimmer,186 m²,452 m² Grundstück,https://www.immowelt.de/expose/9222e77a-b995-4f61-88b4-6a6426400c12;4044
+"Friedhofsallee 4-8, Seelhorst, Hannover / Seelhorst (30519),539.900 € 4.575 €/m²,""4,5 Zimmer"",118 m²,Unknown,https://www.immowelt.de/expose/35c86a0e-884d-4310-9ce0-e6dcfaaad187";4044
+Kirchrode, Hannover (30559),780.000 € 5.065 €/m²,6 Zimmer,154 m²,452 m² Grundstück,https://www.immowelt.de/expose/b98c6446-75f4-4779-b78b-d2992fb71e9a;4044
+"Bothfeld, Hannover (30659),279.000 € 3.941 €/m²,3 Zimmer,""70,5 m²"",Unknown,https://www.immowelt.de/expose/28c2f77c-feee-4faa-a3f3-d70f5f375afa";4044
+Kleefeld, Hannover / Kleefeld (30625),848.500 € 4.139 €/m²,5 Zimmer,205 m²,Unknown,https://www.immowelt.de/expose/450b804b-4a16-484c-bc68-6b879115851f;4044
+Limmer, Hannover / Limmer (30453),995.000 € 7.210 €/m²,4 Zimmer,138 m²,3. Geschoss,https://www.immowelt.de/expose/faf177bb-10b2-40a9-9c11-21f8d5298183;4044
+Kirchrode, Hannover (30559),340.000 € 2.615 €/m²,3 Zimmer,130 m²,2. Geschoss,https://www.immowelt.de/expose/ae555cad-5449-4478-a916-fe4947ceb543;4044
+Linden-Nord, Hannover (30451),255.000 € 4.048 €/m²,3 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/a3d2cbf2-264a-458c-a6d9-e8a0992f4385;4044
+Misburg-Nord, Hannover (30629),350.000 € 1.777 €/m²,7 Zimmer,197 m²,290 m² Grundstück,https://www.immowelt.de/expose/01becd65-fe6a-4b40-9f98-0d2a31975f01;4044
+"Mühlenberg, Hannover (30457),144.000 € 1.892 €/m²,2 Zimmer,""76,1 m²"",3. Geschoss,https://www.immowelt.de/expose/2ad85c56-f4c4-447a-8044-1dd11e3f4442";4044
+Bothfeld, Hannover (30657),644.900 € 4.161 €/m²,6 Zimmer,155 m²,432 m² Grundstück,https://www.immowelt.de/expose/e11f7ef0-516a-48c4-9d13-e0ed114f79a7;4044
+Kleefeld, Hannover (30625),398.000 € 4.234 €/m²,4 Zimmer,94 m²,EG,https://www.immowelt.de/expose/ce0db8d6-8107-446b-bf12-2096124a9dea;4044
+"Oberricklingen, Hannover / Ricklingen (30459),450.000 € 3.524 €/m²,5 Zimmer,""127,7 m²"",784 m² Grundstück,https://www.immowelt.de/expose/1b88518f-a2fd-4f6f-ace3-7b7e8c6e082c";4044
+Kirchrode, Kirchrode (30559),975.000 € 6.588 €/m²,5 Zimmer,148 m²,525 m² Grundstück,https://www.immowelt.de/expose/cc0bc4ea-cd42-4320-b9a1-20cc1f0e3eb8;4044
+"Bothfeld, Hannover (30659),496.000 € 5.753 €/m²,3 Zimmer,""86,2 m²"",4. Geschoss,https://www.immowelt.de/expose/75ef0970-034c-4e8c-83ff-612a6f00fb55";4044
+Mühlenberg, Hannover-Mühlenberg (30457),175.000 € 2.160 €/m²,3 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/d0baa07e-978b-4f8d-8888-e727a387b3cd;4044
+Sahlkamp, Hannover (30179),378.000 € 2.800 €/m²,5 Zimmer,135 m²,193 m² Grundstück,https://www.immowelt.de/expose/10517042-ce79-4c64-b05b-702160c41f12;4044
+"Bothfeld, Hannover / Bothfeld (30659),390.000 € 3.545 €/m²,""4,5 Zimmer"",110 m²,325 m² Grundstück,https://www.immowelt.de/expose/f5754381-a48c-4a6b-a6b4-10ec172769f6";4044
+Marienwerder, Hannover (30419),265.000 € 2.944 €/m²,4 Zimmer,90 m²,2. Geschoss,https://www.immowelt.de/expose/e645aefe-632f-400d-8ded-af78966948fd;4044
+Stöcken, Hannover-Stöcken (30419),250.000 € 2.907 €/m²,3 Zimmer,86 m²,1. Geschoss,https://www.immowelt.de/expose/3d3a6753-d0aa-4f48-a43c-792ad395a55c;4044
+Badenstedt, Hannover (30455),549.900 € 3.437 €/m²,6 Zimmer,160 m²,360 m² Grundstück,https://www.immowelt.de/expose/4577b974-3182-4e1a-8319-151da5783e1b;4044
+Anderten, Hannover (30559),299.000 € 3.082 €/m²,4 Zimmer,97 m²,2. Geschoss,https://www.immowelt.de/expose/4875b68d-a8c8-4cee-8bd4-e3a0b3be8f04;4044
+Linden-Mitte, Hannover (30449),169.000 € 1.988 €/m²,3 Zimmer,85 m²,4. Geschoss,https://www.immowelt.de/expose/49db15a1-fc94-437e-a6b8-c6a9223fa77a;4044
+Nordstadt, Hannover (30167),898.000 € 2.427 €/m²,370 m²,501 m² Grundstück,Unknown,https://www.immowelt.de/expose/9dc312a7-7c58-4644-819b-2afbc48b275b;4044
+"Unknown,Unknown,2 Zimmer,""60,1 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632";4044
+"Heideviertel, Hannover (30625),1.345.000 € 5.435 €/m²,9 Zimmer,""247,5 m²"",476 m² Grundstück,https://www.immowelt.de/expose/22476732-677e-4c68-a82e-74ace7bffce7";4044
+Groß-Buchholz, Hannover (30655),990.000 € 2.041 €/m²,485 m²,858 m² Grundstück,Unknown,https://www.immowelt.de/expose/87779c5c-f42d-4318-b799-4fdcbe5917c8;4044
+Linden-Süd, Hannover (30449),225.000 € 3.000 €/m²,3 Zimmer,75 m²,EG,https://www.immowelt.de/expose/ee57258d-9e79-4c80-99ea-e86b744a1ac9;4044
+Vinnhorst, Hannover (30419),689.900 € 4.999 €/m²,4 Zimmer,138 m²,439 m² Grundstück,https://www.immowelt.de/expose/5451af52-a1bf-46b5-a1e6-7f3b0e09af78;4044
+"Misburg-Nord, Hannover / Misburg-Nord (30629),399.000 € 2.660 €/m²,""4,5 Zimmer"",150 m²,247 m² Grundstück,https://www.immowelt.de/expose/6762ef22-0040-4821-bcb9-af0e87550640";4044
+Südstadt, Hannover (30173),498.000 € 4.150 €/m²,6 Zimmer,120 m²,frei ab sofort,https://www.immowelt.de/expose/d286e8fa-5b0d-4200-a701-c184a5cbce53;4044
+Anderten, Hannover (30559),198.000 € 2.506 €/m²,3 Zimmer,79 m²,Unknown,https://www.immowelt.de/expose/c6630b81-e6e7-4576-96ae-a81d4823d745;4044
+"Seelhorst, Bothfeld (30657),851.950 € 3.416 €/m²,6 Zimmer,""249,4 m²"",625 m² Grundstück,https://www.immowelt.de/expose/85d72c31-a7f3-44cb-b86c-eca7d59c56a6";4044
+Davenstedt, Hannover (30455),680.000 € 2.595 €/m²,7 Zimmer,262 m²,520 m² Grundstück,https://www.immowelt.de/expose/d7a11c7d-8d03-4340-a471-9c21198d9e45;4044
+Groß-Buchholz, Hannover (30655),200.000 € 3.125 €/m²,2 Zimmer,64 m²,2. Geschoss,https://www.immowelt.de/expose/f50fc980-1301-47ab-8198-d31de150de42;4044
+Wettbergen, Hannover (30457),125.000 € 2.232 €/m²,2 Zimmer,56 m²,1. Geschoss,https://www.immowelt.de/expose/771a65c7-7a0a-4ea5-9a45-58375928a030;4044
+Kirchrode, Hannover / Kirchrode (30559),618.000 € 3.768 €/m²,6 Zimmer,164 m²,514 m² Grundstück,https://www.immowelt.de/expose/62427b86-7713-41f3-818d-36f6885fb8f3;4044
+Marienwerderstr.3, Linden-Mitte, Hannover (30449),1.650.000 € 2.825 €/m²,22 Zimmer,584 m²,297 m² Grundstück,https://www.immowelt.de/expose/3f415967-21ce-47d6-bd0d-deb02a40c00f;4044
+"Oststadt, Hannover (30161),395.000 € 4.593 €/m²,""2,5 Zimmer"",86 m²,4. Geschoss,https://www.immowelt.de/expose/60eee529-83cc-4b11-806c-502191c2cc14";4044
+Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167),422.000 €,3 Zimmer,Unknown,Unknown,https://www.immowelt.de/expose/843b924e-c7cd-471a-9cbc-b818d590c4e6;4044
+Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167),225.000 €,1 Zimmer,Unknown,Unknown,https://www.immowelt.de/expose/31590b3a-3a0e-4490-9c33-f1141787136f;4044
+"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167),333.000 € 5.501 €/m²,2 Zimmer,""60,5 m²"",Unknown,https://www.immowelt.de/expose/221fedbd-a963-49be-9217-8a9802fbc304";4044
+Mitte, Hannover (30159),280.000 € 6.222 €/m²,1 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/d88bf4d8-a265-4c75-b912-32d2faab8239;4044
+Misburg-Nord, Hannover (30629),175.000 € 2.333 €/m²,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/380ae6f4-f61e-4634-9af6-d631f95a73a9;4044
+Bothfeld, Hannover (30659),569.000 € 4.411 €/m²,3 Zimmer,129 m²,Unknown,https://www.immowelt.de/expose/12fca62a-ec31-4b0f-bc5a-4c0a39755354;4044
+List, Hannover (30177),999.999 € 5.848 €/m²,5 Zimmer,171 m²,345 m² Grundstück,https://www.immowelt.de/expose/e709625f-d34a-48bd-a786-48e6ed57fcde;4044
+Linden-Nord, Hannover (30451),158.000 € 4.938 €/m²,1 Zimmer,32 m²,1. Geschoss,https://www.immowelt.de/expose/8163413b-3172-4393-9e91-8367f76c97b7;4044
+Davenstedt, Hannover (30455),599.000 € 3.565 €/m²,5 Zimmer,168 m²,Unknown,https://www.immowelt.de/expose/99ea018b-58f8-4c2a-bded-186a86593984;4044
+Nordstadt, Hannover (30167),199.000 € 2.884 €/m²,3 Zimmer,69 m²,3. Geschoss,https://www.immowelt.de/expose/eb1d4293-7ac9-45c2-a76d-6e3c4ebcb8a9;4044
+Groß-Buchholz, Hannover / Groß Buchholz (30655),1.287.000 € 7.707 €/m²,6 Zimmer,167 m²,459 m² Grundstück,https://www.immowelt.de/expose/42e05d96-23fc-4510-bf61-1fa0f978ad58;4044
+"List, Hannover (30177),398.000 € 4.055 €/m²,3 Zimmer,""98,2 m²"",Unknown,https://www.immowelt.de/expose/62c1625a-e9dc-4ba3-83df-1f775cab3511";4044
+Davenstedt, Hannover (30455),285.000 € 3.434 €/m²,4 Zimmer,83 m²,3. Geschoss,https://www.immowelt.de/expose/55f7eaa4-5438-4f4c-b957-9ddbdedd4f61;4044
+Groß-Buchholz, Hannover (30655),169.000 € 2.817 €/m²,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/2eead798-cd38-4020-b0ad-e18e078cf913;4044
+"Unknown,Unknown,3 Zimmer,""84,6 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632";4044
+Unknown,Unknown,2 Zimmer,77 m²,3. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632;4044
+"Unknown,Unknown,3 Zimmer,""104,4 m²"",EG,https://www.immowelt.de/projekte/expose/k2hg632";4044
+"Unknown,Unknown,3 Zimmer,""74,4 m²"",EG,https://www.immowelt.de/projekte/expose/k2hg632";4044
+"Unknown,Unknown,4 Zimmer,""103,2 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632";4044
+"Korallenweg 7, Davenstedt, Hannover (30455),260.000 € 3.102 €/m²,3 Zimmer,""83,8 m²"",1. Geschoss,https://www.immowelt.de/expose/03b60a95-7700-4426-91d5-3638009f465e";4044
+Groß-Buchholz, Hannover (30627),460.000 € 5.897 €/m²,4 Zimmer,78 m²,641 m² Grundstück,https://www.immowelt.de/expose/1304aaa3-57be-4b2a-9a86-66f39ae19d22;4044
+Oststadt, Hannover (30161),320.000 € 4.000 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/9b774392-d381-4ef6-9b04-89544d28c2b3;4044
+"Unknown,Unknown,2 Zimmer,""68,9 m²"",frei ab sofort,https://www.immowelt.de/projekte/expose/k2hg632";4044
+"Unknown,Unknown,3 Zimmer,""73,1 m²"",frei ab sofort,https://www.immowelt.de/projekte/expose/k2hg632";4044
+"Unknown,Unknown,3 Zimmer,""73,3 m²"",frei ab sofort,https://www.immowelt.de/projekte/expose/k2hg632";4044
+Oberricklingen, Hannover (30459),249.000 € 2.929 €/m²,3 Zimmer,85 m²,1. Geschoss,https://www.immowelt.de/expose/ad275e79-86f5-4f9d-a4c5-6d2ad29f9d7d;4044
+List, Hannover (30655),125.000 € 2.604 €/m²,2 Zimmer,48 m²,EG,https://www.immowelt.de/expose/eb33c970-56cb-4016-98a2-e95d96dae62b;4044
+Bothfeld, Hannover (30657),929.900 € 6.325 €/m²,6 Zimmer,147 m²,553 m² Grundstück,https://www.immowelt.de/expose/0f180e13-d24c-4a84-8545-f3d91521c6f9;4044
+Bothfeld, Hannover (30657),879.900 € 5.985 €/m²,6 Zimmer,147 m²,448 m² Grundstück,https://www.immowelt.de/expose/119927a7-32b9-4ee0-9a72-fba9c65052df;4044
+Borglingstraße 2, Ledeburg, Hannover - Ledeburg (30419),460.000 € 3.286 €/m²,6 Zimmer,140 m²,503 m² Grundstück,https://www.immowelt.de/expose/b54ed0f2-cd76-48c4-bfdf-afc3e55b6afa;4044
+Oststadt, Hannover (30161),352.000 € 4.190 €/m²,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/7d952c4c-b511-48c5-a782-381d61f76785;4044
+Waldheim, Hannover / Südstadt (30173),Preis auf Anfrage,3 Zimmer,89 m²,2. Geschoss,https://www.immowelt.de/expose/2246dd15-1419-4b43-887d-76a8778640fb;4044
+Ahlem, Hannover OT Ahlem (30453),650.000 € 3.824 €/m²,5 Zimmer,170 m²,800 m² Grundstück,https://www.immowelt.de/expose/1f7c74c9-a5c6-4ea3-b5bb-89d8d1c0f53e;4044
+Linden-Süd, Hannover (30449),399.000 € 3.837 €/m²,4 Zimmer,104 m²,Unknown,https://www.immowelt.de/expose/6f2b6659-61c9-48a6-af53-073b1618834a;4044
+Misburg-Nord, Hannover (30629),329.000 € 4.062 €/m²,2 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/68ad09e3-87fa-43d2-842c-740180f2c9ae;4044
+"Hainholz, Hannover (30165),279.000 € 3.096 €/m²,3 Zimmer,""90,1 m²"",Unknown,https://www.immowelt.de/expose/da60bec7-d15e-473e-b0a6-0c1bb00361fd";4044
+"Unknown,Unknown,3 Zimmer,""73,1 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632";4044
+Davenstedt, Hannover (30455),370.000 € 2.270 €/m²,4 Zimmer,163 m²,664 m² Grundstück,https://www.immowelt.de/expose/e1200e1f-da1a-4998-902a-87e94a2048d5;4044
+Bothfeld, Hannover (30659),595.000 € 5.219 €/m²,4 Zimmer,114 m²,157 m² Grundstück,https://www.immowelt.de/expose/0126be2a-4dc8-453f-98d0-968e826bfbe1;4044
+List, Hannover (30177),270.000 € 3.649 €/m²,3 Zimmer,74 m²,1. Geschoss,https://www.immowelt.de/expose/e830846e-ea78-4cc7-bdc5-e955e2bfd457;4044
+"Bothfeld, Hannover / Bothfeld (30659),240.000 € 3.593 €/m²,2 Zimmer,""66,8 m²"",Unknown,https://www.immowelt.de/expose/d7c4b610-aad7-4ce2-a1dc-857dbba1946f";4044
+Mittelfeld, Hannover / Bemerode (30539),225.000 € 1.991 €/m²,6 Zimmer,113 m²,558 m² Grundstück,https://www.immowelt.de/expose/1bcccb8f-a3c5-4e14-aed0-e1ae92c9ca63;4044
+Bothfeld, Hannover (30657),399.000 € 3.069 €/m²,6 Zimmer,130 m²,612 m² Grundstück,https://www.immowelt.de/expose/a162d9d0-a618-4f76-aef7-7a8b184c01cb;4044
+Vahrenwald, Hannover (30163),249.000 € 3.000 €/m²,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/1be51dbe-d4cb-4c8c-bc10-d715b060922e;4044
+Badenstedt, Hannover (30455),890.000 € 1.508 €/m²,590 m²,874 m² Grundstück,Unknown,https://www.immowelt.de/expose/b57d9cf6-c5dd-4c7f-8b72-c2691c51b36b;4044
+Linden-Nord, Hannover (30451),95.000 € 2.968 €/m²,1 Zimmer,32 m²,Unknown,https://www.immowelt.de/expose/92069a04-1bdf-4b02-9842-f1346958ba07;4044
+Mittelfeld, Hannover (30519),98.000 € 2.279 €/m²,2 Zimmer,43 m²,3. Geschoss,https://www.immowelt.de/expose/57ad81f4-06c5-4c57-8115-7ac4100107ea;4044
+Sahlkamp, Hannover (30179),599.000 € 6.656 €/m²,90 m²,748 m² Grundstück,Unknown,https://www.immowelt.de/expose/09f20019-ae63-44ee-aa21-85de8f10d160;4044
+"Limmer, Hannover (30453),220.000 € 2.815 €/m²,3 Zimmer,""78,2 m²"",Unknown,https://www.immowelt.de/expose/964964c6-c561-4822-84e6-44846e9ff22c";4044
+"Bornum, Hannover (30453),349.000 € 3.244 €/m²,4 Zimmer,""107,6 m²"",Unknown,https://www.immowelt.de/expose/4ae51556-e602-4eeb-a20f-4827ca1e2e68";4044
+Davenstedt, Hannover / Davenstedt (30455),420.000 € 2.917 €/m²,4 Zimmer,144 m²,748 m² Grundstück,https://www.immowelt.de/expose/7a226193-c540-433b-9d9d-42ae09be10a9;4044
+"List, Hannover (30177),499.000 € 3.642 €/m²,""3,5 Zimmer"",137 m²,2. Geschoss,https://www.immowelt.de/expose/931bda6a-a502-4bcf-bab2-bed8a32ef3d1";4044
+Bemerode, Hannover (30539),179.000 € 2.034 €/m²,3 Zimmer,88 m²,1. Geschoss,https://www.immowelt.de/expose/287c86d4-8d16-4b6e-b541-fdd0a869ceef;4044
+List, Hannover (30163),650.000 € 4.114 €/m²,5 Zimmer,158 m²,3. Geschoss,https://www.immowelt.de/expose/3010e089-691e-4f21-b7bb-e8761f6d0cbd;4044
+"Linden-Nord, Hannover (30451),280.000 € 4.516 €/m²,""2,5 Zimmer"",62 m²,4. Geschoss,https://www.immowelt.de/expose/711b4159-6dd5-493d-8dc9-040c049ed78a";4044
+"Davenstedt, Hannover (30455),170.000 € 2.582 €/m²,2 Zimmer,""65,8 m²"",2. Geschoss,https://www.immowelt.de/expose/703e7be4-e83e-4b38-949b-51e2efabfd4e";4044
+"Südstadt, Hannover (30171),275.000 € 4.555 €/m²,2 Zimmer,""60,4 m²"",Unknown,https://www.immowelt.de/expose/16351f2f-df62-4279-9609-43995b7fdbf5";4044
+Linden-Nord, Hannover (30451),479.000 € 4.790 €/m²,4 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/58e9a88e-c869-425c-8508-572215886fe3;4044
+Calenberger Neustadt, Hannover (30169),189.000 € 4.725 €/m²,2 Zimmer,40 m²,3. Geschoss,https://www.immowelt.de/expose/9d78f6bc-815f-43f9-bbb4-b82e0fc28ee2;4044
+"Bohnhorststraße 1-7, Hainholz, Hannover (30165),485.900 € 4.600 €/m²,4 Zimmer,""105,6 m²"",Unknown,https://www.immowelt.de/expose/d907f727-aeb7-4bb5-a95d-649127d5110a";4044
+"Bohnhorststraße 1-7, Hainholz, Hannover (30165),324.900 € 4.611 €/m²,3 Zimmer,""70,5 m²"",Unknown,https://www.immowelt.de/expose/ad4b0155-3474-482f-ba2a-8d0cadffbdc6";4044
+"Bohnhorststraße 1-7, Hainholz, Hannover (30165),286.900 € 4.608 €/m²,2 Zimmer,""62,3 m²"",Unknown,https://www.immowelt.de/expose/818f4032-bf9e-47f6-bd07-a2ce7f2a79d7";4044
+Bohnhorststraße 1-7, Hainholz, Hannover (30165),206.900 € 4.599 €/m²,1 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/55f83670-a46c-4ca3-bd95-e38d082b625b;4044
+Stöcken, Hannover (30419),159.000 € 2.569 €/m²,2 Zimmer,58 m²,5. Geschoss,https://www.immowelt.de/expose/49d56202-f727-4763-a885-f13175bde78f;4044
+Stöcken, Hannover (30419),250.000 € 2.778 €/m²,3 Zimmer,90 m²,1. Geschoss,https://www.immowelt.de/expose/38315b10-c9c6-42dd-be50-6c0703f9c85d;4044
+Kirchrode, Kirchrode (30559),975.000 € 6.588 €/m²,5 Zimmer,148 m²,500 m² Grundstück,https://www.immowelt.de/expose/09be7f9f-cede-481e-88e3-3585549ad24b;4044
+Misburg-Nord, Hannover (30629),1.450.000 € 4.434 €/m²,7 Zimmer,327 m²,1.408 m² Grundstück,https://www.immowelt.de/expose/a21a3ec6-a0b6-4681-a697-a6838bf8594c;4044
+"Oststadt, Hannover / Oststadt (30161),559.000 € 4.138 €/m²,4 Zimmer,""135,1 m²"",Unknown,https://www.immowelt.de/expose/5a59b95a-82fe-48e6-91eb-ff0c55cba633";4044
+Burg, Hannover (30419),850.000 € 2.279 €/m²,373 m²,958 m² Grundstück,Unknown,https://www.immowelt.de/expose/9970375f-ca88-4be6-afa0-069afb864d57;4044
+Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167),389.000 € 5.807 €/m²,2 Zimmer,67 m²,Unknown,https://www.immowelt.de/expose/56e9d3f6-b265-4d1c-955e-5d5b7f124264;4044
+"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167),442.000 € 5.850 €/m²,2 Zimmer,""75,6 m²"",Unknown,https://www.immowelt.de/expose/1d3310fc-7046-4d5d-9ec9-228d67d8f0c6";4044
+"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167),455.000 € 5.462 €/m²,3 Zimmer,""83,3 m²"",Unknown,https://www.immowelt.de/expose/788a065b-db77-4bce-9fe8-176a1351bb93";4044
+"Bodestraße 1-3, Nordstadt, Hannover-Nordstadt (30167),419.000 € 5.467 €/m²,3 Zimmer,""76,6 m²"",Unknown,https://www.immowelt.de/expose/d0806dfa-a252-4388-b73d-eb27d6e567c4";4044
+Vahrenwald, Hannover (30163),392.000 € 3.920 €/m²,3 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/4b189cfc-af2c-4221-a155-e660c1581ba7;4044
+Bothfeld, Hannover (30657),365.000 € 4.244 €/m²,3 Zimmer,86 m²,Unknown,https://www.immowelt.de/expose/9562e886-4e05-4095-8fa9-d29ac3f38dfb;4044
+"Bothfeld, Hannover (30659),699.000 € 5.027 €/m²,4 Zimmer,""139,1 m²"",963 m² Grundstück,https://www.immowelt.de/expose/ceb1ed7c-57bc-4235-b977-e63e1ba93880";4044
+"Ahlem, Hannover (30453),695.000 € 3.907 €/m²,8 Zimmer,""177,9 m²"",801 m² Grundstück,https://www.immowelt.de/expose/79ee2e2f-9ca5-4874-bd67-ec06aca5339f";4044
+Isernhagen-Süd, Hannover-Isernhagen-Süd (30657),1.950.000 € 6.724 €/m²,6 Zimmer,290 m²,1.361 m² Grundstück,https://www.immowelt.de/expose/f6f7e4a0-6f5b-4a8d-976a-e905e62bddee;4044
+Am Mittelfelde 83a, Mittelfeld, Hannover (30519),124.999 € 2.451 €/m²,3 Zimmer,51 m²,1. Geschoss,https://www.immowelt.de/expose/f287e530-abfd-4506-a34a-80eae20cbb48;4044
+Groß-Buchholz, Hannover-Steuerndieb (30655),2.950.000 € 10.424 €/m²,7 Zimmer,283 m²,7.058 m² Grundstück,https://www.immowelt.de/expose/aded1b1a-b087-42e4-a826-8e43c3c88f66;4044
+Nordstadt, Hannover (30167),215.000 € 4.778 €/m²,2 Zimmer,45 m²,2. Geschoss,https://www.immowelt.de/expose/e243956f-ce64-4d32-8112-ce27b7dcd163;4044
+Südstadt, Hannover (30173),245.000 € 3.952 €/m²,2 Zimmer,62 m²,4. Geschoss,https://www.immowelt.de/expose/512bf275-7962-4237-b5e6-c852cf93b739;4044
+Bothfeld, Hannover (30659),565.000 € 4.956 €/m²,4 Zimmer,114 m²,100 m² Grundstück,https://www.immowelt.de/expose/ece2e263-dd8e-402a-af0b-c348bef76d97;4044
+Nordstadt, Hannover-Herrenhausen (30167),3.200.000 € 6.214 €/m²,9 Zimmer,515 m²,4.024 m² Grundstück,https://www.immowelt.de/expose/e4aef80d-07ff-45be-8cf3-4cb177860223;4044
+Bornum, Hannover (30453),199.000 € 2.726 €/m²,3 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/8a0c3526-eb7d-42f1-851b-e1570cbe0aba;4044
+Bemerode, Hannover / Bemerode (30539),750.000 € 3.036 €/m²,9 Zimmer,247 m²,342 m² Grundstück,https://www.immowelt.de/expose/8eff4b6d-3472-4f92-9d40-52b245e80389;4044
+Linden-Nord, Hannover (30451),270.000 € 4.286 €/m²,3 Zimmer,63 m²,3. Geschoss,https://www.immowelt.de/expose/8167d70a-8924-461e-bded-8703155f1140;4044
+List, Hannover (30163),565.000 € 5.594 €/m²,2 Zimmer,101 m²,4. Geschoss,https://www.immowelt.de/expose/daaf9fcc-8058-4432-92e7-077f46f6a74f;4044
+Bothfeld, Hannover (30659),499.000 € 4.664 €/m²,4 Zimmer,107 m²,1. Geschoss,https://www.immowelt.de/expose/79224ead-fc02-4d6e-b739-d6e538933d36;4044
+Ahlem, Hannover-Ahlem (30453),215.000 € 2.363 €/m²,4 Zimmer,91 m²,2. Geschoss,https://www.immowelt.de/expose/768f988a-1a0b-4c62-bd7b-452a966ce97f;4044
+Mitte, Hannover (30159),399.000 € 5.620 €/m²,3 Zimmer,71 m²,2. Geschoss,https://www.immowelt.de/expose/95a77302-167d-40a0-8978-3a52957b4c72;4044
+Wettbergen, Hannover (30457),1.250.000 € 2.315 €/m²,20 Zimmer,540 m²,2.468 m² Grundstück,https://www.immowelt.de/expose/bafffca4-922a-407f-be47-2cbf114d8561;4044
+"Bornumer Straße 156, Bornum, Hannover / Bornum (30453),449.900 € 3.749 €/m²,""4,5 Zimmer"",120 m²,201 m² Grundstück,https://www.immowelt.de/expose/e1a5375e-ec69-4d9e-86b5-e9cfffd47757";4044
+Stöcken, Hannover (30419),81.000 €,1 Zimmer,35 m²,1. Geschoss,https://www.immowelt.de/expose/c2ed23b1-0ae5-4484-aedf-c7967e91e609;4044
+Kirchrode, Hannover (30559),2.000.000 € 5.362 €/m²,11 Zimmer,373 m²,1.379 m² Grundstück,https://www.immowelt.de/expose/0eabc808-40d5-4db9-8b71-f7c33c0b4e96;4044
+Stöcken, Hannover (30419),179.000 € 2.672 €/m²,3 Zimmer,67 m²,2. Geschoss,https://www.immowelt.de/expose/5194b8c0-ee7d-4745-befa-94bcfbb8a182;4044
+"Große Pfahlstraße 18, Oststadt, Hannover (30161),399.000 € 4.101 €/m²,4 Zimmer,""97,3 m²"",2. Geschoss,https://www.immowelt.de/expose/e2fa7ee6-c361-4cae-82f7-a360fe26e1e2";4044
+"List, Hannover (30177),717.500 € 5.407 €/m²,4 Zimmer,""132,7 m²"",Unknown,https://www.immowelt.de/expose/aec2d39f-4263-4747-9bea-a0b448b34c8a";4044
+"List, Hannover (30177),717.500 € 5.407 €/m²,4 Zimmer,""132,7 m²"",Unknown,https://www.immowelt.de/expose/e7e8b4de-a61a-45d0-a07c-fcfc6018eeb9";4044
+Nordstadt, Hannover (30167),299.000 € 4.746 €/m²,3 Zimmer,63 m²,2. Geschoss,https://www.immowelt.de/expose/362f341c-baa0-43f3-812a-a19b9c9a6164;4044
+List, Hannover (30161),495.000 € 245 €/m²,5 Zimmer,112 m²,1. Geschoss,https://www.immowelt.de/expose/92f72892-3904-4340-b471-8ad4472061fc;4044
+Kirchrode, Hannover-Kirchrode (30559),150.000 € 1.786 €/m²,3 Zimmer,84 m²,2. Geschoss,https://www.immowelt.de/expose/a8da8202-2f4d-4f8e-b006-5a9e610eeef7;4044
+Herrenhausen, Hannover (30419),1.690.000 € 2.511 €/m²,1 Zimmer,673 m²,1.406 m² Grundstück,https://www.immowelt.de/expose/2d47635c-bd4f-459b-aefd-3fc6b5e40943;4044
+"Davenstedt, Hannover (30455),415.000 € 3.723 €/m²,""3,5 Zimmer"",""111,5 m²"",7. Geschoss,https://www.immowelt.de/expose/e337e7d1-bd0c-4e8a-b0b0-4fb6daae118d";4044
+Linden-Nord, Hannover (30451),270.000 € 4.286 €/m²,3 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/a635290b-05cc-46ba-b442-6eb568a66b72;4044
+"Davenstedt, Hannover (30455),250.000 € 3.485 €/m²,3 Zimmer,""71,7 m²"",EG,https://www.immowelt.de/expose/996c6e4c-d11e-4ea8-a5bd-49d3b1ad7886";4044
+"Mittelfeld, Hannover (30539),484.900 € 4.581 €/m²,3 Zimmer,""105,9 m²"",Unknown,https://www.immowelt.de/expose/0709e41f-4ede-49ba-a116-e3a9bc07ad38";4044
+"Mittelfeld, Hannover (30539),199.900 € 4.942 €/m²,1 Zimmer,""40,5 m²"",Unknown,https://www.immowelt.de/expose/170d8a79-d960-43be-a07f-2ecf3ded03ad";4044
+Mittelfeld, Hannover (30539),349.900 € 4.547 €/m²,2 Zimmer,77 m²,Unknown,https://www.immowelt.de/expose/30dc2c38-1739-4577-a83f-a72bb8ddd7ed;4044
+Bemerode, Hannover (30539),579.000 € 4.907 €/m²,5 Zimmer,118 m²,107 m² Grundstück,https://www.immowelt.de/expose/ffa5241e-3922-4606-ad6e-a76a24164bbd;4044
+Bemerode, Hannover (30539),659.000 € 4.955 €/m²,5 Zimmer,133 m²,118 m² Grundstück,https://www.immowelt.de/expose/8363c273-9a7e-43aa-878e-3588700556d5;4044
+Bemerode, Hannover (30539),679.000 € 5.144 €/m²,5 Zimmer,132 m²,173 m² Grundstück,https://www.immowelt.de/expose/16a798cd-605f-4bc0-ab09-1d8272221d41;4044
+Bemerode, Hannover (30539),669.000 € 5.030 €/m²,5 Zimmer,133 m²,125 m² Grundstück,https://www.immowelt.de/expose/98a346d8-a1f2-42a1-a960-852da7c4ea8e;4044
+Isernhagen-Süd, Hannover-Isernhagen-Süd (30657),1.950.000 € 4.875 €/m²,6 Zimmer,400 m²,1.900 m² Grundstück,https://www.immowelt.de/expose/febe95b1-b0a1-4cbf-8448-d7645cfeae20;4044
+Linden-Nord, Hannover (30451),270.000 € 4.286 €/m²,3 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/55cba306-6712-4d9e-8d01-80e0d6e1b41b;4044
+Hainholz, Hannover / Hainholz (30165),388.000 € 3.079 €/m²,4 Zimmer,126 m²,Unknown,https://www.immowelt.de/expose/9ca465e3-25da-4a84-b868-8c2d11764ef6;4044
+Kirchrode, Hannover / Kirchrode (30559),1.500.000 € 4.823 €/m²,6 Zimmer,311 m²,1.049 m² Grundstück,https://www.immowelt.de/expose/0920a780-91fd-4fe5-915f-6e5ca1da7e07;4044
+"Linden-Mitte, Hannover (30449),100.000 € 1.561 €/m²,2 Zimmer,""64,1 m²"",2. Geschoss,https://www.immowelt.de/expose/b76c05a6-7cd3-47b5-9043-f1280fd0cde1";4044
+Waldheim, Hannover / Südstadt (30173),268.900 € 3.021 €/m²,3 Zimmer,89 m²,2. Geschoss,https://www.immowelt.de/expose/5aed400d-e326-43c8-9548-2a27eadbf32b;4044
+Bothfeld, Hannover (30659),569.000 € 4.411 €/m²,3 Zimmer,129 m²,Unknown,https://www.immowelt.de/expose/a3872ec7-94a3-42e6-a1f0-90b54879ade3;4044
+"Mitte, Hannover (30159),359.000 € 5.934 €/m²,2 Zimmer,""60,5 m²"",1. Geschoss,https://www.immowelt.de/expose/46ea22f5-67ae-4135-9c8c-868111add95f";4044
+"Mitte, Hannover (30159),335.000 € 5.929 €/m²,2 Zimmer,""56,5 m²"",1. Geschoss,https://www.immowelt.de/expose/5c5327c3-4b44-43b2-b47d-dd95c664e697";4044
+Bemerode, Hannover (30539),219.000 € 2.844 €/m²,3 Zimmer,77 m²,Unknown,https://www.immowelt.de/expose/226c422e-d846-44e7-a1c1-20e1b7d1abaa;4044
+Stöcken, Hannover (30419),210.000 € 2.958 €/m²,3 Zimmer,71 m²,9. Geschoss,https://www.immowelt.de/expose/51cf49f7-c608-40f7-b7ee-e446a99f5c19;4044
+Kirchrode, Hannover / Kirchrode (30559),595.000 € 4.542 €/m²,3 Zimmer,131 m²,166 m² Grundstück,https://www.immowelt.de/expose/58552fef-9a88-4795-96c5-c5d416657044;4044
+Hemelingstraße 4, Stöcken, Hannover (30419),294.000 € 3.303 €/m²,3 Zimmer,89 m²,3. Geschoss,https://www.immowelt.de/expose/1b328748-c748-4c5d-9b23-cbeb3043c35e;4044
+Mühlenberg, Hannover (30457),89.000 € 1.510 €/m²,1 Zimmer,59 m²,4. Geschoss,https://www.immowelt.de/expose/053e0047-88d7-4b5e-8705-c444234b9ebd;4044
+Mittelfeld, Hannover-Mittelfeld (30519),570.000 € 3.221 €/m²,9 Zimmer,177 m²,748 m² Grundstück,https://www.immowelt.de/expose/0ba4d0ec-5140-4113-aa5f-9fa909c4c6b2;4044
+Herrenhausen, Hannover (30419),185.000 € 2.803 €/m²,3 Zimmer,66 m²,2. Geschoss,https://www.immowelt.de/expose/1087ff64-ce15-4e37-ab2d-ec0e907fa8f8;4044
+Böhmerwaldstraße, Kirchrode, Hannover (30559),979.000 € 4.491 €/m²,8 Zimmer,218 m²,640 m² Grundstück,https://www.immowelt.de/expose/809a6733-738c-4dcf-acd7-9b5d85f7050a;4044
+"Mühlenberg, Hannover (30457),240.000 € 2.410 €/m²,3 Zimmer,""99,6 m²"",3. Geschoss,https://www.immowelt.de/expose/e698adbe-2fa3-4901-b0ee-ac857dde40a6";4044
+Waldheim, Hannover / Südstadt (30173),268.900 € 3.021 €/m²,3 Zimmer,89 m²,2. Geschoss,https://www.immowelt.de/expose/0a673715-5dd9-4d68-b5e5-5c008c85218f;4044
+Sahlkamp, Hannover / Sahlkamp (30179),690.000 € 4.235 €/m²,4 Zimmer,160 m²,520 m² Grundstück,https://www.immowelt.de/expose/55abb4a8-2890-47be-8cf3-dbe03a668e43;4044
+"Overbeckstraße 5, List, Hannover - List (30177),455.000 € 6.465 €/m²,2 Zimmer,""70,4 m²"",Unknown,https://www.immowelt.de/expose/ac4bb9a8-0efb-4949-ab09-bc6caebed981";4044
+Davenstedt, Hannover (30455),465.500 € 3.665 €/m²,127 m²,400 m² Grundstück,Unknown,https://www.immowelt.de/expose/aaf45181-1e93-43cc-83bf-5b513d0ed986;4044
+"Ottenstraße 10 a, Linden-Nord, Hannover (30451),119.000 € 1.839 €/m²,2 Zimmer,""64,7 m²"",4. Geschoss,https://www.immowelt.de/expose/353cc81b-2985-4789-8435-791402c6601b";4044
+Waldheim, Hannover (30519),2.980.000 € 5.996 €/m²,10 Zimmer,497 m²,854 m² Grundstück,https://www.immowelt.de/expose/3d52af3f-0d89-49d2-ab89-9c419766ae69;4044
+"Bornum, Hannover (30453),190.000 € 3.800 €/m²,""1,5 Zimmer"",50 m²,frei ab sofort,https://www.immowelt.de/expose/51cfd25f-6c4f-44fe-8163-68a90d12992e";4044
+Linden-Nord, Hannover (30451),350.000 € 3.933 €/m²,2 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/3aa32ae2-87c8-4bc3-972d-511e0aeae457;4044
+"Calenberger Neustadt, Hannover (30169),250.000 € 4.167 €/m²,""1,5 Zimmer"",60 m²,frei ab sofort,https://www.immowelt.de/expose/c5e63901-0f71-4f27-8857-68980a042cfb";4044
+Sahlkamp, Hannover (30657),650.000 € 2.955 €/m²,6 Zimmer,220 m²,810 m² Grundstück,https://www.immowelt.de/expose/b4a1f633-103d-4609-90b8-bc7559a5b44f;4044
+Linden-Mitte, Hannover / Linden-Mitte (30449),135.000 € 2.700 €/m²,2 Zimmer,50 m²,6. Geschoss,https://www.immowelt.de/expose/ff6e9a68-6962-4192-81f1-5a832ab64576;4044
+Anderten, Hannover / Anderten (30559),250.000 € 2.747 €/m²,3 Zimmer,91 m²,EG,https://www.immowelt.de/expose/b9e66990-fde4-4255-b680-feb38659c2dc;4044
+Ricklingen, Hannover / Ricklingen (30459),130.000 € 2.955 €/m²,2 Zimmer,44 m²,Unknown,https://www.immowelt.de/expose/1cda91f2-3936-48e3-a811-69a1f6501c77;4044
+Burg, Hannover (30419),197.000 € 2.627 €/m²,4 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/b5b1ff67-cfaf-4713-9b7a-a10e05730820;4044
+Hainholz, Hannover (30165),229.000 € 3.053 €/m²,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/d5179a3f-2d72-491a-846b-de9b3fce2b44;4044
+Linden-Süd, Hannover (30449),450.000 € 4.500 €/m²,100 m²,Unknown,Unknown,https://www.immowelt.de/expose/8a336a5b-068c-4bd1-88ca-f85a1d817484;4044
+Vahrenwald, Hannover (30165),350.000 € 4.268 €/m²,82 m²,Unknown,Unknown,https://www.immowelt.de/expose/7cbaccac-4a42-4fee-bd9b-b4d5bc758452;4044
+Bothfeld, Hannover (30657),599.999 € 4.800 €/m²,5 Zimmer,125 m²,354 m² Grundstück,https://www.immowelt.de/expose/9d102e99-c3f3-4246-be14-7437668013b7;4044
+"Ahlem, Hannover (30453),799.000 € 4.037 €/m²,6 Zimmer,""197,9 m²"",738 m² Grundstück,https://www.immowelt.de/expose/7a5ec361-5e10-47bc-b666-d4bc1bee5f81";4044
+"Kopenhagener Str. 69, Wettbergen, Hannover (30457),385.000 € 3.109 €/m²,7 Zimmer,""123,8 m²"",284 m² Grundstück,https://www.immowelt.de/expose/29be0a67-88c6-48d1-a32a-f6c1e27d66e4";4044
+"Badenstedt, Hannover (30455),385.000 € 2.323 €/m²,""6,5 Zimmer"",""165,7 m²"",854 m² Grundstück,https://www.immowelt.de/expose/909d32e0-7300-4850-8385-d677177a3f12";4044
+"Kirchrode, Hannover (30559),340.000 € 3.620 €/m²,4 Zimmer,""93,9 m²"",1. Geschoss,https://www.immowelt.de/expose/6044ddf6-930d-433d-a288-c5fc846fc64c";4044
+Bemerode, Hannover (30559),1.540.000 € 6.417 €/m²,5 Zimmer,240 m²,678 m² Grundstück,https://www.immowelt.de/expose/22531f63-6e39-4056-9357-b36053e4aa46;4044
+"Bothfeld, Hannover (30659),325.000 € 3.568 €/m²,""4,5 Zimmer"",""91,1 m²"",467 m² Grundstück,https://www.immowelt.de/expose/747c772e-a721-4700-9d9f-889372722ddf";4044
+Linden-Süd, Hannover Linden (30449),960.000 € 3.148 €/m²,305 m²,460 m² Grundstück,Unknown,https://www.immowelt.de/expose/7eedca43-60df-491e-bd90-c9c49ae7b504;4044
+Kirchrode, Hannover (30559),2.100.000 € 8.750 €/m²,8 Zimmer,240 m²,800 m² Grundstück,https://www.immowelt.de/expose/61d74b68-11c3-4702-b2b9-3f2ac869edc6;4044
+List, Hannover (30655),139.000 € 2.896 €/m²,2 Zimmer,48 m²,1. Geschoss,https://www.immowelt.de/expose/78277c6d-96da-4c7b-a577-a79eabf702b8;4044
+List, Hannover (30655),129.000 € 2.867 €/m²,2 Zimmer,45 m²,1. Geschoss,https://www.immowelt.de/expose/7c9edbd7-d216-4512-9941-6f6791d09af2;4044
+"Döhren, Hannover (30519),199.000 € 2.390 €/m²,""3,5 Zimmer"",""83,3 m²"",2. Geschoss,https://www.immowelt.de/expose/6c82b97e-93c5-44b3-b805-6a76b45fb87e";4044
+"Limmer, Hannover (30453),209.000 € 3.850 €/m²,2 Zimmer,""54,3 m²"",Unknown,https://www.immowelt.de/expose/47a565ae-d325-47d4-9dea-bea7de603602";4044
+"Seelhorst, Hannover (30159),250.000 € 4.167 €/m²,""1,5 Zimmer"",60 m²,frei ab sofort,https://www.immowelt.de/expose/a3d7faf2-e091-4af2-af53-8488949ceaf9";4044
+Podbielskistraße 196, List, Hannover - List (30177),665.000 € 6.217 €/m²,3 Zimmer,107 m²,Unknown,https://www.immowelt.de/expose/6990f004-8b9f-4316-8d20-06db5ce868a3;4044
+"Davenstedt, Hannover / Davenstedt (30455),189.000 € 2.495 €/m²,3 Zimmer,""75,8 m²"",1. Geschoss,https://www.immowelt.de/expose/f3f53e07-373f-41c2-adcf-01c94c4cef4a";4044
+"Unknown,Unknown,1 Zimmer,""44,9 m²"",UG,https://www.immowelt.de/projekte/expose/k224832";4044
+Stöcken, Hannover (30419),199.000 € 2.653 €/m²,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/14a14fde-bb1e-40ba-b8db-d4bc28ea60cc;4044
+Groß-Buchholz, Hannover (30655),350.000 € 2.778 €/m²,6 Zimmer,126 m²,281 m² Grundstück,https://www.immowelt.de/expose/46171d08-9570-454f-a9ee-186e8f47ff08;4044
+"Overbeckstraße 5, List, Hannover - List (30177),675.000 € 8.118 €/m²,2 Zimmer,""83,2 m²"",Unknown,https://www.immowelt.de/expose/b1bb5516-d28f-4951-86ac-3c1510058487";4044
+"Podbielskistraße 196, List, Hannover - List (30177),435.000 € 6.737 €/m²,2 Zimmer,""64,6 m²"",Unknown,https://www.immowelt.de/expose/f18e8900-95db-4951-aaa3-4f86e4f6c284";4044
+"Podbielskistraße 196, List, Hannover - List (30177),454.000 € 6.541 €/m²,2 Zimmer,""69,4 m²"",Unknown,https://www.immowelt.de/expose/567f4575-fded-40d2-bcc9-347f8b6c08fe";4044
+"Podbielskistraße 196, List, Hannover - List (30177),679.000 € 6.492 €/m²,3 Zimmer,""104,6 m²"",Unknown,https://www.immowelt.de/expose/84c247b9-e1a3-49ff-b371-1c442135b82b";4044
+"Podbielskistraße 196, List, Hannover - List (30177),295.000 € 6.076 €/m²,2 Zimmer,""48,6 m²"",Unknown,https://www.immowelt.de/expose/9db9a5e4-19cd-4acc-abd4-ded5a5a887ba";4044
+Zoo, Hannover / Zoo (30175),849.000 € 1.415 €/m²,17 Zimmer,600 m²,6.819 m² Grundstück,https://www.immowelt.de/expose/828d5c67-993f-4d7f-99ec-298a34f1edb7;4044
+Kirchrode, Hannover (30559),158.000 € 2.821 €/m²,2 Zimmer,56 m²,EG,https://www.immowelt.de/expose/4f83e132-a9fb-4780-9989-fdb22fd5fe63;4044
+"Bornumer Straße -, Bornum, Hannover / Bornum (30453),489.900 € 4.083 €/m²,""4,5 Zimmer"",120 m²,407 m² Grundstück,https://www.immowelt.de/expose/d5167ee5-9bea-418f-a8dc-cdc6dd087aa1";4044
+"Unknown,Unknown,5 Zimmer,""133,5 m²"",Unknown,https://www.immowelt.de/projekte/expose/k2jm832";4044
+"List, Hannover (30177),737.500 € 5.156 €/m²,4 Zimmer,""143,1 m²"",Unknown,https://www.immowelt.de/expose/a9934d31-d4aa-4c75-ba60-16183ad5f7cf";4044
+"Podbielskistraße 196, List, Hannover - List (30177),369.000 € 5.821 €/m²,1 Zimmer,""63,4 m²"",Unknown,https://www.immowelt.de/expose/5199a3ea-7c33-4bc3-bde6-1527a2f8ac0d";4044
+"Podbielskistraße 196, List, Hannover - List (30177),945.000 € 7.823 €/m²,4 Zimmer,""120,8 m²"",Unknown,https://www.immowelt.de/expose/af7fbf83-3cda-42d8-8c0a-ed96bfe9e60e";4044
+"List, Hannover (30177),698.500 € 5.261 €/m²,4 Zimmer,""132,8 m²"",Unknown,https://www.immowelt.de/expose/70053b2d-c927-4088-a822-8301e7da381b";4044
+Elbestr. 6, Leinhausen, Hannover (30419),180.000 € 900 €/m²,6 Zimmer,200 m²,3. Geschoss,https://www.immowelt.de/expose/b029792c-7e24-4a6b-b9f4-0993f9af6f04;4044
+"Unknown,Unknown,""4,5 Zimmer"",118 m²,273 m² Grundstück,https://www.immowelt.de/projekte/expose/k2rc532";4044
+"Unknown,Unknown,""4,5 Zimmer"",118 m²,238 m² Grundstück,https://www.immowelt.de/projekte/expose/k2rc532";4044
+"List, Hannover (30163),298.000 € 3.293 €/m²,4 Zimmer,""90,5 m²"",Unknown,https://www.immowelt.de/expose/dee31264-65a0-449a-a626-349459d3281e";4044
+Südstadt, Hannover-Südstadt (30171),159.000 € 2.891 €/m²,2 Zimmer,55 m²,3. Geschoss,https://www.immowelt.de/expose/230acde6-4f3c-43a2-a216-d381ab40bee1;4044
+"Mühlenberg, Hannover (30457),160.000 € 1.628 €/m²,4 Zimmer,""98,3 m²"",EG,https://www.immowelt.de/expose/a51eaba0-2dc4-4b5f-8ad2-28ce7ad405f3";4044
+Misburg-Nord, Hannover-Misburg-Nord (30627),138.000 € 2.421 €/m²,2 Zimmer,57 m²,7. Geschoss,https://www.immowelt.de/expose/9f351859-496c-46b2-a8d0-c9fcc69e70ae;4044
+Nordstadt, Hannover (30167),416.000 € 3.888 €/m²,3 Zimmer,107 m²,1. Geschoss,https://www.immowelt.de/expose/f6c97347-3caf-4c27-8b6a-01d7dd6d7d26;4044
+"Julienne-Trouet-Platz 29, Limmer, Hannover (30453),210.000 € 4.691 €/m²,2 Zimmer,""44,8 m²"",1. Geschoss,https://www.immowelt.de/expose/8a16f8e5-a30d-4351-bb1a-593b3360fd6b";4044
+"Limmer, Hannover (30453),430.000 € 4.918 €/m²,3 Zimmer,""87,4 m²"",1. Geschoss,https://www.immowelt.de/expose/1461441f-5c92-444a-ae03-cd80ded5763b";4044
+"Julienne-Trouet-Platz 29, Limmer, Hannover (30453),335.000 € 5.334 €/m²,2 Zimmer,""62,8 m²"",frei ab sofort,https://www.immowelt.de/expose/82e89c6a-0ec9-4115-9075-b474c5c092d5";4044
+"Unknown,Unknown,3 Zimmer,""102,1 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2hg632";4044
+Linden-Nord, Hannover (30451),137.000 € 2.404 €/m²,2 Zimmer,57 m²,1. Geschoss,https://www.immowelt.de/expose/ebd63495-a6cd-4504-86e1-1dbf8396cb59;4044
+"Julienne-Trouet-Platz 27 u. 29, Limmer, Hannover (30453),684.500 € 6.502 €/m²,4 Zimmer,""105,3 m²"",1. Geschoss,https://www.immowelt.de/expose/4d4440fa-3b1b-4c04-90a6-5ee28f49346b";4044
+"Julienne-Trouet-Platz 29, Limmer, Hannover (30453),530.400 € 5.556 €/m²,3 Zimmer,""95,5 m²"",frei ab sofort,https://www.immowelt.de/expose/79ebf10b-7b08-43c1-8c97-78ff1caccacd";4044
+"Julienne-Trouet-Platz 21, Limmer, Hannover (30453),409.800 € 5.706 €/m²,2 Zimmer,""71,8 m²"",frei ab sofort,https://www.immowelt.de/expose/42efe339-29a2-458d-a45f-080ea85a4f59";4044
+Misburg-Nord, Hannover (30629),305.000 € 3.765 €/m²,4 Zimmer,81 m²,200 m² Grundstück,https://www.immowelt.de/expose/b4b8a4c6-ff4b-4a2d-b23b-aa0cdf39a078;4044
+"Julienne-Trouet-Platz 35, Limmer, Hannover (30453),599.000 € 7.377 €/m²,3 Zimmer,""81,2 m²"",frei ab sofort,https://www.immowelt.de/expose/b523e734-ddb5-4b9e-bdb4-a29b1370f219";4044
+"Julienne-Trouet-Platz 35, Limmer, Hannover (30453),486.800 € 5.651 €/m²,3 Zimmer,""86,2 m²"",frei ab sofort,https://www.immowelt.de/expose/ee905400-80d7-4c55-bc47-a02d6e47d2f8";4044
+"Julienne-Trouet-Platz 35, Limmer, Hannover (30453),385.300 € 6.441 €/m²,2 Zimmer,""59,8 m²"",frei ab sofort,https://www.immowelt.de/expose/d1bd09e4-c48a-437c-a03c-f6bc8c7f7fb0";4044
+"Julienne-Trouet-Platz 35, Limmer, Hannover (30453),1.049.000 € 8.498 €/m²,""4,5 Zimmer"",""123,4 m²"",frei ab sofort,https://www.immowelt.de/expose/36c8a794-7c27-4b6f-a4c0-10090959396f";4044
+"Julienne-Trouet-Platz 35, Limmer, Hannover (30453),414.800 € 7.525 €/m²,2 Zimmer,""55,1 m²"",frei ab sofort,https://www.immowelt.de/expose/311d48e2-372e-4ae1-b087-85fa97c0deba";4044
+Merianweg 9, Groß-Buchholz, Hannover (30655),240.000 € 3.478 €/m²,3 Zimmer,69 m²,Unknown,https://www.immowelt.de/expose/cfb2aa27-1d83-47eb-b444-207d13eac052;4044
+Südstadt, Hannover (30173),295.000 € 3.831 €/m²,2 Zimmer,77 m²,Unknown,https://www.immowelt.de/expose/435c1e35-71ee-4e0e-9db1-5ccd49dff0d9;4044
+Badenstedt, Hannover (30455),849.000 € 3.329 €/m²,8 Zimmer,255 m²,798 m² Grundstück,https://www.immowelt.de/expose/6468b787-bd38-4da7-afb0-9fb20db0d8eb;4044
+Tintentrift, List, Hannover (30177),400.000 € 3.252 €/m²,4 Zimmer,123 m²,frei ab sofort,https://www.immowelt.de/expose/87b82e89-5b38-4ac6-b419-0ebdd5607fc0;4044
+"Gorch-Fock-Straße, List, Hannover (30177),200.000 € 2.284 €/m²,3 Zimmer,""87,6 m²"",frei ab sofort,https://www.immowelt.de/expose/c8e37ef5-1dcb-4536-997f-2610a649b8bb";4044
+Emdenstr., Calenberger Neustadt, Hannover (30167),220.000 € 3.014 €/m²,3 Zimmer,73 m²,frei ab sofort,https://www.immowelt.de/expose/36cab8b7-2e36-4930-83e5-735733f17cbf;4044
+Misburg-Nord, Hannover (30629),365.000 € 3.967 €/m²,3 Zimmer,92 m²,337 m² Grundstück,https://www.immowelt.de/expose/193d18b0-b7db-4603-bb80-9c56278c3676;4044
+Muthesiusweg, Kirchrode, Hannover (30559),140.000 € 1.186 €/m²,5 Zimmer,118 m²,280 m² Grundstück,https://www.immowelt.de/expose/b6e4759a-7e2f-4355-865b-3ada57c930a7;4044
+Ostwenderstr, Oststadt, Hannover (30161),150.000 € 1.899 €/m²,3 Zimmer,79 m²,frei ab sofort,https://www.immowelt.de/expose/013f77cd-a99e-4a7d-92d4-99f678e75d34;4044
+"Große Düwelstr.  B, Südstadt, Hannover (30171),160.000 € 1.273 €/m²,3 Zimmer,""125,7 m²"",frei ab sofort,https://www.immowelt.de/expose/ad39d86a-25c4-42ec-99ef-abaa71c6afd3";4044
+Tiergartenstr., Kirchrode, Hannover (30559),170.000 € 1.650 €/m²,3 Zimmer,103 m²,frei ab sofort,https://www.immowelt.de/expose/040559a6-80ac-4662-8f2e-b526c809c3f6;4044
+Zoo, Hannover / Zoo (30175),836.000 € 4.918 €/m²,6 Zimmer,170 m²,153 m² Grundstück,https://www.immowelt.de/expose/aabfd1df-518b-4d19-a29c-dec71b39633d;4044
+"Nordstadt, Hannover (30167),180.000 € 3.396 €/m²,2 Zimmer,""53,2 m²"",EG,https://www.immowelt.de/expose/89fadf0b-8a27-42b8-83aa-53181d9bd095";4044
+Badenstedt, Hannover (30455),990.000 € 5.051 €/m²,6 Zimmer,196 m²,582 m² Grundstück,https://www.immowelt.de/expose/a9087bbb-ce46-4a77-b5df-c4aab4efbf2f;4044
+"Langenhagen - Langenforth, Langenhagen (30851),245.000 € 3.500 €/m²,2 Zimmer,""70,2 m²"",5. Geschoss,https://www.immowelt.de/expose/89455e4c-6033-45d7-a5a5-e6f6bc6113d9";4044

@@ -1,600 +1,600 @@
-﻿Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL
-"Wichlinghofen, Dortmund (44265)",869.000 € 2.897 €/m²,10 Zimmer,300 m²,1.225 m² Grundstück,https://www.immowelt.de/expose/614dace5-25fb-478b-b950-e089a55e2367
-"Diemelstraße 52, Aplerbecker Mark, Dortmund (44287)",497.900 € 4.750 €/m²,3 Zimmer,"104,8 m²",2. Geschoss,https://www.immowelt.de/expose/b4a74235-b74b-4787-96e4-00aa39d72e6a
-"Mengeder Heide, Dortmund (44359)",389.000 € 2.288 €/m²,"6,5 Zimmer",170 m²,364 m² Grundstück,https://www.immowelt.de/expose/82ce61b8-49b0-41cd-9672-a91d27bb0c7c
-"Lanstrop-Alt, Lanstrop (4439)",439.750 € 3.490 €/m²,6 Zimmer,126 m²,410 m² Grundstück,https://www.immowelt.de/expose/829ea1b3-c883-4c3c-9419-ef4dbcd19ef2
-"Krokusweg 3, Sölde - Nord, Dortmund (44289)",107.000 € 2.337 €/m²,"2,5 Zimmer","45,8 m²",2. Geschoss,https://www.immowelt.de/expose/ac831a95-8e0b-4d5a-af94-4fb79dc0639f
-"Schulte-Heuthaus-Straße 51, Marten, Dortmund (44379)",172.000 € 2.163 €/m²,"3,5 Zimmer","79,5 m²",1. Geschoss,https://www.immowelt.de/expose/5404a103-5adb-4a6b-b40b-70ac2e3e13dc
-"Holzen, Dortmund (44267)",1.099.000 € 4.737 €/m²,6 Zimmer,232 m²,638 m² Grundstück,https://www.immowelt.de/expose/53a4e99f-c4b9-4cde-82af-bc503f6e5e12
-"Mengede-Mitte, Dortmund / Mengede (44359)",529.900 € 3.706 €/m²,"5,5 Zimmer",143 m²,266 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532
-"Stadtrat-Cremer-Allee 28, Gartenstadt - Süd, Dortmund (44141)",427.300 € 6.783 €/m²,"2,5 Zimmer",63 m²,Unknown,https://www.immowelt.de/projekte/expose/k2tp732
-"Stadtrat-Cremer-Allee 28, Gartenstadt - Süd, Dortmund (44141)",706.900 € 6.732 €/m²,"3,5 Zimmer",105 m²,Unknown,https://www.immowelt.de/projekte/expose/k2tp732
-"Westheck, Dortmund (44309)",120.000 € 2.182 €/m²,"2,5 Zimmer",55 m²,frei ab sofort,https://www.immowelt.de/expose/22d5f010-0ed4-442d-95ae-ced79d0086e8
-"Bittermarkstraße 50, Bittermark, Dortmund (44229)",292.800 € 5.631 €/m²,"2,5 Zimmer",52 m²,Unknown,https://www.immowelt.de/projekte/expose/k2uk532
-"Kirchhörde - West, Dortmund (44229)",289.000 € 3.176 €/m²,3 Zimmer,91 m²,50. Geschoss,https://www.immowelt.de/expose/9771bc81-c6fc-4879-9e5d-e90ab531a7b2
-"Sichterweg 16, Sölde - Nord, Dortmund (44289)",290.000 € 2.878 €/m²,4 Zimmer,"100,8 m²",181 m² Grundstück,https://www.immowelt.de/expose/e259db34-c3e7-45fb-8c34-21a257fabd12
-"Wischlingen, Dortmund (44369)",330.000 € 2.750 €/m²,6 Zimmer,120 m²,687 m² Grundstück,https://www.immowelt.de/expose/716db5d0-112b-4c88-9c5a-ec4407d013da
-"Westpark, Dortmund (44137)",299.800 € 3.785 €/m²,"2,5 Zimmer","79,2 m²",2. Geschoss,https://www.immowelt.de/expose/ccc4c178-5bed-4895-afcc-a0904d8e8ae3
-"Am Bahnhof Tierpark 1-3, Renninghausen, Dortmund (44225)",415.800 € 3.882 €/m²,"107,1 m²",Unknown,Unknown,https://www.immowelt.de/expose/60dfa277-3e83-4bb4-a941-8590a69d17f5
-"Alte Kolonie, Dortmund (44359)",650.000 €,921 m²,1.925 m² Grundstück,Unknown,https://www.immowelt.de/expose/53ba7642-81c0-41d2-bf10-fd95db6cbfaa
-"Lücklemberg, Dortmund (44229)",1.490.000 € 4.822 €/m²,7 Zimmer,309 m²,979 m² Grundstück,https://www.immowelt.de/expose/a55a9c67-5415-4a1f-8767-0f9aa3278166
-"Holte - Kreta, Dortmund (44388)",135.500 € 1.506 €/m²,5 Zimmer,90 m²,3. Geschoss,https://www.immowelt.de/expose/2c9ab171-4f5d-437d-96e4-3a2d62e4c5ea
-"Sölde - Nord, Dortmund (44289)",149.000 € 2.129 €/m²,2 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/af99a469-ea9a-4e88-973a-fa0837c2ca8e
-"Wickede Dorf, Dortmund (44319)",119.500 € 1.911 €/m²,3 Zimmer,"62,5 m²",1. Geschoss,https://www.immowelt.de/expose/e1935187-af71-4e1c-bb17-f57cad3075da
-"Funkenburg, Dortmund (44143)",119.000 € 2.429 €/m²,2 Zimmer,49 m²,3. Geschoss,https://www.immowelt.de/expose/feca4ec1-700f-4767-a1b7-4f06a7fe90dc
-"Bodelschwingh, Dortmund (44357)",185.000 € 1.360 €/m²,5 Zimmer,136 m²,Unknown,https://www.immowelt.de/expose/5e3b81f0-e716-4dd4-8e69-dfad13c436ce
-"Brackel Dorf, Dortmund (44309)",345.000 € 3.613 €/m²,"5,5 Zimmer","95,5 m²",146 m² Grundstück,https://www.immowelt.de/expose/6a2810b7-152f-47a0-8053-93bea2348f46
-"Oespel, Dortmund (44149)",510.000 € 404 €/m²,12 Zimmer,1.263 m²,1.687 m² Grundstück,https://www.immowelt.de/expose/083a622b-c776-400c-842b-643cb83d579a
-"Insterburgsiedlung, Dortmund (44369)",148.000 € 2.206 €/m²,"3,5 Zimmer","67,1 m²",frei ab 01.02.2025,https://www.immowelt.de/expose/f698b2d1-0bdd-43fa-ae6d-6594e7ed866b
-"Ostenbergstraße, Dortmund (44225)",207.000 € 2.688 €/m²,3 Zimmer,77 m²,1. Geschoss,https://www.immowelt.de/expose/b3015ed7-85f0-43a1-968a-90904a2c8a06
-"Nette, Dortmund (44359)",159.000 € 1.939 €/m²,3 Zimmer,82 m²,Unknown,https://www.immowelt.de/expose/6d400e84-8bd7-4d41-b397-e48eaead8fa1
-"Dachstraße 47, Nette, Dortmund / Nette (44359)",555.000 € 2.721 €/m²,10 Zimmer,204 m²,668 m² Grundstück,https://www.immowelt.de/expose/2cff0529-315a-472d-89f8-91540a4a4665
-"Insterburgsiedlung, Dortmund (44369)",138.000 € 2.944 €/m²,"2,5 Zimmer","46,9 m²",frei ab sofort,https://www.immowelt.de/expose/a9c1f1b6-d700-4cf9-ac4d-857ba2a537e6
-"Brechten - Süd, Dortmund (44339)",150.000 € 7.260 €/m²,1 Zimmer,"20,7 m²",Unknown,https://www.immowelt.de/expose/f7523fc4-c669-4bf1-9c75-9bf28884729c
-"Westfalendamm - Süd, Dortmund (44141)",425.000 € 2.833 €/m²,5 Zimmer,150 m²,2. Geschoss,https://www.immowelt.de/expose/bae5b902-f917-4af4-a718-e5da3c1d0128
-"Hörde, Dortmund (44263)",256.830 € 4.411 €/m²,2 Zimmer,"58,2 m²",1. Geschoss,https://www.immowelt.de/expose/e86fc365-f5eb-4d84-bc07-76bd2a21a8b1
-"Franz-Zimmer-Siedlung, Dortmund (44329)",320.000 € 3.168 €/m²,5 Zimmer,101 m²,650 m² Grundstück,https://www.immowelt.de/expose/a4f962c7-4fb6-4201-acfd-1d9f46b417aa
-"Rüpingstr. 1, Reichshof, Dortmund (44309)",229.000 € 2.245 €/m²,"3,5 Zimmer",102 m²,Unknown,https://www.immowelt.de/expose/a52d3760-3867-480e-9289-781c4d3e681c
-"Schönau, Dortmund (44227)",350.000 € 1.675 €/m²,9 Zimmer,209 m²,674 m² Grundstück,https://www.immowelt.de/expose/1fd490c8-a223-45a4-8e49-d1cf5e5198c4
-"Mengede-Mitte, Mengede (44139)",327.000 € 2.299 €/m²,4 Zimmer,"142,2 m²",442 m² Grundstück,https://www.immowelt.de/expose/32686535-675f-4a02-9712-1aedaeeb007a
-"Alte Kolonie, Dortmund (44359)",229.000 € 3.817 €/m²,3 Zimmer,60 m²,295 m² Grundstück,https://www.immowelt.de/expose/a1921291-907a-43d7-a0d8-cfbab3db38dc
-"Holzen, Dortmund (44267)",559.000 € 3.630 €/m²,5 Zimmer,154 m²,550 m² Grundstück,https://www.immowelt.de/expose/40081efb-9d26-4546-a951-4745c2294624
-"Marten, Dortmund (44379)",350.000 € 1.336 €/m²,10 Zimmer,262 m²,308 m² Grundstück,https://www.immowelt.de/expose/95548c0f-6df2-46b1-8da1-22579cb5c47f
-"Dollersweg, Dortmund (44319)",239.000 € 2.234 €/m²,4 Zimmer,107 m²,Unknown,https://www.immowelt.de/expose/d70832a7-9d8f-42a1-b60c-5d58a7710bff
-"Aplerbecker Markt, Dortmund (44287)",449.000 € 2.897 €/m²,4 Zimmer,155 m²,290 m² Grundstück,https://www.immowelt.de/expose/8f1300e9-90d0-4734-8969-043d7b0a608f
-"Westerfilde, Dortmund (44357)",285.000 € 4.191 €/m²,5 Zimmer,68 m²,2. Geschoss,https://www.immowelt.de/expose/becdbce7-9fd1-4a7f-bd21-45c933fc1edb
-"Gibbenhey, Eichlinghofen, Dortmund (44227)",276.000 € 2.816 €/m²,"3,5 Zimmer",98 m²,2. Geschoss,https://www.immowelt.de/expose/b1e13ee6-b89f-4696-949b-f0a035ba61d1
-"Nordmarkt - West, Dortmund (44147)",140.000 € 2.500 €/m²,"2,5 Zimmer",56 m²,Unknown,https://www.immowelt.de/expose/6e4457fe-59fe-4359-be02-1984262bdabc
-"Wickeder Feld, Dortmund (44319)",212.000 € 3.072 €/m²,3 Zimmer,69 m²,386 m² Grundstück,https://www.immowelt.de/expose/c30029e1-ab96-4309-9351-e1920d20f746
-"Wichlinghofen, Dortmund (44265)",Preis auf Anfrage,10 Zimmer,265 m²,662 m² Grundstück,https://www.immowelt.de/expose/f8c1d079-5e03-45a5-bb62-56174789da06
-Unknown,Unknown,"4,5 Zimmer","94,2 m²",EG,https://www.immowelt.de/projekte/expose/k2xg632
-"Buchholz, Dortmund / Buchholz (44265)",1.570.000 € 5.233 €/m²,8 Zimmer,300 m²,1.794 m² Grundstück,https://www.immowelt.de/expose/e6459fea-a3e7-427d-a820-db9443b52a10
-"Brechten - Nord, Dortmund / Brechten (44339)",265.000 € 2.208 €/m²,4 Zimmer,120 m²,200 m² Grundstück,https://www.immowelt.de/expose/12133a0a-369e-4eb4-b0fa-b8d0f292c368
-"Jonathanstraße 25, Mengede-Mitte, Dortmund (44359)",279.900 € 4.241 €/m²,2 Zimmer,66 m²,EG,https://www.immowelt.de/expose/703c6c7c-bcef-44b5-9dae-dc802485949c
-"Kirchhörde - Nord, Dortmund (44229)",680.000 € 3.036 €/m²,7 Zimmer,224 m²,819 m² Grundstück,https://www.immowelt.de/expose/c50ab52e-32e6-46cf-a430-4c65a2979945
-"Derne, Dortmund (44329)",489.000 € 1.956 €/m²,8 Zimmer,250 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/efb3258d-5dd1-42c7-9274-d69ac0dc429c
-"Nordmarkt - Südost, Dortmund (44145)",129.000 € 1.554 €/m²,3 Zimmer,83 m²,4. Geschoss,https://www.immowelt.de/expose/416420a2-7a36-460d-a567-237f774a82ad
-"Schüren-Neu, Dortmund (44269)",798.000 € 4.245 €/m²,5 Zimmer,188 m²,364 m² Grundstück,https://www.immowelt.de/expose/c7030d52-a27a-49cf-a770-1b0bd0fd45bd
-"Aplerbecker Straße, Dortmund (44287)",160.000 € 3.077 €/m²,2 Zimmer,52 m²,1. Geschoss,https://www.immowelt.de/expose/5d272c84-2a96-4e57-98a6-c3b966b26356
-"Berghofen Dorf, Dortmund (44269)",350.000 € 1.606 €/m²,10 Zimmer,218 m²,164 m² Grundstück,https://www.immowelt.de/expose/63afdb5f-cb67-40da-86cb-b97d11d9c609
-"Marten, Dortmund (44379)",159.000 € 2.208 €/m²,"4,5 Zimmer",72 m²,EG,https://www.immowelt.de/expose/76b01b31-a147-402b-bf40-0cebba8d9f99
-"Vieselerhofstraße, Dortmund (44287)",349.000 € 2.815 €/m²,"5,5 Zimmer",124 m²,139 m² Grundstück,https://www.immowelt.de/expose/d2411e71-178c-425f-8536-134a05a992ee
-"Markusstraße 24a, Syburg, Dortmund / Syburg (44265)",338.000 € 3.729 €/m²,3 Zimmer,"90,7 m²",Unknown,https://www.immowelt.de/expose/94d26222-994c-4114-8499-95273bf7b408
-"Benninghofen, Dortmund (44269)",249.000 € 3.146 €/m²,2 Zimmer,"79,1 m²",frei ab sofort,https://www.immowelt.de/expose/51b1ce36-8888-4c5c-ad29-01031250a779
-"Aplerbecker Markt, Dortmund / Aplerbeck (44287)",980.000 € 4.900 €/m²,4 Zimmer,200 m²,799 m² Grundstück,https://www.immowelt.de/expose/71b99ddc-10a1-4d92-80fb-66ecc5783307
-"Wischlingen, Dortmund (44369)",373.489 € 4.522 €/m²,"3,5 Zimmer","82,6 m²",EG,https://www.immowelt.de/expose/126b9551-9fa1-4f8a-b5d6-9cc8e0b63d9d
-"Spissenagelstr. 90, Bittermark, Dortmund (44229)",Preis auf Anfrage,7 Zimmer,272 m²,441 m² Grundstück,https://www.immowelt.de/expose/bc78a9d7-7443-44f5-b97c-35c7f936d342
-"Berghofen Dorf, Dortmund / Berghofen (44269)",448.000 € 1.829 €/m²,"9,5 Zimmer",245 m²,640 m² Grundstück,https://www.immowelt.de/expose/333a24d3-a028-461f-a2e0-cc63723adc52
-"Holzen, Dortmund (44267)",417.800 € 2.143 €/m²,10 Zimmer,195 m²,957 m² Grundstück,https://www.immowelt.de/expose/16e18b47-807e-4461-8b2d-8104cccdc738
-"Gartenstadt - Nord, Dortmund (44141)",2.950.000 € 4.638 €/m²,14 Zimmer,636 m²,1.542 m² Grundstück,https://www.immowelt.de/expose/cc622435-4f2d-44ed-8054-ead2ef2421b2
-"Holtestr. 117, Holte - Kreta, Dortmund (44388)",125.000 € 1.645 €/m²,"2,5 Zimmer",76 m²,1. Geschoss,https://www.immowelt.de/expose/45fa32b8-c670-41a4-8698-3421f85c0b1f
-"Benninghofen, Dortmund (44267)",89.000 € 2.225 €/m²,"1,5 Zimmer",40 m²,Unknown,https://www.immowelt.de/expose/a5a72641-85cd-4f71-84d3-47f2d1c62f73
-"Kirchhörde - West, Dortmund (44229)",289.000 € 3.176 €/m²,3 Zimmer,91 m²,Unknown,https://www.immowelt.de/expose/3135e62e-3ceb-42a7-9bd8-118a9551bcc3
-"Krückenweg, Dortmund (44225)",385.000 € 3.407 €/m²,"4,5 Zimmer",113 m²,200 m² Grundstück,https://www.immowelt.de/expose/15ce0412-5495-423a-abb5-6580c91381a1
-"Mergelteichstr. 1, Renninghausen, Dortmund (44225)",258.000 € 3.146 €/m²,3 Zimmer,82 m²,1. Geschoss,https://www.immowelt.de/expose/95b47c29-ed19-4fa6-84d0-52150c877483
-"Brechten - Süd, Dortmund (44339)",159.000 € 2.239 €/m²,3 Zimmer,71 m²,EG,https://www.immowelt.de/expose/3f332889-2910-4f40-a042-4d1ef34f2e06
-"City - Ost, Dortmund (44135)",2.950.000 € 5.157 €/m²,572 m²,194 m² Grundstück,Unknown,https://www.immowelt.de/expose/5bb846f8-49e3-4eb5-8028-cad4c377a58c
-"Hamburger Straße 3, Kaiserbrunnen, Dortmund (44135)",Preis auf Anfrage,1.027 m²,270 m² Grundstück,Unknown,https://www.immowelt.de/expose/f6bc1185-ea5c-41fd-9d47-a44995e89f36
-"Auf dem Schnee 145, Schnee, Dortmund (44227)",550.000 € 2.183 €/m²,8 Zimmer,252 m²,1.770 m² Grundstück,https://www.immowelt.de/expose/fc10d808-bdfd-4172-a05a-51176cf75e1f
-"Flughafenstr. 385, Westholz, Dortmund (44328)",249.000 € 2.284 €/m²,4 Zimmer,109 m²,2. Geschoss,https://www.immowelt.de/expose/dc39fb93-4ce5-4b49-a6ab-dfed2259e233
-"-, Lindenhorst, Dortmund (44147)",899.000 € 5.619 €/m²,6 Zimmer,160 m²,230 m² Grundstück,https://www.immowelt.de/expose/2717cf01-bdb6-41ce-9d4c-1d4971c721b1
-"Niedereving, Dortmund (44339)",360.000 € 2.727 €/m²,6 Zimmer,132 m²,295 m² Grundstück,https://www.immowelt.de/expose/1a5ccb9d-39d2-469f-a492-4570d229c78f
-"Hostedde, Dortmund (44329)",434.873 € 3.782 €/m²,115 m²,300 m² Grundstück,Unknown,https://www.immowelt.de/expose/1414e07f-411b-44f6-a26f-c2467ee89855
-"Hostedde, Dortmund (44329)",639.500 € 4.207 €/m²,152 m²,820 m² Grundstück,Unknown,https://www.immowelt.de/expose/f6759709-2744-46a9-ae9e-2e92bf102568
-"City - Ost, Dortmund (44135)",244.690 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/f4242ebd-31c5-4cfc-bd37-e61e9b579765
-"Hostedderstraße 133, Grevel, Dortmund (44329)",470.525 € 3.460 €/m²,5 Zimmer,136 m²,410 m² Grundstück,https://www.immowelt.de/expose/856fcf0d-3f63-41e3-bb1d-502d6c94b749
-"Hostedderstraße 133, Grevel, Dortmund (44329)",470.525 € 3.460 €/m²,5 Zimmer,136 m²,410 m² Grundstück,https://www.immowelt.de/expose/2c916dd3-644b-405d-9230-c7d6ecd3fb71
-"Berghofen Dorf, Dortmund (44269)",358.000 € 3.497 €/m²,"4,5 Zimmer","102,4 m²",419 m² Grundstück,https://www.immowelt.de/expose/bb71dd3c-048b-475c-a117-f4c6d0cd15e0
-"Aplerbeck Bahnhof Süd, Dortmund (44287)",985.000 € 2.855 €/m²,16 Zimmer,345 m²,"771,3 m² Grundstück",https://www.immowelt.de/expose/306940e8-7cc3-4003-b76c-967571a12ef8
-"Germania, Dortmund (44379)",270.686 € 4.505 €/m²,"3,5 Zimmer","60,1 m²",EG,https://www.immowelt.de/expose/2cb56403-10b3-4d80-8328-962e731c5d9a
-"Dorstfeld, Dortmund (44149)",129.000 € 2.016 €/m²,2 Zimmer,64 m²,Unknown,https://www.immowelt.de/expose/dc98b3f9-815e-4d04-b804-5c4dc5fd2e1f
-"Wambel Dorf, Dortmund (44143)",699.000 € 2.496 €/m²,16 Zimmer,280 m²,1.223 m² Grundstück,https://www.immowelt.de/expose/7ae4f26e-2014-4811-8be5-6176c8a450e3
-"Wickeder Feld, Dortmund (44319)",360.000 € 1.946 €/m²,185 m²,1.634 m² Grundstück,Unknown,https://www.immowelt.de/expose/ec064cd8-3424-4687-9778-5da4c3db1b10
-"Berghofen Dorf, Dortmund (44269)",729.000 € 4.050 €/m²,5 Zimmer,180 m²,800 m² Grundstück,https://www.immowelt.de/expose/a79844ac-6a34-40c7-87d1-563f80ab7d37
-"Wickeder Feld, Dortmund (44319)",360.000 € 1.946 €/m²,7 Zimmer,185 m²,1.634 m² Grundstück,https://www.immowelt.de/expose/62fdbe2b-3b84-446c-8541-ec64d70ba983
-"Höchsten, Dortmund (44267)",425.000 € 3.602 €/m²,1 Zimmer,118 m²,686 m² Grundstück,https://www.immowelt.de/expose/76153979-3aa4-4527-a82b-18edb0c194e9
-"Westfalendamm - Süd, Dortmund (44141)",229.000 € 2.863 €/m²,3 Zimmer,"80,2 m²",2. Geschoss,https://www.immowelt.de/expose/7bdc1124-ff7e-42a4-a620-0f27722df12b
-"Wickeder Feld, Dortmund (44319)",360.000 € 1.946 €/m²,185 m²,Unknown,Unknown,https://www.immowelt.de/expose/ee97d198-c993-4100-979a-f20af54e98bb
-"Kirchhörde - West, Dortmund (44229)",155.000 € 2.541 €/m²,2 Zimmer,61 m²,EG,https://www.immowelt.de/expose/b489bc32-83c4-4bae-add4-c39ef305d04c
-"Benninghofer Str. 185, Loh, Dortmund (44267)",1.099.000 € 2.689 €/m²,15 Zimmer,"408,7 m²","638,5 m² Grundstück",https://www.immowelt.de/expose/00a2e8aa-3567-45f8-a443-2dbe12379006
-"Marten, Dortmund (44379)",275.000 € 905 €/m²,10 Zimmer,304 m²,384 m² Grundstück,https://www.immowelt.de/expose/c505d44f-1558-48cd-ab64-cc355742d34a
-"Lücklemberg, Dortmund / Lücklemberg (44229)",189.000 € 2.908 €/m²,2 Zimmer,65 m²,EG,https://www.immowelt.de/expose/90fd3a6a-6012-44c9-8b9a-f5abb886d647
-"City - Ost, Dortmund (44135)",6.350.000 € 1.509 €/m²,4.208 m²,"1.630,2 m² Grundstück",Unknown,https://www.immowelt.de/expose/e9359454-d3f6-4067-bb7d-bd7bae4dfad8
-"Aplerbeck Bahnhof Süd, Dortmund (44287)",240.000 € 3.000 €/m²,3 Zimmer,80 m²,frei ab 01.01.2025,https://www.immowelt.de/expose/15b8e413-e752-4b53-939d-9c6c0e74e46a
-"Hostedde, Dortmund Hostedde (44329)",1.049.000 € 1.837 €/m²,19 Zimmer,571 m²,1.248 m² Grundstück,https://www.immowelt.de/expose/11749261-59bf-44e8-b17e-b94ddcc8f532
-"Mailoh, Dortmund (44369)",485.000 € 1.540 €/m²,15 Zimmer,315 m²,1.011 m² Grundstück,https://www.immowelt.de/expose/df856127-72db-4655-af98-c247b2c4201e
-"Husen - Süd, Kamen (59174)",265.000 € 2.409 €/m²,5 Zimmer,110 m²,369 m² Grundstück,https://www.immowelt.de/expose/72c0365b-0d1c-443e-8bd8-53e8d2415edd
-"In der Kumke 13, Derne, Dortmund (44329)",118.000 € 1.551 €/m²,"3,5 Zimmer","76,1 m²",1. Geschoss,https://www.immowelt.de/expose/479264ec-1ea8-4718-b5ca-71242ceaaf7f
-"In der Großen Heide 6, Obereving, Dortmund (44339)",114.800 € 1.877 €/m²,"3,5 Zimmer","61,2 m²",3. Geschoss,https://www.immowelt.de/expose/6df3f26f-6792-4cd8-8b23-8742870e01ae
-"Flughafen, Dortmund (44319)",189.000 € 1.718 €/m²,6 Zimmer,110 m²,319 m² Grundstück,https://www.immowelt.de/expose/c833fb68-57e0-46eb-9124-e224c4bc6484
-"Hallerey, Dortmund (44149)",350.000 € 3.500 €/m²,4 Zimmer,100 m²,305 m² Grundstück,https://www.immowelt.de/expose/34e2f266-efbd-4755-a8bc-c54200aab18b
-"Bodelschwingh, Dortmund (44357)",419.000 € 3.384 €/m²,5 Zimmer,"123,8 m²",616 m² Grundstück,https://www.immowelt.de/expose/1793f5b1-ba45-4436-9247-d36e4e8c6c07
-"MSA-Siedlung, Dortmund (44328)",399.000 € 2.850 €/m²,6 Zimmer,"140,3 m²","450,3 m² Grundstück",https://www.immowelt.de/expose/6d457a76-8429-4830-a2f0-8d3e1b58eaa8
-"Siedlung Rotkehlchenweg, Dortmund (44225)",170.000 € 2.125 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/01bb1dda-c60f-4cbb-9051-f74521904e66
-"Schüren-Alt, Dortmund (44269)",369.000 € 4.241 €/m²,"3,5 Zimmer",87 m²,2. Geschoss,https://www.immowelt.de/expose/0d97d1a1-f997-4aa4-8e61-576c0a82ef0e
-"Klobesstraße 4, Holte - Kreta, Dortmund (44388)",112.100 € 2.566 €/m²,2 Zimmer,"43,7 m²",1. Geschoss,https://www.immowelt.de/expose/1d6c1736-67fa-4b8f-925e-3222b283f167
-"Bövinghausen, Dortmund (44388)",720.000 € 4.045 €/m²,"5,5 Zimmer",178 m²,400 m² Grundstück,https://www.immowelt.de/expose/d964474a-b5f2-4c47-9e32-6eb70eb0d456
-"Berghofer Mark, Dortmund (44267)",425.000 € 3.602 €/m²,118 m²,686 m² Grundstück,Unknown,https://www.immowelt.de/expose/331fcc6f-0c0a-4418-84c4-f4acdb09304f
-"Eichlinghofen, Dortmund (44227)",1.150.000 € 3.132 €/m²,10 Zimmer,"367,1 m²",1.393 m² Grundstück,https://www.immowelt.de/expose/1a8f31fd-05df-4f2f-8bd5-a0791f1362d5
-"Eichlinghofen, Dortmund (44227)",1.250.000 € 3.342 €/m²,11 Zimmer,374 m²,571 m² Grundstück,https://www.immowelt.de/expose/5357aa1b-316f-4958-abf6-c76f921461dd
-"Gartenstadt - Süd, Dortmund / Gartenstadt (44141)",479.000 € 5.118 €/m²,2 Zimmer,"93,6 m²",2. Geschoss,https://www.immowelt.de/expose/fcb961bd-db8c-4a95-98f7-2d5d88ab2e7b
-"Brücherhof, Dortmund (44263)",4.749.500 € 4.464 €/m²,1.064 m²,1.150 m² Grundstück,frei ab 01.01.2025,https://www.immowelt.de/expose/8f621982-a9c7-4ad3-b043-91478a5a3a90
-"Holzen, Dortmund (44267)",1.549.000 € 4.704 €/m²,6 Zimmer,"329,3 m²",998 m² Grundstück,https://www.immowelt.de/expose/e89c20b4-9da0-4002-8ea4-1df41c7bfc7f
-"Aplerbecker Straße, Dortmund (44309)",685.431 € 4.205 €/m²,4 Zimmer,163 m²,747 m² Grundstück,https://www.immowelt.de/expose/891c1bf2-a9a1-45a9-a7a4-e2b0395229d6
-"Aplerbeck Bahnhof Süd, Dortmund (44287)",1.150.000 € 3.333 €/m²,16 Zimmer,"345,3 m²","771,3 m² Grundstück",https://www.immowelt.de/expose/3bbcf436-52bd-4a3e-8115-866880d8aa9c
-"Berghofer Mark, Dortmund (44267)",425.000 € 3.602 €/m²,118 m²,Unknown,Unknown,https://www.immowelt.de/expose/bd88dc58-5ff2-46a7-910c-bebeb843c72a
-"Derne, Dortmund (44329)",299.000 € 2.153 €/m²,4 Zimmer,"138,9 m²",250 m² Grundstück,https://www.immowelt.de/expose/1ffd1ff8-384a-4666-92bd-597b7298556a
-"Derne, Dortmund (44329)",309.000 € 2.161 €/m²,4 Zimmer,143 m²,260 m² Grundstück,https://www.immowelt.de/expose/9b36008a-04bd-4c73-b283-e32dfd69c743
-"Nordmarkt - West, Dortmund (44147)",79.000 € 1.463 €/m²,3 Zimmer,54 m²,1. Geschoss,https://www.immowelt.de/expose/0c0502e1-a154-4b44-89f5-45ee60e22aef
-"Goswinweg 8, Kolonie Holstein, Dortmund (44319)",169.000 € 2.253 €/m²,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/cdecb0c3-fc11-4e17-88e2-882ffb60801a
-"Derne, Dortmund (44329)",278.890 € 2.050 €/m²,5 Zimmer,136 m²,400 m² Grundstück,https://www.immowelt.de/expose/e1424558-3ed3-4d99-9ae2-cddda16eb071
-"Eichlinghofen, Dortmund (44227)",495.000 € 2.313 €/m²,5 Zimmer,214 m²,Unknown,https://www.immowelt.de/expose/f8561d56-f3b0-4307-884f-0c7d3e6ff3c6
-"Sölde - Süd, Dortmund (44289)",319.000 € 3.054 €/m²,4 Zimmer,"104,5 m²",320 m² Grundstück,https://www.immowelt.de/expose/62106cf9-a110-479f-aa21-7927c660b016
-"Hörde, Dortmund (44263)",820.000 € 2.200 €/m²,372 m²,506 m² Grundstück,Unknown,https://www.immowelt.de/expose/3f1e87b8-262b-4ddc-bcc0-fc0e51f16fd2
-"Oestrich, Dortmund (44357)",1.675.000 € 1.500 €/m²,1.116 m²,Unknown,Unknown,https://www.immowelt.de/expose/3ff9e27d-f86b-41fd-b394-2b40925b526c
-"Westfalendamm - Süd, Dortmund (44141)",1.799.000 € 2.140 €/m²,801 m²,675 m² Grundstück,Unknown,https://www.immowelt.de/expose/2d78e4ba-0986-4710-9b3e-010d4cdb3885
-"Kaiserbrunnen, Dortmund (44135)",899.000 € 4.860 €/m²,4 Zimmer,"185,4 m²",Unknown,https://www.immowelt.de/expose/808c5cb4-d0f1-4ea4-aaaa-5c1caed7838c
-"Husen - Süd, Dortmund (44319)",290.000 € 3.053 €/m²,4 Zimmer,95 m²,394 m² Grundstück,https://www.immowelt.de/expose/42f7d542-5ce4-49ac-b304-4dc0f6978d09
-"Brechten - Süd, Dortmund (44319)",120.000 € 2.105 €/m²,"3,5 Zimmer",57 m²,1. Geschoss,https://www.immowelt.de/expose/d2030b86-939b-4e09-adb7-6e06c4d39a54
-"Südwestfriedhof, Dortmund (44137)",179.000 € 3.196 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/2dd414a2-5618-469e-bb80-5fe008b9812b
-"Wickede Dorf, Dortmund (44319)",349.000 € 2.223 €/m²,5 Zimmer,157 m²,360 m² Grundstück,https://www.immowelt.de/expose/7ba256d6-257e-4943-8767-ac65adbae11c
-"Lanstrop-Alt, Dortmund (44329)",195.000 € 2.241 €/m²,4 Zimmer,87 m²,309 m² Grundstück,https://www.immowelt.de/expose/6344baf7-c8fa-4d8a-83e9-2f0459553cfb
-"Gartenstadt - Süd, Dortmund (44141)",889.000 € 3.865 €/m²,8 Zimmer,230 m²,1.039 m² Grundstück,https://www.immowelt.de/expose/f96b5362-7da8-4fa6-8036-7e4936353381
-"Mengeder Heide, Dortmund (44359)",289.000 € 3.184 €/m²,5 Zimmer,"90,8 m²",1. Geschoss,https://www.immowelt.de/expose/e389b1ca-052a-47e5-910f-3f39a1b8153e
-"Rahm, Dortmund (44369)",430.000 € 2.905 €/m²,5 Zimmer,148 m²,400 m² Grundstück,https://www.immowelt.de/expose/ec7ba937-d3bc-429d-b2d4-08b551608068
-"Sölderholz, Dortmund (44289)",395.000 € 2.883 €/m²,4 Zimmer,137 m²,338 m² Grundstück,https://www.immowelt.de/expose/e59c6533-0aba-41fb-8d20-aecd3d2b7b4d
-"Lanstrop-Alt, Dortmund (44329)",420.000 € 2.819 €/m²,"5,5 Zimmer",149 m²,503 m² Grundstück,https://www.immowelt.de/expose/f43aedc5-9cb3-4250-95c9-38f8635c2827
-"Kolonie Neuasseln, Dortmund (44309)",244.000 € 2.624 €/m²,"3,5 Zimmer",93 m²,2. Geschoss,https://www.immowelt.de/expose/323aafd6-8fab-4cd7-b206-159012de5596
-"Deipenbeck, Dortmund (44388)",399.000 € 2.280 €/m²,"5,5 Zimmer","175,1 m²","356,1 m² Grundstück",https://www.immowelt.de/expose/17a709a4-1d31-4782-9669-e8844aaed1b2
-"Asselburg, Dortmund (44319)",125.000 € 2.414 €/m²,2 Zimmer,"51,8 m²",2. Geschoss,https://www.immowelt.de/expose/f13700b6-02dd-4526-8847-c61d07e6df1d
-"Geranienstr. 18, Sölde - Nord, Dortmund (44289)",99.000 € 2.200 €/m²,"2,5 Zimmer",45 m²,EG,https://www.immowelt.de/expose/c35b3e3a-6e96-4855-9e20-1124f405dca7
-"Bittermark, Dortmund (44229)",197.700 € 1.557 €/m²,4 Zimmer,127 m²,Unknown,https://www.immowelt.de/expose/fb135b05-48cc-4e7f-9970-a6c80c9e9cb0
-"Bittermark, Dortmund (44229)",77.100 € 1.377 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/caf1360f-bed8-46e9-8c6b-09b03055c736
-"Bittermark, Dortmund (44229)",71.000 € 1.340 €/m²,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/4ea724d1-95c1-4221-b5bf-7643593f1c66
-"Westfalenhütte, Dortmund (44145)",407.000 € 1.153 €/m²,353 m²,187 m² Grundstück,Unknown,https://www.immowelt.de/expose/5630d313-2e87-4007-9e96-0ee368be0ef7
-"Dorstfeld, Dortmund (44149)",250.000 € 1.852 €/m²,11 Zimmer,135 m²,761 m² Grundstück,https://www.immowelt.de/expose/9d903e97-0fac-4a94-9b65-b50ead029f17
-"Diemelstraße 52, Aplerbecker Mark, Dortmund (44287)",454.900 € 4.754 €/m²,3 Zimmer,"95,7 m²",2. Geschoss,https://www.immowelt.de/expose/546c8390-31a1-4a44-becd-45bbad1f27ed
-"Berghofen Dorf, Dortmund (44269)",460.000 € 1.825 €/m²,10 Zimmer,252 m²,306 m² Grundstück,https://www.immowelt.de/expose/c943a77e-c971-47cc-8c6c-817f75c4da4f
-"Menglinghausen, Dortmund (44227)",733.181 € 4.399 €/m²,4 Zimmer,"166,7 m²",Unknown,https://www.immowelt.de/expose/34bade03-63b4-42d5-b078-d5332c60f413
-"Menglinghausen, Dortmund (44227)",415.042 € 4.150 €/m²,3 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/c6d75a53-7746-4f10-8459-00333ca74784
-"Menglinghausen, Dortmund (44227)",413.423 € 4.150 €/m²,3 Zimmer,"99,6 m²",Unknown,https://www.immowelt.de/expose/7b52d4a5-7d71-446c-982e-3950a76c6482
-"Menglinghausen, Dortmund (44227)",365.117 € 4.399 €/m²,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/c4276cd4-291c-4912-9df3-637501a99677
-"Menglinghausen, Dortmund (44227)",368.064 € 4.399 €/m²,3 Zimmer,"83,7 m²",Unknown,https://www.immowelt.de/expose/247dcc56-a6ec-41cb-8cb1-54c163904180
-"Menglinghausen, Dortmund (44227)",351.928 € 4.036 €/m²,3 Zimmer,"87,2 m²",1. Geschoss,https://www.immowelt.de/expose/f5257215-9a1b-43ad-9676-4cc84b76cf17
-"Menglinghausen, Dortmund (44227)",420.561 € 4.152 €/m²,3 Zimmer,"101,3 m²",2. Geschoss,https://www.immowelt.de/expose/27edf052-5583-4675-bd3b-60bc50e845a9
-"Menglinghausen, Dortmund (44227)",420.437 € 4.150 €/m²,3 Zimmer,"101,3 m²",1. Geschoss,https://www.immowelt.de/expose/4167eb1d-40be-4345-b87a-11d16c2a6df4
-"Menglinghausen, Dortmund (44227)",420.769 € 4.150 €/m²,3 Zimmer,"101,4 m²",Unknown,https://www.immowelt.de/expose/ccae2a42-8afd-4ead-9646-465916017712
-"Menglinghausen, Dortmund (44227)",416.328 € 4.152 €/m²,4 Zimmer,"100,3 m²",1. Geschoss,https://www.immowelt.de/expose/64dce1b5-5289-446e-8ae0-ee542317f534
-"Menglinghausen, Dortmund (44227)",414.876 € 4.150 €/m²,4 Zimmer,100 m²,2. Geschoss,https://www.immowelt.de/expose/de181ab9-242b-4ffa-9d6a-0208328e7633
-"Menglinghausen, Dortmund (44227)",373.431 € 4.399 €/m²,2 Zimmer,"84,9 m²",Unknown,https://www.immowelt.de/expose/d1556e12-7395-4bb3-9f87-bd4eca19d25e
-"Menglinghausen, Dortmund (44227)",388.440 € 4.154 €/m²,3 Zimmer,"93,5 m²",Unknown,https://www.immowelt.de/expose/3b3993d9-b066-43e3-b917-791bd70db5fa
-"Menglinghausen, Dortmund (44227)",420.686 € 4.187 €/m²,3 Zimmer,"100,5 m²",1. Geschoss,https://www.immowelt.de/expose/710694d2-1298-47c6-a284-3bcd6596d0c4
-"Menglinghausen, Dortmund (44227)",420.354 € 4.150 €/m²,4 Zimmer,"101,3 m²",1. Geschoss,https://www.immowelt.de/expose/a0547556-740f-47f5-9190-5513821c5b94
-"Menglinghausen, Dortmund (44227)",419.773 € 4.152 €/m²,3 Zimmer,"101,1 m²",Unknown,https://www.immowelt.de/expose/97c9e7e4-8010-4515-ae35-ca7cd46a6566
-"City - Ost, Dortmund (44135)",80.000 € 3.636 €/m²,1 Zimmer,22 m²,Unknown,https://www.immowelt.de/expose/8574ecc6-907c-4071-90fb-f9f74eed82fc
-"City - Ost, Dortmund / Innenstadt-Ost (44135)",85.000 € 2.833 €/m²,1 Zimmer,30 m²,Unknown,https://www.immowelt.de/expose/b632ec3e-6a36-4d46-bf43-cb9318f5d4ed
-"Niedereving, Dortmund (44339)",1.170.000 € 1.928 €/m²,607 m²,797 m² Grundstück,Unknown,https://www.immowelt.de/expose/37ba8474-3728-4a58-bb2c-45fb3f0848da
-"Hagener Straße 143, Renninghausen, Dortmund (44225)",319.000 € 3.753 €/m²,4 Zimmer,85 m²,618 m² Grundstück,https://www.immowelt.de/expose/b7763abd-f3b8-4399-9c88-667f3af380c5
-"Siedlung Rotkehlchenweg, Dortmund (44225)",170.000 € 2.125 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/a128fdf2-9e22-495d-bae2-18d9fdeb757a
-"Westfalenhütte, Dortmund (44145)",407.000 € 1.153 €/m²,14 Zimmer,353 m²,187 m² Grundstück,https://www.immowelt.de/expose/8739bd91-ac93-45c3-9012-4e5c6865acd9
-"City - Ost, Dortmund (44135)",6.350.000 € 1.509 €/m²,4.208 m²,"1.630,2 m² Grundstück",Unknown,https://www.immowelt.de/expose/46e0b378-6f17-435b-8911-4afb214a54e8
-"Holzen, Dortmund (44267)",942.341 € 6.683 €/m²,4 Zimmer,141 m²,793 m² Grundstück,https://www.immowelt.de/expose/a2e4f200-095c-4ab5-9b84-440dc1a7aa59
-"Hangeney, Dortmund (44379)",426.879 € 3.580 €/m²,4 Zimmer,"119,2 m²",600 m² Grundstück,https://www.immowelt.de/expose/a6249f72-a79e-48cc-864e-4c54d1af7308
-"Bövinghausen, Dortmund (44388)",444.729 € 3.045 €/m²,4 Zimmer,146 m²,500 m² Grundstück,https://www.immowelt.de/expose/c1d27d28-393b-4834-ae43-9b888e3e9b94
-"Bittermark, Dortmund (44229)",516.239 € 3.085 €/m²,5 Zimmer,"167,3 m²",420 m² Grundstück,https://www.immowelt.de/expose/c0b3d91c-2a5c-474e-9333-8d67a1dbf7cf
-"Kolonie Neuasseln, Dortmund (44309)",718.442 € 4.251 €/m²,6 Zimmer,169 m²,777 m² Grundstück,https://www.immowelt.de/expose/bb7fdf34-d6d9-4f6a-8b6d-df401fd836ed
-"Germania, Dortmund (44379)",530.000 € 3.313 €/m²,5 Zimmer,"160,2 m²","180,2 m² Grundstück",https://www.immowelt.de/expose/64b97b5e-74bb-40fa-bdf3-4b4b8ef8eec5
-"Wambeler Heide 24, Alt-Scharnhorst, Dortmund (44328)",339.000 € 1.477 €/m²,12 Zimmer,"229,5 m²",401 m² Grundstück,https://www.immowelt.de/expose/d1dc03a6-834f-4b2d-a2c1-ed6f9dd99892
-"Universität, Dortmund (44227)",345.000 € 3.450 €/m²,3 Zimmer,100 m²,2. Geschoss,https://www.immowelt.de/expose/e14361dd-3c39-4a09-a957-30bf82475e1d
-"Hallerey, Dortmund (44149)",677.000 € 1.354 €/m²,18 Zimmer,500 m²,711 m² Grundstück,https://www.immowelt.de/expose/932559b7-5af4-4057-b802-652077b9d0f4
-"Lichtendorf, Dortmund (44289)",449.900 € 3.599 €/m²,4 Zimmer,125 m²,731 m² Grundstück,https://www.immowelt.de/expose/ad587164-84f3-447a-8a51-8999b684f615
-"Lichtendorf, Dortmund (44289)",379.900 € 3.303 €/m²,4 Zimmer,115 m²,560 m² Grundstück,https://www.immowelt.de/expose/dd3b889e-1005-441f-a42a-429a8bb247a7
-"Lichtendorf, Dortmund (44135)",499.000 € 2.258 €/m²,8 Zimmer,221 m²,806 m² Grundstück,https://www.immowelt.de/expose/0568b747-c43d-4dd3-b4f7-52eaa98e8343
-"Märker Feld, Aplerbecker Mark, Dortmund (44287)",995.000 € 4.877 €/m²,8 Zimmer,204 m²,1.300 m² Grundstück,https://www.immowelt.de/expose/5ab24631-e2e8-4fad-bd78-82dac0f79bc4
-"Hangeney, Dortmund (44379)",511.896 € 4.095 €/m²,5 Zimmer,125 m²,700 m² Grundstück,https://www.immowelt.de/expose/46d049ed-e3a7-4f95-90c3-789c0c39ac8a
-"Hangeney, Dortmund (44379)",548.063 € 4.060 €/m²,5 Zimmer,135 m²,750 m² Grundstück,https://www.immowelt.de/expose/fa4df202-8bdb-4cc0-9bba-adb18bf0b1cd
-"Hangeney, Dortmund (44379)",539.267 € 3.995 €/m²,5 Zimmer,135 m²,7.500 m² Grundstück,https://www.immowelt.de/expose/5c16eef4-b602-43bd-8359-86a699c01324
-"Westerfilde, Dortmund (44357)",489.000 € 1.254 €/m²,17 Zimmer,390 m²,888 m² Grundstück,https://www.immowelt.de/expose/50957d80-0645-4028-9cbf-111b1c268865
-"Sölde - Nord, Dortmund (44289)",280.000 € 3.206 €/m²,3 Zimmer,"87,4 m²",Unknown,https://www.immowelt.de/expose/1a8bfc93-ba91-4f93-aa6d-6fca13575852
-"Bövinghausen, Dortmund (44388)",990.000 € 3.257 €/m²,12 Zimmer,304 m²,1.660 m² Grundstück,https://www.immowelt.de/expose/d6c82f10-c981-4163-9799-bf32a664d5d8
-"Diemelstraße 52, Aplerbecker Mark, Dortmund (44287)",399.900 € 4.640 €/m²,"3,5 Zimmer","86,2 m²",1. Geschoss,https://www.immowelt.de/expose/24d65268-6ac5-4847-a322-c4a8642392b9
-"Bittermark, Dortmund (44229)",197.700 € 1.557 €/m²,4 Zimmer,127 m²,Unknown,https://www.immowelt.de/expose/67841b82-ac4b-4fe9-8dc9-3193ae3174f0
-"Bittermark, Dortmund (44299)",71.000 € 1.340 €/m²,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/b7f9d66b-d711-45e6-8f1e-dadcc4394f30
-"Bittermark, Dortmund (44229)",77.100 € 1.377 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/bb327de4-d4b6-4d9e-add6-2b5f6766bf74
-"Remberg, Dortmund (44263)",74.000 € 1.276 €/m²,3 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/f46e1249-43dc-40eb-a700-95d92857225b
-"Wickede Dorf, Dortmund (44319)",285.000 € 2.921 €/m²,3 Zimmer,"97,6 m²",Unknown,https://www.immowelt.de/expose/eebc4395-9ad5-44d9-8215-d27a6a99b4c7
-"Westerfilde, Dortmund (44357)",492.000 € 3.529 €/m²,4 Zimmer,"139,4 m²",550 m² Grundstück,https://www.immowelt.de/expose/75ea9aa1-0af4-4183-94d4-5683e9eac31c
-"Schwerter Straße, Dortmund / Aplerbeck (44287)",259.000 € 3.198 €/m²,3 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/fe6c9fb7-adaa-4430-9b95-492cabf05398
-"Oestrich, Dortmund - Oestrich (44357)",726.000 € 4.079 €/m²,6 Zimmer,178 m²,365 m² Grundstück,https://www.immowelt.de/expose/4adfd02c-e3e4-40ba-af1c-fd5fb9489f8b
-"Bodelschwingh, Dortmund - Nette (44359)",219.000 € 1.872 €/m²,5 Zimmer,117 m²,348 m² Grundstück,https://www.immowelt.de/expose/f588f917-daa1-43b8-9fbf-f68a064a6113
-"Ruhrallee - Ost, Dortmund (44139)",239.000 € 2.812 €/m²,4 Zimmer,85 m²,1. Geschoss,https://www.immowelt.de/expose/060acbee-4e21-44f9-808d-656f207448be
-"Wilhelm-Dresing-Str. 18a, Lücklemberg, Dortmund (44229)",329.000 € 3.920 €/m²,3 Zimmer,84 m²,1. Geschoss,https://www.immowelt.de/expose/31f41da0-fc72-469d-bfee-780086cb8751
-"Dingweg 17, Westheck, Dortmund (44309)",140.000 € 2.305 €/m²,"3,5 Zimmer","60,8 m²",EG,https://www.immowelt.de/expose/11264f25-1b10-4a0c-aea6-1bf53b27d107
-"Flughafen, Dortmund (44319)",295.000 € 3.067 €/m²,4 Zimmer,"96,2 m²",418 m² Grundstück,https://www.immowelt.de/expose/8b17f9c4-2aff-4b5e-adf9-0e51a8d50750
-"Wickede Dorf, Dortmund (44319)",69.000 € 1.533 €/m²,2 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/073188f0-9752-4672-bec9-6a409a2312be
-"Hörde, Dortmund-Hörde (44263)",998.000 € 1.623 €/m²,14 Zimmer,615 m²,280 m² Grundstück,https://www.immowelt.de/expose/9c55c0f0-2bc7-4097-bb43-b9fd158a77bb
-"Pirolweg 1, Westrich, Dortmund (44388)",339.000 € 2.457 €/m²,8 Zimmer,138 m²,539 m² Grundstück,https://www.immowelt.de/expose/978fd81a-c31e-47b4-8acf-876001cbb47f
-"Dorstfeld, Dortmund (44149)",526.000 € 2.768 €/m²,8 Zimmer,190 m²,508 m² Grundstück,https://www.immowelt.de/expose/e521de1a-886e-4b00-8cd0-e32daa9cbf4f
-"Brechten - Süd, Dortmund (44339)",209.000 € 2.049 €/m²,5 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/16b9b485-f17c-4245-b97a-b6c206fd4a57
-"Brechten - Nord, Dortmund (44339)",230.000 € 2.072 €/m²,6 Zimmer,111 m²,320 m² Grundstück,https://www.immowelt.de/expose/27979378-ebf1-4dee-809f-e5978f824b90
-"Nordmarkt - West, Dortmund (44147)",320.000 € 1.163 €/m²,10 Zimmer,"275,2 m²",193 m² Grundstück,https://www.immowelt.de/expose/426956f1-34c9-48a4-a1b5-33d6d27615ee
-"Löttringhausen - Süd, Dortmund (44229)",280.000 € 3.025 €/m²,3 Zimmer,"92,6 m²",frei ab 01.12.2024,https://www.immowelt.de/expose/36127d11-bcd6-4dd2-9e5e-fb333035febe
-"Dollersweg, Dortmund (44319)",349.000 € 2.983 €/m²,4 Zimmer,117 m²,405 m² Grundstück,https://www.immowelt.de/expose/375d6ed7-51a1-4cd7-a7d9-e1f734295cb9
-"Oestrich, Dortmund (44357)",500.000 € 1.420 €/m²,10 Zimmer,352 m²,610 m² Grundstück,https://www.immowelt.de/expose/068ff3fc-0d79-4c21-8cec-331199577714
-"Holte - Kreta, Dortmund (44388)",168.900 € 2.379 €/m²,"3,5 Zimmer",71 m²,1. Geschoss,https://www.immowelt.de/expose/7da8a81e-aeb8-4cda-83ac-67ee1b6cb12c
-"Sölde - Nord, Dortmund (44289)",665.000 € 2.277 €/m²,18 Zimmer,292 m²,990 m² Grundstück,https://www.immowelt.de/expose/b7095e7c-8d41-4041-89df-f088586d0a3c
-"Lütgendortmund - Ost, Dortmund (44388)",280.000 € 931 €/m²,12 Zimmer,"300,9 m²",900 m² Grundstück,https://www.immowelt.de/expose/6f2a402b-2ecb-40ff-825f-0519615ef134
-"Kirchderne, Dortmund (44329)",230.000 € 1.503 €/m²,153 m²,492 m² Grundstück,Unknown,https://www.immowelt.de/expose/e5256261-2efd-4ea2-ae66-f52807220652
-"Remberg, Dortmund (44263)",74.000 € 1.298 €/m²,3 Zimmer,57 m²,Unknown,https://www.immowelt.de/expose/f87d1cc5-73ca-4509-a810-b762951067ba
-"Derne, Dortmund (44329)",900.000 € 1.172 €/m²,28 Zimmer,768 m²,1.142 m² Grundstück,https://www.immowelt.de/expose/38010054-c95a-4907-9280-571ed08e2881
-"Westerfilde, Dortmund (44357)",450.000 € 1.737 €/m²,259 m²,1.047 m² Grundstück,Unknown,https://www.immowelt.de/expose/ede4291e-fbd7-4d69-9437-b9c0cb68ab1d
-"Bergmeisterstraße 15 b, Schüren-Neu, Dortmund (44269)",178.300 € 2.867 €/m²,"2,5 Zimmer","62,2 m²",EG,https://www.immowelt.de/expose/ed954337-be1a-4eb8-9e8d-3137c1ff0018
-"Bergmeisterstraße 15 b, Schüren-Neu, Dortmund (44269)",140.300 € 2.998 €/m²,1 Zimmer,"46,8 m²",Unknown,https://www.immowelt.de/expose/34d4387f-8dd0-49f3-b0ef-7776df279528
-"Bergmeisterstraße 15 a, Schüren-Neu, Dortmund (44269)",179.300 € 2.883 €/m²,2 Zimmer,"62,2 m²",EG,https://www.immowelt.de/expose/f0c246d8-a66f-4b8d-87a3-e8eb00595d88
-"Bergmeisterstraße 15 a, Schüren-Neu, Dortmund (44269)",279.600 € 2.847 €/m²,4 Zimmer,"98,2 m²",EG,https://www.immowelt.de/expose/ea07353d-c37f-4c36-a440-8ae64b4098b0
-"Bergmeisterstraße 15 a, Schüren-Neu, Dortmund (44269)",132.000 € 2.851 €/m²,1 Zimmer,"46,3 m²",Unknown,https://www.immowelt.de/expose/09d00501-c6af-4c3f-8005-495e8ba16c82
-"Rahmer Straße 169, Wischlingen, Dortmund (44369)",118.100 € 1.835 €/m²,3 Zimmer,"64,4 m²",2. Geschoss,https://www.immowelt.de/expose/37cd62fd-b24e-4e93-a520-e3d6b69c5d10
-"Rahmer Straße 165, Wischlingen, Dortmund (44369)",118.100 € 1.835 €/m²,3 Zimmer,"64,4 m²",2. Geschoss,https://www.immowelt.de/expose/30293e17-37a0-4266-b1ba-bd296e90993b
-"Quakmannsweg 20, Bodelschwingh, Dortmund (44357)",99.800 € 1.648 €/m²,"3,5 Zimmer","60,6 m²",2. Geschoss,https://www.immowelt.de/expose/a669830d-6671-486f-aecf-34888bcfd401
-"Bredowstraße 22, Funkturmsiedlung, Dortmund (44309)",113.000 € 1.882 €/m²,3 Zimmer,60 m²,2. Geschoss,https://www.immowelt.de/expose/3869e94d-ac98-4edf-8576-6e756fe06fac
-"Dingweg 20, Westheck, Dortmund (44309)",118.700 € 2.370 €/m²,2 Zimmer,"50,1 m²",2. Geschoss,https://www.immowelt.de/expose/d2c01722-b77a-4d82-b6e2-d12ff13ed25a
-"Brüchtenweg 8, Westheck, Dortmund (44309)",99.000 € 1.939 €/m²,"2,5 Zimmer","51,1 m²",2. Geschoss,https://www.immowelt.de/expose/dd0c0c91-c6d1-4481-93c5-302ed0c51f6e
-"Unterer Sendweg 27, Westheck, Dortmund (44309)",136.700 € 2.305 €/m²,"3,5 Zimmer","59,3 m²",1. Geschoss,https://www.immowelt.de/expose/c4c5e1bf-298d-40b1-977c-04d1e09a1fa3
-"Unterer Sendweg 21, Westheck, Dortmund (44309)",110.200 € 2.304 €/m²,"2,5 Zimmer","47,8 m²",1. Geschoss,https://www.immowelt.de/expose/43748de4-11c3-4db3-81b7-1c61351f7995
-"Dingweg 13, Westheck, Dortmund (44309)",140.000 € 2.305 €/m²,"3,5 Zimmer","60,8 m²",1. Geschoss,https://www.immowelt.de/expose/c5db632e-7cce-46fb-b52a-aac9353e90a3
-"Brüchtenweg 21, Westheck, Dortmund (44309)",134.400 € 2.188 €/m²,"3,5 Zimmer","61,4 m²",2. Geschoss,https://www.immowelt.de/expose/5eee7bc5-6f81-4b6a-b189-e42790a17b9a
-"Brüchtenweg 15, Westheck, Dortmund (44309)",110.900 € 1.805 €/m²,"3,5 Zimmer","61,4 m²",EG,https://www.immowelt.de/expose/71456de5-4e3e-4d06-8f72-7a9a6652712b
-"Brüchtenweg 15, Westheck, Dortmund (44309)",134.400 € 2.188 €/m²,"3,5 Zimmer","61,4 m²",EG,https://www.immowelt.de/expose/9e40581f-7982-4b95-9968-be31ec939a43
-"Geismerg 12, Alt-Scharnhorst, Dortmund (44328)",124.800 € 1.987 €/m²,"3,5 Zimmer","62,8 m²",3. Geschoss,https://www.immowelt.de/expose/e7a740bd-b682-47b7-9285-714df4f412df
-"Klobesstraße 8, Holte - Kreta, Dortmund (44388)",90.500 € 2.072 €/m²,"2,5 Zimmer","43,7 m²",1. Geschoss,https://www.immowelt.de/expose/c90335d4-fc61-44d7-b379-a2ca1b3f060e
-"Klobesstraße 4, Holte - Kreta, Dortmund (44388)",79.000 € 1.971 €/m²,2 Zimmer,"40,1 m²",EG,https://www.immowelt.de/expose/dc77cd3e-3169-4d11-aea1-30bddbd4fc4a
-"Kleiberweg 10, Berghofen Dorf, Dortmund (44269)",139.600 € 1.818 €/m²,"3,5 Zimmer","76,8 m²",3. Geschoss,https://www.immowelt.de/expose/455431cc-c454-4d25-af42-845c7e93140b
-"Kleiberweg 10, Berghofen Dorf, Dortmund (44269)",141.000 € 1.836 €/m²,"3,5 Zimmer","76,8 m²",1. Geschoss,https://www.immowelt.de/expose/aa9ba071-0ff0-49da-902e-ded11c03c770
-"Nette, Dortmund (44359)",119.800 € 2.024 €/m²,3 Zimmer,"59,2 m²",EG,https://www.immowelt.de/expose/1e537be4-a474-4746-8356-08b5895aef24
-"Hafen - Südost, Dortmund (44147)",550.000 € 965 €/m²,16 Zimmer,570 m²,250 m² Grundstück,https://www.immowelt.de/expose/3417336c-50b4-4ada-bbce-67c33063d916
-"Syburg, Dortmund (44265)",620.000 € 3.713 €/m²,6 Zimmer,167 m²,923 m² Grundstück,https://www.immowelt.de/expose/81b7d2f1-88ef-44ee-acb5-7e60246f7513
-"MSA-Siedlung, Dortmund (44329)",149.000 € 1.987 €/m²,4 Zimmer,75 m²,419 m² Grundstück,https://www.immowelt.de/expose/6f5a7cc3-d095-4d4c-8a5d-9d91cd84f110
-"Bodelschwingh, Dortmund (44357)",449.000 € 1.114 €/m²,15 Zimmer,403 m²,500 m² Grundstück,https://www.immowelt.de/expose/0ab7ae7f-b982-4b49-8f79-8d7eb45dad86
-"Bittermark, Dortmund (44299)",71.000 € 1.340 €/m²,53 m²,Unknown,Unknown,https://www.immowelt.de/expose/f33bbae6-b092-4916-b710-951c8bd3f043
-"Bittermark, Dortmund (44229)",77.100 € 1.377 €/m²,56 m²,Unknown,Unknown,https://www.immowelt.de/expose/c544a0b7-6f74-4652-ab80-836d00c51fef
-"Bittermark, Dortmund (44229)",197.700 € 1.557 €/m²,127 m²,Unknown,Unknown,https://www.immowelt.de/expose/d31e4d3f-0b24-4109-b33e-e3da817b2b67
-"Bittermark, Dortmund (44299)",71.000 € 1.340 €/m²,53 m²,Unknown,Unknown,https://www.immowelt.de/expose/d6ff8526-c730-4c7b-81b1-3bbc936dbccc
-"Bittermark, Dortmund (44229)",77.100 € 1.377 €/m²,56 m²,Unknown,Unknown,https://www.immowelt.de/expose/60e39dac-f25b-456e-8116-b4c8b785903c
-"Bittermark, Dortmund (44229)",197.700 € 1.557 €/m²,127 m²,Unknown,Unknown,https://www.immowelt.de/expose/388ada16-1754-4117-bca6-32a4c1f14c6c
-"Aplerbecker Straße, Dortmund (44287)",315.000 € 3.182 €/m²,3 Zimmer,99 m²,1. Geschoss,https://www.immowelt.de/expose/4ec9df5a-c1f6-40ce-9dec-c695deaf47ee
-"Asseln Hellweg, Dortmund (44319)",475.000 € 1.028 €/m²,15 Zimmer,462 m²,607 m² Grundstück,https://www.immowelt.de/expose/d032e8a1-43df-44af-a884-5294165547a7
-"Westerfilde, Dortmund (44357)",298.000 € 2.328 €/m²,7 Zimmer,128 m²,384 m² Grundstück,https://www.immowelt.de/expose/6959c504-3ce4-48f2-a9c6-020383072500
-"Herscheid, Herscheid (58849)",573.421 € 3.434 €/m²,5 Zimmer,167 m²,1.002 m² Grundstück,https://www.immowelt.de/expose/8152229c-14c8-4b01-b747-fbbde9ffbb2d
-"Holzen, Dortmund (44267)",861.788 € 5.069 €/m²,6 Zimmer,170 m²,549 m² Grundstück,https://www.immowelt.de/expose/52629072-2317-4f3b-b6b2-596aada6b4d4
-"Hangeney, Dortmund (44379)",532.390 € 4.259 €/m²,5 Zimmer,125 m²,700 m² Grundstück,https://www.immowelt.de/expose/3cc96d12-9a06-4fe0-83a4-859b69cae6d2
-"Klobesstraße 14, Holte - Kreta, Dortmund (44388)",88.000 € 1.906 €/m²,2 Zimmer,"46,2 m²",1. Geschoss,https://www.immowelt.de/expose/bd6d4b53-bd1f-4e30-ac0a-6a48fbc2e60b
-"Lücklemberg, Dortmund (44229)",650.000 € 4.305 €/m²,5 Zimmer,151 m²,194 m² Grundstück,https://www.immowelt.de/expose/5e2a24df-599e-478d-8d1a-e2df06ae22d7
-"Sölde - Nord, Dortmund (44289)",239.000 € 2.134 €/m²,2 Zimmer,112 m²,Unknown,https://www.immowelt.de/expose/4c931290-c749-4b0f-a66c-8e8791c8b1c2
-"Kolonie Neuasseln, Dortmund (44309)",603.572 € 4.538 €/m²,4 Zimmer,133 m²,760 m² Grundstück,https://www.immowelt.de/expose/997a8bd1-b83c-4bca-8df7-a98cc6f77890
-"Holzen, Dortmund (44267)",1.298.846 € 6.494 €/m²,6 Zimmer,200 m²,598 m² Grundstück,https://www.immowelt.de/expose/b81fe3e2-57c8-4dff-ab75-9712415fad7b
-"Holzen, Dortmund (44267)",1.528.522 € 7.109 €/m²,7 Zimmer,215 m²,606 m² Grundstück,https://www.immowelt.de/expose/855461aa-1cc1-4337-8a3c-07aa1612438c
-"Körne, Dortmund (44143)",315.000 € 2.972 €/m²,5 Zimmer,106 m²,2. Geschoss,https://www.immowelt.de/expose/76e28c62-c25f-410e-b9ac-d5c6dd69c97d
-"Sölde - Nord, Dortmund (44289)",289.000 € 2.752 €/m²,5 Zimmer,105 m²,300 m² Grundstück,https://www.immowelt.de/expose/a4a7e156-d1c6-4b5e-8707-8c2d5dc64980
-"Lücklemberg, Dortmund (44229)",1.150.000 € 5.665 €/m²,5 Zimmer,203 m²,1.083 m² Grundstück,https://www.immowelt.de/expose/c74c0663-7692-4c8f-b057-928b60cb9094
-"Lindenhorst, Dortmund (44339)",367.000 € 3.884 €/m²,3 Zimmer,"94,5 m²",1. Geschoss,https://www.immowelt.de/expose/0dc0f680-4fe2-4251-960a-305d89b30424
-"Lindenhorst, Dortmund (44339)",454.500 € 3.885 €/m²,4 Zimmer,117 m²,1. Geschoss,https://www.immowelt.de/expose/5e81de64-104f-4092-a880-97fe9e4227ff
-"Lindenhorst, Dortmund (44339)",454.500 € 3.885 €/m²,4 Zimmer,117 m²,Unknown,https://www.immowelt.de/expose/4dbb246b-4c1f-49f9-8ce0-e594c7be4eaa
-"Lindenhorst, Dortmund (44339)",367.000 € 3.884 €/m²,3 Zimmer,"94,5 m²",Unknown,https://www.immowelt.de/expose/70b5fbdd-5a0e-499d-be2a-6ff5dc1f2b97
-"Lindenhorst, Dortmund (44339)",367.000 € 3.884 €/m²,3 Zimmer,"94,5 m²",Unknown,https://www.immowelt.de/expose/d9c3ce6c-e72d-405f-9b19-38fdb20063a7
-"Lindenhorst, Dortmund (44339)",588.000 € 4.083 €/m²,3 Zimmer,144 m²,Unknown,https://www.immowelt.de/expose/d9057f94-0ea0-45b3-a872-831fbd01a70b
-"Lindenhorst, Dortmund (44339)",123.500 € 4.117 €/m²,1 Zimmer,30 m²,1. Geschoss,https://www.immowelt.de/expose/59fc9add-0ee6-4a44-a136-b208ebb92e8f
-"Lindenhorst, Dortmund (44339)",598.500 € 4.085 €/m²,4 Zimmer,"146,5 m²",Unknown,https://www.immowelt.de/expose/1e5b1756-ad0f-4694-bc12-d7907d57d223
-"Hangeney, Dortmund (44379)",260.000 € 2.476 €/m²,"4,5 Zimmer",105 m²,Unknown,https://www.immowelt.de/expose/53dd955d-da17-4ed6-bb23-bed0ba5761c6
-"Westfalendamm - Süd, Dortmund (44141)",165.000 € 2.200 €/m²,"2,5 Zimmer",75 m²,2. Geschoss,https://www.immowelt.de/expose/5ac284a7-afdf-4667-8e76-976b59097033
-"Wickede Dorf, Dortmund (44319)",305.000 € 2.148 €/m²,8 Zimmer,142 m²,758 m² Grundstück,https://www.immowelt.de/expose/8d0ac34b-e581-4cb8-938a-fd11ef2e258e
-"Aplerbecker Straße, Dortmund (44287)",315.000 € 3.182 €/m²,3 Zimmer,99 m²,1. Geschoss,https://www.immowelt.de/expose/39dda598-cf2a-4f5c-9347-42d88d4df260
-"Dorstfeld, Dortmund - Dorstfeld (44149)",449.000 € 4.490 €/m²,4 Zimmer,100 m²,520 m² Grundstück,https://www.immowelt.de/expose/73b07304-cc32-4009-ae06-095a9aa1cfe9
-"Franz-Zimmer-Siedlung, Dortmund - Kirchderne (44329)",428.000 € 3.239 €/m²,6 Zimmer,"132,1 m²",222 m² Grundstück,https://www.immowelt.de/expose/0309ece5-a51b-4c3f-87ce-784ca26a0948
-"Wellinghofen, Dortmund (44265)",495.000 € 3.018 €/m²,7 Zimmer,164 m²,674 m² Grundstück,https://www.immowelt.de/expose/c1fd9fa3-8bea-4cba-be0e-973a427b9fbf
-"Sölde - Nord, Dortmund (44289)",665.000 € 2.277 €/m²,18 Zimmer,292 m²,990 m² Grundstück,https://www.immowelt.de/expose/0d749972-218c-433b-8123-aec7386b5a57
-"Ruhrallee - Ost, Dortmund (44139)",690.000 € 5.709 €/m²,3 Zimmer,"120,9 m²",EG,https://www.immowelt.de/expose/febd81c8-4b2e-45e2-bfb7-67a826f948a9
-"Wickede Dorf, Dortmund (44319)",265.000 € 2.804 €/m²,"4,5 Zimmer","94,5 m²",245 m² Grundstück,https://www.immowelt.de/expose/f97a4ea6-0488-494d-bd82-4731d9a58db6
-"Berghofen Dorf, Dortmund (44269)",770.000 € 4.208 €/m²,5 Zimmer,183 m²,996 m² Grundstück,https://www.immowelt.de/expose/68045194-d15f-4c18-b9f2-8d5a8f78bcf1
-"Schwerter Straße, Dortmund (44287)",279.000 € 3.170 €/m²,"3,5 Zimmer",88 m²,EG,https://www.immowelt.de/expose/ca526039-a3ce-423e-84d5-05cd5ed35f8b
-"Dingweg 14, Westheck, Dortmund (44309)",74.900 € 1.848 €/m²,"2,5 Zimmer","40,5 m²",EG,https://www.immowelt.de/expose/f1e404fd-ac3d-4f8d-bc4d-9233f85bacee
-"Berghofen Dorf, Dortmund (44269)",529.900 € 2.560 €/m²,6 Zimmer,207 m²,970 m² Grundstück,https://www.immowelt.de/expose/4470bddc-2374-4bf7-bf2e-2fd38115bcce
-"Niedereving, Dortmund (44339)",89.000 € 1.589 €/m²,3 Zimmer,56 m²,3. Geschoss,https://www.immowelt.de/expose/7a0fbb5e-cf27-41fb-8655-5a4e45b34723
-"Aplerbecker Markt, Dortmund (44287)",699.000 € 1.899 €/m²,368 m²,950 m² Grundstück,Unknown,https://www.immowelt.de/expose/1890a599-dfb7-44a0-9dc2-d89f2bcdb44d
-"Wellinghofen, Dortmund (44265)",684.375 € 3.650 €/m²,5 Zimmer,"187,5 m²",Unknown,https://www.immowelt.de/expose/a667f57e-f57e-4abf-9ecb-8e0e02545142
-"Preinstr. 35, Wellinghofen, Dortmund (44265)",443.621 € 3.650 €/m²,4 Zimmer,"121,5 m²",Unknown,https://www.immowelt.de/expose/ebf65716-0202-4997-943a-5beae5017c59
-"Phönix-West, Dortmund (44263)",409.000 € 3.146 €/m²,4 Zimmer,130 m²,3. Geschoss,https://www.immowelt.de/expose/7bf2f2e1-19ed-42ba-bebd-21435927eac6
-"Westfalenhütte, Dortmund (44145)",407.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/08eb379e-9585-491a-8401-58b2a0cc23ba
-"Brüchtenweg 17, Westheck, Dortmund (44309)",134.400 € 2.188 €/m²,"3,5 Zimmer","61,4 m²",2. Geschoss,https://www.immowelt.de/expose/0e8c7db2-fedd-4868-8516-47f32098c774
-"Wickede Dorf, Dortmund (44319)",305.000 € 2.148 €/m²,142 m²,Unknown,Unknown,https://www.immowelt.de/expose/944774ec-0daf-4a3d-934e-d7f130729707
-"Remberg, Dortmund (44263)",669.000 € 5.146 €/m²,4 Zimmer,130 m²,1. Geschoss,https://www.immowelt.de/expose/89f3e397-8aa7-4c31-8fd4-3be2b0eb1930
-"Hangeney, Dortmund (44379)",675.000 € 3.688 €/m²,9 Zimmer,183 m²,812 m² Grundstück,https://www.immowelt.de/expose/f8ca0835-f76c-4166-b452-ef6480324c9e
-"Lücklemberg, Dortmund (44229)",620.000 € 4.218 €/m²,7 Zimmer,147 m²,976 m² Grundstück,https://www.immowelt.de/expose/576653b4-91f3-45ab-96d8-280c2c7c8126
-"Wickede Dorf, Dortmund (44319)",305.000 € 2.148 €/m²,142 m²,758 m² Grundstück,Unknown,https://www.immowelt.de/expose/61afdb17-427e-4291-8bdf-062cb7bfcf16
-"Deipenbeck, Dortmund (44388)",249.000 € 3.037 €/m²,3 Zimmer,82 m²,2. Geschoss,https://www.immowelt.de/expose/e63f3098-9b42-42bd-a255-e8c03851ec86
-"Kirchlinde-Alt, Dortmund (44379)",320.000 € 2.038 €/m²,6 Zimmer,157 m²,253 m² Grundstück,https://www.immowelt.de/expose/05742be6-0e68-4e98-8638-da6b93ba2b38
-"Deutsch-Luxemburger-Straße, Dortmund (44225)",275.000 € 3.032 €/m²,3 Zimmer,"90,7 m²",Unknown,https://www.immowelt.de/expose/eb47d9da-f8a6-4d7d-90b6-d915c31edaf6
-"Klobesstraße 14, Holte - Kreta, Dortmund (44388)",84.700 € 1.910 €/m²,"2,5 Zimmer","44,3 m²",EG,https://www.immowelt.de/expose/ae9c2fe5-d6b6-4ec5-b961-329cd18cfb4d
-"Klobesstraße 6, Holte - Kreta, Dortmund (44388)",89.400 € 1.975 €/m²,2 Zimmer,"45,3 m²",EG,https://www.immowelt.de/expose/a4e10199-1ba2-4f6e-b064-471d9d62bce3
-"Sölde - Nord, Dortmund (44289)",800.000 € 2.462 €/m²,12 Zimmer,325 m²,350 m² Grundstück,https://www.immowelt.de/expose/c159e4c4-75ef-439f-9aa0-1b5afbce8780
-"Jonathanstraße 25, Mengede-Mitte, Dortmund (44359)",579.900 € 4.461 €/m²,4 Zimmer,130 m²,3. Geschoss,https://www.immowelt.de/expose/851541a2-9312-4110-8668-8ef913ddfd6a
-"Jonathanstraße 25, Mengede-Mitte, Dortmund (44359)",339.900 € 4.414 €/m²,3 Zimmer,77 m²,EG,https://www.immowelt.de/expose/4fdd21a2-c80b-4dc5-bf73-0020be7e3e39
-"Jonathanstraße 25, Mengede-Mitte, Dortmund (44359)",239.900 € 4.362 €/m²,2 Zimmer,55 m²,EG,https://www.immowelt.de/expose/26c15d43-27e5-451e-b821-6c5ae3cfc5d6
-"Derne, Dortmund,Kirchderne (44329)",460.000 € 4.107 €/m²,4 Zimmer,112 m²,210 m² Grundstück,https://www.immowelt.de/expose/22726d49-667c-4ee7-82dc-70c4b936d1db
-"Holzen, Dortmund (44267)",791.432 € 4.471 €/m²,6 Zimmer,177 m²,561 m² Grundstück,https://www.immowelt.de/expose/7d652666-a4a1-484e-8330-0a860de125a3
-"Klobesstraße 16, Holte - Kreta, Dortmund (44388)",85.900 € 1.967 €/m²,"2,5 Zimmer","43,7 m²",1. Geschoss,https://www.immowelt.de/expose/29bfeaec-ac49-41d3-b8c3-b1b7324a83ed
-"Westerfilde, Dortmund / Westerfilde (44357)",99.800 € 1.446 €/m²,"3,5 Zimmer",69 m²,3. Geschoss,https://www.immowelt.de/expose/8066fe05-bc7d-495e-8477-56a1a85a8171
-"Aplerbecker Mark, Dortmund (44287)",280.000 € 2.523 €/m²,4 Zimmer,111 m²,1. Geschoss,https://www.immowelt.de/expose/9c2034d8-ebc4-4d4a-9b87-db8c94a95121
-"Holzen, Dortmund (44267)",455.000 € 2.126 €/m²,9 Zimmer,214 m²,807 m² Grundstück,https://www.immowelt.de/expose/7348443c-e18e-4883-9d24-511d855b6559
-"Lindenhorst, Dortmund (44339)",259.000 € 2.106 €/m²,5 Zimmer,123 m²,385 m² Grundstück,https://www.immowelt.de/expose/1942019b-f9c0-4700-9e9f-f11844f5b6b7
-"Groppenbruch, Dortmund (44359)",429.000 € 3.424 €/m²,4 Zimmer,"125,3 m²",287 m² Grundstück,https://www.immowelt.de/expose/a7e5bd22-65f5-4657-91c7-2679cb39d01a
-"Wischlingen, Dortmund (44369)",287.000 € 3.804 €/m²,2 Zimmer,"75,4 m²",Unknown,https://www.immowelt.de/expose/625f154d-51b7-49bc-bed5-1ee4096bf4c6
-"Berghofen Dorf, Dortmund (44269)",483.000 € 2.776 €/m²,174 m²,Unknown,Unknown,https://www.immowelt.de/expose/7b00a734-7b54-4587-ad7c-f320a62b1300
-"Nordmarkt - West, Dortmund (44145)",1.250.000 € 1.214 €/m²,30 Zimmer,1.030 m²,265 m² Grundstück,https://www.immowelt.de/expose/f4ab3f6b-105f-4481-ab22-2870526efe3b
-"Westerfilde, Dortmund (44357)",449.000 € 2.824 €/m²,8 Zimmer,159 m²,999 m² Grundstück,https://www.immowelt.de/expose/dcce5f94-156f-4640-b2dd-43a626af49be
-"Nordmarkt - West, Dortmund (44147)",859.000 € 1.805 €/m²,"22,5 Zimmer",476 m²,304 m² Grundstück,https://www.immowelt.de/expose/991fe0e8-c6af-4707-a0b1-97ec720feed2
-"Nordmarkt - West, Dortmund (44147)",859.000 € 1.805 €/m²,"22,5 Zimmer",476 m²,304 m² Grundstück,https://www.immowelt.de/expose/207e3635-5293-41ec-9de8-97142b50daff
-"Berghofen Dorf, Dortmund (44269)",483.000 € 2.776 €/m²,174 m²,640 m² Grundstück,Unknown,https://www.immowelt.de/expose/715b361b-0b4e-4b0d-9276-92d6f42d469c
-"Hörde, Dortmund (44263)",300.000 € 1.852 €/m²,8 Zimmer,162 m²,255 m² Grundstück,https://www.immowelt.de/expose/2439c4aa-393c-4abe-b18e-6d213a957a98
-"Wellinghofen, Dortmund (44265)",518.000 € 3.809 €/m²,"4,5 Zimmer",136 m²,frei ab 01.02.2025,https://www.immowelt.de/expose/0e90c308-7e93-49a4-8705-d3011203ec4d
-"Berghofen Dorf, Dortmund (44269)",483.000 € 2.776 €/m²,1 Zimmer,174 m²,640 m² Grundstück,https://www.immowelt.de/expose/6a8e1278-2ae8-499f-9284-4f83238a3359
-"Lücklemberg, Dortmund (44229)",1.279.269 € 5.895 €/m²,4 Zimmer,217 m²,565 m² Grundstück,https://www.immowelt.de/expose/6e57ba3a-dc71-40db-9807-57be2fc12183
-"Lücklemberg, Dortmund (44229)",1.213.619 € 5.752 €/m²,6 Zimmer,211 m²,565 m² Grundstück,https://www.immowelt.de/expose/b1ef8154-5b15-4c42-b316-e2a8648c4490
-"Lücklemberg, Dortmund (44229)",1.319.669 € 6.167 €/m²,5 Zimmer,214 m²,565 m² Grundstück,https://www.immowelt.de/expose/fd23ef7d-b89b-44db-a488-0a741390744d
-"Brackel Hellweg, Dortmund (44309)",350.000 € 1.944 €/m²,6 Zimmer,180 m²,625 m² Grundstück,https://www.immowelt.de/expose/12d5b1db-9e11-4c23-bb0e-a5f5fe90b7f2
-"Kolonie Neuasseln, Dortmund (44309)",598.473 € 4.788 €/m²,4 Zimmer,125 m²,722 m² Grundstück,https://www.immowelt.de/expose/e66eb7cf-b6cb-43cd-96e6-a46f32738cd0
-"Syburg, Dortmund (44227)",790.000 € 2.724 €/m²,8 Zimmer,290 m²,2.963 m² Grundstück,https://www.immowelt.de/expose/df32ceb4-8b28-4fe9-8950-a612832b59b7
-"Aplerbeck Bahnhof Süd, Dortmund (44287)",327.000 € 3.114 €/m²,105 m²,207 m² Grundstück,Unknown,https://www.immowelt.de/expose/cd778d83-579a-4d8d-b821-4e06c7e33f8f
-"Kurl - Nord, Dortmund (44319)",579.000 € 2.325 €/m²,7 Zimmer,249 m²,1.100 m² Grundstück,https://www.immowelt.de/expose/150939d8-9c10-4161-a7f2-491f10a4224a
-"Buchholz, Dortmund-Buchholz (44265)",745.900 € 4.844 €/m²,4 Zimmer,154 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/cbb6241c-5e9b-4d71-a5b3-3ad0a33efdd1
-"Buchholz, Dortmund-Buchholz (44265)",863.900 € 4.094 €/m²,5 Zimmer,211 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/c5952c1e-fd60-4ad8-85b8-db143a69b481
-"Buchholz, Dortmund-Buchholz (44265)",749.900 € 4.658 €/m²,4 Zimmer,161 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/9fa373c8-6838-445c-ad5d-10489425019f
-"Buchholz, Dortmund-Buchholz (44265)",1.408.900 € 5.945 €/m²,6 Zimmer,237 m²,1.997 m² Grundstück,https://www.immowelt.de/expose/8e78a735-dbc3-48e7-891d-3c6d12f30e86
-"Buchholz, Dortmund-Buchholz (44265)",1.327.900 € 5.928 €/m²,5 Zimmer,224 m²,1.997 m² Grundstück,https://www.immowelt.de/expose/7f762961-e7df-484d-8b30-a4e1bc7f1be6
-"Buchholz, Dortmund-Buchholz (44265)",1.377.900 € 5.534 €/m²,6 Zimmer,249 m²,1.997 m² Grundstück,https://www.immowelt.de/expose/8be70f79-6615-44fc-8240-4409749d15bd
-"Herscheid, Herscheid (58849)",488.751 € 3.491 €/m²,4 Zimmer,140 m²,1.100 m² Grundstück,https://www.immowelt.de/expose/89bfaaeb-0027-4fc8-b2f7-21e3bb0bc6c9
-"Holzen, Dortmund (44267)",789.532 € 4.874 €/m²,6 Zimmer,162 m²,561 m² Grundstück,https://www.immowelt.de/expose/edf8b575-2e3b-4561-ba2a-742c4cd59326
-"Holzen, Dortmund (44267)",1.207.421 € 5.669 €/m²,8 Zimmer,213 m²,595 m² Grundstück,https://www.immowelt.de/expose/e252c431-b881-481e-9246-1545daa438ce
-"Kolonie Neuasseln, Dortmund (44309)",713.739 € 4.223 €/m²,6 Zimmer,169 m²,738 m² Grundstück,https://www.immowelt.de/expose/ce07c462-e7ec-40b3-a91f-160c90905ccb
-"Kirchderne, Dortmund (44329)",299.000 € 3.322 €/m²,4 Zimmer,90 m²,1.687 m² Grundstück,https://www.immowelt.de/expose/3cddf040-0a78-4524-b19d-ff4ed48a8a34
-"Sölderholz, Dortmund (44289)",395.000 € 1.881 €/m²,7 Zimmer,210 m²,381 m² Grundstück,https://www.immowelt.de/expose/d8bd53bb-2b59-4714-a8bb-db1e9d4741c4
-"Dollersweg, Dortmund (44319)",395.000 € 3.251 €/m²,6 Zimmer,"121,5 m²",1.251 m² Grundstück,https://www.immowelt.de/expose/d16a839b-7c32-4140-b3cd-bac51bc52e47
-"Oestrich, Dortmund (44357)",185.000 € 1.360 €/m²,136 m²,Unknown,Unknown,https://www.immowelt.de/expose/9d81d831-77bb-4d06-9f7b-7804d0238937
-"Oestrich, Dortmund (44357)",185.000 € 1.360 €/m²,5 Zimmer,136 m²,Unknown,https://www.immowelt.de/expose/f82b48fe-8468-4883-8311-f71f54a56d0d
-"Kaiserbrunnen, Dortmund (44135)",695.000 € 3.475 €/m²,5 Zimmer,200 m²,246 m² Grundstück,https://www.immowelt.de/expose/c012d0ea-106e-4e06-be00-ffcd755dc9ab
-"Menglinghausen, Dortmund (44227)",207.749 € 4.152 €/m²,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/6654ffc4-5634-4070-a1eb-901890c2952e
-"Oestrich, Dortmund (44357)",185.000 € 1.360 €/m²,5 Zimmer,136 m²,Unknown,https://www.immowelt.de/expose/5e4db255-cc71-4f5c-8296-aba3672949ec
-"Lücklemberg, Dortmund (44229)",695.000 € 4.633 €/m²,4 Zimmer,150 m²,420 m² Grundstück,https://www.immowelt.de/expose/1c12a6ea-520d-42e7-a1b7-46943625cf14
-"Brüchtenweg 11, Westheck, Dortmund (44309)",134.400 € 2.188 €/m²,"3,5 Zimmer","61,4 m²",2. Geschoss,https://www.immowelt.de/expose/41305a90-2d33-4b48-b73a-cfeb34c67e9f
-"Brüchtenweg 9, Westheck, Dortmund (44309)",123.500 € 1.864 €/m²,"3,5 Zimmer","66,3 m²",EG,https://www.immowelt.de/expose/d714adcc-43d8-4c85-91b5-c0077da1dc84
-"Kirchhörde - Ost, Dortmund (44229)",359.000 € 3.264 €/m²,"4,5 Zimmer",110 m²,1. Geschoss,https://www.immowelt.de/expose/9b7c8661-f67f-4b02-8eca-6bbf00751995
-"Bittermark, Dortmund (44229)",415.000 € 4.029 €/m²,"3,5 Zimmer",103 m²,256 m² Grundstück,https://www.immowelt.de/expose/931c5377-8207-4150-9e3b-779d7eb15086
-"Ruthstraße 6, Oespel, Dortmund / Oespel (44149)",148.000 € 1.741 €/m²,3 Zimmer,85 m²,2. Geschoss,https://www.immowelt.de/expose/aa003b0f-f720-4c5f-b616-0ad71f888818
-"Lichtendorf, Dortmund (44289)",389.900 € 3.390 €/m²,4 Zimmer,115 m²,296 m² Grundstück,https://www.immowelt.de/expose/01ffdf17-0582-4209-b8cf-c0a8bc594933
-"Wichlinghofen, Dortmund (44265)",198.000 € 2.447 €/m²,3 Zimmer,"80,9 m²",2. Geschoss,https://www.immowelt.de/expose/a93ed11f-9ee7-462d-8890-19298e86f90b
-"Renninghausen, Dortmund (44225)",150.000 € 3.000 €/m²,"2,5 Zimmer",50 m²,1. Geschoss,https://www.immowelt.de/expose/092fe6a3-c429-4f9d-ad7e-5fe4ae6a85df
-"Dollersweg, Dortmund - Wickede (44319)",439.000 € 3.252 €/m²,6 Zimmer,135 m²,733 m² Grundstück,https://www.immowelt.de/expose/e67eabc0-f5cd-4d63-a755-e16fde1a2318
-"Oestrich, Dortmund (44357)",450.000 € 1.411 €/m²,12 Zimmer,319 m²,612 m² Grundstück,https://www.immowelt.de/expose/98b68aaa-78ec-4a88-b7e1-879fb129ef25
-"Funkenburg, Dortmund (44143)",139.000 € 2.896 €/m²,2 Zimmer,48 m²,Unknown,https://www.immowelt.de/expose/596276a3-af4e-4b43-ae4a-785bddc0f852
-"Syburg, Dortmund (44265)",499.000 € 2.201 €/m²,7 Zimmer,"226,7 m²",8.103 m² Grundstück,https://www.immowelt.de/expose/b2a47262-47b3-49bd-9b5f-a017073350a5
-"Deutsch-Luxemburger-Straße, Dortmund (44225)",750.000 € 3.125 €/m²,5 Zimmer,240 m²,441 m² Grundstück,https://www.immowelt.de/expose/514584ca-5633-4d99-8195-ce2390f71d66
-"Altenderne, Dortmund (44329)",270.000 € 2.372 €/m²,"6,5 Zimmer","113,8 m²",738 m² Grundstück,https://www.immowelt.de/expose/ed39aa48-64e2-4752-b9b3-105f95142a15
-"Bittermark, Dortmund (44229)",480.999 € 4.040 €/m²,4 Zimmer,"119,1 m²",420 m² Grundstück,https://www.immowelt.de/expose/85f153a1-376c-4441-9fce-a7e8bc4163f7
-"Bövinghausen, Dortmund (44388)",393.999 € 3.309 €/m²,4 Zimmer,"119,1 m²",500 m² Grundstück,https://www.immowelt.de/expose/41f7d17f-687f-455d-9e09-c20f441961cf
-"Eichlinghofen, Dortmund (44227)",552.999 € 3.189 €/m²,4 Zimmer,"173,4 m²",630 m² Grundstück,https://www.immowelt.de/expose/54aef8b6-c60b-4030-8619-ab69d6338e5e
-"Hangeney, Dortmund (44379)",444.999 € 2.566 €/m²,4 Zimmer,"173,4 m²",600 m² Grundstück,https://www.immowelt.de/expose/5950487a-655d-43d1-ab41-1f966efca17b
-"Nordmarkt - Südost, Dortmund (44145)",358.000 € 1.166 €/m²,15 Zimmer,307 m²,185 m² Grundstück,https://www.immowelt.de/expose/41bc6aa3-9b42-40b6-8baa-4775f78c4b50
-"Brackel Hellweg, Dortmund (44309)",419.000 € 3.198 €/m²,6 Zimmer,131 m²,893 m² Grundstück,https://www.immowelt.de/expose/7896c202-aadc-4ba5-85a0-fd732bfd57e8
-"Oberdorstfeld, Dortmund (44149)",322.000 € 4.396 €/m²,"2,5 Zimmer","73,3 m²",Unknown,https://www.immowelt.de/expose/d6c60de4-6760-4e1d-9507-9fbdde84d847
-"Lütgendortmund - West, Dortmund (44388)",220.000 € 2.038 €/m²,4 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/c8d39083-81a6-4e8b-8bb5-ea8bae78ae85
-"Niedereving, Dortmund (44339)",360.000 € 2.756 €/m²,6 Zimmer,"130,6 m²",290 m² Grundstück,https://www.immowelt.de/expose/3ea03344-f338-408f-a1cb-ac81edd30063
-"Höchsten, Dortmund (44267)",Preis auf Anfrage,6 Zimmer,139 m²,707 m² Grundstück,https://www.immowelt.de/expose/5458d7f1-ca8a-4af3-ae5f-c1b483719f12
-"Kirchderne, Dortmund (44329)",1.200.000 € 1.908 €/m²,29 Zimmer,629 m²,1.857 m² Grundstück,https://www.immowelt.de/expose/1402dc19-0b79-48dc-b092-c13e1d6a4b89
-"Nordmarkt - Südost, Dortmund (44145)",1.799.999 € 2.707 €/m²,23 Zimmer,665 m²,280 m² Grundstück,https://www.immowelt.de/expose/15ceab4b-eb7e-4afc-a6e8-4fbd4a5189d9
-"Nordmarkt - Süd, Dortmund (44227)",199.000 € 2.073 €/m²,5 Zimmer,96 m²,1. Geschoss,https://www.immowelt.de/expose/d39d6a7f-1eb1-4295-b2bd-c125ace4d248
-"Schanze, Dortmund (44227)",287.000 € 2.814 €/m²,2 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/61648bee-90af-4612-a99c-00e6c5c3d360
-"In der Heide 32, Holzen, Dortmund (44267)",585.000 € 3.545 €/m²,"4,5 Zimmer",165 m²,500 m² Grundstück,https://www.immowelt.de/expose/903db90c-10b0-4e33-a687-401eeab1c44a
-"Wittbräucker Str. 273, Berghofen Dorf, Dortmund (44269)",299.000 € 901 €/m²,16 Zimmer,332 m²,1.360 m² Grundstück,https://www.immowelt.de/expose/95555a8d-956e-41ea-8b17-5b59a17b8b3d
-"Breierspfad, Dortmund (44143)",355.000 € 3.901 €/m²,3 Zimmer,91 m²,395 m² Grundstück,https://www.immowelt.de/expose/d8d50e8f-99ca-4cd3-a33c-0d5d46b3d41f
-"Lücklemberg, Dortmund (44229)",198.000 € 2.640 €/m²,3 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/74c14705-d766-46b1-bb9a-d29e566b54a0
-"Jonathanstraße 25, Mengede-Mitte, Dortmund (44359)",Preis auf Anfrage,3 Zimmer,70 m²,frei ab sofort,https://www.immowelt.de/expose/4d9cd919-a49d-447c-a2d4-d9ead3d6afba
-"Aplerbecker Mark, Dortmund (44287)",775.000 € 3.673 €/m²,5 Zimmer,211 m²,417 m² Grundstück,https://www.immowelt.de/expose/e734347d-7796-4b88-85ca-bc6e7ae72c49
-"Holzen, Dortmund (44267)",931.000 € 4.232 €/m²,6 Zimmer,220 m²,Unknown,https://www.immowelt.de/expose/75fc1eee-09a2-48e8-8675-ca36e3528dd1
-"Loh, Dortmund (44267)",499.950 € 3.401 €/m²,7 Zimmer,147 m²,356 m² Grundstück,https://www.immowelt.de/expose/e3992acf-c68d-4e78-b192-ebc244e22aff
-"Rahmer Straße 166, Wischlingen, Dortmund (44369)",136.300 € 2.001 €/m²,3 Zimmer,"68,1 m²",2. Geschoss,https://www.immowelt.de/expose/aaa4a04a-ae99-40d1-b1b2-5298d0b4ed2a
-"Bittermark, Dortmund (44229)",599.000 € 2.349 €/m²,10 Zimmer,255 m²,1.323 m² Grundstück,https://www.immowelt.de/expose/06783a25-aa6c-409b-9c15-aece16ecaa89
-"Niedereving, Eving (44339)",1.100.000 € 4.280 €/m²,8 Zimmer,257 m²,3.000 m² Grundstück,https://www.immowelt.de/expose/718f81af-2afc-4995-96cb-e34dc9322519
-"Benninghofen, Dortmund (44269)",502.000 € 2.136 €/m²,8 Zimmer,235 m²,800 m² Grundstück,https://www.immowelt.de/expose/98abcb1e-9401-41b2-98b5-fae580a5a724
-"Lücklemberg, Dortmund (44229)",448.000 € 4.187 €/m²,3 Zimmer,107 m²,Unknown,https://www.immowelt.de/expose/1f3a84bd-32a5-4a1e-9fdb-957be51c2bb1
-"Hörde, Dortmund (44263)",494.250 € 4.413 €/m²,4 Zimmer,112 m²,410 m² Grundstück,https://www.immowelt.de/expose/8f886cc1-45c9-44c9-af41-848714857e5b
-"Hörde, Dortmund (44263)",529.313 € 3.921 €/m²,5 Zimmer,135 m²,450 m² Grundstück,https://www.immowelt.de/expose/2c673050-7a62-4b53-bdf6-2a140857c466
-"Mailoh, Dortmund-Huckarde (44369)",515.000 € 3.815 €/m²,5 Zimmer,135 m²,610 m² Grundstück,https://www.immowelt.de/expose/a1cc030a-0af1-4774-8c75-16f174fe61f4
-"Unterer Sendweg 15, Westheck, Dortmund (44309)",112.900 € 2.479 €/m²,2 Zimmer,"45,5 m²",Unknown,https://www.immowelt.de/expose/056e14ce-a0a1-4c0e-9bdf-f79eeacb9013
-"Unterer Sendweg 13, Westheck, Dortmund (44309)",110.000 € 2.415 €/m²,3 Zimmer,"45,5 m²",3. Geschoss,https://www.immowelt.de/expose/21b4bb21-cc50-4360-b05c-27e8a63423ec
-"Wischlingen, Dortmund (44369)",287.000 € 3.804 €/m²,2 Zimmer,"75,4 m²",Unknown,https://www.immowelt.de/expose/074ccd9b-86de-4c0e-8360-f976b1427392
-"Wischlingen, Dortmund (44369)",188.000 € 3.811 €/m²,2 Zimmer,"49,3 m²",Unknown,https://www.immowelt.de/expose/970d37f2-ec7b-417d-9e46-5d8c8d61c38a
-"Wischlingen, Dortmund (44369)",188.000 € 3.811 €/m²,2 Zimmer,"49,3 m²",Unknown,https://www.immowelt.de/expose/5915ea32-bd70-47e4-ab21-9b05e571a6f2
-"Wischlingen, Dortmund (44369)",323.000 € 3.817 €/m²,3 Zimmer,"84,6 m²",Unknown,https://www.immowelt.de/expose/6d38d5e5-8923-4103-ac67-944ba6e4fbb6
-"Wischlingen, Dortmund (44369)",190.000 € 3.822 €/m²,2 Zimmer,"49,7 m²",Unknown,https://www.immowelt.de/expose/7b792da9-53e7-4ade-bc94-22e5b3311c7d
-"Wischlingen, Dortmund (44369)",190.000 € 3.822 €/m²,2 Zimmer,"49,7 m²",Unknown,https://www.immowelt.de/expose/db7de78a-685c-4cc8-a39e-646dec59dbaf
-"Wischlingen, Dortmund (44369)",380.000 € 3.800 €/m²,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/eefda61e-dc8b-4cab-9847-50c8b2c090b3
-"Höchsten, Dortmund - (44267)",485.000 € 2.580 €/m²,5 Zimmer,188 m²,323 m² Grundstück,https://www.immowelt.de/expose/483310ac-84fa-43e0-9a41-9d7767d92e6a
-"Nette, Dortmund (44359)",159.000 € 2.650 €/m²,3 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/6b8f0335-8ccf-4b74-ab22-c405ebae511c
-"Nette, Dortmund (44359)",109.000 € 1.817 €/m²,3 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/c005d725-01b9-494f-9f2b-786f58b45970
-"Aplerbecker Straße, Dortmund (44287)",450.000 € 4.075 €/m²,"3,5 Zimmer","110,4 m²",1.143 m² Grundstück,https://www.immowelt.de/expose/19fc5ee7-03b0-491f-9be1-a1e24b0ea1f7
-"Sölderholz, Dortmund (44289)",498.000 € 3.388 €/m²,5 Zimmer,147 m²,520 m² Grundstück,https://www.immowelt.de/expose/b854ce76-ead7-4b5f-bb78-ddbc606497ac
-"Sölderholz, Dortmund (44289)",245.000 € 2.426 €/m²,3 Zimmer,101 m²,2. Geschoss,https://www.immowelt.de/expose/773e220a-d583-4e04-a6dd-daa9dbb5eaaf
-"Lücklemberg, Dortmund (44229)",998.000 € 2.719 €/m²,11 Zimmer,367 m²,829 m² Grundstück,https://www.immowelt.de/expose/25bcbafa-489a-4165-a38f-adf8682782ad
-"Lücklemberg, Dortmund (44229)",300.000 € 2.727 €/m²,3 Zimmer,110 m²,Unknown,https://www.immowelt.de/expose/b0726318-b413-4b2e-a337-f40d3e4ad9da
-"Aplerbecker Mark, Dortmund (44265)",259.000 € 3.985 €/m²,2 Zimmer,65 m²,2. Geschoss,https://www.immowelt.de/expose/23cf9939-406a-4706-b79c-a4e588897fb9
-"Kolonie Neuasseln, Dortmund (44309)",244.000 € 2.624 €/m²,"3,5 Zimmer",93 m²,2. Geschoss,https://www.immowelt.de/expose/06f8a357-30e0-4d76-ac0e-bf3528bbe94f
-"Kley, Dortmund (44149)",184.900 € 2.802 €/m²,3 Zimmer,66 m²,1. Geschoss,https://www.immowelt.de/expose/35a722bf-29ad-4eab-ac08-def8f8770f93
-"Remberg, Dortmund (44141)",798.000 € 3.712 €/m²,6 Zimmer,215 m²,370 m² Grundstück,https://www.immowelt.de/expose/f354094c-2494-40ec-a02b-895bfe629780
-"Gartenstadt - Nord, Dortmund (44141)",795.000 € 4.321 €/m²,2 Zimmer,184 m²,795 m² Grundstück,https://www.immowelt.de/expose/96594b8f-9dbe-4161-b66f-86480a4bdb58
-"Marten, Dortmund (44379)",729.000 € 1.918 €/m²,14 Zimmer,380 m²,1.600 m² Grundstück,https://www.immowelt.de/expose/380cf91f-180f-40d5-8881-6e9a8739bba3
-"Oberdorstfeld, Dortmund (44149)",235.000 € 3.176 €/m²,"3,5 Zimmer",74 m²,361 m² Grundstück,https://www.immowelt.de/expose/a27fddc4-1654-4a3a-bc92-2c86a3635ddb
-"Oestrich, Dortmund (44357)",549.000 € 2.018 €/m²,13 Zimmer,272 m²,746 m² Grundstück,https://www.immowelt.de/expose/bf69532f-87eb-45aa-8d29-ac41605dc6a0
-"Husen - Süd, Dortmund (44319)",179.000 € 1.912 €/m²,"5,5 Zimmer","93,6 m²",287 m² Grundstück,https://www.immowelt.de/expose/cf927cfb-4510-4a78-8106-e4632cd43535
-"Ruhrallee - West, Dortmund (44139)",1.149.000 € 6.566 €/m²,7 Zimmer,175 m²,486 m² Grundstück,https://www.immowelt.de/expose/d5a36b0c-3153-4ba6-a9ac-3e5e0bde22fc
-"Kurl - Süd, Dortmund (44319)",398.500 € 2.787 €/m²,6 Zimmer,143 m²,267 m² Grundstück,https://www.immowelt.de/expose/0bca6d27-fe4c-4524-952e-ed56b2dacc4b
-"Dingweg 7, Westheck, Dortmund (44309)",120.400 € 2.012 €/m²,3 Zimmer,"59,8 m²",EG,https://www.immowelt.de/expose/333b7806-2946-4b05-8f37-7915b446b595
-"Schulstr. 31-33, Lichtendorf, Dortmund (44289)",318.390 € 4.790 €/m²,2 Zimmer,"66,5 m²",EG,https://www.immowelt.de/expose/f7596e89-80d9-4d4d-b4e4-a25a21040c18
-"Schulstr. 31-33, Lichtendorf, Dortmund (44289)",324.895 € 4.990 €/m²,2 Zimmer,"65,1 m²",1. Geschoss,https://www.immowelt.de/expose/d1ae297c-ff06-4d76-84e6-e12ae1d1b849
-"Schulstr. 31-33, Lichtendorf, Dortmund (44289)",891.275 € 5.190 €/m²,"3,5 Zimmer","171,7 m²",2. Geschoss,https://www.immowelt.de/expose/c0d2adbc-113b-4555-a4b7-3438711e8bf8
-"Apolloweg 102, Ostkirchstraße, Dortmund (44269)",379.500 € 4.154 €/m²,3 Zimmer,"91,4 m²",EG,https://www.immowelt.de/expose/b5c050a7-c07e-4617-950a-12e66c5d9792
-"Siedlung Rotkehlchenweg, Dortmund (44225)",179.000 € 2.325 €/m²,3 Zimmer,77 m²,4. Geschoss,https://www.immowelt.de/expose/f5957c0e-ab7c-4e2e-bacf-d457770199b8
-"Bittermark, Dortmund (44229)",530.000 € 4.077 €/m²,5 Zimmer,130 m²,1.012 m² Grundstück,https://www.immowelt.de/expose/082a4e1e-fb3f-4f62-b822-e92a14dc1e84
-"Klobesstraße 14, Holte - Kreta, Dortmund (44388)",86.400 € 1.909 €/m²,"2,5 Zimmer","45,3 m²",EG,https://www.immowelt.de/expose/5b13bc42-984d-4d6a-903b-6fcc7502ccf4
-"Aplerbecker Mark, Dortmund (44287)",389.000 € 2.992 €/m²,6 Zimmer,130 m²,527 m² Grundstück,https://www.immowelt.de/expose/57a4a0da-051a-44f9-9b8b-769c9127c9ed
-"Gartenstadt - Süd, Dortmund (44141)",1.350.000 € 4.426 €/m²,"8,5 Zimmer",305 m²,769 m² Grundstück,https://www.immowelt.de/expose/e035774e-6168-4b79-941c-5cd53f2a9ffe
-"Holzen, Dortmund (44267)",598.000 € 3.036 €/m²,6 Zimmer,197 m²,619 m² Grundstück,https://www.immowelt.de/expose/008e82df-b4b2-410a-ae34-ba12693967e0
-"Aplerbecker Mark, Dortmund (44287)",199.500 € 1.995 €/m²,3 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/40b89803-fa95-459d-bca8-3ab9840f4436
-"MSA-Siedlung, Dortmund (44328)",379.000 € 3.644 €/m²,4 Zimmer,104 m²,506 m² Grundstück,https://www.immowelt.de/expose/ce022529-774b-4dfd-b2ef-ac02e0a5434a
-"Kirchderne, Dortmund-Derne (44329)",150.000 € 1.875 €/m²,4 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/602b5c3a-4044-4991-bbcb-86a47ac1b273
-"Alt-Scharnhorst, Scharnhorst (44328)",311.000 € 2.187 €/m²,4 Zimmer,"142,2 m²",300 m² Grundstück,https://www.immowelt.de/expose/f0f5ec54-4fc6-4e28-8a47-225f85ac518f
-"Kurl - Süd, Dortmund (44319)",310.000 € 3.196 €/m²,4 Zimmer,97 m²,451 m² Grundstück,https://www.immowelt.de/expose/53e32cde-b193-4ede-9d26-fd571cfb488b
-"Körne, Dortmund (44141)",355.000 € 2.261 €/m²,5 Zimmer,157 m²,Unknown,https://www.immowelt.de/expose/8afbed8a-a17a-4848-8d6f-6a2ecdc3acb8
-"Mengede-Mitte, Dortmund (44359)",547.000 € 3.825 €/m²,4 Zimmer,143 m²,237 m² Grundstück,https://www.immowelt.de/expose/0bc49174-fb1b-4168-95af-75394bb2e178
-"Westheck, Dortmund (44309)",479.000 € 3.051 €/m²,6 Zimmer,157 m²,1.028 m² Grundstück,https://www.immowelt.de/expose/b9ecf158-9623-4cab-9f0c-088d4d3529a9
-"Aplerbeck Bahnhof Süd, Dortmund (44287)",360.000 € 3.600 €/m²,"2,5 Zimmer",100 m²,156 m² Grundstück,https://www.immowelt.de/expose/15d485b5-874d-48b0-8f21-d4f1df8aa93b
-"Hangeney, Dortmund (44379)",125.000 € 1.894 €/m²,"2,5 Zimmer",66 m²,Unknown,https://www.immowelt.de/expose/73229708-d279-4356-9807-25567bd7ca62
-"Phönix-West, Dortmund (44263)",790.000 € 3.038 €/m²,14 Zimmer,260 m²,649 m² Grundstück,https://www.immowelt.de/expose/a1ff2386-b02c-4001-872a-35e86fd99945
-"Lanstrop-Neu, Dortmund (44329)",349.000 € 2.102 €/m²,6 Zimmer,166 m²,1.547 m² Grundstück,https://www.immowelt.de/expose/4f52bfb1-b656-412a-aa06-05d244243e4a
-"Asselburg, Dortmund (44319)",310.000 € 2.981 €/m²,5 Zimmer,104 m²,539 m² Grundstück,https://www.immowelt.de/expose/c72a681e-0e2f-4729-aa2f-6d7cf22531f4
-"Holzen, Dortmund (44267)",850.000 € 4.229 €/m²,5 Zimmer,201 m²,4.002 m² Grundstück,https://www.immowelt.de/expose/aa5a9900-c642-4ff9-87bc-b4197d8e8668
-"Kolonie Neuasseln, Dortmund (44309)",174.000 € 2.000 €/m²,"3,5 Zimmer",87 m²,frei ab sofort,https://www.immowelt.de/expose/de1cd1b2-f784-4032-8583-23b9fe30f464
-"Oberdorstfeld, Dortmund - Dorstfeld (44149)",2.200.000 € 3.774 €/m²,16 Zimmer,583 m²,2.900 m² Grundstück,https://www.immowelt.de/expose/b272a3d3-9178-48da-9627-817f77e6474f
-"Remberg, Dortmund (44141)",620.000 € 4.362 €/m²,5 Zimmer,"142,1 m²","369,5 m² Grundstück",https://www.immowelt.de/expose/a609bae3-bffa-450b-b22b-f8475794769e
-"Lücklemberg, Dortmund (44229)",199.000 € 2.427 €/m²,3 Zimmer,82 m²,1. Geschoss,https://www.immowelt.de/expose/7ce96126-ee70-4c26-abef-304073757643
-"Westfalendamm - Nord, Dortmund (44141)",949.000 € 5.362 €/m²,11 Zimmer,177 m²,634 m² Grundstück,https://www.immowelt.de/expose/4df92c70-1013-4a8d-89d9-8623d92c7dca
-"Siedlung Rotkehlchenweg, Dortmund (44225)",170.000 € 2.125 €/m²,80 m²,Unknown,Unknown,https://www.immowelt.de/expose/21179eb6-9403-4d10-84df-e48e7fc0c6af
-"Reichshof, Dortmund (44309)",379.000 € 4.032 €/m²,4 Zimmer,94 m²,459 m² Grundstück,https://www.immowelt.de/expose/e860b737-24e9-475d-a4a0-27572d17ebb9
-"Bittermark, Dortmund (44229)",295.000 € 2.617 €/m²,3 Zimmer,"112,7 m²",EG,https://www.immowelt.de/expose/2ab8648b-d84d-47d2-8493-e15da0ed0c98
-"Marsbruchstraße, Dortmund (44287)",370.000 € 2.313 €/m²,7 Zimmer,160 m²,448 m² Grundstück,https://www.immowelt.de/expose/65d5c42d-8acb-4e60-973d-03348f318bc4
-"Bittermark, Dortmund (44229)",445.000 € 3.648 €/m²,4 Zimmer,122 m²,858 m² Grundstück,https://www.immowelt.de/expose/8218adfe-e8b3-4e72-8156-360ba95126fa
-"Westfalenhütte, Dortmund (44145)",129.000 € 1.613 €/m²,3 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/66299a30-1091-4445-ac09-2f89df0bb7a6
-"Westfalenhütte, Dortmund (44145)",79.500 € 1.529 €/m²,2 Zimmer,52 m²,4. Geschoss,https://www.immowelt.de/expose/f6b3e5da-2a3c-43c3-b479-f77f2ae4320e
-"Wellinghofen, Dortmund (44265)",530.000 € 5.000 €/m²,"4,5 Zimmer",106 m²,517 m² Grundstück,https://www.immowelt.de/expose/44ac8ea6-3e72-47ae-aaec-e8d8d9dcaed9
-"Sölde - Nord, Dortmund / Sölde (44289)",479.000 € 2.661 €/m²,5 Zimmer,180 m²,367 m² Grundstück,https://www.immowelt.de/expose/2b156765-8a6d-49a4-b656-5aa5901fd26f
-"Lütgendortmund - West, Dortmund (44388)",235.000 € 2.304 €/m²,3 Zimmer,102 m²,183 m² Grundstück,https://www.immowelt.de/expose/31aae6e8-70c6-4a7d-b16b-4229f46d7eed
-"Remberg, Dortmund (44263)",74.000 € 1.298 €/m²,57 m²,Unknown,Unknown,https://www.immowelt.de/expose/585b8bc5-b6ab-4485-b056-fd808ffbe180
-"Lanstrop-Alt, Dortmund (44329)",545.000 € 4.955 €/m²,"4,5 Zimmer",110 m²,389 m² Grundstück,https://www.immowelt.de/expose/ed5da5b4-c68e-4bbb-8a11-4edfb5e68e88
-"Oberdorstfeld, Dortmund - Dorstfeld (44149)",2.200.000 € 4.089 €/m²,16 Zimmer,538 m²,2.900 m² Grundstück,https://www.immowelt.de/expose/a9c90db3-ebf1-4d58-a654-5d135b8790ef
-"Körne, Dortmund (44143)",165.000 € 2.089 €/m²,3 Zimmer,79 m²,4. Geschoss,https://www.immowelt.de/expose/0ef9161c-4808-4c1b-9196-3e53d8d44375
-"Dollersweg, Dortmund (44319)",205.000 € 2.412 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/c02741ae-d91d-4099-aa50-f81525304f93
-"Marten, Dortmund - Marten (44379)",196.000 € 1.849 €/m²,4 Zimmer,106 m²,3. Geschoss,https://www.immowelt.de/expose/7b71b3ac-af1a-4e83-a639-0645b3fa9741
-"Holzen, Dortmund (44267)",198.000 € 3.046 €/m²,2 Zimmer,65 m²,EG,https://www.immowelt.de/expose/3afeec8e-f008-4425-a3de-8e5fa6c35be1
-"Berghofen Dorf, Dortmund (44269)",589.000 € 1.447 €/m²,15 Zimmer,407 m²,775 m² Grundstück,https://www.immowelt.de/expose/e0bcd836-e257-44d6-b02f-1d44fc49285e
-"Westerfilde, Dortmund (44357)",495.000 € 1.934 €/m²,8 Zimmer,256 m²,411 m² Grundstück,https://www.immowelt.de/expose/d5ea8778-a37a-457b-b65c-c4328e84c5d3
-"Oespel, Dortmund (44149)",689.000 € 1.235 €/m²,24 Zimmer,558 m²,1.025 m² Grundstück,https://www.immowelt.de/expose/101df276-7ac2-4157-be39-1c80406d14db
-"Körne, Dortmund / Körne (44143)",178.000 € 2.657 €/m²,2 Zimmer,67 m²,Unknown,https://www.immowelt.de/expose/64265eb8-553f-4212-944e-cf7035ace83e
-"Löttringhausen - Nord, Dortmund (44229)",239.000 € 2.988 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/a905f51a-9104-4485-ab03-882b60d1573d
-"Lücklemberg, Dortmund (44229)",729.000 € 3.089 €/m²,8 Zimmer,236 m²,976 m² Grundstück,https://www.immowelt.de/expose/06334be2-421c-4257-89a0-0e55525e476f
-"Wischlingen, Dortmund (44369)",320.000 € 3.804 €/m²,3 Zimmer,"84,1 m²",Unknown,https://www.immowelt.de/expose/f35c85d6-7b2e-4fab-ac85-9525c8119aba
-"Loh, Dortmund / Wellinghofen (44267)",549.000 € 2.064 €/m²,6 Zimmer,266 m²,2.740 m² Grundstück,https://www.immowelt.de/expose/ff8765f5-e509-4111-a7db-03c2434d7583
-"Wickede Dorf, Dortmund / Husen (44319)",460.000 € 3.005 €/m²,5 Zimmer,"153,1 m²",370 m² Grundstück,https://www.immowelt.de/expose/1cb83fc2-9ba3-49ad-baeb-7cf689ddef68
-"Overgünne 213, Berghofen Dorf, Dortmund (44269)",185.000 € 2.425 €/m²,3 Zimmer,"76,3 m²",2. Geschoss,https://www.immowelt.de/expose/af1a8f1d-6639-4a50-9fd7-6ff766faa7d3
-"Knappschaftskrankenhaus, Dortmund - Brackel (44309)",225.000 € 2.647 €/m²,3 Zimmer,85 m²,272 m² Grundstück,https://www.immowelt.de/expose/6c29280f-24ed-4ac7-83b3-7827019f960c
-"Mengeder Heide, Dortmund / Groppenbruch (44359)",648.000 € 2.842 €/m²,4 Zimmer,228 m²,838 m² Grundstück,https://www.immowelt.de/expose/ebe834df-f00f-4f33-9ed8-f20b998315d8
-"Hombruch, Dortmund (44225)",795.000 € 3.487 €/m²,8 Zimmer,228 m²,1.258 m² Grundstück,https://www.immowelt.de/expose/efb84482-2bfd-4da1-b2af-e4c28a3a9bb9
-"Wischlingen, Dortmund (44369)",369.465 € 4.275 €/m²,"3,5 Zimmer","86,4 m²",2. Geschoss,https://www.immowelt.de/expose/ec8a692b-8005-46eb-b559-2e05dc714283
-"Mengede-Mitte, Dortmund / Mengede (44359)",515.000 € 2.210 €/m²,6 Zimmer,233 m²,1.073 m² Grundstück,https://www.immowelt.de/expose/ce13c490-b3cb-4622-b182-a310fa0c4f12
-"Mengede-Mitte, Dortmund (44359)",1.150.000 € 4.107 €/m²,11 Zimmer,280 m²,447 m² Grundstück,https://www.immowelt.de/expose/f537f100-de17-4500-9ba8-a84faade76b1
-"Mitte, Dortmund (44289)",870.000 € 3.107 €/m²,5 Zimmer,280 m²,1.521 m² Grundstück,https://www.immowelt.de/expose/0074a7ad-4992-46a1-804f-754f2a8925b0
-"Eving, Dortmund / Eving (44339)",1.110.000 € 3.524 €/m²,7 Zimmer,315 m²,1.815 m² Grundstück,https://www.immowelt.de/expose/d282577a-dd63-4504-b8fd-e6aea0f4d383
-"Löttringhausen - Süd, Dortmund (44229)",685.000 € 2.299 €/m²,9 Zimmer,298 m²,1.170 m² Grundstück,https://www.immowelt.de/expose/6c314607-6146-4456-b6a1-1993c8fb99c6
-"Westfalendamm - Nord, Dortmund (44141)",989.000 € 3.663 €/m²,6 Zimmer,270 m²,3. Geschoss,https://www.immowelt.de/expose/cecf72bd-50e9-4a17-a455-948bfca224c1
-"Loh, Dortmund (44267)",329.000 € 3.133 €/m²,"4,5 Zimmer",105 m²,245 m² Grundstück,https://www.immowelt.de/expose/ac272351-4cd5-49cb-abda-aeda4136b761
-"Aplerbecker Markt, Dortmund / Aplerbeck (44287)",980.000 € 4.900 €/m²,4 Zimmer,200 m²,799 m² Grundstück,https://www.immowelt.de/expose/71e80ed2-fe31-4225-8d62-1683194fa0c9
-"Lütgendortmund - Mitte, Dortmund (44388)",550.000 € 1.444 €/m²,14 Zimmer,381 m²,505 m² Grundstück,https://www.immowelt.de/expose/7778aa3e-e61f-4302-9797-3dc105ef25f7
-"Lütgendortmund - Mitte, Dortmund (44388)",550.000 € 1.444 €/m²,381 m²,505 m² Grundstück,Unknown,https://www.immowelt.de/expose/feff0ae9-e6f1-467c-8f15-83be9d13e4b5
-"Aplerbecker Mark, Dortmund (44287)",680.000 € 3.022 €/m²,8 Zimmer,225 m²,585 m² Grundstück,https://www.immowelt.de/expose/b6409d98-b128-4ff5-aac9-e56437419b69
-"Hallerey, Dortmund (44149)",677.000 € 1.354 €/m²,18 Zimmer,500 m²,711 m² Grundstück,https://www.immowelt.de/expose/76a9be9e-3c2d-4e6c-92a8-2fad0515fc71
-"Bittermark, Dortmund (44229)",450.000 € 4.091 €/m²,6 Zimmer,110 m²,848 m² Grundstück,https://www.immowelt.de/expose/f784f698-b35f-43a8-ac8d-041a071fe10b
-"Bittermark, Dortmund (44229)",1.750.000 € 4.902 €/m²,10 Zimmer,357 m²,2.134 m² Grundstück,https://www.immowelt.de/expose/bfe09e17-1063-4199-ab24-2b0e2847e0f4
-"Husen - Süd, Dortmund (44319)",484.000 € 2.161 €/m²,6 Zimmer,224 m²,742 m² Grundstück,https://www.immowelt.de/expose/c219d8b0-67cd-4ac5-ab68-e8f932afb5b2
-"Schnee, Dortmund / Auf dem Schnee (44227)",769.000 € 5.826 €/m²,6 Zimmer,132 m²,7.887 m² Grundstück,https://www.immowelt.de/expose/3fd10a49-325c-4bf3-a676-2e129c13a104
-"Oberdorstfeld, Dortmund (44149)",326.392 € 4.400 €/m²,"2,5 Zimmer","74,2 m²",1. Geschoss,https://www.immowelt.de/expose/bbe660d2-afab-45aa-8f62-cdbee918bfe2
-"Kurl - Süd, Dortmund (44319)",498.000 € 2.767 €/m²,7 Zimmer,180 m²,809 m² Grundstück,https://www.immowelt.de/expose/94e7b216-ed23-4a7e-b47f-bc15cbb00887
-"Loh, Dortmund (44267)",98.000 € 2.272 €/m²,"2,5 Zimmer","43,1 m²",2. Geschoss,https://www.immowelt.de/expose/653cf094-eae6-448f-aa51-08e421fe995c
-"Sölde - Nord, Dortmund (44289)",449.000 € 3.207 €/m²,6 Zimmer,140 m²,583 m² Grundstück,https://www.immowelt.de/expose/de052b57-fc62-46e9-8e11-0a4323767136
-"Nette, Dortmund (44359)",320.000 € 2.133 €/m²,5 Zimmer,150 m²,2. Geschoss,https://www.immowelt.de/expose/0afdebf0-2c20-41f5-a0da-8da0654bcf69
-"Vieselerhofstraße, Dortmund (44287)",169.000 € 2.061 €/m²,3 Zimmer,82 m²,2. Geschoss,https://www.immowelt.de/expose/b2142238-75df-4d11-9a88-6d7cfde7a78b
-"Lütgendortmund - Mitte, Dortmund (44388)",895.000 € 1.026 €/m²,872 m²,7.662 m² Grundstück,Unknown,https://www.immowelt.de/expose/6a3a7975-e6e6-4252-b062-84db884bff90
-"Körne, Dortmund (44143)",175.000 € 2.160 €/m²,3 Zimmer,81 m²,2. Geschoss,https://www.immowelt.de/expose/e75f35f8-9b9b-48e2-932f-b7782f1fa990
-"Kirchhörde - Ost, Dortmund (44229)",465.000 € 5.144 €/m²,"2,5 Zimmer","90,4 m²",1. Geschoss,https://www.immowelt.de/expose/293e59e8-6157-4793-9929-ba9d61080fc0
-"Lütgendortmund - West, Dortmund (44388)",139.900 € 1.916 €/m²,"3,5 Zimmer",73 m²,EG,https://www.immowelt.de/expose/19259b63-faf5-440d-b7dc-d732221766cc
-"Berghofen Dorf, Dortmund (44269)",990.000 € 2.200 €/m²,16 Zimmer,450 m²,1.295 m² Grundstück,https://www.immowelt.de/expose/ac207b03-c9ad-4621-b0d9-9a5225c7b649
-"Durchstraße, Dortmund (44265)",680.000 € 2.776 €/m²,8 Zimmer,245 m²,695 m² Grundstück,https://www.immowelt.de/expose/36ed6b1d-aa03-4d59-92df-459842a99490
-"Westpark, Dortmund / Innenstadt-West (44137)",179.000 € 2.996 €/m²,2 Zimmer,"59,8 m²",1. Geschoss,https://www.immowelt.de/expose/e7feac61-bb79-4fbf-9cf7-d1445e4953cc
-"Sölde - Nord, Dortmund (44289)",346.000 € 2.731 €/m²,"5,5 Zimmer","126,7 m²",344 m² Grundstück,https://www.immowelt.de/expose/01676ada-4f4a-41d9-a128-754baa5449e4
-"Lanstrop-Neu, Dortmund (44329)",389.000 € 2.416 €/m²,7 Zimmer,161 m²,786 m² Grundstück,https://www.immowelt.de/expose/a8c0b282-94e8-4c37-994b-e135d611bf4b
-"Aplerbecker Markt, Dortmund (44287)",289.000 € 3.322 €/m²,3 Zimmer,87 m²,Unknown,https://www.immowelt.de/expose/8f86b133-e39f-4c32-9208-421301bd29f4
-"Derne, Dortmund / Derne (44329)",149.000 € 1.961 €/m²,3 Zimmer,76 m²,1. Geschoss,https://www.immowelt.de/expose/f7556b56-6a24-470a-80e2-f21ebfec1591
-"Nordmarkt - Süd, Dortmund (44147)",271.700 € 3.159 €/m²,4 Zimmer,86 m²,4. Geschoss,https://www.immowelt.de/expose/8ee5230a-7adf-4ea1-ba19-ae13e1d2dbdf
-"Westfalenhalle, Dortmund (44139)",1.875.000 € 3.064 €/m²,612 m²,360 m² Grundstück,Unknown,https://www.immowelt.de/expose/d6f93d12-4a52-4d49-abb0-a1804f3e7e4c
-"Hörde, Dortmund / Hörde (44263)",795.000 € 1.618 €/m²,"491,2 m²",181 m² Grundstück,Unknown,https://www.immowelt.de/expose/4b9311c9-fedc-4f04-8b05-511401c9cece
-"Nette, Dortmund (44359)",320.000 € 2.133 €/m²,5 Zimmer,150 m²,2. Geschoss,https://www.immowelt.de/expose/4523becb-89a9-4d8c-a2e6-bf91d01a97c0
-"Derne, Dortmund (44329)",639.000 € 4.407 €/m²,5 Zimmer,145 m²,639 m² Grundstück,https://www.immowelt.de/expose/490e0a26-708b-4c8c-b447-5eefbc355198
-"Kaiserbrunnen, Dortmund (44135)",1.050.000 € 2.449 €/m²,"489,9 m²",231 m² Grundstück,Unknown,https://www.immowelt.de/expose/4d7dbc6b-d0dc-4825-b8dd-7aa07e50de6d
-"Bittermark, Dortmund (44229)",1.255.000 € 5.409 €/m²,9 Zimmer,232 m²,1.698 m² Grundstück,https://www.immowelt.de/expose/1b452f5c-df4a-4029-93d4-f231e707f8b3
-"Holzen, Dortmund (44267)",689.000 € 2.996 €/m²,5 Zimmer,230 m²,495 m² Grundstück,https://www.immowelt.de/expose/d3cd2b86-b8e1-40a4-997f-fc5f12027785
-"Dorstfeld, Dortmund (44149)",625.000 € 4.310 €/m²,5 Zimmer,145 m²,Unknown,https://www.immowelt.de/expose/bfd5d49c-bfc9-49e4-bd63-7c9519cc77e1
-"Bittermark, Dortmund (44229)",1.135.000 € 5.159 €/m²,6 Zimmer,220 m²,Unknown,https://www.immowelt.de/expose/2b42cc46-9444-4efe-b33c-98988f9dbdf2
-"Holzen, Dortmund (44267)",1.012.700 € 4.220 €/m²,8 Zimmer,240 m²,Unknown,https://www.immowelt.de/expose/7808fd96-792c-446e-83b0-760f742a9b09
-"Holzen, Dortmund (44267)",998.700 € 4.161 €/m²,8 Zimmer,240 m²,Unknown,https://www.immowelt.de/expose/b96c93c8-ab20-4e2b-a233-073db530879e
-"Holzen, Dortmund (44267)",921.700 € 4.190 €/m²,6 Zimmer,220 m²,Unknown,https://www.immowelt.de/expose/b670b354-63bc-4002-817d-6f43914265d9
-"Holzen, Dortmund (44267)",928.700 € 4.221 €/m²,6 Zimmer,220 m²,Unknown,https://www.immowelt.de/expose/ac9cfdac-8513-4197-a717-faee416ae001
-"Schanze, Dortmund (44227)",2.750.000 € 9.354 €/m²,4 Zimmer,294 m²,11.607 m² Grundstück,https://www.immowelt.de/expose/134ddae1-8748-4e0a-8521-9746cccb5159
-"Löttringhausen - Süd, Dortmund (44229)",269.000 € 2.890 €/m²,4 Zimmer,"93,1 m²",1. Geschoss,https://www.immowelt.de/expose/13f6f89f-e9e7-4ec3-825c-f0d128e89410
-"Bittermark, Dortmund (44229)",789.000 € 6.420 €/m²,"4,5 Zimmer","122,9 m²",442 m² Grundstück,https://www.immowelt.de/expose/e8a4240e-94a7-46b5-81a9-f52838e6b47b
-"Marsbruchstraße, Dortmund (44287)",298.000 € 3.014 €/m²,7 Zimmer,"98,9 m²",470 m² Grundstück,https://www.immowelt.de/expose/0dcbd3fb-0d9b-42d0-8ad3-f4620e8199fd
-"Ruhrallee - West, Dortmund (44139)",1.650.000 € 2.615 €/m²,19 Zimmer,631 m²,667 m² Grundstück,https://www.immowelt.de/expose/61313d56-92a9-491b-8096-061b50be1fda
-"Lanstrop-Alt, Dortmund (44329)",515.000 € 3.280 €/m²,5 Zimmer,157 m²,230 m² Grundstück,https://www.immowelt.de/expose/6fa48b59-269e-48e9-b14f-08c273e0e7c1
-"Funkenburg, Dortmund (44143)",639.000 € 1.826 €/m²,12 Zimmer,350 m²,"116,8 m² Grundstück",https://www.immowelt.de/expose/7befc761-dd7d-4d96-aa3a-e8545d19d4cf
-"Klüsenerskamp 7, Brünninghausen, Dortmund (44225)",860.000 € 3.185 €/m²,7 Zimmer,270 m²,462 m² Grundstück,https://www.immowelt.de/expose/04507207-fb8c-4c87-8e8d-48b7f3a6ab35
-"Aplerbeck Bahnhof Süd, Dortmund (44287)",550.000 € 4.400 €/m²,4 Zimmer,125 m²,198 m² Grundstück,https://www.immowelt.de/expose/55f7c2ef-8192-4a76-84de-163ababa59f9
-"Klobesstraße 23, Holte - Kreta, Dortmund (44388)",106.000 € 1.928 €/m²,"3,5 Zimmer",55 m²,EG,https://www.immowelt.de/expose/35da499b-f64c-41ff-98bf-9f92d64c4cd6
-Unknown,Unknown,"4,5 Zimmer",121 m²,159 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532
-Unknown,Unknown,"4,5 Zimmer",121 m²,232 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532
-Unknown,Unknown,"5,5 Zimmer",143 m²,169 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532
-Unknown,Unknown,"4,5 Zimmer",121 m²,232 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532
-Unknown,Unknown,"4,5 Zimmer",121 m²,159 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532
-Unknown,Unknown,"5,5 Zimmer",143 m²,266 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532
-Unknown,Unknown,"5,5 Zimmer",143 m²,169 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532
-Unknown,Unknown,"3,5 Zimmer",125 m²,Unknown,https://www.immowelt.de/projekte/expose/k2tp732
-Unknown,Unknown,"3,5 Zimmer",105 m²,Unknown,https://www.immowelt.de/projekte/expose/k2tp732
-"Holzen, Dortmund (44267)",459.000 € 3.991 €/m²,4 Zimmer,115 m²,332 m² Grundstück,https://www.immowelt.de/expose/d368d641-cf32-4af4-a3d7-4c04f1e752fe
-"Wischlingen, Dortmund (44369)",285.000 € 4.020 €/m²,3 Zimmer,"70,9 m²",frei ab sofort,https://www.immowelt.de/expose/d2330219-b517-4740-a4ff-9055c0f707fa
-"Südwestfriedhof, Dortmund (44139)",250.000 € 4.167 €/m²,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/1f65fd34-a2d1-4f77-b37e-535399f439b1
-"Westrich, Dortmund - Westrich (44388)",107.000 € 1.945 €/m²,2 Zimmer,55 m²,3. Geschoss,https://www.immowelt.de/expose/39b50d44-28c7-4565-8d53-6ac1885c92d8
-"Oberdorstfeld, Dortmund (44149)",680.000 € 1.153 €/m²,21 Zimmer,590 m²,864 m² Grundstück,https://www.immowelt.de/expose/3251c1ec-f4b0-4a98-a4e5-1ccb046d09fc
-Unknown,Unknown,"3,5 Zimmer",155 m²,Unknown,https://www.immowelt.de/projekte/expose/k2uk532
-Unknown,Unknown,"3,5 Zimmer",81 m²,Unknown,https://www.immowelt.de/projekte/expose/k2uk532
-"Derne, Dortmund (44329)",449.990 € 1.466 €/m²,14 Zimmer,307 m²,306 m² Grundstück,https://www.immowelt.de/expose/a0276eb5-a710-4c02-a1ea-4dfddabd0fa6
-"Derne, Dortmund (44329)",449.990 € 1.376 €/m²,327 m²,Unknown,Unknown,https://www.immowelt.de/expose/4a3ad1fb-b4e5-44c8-8ae7-456383d9636b
-"Borsigplatz, Dortmund (44145)",69.500 € 1.390 €/m²,2 Zimmer,50 m²,5. Geschoss,https://www.immowelt.de/expose/20675837-11f9-48dc-b547-e020c626cd52
-"Nordmarkt - Ost, Dortmund (44145)",350.000 € 787 €/m²,15 Zimmer,445 m²,458 m² Grundstück,https://www.immowelt.de/expose/9c2a5664-ac41-4dce-a21e-3fac06bdb13c
-"Max-Michallek-Straße, Brackeler Feld, Dortmund (44309)",200.000 € 1.942 €/m²,3 Zimmer,103 m²,frei ab sofort,https://www.immowelt.de/expose/b25185fd-7497-4a7b-9e70-c682f7275708
-"Middelhof, Wellinghofen, Dortmund (44265)",170.000 € 2.297 €/m²,2 Zimmer,74 m²,frei ab sofort,https://www.immowelt.de/expose/bb254054-17fb-4b47-9717-69bbe507df5d
-"Seehang, Hörde, Dortmund (44263)",400.000 € 1.905 €/m²,"4,5 Zimmer",210 m²,frei ab sofort,https://www.immowelt.de/expose/67811445-b3e2-4579-819d-682ccf6f3650
-"Paderborner Straße, Körne, Dortmund (44143)",130.000 € 563 €/m²,6 Zimmer,231 m²,frei ab sofort,https://www.immowelt.de/expose/b021d8c5-6920-48e2-bc27-05ecc1787425
-"Lindbreiteweg, Krückenweg, Dortmund (44225)",310.000 € 1.676 €/m²,"6,5 Zimmer",185 m²,570 m² Grundstück,https://www.immowelt.de/expose/00e5c988-a1b0-481f-96bb-ddc71b9f7ba8
-"Lindbreiteweg, Krückenweg, Dortmund (44225)",310.000 € 1.676 €/m²,"6,5 Zimmer",185 m²,570 m² Grundstück,https://www.immowelt.de/expose/b2395f28-a02b-409b-b9d0-fdf6e1c1e71c
-"Ortli, Syburg, Dortmund (44265)",344.000 € 2.548 €/m²,4 Zimmer,135 m²,Unknown,https://www.immowelt.de/expose/5892a607-4335-418b-8b43-7a749f744a9c
-"Am Kai, Hörde, Dortmund (44263)",150.000 € 1.129 €/m²,4 Zimmer,"132,9 m²",frei ab sofort,https://www.immowelt.de/expose/d3b0359a-0102-4e15-8e7c-5c08ccb12046
-"Hermannstraße, Hörde, Dortmund (44263)",300.000 € 2.083 €/m²,4 Zimmer,144 m²,frei ab sofort,https://www.immowelt.de/expose/c78576cd-7b30-49c8-ae0e-12ccf9e019ac
-"Mitte, Schwerte (58239)",50.000 € 1.143 €/m²,3 Zimmer,"43,8 m²",Unknown,https://www.immowelt.de/expose/ba67afc3-4aed-4ade-9925-f861980c774f
-"Mitte, Schwerte (58239)",389.000 € 2.925 €/m²,5 Zimmer,133 m²,552 m² Grundstück,https://www.immowelt.de/expose/86d35724-e240-4009-bf0c-c9955391d81a
-"Mitte, Schwerte (58239)",280.000 € 2.188 €/m²,8 Zimmer,128 m²,368 m² Grundstück,https://www.immowelt.de/expose/3e93f200-3d26-40cb-98a9-0c8ea5879e70
-"Mitte, Schwerte (58239)",448.000 € 2.503 €/m²,6 Zimmer,179 m²,1. Geschoss,https://www.immowelt.de/expose/794dd2f8-4dde-4e01-ab0f-921645200c6d
-"Gahmen, Lünen (44532)",719.000 € 1.203 €/m²,27 Zimmer,"597,9 m²",1.740 m² Grundstück,https://www.immowelt.de/expose/a6b523e4-3230-477f-b677-f99cb9fa12c6
-"Mitte, Schwerte (58239)",38.700 € 880 €/m²,44 m²,Unknown,Unknown,https://www.immowelt.de/expose/5388032d-6391-4162-aec8-1e85e20a9e91
-"Mitte, Schwerte (58239)",800.000 € 1.702 €/m²,10 Zimmer,470 m²,4.153 m² Grundstück,https://www.immowelt.de/expose/f37a085f-a787-4254-a81f-e8d317459a66
-"Mitte, Schwerte (58239)",275.000 € 1.447 €/m²,5 Zimmer,190 m²,1.537 m² Grundstück,https://www.immowelt.de/expose/4a40dad5-fdf3-4a0a-961a-84b945210373
-"Stockum - Mitte, Witten (58454)",381.839 € 2.282 €/m²,5 Zimmer,"167,3 m²",490 m² Grundstück,https://www.immowelt.de/expose/53bd8763-c08e-44a9-9fa8-8b90c3e80cc5
-"Holzen, Schwerte (58239)",260.690 € 2.086 €/m²,4 Zimmer,125 m²,550 m² Grundstück,https://www.immowelt.de/expose/f17a3fef-98da-4723-af32-25209d6793d6
-"Gahmen, Lünen (44532)",475.087 € 3.801 €/m²,"5,5 Zimmer",125 m²,412 m² Grundstück,https://www.immowelt.de/expose/81746ac2-8646-4d3b-80a0-76591fcf3cb0
-"Brambauer, Lünen (44536)",76.000 € 1.688 €/m²,2 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/0b772b88-dc65-4441-88ac-722a7211ec65
-"Frohlinde, Castrop-Rauxel (44577)",248.000 € 3.024 €/m²,3 Zimmer,82 m²,548 m² Grundstück,https://www.immowelt.de/expose/d4cf5cd6-05bc-4fec-ae47-1b751baf5a9d
-"Mitte, Schwerte (58239)",465.300 € 2.449 €/m²,1 Zimmer,190 m²,1.537 m² Grundstück,https://www.immowelt.de/expose/b88b00df-cfe9-4b38-8c8e-f1e728240c09
-"Rüdinghausen - Mitte, Witten (58454)",650.000 € 3.439 €/m²,"6,5 Zimmer",189 m²,1.158 m² Grundstück,https://www.immowelt.de/expose/3381425c-7d49-458a-9901-20da0dc291fd
+Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL;city_id
+Wichlinghofen, Dortmund (44265),869.000 € 2.897 €/m²,10 Zimmer,300 m²,1.225 m² Grundstück,https://www.immowelt.de/expose/614dace5-25fb-478b-b950-e089a55e2367;5382
+"Diemelstraße 52, Aplerbecker Mark, Dortmund (44287),497.900 € 4.750 €/m²,3 Zimmer,""104,8 m²"",2. Geschoss,https://www.immowelt.de/expose/b4a74235-b74b-4787-96e4-00aa39d72e6a";5382
+"Mengeder Heide, Dortmund (44359),389.000 € 2.288 €/m²,""6,5 Zimmer"",170 m²,364 m² Grundstück,https://www.immowelt.de/expose/82ce61b8-49b0-41cd-9672-a91d27bb0c7c";5382
+Lanstrop-Alt, Lanstrop (4439),439.750 € 3.490 €/m²,6 Zimmer,126 m²,410 m² Grundstück,https://www.immowelt.de/expose/829ea1b3-c883-4c3c-9419-ef4dbcd19ef2;5382
+"Krokusweg 3, Sölde - Nord, Dortmund (44289),107.000 € 2.337 €/m²,""2,5 Zimmer"",""45,8 m²"",2. Geschoss,https://www.immowelt.de/expose/ac831a95-8e0b-4d5a-af94-4fb79dc0639f";5382
+"Schulte-Heuthaus-Straße 51, Marten, Dortmund (44379),172.000 € 2.163 €/m²,""3,5 Zimmer"",""79,5 m²"",1. Geschoss,https://www.immowelt.de/expose/5404a103-5adb-4a6b-b40b-70ac2e3e13dc";5382
+Holzen, Dortmund (44267),1.099.000 € 4.737 €/m²,6 Zimmer,232 m²,638 m² Grundstück,https://www.immowelt.de/expose/53a4e99f-c4b9-4cde-82af-bc503f6e5e12;5382
+"Mengede-Mitte, Dortmund / Mengede (44359),529.900 € 3.706 €/m²,""5,5 Zimmer"",143 m²,266 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532";5382
+"Stadtrat-Cremer-Allee 28, Gartenstadt - Süd, Dortmund (44141),427.300 € 6.783 €/m²,""2,5 Zimmer"",63 m²,Unknown,https://www.immowelt.de/projekte/expose/k2tp732";5382
+"Stadtrat-Cremer-Allee 28, Gartenstadt - Süd, Dortmund (44141),706.900 € 6.732 €/m²,""3,5 Zimmer"",105 m²,Unknown,https://www.immowelt.de/projekte/expose/k2tp732";5382
+"Westheck, Dortmund (44309),120.000 € 2.182 €/m²,""2,5 Zimmer"",55 m²,frei ab sofort,https://www.immowelt.de/expose/22d5f010-0ed4-442d-95ae-ced79d0086e8";5382
+"Bittermarkstraße 50, Bittermark, Dortmund (44229),292.800 € 5.631 €/m²,""2,5 Zimmer"",52 m²,Unknown,https://www.immowelt.de/projekte/expose/k2uk532";5382
+Kirchhörde - West, Dortmund (44229),289.000 € 3.176 €/m²,3 Zimmer,91 m²,50. Geschoss,https://www.immowelt.de/expose/9771bc81-c6fc-4879-9e5d-e90ab531a7b2;5382
+"Sichterweg 16, Sölde - Nord, Dortmund (44289),290.000 € 2.878 €/m²,4 Zimmer,""100,8 m²"",181 m² Grundstück,https://www.immowelt.de/expose/e259db34-c3e7-45fb-8c34-21a257fabd12";5382
+Wischlingen, Dortmund (44369),330.000 € 2.750 €/m²,6 Zimmer,120 m²,687 m² Grundstück,https://www.immowelt.de/expose/716db5d0-112b-4c88-9c5a-ec4407d013da;5382
+"Westpark, Dortmund (44137),299.800 € 3.785 €/m²,""2,5 Zimmer"",""79,2 m²"",2. Geschoss,https://www.immowelt.de/expose/ccc4c178-5bed-4895-afcc-a0904d8e8ae3";5382
+"Am Bahnhof Tierpark 1-3, Renninghausen, Dortmund (44225),415.800 € 3.882 €/m²,""107,1 m²"",Unknown,Unknown,https://www.immowelt.de/expose/60dfa277-3e83-4bb4-a941-8590a69d17f5";5382
+Alte Kolonie, Dortmund (44359),650.000 €,921 m²,1.925 m² Grundstück,Unknown,https://www.immowelt.de/expose/53ba7642-81c0-41d2-bf10-fd95db6cbfaa;5382
+Lücklemberg, Dortmund (44229),1.490.000 € 4.822 €/m²,7 Zimmer,309 m²,979 m² Grundstück,https://www.immowelt.de/expose/a55a9c67-5415-4a1f-8767-0f9aa3278166;5382
+Holte - Kreta, Dortmund (44388),135.500 € 1.506 €/m²,5 Zimmer,90 m²,3. Geschoss,https://www.immowelt.de/expose/2c9ab171-4f5d-437d-96e4-3a2d62e4c5ea;5382
+Sölde - Nord, Dortmund (44289),149.000 € 2.129 €/m²,2 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/af99a469-ea9a-4e88-973a-fa0837c2ca8e;5382
+"Wickede Dorf, Dortmund (44319),119.500 € 1.911 €/m²,3 Zimmer,""62,5 m²"",1. Geschoss,https://www.immowelt.de/expose/e1935187-af71-4e1c-bb17-f57cad3075da";5382
+Funkenburg, Dortmund (44143),119.000 € 2.429 €/m²,2 Zimmer,49 m²,3. Geschoss,https://www.immowelt.de/expose/feca4ec1-700f-4767-a1b7-4f06a7fe90dc;5382
+Bodelschwingh, Dortmund (44357),185.000 € 1.360 €/m²,5 Zimmer,136 m²,Unknown,https://www.immowelt.de/expose/5e3b81f0-e716-4dd4-8e69-dfad13c436ce;5382
+"Brackel Dorf, Dortmund (44309),345.000 € 3.613 €/m²,""5,5 Zimmer"",""95,5 m²"",146 m² Grundstück,https://www.immowelt.de/expose/6a2810b7-152f-47a0-8053-93bea2348f46";5382
+Oespel, Dortmund (44149),510.000 € 404 €/m²,12 Zimmer,1.263 m²,1.687 m² Grundstück,https://www.immowelt.de/expose/083a622b-c776-400c-842b-643cb83d579a;5382
+"Insterburgsiedlung, Dortmund (44369),148.000 € 2.206 €/m²,""3,5 Zimmer"",""67,1 m²"",frei ab 01.02.2025,https://www.immowelt.de/expose/f698b2d1-0bdd-43fa-ae6d-6594e7ed866b";5382
+Ostenbergstraße, Dortmund (44225),207.000 € 2.688 €/m²,3 Zimmer,77 m²,1. Geschoss,https://www.immowelt.de/expose/b3015ed7-85f0-43a1-968a-90904a2c8a06;5382
+Nette, Dortmund (44359),159.000 € 1.939 €/m²,3 Zimmer,82 m²,Unknown,https://www.immowelt.de/expose/6d400e84-8bd7-4d41-b397-e48eaead8fa1;5382
+Dachstraße 47, Nette, Dortmund / Nette (44359),555.000 € 2.721 €/m²,10 Zimmer,204 m²,668 m² Grundstück,https://www.immowelt.de/expose/2cff0529-315a-472d-89f8-91540a4a4665;5382
+"Insterburgsiedlung, Dortmund (44369),138.000 € 2.944 €/m²,""2,5 Zimmer"",""46,9 m²"",frei ab sofort,https://www.immowelt.de/expose/a9c1f1b6-d700-4cf9-ac4d-857ba2a537e6";5382
+"Brechten - Süd, Dortmund (44339),150.000 € 7.260 €/m²,1 Zimmer,""20,7 m²"",Unknown,https://www.immowelt.de/expose/f7523fc4-c669-4bf1-9c75-9bf28884729c";5382
+Westfalendamm - Süd, Dortmund (44141),425.000 € 2.833 €/m²,5 Zimmer,150 m²,2. Geschoss,https://www.immowelt.de/expose/bae5b902-f917-4af4-a718-e5da3c1d0128;5382
+"Hörde, Dortmund (44263),256.830 € 4.411 €/m²,2 Zimmer,""58,2 m²"",1. Geschoss,https://www.immowelt.de/expose/e86fc365-f5eb-4d84-bc07-76bd2a21a8b1";5382
+Franz-Zimmer-Siedlung, Dortmund (44329),320.000 € 3.168 €/m²,5 Zimmer,101 m²,650 m² Grundstück,https://www.immowelt.de/expose/a4f962c7-4fb6-4201-acfd-1d9f46b417aa;5382
+"Rüpingstr. 1, Reichshof, Dortmund (44309),229.000 € 2.245 €/m²,""3,5 Zimmer"",102 m²,Unknown,https://www.immowelt.de/expose/a52d3760-3867-480e-9289-781c4d3e681c";5382
+Schönau, Dortmund (44227),350.000 € 1.675 €/m²,9 Zimmer,209 m²,674 m² Grundstück,https://www.immowelt.de/expose/1fd490c8-a223-45a4-8e49-d1cf5e5198c4;5382
+"Mengede-Mitte, Mengede (44139),327.000 € 2.299 €/m²,4 Zimmer,""142,2 m²"",442 m² Grundstück,https://www.immowelt.de/expose/32686535-675f-4a02-9712-1aedaeeb007a";5382
+Alte Kolonie, Dortmund (44359),229.000 € 3.817 €/m²,3 Zimmer,60 m²,295 m² Grundstück,https://www.immowelt.de/expose/a1921291-907a-43d7-a0d8-cfbab3db38dc;5382
+Holzen, Dortmund (44267),559.000 € 3.630 €/m²,5 Zimmer,154 m²,550 m² Grundstück,https://www.immowelt.de/expose/40081efb-9d26-4546-a951-4745c2294624;5382
+Marten, Dortmund (44379),350.000 € 1.336 €/m²,10 Zimmer,262 m²,308 m² Grundstück,https://www.immowelt.de/expose/95548c0f-6df2-46b1-8da1-22579cb5c47f;5382
+Dollersweg, Dortmund (44319),239.000 € 2.234 €/m²,4 Zimmer,107 m²,Unknown,https://www.immowelt.de/expose/d70832a7-9d8f-42a1-b60c-5d58a7710bff;5382
+Aplerbecker Markt, Dortmund (44287),449.000 € 2.897 €/m²,4 Zimmer,155 m²,290 m² Grundstück,https://www.immowelt.de/expose/8f1300e9-90d0-4734-8969-043d7b0a608f;5382
+Westerfilde, Dortmund (44357),285.000 € 4.191 €/m²,5 Zimmer,68 m²,2. Geschoss,https://www.immowelt.de/expose/becdbce7-9fd1-4a7f-bd21-45c933fc1edb;5382
+"Gibbenhey, Eichlinghofen, Dortmund (44227),276.000 € 2.816 €/m²,""3,5 Zimmer"",98 m²,2. Geschoss,https://www.immowelt.de/expose/b1e13ee6-b89f-4696-949b-f0a035ba61d1";5382
+"Nordmarkt - West, Dortmund (44147),140.000 € 2.500 €/m²,""2,5 Zimmer"",56 m²,Unknown,https://www.immowelt.de/expose/6e4457fe-59fe-4359-be02-1984262bdabc";5382
+Wickeder Feld, Dortmund (44319),212.000 € 3.072 €/m²,3 Zimmer,69 m²,386 m² Grundstück,https://www.immowelt.de/expose/c30029e1-ab96-4309-9351-e1920d20f746;5382
+Wichlinghofen, Dortmund (44265),Preis auf Anfrage,10 Zimmer,265 m²,662 m² Grundstück,https://www.immowelt.de/expose/f8c1d079-5e03-45a5-bb62-56174789da06;5382
+"Unknown,Unknown,""4,5 Zimmer"",""94,2 m²"",EG,https://www.immowelt.de/projekte/expose/k2xg632";5382
+Buchholz, Dortmund / Buchholz (44265),1.570.000 € 5.233 €/m²,8 Zimmer,300 m²,1.794 m² Grundstück,https://www.immowelt.de/expose/e6459fea-a3e7-427d-a820-db9443b52a10;5382
+Brechten - Nord, Dortmund / Brechten (44339),265.000 € 2.208 €/m²,4 Zimmer,120 m²,200 m² Grundstück,https://www.immowelt.de/expose/12133a0a-369e-4eb4-b0fa-b8d0f292c368;5382
+Jonathanstraße 25, Mengede-Mitte, Dortmund (44359),279.900 € 4.241 €/m²,2 Zimmer,66 m²,EG,https://www.immowelt.de/expose/703c6c7c-bcef-44b5-9dae-dc802485949c;5382
+Kirchhörde - Nord, Dortmund (44229),680.000 € 3.036 €/m²,7 Zimmer,224 m²,819 m² Grundstück,https://www.immowelt.de/expose/c50ab52e-32e6-46cf-a430-4c65a2979945;5382
+Derne, Dortmund (44329),489.000 € 1.956 €/m²,8 Zimmer,250 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/efb3258d-5dd1-42c7-9274-d69ac0dc429c;5382
+Nordmarkt - Südost, Dortmund (44145),129.000 € 1.554 €/m²,3 Zimmer,83 m²,4. Geschoss,https://www.immowelt.de/expose/416420a2-7a36-460d-a567-237f774a82ad;5382
+Schüren-Neu, Dortmund (44269),798.000 € 4.245 €/m²,5 Zimmer,188 m²,364 m² Grundstück,https://www.immowelt.de/expose/c7030d52-a27a-49cf-a770-1b0bd0fd45bd;5382
+Aplerbecker Straße, Dortmund (44287),160.000 € 3.077 €/m²,2 Zimmer,52 m²,1. Geschoss,https://www.immowelt.de/expose/5d272c84-2a96-4e57-98a6-c3b966b26356;5382
+Berghofen Dorf, Dortmund (44269),350.000 € 1.606 €/m²,10 Zimmer,218 m²,164 m² Grundstück,https://www.immowelt.de/expose/63afdb5f-cb67-40da-86cb-b97d11d9c609;5382
+"Marten, Dortmund (44379),159.000 € 2.208 €/m²,""4,5 Zimmer"",72 m²,EG,https://www.immowelt.de/expose/76b01b31-a147-402b-bf40-0cebba8d9f99";5382
+"Vieselerhofstraße, Dortmund (44287),349.000 € 2.815 €/m²,""5,5 Zimmer"",124 m²,139 m² Grundstück,https://www.immowelt.de/expose/d2411e71-178c-425f-8536-134a05a992ee";5382
+"Markusstraße 24a, Syburg, Dortmund / Syburg (44265),338.000 € 3.729 €/m²,3 Zimmer,""90,7 m²"",Unknown,https://www.immowelt.de/expose/94d26222-994c-4114-8499-95273bf7b408";5382
+"Benninghofen, Dortmund (44269),249.000 € 3.146 €/m²,2 Zimmer,""79,1 m²"",frei ab sofort,https://www.immowelt.de/expose/51b1ce36-8888-4c5c-ad29-01031250a779";5382
+Aplerbecker Markt, Dortmund / Aplerbeck (44287),980.000 € 4.900 €/m²,4 Zimmer,200 m²,799 m² Grundstück,https://www.immowelt.de/expose/71b99ddc-10a1-4d92-80fb-66ecc5783307;5382
+"Wischlingen, Dortmund (44369),373.489 € 4.522 €/m²,""3,5 Zimmer"",""82,6 m²"",EG,https://www.immowelt.de/expose/126b9551-9fa1-4f8a-b5d6-9cc8e0b63d9d";5382
+Spissenagelstr. 90, Bittermark, Dortmund (44229),Preis auf Anfrage,7 Zimmer,272 m²,441 m² Grundstück,https://www.immowelt.de/expose/bc78a9d7-7443-44f5-b97c-35c7f936d342;5382
+"Berghofen Dorf, Dortmund / Berghofen (44269),448.000 € 1.829 €/m²,""9,5 Zimmer"",245 m²,640 m² Grundstück,https://www.immowelt.de/expose/333a24d3-a028-461f-a2e0-cc63723adc52";5382
+Holzen, Dortmund (44267),417.800 € 2.143 €/m²,10 Zimmer,195 m²,957 m² Grundstück,https://www.immowelt.de/expose/16e18b47-807e-4461-8b2d-8104cccdc738;5382
+Gartenstadt - Nord, Dortmund (44141),2.950.000 € 4.638 €/m²,14 Zimmer,636 m²,1.542 m² Grundstück,https://www.immowelt.de/expose/cc622435-4f2d-44ed-8054-ead2ef2421b2;5382
+"Holtestr. 117, Holte - Kreta, Dortmund (44388),125.000 € 1.645 €/m²,""2,5 Zimmer"",76 m²,1. Geschoss,https://www.immowelt.de/expose/45fa32b8-c670-41a4-8698-3421f85c0b1f";5382
+"Benninghofen, Dortmund (44267),89.000 € 2.225 €/m²,""1,5 Zimmer"",40 m²,Unknown,https://www.immowelt.de/expose/a5a72641-85cd-4f71-84d3-47f2d1c62f73";5382
+Kirchhörde - West, Dortmund (44229),289.000 € 3.176 €/m²,3 Zimmer,91 m²,Unknown,https://www.immowelt.de/expose/3135e62e-3ceb-42a7-9bd8-118a9551bcc3;5382
+"Krückenweg, Dortmund (44225),385.000 € 3.407 €/m²,""4,5 Zimmer"",113 m²,200 m² Grundstück,https://www.immowelt.de/expose/15ce0412-5495-423a-abb5-6580c91381a1";5382
+Mergelteichstr. 1, Renninghausen, Dortmund (44225),258.000 € 3.146 €/m²,3 Zimmer,82 m²,1. Geschoss,https://www.immowelt.de/expose/95b47c29-ed19-4fa6-84d0-52150c877483;5382
+Brechten - Süd, Dortmund (44339),159.000 € 2.239 €/m²,3 Zimmer,71 m²,EG,https://www.immowelt.de/expose/3f332889-2910-4f40-a042-4d1ef34f2e06;5382
+City - Ost, Dortmund (44135),2.950.000 € 5.157 €/m²,572 m²,194 m² Grundstück,Unknown,https://www.immowelt.de/expose/5bb846f8-49e3-4eb5-8028-cad4c377a58c;5382
+Hamburger Straße 3, Kaiserbrunnen, Dortmund (44135),Preis auf Anfrage,1.027 m²,270 m² Grundstück,Unknown,https://www.immowelt.de/expose/f6bc1185-ea5c-41fd-9d47-a44995e89f36;5382
+Auf dem Schnee 145, Schnee, Dortmund (44227),550.000 € 2.183 €/m²,8 Zimmer,252 m²,1.770 m² Grundstück,https://www.immowelt.de/expose/fc10d808-bdfd-4172-a05a-51176cf75e1f;5382
+Flughafenstr. 385, Westholz, Dortmund (44328),249.000 € 2.284 €/m²,4 Zimmer,109 m²,2. Geschoss,https://www.immowelt.de/expose/dc39fb93-4ce5-4b49-a6ab-dfed2259e233;5382
+-, Lindenhorst, Dortmund (44147),899.000 € 5.619 €/m²,6 Zimmer,160 m²,230 m² Grundstück,https://www.immowelt.de/expose/2717cf01-bdb6-41ce-9d4c-1d4971c721b1;5382
+Niedereving, Dortmund (44339),360.000 € 2.727 €/m²,6 Zimmer,132 m²,295 m² Grundstück,https://www.immowelt.de/expose/1a5ccb9d-39d2-469f-a492-4570d229c78f;5382
+Hostedde, Dortmund (44329),434.873 € 3.782 €/m²,115 m²,300 m² Grundstück,Unknown,https://www.immowelt.de/expose/1414e07f-411b-44f6-a26f-c2467ee89855;5382
+Hostedde, Dortmund (44329),639.500 € 4.207 €/m²,152 m²,820 m² Grundstück,Unknown,https://www.immowelt.de/expose/f6759709-2744-46a9-ae9e-2e92bf102568;5382
+City - Ost, Dortmund (44135),244.690 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/f4242ebd-31c5-4cfc-bd37-e61e9b579765;5382
+Hostedderstraße 133, Grevel, Dortmund (44329),470.525 € 3.460 €/m²,5 Zimmer,136 m²,410 m² Grundstück,https://www.immowelt.de/expose/856fcf0d-3f63-41e3-bb1d-502d6c94b749;5382
+Hostedderstraße 133, Grevel, Dortmund (44329),470.525 € 3.460 €/m²,5 Zimmer,136 m²,410 m² Grundstück,https://www.immowelt.de/expose/2c916dd3-644b-405d-9230-c7d6ecd3fb71;5382
+"Berghofen Dorf, Dortmund (44269),358.000 € 3.497 €/m²,""4,5 Zimmer"",""102,4 m²"",419 m² Grundstück,https://www.immowelt.de/expose/bb71dd3c-048b-475c-a117-f4c6d0cd15e0";5382
+"Aplerbeck Bahnhof Süd, Dortmund (44287),985.000 € 2.855 €/m²,16 Zimmer,345 m²,""771,3 m² Grundstück"",https://www.immowelt.de/expose/306940e8-7cc3-4003-b76c-967571a12ef8";5382
+"Germania, Dortmund (44379),270.686 € 4.505 €/m²,""3,5 Zimmer"",""60,1 m²"",EG,https://www.immowelt.de/expose/2cb56403-10b3-4d80-8328-962e731c5d9a";5382
+Dorstfeld, Dortmund (44149),129.000 € 2.016 €/m²,2 Zimmer,64 m²,Unknown,https://www.immowelt.de/expose/dc98b3f9-815e-4d04-b804-5c4dc5fd2e1f;5382
+Wambel Dorf, Dortmund (44143),699.000 € 2.496 €/m²,16 Zimmer,280 m²,1.223 m² Grundstück,https://www.immowelt.de/expose/7ae4f26e-2014-4811-8be5-6176c8a450e3;5382
+Wickeder Feld, Dortmund (44319),360.000 € 1.946 €/m²,185 m²,1.634 m² Grundstück,Unknown,https://www.immowelt.de/expose/ec064cd8-3424-4687-9778-5da4c3db1b10;5382
+Berghofen Dorf, Dortmund (44269),729.000 € 4.050 €/m²,5 Zimmer,180 m²,800 m² Grundstück,https://www.immowelt.de/expose/a79844ac-6a34-40c7-87d1-563f80ab7d37;5382
+Wickeder Feld, Dortmund (44319),360.000 € 1.946 €/m²,7 Zimmer,185 m²,1.634 m² Grundstück,https://www.immowelt.de/expose/62fdbe2b-3b84-446c-8541-ec64d70ba983;5382
+Höchsten, Dortmund (44267),425.000 € 3.602 €/m²,1 Zimmer,118 m²,686 m² Grundstück,https://www.immowelt.de/expose/76153979-3aa4-4527-a82b-18edb0c194e9;5382
+"Westfalendamm - Süd, Dortmund (44141),229.000 € 2.863 €/m²,3 Zimmer,""80,2 m²"",2. Geschoss,https://www.immowelt.de/expose/7bdc1124-ff7e-42a4-a620-0f27722df12b";5382
+Wickeder Feld, Dortmund (44319),360.000 € 1.946 €/m²,185 m²,Unknown,Unknown,https://www.immowelt.de/expose/ee97d198-c993-4100-979a-f20af54e98bb;5382
+Kirchhörde - West, Dortmund (44229),155.000 € 2.541 €/m²,2 Zimmer,61 m²,EG,https://www.immowelt.de/expose/b489bc32-83c4-4bae-add4-c39ef305d04c;5382
+"Benninghofer Str. 185, Loh, Dortmund (44267),1.099.000 € 2.689 €/m²,15 Zimmer,""408,7 m²"",""638,5 m² Grundstück"",https://www.immowelt.de/expose/00a2e8aa-3567-45f8-a443-2dbe12379006";5382
+Marten, Dortmund (44379),275.000 € 905 €/m²,10 Zimmer,304 m²,384 m² Grundstück,https://www.immowelt.de/expose/c505d44f-1558-48cd-ab64-cc355742d34a;5382
+Lücklemberg, Dortmund / Lücklemberg (44229),189.000 € 2.908 €/m²,2 Zimmer,65 m²,EG,https://www.immowelt.de/expose/90fd3a6a-6012-44c9-8b9a-f5abb886d647;5382
+"City - Ost, Dortmund (44135),6.350.000 € 1.509 €/m²,4.208 m²,""1.630,2 m² Grundstück"",Unknown,https://www.immowelt.de/expose/e9359454-d3f6-4067-bb7d-bd7bae4dfad8";5382
+Aplerbeck Bahnhof Süd, Dortmund (44287),240.000 € 3.000 €/m²,3 Zimmer,80 m²,frei ab 01.01.2025,https://www.immowelt.de/expose/15b8e413-e752-4b53-939d-9c6c0e74e46a;5382
+Hostedde, Dortmund Hostedde (44329),1.049.000 € 1.837 €/m²,19 Zimmer,571 m²,1.248 m² Grundstück,https://www.immowelt.de/expose/11749261-59bf-44e8-b17e-b94ddcc8f532;5382
+Mailoh, Dortmund (44369),485.000 € 1.540 €/m²,15 Zimmer,315 m²,1.011 m² Grundstück,https://www.immowelt.de/expose/df856127-72db-4655-af98-c247b2c4201e;5382
+Husen - Süd, Kamen (59174),265.000 € 2.409 €/m²,5 Zimmer,110 m²,369 m² Grundstück,https://www.immowelt.de/expose/72c0365b-0d1c-443e-8bd8-53e8d2415edd;5382
+"In der Kumke 13, Derne, Dortmund (44329),118.000 € 1.551 €/m²,""3,5 Zimmer"",""76,1 m²"",1. Geschoss,https://www.immowelt.de/expose/479264ec-1ea8-4718-b5ca-71242ceaaf7f";5382
+"In der Großen Heide 6, Obereving, Dortmund (44339),114.800 € 1.877 €/m²,""3,5 Zimmer"",""61,2 m²"",3. Geschoss,https://www.immowelt.de/expose/6df3f26f-6792-4cd8-8b23-8742870e01ae";5382
+Flughafen, Dortmund (44319),189.000 € 1.718 €/m²,6 Zimmer,110 m²,319 m² Grundstück,https://www.immowelt.de/expose/c833fb68-57e0-46eb-9124-e224c4bc6484;5382
+Hallerey, Dortmund (44149),350.000 € 3.500 €/m²,4 Zimmer,100 m²,305 m² Grundstück,https://www.immowelt.de/expose/34e2f266-efbd-4755-a8bc-c54200aab18b;5382
+"Bodelschwingh, Dortmund (44357),419.000 € 3.384 €/m²,5 Zimmer,""123,8 m²"",616 m² Grundstück,https://www.immowelt.de/expose/1793f5b1-ba45-4436-9247-d36e4e8c6c07";5382
+"MSA-Siedlung, Dortmund (44328),399.000 € 2.850 €/m²,6 Zimmer,""140,3 m²"",""450,3 m² Grundstück"",https://www.immowelt.de/expose/6d457a76-8429-4830-a2f0-8d3e1b58eaa8";5382
+Siedlung Rotkehlchenweg, Dortmund (44225),170.000 € 2.125 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/01bb1dda-c60f-4cbb-9051-f74521904e66;5382
+"Schüren-Alt, Dortmund (44269),369.000 € 4.241 €/m²,""3,5 Zimmer"",87 m²,2. Geschoss,https://www.immowelt.de/expose/0d97d1a1-f997-4aa4-8e61-576c0a82ef0e";5382
+"Klobesstraße 4, Holte - Kreta, Dortmund (44388),112.100 € 2.566 €/m²,2 Zimmer,""43,7 m²"",1. Geschoss,https://www.immowelt.de/expose/1d6c1736-67fa-4b8f-925e-3222b283f167";5382
+"Bövinghausen, Dortmund (44388),720.000 € 4.045 €/m²,""5,5 Zimmer"",178 m²,400 m² Grundstück,https://www.immowelt.de/expose/d964474a-b5f2-4c47-9e32-6eb70eb0d456";5382
+Berghofer Mark, Dortmund (44267),425.000 € 3.602 €/m²,118 m²,686 m² Grundstück,Unknown,https://www.immowelt.de/expose/331fcc6f-0c0a-4418-84c4-f4acdb09304f;5382
+"Eichlinghofen, Dortmund (44227),1.150.000 € 3.132 €/m²,10 Zimmer,""367,1 m²"",1.393 m² Grundstück,https://www.immowelt.de/expose/1a8f31fd-05df-4f2f-8bd5-a0791f1362d5";5382
+Eichlinghofen, Dortmund (44227),1.250.000 € 3.342 €/m²,11 Zimmer,374 m²,571 m² Grundstück,https://www.immowelt.de/expose/5357aa1b-316f-4958-abf6-c76f921461dd;5382
+"Gartenstadt - Süd, Dortmund / Gartenstadt (44141),479.000 € 5.118 €/m²,2 Zimmer,""93,6 m²"",2. Geschoss,https://www.immowelt.de/expose/fcb961bd-db8c-4a95-98f7-2d5d88ab2e7b";5382
+Brücherhof, Dortmund (44263),4.749.500 € 4.464 €/m²,1.064 m²,1.150 m² Grundstück,frei ab 01.01.2025,https://www.immowelt.de/expose/8f621982-a9c7-4ad3-b043-91478a5a3a90;5382
+"Holzen, Dortmund (44267),1.549.000 € 4.704 €/m²,6 Zimmer,""329,3 m²"",998 m² Grundstück,https://www.immowelt.de/expose/e89c20b4-9da0-4002-8ea4-1df41c7bfc7f";5382
+Aplerbecker Straße, Dortmund (44309),685.431 € 4.205 €/m²,4 Zimmer,163 m²,747 m² Grundstück,https://www.immowelt.de/expose/891c1bf2-a9a1-45a9-a7a4-e2b0395229d6;5382
+"Aplerbeck Bahnhof Süd, Dortmund (44287),1.150.000 € 3.333 €/m²,16 Zimmer,""345,3 m²"",""771,3 m² Grundstück"",https://www.immowelt.de/expose/3bbcf436-52bd-4a3e-8115-866880d8aa9c";5382
+Berghofer Mark, Dortmund (44267),425.000 € 3.602 €/m²,118 m²,Unknown,Unknown,https://www.immowelt.de/expose/bd88dc58-5ff2-46a7-910c-bebeb843c72a;5382
+"Derne, Dortmund (44329),299.000 € 2.153 €/m²,4 Zimmer,""138,9 m²"",250 m² Grundstück,https://www.immowelt.de/expose/1ffd1ff8-384a-4666-92bd-597b7298556a";5382
+Derne, Dortmund (44329),309.000 € 2.161 €/m²,4 Zimmer,143 m²,260 m² Grundstück,https://www.immowelt.de/expose/9b36008a-04bd-4c73-b283-e32dfd69c743;5382
+Nordmarkt - West, Dortmund (44147),79.000 € 1.463 €/m²,3 Zimmer,54 m²,1. Geschoss,https://www.immowelt.de/expose/0c0502e1-a154-4b44-89f5-45ee60e22aef;5382
+Goswinweg 8, Kolonie Holstein, Dortmund (44319),169.000 € 2.253 €/m²,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/cdecb0c3-fc11-4e17-88e2-882ffb60801a;5382
+Derne, Dortmund (44329),278.890 € 2.050 €/m²,5 Zimmer,136 m²,400 m² Grundstück,https://www.immowelt.de/expose/e1424558-3ed3-4d99-9ae2-cddda16eb071;5382
+Eichlinghofen, Dortmund (44227),495.000 € 2.313 €/m²,5 Zimmer,214 m²,Unknown,https://www.immowelt.de/expose/f8561d56-f3b0-4307-884f-0c7d3e6ff3c6;5382
+"Sölde - Süd, Dortmund (44289),319.000 € 3.054 €/m²,4 Zimmer,""104,5 m²"",320 m² Grundstück,https://www.immowelt.de/expose/62106cf9-a110-479f-aa21-7927c660b016";5382
+Hörde, Dortmund (44263),820.000 € 2.200 €/m²,372 m²,506 m² Grundstück,Unknown,https://www.immowelt.de/expose/3f1e87b8-262b-4ddc-bcc0-fc0e51f16fd2;5382
+Oestrich, Dortmund (44357),1.675.000 € 1.500 €/m²,1.116 m²,Unknown,Unknown,https://www.immowelt.de/expose/3ff9e27d-f86b-41fd-b394-2b40925b526c;5382
+Westfalendamm - Süd, Dortmund (44141),1.799.000 € 2.140 €/m²,801 m²,675 m² Grundstück,Unknown,https://www.immowelt.de/expose/2d78e4ba-0986-4710-9b3e-010d4cdb3885;5382
+"Kaiserbrunnen, Dortmund (44135),899.000 € 4.860 €/m²,4 Zimmer,""185,4 m²"",Unknown,https://www.immowelt.de/expose/808c5cb4-d0f1-4ea4-aaaa-5c1caed7838c";5382
+Husen - Süd, Dortmund (44319),290.000 € 3.053 €/m²,4 Zimmer,95 m²,394 m² Grundstück,https://www.immowelt.de/expose/42f7d542-5ce4-49ac-b304-4dc0f6978d09;5382
+"Brechten - Süd, Dortmund (44319),120.000 € 2.105 €/m²,""3,5 Zimmer"",57 m²,1. Geschoss,https://www.immowelt.de/expose/d2030b86-939b-4e09-adb7-6e06c4d39a54";5382
+Südwestfriedhof, Dortmund (44137),179.000 € 3.196 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/2dd414a2-5618-469e-bb80-5fe008b9812b;5382
+Wickede Dorf, Dortmund (44319),349.000 € 2.223 €/m²,5 Zimmer,157 m²,360 m² Grundstück,https://www.immowelt.de/expose/7ba256d6-257e-4943-8767-ac65adbae11c;5382
+Lanstrop-Alt, Dortmund (44329),195.000 € 2.241 €/m²,4 Zimmer,87 m²,309 m² Grundstück,https://www.immowelt.de/expose/6344baf7-c8fa-4d8a-83e9-2f0459553cfb;5382
+Gartenstadt - Süd, Dortmund (44141),889.000 € 3.865 €/m²,8 Zimmer,230 m²,1.039 m² Grundstück,https://www.immowelt.de/expose/f96b5362-7da8-4fa6-8036-7e4936353381;5382
+"Mengeder Heide, Dortmund (44359),289.000 € 3.184 €/m²,5 Zimmer,""90,8 m²"",1. Geschoss,https://www.immowelt.de/expose/e389b1ca-052a-47e5-910f-3f39a1b8153e";5382
+Rahm, Dortmund (44369),430.000 € 2.905 €/m²,5 Zimmer,148 m²,400 m² Grundstück,https://www.immowelt.de/expose/ec7ba937-d3bc-429d-b2d4-08b551608068;5382
+Sölderholz, Dortmund (44289),395.000 € 2.883 €/m²,4 Zimmer,137 m²,338 m² Grundstück,https://www.immowelt.de/expose/e59c6533-0aba-41fb-8d20-aecd3d2b7b4d;5382
+"Lanstrop-Alt, Dortmund (44329),420.000 € 2.819 €/m²,""5,5 Zimmer"",149 m²,503 m² Grundstück,https://www.immowelt.de/expose/f43aedc5-9cb3-4250-95c9-38f8635c2827";5382
+"Kolonie Neuasseln, Dortmund (44309),244.000 € 2.624 €/m²,""3,5 Zimmer"",93 m²,2. Geschoss,https://www.immowelt.de/expose/323aafd6-8fab-4cd7-b206-159012de5596";5382
+"Deipenbeck, Dortmund (44388),399.000 € 2.280 €/m²,""5,5 Zimmer"",""175,1 m²"",""356,1 m² Grundstück"",https://www.immowelt.de/expose/17a709a4-1d31-4782-9669-e8844aaed1b2";5382
+"Asselburg, Dortmund (44319),125.000 € 2.414 €/m²,2 Zimmer,""51,8 m²"",2. Geschoss,https://www.immowelt.de/expose/f13700b6-02dd-4526-8847-c61d07e6df1d";5382
+"Geranienstr. 18, Sölde - Nord, Dortmund (44289),99.000 € 2.200 €/m²,""2,5 Zimmer"",45 m²,EG,https://www.immowelt.de/expose/c35b3e3a-6e96-4855-9e20-1124f405dca7";5382
+Bittermark, Dortmund (44229),197.700 € 1.557 €/m²,4 Zimmer,127 m²,Unknown,https://www.immowelt.de/expose/fb135b05-48cc-4e7f-9970-a6c80c9e9cb0;5382
+Bittermark, Dortmund (44229),77.100 € 1.377 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/caf1360f-bed8-46e9-8c6b-09b03055c736;5382
+Bittermark, Dortmund (44229),71.000 € 1.340 €/m²,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/4ea724d1-95c1-4221-b5bf-7643593f1c66;5382
+Westfalenhütte, Dortmund (44145),407.000 € 1.153 €/m²,353 m²,187 m² Grundstück,Unknown,https://www.immowelt.de/expose/5630d313-2e87-4007-9e96-0ee368be0ef7;5382
+Dorstfeld, Dortmund (44149),250.000 € 1.852 €/m²,11 Zimmer,135 m²,761 m² Grundstück,https://www.immowelt.de/expose/9d903e97-0fac-4a94-9b65-b50ead029f17;5382
+"Diemelstraße 52, Aplerbecker Mark, Dortmund (44287),454.900 € 4.754 €/m²,3 Zimmer,""95,7 m²"",2. Geschoss,https://www.immowelt.de/expose/546c8390-31a1-4a44-becd-45bbad1f27ed";5382
+Berghofen Dorf, Dortmund (44269),460.000 € 1.825 €/m²,10 Zimmer,252 m²,306 m² Grundstück,https://www.immowelt.de/expose/c943a77e-c971-47cc-8c6c-817f75c4da4f;5382
+"Menglinghausen, Dortmund (44227),733.181 € 4.399 €/m²,4 Zimmer,""166,7 m²"",Unknown,https://www.immowelt.de/expose/34bade03-63b4-42d5-b078-d5332c60f413";5382
+Menglinghausen, Dortmund (44227),415.042 € 4.150 €/m²,3 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/c6d75a53-7746-4f10-8459-00333ca74784;5382
+"Menglinghausen, Dortmund (44227),413.423 € 4.150 €/m²,3 Zimmer,""99,6 m²"",Unknown,https://www.immowelt.de/expose/7b52d4a5-7d71-446c-982e-3950a76c6482";5382
+Menglinghausen, Dortmund (44227),365.117 € 4.399 €/m²,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/c4276cd4-291c-4912-9df3-637501a99677;5382
+"Menglinghausen, Dortmund (44227),368.064 € 4.399 €/m²,3 Zimmer,""83,7 m²"",Unknown,https://www.immowelt.de/expose/247dcc56-a6ec-41cb-8cb1-54c163904180";5382
+"Menglinghausen, Dortmund (44227),351.928 € 4.036 €/m²,3 Zimmer,""87,2 m²"",1. Geschoss,https://www.immowelt.de/expose/f5257215-9a1b-43ad-9676-4cc84b76cf17";5382
+"Menglinghausen, Dortmund (44227),420.561 € 4.152 €/m²,3 Zimmer,""101,3 m²"",2. Geschoss,https://www.immowelt.de/expose/27edf052-5583-4675-bd3b-60bc50e845a9";5382
+"Menglinghausen, Dortmund (44227),420.437 € 4.150 €/m²,3 Zimmer,""101,3 m²"",1. Geschoss,https://www.immowelt.de/expose/4167eb1d-40be-4345-b87a-11d16c2a6df4";5382
+"Menglinghausen, Dortmund (44227),420.769 € 4.150 €/m²,3 Zimmer,""101,4 m²"",Unknown,https://www.immowelt.de/expose/ccae2a42-8afd-4ead-9646-465916017712";5382
+"Menglinghausen, Dortmund (44227),416.328 € 4.152 €/m²,4 Zimmer,""100,3 m²"",1. Geschoss,https://www.immowelt.de/expose/64dce1b5-5289-446e-8ae0-ee542317f534";5382
+Menglinghausen, Dortmund (44227),414.876 € 4.150 €/m²,4 Zimmer,100 m²,2. Geschoss,https://www.immowelt.de/expose/de181ab9-242b-4ffa-9d6a-0208328e7633;5382
+"Menglinghausen, Dortmund (44227),373.431 € 4.399 €/m²,2 Zimmer,""84,9 m²"",Unknown,https://www.immowelt.de/expose/d1556e12-7395-4bb3-9f87-bd4eca19d25e";5382
+"Menglinghausen, Dortmund (44227),388.440 € 4.154 €/m²,3 Zimmer,""93,5 m²"",Unknown,https://www.immowelt.de/expose/3b3993d9-b066-43e3-b917-791bd70db5fa";5382
+"Menglinghausen, Dortmund (44227),420.686 € 4.187 €/m²,3 Zimmer,""100,5 m²"",1. Geschoss,https://www.immowelt.de/expose/710694d2-1298-47c6-a284-3bcd6596d0c4";5382
+"Menglinghausen, Dortmund (44227),420.354 € 4.150 €/m²,4 Zimmer,""101,3 m²"",1. Geschoss,https://www.immowelt.de/expose/a0547556-740f-47f5-9190-5513821c5b94";5382
+"Menglinghausen, Dortmund (44227),419.773 € 4.152 €/m²,3 Zimmer,""101,1 m²"",Unknown,https://www.immowelt.de/expose/97c9e7e4-8010-4515-ae35-ca7cd46a6566";5382
+City - Ost, Dortmund (44135),80.000 € 3.636 €/m²,1 Zimmer,22 m²,Unknown,https://www.immowelt.de/expose/8574ecc6-907c-4071-90fb-f9f74eed82fc;5382
+City - Ost, Dortmund / Innenstadt-Ost (44135),85.000 € 2.833 €/m²,1 Zimmer,30 m²,Unknown,https://www.immowelt.de/expose/b632ec3e-6a36-4d46-bf43-cb9318f5d4ed;5382
+Niedereving, Dortmund (44339),1.170.000 € 1.928 €/m²,607 m²,797 m² Grundstück,Unknown,https://www.immowelt.de/expose/37ba8474-3728-4a58-bb2c-45fb3f0848da;5382
+Hagener Straße 143, Renninghausen, Dortmund (44225),319.000 € 3.753 €/m²,4 Zimmer,85 m²,618 m² Grundstück,https://www.immowelt.de/expose/b7763abd-f3b8-4399-9c88-667f3af380c5;5382
+Siedlung Rotkehlchenweg, Dortmund (44225),170.000 € 2.125 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/a128fdf2-9e22-495d-bae2-18d9fdeb757a;5382
+Westfalenhütte, Dortmund (44145),407.000 € 1.153 €/m²,14 Zimmer,353 m²,187 m² Grundstück,https://www.immowelt.de/expose/8739bd91-ac93-45c3-9012-4e5c6865acd9;5382
+"City - Ost, Dortmund (44135),6.350.000 € 1.509 €/m²,4.208 m²,""1.630,2 m² Grundstück"",Unknown,https://www.immowelt.de/expose/46e0b378-6f17-435b-8911-4afb214a54e8";5382
+Holzen, Dortmund (44267),942.341 € 6.683 €/m²,4 Zimmer,141 m²,793 m² Grundstück,https://www.immowelt.de/expose/a2e4f200-095c-4ab5-9b84-440dc1a7aa59;5382
+"Hangeney, Dortmund (44379),426.879 € 3.580 €/m²,4 Zimmer,""119,2 m²"",600 m² Grundstück,https://www.immowelt.de/expose/a6249f72-a79e-48cc-864e-4c54d1af7308";5382
+Bövinghausen, Dortmund (44388),444.729 € 3.045 €/m²,4 Zimmer,146 m²,500 m² Grundstück,https://www.immowelt.de/expose/c1d27d28-393b-4834-ae43-9b888e3e9b94;5382
+"Bittermark, Dortmund (44229),516.239 € 3.085 €/m²,5 Zimmer,""167,3 m²"",420 m² Grundstück,https://www.immowelt.de/expose/c0b3d91c-2a5c-474e-9333-8d67a1dbf7cf";5382
+Kolonie Neuasseln, Dortmund (44309),718.442 € 4.251 €/m²,6 Zimmer,169 m²,777 m² Grundstück,https://www.immowelt.de/expose/bb7fdf34-d6d9-4f6a-8b6d-df401fd836ed;5382
+"Germania, Dortmund (44379),530.000 € 3.313 €/m²,5 Zimmer,""160,2 m²"",""180,2 m² Grundstück"",https://www.immowelt.de/expose/64b97b5e-74bb-40fa-bdf3-4b4b8ef8eec5";5382
+"Wambeler Heide 24, Alt-Scharnhorst, Dortmund (44328),339.000 € 1.477 €/m²,12 Zimmer,""229,5 m²"",401 m² Grundstück,https://www.immowelt.de/expose/d1dc03a6-834f-4b2d-a2c1-ed6f9dd99892";5382
+Universität, Dortmund (44227),345.000 € 3.450 €/m²,3 Zimmer,100 m²,2. Geschoss,https://www.immowelt.de/expose/e14361dd-3c39-4a09-a957-30bf82475e1d;5382
+Hallerey, Dortmund (44149),677.000 € 1.354 €/m²,18 Zimmer,500 m²,711 m² Grundstück,https://www.immowelt.de/expose/932559b7-5af4-4057-b802-652077b9d0f4;5382
+Lichtendorf, Dortmund (44289),449.900 € 3.599 €/m²,4 Zimmer,125 m²,731 m² Grundstück,https://www.immowelt.de/expose/ad587164-84f3-447a-8a51-8999b684f615;5382
+Lichtendorf, Dortmund (44289),379.900 € 3.303 €/m²,4 Zimmer,115 m²,560 m² Grundstück,https://www.immowelt.de/expose/dd3b889e-1005-441f-a42a-429a8bb247a7;5382
+Lichtendorf, Dortmund (44135),499.000 € 2.258 €/m²,8 Zimmer,221 m²,806 m² Grundstück,https://www.immowelt.de/expose/0568b747-c43d-4dd3-b4f7-52eaa98e8343;5382
+Märker Feld, Aplerbecker Mark, Dortmund (44287),995.000 € 4.877 €/m²,8 Zimmer,204 m²,1.300 m² Grundstück,https://www.immowelt.de/expose/5ab24631-e2e8-4fad-bd78-82dac0f79bc4;5382
+Hangeney, Dortmund (44379),511.896 € 4.095 €/m²,5 Zimmer,125 m²,700 m² Grundstück,https://www.immowelt.de/expose/46d049ed-e3a7-4f95-90c3-789c0c39ac8a;5382
+Hangeney, Dortmund (44379),548.063 € 4.060 €/m²,5 Zimmer,135 m²,750 m² Grundstück,https://www.immowelt.de/expose/fa4df202-8bdb-4cc0-9bba-adb18bf0b1cd;5382
+Hangeney, Dortmund (44379),539.267 € 3.995 €/m²,5 Zimmer,135 m²,7.500 m² Grundstück,https://www.immowelt.de/expose/5c16eef4-b602-43bd-8359-86a699c01324;5382
+Westerfilde, Dortmund (44357),489.000 € 1.254 €/m²,17 Zimmer,390 m²,888 m² Grundstück,https://www.immowelt.de/expose/50957d80-0645-4028-9cbf-111b1c268865;5382
+"Sölde - Nord, Dortmund (44289),280.000 € 3.206 €/m²,3 Zimmer,""87,4 m²"",Unknown,https://www.immowelt.de/expose/1a8bfc93-ba91-4f93-aa6d-6fca13575852";5382
+Bövinghausen, Dortmund (44388),990.000 € 3.257 €/m²,12 Zimmer,304 m²,1.660 m² Grundstück,https://www.immowelt.de/expose/d6c82f10-c981-4163-9799-bf32a664d5d8;5382
+"Diemelstraße 52, Aplerbecker Mark, Dortmund (44287),399.900 € 4.640 €/m²,""3,5 Zimmer"",""86,2 m²"",1. Geschoss,https://www.immowelt.de/expose/24d65268-6ac5-4847-a322-c4a8642392b9";5382
+Bittermark, Dortmund (44229),197.700 € 1.557 €/m²,4 Zimmer,127 m²,Unknown,https://www.immowelt.de/expose/67841b82-ac4b-4fe9-8dc9-3193ae3174f0;5382
+Bittermark, Dortmund (44299),71.000 € 1.340 €/m²,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/b7f9d66b-d711-45e6-8f1e-dadcc4394f30;5382
+Bittermark, Dortmund (44229),77.100 € 1.377 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/bb327de4-d4b6-4d9e-add6-2b5f6766bf74;5382
+Remberg, Dortmund (44263),74.000 € 1.276 €/m²,3 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/f46e1249-43dc-40eb-a700-95d92857225b;5382
+"Wickede Dorf, Dortmund (44319),285.000 € 2.921 €/m²,3 Zimmer,""97,6 m²"",Unknown,https://www.immowelt.de/expose/eebc4395-9ad5-44d9-8215-d27a6a99b4c7";5382
+"Westerfilde, Dortmund (44357),492.000 € 3.529 €/m²,4 Zimmer,""139,4 m²"",550 m² Grundstück,https://www.immowelt.de/expose/75ea9aa1-0af4-4183-94d4-5683e9eac31c";5382
+Schwerter Straße, Dortmund / Aplerbeck (44287),259.000 € 3.198 €/m²,3 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/fe6c9fb7-adaa-4430-9b95-492cabf05398;5382
+Oestrich, Dortmund - Oestrich (44357),726.000 € 4.079 €/m²,6 Zimmer,178 m²,365 m² Grundstück,https://www.immowelt.de/expose/4adfd02c-e3e4-40ba-af1c-fd5fb9489f8b;5382
+Bodelschwingh, Dortmund - Nette (44359),219.000 € 1.872 €/m²,5 Zimmer,117 m²,348 m² Grundstück,https://www.immowelt.de/expose/f588f917-daa1-43b8-9fbf-f68a064a6113;5382
+Ruhrallee - Ost, Dortmund (44139),239.000 € 2.812 €/m²,4 Zimmer,85 m²,1. Geschoss,https://www.immowelt.de/expose/060acbee-4e21-44f9-808d-656f207448be;5382
+Wilhelm-Dresing-Str. 18a, Lücklemberg, Dortmund (44229),329.000 € 3.920 €/m²,3 Zimmer,84 m²,1. Geschoss,https://www.immowelt.de/expose/31f41da0-fc72-469d-bfee-780086cb8751;5382
+"Dingweg 17, Westheck, Dortmund (44309),140.000 € 2.305 €/m²,""3,5 Zimmer"",""60,8 m²"",EG,https://www.immowelt.de/expose/11264f25-1b10-4a0c-aea6-1bf53b27d107";5382
+"Flughafen, Dortmund (44319),295.000 € 3.067 €/m²,4 Zimmer,""96,2 m²"",418 m² Grundstück,https://www.immowelt.de/expose/8b17f9c4-2aff-4b5e-adf9-0e51a8d50750";5382
+Wickede Dorf, Dortmund (44319),69.000 € 1.533 €/m²,2 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/073188f0-9752-4672-bec9-6a409a2312be;5382
+Hörde, Dortmund-Hörde (44263),998.000 € 1.623 €/m²,14 Zimmer,615 m²,280 m² Grundstück,https://www.immowelt.de/expose/9c55c0f0-2bc7-4097-bb43-b9fd158a77bb;5382
+Pirolweg 1, Westrich, Dortmund (44388),339.000 € 2.457 €/m²,8 Zimmer,138 m²,539 m² Grundstück,https://www.immowelt.de/expose/978fd81a-c31e-47b4-8acf-876001cbb47f;5382
+Dorstfeld, Dortmund (44149),526.000 € 2.768 €/m²,8 Zimmer,190 m²,508 m² Grundstück,https://www.immowelt.de/expose/e521de1a-886e-4b00-8cd0-e32daa9cbf4f;5382
+Brechten - Süd, Dortmund (44339),209.000 € 2.049 €/m²,5 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/16b9b485-f17c-4245-b97a-b6c206fd4a57;5382
+Brechten - Nord, Dortmund (44339),230.000 € 2.072 €/m²,6 Zimmer,111 m²,320 m² Grundstück,https://www.immowelt.de/expose/27979378-ebf1-4dee-809f-e5978f824b90;5382
+"Nordmarkt - West, Dortmund (44147),320.000 € 1.163 €/m²,10 Zimmer,""275,2 m²"",193 m² Grundstück,https://www.immowelt.de/expose/426956f1-34c9-48a4-a1b5-33d6d27615ee";5382
+"Löttringhausen - Süd, Dortmund (44229),280.000 € 3.025 €/m²,3 Zimmer,""92,6 m²"",frei ab 01.12.2024,https://www.immowelt.de/expose/36127d11-bcd6-4dd2-9e5e-fb333035febe";5382
+Dollersweg, Dortmund (44319),349.000 € 2.983 €/m²,4 Zimmer,117 m²,405 m² Grundstück,https://www.immowelt.de/expose/375d6ed7-51a1-4cd7-a7d9-e1f734295cb9;5382
+Oestrich, Dortmund (44357),500.000 € 1.420 €/m²,10 Zimmer,352 m²,610 m² Grundstück,https://www.immowelt.de/expose/068ff3fc-0d79-4c21-8cec-331199577714;5382
+"Holte - Kreta, Dortmund (44388),168.900 € 2.379 €/m²,""3,5 Zimmer"",71 m²,1. Geschoss,https://www.immowelt.de/expose/7da8a81e-aeb8-4cda-83ac-67ee1b6cb12c";5382
+Sölde - Nord, Dortmund (44289),665.000 € 2.277 €/m²,18 Zimmer,292 m²,990 m² Grundstück,https://www.immowelt.de/expose/b7095e7c-8d41-4041-89df-f088586d0a3c;5382
+"Lütgendortmund - Ost, Dortmund (44388),280.000 € 931 €/m²,12 Zimmer,""300,9 m²"",900 m² Grundstück,https://www.immowelt.de/expose/6f2a402b-2ecb-40ff-825f-0519615ef134";5382
+Kirchderne, Dortmund (44329),230.000 € 1.503 €/m²,153 m²,492 m² Grundstück,Unknown,https://www.immowelt.de/expose/e5256261-2efd-4ea2-ae66-f52807220652;5382
+Remberg, Dortmund (44263),74.000 € 1.298 €/m²,3 Zimmer,57 m²,Unknown,https://www.immowelt.de/expose/f87d1cc5-73ca-4509-a810-b762951067ba;5382
+Derne, Dortmund (44329),900.000 € 1.172 €/m²,28 Zimmer,768 m²,1.142 m² Grundstück,https://www.immowelt.de/expose/38010054-c95a-4907-9280-571ed08e2881;5382
+Westerfilde, Dortmund (44357),450.000 € 1.737 €/m²,259 m²,1.047 m² Grundstück,Unknown,https://www.immowelt.de/expose/ede4291e-fbd7-4d69-9437-b9c0cb68ab1d;5382
+"Bergmeisterstraße 15 b, Schüren-Neu, Dortmund (44269),178.300 € 2.867 €/m²,""2,5 Zimmer"",""62,2 m²"",EG,https://www.immowelt.de/expose/ed954337-be1a-4eb8-9e8d-3137c1ff0018";5382
+"Bergmeisterstraße 15 b, Schüren-Neu, Dortmund (44269),140.300 € 2.998 €/m²,1 Zimmer,""46,8 m²"",Unknown,https://www.immowelt.de/expose/34d4387f-8dd0-49f3-b0ef-7776df279528";5382
+"Bergmeisterstraße 15 a, Schüren-Neu, Dortmund (44269),179.300 € 2.883 €/m²,2 Zimmer,""62,2 m²"",EG,https://www.immowelt.de/expose/f0c246d8-a66f-4b8d-87a3-e8eb00595d88";5382
+"Bergmeisterstraße 15 a, Schüren-Neu, Dortmund (44269),279.600 € 2.847 €/m²,4 Zimmer,""98,2 m²"",EG,https://www.immowelt.de/expose/ea07353d-c37f-4c36-a440-8ae64b4098b0";5382
+"Bergmeisterstraße 15 a, Schüren-Neu, Dortmund (44269),132.000 € 2.851 €/m²,1 Zimmer,""46,3 m²"",Unknown,https://www.immowelt.de/expose/09d00501-c6af-4c3f-8005-495e8ba16c82";5382
+"Rahmer Straße 169, Wischlingen, Dortmund (44369),118.100 € 1.835 €/m²,3 Zimmer,""64,4 m²"",2. Geschoss,https://www.immowelt.de/expose/37cd62fd-b24e-4e93-a520-e3d6b69c5d10";5382
+"Rahmer Straße 165, Wischlingen, Dortmund (44369),118.100 € 1.835 €/m²,3 Zimmer,""64,4 m²"",2. Geschoss,https://www.immowelt.de/expose/30293e17-37a0-4266-b1ba-bd296e90993b";5382
+"Quakmannsweg 20, Bodelschwingh, Dortmund (44357),99.800 € 1.648 €/m²,""3,5 Zimmer"",""60,6 m²"",2. Geschoss,https://www.immowelt.de/expose/a669830d-6671-486f-aecf-34888bcfd401";5382
+Bredowstraße 22, Funkturmsiedlung, Dortmund (44309),113.000 € 1.882 €/m²,3 Zimmer,60 m²,2. Geschoss,https://www.immowelt.de/expose/3869e94d-ac98-4edf-8576-6e756fe06fac;5382
+"Dingweg 20, Westheck, Dortmund (44309),118.700 € 2.370 €/m²,2 Zimmer,""50,1 m²"",2. Geschoss,https://www.immowelt.de/expose/d2c01722-b77a-4d82-b6e2-d12ff13ed25a";5382
+"Brüchtenweg 8, Westheck, Dortmund (44309),99.000 € 1.939 €/m²,""2,5 Zimmer"",""51,1 m²"",2. Geschoss,https://www.immowelt.de/expose/dd0c0c91-c6d1-4481-93c5-302ed0c51f6e";5382
+"Unterer Sendweg 27, Westheck, Dortmund (44309),136.700 € 2.305 €/m²,""3,5 Zimmer"",""59,3 m²"",1. Geschoss,https://www.immowelt.de/expose/c4c5e1bf-298d-40b1-977c-04d1e09a1fa3";5382
+"Unterer Sendweg 21, Westheck, Dortmund (44309),110.200 € 2.304 €/m²,""2,5 Zimmer"",""47,8 m²"",1. Geschoss,https://www.immowelt.de/expose/43748de4-11c3-4db3-81b7-1c61351f7995";5382
+"Dingweg 13, Westheck, Dortmund (44309),140.000 € 2.305 €/m²,""3,5 Zimmer"",""60,8 m²"",1. Geschoss,https://www.immowelt.de/expose/c5db632e-7cce-46fb-b52a-aac9353e90a3";5382
+"Brüchtenweg 21, Westheck, Dortmund (44309),134.400 € 2.188 €/m²,""3,5 Zimmer"",""61,4 m²"",2. Geschoss,https://www.immowelt.de/expose/5eee7bc5-6f81-4b6a-b189-e42790a17b9a";5382
+"Brüchtenweg 15, Westheck, Dortmund (44309),110.900 € 1.805 €/m²,""3,5 Zimmer"",""61,4 m²"",EG,https://www.immowelt.de/expose/71456de5-4e3e-4d06-8f72-7a9a6652712b";5382
+"Brüchtenweg 15, Westheck, Dortmund (44309),134.400 € 2.188 €/m²,""3,5 Zimmer"",""61,4 m²"",EG,https://www.immowelt.de/expose/9e40581f-7982-4b95-9968-be31ec939a43";5382
+"Geismerg 12, Alt-Scharnhorst, Dortmund (44328),124.800 € 1.987 €/m²,""3,5 Zimmer"",""62,8 m²"",3. Geschoss,https://www.immowelt.de/expose/e7a740bd-b682-47b7-9285-714df4f412df";5382
+"Klobesstraße 8, Holte - Kreta, Dortmund (44388),90.500 € 2.072 €/m²,""2,5 Zimmer"",""43,7 m²"",1. Geschoss,https://www.immowelt.de/expose/c90335d4-fc61-44d7-b379-a2ca1b3f060e";5382
+"Klobesstraße 4, Holte - Kreta, Dortmund (44388),79.000 € 1.971 €/m²,2 Zimmer,""40,1 m²"",EG,https://www.immowelt.de/expose/dc77cd3e-3169-4d11-aea1-30bddbd4fc4a";5382
+"Kleiberweg 10, Berghofen Dorf, Dortmund (44269),139.600 € 1.818 €/m²,""3,5 Zimmer"",""76,8 m²"",3. Geschoss,https://www.immowelt.de/expose/455431cc-c454-4d25-af42-845c7e93140b";5382
+"Kleiberweg 10, Berghofen Dorf, Dortmund (44269),141.000 € 1.836 €/m²,""3,5 Zimmer"",""76,8 m²"",1. Geschoss,https://www.immowelt.de/expose/aa9ba071-0ff0-49da-902e-ded11c03c770";5382
+"Nette, Dortmund (44359),119.800 € 2.024 €/m²,3 Zimmer,""59,2 m²"",EG,https://www.immowelt.de/expose/1e537be4-a474-4746-8356-08b5895aef24";5382
+Hafen - Südost, Dortmund (44147),550.000 € 965 €/m²,16 Zimmer,570 m²,250 m² Grundstück,https://www.immowelt.de/expose/3417336c-50b4-4ada-bbce-67c33063d916;5382
+Syburg, Dortmund (44265),620.000 € 3.713 €/m²,6 Zimmer,167 m²,923 m² Grundstück,https://www.immowelt.de/expose/81b7d2f1-88ef-44ee-acb5-7e60246f7513;5382
+MSA-Siedlung, Dortmund (44329),149.000 € 1.987 €/m²,4 Zimmer,75 m²,419 m² Grundstück,https://www.immowelt.de/expose/6f5a7cc3-d095-4d4c-8a5d-9d91cd84f110;5382
+Bodelschwingh, Dortmund (44357),449.000 € 1.114 €/m²,15 Zimmer,403 m²,500 m² Grundstück,https://www.immowelt.de/expose/0ab7ae7f-b982-4b49-8f79-8d7eb45dad86;5382
+Bittermark, Dortmund (44299),71.000 € 1.340 €/m²,53 m²,Unknown,Unknown,https://www.immowelt.de/expose/f33bbae6-b092-4916-b710-951c8bd3f043;5382
+Bittermark, Dortmund (44229),77.100 € 1.377 €/m²,56 m²,Unknown,Unknown,https://www.immowelt.de/expose/c544a0b7-6f74-4652-ab80-836d00c51fef;5382
+Bittermark, Dortmund (44229),197.700 € 1.557 €/m²,127 m²,Unknown,Unknown,https://www.immowelt.de/expose/d31e4d3f-0b24-4109-b33e-e3da817b2b67;5382
+Bittermark, Dortmund (44299),71.000 € 1.340 €/m²,53 m²,Unknown,Unknown,https://www.immowelt.de/expose/d6ff8526-c730-4c7b-81b1-3bbc936dbccc;5382
+Bittermark, Dortmund (44229),77.100 € 1.377 €/m²,56 m²,Unknown,Unknown,https://www.immowelt.de/expose/60e39dac-f25b-456e-8116-b4c8b785903c;5382
+Bittermark, Dortmund (44229),197.700 € 1.557 €/m²,127 m²,Unknown,Unknown,https://www.immowelt.de/expose/388ada16-1754-4117-bca6-32a4c1f14c6c;5382
+Aplerbecker Straße, Dortmund (44287),315.000 € 3.182 €/m²,3 Zimmer,99 m²,1. Geschoss,https://www.immowelt.de/expose/4ec9df5a-c1f6-40ce-9dec-c695deaf47ee;5382
+Asseln Hellweg, Dortmund (44319),475.000 € 1.028 €/m²,15 Zimmer,462 m²,607 m² Grundstück,https://www.immowelt.de/expose/d032e8a1-43df-44af-a884-5294165547a7;5382
+Westerfilde, Dortmund (44357),298.000 € 2.328 €/m²,7 Zimmer,128 m²,384 m² Grundstück,https://www.immowelt.de/expose/6959c504-3ce4-48f2-a9c6-020383072500;5382
+Herscheid, Herscheid (58849),573.421 € 3.434 €/m²,5 Zimmer,167 m²,1.002 m² Grundstück,https://www.immowelt.de/expose/8152229c-14c8-4b01-b747-fbbde9ffbb2d;5382
+Holzen, Dortmund (44267),861.788 € 5.069 €/m²,6 Zimmer,170 m²,549 m² Grundstück,https://www.immowelt.de/expose/52629072-2317-4f3b-b6b2-596aada6b4d4;5382
+Hangeney, Dortmund (44379),532.390 € 4.259 €/m²,5 Zimmer,125 m²,700 m² Grundstück,https://www.immowelt.de/expose/3cc96d12-9a06-4fe0-83a4-859b69cae6d2;5382
+"Klobesstraße 14, Holte - Kreta, Dortmund (44388),88.000 € 1.906 €/m²,2 Zimmer,""46,2 m²"",1. Geschoss,https://www.immowelt.de/expose/bd6d4b53-bd1f-4e30-ac0a-6a48fbc2e60b";5382
+Lücklemberg, Dortmund (44229),650.000 € 4.305 €/m²,5 Zimmer,151 m²,194 m² Grundstück,https://www.immowelt.de/expose/5e2a24df-599e-478d-8d1a-e2df06ae22d7;5382
+Sölde - Nord, Dortmund (44289),239.000 € 2.134 €/m²,2 Zimmer,112 m²,Unknown,https://www.immowelt.de/expose/4c931290-c749-4b0f-a66c-8e8791c8b1c2;5382
+Kolonie Neuasseln, Dortmund (44309),603.572 € 4.538 €/m²,4 Zimmer,133 m²,760 m² Grundstück,https://www.immowelt.de/expose/997a8bd1-b83c-4bca-8df7-a98cc6f77890;5382
+Holzen, Dortmund (44267),1.298.846 € 6.494 €/m²,6 Zimmer,200 m²,598 m² Grundstück,https://www.immowelt.de/expose/b81fe3e2-57c8-4dff-ab75-9712415fad7b;5382
+Holzen, Dortmund (44267),1.528.522 € 7.109 €/m²,7 Zimmer,215 m²,606 m² Grundstück,https://www.immowelt.de/expose/855461aa-1cc1-4337-8a3c-07aa1612438c;5382
+Körne, Dortmund (44143),315.000 € 2.972 €/m²,5 Zimmer,106 m²,2. Geschoss,https://www.immowelt.de/expose/76e28c62-c25f-410e-b9ac-d5c6dd69c97d;5382
+Sölde - Nord, Dortmund (44289),289.000 € 2.752 €/m²,5 Zimmer,105 m²,300 m² Grundstück,https://www.immowelt.de/expose/a4a7e156-d1c6-4b5e-8707-8c2d5dc64980;5382
+Lücklemberg, Dortmund (44229),1.150.000 € 5.665 €/m²,5 Zimmer,203 m²,1.083 m² Grundstück,https://www.immowelt.de/expose/c74c0663-7692-4c8f-b057-928b60cb9094;5382
+"Lindenhorst, Dortmund (44339),367.000 € 3.884 €/m²,3 Zimmer,""94,5 m²"",1. Geschoss,https://www.immowelt.de/expose/0dc0f680-4fe2-4251-960a-305d89b30424";5382
+Lindenhorst, Dortmund (44339),454.500 € 3.885 €/m²,4 Zimmer,117 m²,1. Geschoss,https://www.immowelt.de/expose/5e81de64-104f-4092-a880-97fe9e4227ff;5382
+Lindenhorst, Dortmund (44339),454.500 € 3.885 €/m²,4 Zimmer,117 m²,Unknown,https://www.immowelt.de/expose/4dbb246b-4c1f-49f9-8ce0-e594c7be4eaa;5382
+"Lindenhorst, Dortmund (44339),367.000 € 3.884 €/m²,3 Zimmer,""94,5 m²"",Unknown,https://www.immowelt.de/expose/70b5fbdd-5a0e-499d-be2a-6ff5dc1f2b97";5382
+"Lindenhorst, Dortmund (44339),367.000 € 3.884 €/m²,3 Zimmer,""94,5 m²"",Unknown,https://www.immowelt.de/expose/d9c3ce6c-e72d-405f-9b19-38fdb20063a7";5382
+Lindenhorst, Dortmund (44339),588.000 € 4.083 €/m²,3 Zimmer,144 m²,Unknown,https://www.immowelt.de/expose/d9057f94-0ea0-45b3-a872-831fbd01a70b;5382
+Lindenhorst, Dortmund (44339),123.500 € 4.117 €/m²,1 Zimmer,30 m²,1. Geschoss,https://www.immowelt.de/expose/59fc9add-0ee6-4a44-a136-b208ebb92e8f;5382
+"Lindenhorst, Dortmund (44339),598.500 € 4.085 €/m²,4 Zimmer,""146,5 m²"",Unknown,https://www.immowelt.de/expose/1e5b1756-ad0f-4694-bc12-d7907d57d223";5382
+"Hangeney, Dortmund (44379),260.000 € 2.476 €/m²,""4,5 Zimmer"",105 m²,Unknown,https://www.immowelt.de/expose/53dd955d-da17-4ed6-bb23-bed0ba5761c6";5382
+"Westfalendamm - Süd, Dortmund (44141),165.000 € 2.200 €/m²,""2,5 Zimmer"",75 m²,2. Geschoss,https://www.immowelt.de/expose/5ac284a7-afdf-4667-8e76-976b59097033";5382
+Wickede Dorf, Dortmund (44319),305.000 € 2.148 €/m²,8 Zimmer,142 m²,758 m² Grundstück,https://www.immowelt.de/expose/8d0ac34b-e581-4cb8-938a-fd11ef2e258e;5382
+Aplerbecker Straße, Dortmund (44287),315.000 € 3.182 €/m²,3 Zimmer,99 m²,1. Geschoss,https://www.immowelt.de/expose/39dda598-cf2a-4f5c-9347-42d88d4df260;5382
+Dorstfeld, Dortmund - Dorstfeld (44149),449.000 € 4.490 €/m²,4 Zimmer,100 m²,520 m² Grundstück,https://www.immowelt.de/expose/73b07304-cc32-4009-ae06-095a9aa1cfe9;5382
+"Franz-Zimmer-Siedlung, Dortmund - Kirchderne (44329),428.000 € 3.239 €/m²,6 Zimmer,""132,1 m²"",222 m² Grundstück,https://www.immowelt.de/expose/0309ece5-a51b-4c3f-87ce-784ca26a0948";5382
+Wellinghofen, Dortmund (44265),495.000 € 3.018 €/m²,7 Zimmer,164 m²,674 m² Grundstück,https://www.immowelt.de/expose/c1fd9fa3-8bea-4cba-be0e-973a427b9fbf;5382
+Sölde - Nord, Dortmund (44289),665.000 € 2.277 €/m²,18 Zimmer,292 m²,990 m² Grundstück,https://www.immowelt.de/expose/0d749972-218c-433b-8123-aec7386b5a57;5382
+"Ruhrallee - Ost, Dortmund (44139),690.000 € 5.709 €/m²,3 Zimmer,""120,9 m²"",EG,https://www.immowelt.de/expose/febd81c8-4b2e-45e2-bfb7-67a826f948a9";5382
+"Wickede Dorf, Dortmund (44319),265.000 € 2.804 €/m²,""4,5 Zimmer"",""94,5 m²"",245 m² Grundstück,https://www.immowelt.de/expose/f97a4ea6-0488-494d-bd82-4731d9a58db6";5382
+Berghofen Dorf, Dortmund (44269),770.000 € 4.208 €/m²,5 Zimmer,183 m²,996 m² Grundstück,https://www.immowelt.de/expose/68045194-d15f-4c18-b9f2-8d5a8f78bcf1;5382
+"Schwerter Straße, Dortmund (44287),279.000 € 3.170 €/m²,""3,5 Zimmer"",88 m²,EG,https://www.immowelt.de/expose/ca526039-a3ce-423e-84d5-05cd5ed35f8b";5382
+"Dingweg 14, Westheck, Dortmund (44309),74.900 € 1.848 €/m²,""2,5 Zimmer"",""40,5 m²"",EG,https://www.immowelt.de/expose/f1e404fd-ac3d-4f8d-bc4d-9233f85bacee";5382
+Berghofen Dorf, Dortmund (44269),529.900 € 2.560 €/m²,6 Zimmer,207 m²,970 m² Grundstück,https://www.immowelt.de/expose/4470bddc-2374-4bf7-bf2e-2fd38115bcce;5382
+Niedereving, Dortmund (44339),89.000 € 1.589 €/m²,3 Zimmer,56 m²,3. Geschoss,https://www.immowelt.de/expose/7a0fbb5e-cf27-41fb-8655-5a4e45b34723;5382
+Aplerbecker Markt, Dortmund (44287),699.000 € 1.899 €/m²,368 m²,950 m² Grundstück,Unknown,https://www.immowelt.de/expose/1890a599-dfb7-44a0-9dc2-d89f2bcdb44d;5382
+"Wellinghofen, Dortmund (44265),684.375 € 3.650 €/m²,5 Zimmer,""187,5 m²"",Unknown,https://www.immowelt.de/expose/a667f57e-f57e-4abf-9ecb-8e0e02545142";5382
+"Preinstr. 35, Wellinghofen, Dortmund (44265),443.621 € 3.650 €/m²,4 Zimmer,""121,5 m²"",Unknown,https://www.immowelt.de/expose/ebf65716-0202-4997-943a-5beae5017c59";5382
+Phönix-West, Dortmund (44263),409.000 € 3.146 €/m²,4 Zimmer,130 m²,3. Geschoss,https://www.immowelt.de/expose/7bf2f2e1-19ed-42ba-bebd-21435927eac6;5382
+Westfalenhütte, Dortmund (44145),407.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/08eb379e-9585-491a-8401-58b2a0cc23ba;5382
+"Brüchtenweg 17, Westheck, Dortmund (44309),134.400 € 2.188 €/m²,""3,5 Zimmer"",""61,4 m²"",2. Geschoss,https://www.immowelt.de/expose/0e8c7db2-fedd-4868-8516-47f32098c774";5382
+Wickede Dorf, Dortmund (44319),305.000 € 2.148 €/m²,142 m²,Unknown,Unknown,https://www.immowelt.de/expose/944774ec-0daf-4a3d-934e-d7f130729707;5382
+Remberg, Dortmund (44263),669.000 € 5.146 €/m²,4 Zimmer,130 m²,1. Geschoss,https://www.immowelt.de/expose/89f3e397-8aa7-4c31-8fd4-3be2b0eb1930;5382
+Hangeney, Dortmund (44379),675.000 € 3.688 €/m²,9 Zimmer,183 m²,812 m² Grundstück,https://www.immowelt.de/expose/f8ca0835-f76c-4166-b452-ef6480324c9e;5382
+Lücklemberg, Dortmund (44229),620.000 € 4.218 €/m²,7 Zimmer,147 m²,976 m² Grundstück,https://www.immowelt.de/expose/576653b4-91f3-45ab-96d8-280c2c7c8126;5382
+Wickede Dorf, Dortmund (44319),305.000 € 2.148 €/m²,142 m²,758 m² Grundstück,Unknown,https://www.immowelt.de/expose/61afdb17-427e-4291-8bdf-062cb7bfcf16;5382
+Deipenbeck, Dortmund (44388),249.000 € 3.037 €/m²,3 Zimmer,82 m²,2. Geschoss,https://www.immowelt.de/expose/e63f3098-9b42-42bd-a255-e8c03851ec86;5382
+Kirchlinde-Alt, Dortmund (44379),320.000 € 2.038 €/m²,6 Zimmer,157 m²,253 m² Grundstück,https://www.immowelt.de/expose/05742be6-0e68-4e98-8638-da6b93ba2b38;5382
+"Deutsch-Luxemburger-Straße, Dortmund (44225),275.000 € 3.032 €/m²,3 Zimmer,""90,7 m²"",Unknown,https://www.immowelt.de/expose/eb47d9da-f8a6-4d7d-90b6-d915c31edaf6";5382
+"Klobesstraße 14, Holte - Kreta, Dortmund (44388),84.700 € 1.910 €/m²,""2,5 Zimmer"",""44,3 m²"",EG,https://www.immowelt.de/expose/ae9c2fe5-d6b6-4ec5-b961-329cd18cfb4d";5382
+"Klobesstraße 6, Holte - Kreta, Dortmund (44388),89.400 € 1.975 €/m²,2 Zimmer,""45,3 m²"",EG,https://www.immowelt.de/expose/a4e10199-1ba2-4f6e-b064-471d9d62bce3";5382
+Sölde - Nord, Dortmund (44289),800.000 € 2.462 €/m²,12 Zimmer,325 m²,350 m² Grundstück,https://www.immowelt.de/expose/c159e4c4-75ef-439f-9aa0-1b5afbce8780;5382
+Jonathanstraße 25, Mengede-Mitte, Dortmund (44359),579.900 € 4.461 €/m²,4 Zimmer,130 m²,3. Geschoss,https://www.immowelt.de/expose/851541a2-9312-4110-8668-8ef913ddfd6a;5382
+Jonathanstraße 25, Mengede-Mitte, Dortmund (44359),339.900 € 4.414 €/m²,3 Zimmer,77 m²,EG,https://www.immowelt.de/expose/4fdd21a2-c80b-4dc5-bf73-0020be7e3e39;5382
+Jonathanstraße 25, Mengede-Mitte, Dortmund (44359),239.900 € 4.362 €/m²,2 Zimmer,55 m²,EG,https://www.immowelt.de/expose/26c15d43-27e5-451e-b821-6c5ae3cfc5d6;5382
+Derne, Dortmund,Kirchderne (44329),460.000 € 4.107 €/m²,4 Zimmer,112 m²,210 m² Grundstück,https://www.immowelt.de/expose/22726d49-667c-4ee7-82dc-70c4b936d1db;5382
+Holzen, Dortmund (44267),791.432 € 4.471 €/m²,6 Zimmer,177 m²,561 m² Grundstück,https://www.immowelt.de/expose/7d652666-a4a1-484e-8330-0a860de125a3;5382
+"Klobesstraße 16, Holte - Kreta, Dortmund (44388),85.900 € 1.967 €/m²,""2,5 Zimmer"",""43,7 m²"",1. Geschoss,https://www.immowelt.de/expose/29bfeaec-ac49-41d3-b8c3-b1b7324a83ed";5382
+"Westerfilde, Dortmund / Westerfilde (44357),99.800 € 1.446 €/m²,""3,5 Zimmer"",69 m²,3. Geschoss,https://www.immowelt.de/expose/8066fe05-bc7d-495e-8477-56a1a85a8171";5382
+Aplerbecker Mark, Dortmund (44287),280.000 € 2.523 €/m²,4 Zimmer,111 m²,1. Geschoss,https://www.immowelt.de/expose/9c2034d8-ebc4-4d4a-9b87-db8c94a95121;5382
+Holzen, Dortmund (44267),455.000 € 2.126 €/m²,9 Zimmer,214 m²,807 m² Grundstück,https://www.immowelt.de/expose/7348443c-e18e-4883-9d24-511d855b6559;5382
+Lindenhorst, Dortmund (44339),259.000 € 2.106 €/m²,5 Zimmer,123 m²,385 m² Grundstück,https://www.immowelt.de/expose/1942019b-f9c0-4700-9e9f-f11844f5b6b7;5382
+"Groppenbruch, Dortmund (44359),429.000 € 3.424 €/m²,4 Zimmer,""125,3 m²"",287 m² Grundstück,https://www.immowelt.de/expose/a7e5bd22-65f5-4657-91c7-2679cb39d01a";5382
+"Wischlingen, Dortmund (44369),287.000 € 3.804 €/m²,2 Zimmer,""75,4 m²"",Unknown,https://www.immowelt.de/expose/625f154d-51b7-49bc-bed5-1ee4096bf4c6";5382
+Berghofen Dorf, Dortmund (44269),483.000 € 2.776 €/m²,174 m²,Unknown,Unknown,https://www.immowelt.de/expose/7b00a734-7b54-4587-ad7c-f320a62b1300;5382
+Nordmarkt - West, Dortmund (44145),1.250.000 € 1.214 €/m²,30 Zimmer,1.030 m²,265 m² Grundstück,https://www.immowelt.de/expose/f4ab3f6b-105f-4481-ab22-2870526efe3b;5382
+Westerfilde, Dortmund (44357),449.000 € 2.824 €/m²,8 Zimmer,159 m²,999 m² Grundstück,https://www.immowelt.de/expose/dcce5f94-156f-4640-b2dd-43a626af49be;5382
+"Nordmarkt - West, Dortmund (44147),859.000 € 1.805 €/m²,""22,5 Zimmer"",476 m²,304 m² Grundstück,https://www.immowelt.de/expose/991fe0e8-c6af-4707-a0b1-97ec720feed2";5382
+"Nordmarkt - West, Dortmund (44147),859.000 € 1.805 €/m²,""22,5 Zimmer"",476 m²,304 m² Grundstück,https://www.immowelt.de/expose/207e3635-5293-41ec-9de8-97142b50daff";5382
+Berghofen Dorf, Dortmund (44269),483.000 € 2.776 €/m²,174 m²,640 m² Grundstück,Unknown,https://www.immowelt.de/expose/715b361b-0b4e-4b0d-9276-92d6f42d469c;5382
+Hörde, Dortmund (44263),300.000 € 1.852 €/m²,8 Zimmer,162 m²,255 m² Grundstück,https://www.immowelt.de/expose/2439c4aa-393c-4abe-b18e-6d213a957a98;5382
+"Wellinghofen, Dortmund (44265),518.000 € 3.809 €/m²,""4,5 Zimmer"",136 m²,frei ab 01.02.2025,https://www.immowelt.de/expose/0e90c308-7e93-49a4-8705-d3011203ec4d";5382
+Berghofen Dorf, Dortmund (44269),483.000 € 2.776 €/m²,1 Zimmer,174 m²,640 m² Grundstück,https://www.immowelt.de/expose/6a8e1278-2ae8-499f-9284-4f83238a3359;5382
+Lücklemberg, Dortmund (44229),1.279.269 € 5.895 €/m²,4 Zimmer,217 m²,565 m² Grundstück,https://www.immowelt.de/expose/6e57ba3a-dc71-40db-9807-57be2fc12183;5382
+Lücklemberg, Dortmund (44229),1.213.619 € 5.752 €/m²,6 Zimmer,211 m²,565 m² Grundstück,https://www.immowelt.de/expose/b1ef8154-5b15-4c42-b316-e2a8648c4490;5382
+Lücklemberg, Dortmund (44229),1.319.669 € 6.167 €/m²,5 Zimmer,214 m²,565 m² Grundstück,https://www.immowelt.de/expose/fd23ef7d-b89b-44db-a488-0a741390744d;5382
+Brackel Hellweg, Dortmund (44309),350.000 € 1.944 €/m²,6 Zimmer,180 m²,625 m² Grundstück,https://www.immowelt.de/expose/12d5b1db-9e11-4c23-bb0e-a5f5fe90b7f2;5382
+Kolonie Neuasseln, Dortmund (44309),598.473 € 4.788 €/m²,4 Zimmer,125 m²,722 m² Grundstück,https://www.immowelt.de/expose/e66eb7cf-b6cb-43cd-96e6-a46f32738cd0;5382
+Syburg, Dortmund (44227),790.000 € 2.724 €/m²,8 Zimmer,290 m²,2.963 m² Grundstück,https://www.immowelt.de/expose/df32ceb4-8b28-4fe9-8950-a612832b59b7;5382
+Aplerbeck Bahnhof Süd, Dortmund (44287),327.000 € 3.114 €/m²,105 m²,207 m² Grundstück,Unknown,https://www.immowelt.de/expose/cd778d83-579a-4d8d-b821-4e06c7e33f8f;5382
+Kurl - Nord, Dortmund (44319),579.000 € 2.325 €/m²,7 Zimmer,249 m²,1.100 m² Grundstück,https://www.immowelt.de/expose/150939d8-9c10-4161-a7f2-491f10a4224a;5382
+Buchholz, Dortmund-Buchholz (44265),745.900 € 4.844 €/m²,4 Zimmer,154 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/cbb6241c-5e9b-4d71-a5b3-3ad0a33efdd1;5382
+Buchholz, Dortmund-Buchholz (44265),863.900 € 4.094 €/m²,5 Zimmer,211 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/c5952c1e-fd60-4ad8-85b8-db143a69b481;5382
+Buchholz, Dortmund-Buchholz (44265),749.900 € 4.658 €/m²,4 Zimmer,161 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/9fa373c8-6838-445c-ad5d-10489425019f;5382
+Buchholz, Dortmund-Buchholz (44265),1.408.900 € 5.945 €/m²,6 Zimmer,237 m²,1.997 m² Grundstück,https://www.immowelt.de/expose/8e78a735-dbc3-48e7-891d-3c6d12f30e86;5382
+Buchholz, Dortmund-Buchholz (44265),1.327.900 € 5.928 €/m²,5 Zimmer,224 m²,1.997 m² Grundstück,https://www.immowelt.de/expose/7f762961-e7df-484d-8b30-a4e1bc7f1be6;5382
+Buchholz, Dortmund-Buchholz (44265),1.377.900 € 5.534 €/m²,6 Zimmer,249 m²,1.997 m² Grundstück,https://www.immowelt.de/expose/8be70f79-6615-44fc-8240-4409749d15bd;5382
+Herscheid, Herscheid (58849),488.751 € 3.491 €/m²,4 Zimmer,140 m²,1.100 m² Grundstück,https://www.immowelt.de/expose/89bfaaeb-0027-4fc8-b2f7-21e3bb0bc6c9;5382
+Holzen, Dortmund (44267),789.532 € 4.874 €/m²,6 Zimmer,162 m²,561 m² Grundstück,https://www.immowelt.de/expose/edf8b575-2e3b-4561-ba2a-742c4cd59326;5382
+Holzen, Dortmund (44267),1.207.421 € 5.669 €/m²,8 Zimmer,213 m²,595 m² Grundstück,https://www.immowelt.de/expose/e252c431-b881-481e-9246-1545daa438ce;5382
+Kolonie Neuasseln, Dortmund (44309),713.739 € 4.223 €/m²,6 Zimmer,169 m²,738 m² Grundstück,https://www.immowelt.de/expose/ce07c462-e7ec-40b3-a91f-160c90905ccb;5382
+Kirchderne, Dortmund (44329),299.000 € 3.322 €/m²,4 Zimmer,90 m²,1.687 m² Grundstück,https://www.immowelt.de/expose/3cddf040-0a78-4524-b19d-ff4ed48a8a34;5382
+Sölderholz, Dortmund (44289),395.000 € 1.881 €/m²,7 Zimmer,210 m²,381 m² Grundstück,https://www.immowelt.de/expose/d8bd53bb-2b59-4714-a8bb-db1e9d4741c4;5382
+"Dollersweg, Dortmund (44319),395.000 € 3.251 €/m²,6 Zimmer,""121,5 m²"",1.251 m² Grundstück,https://www.immowelt.de/expose/d16a839b-7c32-4140-b3cd-bac51bc52e47";5382
+Oestrich, Dortmund (44357),185.000 € 1.360 €/m²,136 m²,Unknown,Unknown,https://www.immowelt.de/expose/9d81d831-77bb-4d06-9f7b-7804d0238937;5382
+Oestrich, Dortmund (44357),185.000 € 1.360 €/m²,5 Zimmer,136 m²,Unknown,https://www.immowelt.de/expose/f82b48fe-8468-4883-8311-f71f54a56d0d;5382
+Kaiserbrunnen, Dortmund (44135),695.000 € 3.475 €/m²,5 Zimmer,200 m²,246 m² Grundstück,https://www.immowelt.de/expose/c012d0ea-106e-4e06-be00-ffcd755dc9ab;5382
+Menglinghausen, Dortmund (44227),207.749 € 4.152 €/m²,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/6654ffc4-5634-4070-a1eb-901890c2952e;5382
+Oestrich, Dortmund (44357),185.000 € 1.360 €/m²,5 Zimmer,136 m²,Unknown,https://www.immowelt.de/expose/5e4db255-cc71-4f5c-8296-aba3672949ec;5382
+Lücklemberg, Dortmund (44229),695.000 € 4.633 €/m²,4 Zimmer,150 m²,420 m² Grundstück,https://www.immowelt.de/expose/1c12a6ea-520d-42e7-a1b7-46943625cf14;5382
+"Brüchtenweg 11, Westheck, Dortmund (44309),134.400 € 2.188 €/m²,""3,5 Zimmer"",""61,4 m²"",2. Geschoss,https://www.immowelt.de/expose/41305a90-2d33-4b48-b73a-cfeb34c67e9f";5382
+"Brüchtenweg 9, Westheck, Dortmund (44309),123.500 € 1.864 €/m²,""3,5 Zimmer"",""66,3 m²"",EG,https://www.immowelt.de/expose/d714adcc-43d8-4c85-91b5-c0077da1dc84";5382
+"Kirchhörde - Ost, Dortmund (44229),359.000 € 3.264 €/m²,""4,5 Zimmer"",110 m²,1. Geschoss,https://www.immowelt.de/expose/9b7c8661-f67f-4b02-8eca-6bbf00751995";5382
+"Bittermark, Dortmund (44229),415.000 € 4.029 €/m²,""3,5 Zimmer"",103 m²,256 m² Grundstück,https://www.immowelt.de/expose/931c5377-8207-4150-9e3b-779d7eb15086";5382
+Ruthstraße 6, Oespel, Dortmund / Oespel (44149),148.000 € 1.741 €/m²,3 Zimmer,85 m²,2. Geschoss,https://www.immowelt.de/expose/aa003b0f-f720-4c5f-b616-0ad71f888818;5382
+Lichtendorf, Dortmund (44289),389.900 € 3.390 €/m²,4 Zimmer,115 m²,296 m² Grundstück,https://www.immowelt.de/expose/01ffdf17-0582-4209-b8cf-c0a8bc594933;5382
+"Wichlinghofen, Dortmund (44265),198.000 € 2.447 €/m²,3 Zimmer,""80,9 m²"",2. Geschoss,https://www.immowelt.de/expose/a93ed11f-9ee7-462d-8890-19298e86f90b";5382
+"Renninghausen, Dortmund (44225),150.000 € 3.000 €/m²,""2,5 Zimmer"",50 m²,1. Geschoss,https://www.immowelt.de/expose/092fe6a3-c429-4f9d-ad7e-5fe4ae6a85df";5382
+Dollersweg, Dortmund - Wickede (44319),439.000 € 3.252 €/m²,6 Zimmer,135 m²,733 m² Grundstück,https://www.immowelt.de/expose/e67eabc0-f5cd-4d63-a755-e16fde1a2318;5382
+Oestrich, Dortmund (44357),450.000 € 1.411 €/m²,12 Zimmer,319 m²,612 m² Grundstück,https://www.immowelt.de/expose/98b68aaa-78ec-4a88-b7e1-879fb129ef25;5382
+Funkenburg, Dortmund (44143),139.000 € 2.896 €/m²,2 Zimmer,48 m²,Unknown,https://www.immowelt.de/expose/596276a3-af4e-4b43-ae4a-785bddc0f852;5382
+"Syburg, Dortmund (44265),499.000 € 2.201 €/m²,7 Zimmer,""226,7 m²"",8.103 m² Grundstück,https://www.immowelt.de/expose/b2a47262-47b3-49bd-9b5f-a017073350a5";5382
+Deutsch-Luxemburger-Straße, Dortmund (44225),750.000 € 3.125 €/m²,5 Zimmer,240 m²,441 m² Grundstück,https://www.immowelt.de/expose/514584ca-5633-4d99-8195-ce2390f71d66;5382
+"Altenderne, Dortmund (44329),270.000 € 2.372 €/m²,""6,5 Zimmer"",""113,8 m²"",738 m² Grundstück,https://www.immowelt.de/expose/ed39aa48-64e2-4752-b9b3-105f95142a15";5382
+"Bittermark, Dortmund (44229),480.999 € 4.040 €/m²,4 Zimmer,""119,1 m²"",420 m² Grundstück,https://www.immowelt.de/expose/85f153a1-376c-4441-9fce-a7e8bc4163f7";5382
+"Bövinghausen, Dortmund (44388),393.999 € 3.309 €/m²,4 Zimmer,""119,1 m²"",500 m² Grundstück,https://www.immowelt.de/expose/41f7d17f-687f-455d-9e09-c20f441961cf";5382
+"Eichlinghofen, Dortmund (44227),552.999 € 3.189 €/m²,4 Zimmer,""173,4 m²"",630 m² Grundstück,https://www.immowelt.de/expose/54aef8b6-c60b-4030-8619-ab69d6338e5e";5382
+"Hangeney, Dortmund (44379),444.999 € 2.566 €/m²,4 Zimmer,""173,4 m²"",600 m² Grundstück,https://www.immowelt.de/expose/5950487a-655d-43d1-ab41-1f966efca17b";5382
+Nordmarkt - Südost, Dortmund (44145),358.000 € 1.166 €/m²,15 Zimmer,307 m²,185 m² Grundstück,https://www.immowelt.de/expose/41bc6aa3-9b42-40b6-8baa-4775f78c4b50;5382
+Brackel Hellweg, Dortmund (44309),419.000 € 3.198 €/m²,6 Zimmer,131 m²,893 m² Grundstück,https://www.immowelt.de/expose/7896c202-aadc-4ba5-85a0-fd732bfd57e8;5382
+"Oberdorstfeld, Dortmund (44149),322.000 € 4.396 €/m²,""2,5 Zimmer"",""73,3 m²"",Unknown,https://www.immowelt.de/expose/d6c60de4-6760-4e1d-9507-9fbdde84d847";5382
+Lütgendortmund - West, Dortmund (44388),220.000 € 2.038 €/m²,4 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/c8d39083-81a6-4e8b-8bb5-ea8bae78ae85;5382
+"Niedereving, Dortmund (44339),360.000 € 2.756 €/m²,6 Zimmer,""130,6 m²"",290 m² Grundstück,https://www.immowelt.de/expose/3ea03344-f338-408f-a1cb-ac81edd30063";5382
+Höchsten, Dortmund (44267),Preis auf Anfrage,6 Zimmer,139 m²,707 m² Grundstück,https://www.immowelt.de/expose/5458d7f1-ca8a-4af3-ae5f-c1b483719f12;5382
+Kirchderne, Dortmund (44329),1.200.000 € 1.908 €/m²,29 Zimmer,629 m²,1.857 m² Grundstück,https://www.immowelt.de/expose/1402dc19-0b79-48dc-b092-c13e1d6a4b89;5382
+Nordmarkt - Südost, Dortmund (44145),1.799.999 € 2.707 €/m²,23 Zimmer,665 m²,280 m² Grundstück,https://www.immowelt.de/expose/15ceab4b-eb7e-4afc-a6e8-4fbd4a5189d9;5382
+Nordmarkt - Süd, Dortmund (44227),199.000 € 2.073 €/m²,5 Zimmer,96 m²,1. Geschoss,https://www.immowelt.de/expose/d39d6a7f-1eb1-4295-b2bd-c125ace4d248;5382
+Schanze, Dortmund (44227),287.000 € 2.814 €/m²,2 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/61648bee-90af-4612-a99c-00e6c5c3d360;5382
+"In der Heide 32, Holzen, Dortmund (44267),585.000 € 3.545 €/m²,""4,5 Zimmer"",165 m²,500 m² Grundstück,https://www.immowelt.de/expose/903db90c-10b0-4e33-a687-401eeab1c44a";5382
+Wittbräucker Str. 273, Berghofen Dorf, Dortmund (44269),299.000 € 901 €/m²,16 Zimmer,332 m²,1.360 m² Grundstück,https://www.immowelt.de/expose/95555a8d-956e-41ea-8b17-5b59a17b8b3d;5382
+Breierspfad, Dortmund (44143),355.000 € 3.901 €/m²,3 Zimmer,91 m²,395 m² Grundstück,https://www.immowelt.de/expose/d8d50e8f-99ca-4cd3-a33c-0d5d46b3d41f;5382
+Lücklemberg, Dortmund (44229),198.000 € 2.640 €/m²,3 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/74c14705-d766-46b1-bb9a-d29e566b54a0;5382
+Jonathanstraße 25, Mengede-Mitte, Dortmund (44359),Preis auf Anfrage,3 Zimmer,70 m²,frei ab sofort,https://www.immowelt.de/expose/4d9cd919-a49d-447c-a2d4-d9ead3d6afba;5382
+Aplerbecker Mark, Dortmund (44287),775.000 € 3.673 €/m²,5 Zimmer,211 m²,417 m² Grundstück,https://www.immowelt.de/expose/e734347d-7796-4b88-85ca-bc6e7ae72c49;5382
+Holzen, Dortmund (44267),931.000 € 4.232 €/m²,6 Zimmer,220 m²,Unknown,https://www.immowelt.de/expose/75fc1eee-09a2-48e8-8675-ca36e3528dd1;5382
+Loh, Dortmund (44267),499.950 € 3.401 €/m²,7 Zimmer,147 m²,356 m² Grundstück,https://www.immowelt.de/expose/e3992acf-c68d-4e78-b192-ebc244e22aff;5382
+"Rahmer Straße 166, Wischlingen, Dortmund (44369),136.300 € 2.001 €/m²,3 Zimmer,""68,1 m²"",2. Geschoss,https://www.immowelt.de/expose/aaa4a04a-ae99-40d1-b1b2-5298d0b4ed2a";5382
+Bittermark, Dortmund (44229),599.000 € 2.349 €/m²,10 Zimmer,255 m²,1.323 m² Grundstück,https://www.immowelt.de/expose/06783a25-aa6c-409b-9c15-aece16ecaa89;5382
+Niedereving, Eving (44339),1.100.000 € 4.280 €/m²,8 Zimmer,257 m²,3.000 m² Grundstück,https://www.immowelt.de/expose/718f81af-2afc-4995-96cb-e34dc9322519;5382
+Benninghofen, Dortmund (44269),502.000 € 2.136 €/m²,8 Zimmer,235 m²,800 m² Grundstück,https://www.immowelt.de/expose/98abcb1e-9401-41b2-98b5-fae580a5a724;5382
+Lücklemberg, Dortmund (44229),448.000 € 4.187 €/m²,3 Zimmer,107 m²,Unknown,https://www.immowelt.de/expose/1f3a84bd-32a5-4a1e-9fdb-957be51c2bb1;5382
+Hörde, Dortmund (44263),494.250 € 4.413 €/m²,4 Zimmer,112 m²,410 m² Grundstück,https://www.immowelt.de/expose/8f886cc1-45c9-44c9-af41-848714857e5b;5382
+Hörde, Dortmund (44263),529.313 € 3.921 €/m²,5 Zimmer,135 m²,450 m² Grundstück,https://www.immowelt.de/expose/2c673050-7a62-4b53-bdf6-2a140857c466;5382
+Mailoh, Dortmund-Huckarde (44369),515.000 € 3.815 €/m²,5 Zimmer,135 m²,610 m² Grundstück,https://www.immowelt.de/expose/a1cc030a-0af1-4774-8c75-16f174fe61f4;5382
+"Unterer Sendweg 15, Westheck, Dortmund (44309),112.900 € 2.479 €/m²,2 Zimmer,""45,5 m²"",Unknown,https://www.immowelt.de/expose/056e14ce-a0a1-4c0e-9bdf-f79eeacb9013";5382
+"Unterer Sendweg 13, Westheck, Dortmund (44309),110.000 € 2.415 €/m²,3 Zimmer,""45,5 m²"",3. Geschoss,https://www.immowelt.de/expose/21b4bb21-cc50-4360-b05c-27e8a63423ec";5382
+"Wischlingen, Dortmund (44369),287.000 € 3.804 €/m²,2 Zimmer,""75,4 m²"",Unknown,https://www.immowelt.de/expose/074ccd9b-86de-4c0e-8360-f976b1427392";5382
+"Wischlingen, Dortmund (44369),188.000 € 3.811 €/m²,2 Zimmer,""49,3 m²"",Unknown,https://www.immowelt.de/expose/970d37f2-ec7b-417d-9e46-5d8c8d61c38a";5382
+"Wischlingen, Dortmund (44369),188.000 € 3.811 €/m²,2 Zimmer,""49,3 m²"",Unknown,https://www.immowelt.de/expose/5915ea32-bd70-47e4-ab21-9b05e571a6f2";5382
+"Wischlingen, Dortmund (44369),323.000 € 3.817 €/m²,3 Zimmer,""84,6 m²"",Unknown,https://www.immowelt.de/expose/6d38d5e5-8923-4103-ac67-944ba6e4fbb6";5382
+"Wischlingen, Dortmund (44369),190.000 € 3.822 €/m²,2 Zimmer,""49,7 m²"",Unknown,https://www.immowelt.de/expose/7b792da9-53e7-4ade-bc94-22e5b3311c7d";5382
+"Wischlingen, Dortmund (44369),190.000 € 3.822 €/m²,2 Zimmer,""49,7 m²"",Unknown,https://www.immowelt.de/expose/db7de78a-685c-4cc8-a39e-646dec59dbaf";5382
+Wischlingen, Dortmund (44369),380.000 € 3.800 €/m²,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/eefda61e-dc8b-4cab-9847-50c8b2c090b3;5382
+Höchsten, Dortmund - (44267),485.000 € 2.580 €/m²,5 Zimmer,188 m²,323 m² Grundstück,https://www.immowelt.de/expose/483310ac-84fa-43e0-9a41-9d7767d92e6a;5382
+Nette, Dortmund (44359),159.000 € 2.650 €/m²,3 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/6b8f0335-8ccf-4b74-ab22-c405ebae511c;5382
+Nette, Dortmund (44359),109.000 € 1.817 €/m²,3 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/c005d725-01b9-494f-9f2b-786f58b45970;5382
+"Aplerbecker Straße, Dortmund (44287),450.000 € 4.075 €/m²,""3,5 Zimmer"",""110,4 m²"",1.143 m² Grundstück,https://www.immowelt.de/expose/19fc5ee7-03b0-491f-9be1-a1e24b0ea1f7";5382
+Sölderholz, Dortmund (44289),498.000 € 3.388 €/m²,5 Zimmer,147 m²,520 m² Grundstück,https://www.immowelt.de/expose/b854ce76-ead7-4b5f-bb78-ddbc606497ac;5382
+Sölderholz, Dortmund (44289),245.000 € 2.426 €/m²,3 Zimmer,101 m²,2. Geschoss,https://www.immowelt.de/expose/773e220a-d583-4e04-a6dd-daa9dbb5eaaf;5382
+Lücklemberg, Dortmund (44229),998.000 € 2.719 €/m²,11 Zimmer,367 m²,829 m² Grundstück,https://www.immowelt.de/expose/25bcbafa-489a-4165-a38f-adf8682782ad;5382
+Lücklemberg, Dortmund (44229),300.000 € 2.727 €/m²,3 Zimmer,110 m²,Unknown,https://www.immowelt.de/expose/b0726318-b413-4b2e-a337-f40d3e4ad9da;5382
+Aplerbecker Mark, Dortmund (44265),259.000 € 3.985 €/m²,2 Zimmer,65 m²,2. Geschoss,https://www.immowelt.de/expose/23cf9939-406a-4706-b79c-a4e588897fb9;5382
+"Kolonie Neuasseln, Dortmund (44309),244.000 € 2.624 €/m²,""3,5 Zimmer"",93 m²,2. Geschoss,https://www.immowelt.de/expose/06f8a357-30e0-4d76-ac0e-bf3528bbe94f";5382
+Kley, Dortmund (44149),184.900 € 2.802 €/m²,3 Zimmer,66 m²,1. Geschoss,https://www.immowelt.de/expose/35a722bf-29ad-4eab-ac08-def8f8770f93;5382
+Remberg, Dortmund (44141),798.000 € 3.712 €/m²,6 Zimmer,215 m²,370 m² Grundstück,https://www.immowelt.de/expose/f354094c-2494-40ec-a02b-895bfe629780;5382
+Gartenstadt - Nord, Dortmund (44141),795.000 € 4.321 €/m²,2 Zimmer,184 m²,795 m² Grundstück,https://www.immowelt.de/expose/96594b8f-9dbe-4161-b66f-86480a4bdb58;5382
+Marten, Dortmund (44379),729.000 € 1.918 €/m²,14 Zimmer,380 m²,1.600 m² Grundstück,https://www.immowelt.de/expose/380cf91f-180f-40d5-8881-6e9a8739bba3;5382
+"Oberdorstfeld, Dortmund (44149),235.000 € 3.176 €/m²,""3,5 Zimmer"",74 m²,361 m² Grundstück,https://www.immowelt.de/expose/a27fddc4-1654-4a3a-bc92-2c86a3635ddb";5382
+Oestrich, Dortmund (44357),549.000 € 2.018 €/m²,13 Zimmer,272 m²,746 m² Grundstück,https://www.immowelt.de/expose/bf69532f-87eb-45aa-8d29-ac41605dc6a0;5382
+"Husen - Süd, Dortmund (44319),179.000 € 1.912 €/m²,""5,5 Zimmer"",""93,6 m²"",287 m² Grundstück,https://www.immowelt.de/expose/cf927cfb-4510-4a78-8106-e4632cd43535";5382
+Ruhrallee - West, Dortmund (44139),1.149.000 € 6.566 €/m²,7 Zimmer,175 m²,486 m² Grundstück,https://www.immowelt.de/expose/d5a36b0c-3153-4ba6-a9ac-3e5e0bde22fc;5382
+Kurl - Süd, Dortmund (44319),398.500 € 2.787 €/m²,6 Zimmer,143 m²,267 m² Grundstück,https://www.immowelt.de/expose/0bca6d27-fe4c-4524-952e-ed56b2dacc4b;5382
+"Dingweg 7, Westheck, Dortmund (44309),120.400 € 2.012 €/m²,3 Zimmer,""59,8 m²"",EG,https://www.immowelt.de/expose/333b7806-2946-4b05-8f37-7915b446b595";5382
+"Schulstr. 31-33, Lichtendorf, Dortmund (44289),318.390 € 4.790 €/m²,2 Zimmer,""66,5 m²"",EG,https://www.immowelt.de/expose/f7596e89-80d9-4d4d-b4e4-a25a21040c18";5382
+"Schulstr. 31-33, Lichtendorf, Dortmund (44289),324.895 € 4.990 €/m²,2 Zimmer,""65,1 m²"",1. Geschoss,https://www.immowelt.de/expose/d1ae297c-ff06-4d76-84e6-e12ae1d1b849";5382
+"Schulstr. 31-33, Lichtendorf, Dortmund (44289),891.275 € 5.190 €/m²,""3,5 Zimmer"",""171,7 m²"",2. Geschoss,https://www.immowelt.de/expose/c0d2adbc-113b-4555-a4b7-3438711e8bf8";5382
+"Apolloweg 102, Ostkirchstraße, Dortmund (44269),379.500 € 4.154 €/m²,3 Zimmer,""91,4 m²"",EG,https://www.immowelt.de/expose/b5c050a7-c07e-4617-950a-12e66c5d9792";5382
+Siedlung Rotkehlchenweg, Dortmund (44225),179.000 € 2.325 €/m²,3 Zimmer,77 m²,4. Geschoss,https://www.immowelt.de/expose/f5957c0e-ab7c-4e2e-bacf-d457770199b8;5382
+Bittermark, Dortmund (44229),530.000 € 4.077 €/m²,5 Zimmer,130 m²,1.012 m² Grundstück,https://www.immowelt.de/expose/082a4e1e-fb3f-4f62-b822-e92a14dc1e84;5382
+"Klobesstraße 14, Holte - Kreta, Dortmund (44388),86.400 € 1.909 €/m²,""2,5 Zimmer"",""45,3 m²"",EG,https://www.immowelt.de/expose/5b13bc42-984d-4d6a-903b-6fcc7502ccf4";5382
+Aplerbecker Mark, Dortmund (44287),389.000 € 2.992 €/m²,6 Zimmer,130 m²,527 m² Grundstück,https://www.immowelt.de/expose/57a4a0da-051a-44f9-9b8b-769c9127c9ed;5382
+"Gartenstadt - Süd, Dortmund (44141),1.350.000 € 4.426 €/m²,""8,5 Zimmer"",305 m²,769 m² Grundstück,https://www.immowelt.de/expose/e035774e-6168-4b79-941c-5cd53f2a9ffe";5382
+Holzen, Dortmund (44267),598.000 € 3.036 €/m²,6 Zimmer,197 m²,619 m² Grundstück,https://www.immowelt.de/expose/008e82df-b4b2-410a-ae34-ba12693967e0;5382
+Aplerbecker Mark, Dortmund (44287),199.500 € 1.995 €/m²,3 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/40b89803-fa95-459d-bca8-3ab9840f4436;5382
+MSA-Siedlung, Dortmund (44328),379.000 € 3.644 €/m²,4 Zimmer,104 m²,506 m² Grundstück,https://www.immowelt.de/expose/ce022529-774b-4dfd-b2ef-ac02e0a5434a;5382
+Kirchderne, Dortmund-Derne (44329),150.000 € 1.875 €/m²,4 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/602b5c3a-4044-4991-bbcb-86a47ac1b273;5382
+"Alt-Scharnhorst, Scharnhorst (44328),311.000 € 2.187 €/m²,4 Zimmer,""142,2 m²"",300 m² Grundstück,https://www.immowelt.de/expose/f0f5ec54-4fc6-4e28-8a47-225f85ac518f";5382
+Kurl - Süd, Dortmund (44319),310.000 € 3.196 €/m²,4 Zimmer,97 m²,451 m² Grundstück,https://www.immowelt.de/expose/53e32cde-b193-4ede-9d26-fd571cfb488b;5382
+Körne, Dortmund (44141),355.000 € 2.261 €/m²,5 Zimmer,157 m²,Unknown,https://www.immowelt.de/expose/8afbed8a-a17a-4848-8d6f-6a2ecdc3acb8;5382
+Mengede-Mitte, Dortmund (44359),547.000 € 3.825 €/m²,4 Zimmer,143 m²,237 m² Grundstück,https://www.immowelt.de/expose/0bc49174-fb1b-4168-95af-75394bb2e178;5382
+Westheck, Dortmund (44309),479.000 € 3.051 €/m²,6 Zimmer,157 m²,1.028 m² Grundstück,https://www.immowelt.de/expose/b9ecf158-9623-4cab-9f0c-088d4d3529a9;5382
+"Aplerbeck Bahnhof Süd, Dortmund (44287),360.000 € 3.600 €/m²,""2,5 Zimmer"",100 m²,156 m² Grundstück,https://www.immowelt.de/expose/15d485b5-874d-48b0-8f21-d4f1df8aa93b";5382
+"Hangeney, Dortmund (44379),125.000 € 1.894 €/m²,""2,5 Zimmer"",66 m²,Unknown,https://www.immowelt.de/expose/73229708-d279-4356-9807-25567bd7ca62";5382
+Phönix-West, Dortmund (44263),790.000 € 3.038 €/m²,14 Zimmer,260 m²,649 m² Grundstück,https://www.immowelt.de/expose/a1ff2386-b02c-4001-872a-35e86fd99945;5382
+Lanstrop-Neu, Dortmund (44329),349.000 € 2.102 €/m²,6 Zimmer,166 m²,1.547 m² Grundstück,https://www.immowelt.de/expose/4f52bfb1-b656-412a-aa06-05d244243e4a;5382
+Asselburg, Dortmund (44319),310.000 € 2.981 €/m²,5 Zimmer,104 m²,539 m² Grundstück,https://www.immowelt.de/expose/c72a681e-0e2f-4729-aa2f-6d7cf22531f4;5382
+Holzen, Dortmund (44267),850.000 € 4.229 €/m²,5 Zimmer,201 m²,4.002 m² Grundstück,https://www.immowelt.de/expose/aa5a9900-c642-4ff9-87bc-b4197d8e8668;5382
+"Kolonie Neuasseln, Dortmund (44309),174.000 € 2.000 €/m²,""3,5 Zimmer"",87 m²,frei ab sofort,https://www.immowelt.de/expose/de1cd1b2-f784-4032-8583-23b9fe30f464";5382
+Oberdorstfeld, Dortmund - Dorstfeld (44149),2.200.000 € 3.774 €/m²,16 Zimmer,583 m²,2.900 m² Grundstück,https://www.immowelt.de/expose/b272a3d3-9178-48da-9627-817f77e6474f;5382
+"Remberg, Dortmund (44141),620.000 € 4.362 €/m²,5 Zimmer,""142,1 m²"",""369,5 m² Grundstück"",https://www.immowelt.de/expose/a609bae3-bffa-450b-b22b-f8475794769e";5382
+Lücklemberg, Dortmund (44229),199.000 € 2.427 €/m²,3 Zimmer,82 m²,1. Geschoss,https://www.immowelt.de/expose/7ce96126-ee70-4c26-abef-304073757643;5382
+Westfalendamm - Nord, Dortmund (44141),949.000 € 5.362 €/m²,11 Zimmer,177 m²,634 m² Grundstück,https://www.immowelt.de/expose/4df92c70-1013-4a8d-89d9-8623d92c7dca;5382
+Siedlung Rotkehlchenweg, Dortmund (44225),170.000 € 2.125 €/m²,80 m²,Unknown,Unknown,https://www.immowelt.de/expose/21179eb6-9403-4d10-84df-e48e7fc0c6af;5382
+Reichshof, Dortmund (44309),379.000 € 4.032 €/m²,4 Zimmer,94 m²,459 m² Grundstück,https://www.immowelt.de/expose/e860b737-24e9-475d-a4a0-27572d17ebb9;5382
+"Bittermark, Dortmund (44229),295.000 € 2.617 €/m²,3 Zimmer,""112,7 m²"",EG,https://www.immowelt.de/expose/2ab8648b-d84d-47d2-8493-e15da0ed0c98";5382
+Marsbruchstraße, Dortmund (44287),370.000 € 2.313 €/m²,7 Zimmer,160 m²,448 m² Grundstück,https://www.immowelt.de/expose/65d5c42d-8acb-4e60-973d-03348f318bc4;5382
+Bittermark, Dortmund (44229),445.000 € 3.648 €/m²,4 Zimmer,122 m²,858 m² Grundstück,https://www.immowelt.de/expose/8218adfe-e8b3-4e72-8156-360ba95126fa;5382
+Westfalenhütte, Dortmund (44145),129.000 € 1.613 €/m²,3 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/66299a30-1091-4445-ac09-2f89df0bb7a6;5382
+Westfalenhütte, Dortmund (44145),79.500 € 1.529 €/m²,2 Zimmer,52 m²,4. Geschoss,https://www.immowelt.de/expose/f6b3e5da-2a3c-43c3-b479-f77f2ae4320e;5382
+"Wellinghofen, Dortmund (44265),530.000 € 5.000 €/m²,""4,5 Zimmer"",106 m²,517 m² Grundstück,https://www.immowelt.de/expose/44ac8ea6-3e72-47ae-aaec-e8d8d9dcaed9";5382
+Sölde - Nord, Dortmund / Sölde (44289),479.000 € 2.661 €/m²,5 Zimmer,180 m²,367 m² Grundstück,https://www.immowelt.de/expose/2b156765-8a6d-49a4-b656-5aa5901fd26f;5382
+Lütgendortmund - West, Dortmund (44388),235.000 € 2.304 €/m²,3 Zimmer,102 m²,183 m² Grundstück,https://www.immowelt.de/expose/31aae6e8-70c6-4a7d-b16b-4229f46d7eed;5382
+Remberg, Dortmund (44263),74.000 € 1.298 €/m²,57 m²,Unknown,Unknown,https://www.immowelt.de/expose/585b8bc5-b6ab-4485-b056-fd808ffbe180;5382
+"Lanstrop-Alt, Dortmund (44329),545.000 € 4.955 €/m²,""4,5 Zimmer"",110 m²,389 m² Grundstück,https://www.immowelt.de/expose/ed5da5b4-c68e-4bbb-8a11-4edfb5e68e88";5382
+Oberdorstfeld, Dortmund - Dorstfeld (44149),2.200.000 € 4.089 €/m²,16 Zimmer,538 m²,2.900 m² Grundstück,https://www.immowelt.de/expose/a9c90db3-ebf1-4d58-a654-5d135b8790ef;5382
+Körne, Dortmund (44143),165.000 € 2.089 €/m²,3 Zimmer,79 m²,4. Geschoss,https://www.immowelt.de/expose/0ef9161c-4808-4c1b-9196-3e53d8d44375;5382
+Dollersweg, Dortmund (44319),205.000 € 2.412 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/c02741ae-d91d-4099-aa50-f81525304f93;5382
+Marten, Dortmund - Marten (44379),196.000 € 1.849 €/m²,4 Zimmer,106 m²,3. Geschoss,https://www.immowelt.de/expose/7b71b3ac-af1a-4e83-a639-0645b3fa9741;5382
+Holzen, Dortmund (44267),198.000 € 3.046 €/m²,2 Zimmer,65 m²,EG,https://www.immowelt.de/expose/3afeec8e-f008-4425-a3de-8e5fa6c35be1;5382
+Berghofen Dorf, Dortmund (44269),589.000 € 1.447 €/m²,15 Zimmer,407 m²,775 m² Grundstück,https://www.immowelt.de/expose/e0bcd836-e257-44d6-b02f-1d44fc49285e;5382
+Westerfilde, Dortmund (44357),495.000 € 1.934 €/m²,8 Zimmer,256 m²,411 m² Grundstück,https://www.immowelt.de/expose/d5ea8778-a37a-457b-b65c-c4328e84c5d3;5382
+Oespel, Dortmund (44149),689.000 € 1.235 €/m²,24 Zimmer,558 m²,1.025 m² Grundstück,https://www.immowelt.de/expose/101df276-7ac2-4157-be39-1c80406d14db;5382
+Körne, Dortmund / Körne (44143),178.000 € 2.657 €/m²,2 Zimmer,67 m²,Unknown,https://www.immowelt.de/expose/64265eb8-553f-4212-944e-cf7035ace83e;5382
+Löttringhausen - Nord, Dortmund (44229),239.000 € 2.988 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/a905f51a-9104-4485-ab03-882b60d1573d;5382
+Lücklemberg, Dortmund (44229),729.000 € 3.089 €/m²,8 Zimmer,236 m²,976 m² Grundstück,https://www.immowelt.de/expose/06334be2-421c-4257-89a0-0e55525e476f;5382
+"Wischlingen, Dortmund (44369),320.000 € 3.804 €/m²,3 Zimmer,""84,1 m²"",Unknown,https://www.immowelt.de/expose/f35c85d6-7b2e-4fab-ac85-9525c8119aba";5382
+Loh, Dortmund / Wellinghofen (44267),549.000 € 2.064 €/m²,6 Zimmer,266 m²,2.740 m² Grundstück,https://www.immowelt.de/expose/ff8765f5-e509-4111-a7db-03c2434d7583;5382
+"Wickede Dorf, Dortmund / Husen (44319),460.000 € 3.005 €/m²,5 Zimmer,""153,1 m²"",370 m² Grundstück,https://www.immowelt.de/expose/1cb83fc2-9ba3-49ad-baeb-7cf689ddef68";5382
+"Overgünne 213, Berghofen Dorf, Dortmund (44269),185.000 € 2.425 €/m²,3 Zimmer,""76,3 m²"",2. Geschoss,https://www.immowelt.de/expose/af1a8f1d-6639-4a50-9fd7-6ff766faa7d3";5382
+Knappschaftskrankenhaus, Dortmund - Brackel (44309),225.000 € 2.647 €/m²,3 Zimmer,85 m²,272 m² Grundstück,https://www.immowelt.de/expose/6c29280f-24ed-4ac7-83b3-7827019f960c;5382
+Mengeder Heide, Dortmund / Groppenbruch (44359),648.000 € 2.842 €/m²,4 Zimmer,228 m²,838 m² Grundstück,https://www.immowelt.de/expose/ebe834df-f00f-4f33-9ed8-f20b998315d8;5382
+Hombruch, Dortmund (44225),795.000 € 3.487 €/m²,8 Zimmer,228 m²,1.258 m² Grundstück,https://www.immowelt.de/expose/efb84482-2bfd-4da1-b2af-e4c28a3a9bb9;5382
+"Wischlingen, Dortmund (44369),369.465 € 4.275 €/m²,""3,5 Zimmer"",""86,4 m²"",2. Geschoss,https://www.immowelt.de/expose/ec8a692b-8005-46eb-b559-2e05dc714283";5382
+Mengede-Mitte, Dortmund / Mengede (44359),515.000 € 2.210 €/m²,6 Zimmer,233 m²,1.073 m² Grundstück,https://www.immowelt.de/expose/ce13c490-b3cb-4622-b182-a310fa0c4f12;5382
+Mengede-Mitte, Dortmund (44359),1.150.000 € 4.107 €/m²,11 Zimmer,280 m²,447 m² Grundstück,https://www.immowelt.de/expose/f537f100-de17-4500-9ba8-a84faade76b1;5382
+Mitte, Dortmund (44289),870.000 € 3.107 €/m²,5 Zimmer,280 m²,1.521 m² Grundstück,https://www.immowelt.de/expose/0074a7ad-4992-46a1-804f-754f2a8925b0;5382
+Eving, Dortmund / Eving (44339),1.110.000 € 3.524 €/m²,7 Zimmer,315 m²,1.815 m² Grundstück,https://www.immowelt.de/expose/d282577a-dd63-4504-b8fd-e6aea0f4d383;5382
+Löttringhausen - Süd, Dortmund (44229),685.000 € 2.299 €/m²,9 Zimmer,298 m²,1.170 m² Grundstück,https://www.immowelt.de/expose/6c314607-6146-4456-b6a1-1993c8fb99c6;5382
+Westfalendamm - Nord, Dortmund (44141),989.000 € 3.663 €/m²,6 Zimmer,270 m²,3. Geschoss,https://www.immowelt.de/expose/cecf72bd-50e9-4a17-a455-948bfca224c1;5382
+"Loh, Dortmund (44267),329.000 € 3.133 €/m²,""4,5 Zimmer"",105 m²,245 m² Grundstück,https://www.immowelt.de/expose/ac272351-4cd5-49cb-abda-aeda4136b761";5382
+Aplerbecker Markt, Dortmund / Aplerbeck (44287),980.000 € 4.900 €/m²,4 Zimmer,200 m²,799 m² Grundstück,https://www.immowelt.de/expose/71e80ed2-fe31-4225-8d62-1683194fa0c9;5382
+Lütgendortmund - Mitte, Dortmund (44388),550.000 € 1.444 €/m²,14 Zimmer,381 m²,505 m² Grundstück,https://www.immowelt.de/expose/7778aa3e-e61f-4302-9797-3dc105ef25f7;5382
+Lütgendortmund - Mitte, Dortmund (44388),550.000 € 1.444 €/m²,381 m²,505 m² Grundstück,Unknown,https://www.immowelt.de/expose/feff0ae9-e6f1-467c-8f15-83be9d13e4b5;5382
+Aplerbecker Mark, Dortmund (44287),680.000 € 3.022 €/m²,8 Zimmer,225 m²,585 m² Grundstück,https://www.immowelt.de/expose/b6409d98-b128-4ff5-aac9-e56437419b69;5382
+Hallerey, Dortmund (44149),677.000 € 1.354 €/m²,18 Zimmer,500 m²,711 m² Grundstück,https://www.immowelt.de/expose/76a9be9e-3c2d-4e6c-92a8-2fad0515fc71;5382
+Bittermark, Dortmund (44229),450.000 € 4.091 €/m²,6 Zimmer,110 m²,848 m² Grundstück,https://www.immowelt.de/expose/f784f698-b35f-43a8-ac8d-041a071fe10b;5382
+Bittermark, Dortmund (44229),1.750.000 € 4.902 €/m²,10 Zimmer,357 m²,2.134 m² Grundstück,https://www.immowelt.de/expose/bfe09e17-1063-4199-ab24-2b0e2847e0f4;5382
+Husen - Süd, Dortmund (44319),484.000 € 2.161 €/m²,6 Zimmer,224 m²,742 m² Grundstück,https://www.immowelt.de/expose/c219d8b0-67cd-4ac5-ab68-e8f932afb5b2;5382
+Schnee, Dortmund / Auf dem Schnee (44227),769.000 € 5.826 €/m²,6 Zimmer,132 m²,7.887 m² Grundstück,https://www.immowelt.de/expose/3fd10a49-325c-4bf3-a676-2e129c13a104;5382
+"Oberdorstfeld, Dortmund (44149),326.392 € 4.400 €/m²,""2,5 Zimmer"",""74,2 m²"",1. Geschoss,https://www.immowelt.de/expose/bbe660d2-afab-45aa-8f62-cdbee918bfe2";5382
+Kurl - Süd, Dortmund (44319),498.000 € 2.767 €/m²,7 Zimmer,180 m²,809 m² Grundstück,https://www.immowelt.de/expose/94e7b216-ed23-4a7e-b47f-bc15cbb00887;5382
+"Loh, Dortmund (44267),98.000 € 2.272 €/m²,""2,5 Zimmer"",""43,1 m²"",2. Geschoss,https://www.immowelt.de/expose/653cf094-eae6-448f-aa51-08e421fe995c";5382
+Sölde - Nord, Dortmund (44289),449.000 € 3.207 €/m²,6 Zimmer,140 m²,583 m² Grundstück,https://www.immowelt.de/expose/de052b57-fc62-46e9-8e11-0a4323767136;5382
+Nette, Dortmund (44359),320.000 € 2.133 €/m²,5 Zimmer,150 m²,2. Geschoss,https://www.immowelt.de/expose/0afdebf0-2c20-41f5-a0da-8da0654bcf69;5382
+Vieselerhofstraße, Dortmund (44287),169.000 € 2.061 €/m²,3 Zimmer,82 m²,2. Geschoss,https://www.immowelt.de/expose/b2142238-75df-4d11-9a88-6d7cfde7a78b;5382
+Lütgendortmund - Mitte, Dortmund (44388),895.000 € 1.026 €/m²,872 m²,7.662 m² Grundstück,Unknown,https://www.immowelt.de/expose/6a3a7975-e6e6-4252-b062-84db884bff90;5382
+Körne, Dortmund (44143),175.000 € 2.160 €/m²,3 Zimmer,81 m²,2. Geschoss,https://www.immowelt.de/expose/e75f35f8-9b9b-48e2-932f-b7782f1fa990;5382
+"Kirchhörde - Ost, Dortmund (44229),465.000 € 5.144 €/m²,""2,5 Zimmer"",""90,4 m²"",1. Geschoss,https://www.immowelt.de/expose/293e59e8-6157-4793-9929-ba9d61080fc0";5382
+"Lütgendortmund - West, Dortmund (44388),139.900 € 1.916 €/m²,""3,5 Zimmer"",73 m²,EG,https://www.immowelt.de/expose/19259b63-faf5-440d-b7dc-d732221766cc";5382
+Berghofen Dorf, Dortmund (44269),990.000 € 2.200 €/m²,16 Zimmer,450 m²,1.295 m² Grundstück,https://www.immowelt.de/expose/ac207b03-c9ad-4621-b0d9-9a5225c7b649;5382
+Durchstraße, Dortmund (44265),680.000 € 2.776 €/m²,8 Zimmer,245 m²,695 m² Grundstück,https://www.immowelt.de/expose/36ed6b1d-aa03-4d59-92df-459842a99490;5382
+"Westpark, Dortmund / Innenstadt-West (44137),179.000 € 2.996 €/m²,2 Zimmer,""59,8 m²"",1. Geschoss,https://www.immowelt.de/expose/e7feac61-bb79-4fbf-9cf7-d1445e4953cc";5382
+"Sölde - Nord, Dortmund (44289),346.000 € 2.731 €/m²,""5,5 Zimmer"",""126,7 m²"",344 m² Grundstück,https://www.immowelt.de/expose/01676ada-4f4a-41d9-a128-754baa5449e4";5382
+Lanstrop-Neu, Dortmund (44329),389.000 € 2.416 €/m²,7 Zimmer,161 m²,786 m² Grundstück,https://www.immowelt.de/expose/a8c0b282-94e8-4c37-994b-e135d611bf4b;5382
+Aplerbecker Markt, Dortmund (44287),289.000 € 3.322 €/m²,3 Zimmer,87 m²,Unknown,https://www.immowelt.de/expose/8f86b133-e39f-4c32-9208-421301bd29f4;5382
+Derne, Dortmund / Derne (44329),149.000 € 1.961 €/m²,3 Zimmer,76 m²,1. Geschoss,https://www.immowelt.de/expose/f7556b56-6a24-470a-80e2-f21ebfec1591;5382
+Nordmarkt - Süd, Dortmund (44147),271.700 € 3.159 €/m²,4 Zimmer,86 m²,4. Geschoss,https://www.immowelt.de/expose/8ee5230a-7adf-4ea1-ba19-ae13e1d2dbdf;5382
+Westfalenhalle, Dortmund (44139),1.875.000 € 3.064 €/m²,612 m²,360 m² Grundstück,Unknown,https://www.immowelt.de/expose/d6f93d12-4a52-4d49-abb0-a1804f3e7e4c;5382
+"Hörde, Dortmund / Hörde (44263),795.000 € 1.618 €/m²,""491,2 m²"",181 m² Grundstück,Unknown,https://www.immowelt.de/expose/4b9311c9-fedc-4f04-8b05-511401c9cece";5382
+Nette, Dortmund (44359),320.000 € 2.133 €/m²,5 Zimmer,150 m²,2. Geschoss,https://www.immowelt.de/expose/4523becb-89a9-4d8c-a2e6-bf91d01a97c0;5382
+Derne, Dortmund (44329),639.000 € 4.407 €/m²,5 Zimmer,145 m²,639 m² Grundstück,https://www.immowelt.de/expose/490e0a26-708b-4c8c-b447-5eefbc355198;5382
+"Kaiserbrunnen, Dortmund (44135),1.050.000 € 2.449 €/m²,""489,9 m²"",231 m² Grundstück,Unknown,https://www.immowelt.de/expose/4d7dbc6b-d0dc-4825-b8dd-7aa07e50de6d";5382
+Bittermark, Dortmund (44229),1.255.000 € 5.409 €/m²,9 Zimmer,232 m²,1.698 m² Grundstück,https://www.immowelt.de/expose/1b452f5c-df4a-4029-93d4-f231e707f8b3;5382
+Holzen, Dortmund (44267),689.000 € 2.996 €/m²,5 Zimmer,230 m²,495 m² Grundstück,https://www.immowelt.de/expose/d3cd2b86-b8e1-40a4-997f-fc5f12027785;5382
+Dorstfeld, Dortmund (44149),625.000 € 4.310 €/m²,5 Zimmer,145 m²,Unknown,https://www.immowelt.de/expose/bfd5d49c-bfc9-49e4-bd63-7c9519cc77e1;5382
+Bittermark, Dortmund (44229),1.135.000 € 5.159 €/m²,6 Zimmer,220 m²,Unknown,https://www.immowelt.de/expose/2b42cc46-9444-4efe-b33c-98988f9dbdf2;5382
+Holzen, Dortmund (44267),1.012.700 € 4.220 €/m²,8 Zimmer,240 m²,Unknown,https://www.immowelt.de/expose/7808fd96-792c-446e-83b0-760f742a9b09;5382
+Holzen, Dortmund (44267),998.700 € 4.161 €/m²,8 Zimmer,240 m²,Unknown,https://www.immowelt.de/expose/b96c93c8-ab20-4e2b-a233-073db530879e;5382
+Holzen, Dortmund (44267),921.700 € 4.190 €/m²,6 Zimmer,220 m²,Unknown,https://www.immowelt.de/expose/b670b354-63bc-4002-817d-6f43914265d9;5382
+Holzen, Dortmund (44267),928.700 € 4.221 €/m²,6 Zimmer,220 m²,Unknown,https://www.immowelt.de/expose/ac9cfdac-8513-4197-a717-faee416ae001;5382
+Schanze, Dortmund (44227),2.750.000 € 9.354 €/m²,4 Zimmer,294 m²,11.607 m² Grundstück,https://www.immowelt.de/expose/134ddae1-8748-4e0a-8521-9746cccb5159;5382
+"Löttringhausen - Süd, Dortmund (44229),269.000 € 2.890 €/m²,4 Zimmer,""93,1 m²"",1. Geschoss,https://www.immowelt.de/expose/13f6f89f-e9e7-4ec3-825c-f0d128e89410";5382
+"Bittermark, Dortmund (44229),789.000 € 6.420 €/m²,""4,5 Zimmer"",""122,9 m²"",442 m² Grundstück,https://www.immowelt.de/expose/e8a4240e-94a7-46b5-81a9-f52838e6b47b";5382
+"Marsbruchstraße, Dortmund (44287),298.000 € 3.014 €/m²,7 Zimmer,""98,9 m²"",470 m² Grundstück,https://www.immowelt.de/expose/0dcbd3fb-0d9b-42d0-8ad3-f4620e8199fd";5382
+Ruhrallee - West, Dortmund (44139),1.650.000 € 2.615 €/m²,19 Zimmer,631 m²,667 m² Grundstück,https://www.immowelt.de/expose/61313d56-92a9-491b-8096-061b50be1fda;5382
+Lanstrop-Alt, Dortmund (44329),515.000 € 3.280 €/m²,5 Zimmer,157 m²,230 m² Grundstück,https://www.immowelt.de/expose/6fa48b59-269e-48e9-b14f-08c273e0e7c1;5382
+"Funkenburg, Dortmund (44143),639.000 € 1.826 €/m²,12 Zimmer,350 m²,""116,8 m² Grundstück"",https://www.immowelt.de/expose/7befc761-dd7d-4d96-aa3a-e8545d19d4cf";5382
+Klüsenerskamp 7, Brünninghausen, Dortmund (44225),860.000 € 3.185 €/m²,7 Zimmer,270 m²,462 m² Grundstück,https://www.immowelt.de/expose/04507207-fb8c-4c87-8e8d-48b7f3a6ab35;5382
+Aplerbeck Bahnhof Süd, Dortmund (44287),550.000 € 4.400 €/m²,4 Zimmer,125 m²,198 m² Grundstück,https://www.immowelt.de/expose/55f7c2ef-8192-4a76-84de-163ababa59f9;5382
+"Klobesstraße 23, Holte - Kreta, Dortmund (44388),106.000 € 1.928 €/m²,""3,5 Zimmer"",55 m²,EG,https://www.immowelt.de/expose/35da499b-f64c-41ff-98bf-9f92d64c4cd6";5382
+"Unknown,Unknown,""4,5 Zimmer"",121 m²,159 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532";5382
+"Unknown,Unknown,""4,5 Zimmer"",121 m²,232 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532";5382
+"Unknown,Unknown,""5,5 Zimmer"",143 m²,169 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532";5382
+"Unknown,Unknown,""4,5 Zimmer"",121 m²,232 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532";5382
+"Unknown,Unknown,""4,5 Zimmer"",121 m²,159 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532";5382
+"Unknown,Unknown,""5,5 Zimmer"",143 m²,266 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532";5382
+"Unknown,Unknown,""5,5 Zimmer"",143 m²,169 m² Grundstück,https://www.immowelt.de/projekte/expose/k2lj532";5382
+"Unknown,Unknown,""3,5 Zimmer"",125 m²,Unknown,https://www.immowelt.de/projekte/expose/k2tp732";5382
+"Unknown,Unknown,""3,5 Zimmer"",105 m²,Unknown,https://www.immowelt.de/projekte/expose/k2tp732";5382
+Holzen, Dortmund (44267),459.000 € 3.991 €/m²,4 Zimmer,115 m²,332 m² Grundstück,https://www.immowelt.de/expose/d368d641-cf32-4af4-a3d7-4c04f1e752fe;5382
+"Wischlingen, Dortmund (44369),285.000 € 4.020 €/m²,3 Zimmer,""70,9 m²"",frei ab sofort,https://www.immowelt.de/expose/d2330219-b517-4740-a4ff-9055c0f707fa";5382
+"Südwestfriedhof, Dortmund (44139),250.000 € 4.167 €/m²,""1,5 Zimmer"",60 m²,frei ab sofort,https://www.immowelt.de/expose/1f65fd34-a2d1-4f77-b37e-535399f439b1";5382
+Westrich, Dortmund - Westrich (44388),107.000 € 1.945 €/m²,2 Zimmer,55 m²,3. Geschoss,https://www.immowelt.de/expose/39b50d44-28c7-4565-8d53-6ac1885c92d8;5382
+Oberdorstfeld, Dortmund (44149),680.000 € 1.153 €/m²,21 Zimmer,590 m²,864 m² Grundstück,https://www.immowelt.de/expose/3251c1ec-f4b0-4a98-a4e5-1ccb046d09fc;5382
+"Unknown,Unknown,""3,5 Zimmer"",155 m²,Unknown,https://www.immowelt.de/projekte/expose/k2uk532";5382
+"Unknown,Unknown,""3,5 Zimmer"",81 m²,Unknown,https://www.immowelt.de/projekte/expose/k2uk532";5382
+Derne, Dortmund (44329),449.990 € 1.466 €/m²,14 Zimmer,307 m²,306 m² Grundstück,https://www.immowelt.de/expose/a0276eb5-a710-4c02-a1ea-4dfddabd0fa6;5382
+Derne, Dortmund (44329),449.990 € 1.376 €/m²,327 m²,Unknown,Unknown,https://www.immowelt.de/expose/4a3ad1fb-b4e5-44c8-8ae7-456383d9636b;5382
+Borsigplatz, Dortmund (44145),69.500 € 1.390 €/m²,2 Zimmer,50 m²,5. Geschoss,https://www.immowelt.de/expose/20675837-11f9-48dc-b547-e020c626cd52;5382
+Nordmarkt - Ost, Dortmund (44145),350.000 € 787 €/m²,15 Zimmer,445 m²,458 m² Grundstück,https://www.immowelt.de/expose/9c2a5664-ac41-4dce-a21e-3fac06bdb13c;5382
+Max-Michallek-Straße, Brackeler Feld, Dortmund (44309),200.000 € 1.942 €/m²,3 Zimmer,103 m²,frei ab sofort,https://www.immowelt.de/expose/b25185fd-7497-4a7b-9e70-c682f7275708;5382
+Middelhof, Wellinghofen, Dortmund (44265),170.000 € 2.297 €/m²,2 Zimmer,74 m²,frei ab sofort,https://www.immowelt.de/expose/bb254054-17fb-4b47-9717-69bbe507df5d;5382
+"Seehang, Hörde, Dortmund (44263),400.000 € 1.905 €/m²,""4,5 Zimmer"",210 m²,frei ab sofort,https://www.immowelt.de/expose/67811445-b3e2-4579-819d-682ccf6f3650";5382
+Paderborner Straße, Körne, Dortmund (44143),130.000 € 563 €/m²,6 Zimmer,231 m²,frei ab sofort,https://www.immowelt.de/expose/b021d8c5-6920-48e2-bc27-05ecc1787425;5382
+"Lindbreiteweg, Krückenweg, Dortmund (44225),310.000 € 1.676 €/m²,""6,5 Zimmer"",185 m²,570 m² Grundstück,https://www.immowelt.de/expose/00e5c988-a1b0-481f-96bb-ddc71b9f7ba8";5382
+"Lindbreiteweg, Krückenweg, Dortmund (44225),310.000 € 1.676 €/m²,""6,5 Zimmer"",185 m²,570 m² Grundstück,https://www.immowelt.de/expose/b2395f28-a02b-409b-b9d0-fdf6e1c1e71c";5382
+Ortli, Syburg, Dortmund (44265),344.000 € 2.548 €/m²,4 Zimmer,135 m²,Unknown,https://www.immowelt.de/expose/5892a607-4335-418b-8b43-7a749f744a9c;5382
+"Am Kai, Hörde, Dortmund (44263),150.000 € 1.129 €/m²,4 Zimmer,""132,9 m²"",frei ab sofort,https://www.immowelt.de/expose/d3b0359a-0102-4e15-8e7c-5c08ccb12046";5382
+Hermannstraße, Hörde, Dortmund (44263),300.000 € 2.083 €/m²,4 Zimmer,144 m²,frei ab sofort,https://www.immowelt.de/expose/c78576cd-7b30-49c8-ae0e-12ccf9e019ac;5382
+"Mitte, Schwerte (58239),50.000 € 1.143 €/m²,3 Zimmer,""43,8 m²"",Unknown,https://www.immowelt.de/expose/ba67afc3-4aed-4ade-9925-f861980c774f";5382
+Mitte, Schwerte (58239),389.000 € 2.925 €/m²,5 Zimmer,133 m²,552 m² Grundstück,https://www.immowelt.de/expose/86d35724-e240-4009-bf0c-c9955391d81a;5382
+Mitte, Schwerte (58239),280.000 € 2.188 €/m²,8 Zimmer,128 m²,368 m² Grundstück,https://www.immowelt.de/expose/3e93f200-3d26-40cb-98a9-0c8ea5879e70;5382
+Mitte, Schwerte (58239),448.000 € 2.503 €/m²,6 Zimmer,179 m²,1. Geschoss,https://www.immowelt.de/expose/794dd2f8-4dde-4e01-ab0f-921645200c6d;5382
+"Gahmen, Lünen (44532),719.000 € 1.203 €/m²,27 Zimmer,""597,9 m²"",1.740 m² Grundstück,https://www.immowelt.de/expose/a6b523e4-3230-477f-b677-f99cb9fa12c6";5382
+Mitte, Schwerte (58239),38.700 € 880 €/m²,44 m²,Unknown,Unknown,https://www.immowelt.de/expose/5388032d-6391-4162-aec8-1e85e20a9e91;5382
+Mitte, Schwerte (58239),800.000 € 1.702 €/m²,10 Zimmer,470 m²,4.153 m² Grundstück,https://www.immowelt.de/expose/f37a085f-a787-4254-a81f-e8d317459a66;5382
+Mitte, Schwerte (58239),275.000 € 1.447 €/m²,5 Zimmer,190 m²,1.537 m² Grundstück,https://www.immowelt.de/expose/4a40dad5-fdf3-4a0a-961a-84b945210373;5382
+"Stockum - Mitte, Witten (58454),381.839 € 2.282 €/m²,5 Zimmer,""167,3 m²"",490 m² Grundstück,https://www.immowelt.de/expose/53bd8763-c08e-44a9-9fa8-8b90c3e80cc5";5382
+Holzen, Schwerte (58239),260.690 € 2.086 €/m²,4 Zimmer,125 m²,550 m² Grundstück,https://www.immowelt.de/expose/f17a3fef-98da-4723-af32-25209d6793d6;5382
+"Gahmen, Lünen (44532),475.087 € 3.801 €/m²,""5,5 Zimmer"",125 m²,412 m² Grundstück,https://www.immowelt.de/expose/81746ac2-8646-4d3b-80a0-76591fcf3cb0";5382
+Brambauer, Lünen (44536),76.000 € 1.688 €/m²,2 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/0b772b88-dc65-4441-88ac-722a7211ec65;5382
+Frohlinde, Castrop-Rauxel (44577),248.000 € 3.024 €/m²,3 Zimmer,82 m²,548 m² Grundstück,https://www.immowelt.de/expose/d4cf5cd6-05bc-4fec-ae47-1b751baf5a9d;5382
+Mitte, Schwerte (58239),465.300 € 2.449 €/m²,1 Zimmer,190 m²,1.537 m² Grundstück,https://www.immowelt.de/expose/b88b00df-cfe9-4b38-8c8e-f1e728240c09;5382
+"Rüdinghausen - Mitte, Witten (58454),650.000 € 3.439 €/m²,""6,5 Zimmer"",189 m²,1.158 m² Grundstück,https://www.immowelt.de/expose/3381425c-7d49-458a-9901-20da0dc291fd";5382

@@ -1,211 +1,211 @@
-﻿Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL
-"Rheindorf, Leverkusen (51371)",257.000 € 2.920 €/m²,3 Zimmer,88 m²,2. Geschoss,https://www.immowelt.de/expose/224ba6e9-ca9f-4845-94dd-b210e604f406
-"Schlebusch - Nord, Leverkusen (51375)",165.000 € 2.619 €/m²,3 Zimmer,63 m²,2. Geschoss,https://www.immowelt.de/expose/66b75651-d388-49cc-b464-44796e76c3b2
-"Opladen, Leverkusen (51379)",155.000 € 2.279 €/m²,3 Zimmer,68 m²,1. Geschoss,https://www.immowelt.de/expose/2be75ec1-7fc4-4465-8123-49641312c0d8
-"Lützenkirchen, Leverkusen (51381)",111.000 € 1.708 €/m²,2 Zimmer,65 m²,1. Geschoss,https://www.immowelt.de/expose/f924a112-cece-4346-9b41-d86cd8d96315
-"Feuerbachstraße 64, Steinbüchel, Leverkusen (51377)",547.500 € 4.761 €/m²,5 Zimmer,115 m²,175 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732
-"Feuerbachstraße 68, Steinbüchel, Leverkusen (51377)",678.000 € 4.920 €/m²,5 Zimmer,"137,8 m²",142 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732
-"Feuerbachstraße 70, Steinbüchel, Leverkusen (51377)",729.000 € 5.428 €/m²,5 Zimmer,"134,3 m²",233 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732
-"Opladen, Leverkusen (51379)",489.000 € 2.126 €/m²,9 Zimmer,230 m²,779 m² Grundstück,https://www.immowelt.de/expose/18aec544-228f-4b73-a5f6-d6b44e783ae6
-"Am Sonnenhang 15, Lützenkirchen, Leverkusen (51381)",320.000 € 2.520 €/m²,5 Zimmer,127 m²,3. Geschoss,https://www.immowelt.de/expose/ef25983a-29ea-4224-9ac3-1171cf7fa181
-"Opladen, Leverkusen / Opladen (51379)",1.920.000 € 2.108 €/m²,34 Zimmer,911 m²,390 m² Grundstück,https://www.immowelt.de/expose/4c91eee4-44b3-4993-9fc2-65b578dabb81
-"Opladen, Leverkusen / Opladen (51379)",1.920.000 € 2.108 €/m²,34 Zimmer,911 m²,390 m² Grundstück,https://www.immowelt.de/expose/988eb148-d3b0-48a7-ad96-4cbe153d475f
-"Bergisch Neukirchen, Leverkusen (51381)",230.000 € 2.527 €/m²,3 Zimmer,91 m²,Unknown,https://www.immowelt.de/expose/525b1baf-a228-4b37-af89-3522740d1eb7
-"Küppersteg, Leverkusen (51373)",306.000 € 2.833 €/m²,4 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/c1978dce-ac0b-4f8b-b928-1c1e57d12dc2
-"Schlebusch - Nord, Leverkusen (51375)",549.000 € 2.889 €/m²,9 Zimmer,190 m²,635 m² Grundstück,https://www.immowelt.de/expose/49e13fac-9d5c-4c45-9d88-7c4c13ea8c6d
-"Steinbüchel, Leverkusen (51377)",485.000 € 3.212 €/m²,4 Zimmer,151 m²,557 m² Grundstück,https://www.immowelt.de/expose/ac64a671-4b8f-4026-8995-83524319a42b
-"Opladen, Leverkusen (51379)",598.000 € 2.392 €/m²,5 Zimmer,250 m²,638 m² Grundstück,https://www.immowelt.de/expose/f37806b6-a63b-4d2b-b92a-801f60f8c9d8
-"Opladen, Leverkusen / Opladen (51379)",645.000 € 3.000 €/m²,8 Zimmer,215 m²,761 m² Grundstück,https://www.immowelt.de/expose/6aca78e8-dff9-4ee4-aedf-679c144f7eeb
-"Opladen, Leverkusen / Opladen (51379)",645.000 € 3.000 €/m²,8 Zimmer,215 m²,761 m² Grundstück,https://www.immowelt.de/expose/3949446a-fc53-41c0-8a3b-990d798fdb48
-"Opladen, Leverkusen / Opladen (51379)",645.000 € 3.000 €/m²,8 Zimmer,215 m²,761 m² Grundstück,https://www.immowelt.de/expose/3990d1ed-0fb2-4f41-93dd-2fa1aa400c5f
-"Küppersteg, Leverkusen (51373)",539.000 € 2.962 €/m²,4 Zimmer,182 m²,722 m² Grundstück,https://www.immowelt.de/expose/94514a17-11ba-4289-ac00-af1af976ad0b
-"Schlebusch - Nord, Leverkusen (51375)",419.000 € 4.554 €/m²,4 Zimmer,92 m²,180 m² Grundstück,https://www.immowelt.de/expose/b53cdc21-f8bf-47cc-b191-1df734dcced3
-"Rheindorf, Leverkusen (51371)",315.000 € 3.539 €/m²,3 Zimmer,89 m²,1. Geschoss,https://www.immowelt.de/expose/8c163742-49fe-49f7-9600-db2f48078bbf
-"Rüttersweg 78, Bürrig, Leverkusen (51371)",795.000 € 3.340 €/m²,10 Zimmer,238 m²,735 m² Grundstück,https://www.immowelt.de/expose/3e707a43-d789-475f-a593-3d25dcaadcc4
-"Opladen, Leverkusen (51379)",695.000 € 2.747 €/m²,9 Zimmer,253 m²,283 m² Grundstück,https://www.immowelt.de/expose/86b2add3-56b1-4726-bf20-a58e513d2ab0
-"Quettingen, Leverkusen (51381)",149.000 € 2.759 €/m²,2 Zimmer,54 m²,Unknown,https://www.immowelt.de/expose/39888a84-910b-4ffd-9a25-d3825dffeae5
-"Burscheider Str. 352, Bergisch Neukirchen, Leverkusen (51381)",418.000 € 3.016 €/m²,4 Zimmer,"138,6 m²",638 m² Grundstück,https://www.immowelt.de/expose/e2a02175-e6da-41e1-942c-2eed3d929391
-"Rheindorf, Leverkusen (51371)",249.900 € 3.204 €/m²,3 Zimmer,78 m²,2. Geschoss,https://www.immowelt.de/expose/459f7c55-0dcd-4c63-af08-a6f60c15001d
-"Steinbüchel, Leverkusen (51377)",170.000 € 2.833 €/m²,"2,5 Zimmer",60 m²,5. Geschoss,https://www.immowelt.de/expose/3296f033-a7d1-4df6-be9f-b297b8903de3
-"Bergisch Neukirchen, Leverkusen (51381)",329.000 € 3.538 €/m²,3 Zimmer,93 m²,Unknown,https://www.immowelt.de/expose/52d779f2-dcea-47ab-b255-a973e6b69562
-"Lützenkirchen, Leverkusen (51381)",111.000 € 1.708 €/m²,2 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/ae3f6d7d-ada2-4c3c-b529-d2130286e325
-"Küppersteg, Leverkusen-Küppersteg (51373)",235.000 € 3.133 €/m²,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/cf1a6e5a-4b69-4601-b275-ea1f9bd7a1c1
-"Schopenhauerstraße 30, Steinbüchel, Leverkusen (51377)",734.000 € 5.681 €/m²,5 Zimmer,"129,2 m²",205 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732
-"Küppersteg, Leverkusen (51373)",215.000 € 2.500 €/m²,3 Zimmer,86 m²,3. Geschoss,https://www.immowelt.de/expose/25d8a971-e2a9-4ec8-9479-7ea41f0057e5
-"Küppersteg, Leverkusen (51373)",250.000 € 2.475 €/m²,4 Zimmer,101 m²,2. Geschoss,https://www.immowelt.de/expose/5b6f73ea-e278-48ff-820f-7747ea2852a5
-"Lützenkirchen, Leverkusen (51381)",649.500 € 3.007 €/m²,9 Zimmer,216 m²,672 m² Grundstück,https://www.immowelt.de/expose/70666c36-0fa7-4198-869a-41e2d6be35a7
-"Steinbüchel, Leverkusen (51377)",214.000 € 2.627 €/m²,3 Zimmer,"81,5 m²",1. Geschoss,https://www.immowelt.de/expose/5bdca650-5be8-4df4-ae61-7c8c7ef32216
-"Lützenkirchen, Leverkusen (51381)",670.000 € 3.526 €/m²,7 Zimmer,190 m²,670 m² Grundstück,https://www.immowelt.de/expose/3e2bcfc2-f2c9-478f-839f-0bd9a5a9f9e9
-"Küppersteg, Leverkusen (51373)",149.000 € 2.922 €/m²,2 Zimmer,51 m²,Unknown,https://www.immowelt.de/expose/7d02f537-5c8b-481d-a2bb-4b9719db0b39
-"Lützenkirchen, Leverkusen (51381)",189.999 €,3 Zimmer,69 m²,2. Geschoss,https://www.immowelt.de/expose/9bfbcd63-9522-4a60-b670-6b65f6542d41
-"Steinbüchel, Leverkusen (51377)",398.000 € 3.554 €/m²,4 Zimmer,112 m²,407 m² Grundstück,https://www.immowelt.de/expose/4dd4c33f-5f8e-4c1b-bef7-72dc7fef42a3
-"Opladen, Leverkusen (51379)",699.000 € 3.377 €/m²,9 Zimmer,207 m²,382 m² Grundstück,https://www.immowelt.de/expose/19fb9e09-bfc8-4ab6-a9f4-e1c7cef947c3
-"Manfort, Leverkusen (51377)",380.000 € 3.363 €/m²,4 Zimmer,113 m²,147 m² Grundstück,https://www.immowelt.de/expose/979d6bc7-b34b-4ff5-adce-dc292bbda01b
-"-, Küppersteg, Leverkusen (51373)",899.000 € 5.619 €/m²,6 Zimmer,160 m²,230 m² Grundstück,https://www.immowelt.de/expose/4d120f27-101f-4939-bdd8-fa7322fc969b
-"Schlebusch - Süd, Leverkusen (51375)",570.000 € 4.071 €/m²,4 Zimmer,140 m²,Unknown,https://www.immowelt.de/expose/ae8526e2-9285-4bd6-8b11-97f1c930fa6d
-"Schlebusch - Süd, Leverkusen (51375)",1.299.000 € 3.064 €/m²,14 Zimmer,424 m²,590 m² Grundstück,https://www.immowelt.de/expose/99608d03-6c9a-41b2-bdcf-7c06a5e2b031
-"Pfeilshofstr. 46, Manfort, Leverkusen (51377)",1.200.000 € 5.263 €/m²,228 m²,172 m² Grundstück,Unknown,https://www.immowelt.de/expose/ff339eae-7cde-42b0-98a3-021142b8707e
-"Steinbüchel, Leverkusen (51377)",595.000 € 3.967 €/m²,7 Zimmer,150 m²,275 m² Grundstück,https://www.immowelt.de/expose/1ca3f7ee-7519-46cc-bd2f-fa7be497fe32
-"Quettingen, Leverkusen (51381)",198.000 € 2.870 €/m²,3 Zimmer,69 m²,1. Geschoss,https://www.immowelt.de/expose/855ceb0e-5da7-48ce-9435-26d0c4b8107c
-"Kurt-Schuhmacher-Ring, Steinbüchel, Leverkusen (51377)",988.000 € 7.057 €/m²,4 Zimmer,140 m²,709 m² Grundstück,https://www.immowelt.de/expose/26c0ab7b-c290-4b0e-a529-e0b89282fdb2
-"Hitdorf, Leverkusen (51371)",350.000 € 3.333 €/m²,3 Zimmer,105 m²,497 m² Grundstück,https://www.immowelt.de/expose/3d4e98d7-9f65-44f0-a835-820286b62cfa
-"Schlebusch - Nord, Leverkusen (51375)",779.000 € 3.763 €/m²,7 Zimmer,207 m²,407 m² Grundstück,https://www.immowelt.de/expose/32bbe64b-4c5b-4b3b-badd-00ca79ab18b7
-"Schlebusch - Nord, Leverkusen (51375)",765.000 € 3.825 €/m²,8 Zimmer,200 m²,604 m² Grundstück,https://www.immowelt.de/expose/d8291711-b976-4446-9a09-b3d89cd02b04
-"Rat-Deycks-Straße 7, Opladen, Leverkusen (51379)",141.000 € 2.300 €/m²,3 Zimmer,"61,3 m²",2. Geschoss,https://www.immowelt.de/expose/bcbbb9ad-c04d-4343-9b90-daa3984b0594
-"Berliner Straße 163, Steinbüchel, Leverkusen (51377)",249.000 € 3.557 €/m²,2 Zimmer,70 m²,400 m² Grundstück,https://www.immowelt.de/expose/7c9b4e81-038d-45ec-bd76-d286deddf52a
-"Hermann-Nörrenberg-Str. 7, Opladen, Leverkusen (51379)",485.000 € 2.608 €/m²,8 Zimmer,186 m²,560 m² Grundstück,https://www.immowelt.de/expose/fa48278a-bd8a-4817-a19f-b61e741b23e1
-"Wiesdorf - West, Leverkusen / Opladen (51379)",1.800.000 € 3.346 €/m²,538 m²,Unknown,Unknown,https://www.immowelt.de/expose/6c79ff41-e892-4d7b-a738-c7f801e1a681
-"Manfort, Leverkusen (51377)",485.000 € 3.859 €/m²,5 Zimmer,"125,7 m²",777 m² Grundstück,https://www.immowelt.de/expose/c1df41a0-9381-40f5-95a8-94e1edcac89c
-"Wiesdorf - West, Leverkusen (51373)",175.000 € 1.801 €/m²,3 Zimmer,77 m²,frei ab sofort,https://www.immowelt.de/expose/5317cfd8-3d9f-4e12-afc6-b387dd7156ae
-"Opladen, Leverkusen (51379)",119.000 € 2.902 €/m²,1 Zimmer,41 m²,2. Geschoss,https://www.immowelt.de/expose/cc3e3cb7-f9a2-4a61-9893-d9e2ae96fb66
-"Manfort, Leverkusen (51377)",539.000 € 4.083 €/m²,4 Zimmer,132 m²,178 m² Grundstück,https://www.immowelt.de/expose/ddb232df-13f0-45f3-8d9c-d8ed04c59191
-"Schlebusch - Nord, Leverkusen (51375)",289.900 € 5.177 €/m²,2 Zimmer,56 m²,EG,https://www.immowelt.de/expose/a15a3815-191f-4687-a14c-124c8bf17791
-"Schlebusch - Nord, Leverkusen (51375)",459.900 € 5.145 €/m²,3 Zimmer,"89,4 m²",EG,https://www.immowelt.de/expose/6dbd5d95-3ed1-4a66-84d5-05a44c276871
-"Küppersteg, Leverkusen (51373)",306.000 € 2.833 €/m²,4 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/321b6eb4-f2e0-4202-b354-82199747dc47
-"Bürrig, Leverkusen (51371)",334.000 € 3.795 €/m²,3 Zimmer,88 m²,EG,https://www.immowelt.de/expose/b3b0079f-dc75-4589-9704-ec8cff716e40
-"Von-Ketteler-Straße 79, Bürrig, Leverkusen (51371)",489.900 € 5.322 €/m²,3 Zimmer,"92,1 m²",EG,https://www.immowelt.de/expose/c2d1e1f6-0eae-4358-87b8-ae7bf57584c1
-"Opladen, Leverkusen (51379)",619.000 € 4.359 €/m²,5 Zimmer,142 m²,441 m² Grundstück,https://www.immowelt.de/expose/97144544-eaaa-4838-844d-35ea86ad3755
-"Quettingen, Leverkusen (51381)",230.000 € 2.527 €/m²,3 Zimmer,91 m²,Unknown,https://www.immowelt.de/expose/4e42d584-7962-4e5e-900b-2624b179927b
-"Küppersteg, Leverkusen (51373)",310.000 € 4.079 €/m²,3 Zimmer,76 m²,2. Geschoss,https://www.immowelt.de/expose/f8e577ec-0376-4a08-a93e-773480ecc7c7
-"Bürrig, Leverkusen (51371)",244.900 € 3.870 €/m²,3 Zimmer,"63,3 m²",2. Geschoss,https://www.immowelt.de/expose/81a3b2fc-c899-49d1-9413-84a8ee3bc7b3
-"Holzer Wiesen 13, Quettingen, Leverkusen (51381)",305.000 € 3.352 €/m²,3 Zimmer,91 m²,2. Geschoss,https://www.immowelt.de/expose/dcab5233-72d4-45fe-b15c-d671c7d1e61d
-"Rheindorf, Leverkusen (51371)",620.000 € 2.206 €/m²,11 Zimmer,281 m²,659 m² Grundstück,https://www.immowelt.de/expose/ec164722-5f98-4413-b884-29d494c82df7
-"Schlebusch - Nord, Leverkusen (51375)",695.000 € 1.931 €/m²,360 m²,331 m² Grundstück,Unknown,https://www.immowelt.de/expose/d0e42ae1-5351-49af-8eb3-5ebcedaff727
-"Hitdorf, Leverkusen (51371)",279.000 € 3.720 €/m²,3 Zimmer,"75,2 m²",2. Geschoss,https://www.immowelt.de/expose/12ed016d-3684-4468-9a4f-c074d02d0697
-"Schlebusch - Süd, Leverkusen (51375)",779.000 € 5.625 €/m²,5 Zimmer,"138,5 m²",290 m² Grundstück,https://www.immowelt.de/expose/abd70a25-fa39-48bd-a604-d971849c10c0
-"Opladen, Leverkusen (51379)",275.000 € 3.090 €/m²,3 Zimmer,89 m²,1. Geschoss,https://www.immowelt.de/expose/f6477bd6-a83c-4008-b06c-cba8bb11945d
-"Lützenkirchen, Leverkusen (51381)",425.000 € 3.864 €/m²,5 Zimmer,110 m²,596 m² Grundstück,https://www.immowelt.de/expose/32a0b288-17e3-4963-8a22-d46ff7c54f1b
-"Steinbüchel, Leverkusen (51377)",175.000 € 2.188 €/m²,3 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/485f745b-9459-4559-82ea-e0ca41fd78d3
-"Bürrig, Leverkusen (51371)",295.000 € 1.569 €/m²,9 Zimmer,188 m²,1.075 m² Grundstück,https://www.immowelt.de/expose/43dcf597-db22-423c-b57e-6211be6122d6
-"Lützenkirchen, Leverkusen (51381)",176.000 € 2.286 €/m²,"3,5 Zimmer",77 m²,1. Geschoss,https://www.immowelt.de/expose/3c89197a-d371-45a3-bd0c-ca514068199f
-"Bergisch Neukirchen, Leverkusen / Bergisch Neukirchen (51381)",320.000 € 2.510 €/m²,8 Zimmer,"127,5 m²",355 m² Grundstück,https://www.immowelt.de/expose/2ccd5c4c-5973-4049-b7c5-e562356c11d3
-"Quettingen, Leverkusen (51381)",395.000 € 3.950 €/m²,4 Zimmer,100 m²,1.344 m² Grundstück,https://www.immowelt.de/expose/0fdae277-ecc1-4be0-a107-561ff0c26358
-"Opladen, Leverkusen (51379)",245.000 € 2.663 €/m²,3 Zimmer,92 m²,4. Geschoss,https://www.immowelt.de/expose/c38313eb-6b67-472c-90c4-006d0e5eb355
-"Lützenkirchen, Leverkusen (51381)",339.000 € 2.457 €/m²,5 Zimmer,138 m²,2. Geschoss,https://www.immowelt.de/expose/8086cf84-f912-4512-8e29-b174fcbb9c2c
-"Küppersteg, Leverkusen (51373)",239.000 € 2.481 €/m²,3 Zimmer,"96,3 m²",Unknown,https://www.immowelt.de/expose/5519762b-f359-4cce-bf98-f76f437df563
-"Schlebusch - Nord, Leverkusen (51375)",289.900 € 5.254 €/m²,2 Zimmer,"55,2 m²",1. Geschoss,https://www.immowelt.de/expose/c25b0dee-f464-4877-88c6-b667cd328677
-"Schlebusch - Nord, Leverkusen (51375)",429.900 € 5.185 €/m²,3 Zimmer,"82,9 m²",1. Geschoss,https://www.immowelt.de/expose/51b3f81c-1cb3-45e2-96a8-36857ed92b78
-"Schlebusch - Nord, Leverkusen (51375)",494.900 € 5.232 €/m²,3 Zimmer,"94,6 m²",1. Geschoss,https://www.immowelt.de/expose/8267f8ba-799a-4f90-80c1-5d5f71175090
-"Schlebusch - Nord, Leverkusen (51375)",299.900 € 5.268 €/m²,2 Zimmer,"56,9 m²",2. Geschoss,https://www.immowelt.de/expose/65c65953-b6bc-4de2-a01a-22d767085785
-"Schlebusch - Nord, Leverkusen (51375)",384.900 € 5.247 €/m²,2 Zimmer,"73,4 m²",2. Geschoss,https://www.immowelt.de/expose/5db609e2-16d1-4e2b-a27a-a3ec6a86b944
-"Schlebusch - Nord, Leverkusen (51375)",499.900 € 5.129 €/m²,3 Zimmer,"97,5 m²",2. Geschoss,https://www.immowelt.de/expose/95a3dedf-f0f0-44e4-bca4-2c0b1711cc76
-"Schlebusch - Nord, Leverkusen (51375)",439.900 € 5.217 €/m²,3 Zimmer,"84,3 m²",2. Geschoss,https://www.immowelt.de/expose/0d90f846-3685-4a5e-a8ff-a1588c0b3f13
-"Schlebusch - Nord, Leverkusen (51375)",419.900 € 5.229 €/m²,3 Zimmer,"80,3 m²",EG,https://www.immowelt.de/expose/b39a3aec-9344-4568-af68-a9314aaed798
-"Schlebusch - Nord, Leverkusen (51375)",429.900 € 5.149 €/m²,3 Zimmer,"83,5 m²",EG,https://www.immowelt.de/expose/a71e8a7e-7043-4ef1-8119-a3c9fd27e4b4
-"Wiesdorf - Ost, Leverkusen (51373)",1.250.000 € 4.464 €/m²,7 Zimmer,280 m²,565 m² Grundstück,https://www.immowelt.de/expose/032b5345-1882-41c9-90fe-704da73f6c5f
-"Küppersteg, Leverkusen (51373)",306.000 € 2.833 €/m²,108 m²,Unknown,Unknown,https://www.immowelt.de/expose/ab422f48-74a3-458e-96de-dd9c00f1cc1b
-"Quettingen, Leverkusen (51381)",174.900 € 2.846 €/m²,3 Zimmer,"61,5 m²",1. Geschoss,https://www.immowelt.de/expose/efcc5bee-7e59-42c3-874f-d267aea56267
-"Schlebusch - Nord, Leverkusen (51375)",459.900 € 5.229 €/m²,3 Zimmer,88 m²,1. Geschoss,https://www.immowelt.de/expose/29ae2563-44a1-4d0e-8426-c3ece32fdc39
-"Küppersteg, Leverkusen (51373)",306.000 € 2.833 €/m²,4 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/1d5b62de-2dd7-46f6-8db6-febac88e8ead
-"Schlebusch - Nord, Leverkusen (51375)",359.000 € 3.234 €/m²,"3,5 Zimmer",111 m²,EG,https://www.immowelt.de/expose/b76f469d-7197-43ce-acd6-99f63073092e
-"Manfort, Leverkusen (51377)",580.000 € 3.671 €/m²,5 Zimmer,158 m²,128 m² Grundstück,https://www.immowelt.de/expose/3157a33d-c1d5-454b-a8c8-ae3c7daa972c
-"Schlebusch - Nord, Leverkusen (51375)",425.000 € 3.761 €/m²,3 Zimmer,113 m²,3. Geschoss,https://www.immowelt.de/expose/1171d155-599b-4e40-a5fa-27a8e02ca2d6
-"Schlebusch - Nord, Leverkusen (51375)",195.000 € 4.333 €/m²,2 Zimmer,45 m²,2. Geschoss,https://www.immowelt.de/expose/4b15eba8-a0b7-47d8-b185-25fb37a00ad0
-"Schlebusch - Nord, Leverkusen (51375)",540.000 € 4.000 €/m²,5 Zimmer,135 m²,763 m² Grundstück,https://www.immowelt.de/expose/5ea7db37-e4ab-4576-9271-a19213f00164
-"Schlebusch - Nord, Leverkusen (51375)",550.000 € 3.691 €/m²,"5,5 Zimmer",149 m²,EG,https://www.immowelt.de/expose/f5ecbb4c-96da-481e-8a93-dd4739f6288d
-"Waldsiedlung, Leverkusen (51375)",740.000 € 4.471 €/m²,5 Zimmer,"165,5 m²",386 m² Grundstück,https://www.immowelt.de/expose/d605c449-ccbc-458b-98fc-5b866f3e968b
-"Bürrig, Leverkusen (51371)",689.000 € 4.306 €/m²,6 Zimmer,160 m²,707 m² Grundstück,https://www.immowelt.de/expose/c448cca2-f117-468d-a57c-aed14ddc8bd7
-"Schlebusch - Nord, Leverkusen (51375)",640.000 € 4.638 €/m²,6 Zimmer,138 m²,667 m² Grundstück,https://www.immowelt.de/expose/dd95f6f5-86e4-442a-89ff-63bf781bc207
-"Opladen, Leverkusen-Opladen (51379)",6.189.000 € 3.275 €/m²,1.890 m²,2.043 m² Grundstück,Unknown,https://www.immowelt.de/expose/df27d0be-7540-48db-b220-b9d1149dc63d
-"Steinbüchel, Leverkusen (51377)",349.000 € 3.713 €/m²,4 Zimmer,94 m²,220 m² Grundstück,https://www.immowelt.de/expose/40db27c6-4547-4c2d-8c1d-d796a6d57f5c
-"Lützenkirchen, Leverkusen (51381)",609.000 € 3.383 €/m²,8 Zimmer,180 m²,1.227 m² Grundstück,https://www.immowelt.de/expose/dbde6abd-216f-44b4-b325-8c0ce8d2763e
-"Opladen, Leverkusen (51379)",434.000 € 3.647 €/m²,4 Zimmer,119 m²,Unknown,https://www.immowelt.de/expose/9e9c2b7a-9263-4db8-9413-62cf8ef9cc61
-"Opladen, Leverkusen (51379)",434.000 € 3.647 €/m²,4 Zimmer,119 m²,Unknown,https://www.immowelt.de/expose/d6a391ae-053e-412a-992c-cdc9ee93b386
-"Steinbüchel, Leverkusen (51377)",560.000 € 3.636 €/m²,6 Zimmer,154 m²,1.150 m² Grundstück,https://www.immowelt.de/expose/fd5772c7-f636-46d7-b1fe-4d0ae92ab110
-"Bürrig, Leverkusen (51371)",235.000 € 2.765 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/956cccc0-c32d-4d4c-ba6b-0fe2b1d8ea5f
-"Wiesdorf - Ost, Leverkusen (51373)",149.000 € 1.863 €/m²,3 Zimmer,80 m²,5. Geschoss,https://www.immowelt.de/expose/1cf5b8c8-c45b-4b02-8fa4-bca89970ba19
-"Schlebusch - Süd, Leverkusen (51375)",649.999 € 4.710 €/m²,6 Zimmer,138 m²,611 m² Grundstück,https://www.immowelt.de/expose/aacaedb7-a896-48c2-9c98-2218feb96e4c
-"Steinbüchel, Leverkusen (51377)",529.000 € 2.755 €/m²,6 Zimmer,192 m²,301 m² Grundstück,https://www.immowelt.de/expose/35ac3883-f629-4eba-8197-ea6f79be4687
-"Lützenkirchen, Leverkusen (51381)",295.000 € 3.471 €/m²,4 Zimmer,85 m²,941 m² Grundstück,https://www.immowelt.de/expose/3fce6111-3320-4f92-8bac-8c120984278a
-"Steinbüchel, Leverkusen (51377)",225.000 € 3.214 €/m²,3 Zimmer,70 m²,2. Geschoss,https://www.immowelt.de/expose/de614392-4978-427f-9c32-52b5556aa27d
-"Steinbüchel, Leverkusen (51377)",817.900 € 3.437 €/m²,8 Zimmer,238 m²,644 m² Grundstück,https://www.immowelt.de/expose/ebfe6dd3-e88c-4b43-ab27-b5e20dc47b34
-"Sperberweg 14, Lützenkirchen, Leverkusen (51381)",449.000 € 3.545 €/m²,5 Zimmer,"126,7 m²",421 m² Grundstück,https://www.immowelt.de/expose/0c9756ed-973e-4fab-8d42-8a5e3879e9b6
-"Küppersteg, Leverkusen / Leverkusen-Küppersteg (51373)",260.000 € 3.421 €/m²,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/9cce5a78-8239-4f43-a37f-2a74d93485ef
-"Küppersteg, Leverkusen / Leverkusen-Küppersteg (51373)",260.000 € 3.421 €/m²,3 Zimmer,76 m²,2. Geschoss,https://www.immowelt.de/expose/a24c1bc0-5725-4de9-ab89-091c7ea4223f
-"Rheindorf, Leverkusen (51371)",379.000 € 3.989 €/m²,4 Zimmer,95 m²,368 m² Grundstück,https://www.immowelt.de/expose/fbe7b035-605a-4797-ba62-4df800b6c42a
-"Lützenkirchen, Leverkusen (51381)",519.000 € 4.943 €/m²,5 Zimmer,105 m²,800 m² Grundstück,https://www.immowelt.de/expose/bf9952bb-96b3-4f27-8261-8a5ba375a75e
-"Görlitzer Str. 33, Quettingen, Leverkusen / Quettingen (51381)",199.000 € 2.702 €/m²,3 Zimmer,"73,6 m²",EG,https://www.immowelt.de/expose/bbb27ca9-8be3-4f89-96a3-ef7dfd21b9f9
-"Bürrig, Leverkusen (51371)",835.000 € 1.845 €/m²,18 Zimmer,"452,5 m²",624 m² Grundstück,https://www.immowelt.de/expose/a424fbfb-96c7-4b04-9641-ad64df58b5d5
-"Quettingen, Leverkusen (51381)",230.000 € 2.527 €/m²,91 m²,Unknown,Unknown,https://www.immowelt.de/expose/2cef2882-abcc-4424-b609-d9a001aaa0a1
-"Steinbüchel, Leverkusen (51377)",279.000 € 2.405 €/m²,3 Zimmer,116 m²,3. Geschoss,https://www.immowelt.de/expose/3612edc1-ccea-43a0-9a7c-f487ceafba75
-"Quettingen, Leverkusen (51381)",230.000 € 2.527 €/m²,3 Zimmer,91 m²,Unknown,https://www.immowelt.de/expose/8deeae5b-8756-4a4b-9478-74652c29007c
-"Rheindorf, Leverkusen (51371)",249.000 € 3.192 €/m²,3 Zimmer,78 m²,3. Geschoss,https://www.immowelt.de/expose/305d4b3d-d49e-4e9c-8608-34111f750610
-"Wiesdorf - West, Leverkusen (51373)",285.000 € 3.904 €/m²,4 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/67e0d667-7520-4e44-ac53-7d88af191d3b
-"Sürderstraße 28, Schlebusch - Nord, Leverkusen (51375)",685.400 € 4.425 €/m²,5 Zimmer,"154,9 m²",350 m² Grundstück,https://www.immowelt.de/expose/cc5d6f9d-c7fa-4447-8b2a-9fbeea00db94
-"Bürrig, Leverkusen (51371)",493.000 € 2.739 €/m²,8 Zimmer,180 m²,448 m² Grundstück,https://www.immowelt.de/expose/f0ac9256-7847-4977-b7d4-739bc612f3e4
-"Opladen, Leverkusen (51379)",332.000 € 2.699 €/m²,4 Zimmer,123 m²,4. Geschoss,https://www.immowelt.de/expose/1f42e940-b846-4e1e-bf4b-de8d568c66fc
-"Birkenweg 3, Bergisch Neukirchen, Leverkusen (51381)",179.000 € 2.355 €/m²,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/6a7126e9-5a30-45d5-a269-f91876e62e70
-"Wiesdorf - West, Leverkusen (51373)",3.500.000 € 1.849 €/m²,34 Zimmer,1.893 m²,1.500 m² Grundstück,https://www.immowelt.de/expose/7ad76d00-7f58-40fa-b05f-ae47b0d1adef
-"Humboldtstrasse 64, Opladen, Leverkusen (51379)",1.850.000 € 3.439 €/m²,538 m²,249 m² Grundstück,Unknown,https://www.immowelt.de/expose/9bde17ca-d949-47de-813d-fbaaa519aae8
-"Bürrig, Leverkusen (51371)",299.000 € 3.005 €/m²,4 Zimmer,"99,5 m²",4. Geschoss,https://www.immowelt.de/expose/5d565caf-ab4d-4a70-804e-291092b146a8
-"Bergisch Neukirchen, Leverkusen (51381)",935.000 € 4.119 €/m²,10 Zimmer,227 m²,1.058 m² Grundstück,https://www.immowelt.de/expose/36e88b9c-6959-4730-a2bb-8be22fa5f482
-"Lützenkirchen, Leverkusen (51381)",245.000 € 1.968 €/m²,4 Zimmer,"124,5 m²",Unknown,https://www.immowelt.de/expose/88813090-ca18-453e-9cec-4cfc1053de85
-"Waldsiedlung, Leverkusen (51375)",595.000 € 2.975 €/m²,7 Zimmer,200 m²,762 m² Grundstück,https://www.immowelt.de/expose/a3f59f4a-8440-4234-baaa-f1c7c8122729
-"Hitdorf, Leverkusen (51371)",695.000 € 3.103 €/m²,224 m²,385 m² Grundstück,Unknown,https://www.immowelt.de/expose/3dbc3587-b876-4f2f-9b8f-c3cd3579f430
-Unknown,Unknown,5 Zimmer,"129,7 m²",211 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732
-Unknown,Unknown,6 Zimmer,"171,8 m²",317 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732
-"Quettingen, Leverkusen (51381)",399.000 € 2.733 €/m²,5 Zimmer,146 m²,424 m² Grundstück,https://www.immowelt.de/expose/e1361f75-90bf-4db6-9fc4-cbd138645487
-"Schlebusch - Süd, Leverkusen / Schlebusch (51375)",525.000 € 2.908 €/m²,8 Zimmer,196 m²,995 m² Grundstück,https://www.immowelt.de/expose/69a993cd-a9fa-4cc0-bedd-59f56b04b881
-"Schlebusch - Süd, Leverkusen / Schlebusch (51375)",525.000 € 2.679 €/m²,8 Zimmer,196 m²,995 m² Grundstück,https://www.immowelt.de/expose/128b921c-adf1-43a9-af1f-4c9820a33a22
-"Manfort, Leverkusen (51377)",399.000 € 4.750 €/m²,3 Zimmer,84 m²,809 m² Grundstück,https://www.immowelt.de/expose/d6222052-31df-4390-8bb8-9aeef82c58f9
-"Opladen, Leverkusen (51379)",243.000 € 3.240 €/m²,2 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/95837f23-6071-43ce-9855-8054d9f5d40c
-"Schlebusch - Nord, Leverkusen (51375)",349.500 € 4.369 €/m²,3 Zimmer,80 m²,1. Geschoss,https://www.immowelt.de/expose/5e6124c9-6dd4-4f85-8acc-1763ce4f9104
-"Wiesdorf - West, Leverkusen (51373)",3.495.000 € 2.479 €/m²,57 Zimmer,1.410 m²,2.095 m² Grundstück,https://www.immowelt.de/expose/992c7cf0-4caf-44bd-bc18-09963ea1e890
-"Wiesdorf - West, Leverkusen (51373)",1.495.000 € 2.960 €/m²,15 Zimmer,505 m²,216 m² Grundstück,https://www.immowelt.de/expose/c6d1fea9-ece4-4932-8373-bc68200eed2d
-"Küppersteg, Leverkusen (51373)",410.000 € 2.645 €/m²,6 Zimmer,155 m²,647 m² Grundstück,https://www.immowelt.de/expose/6c44c83a-6501-49e3-a07f-c982c7daa583
-"Schlebusch - Nord, Leverkusen (51375)",289.900 € 5.175 €/m²,2 Zimmer,56 m²,EG,https://www.immowelt.de/expose/cac1d0a5-7362-44e8-8702-849d83c346fb
-"Lützenkirchen, Leverkusen (51381)",325.000 € 2.955 €/m²,4 Zimmer,110 m²,424 m² Grundstück,https://www.immowelt.de/expose/c2bf7fad-ce01-46f9-93e7-9adbb37ad8b1
-"Opladen, Leverkusen-Opladen (51379)",778.000 € 3.125 €/m²,8 Zimmer,249 m²,955 m² Grundstück,https://www.immowelt.de/expose/f73dc4de-2899-43f2-9082-6fa4f8aaee94
-"Opladen, Opladen (51379)",955.900 € 4.306 €/m²,7 Zimmer,222 m²,1.375 m² Grundstück,https://www.immowelt.de/expose/52d66ee4-807b-4b3a-b480-7c00146d011d
-"Schlebusch - Nord, Leverkusen / Schlebusch (51375)",990.000 € 2.097 €/m²,14 Zimmer,472 m²,804 m² Grundstück,https://www.immowelt.de/expose/cddf7de8-1a55-42e1-9777-1aab472c6db4
-"Steinbüchel, Leverkusen (51377)",349.000 € 2.209 €/m²,6 Zimmer,158 m²,337 m² Grundstück,https://www.immowelt.de/expose/a41b2aa4-cbc0-4b34-80dd-4a41fcda8869
-"Bergisch Neukirchen, Leverkusen (51381)",799.900 € 2.454 €/m²,10 Zimmer,326 m²,737 m² Grundstück,https://www.immowelt.de/expose/476ef110-c4a2-43f2-b1b4-0d9d72a05ebf
-"Opladen, Leverkusen (51379)",1.980.000 € 1.221 €/m²,1.621 m²,2.226 m² Grundstück,Unknown,https://www.immowelt.de/expose/bee14dee-edf4-41f5-8911-fb61cc797762
-"Opladen, Leverkusen (51379)",239.000 € 2.951 €/m²,"2,5 Zimmer",81 m²,Unknown,https://www.immowelt.de/expose/7887f3ae-14d9-4e2d-90bc-96c6ad438ac6
-"Opladen, Leverkusen (51379)",239.000 € 2.951 €/m²,"2,5 Zimmer",81 m²,Unknown,https://www.immowelt.de/expose/427f6f09-a30b-4631-a131-6b3fe42d98af
-"Opladen, Leverkusen (51379)",539.000 € 3.171 €/m²,5 Zimmer,170 m²,Unknown,https://www.immowelt.de/expose/e5fc8aa6-5827-4afe-8477-143b1b1a5b6a
-"Schlebusch - Nord, Leverkusen (51375)",394.900 € 5.243 €/m²,3 Zimmer,"75,3 m²",2. Geschoss,https://www.immowelt.de/expose/34b8e7f4-7c24-4f9a-80e2-34429eb48699
-"Schlebusch - Nord, Leverkusen (51375)",494.900 € 5.157 €/m²,3 Zimmer,96 m²,EG,https://www.immowelt.de/expose/418a6877-03a2-43cd-8cdb-f0dd53fd88df
-"Schlebusch - Nord, Leverkusen (51375)",444.900 € 5.107 €/m²,3 Zimmer,"87,1 m²",EG,https://www.immowelt.de/expose/39f851c2-aa93-4489-8b47-90118ab2e6f3
-"Schlebusch - Süd, Leverkusen (51375)",1.490.000 € 3.697 €/m²,8 Zimmer,403 m²,2.191 m² Grundstück,https://www.immowelt.de/expose/371cb2d2-b0e3-4a2a-9a52-dfbf1cd571a2
-"Manfort, Leverkusen (51377)",1.201.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/01bbd338-28df-49a7-8330-fa205ed3d251
-"Wiesdorf - Ost, Leverkusen (51373)",929.000 € 3.026 €/m²,15 Zimmer,307 m²,834 m² Grundstück,https://www.immowelt.de/expose/5b42ce72-6b0d-4980-90e9-09f98ceed237
-"Opladen, Leverkusen (51379)",370.000 € 2.846 €/m²,5 Zimmer,130 m²,1.381 m² Grundstück,https://www.immowelt.de/expose/b1856894-8ee7-480b-8db2-01b4a20f542e
-"Opladen, Leverkusen (51379)",214.000 € 3.194 €/m²,2 Zimmer,67 m²,2. Geschoss,https://www.immowelt.de/expose/b032cf23-ab39-41e0-a0e2-33750b91cff2
-"Wiesdorf - Ost, Leverkusen (51373)",929.000 € 3.026 €/m²,15 Zimmer,307 m²,834 m² Grundstück,https://www.immowelt.de/expose/fc3597d0-2017-4236-a2ba-c27110c4037d
-"Schlebusch - Nord, Leverkusen (51375)",383.000 € 4.118 €/m²,3 Zimmer,93 m²,Unknown,https://www.immowelt.de/expose/68e4613c-9b89-45f0-8099-5847fb8423b4
-"Schlebusch - Süd, Leverkusen (51375)",399.000 € 3.142 €/m²,3 Zimmer,127 m²,2. Geschoss,https://www.immowelt.de/expose/5af6385b-211a-47a6-8279-5f2177fa12e8
-"Wiesdorf - Ost, Leverkusen (51373)",1.180.000 € 6.532 €/m²,5 Zimmer,"180,6 m²",481 m² Grundstück,https://www.immowelt.de/expose/876ac29a-0188-4603-8b0f-3616443c5995
-"Grüner Weg 34, Schlebusch - Nord, Leverkusen (51375)",599.500 € 5.038 €/m²,3 Zimmer,119 m²,EG,https://www.immowelt.de/expose/cdd30654-921a-4da4-bed0-b4eecc4259b3
-"Küppersteg, Leverkusen (51373)",670.000 € 3.190 €/m²,8 Zimmer,210 m²,613 m² Grundstück,https://www.immowelt.de/expose/58c28f7d-33e7-43e1-8cf7-fc743b138b49
-"Bergisch Neukirchen, Leverkusen (51381)",348.000 € 4.971 €/m²,2 Zimmer,70 m²,886 m² Grundstück,https://www.immowelt.de/expose/f3c88988-8920-4062-8d37-39e9a8f20036
-"Bergisch Neukirchen, Leverkusen (51381)",575.000 € 4.021 €/m²,4 Zimmer,143 m²,982 m² Grundstück,https://www.immowelt.de/expose/8d3d532e-c71c-474b-b542-454a12518e99
-"Lützenkirchen, Leverkusen (51381)",639.000 € 4.044 €/m²,7 Zimmer,158 m²,691 m² Grundstück,https://www.immowelt.de/expose/0a55b9fe-4a03-486a-a33e-ff4254838526
-"Schlebusch - Nord, Leverkusen (51375)",595.000 € 2.390 €/m²,6 Zimmer,249 m²,733 m² Grundstück,https://www.immowelt.de/expose/ba488d8a-9c3a-4aad-ad54-a9c8f04490c4
-"Opladen, Leverkusen (51379)",199.000 € 3.205 €/m²,2 Zimmer,"62,1 m²",2. Geschoss,https://www.immowelt.de/expose/e15e5745-e315-43b1-8509-0d6a5475b572
-"Lützenkirchen, Leverkusen (51381)",157.000 € 2.309 €/m²,2 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/9403de85-0979-4c4d-bbf7-600f7bd38b23
-"Lützenkirchen, Leverkusen (51381)",157.000 € 2.309 €/m²,2 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/d4a47f32-2feb-4ef0-a30b-7cc8f5c92c08
-"Steinbüchel, Leverkusen (51377)",569.000 € 4.626 €/m²,4 Zimmer,123 m²,345 m² Grundstück,https://www.immowelt.de/expose/30e9b900-530b-4ce6-9375-e0ca3c55f90d
-"Steinbüchel, Leverkusen (51377)",265.000 € 2.760 €/m²,4 Zimmer,96 m²,5. Geschoss,https://www.immowelt.de/expose/7106c7dd-5b70-44bc-b352-fed516f4c4e4
-"Küppersteg, Leverkusen (51373)",815.000 € 2.629 €/m²,9 Zimmer,310 m²,1.699 m² Grundstück,https://www.immowelt.de/expose/d005fe79-b041-4f9c-ad0f-5555980ee7a4
-"Immenweg 24, Rheindorf, Leverkusen (51371)",639.000 € 3.631 €/m²,6 Zimmer,176 m²,553 m² Grundstück,https://www.immowelt.de/expose/10c8afa4-d495-4d85-ace0-7556b5065941
-"Lützenkirchen, Leverkusen / Lützenkirchen (51381)",206.000 € 2.575 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/dd5ce33f-2da4-4e2e-a182-cb8a31ec210b
-"Lützenkirchen, Leverkusen (51381)",589.000 € 3.636 €/m²,6 Zimmer,162 m²,533 m² Grundstück,https://www.immowelt.de/expose/5a8b712d-9edb-44a1-9c7e-63435fc55e4b
-"Opladen, Leverkusen (51379)",895.000 € 2.667 €/m²,12 Zimmer,"335,6 m²",343 m² Grundstück,https://www.immowelt.de/expose/bec4ff64-ff8c-4350-8fc6-469d07ac4d88
-"Grüner Weg 36, Schlebusch - Nord, Leverkusen (51375)",639.400 € 5.512 €/m²,3 Zimmer,116 m²,EG,https://www.immowelt.de/expose/52c536fb-9422-45d6-8b10-d3ff42349796
-"Grüner Weg 36, Schlebusch - Nord, Leverkusen (51375)",549.800 € 5.138 €/m²,3 Zimmer,107 m²,EG,https://www.immowelt.de/expose/c2d6043e-1f2f-4000-a68a-7f1e5e919dcf
-"Schlebusch - Nord, Leverkusen (51375)",288.500 € 3.629 €/m²,3 Zimmer,"79,5 m²",2. Geschoss,https://www.immowelt.de/expose/9d18b7bb-e189-49a1-8d82-1a11d416e205
-"Bürrig, Leverkusen (51371)",489.900 € 5.210 €/m²,3 Zimmer,"92,1 m²",frei ab sofort,https://www.immowelt.de/expose/3fada4fd-2e49-44df-a906-f21f9af4a128
-"Hitdorf, Leverkusen (51371)",465.000 € 4.387 €/m²,"4,5 Zimmer",106 m²,1. Geschoss,https://www.immowelt.de/expose/cc080e1d-d3b4-4365-95ba-a74541b0fd5a
-"Rheindorf, Leverkusen (51371)",1.980.000 € 2.209 €/m²,"896,3 m²",Unknown,Unknown,https://www.immowelt.de/expose/fcbdc4bf-eff6-42e6-9a4e-01fe6da3feb6
-"Küppersteg, Leverkusen (51373)",414.000 € 5.284 €/m²,"3,5 Zimmer","78,4 m²",2. Geschoss,https://www.immowelt.de/expose/9c210bba-ffe4-416f-b2d6-b97997aff675
-"Küppersteg, Leverkusen (51373)",407.000 € 5.286 €/m²,"3,5 Zimmer",77 m²,2. Geschoss,https://www.immowelt.de/expose/99a1823b-56d8-4d72-a3c2-1173e2ef058e
-"Küppersteg, Leverkusen (51373)",317.000 € 5.252 €/m²,"2,5 Zimmer","60,4 m²",2. Geschoss,https://www.immowelt.de/expose/7acbee2f-aa58-4a1a-8e34-ee8e0531860b
-"Küppersteg, Leverkusen (51373)",414.000 € 5.284 €/m²,"3,5 Zimmer","78,4 m²",1. Geschoss,https://www.immowelt.de/expose/01a1e344-8fcf-4cdb-aad3-ba3ffdc27b92
-"Von-Ketteler-Straße 79, Bürrig, Leverkusen (51371)",489.900 € 5.322 €/m²,3 Zimmer,"92,1 m²",EG,https://www.immowelt.de/expose/d32375b7-4244-48c2-a3f2-3ba74fee8b66
-"Schlebusch - Nord, Leverkusen (51375)",250.000 € 4.167 €/m²,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/7dd027a1-92a2-4d16-96a7-e683873f3785
-"Burscheiderstr, Bergisch Neukirchen, Leverkusen (51381)",140.000 € 2.154 €/m²,2 Zimmer,65 m²,frei ab sofort,https://www.immowelt.de/expose/fc489853-d44b-4db5-bf53-03a864794b66
-"Ringstraße, Hitdorf, Leverkusen (51371)",360.000 € 2.707 €/m²,5 Zimmer,133 m²,580 m² Grundstück,https://www.immowelt.de/expose/dd55f890-29a1-463b-931f-ce5a5efdd8e2
-"Am Heidkamp 11, Lützenkirchen, Leverkusen (51381)",260.000 € 1.667 €/m²,4 Zimmer,156 m²,216 m² Grundstück,https://www.immowelt.de/expose/a38b3f63-fe26-4493-8b56-92dc365f3529
-"Burscheid, Burscheid (51399)",298.000 € 3.041 €/m²,4 Zimmer,98 m²,Unknown,https://www.immowelt.de/expose/6e91f145-afd2-4823-a4b6-6964d2dc83a9
-"Leichlingen, Leichlingen (Rheinland) (42799)",159.000 € 2.944 €/m²,2 Zimmer,54 m²,1. Geschoss,https://www.immowelt.de/expose/1eac5076-604b-4719-be8d-83d94d3c7065
+Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL;city_id
+Rheindorf, Leverkusen (51371),257.000 € 2.920 €/m²,3 Zimmer,88 m²,2. Geschoss,https://www.immowelt.de/expose/224ba6e9-ca9f-4845-94dd-b210e604f406;910
+Schlebusch - Nord, Leverkusen (51375),165.000 € 2.619 €/m²,3 Zimmer,63 m²,2. Geschoss,https://www.immowelt.de/expose/66b75651-d388-49cc-b464-44796e76c3b2;910
+Opladen, Leverkusen (51379),155.000 € 2.279 €/m²,3 Zimmer,68 m²,1. Geschoss,https://www.immowelt.de/expose/2be75ec1-7fc4-4465-8123-49641312c0d8;910
+Lützenkirchen, Leverkusen (51381),111.000 € 1.708 €/m²,2 Zimmer,65 m²,1. Geschoss,https://www.immowelt.de/expose/f924a112-cece-4346-9b41-d86cd8d96315;910
+Feuerbachstraße 64, Steinbüchel, Leverkusen (51377),547.500 € 4.761 €/m²,5 Zimmer,115 m²,175 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732;910
+"Feuerbachstraße 68, Steinbüchel, Leverkusen (51377),678.000 € 4.920 €/m²,5 Zimmer,""137,8 m²"",142 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732";910
+"Feuerbachstraße 70, Steinbüchel, Leverkusen (51377),729.000 € 5.428 €/m²,5 Zimmer,""134,3 m²"",233 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732";910
+Opladen, Leverkusen (51379),489.000 € 2.126 €/m²,9 Zimmer,230 m²,779 m² Grundstück,https://www.immowelt.de/expose/18aec544-228f-4b73-a5f6-d6b44e783ae6;910
+Am Sonnenhang 15, Lützenkirchen, Leverkusen (51381),320.000 € 2.520 €/m²,5 Zimmer,127 m²,3. Geschoss,https://www.immowelt.de/expose/ef25983a-29ea-4224-9ac3-1171cf7fa181;910
+Opladen, Leverkusen / Opladen (51379),1.920.000 € 2.108 €/m²,34 Zimmer,911 m²,390 m² Grundstück,https://www.immowelt.de/expose/4c91eee4-44b3-4993-9fc2-65b578dabb81;910
+Opladen, Leverkusen / Opladen (51379),1.920.000 € 2.108 €/m²,34 Zimmer,911 m²,390 m² Grundstück,https://www.immowelt.de/expose/988eb148-d3b0-48a7-ad96-4cbe153d475f;910
+Bergisch Neukirchen, Leverkusen (51381),230.000 € 2.527 €/m²,3 Zimmer,91 m²,Unknown,https://www.immowelt.de/expose/525b1baf-a228-4b37-af89-3522740d1eb7;910
+Küppersteg, Leverkusen (51373),306.000 € 2.833 €/m²,4 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/c1978dce-ac0b-4f8b-b928-1c1e57d12dc2;910
+Schlebusch - Nord, Leverkusen (51375),549.000 € 2.889 €/m²,9 Zimmer,190 m²,635 m² Grundstück,https://www.immowelt.de/expose/49e13fac-9d5c-4c45-9d88-7c4c13ea8c6d;910
+Steinbüchel, Leverkusen (51377),485.000 € 3.212 €/m²,4 Zimmer,151 m²,557 m² Grundstück,https://www.immowelt.de/expose/ac64a671-4b8f-4026-8995-83524319a42b;910
+Opladen, Leverkusen (51379),598.000 € 2.392 €/m²,5 Zimmer,250 m²,638 m² Grundstück,https://www.immowelt.de/expose/f37806b6-a63b-4d2b-b92a-801f60f8c9d8;910
+Opladen, Leverkusen / Opladen (51379),645.000 € 3.000 €/m²,8 Zimmer,215 m²,761 m² Grundstück,https://www.immowelt.de/expose/6aca78e8-dff9-4ee4-aedf-679c144f7eeb;910
+Opladen, Leverkusen / Opladen (51379),645.000 € 3.000 €/m²,8 Zimmer,215 m²,761 m² Grundstück,https://www.immowelt.de/expose/3949446a-fc53-41c0-8a3b-990d798fdb48;910
+Opladen, Leverkusen / Opladen (51379),645.000 € 3.000 €/m²,8 Zimmer,215 m²,761 m² Grundstück,https://www.immowelt.de/expose/3990d1ed-0fb2-4f41-93dd-2fa1aa400c5f;910
+Küppersteg, Leverkusen (51373),539.000 € 2.962 €/m²,4 Zimmer,182 m²,722 m² Grundstück,https://www.immowelt.de/expose/94514a17-11ba-4289-ac00-af1af976ad0b;910
+Schlebusch - Nord, Leverkusen (51375),419.000 € 4.554 €/m²,4 Zimmer,92 m²,180 m² Grundstück,https://www.immowelt.de/expose/b53cdc21-f8bf-47cc-b191-1df734dcced3;910
+Rheindorf, Leverkusen (51371),315.000 € 3.539 €/m²,3 Zimmer,89 m²,1. Geschoss,https://www.immowelt.de/expose/8c163742-49fe-49f7-9600-db2f48078bbf;910
+Rüttersweg 78, Bürrig, Leverkusen (51371),795.000 € 3.340 €/m²,10 Zimmer,238 m²,735 m² Grundstück,https://www.immowelt.de/expose/3e707a43-d789-475f-a593-3d25dcaadcc4;910
+Opladen, Leverkusen (51379),695.000 € 2.747 €/m²,9 Zimmer,253 m²,283 m² Grundstück,https://www.immowelt.de/expose/86b2add3-56b1-4726-bf20-a58e513d2ab0;910
+Quettingen, Leverkusen (51381),149.000 € 2.759 €/m²,2 Zimmer,54 m²,Unknown,https://www.immowelt.de/expose/39888a84-910b-4ffd-9a25-d3825dffeae5;910
+"Burscheider Str. 352, Bergisch Neukirchen, Leverkusen (51381),418.000 € 3.016 €/m²,4 Zimmer,""138,6 m²"",638 m² Grundstück,https://www.immowelt.de/expose/e2a02175-e6da-41e1-942c-2eed3d929391";910
+Rheindorf, Leverkusen (51371),249.900 € 3.204 €/m²,3 Zimmer,78 m²,2. Geschoss,https://www.immowelt.de/expose/459f7c55-0dcd-4c63-af08-a6f60c15001d;910
+"Steinbüchel, Leverkusen (51377),170.000 € 2.833 €/m²,""2,5 Zimmer"",60 m²,5. Geschoss,https://www.immowelt.de/expose/3296f033-a7d1-4df6-be9f-b297b8903de3";910
+Bergisch Neukirchen, Leverkusen (51381),329.000 € 3.538 €/m²,3 Zimmer,93 m²,Unknown,https://www.immowelt.de/expose/52d779f2-dcea-47ab-b255-a973e6b69562;910
+Lützenkirchen, Leverkusen (51381),111.000 € 1.708 €/m²,2 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/ae3f6d7d-ada2-4c3c-b529-d2130286e325;910
+Küppersteg, Leverkusen-Küppersteg (51373),235.000 € 3.133 €/m²,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/cf1a6e5a-4b69-4601-b275-ea1f9bd7a1c1;910
+"Schopenhauerstraße 30, Steinbüchel, Leverkusen (51377),734.000 € 5.681 €/m²,5 Zimmer,""129,2 m²"",205 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732";910
+Küppersteg, Leverkusen (51373),215.000 € 2.500 €/m²,3 Zimmer,86 m²,3. Geschoss,https://www.immowelt.de/expose/25d8a971-e2a9-4ec8-9479-7ea41f0057e5;910
+Küppersteg, Leverkusen (51373),250.000 € 2.475 €/m²,4 Zimmer,101 m²,2. Geschoss,https://www.immowelt.de/expose/5b6f73ea-e278-48ff-820f-7747ea2852a5;910
+Lützenkirchen, Leverkusen (51381),649.500 € 3.007 €/m²,9 Zimmer,216 m²,672 m² Grundstück,https://www.immowelt.de/expose/70666c36-0fa7-4198-869a-41e2d6be35a7;910
+"Steinbüchel, Leverkusen (51377),214.000 € 2.627 €/m²,3 Zimmer,""81,5 m²"",1. Geschoss,https://www.immowelt.de/expose/5bdca650-5be8-4df4-ae61-7c8c7ef32216";910
+Lützenkirchen, Leverkusen (51381),670.000 € 3.526 €/m²,7 Zimmer,190 m²,670 m² Grundstück,https://www.immowelt.de/expose/3e2bcfc2-f2c9-478f-839f-0bd9a5a9f9e9;910
+Küppersteg, Leverkusen (51373),149.000 € 2.922 €/m²,2 Zimmer,51 m²,Unknown,https://www.immowelt.de/expose/7d02f537-5c8b-481d-a2bb-4b9719db0b39;910
+Lützenkirchen, Leverkusen (51381),189.999 €,3 Zimmer,69 m²,2. Geschoss,https://www.immowelt.de/expose/9bfbcd63-9522-4a60-b670-6b65f6542d41;910
+Steinbüchel, Leverkusen (51377),398.000 € 3.554 €/m²,4 Zimmer,112 m²,407 m² Grundstück,https://www.immowelt.de/expose/4dd4c33f-5f8e-4c1b-bef7-72dc7fef42a3;910
+Opladen, Leverkusen (51379),699.000 € 3.377 €/m²,9 Zimmer,207 m²,382 m² Grundstück,https://www.immowelt.de/expose/19fb9e09-bfc8-4ab6-a9f4-e1c7cef947c3;910
+Manfort, Leverkusen (51377),380.000 € 3.363 €/m²,4 Zimmer,113 m²,147 m² Grundstück,https://www.immowelt.de/expose/979d6bc7-b34b-4ff5-adce-dc292bbda01b;910
+-, Küppersteg, Leverkusen (51373),899.000 € 5.619 €/m²,6 Zimmer,160 m²,230 m² Grundstück,https://www.immowelt.de/expose/4d120f27-101f-4939-bdd8-fa7322fc969b;910
+Schlebusch - Süd, Leverkusen (51375),570.000 € 4.071 €/m²,4 Zimmer,140 m²,Unknown,https://www.immowelt.de/expose/ae8526e2-9285-4bd6-8b11-97f1c930fa6d;910
+Schlebusch - Süd, Leverkusen (51375),1.299.000 € 3.064 €/m²,14 Zimmer,424 m²,590 m² Grundstück,https://www.immowelt.de/expose/99608d03-6c9a-41b2-bdcf-7c06a5e2b031;910
+Pfeilshofstr. 46, Manfort, Leverkusen (51377),1.200.000 € 5.263 €/m²,228 m²,172 m² Grundstück,Unknown,https://www.immowelt.de/expose/ff339eae-7cde-42b0-98a3-021142b8707e;910
+Steinbüchel, Leverkusen (51377),595.000 € 3.967 €/m²,7 Zimmer,150 m²,275 m² Grundstück,https://www.immowelt.de/expose/1ca3f7ee-7519-46cc-bd2f-fa7be497fe32;910
+Quettingen, Leverkusen (51381),198.000 € 2.870 €/m²,3 Zimmer,69 m²,1. Geschoss,https://www.immowelt.de/expose/855ceb0e-5da7-48ce-9435-26d0c4b8107c;910
+Kurt-Schuhmacher-Ring, Steinbüchel, Leverkusen (51377),988.000 € 7.057 €/m²,4 Zimmer,140 m²,709 m² Grundstück,https://www.immowelt.de/expose/26c0ab7b-c290-4b0e-a529-e0b89282fdb2;910
+Hitdorf, Leverkusen (51371),350.000 € 3.333 €/m²,3 Zimmer,105 m²,497 m² Grundstück,https://www.immowelt.de/expose/3d4e98d7-9f65-44f0-a835-820286b62cfa;910
+Schlebusch - Nord, Leverkusen (51375),779.000 € 3.763 €/m²,7 Zimmer,207 m²,407 m² Grundstück,https://www.immowelt.de/expose/32bbe64b-4c5b-4b3b-badd-00ca79ab18b7;910
+Schlebusch - Nord, Leverkusen (51375),765.000 € 3.825 €/m²,8 Zimmer,200 m²,604 m² Grundstück,https://www.immowelt.de/expose/d8291711-b976-4446-9a09-b3d89cd02b04;910
+"Rat-Deycks-Straße 7, Opladen, Leverkusen (51379),141.000 € 2.300 €/m²,3 Zimmer,""61,3 m²"",2. Geschoss,https://www.immowelt.de/expose/bcbbb9ad-c04d-4343-9b90-daa3984b0594";910
+Berliner Straße 163, Steinbüchel, Leverkusen (51377),249.000 € 3.557 €/m²,2 Zimmer,70 m²,400 m² Grundstück,https://www.immowelt.de/expose/7c9b4e81-038d-45ec-bd76-d286deddf52a;910
+Hermann-Nörrenberg-Str. 7, Opladen, Leverkusen (51379),485.000 € 2.608 €/m²,8 Zimmer,186 m²,560 m² Grundstück,https://www.immowelt.de/expose/fa48278a-bd8a-4817-a19f-b61e741b23e1;910
+Wiesdorf - West, Leverkusen / Opladen (51379),1.800.000 € 3.346 €/m²,538 m²,Unknown,Unknown,https://www.immowelt.de/expose/6c79ff41-e892-4d7b-a738-c7f801e1a681;910
+"Manfort, Leverkusen (51377),485.000 € 3.859 €/m²,5 Zimmer,""125,7 m²"",777 m² Grundstück,https://www.immowelt.de/expose/c1df41a0-9381-40f5-95a8-94e1edcac89c";910
+Wiesdorf - West, Leverkusen (51373),175.000 € 1.801 €/m²,3 Zimmer,77 m²,frei ab sofort,https://www.immowelt.de/expose/5317cfd8-3d9f-4e12-afc6-b387dd7156ae;910
+Opladen, Leverkusen (51379),119.000 € 2.902 €/m²,1 Zimmer,41 m²,2. Geschoss,https://www.immowelt.de/expose/cc3e3cb7-f9a2-4a61-9893-d9e2ae96fb66;910
+Manfort, Leverkusen (51377),539.000 € 4.083 €/m²,4 Zimmer,132 m²,178 m² Grundstück,https://www.immowelt.de/expose/ddb232df-13f0-45f3-8d9c-d8ed04c59191;910
+Schlebusch - Nord, Leverkusen (51375),289.900 € 5.177 €/m²,2 Zimmer,56 m²,EG,https://www.immowelt.de/expose/a15a3815-191f-4687-a14c-124c8bf17791;910
+"Schlebusch - Nord, Leverkusen (51375),459.900 € 5.145 €/m²,3 Zimmer,""89,4 m²"",EG,https://www.immowelt.de/expose/6dbd5d95-3ed1-4a66-84d5-05a44c276871";910
+Küppersteg, Leverkusen (51373),306.000 € 2.833 €/m²,4 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/321b6eb4-f2e0-4202-b354-82199747dc47;910
+Bürrig, Leverkusen (51371),334.000 € 3.795 €/m²,3 Zimmer,88 m²,EG,https://www.immowelt.de/expose/b3b0079f-dc75-4589-9704-ec8cff716e40;910
+"Von-Ketteler-Straße 79, Bürrig, Leverkusen (51371),489.900 € 5.322 €/m²,3 Zimmer,""92,1 m²"",EG,https://www.immowelt.de/expose/c2d1e1f6-0eae-4358-87b8-ae7bf57584c1";910
+Opladen, Leverkusen (51379),619.000 € 4.359 €/m²,5 Zimmer,142 m²,441 m² Grundstück,https://www.immowelt.de/expose/97144544-eaaa-4838-844d-35ea86ad3755;910
+Quettingen, Leverkusen (51381),230.000 € 2.527 €/m²,3 Zimmer,91 m²,Unknown,https://www.immowelt.de/expose/4e42d584-7962-4e5e-900b-2624b179927b;910
+Küppersteg, Leverkusen (51373),310.000 € 4.079 €/m²,3 Zimmer,76 m²,2. Geschoss,https://www.immowelt.de/expose/f8e577ec-0376-4a08-a93e-773480ecc7c7;910
+"Bürrig, Leverkusen (51371),244.900 € 3.870 €/m²,3 Zimmer,""63,3 m²"",2. Geschoss,https://www.immowelt.de/expose/81a3b2fc-c899-49d1-9413-84a8ee3bc7b3";910
+Holzer Wiesen 13, Quettingen, Leverkusen (51381),305.000 € 3.352 €/m²,3 Zimmer,91 m²,2. Geschoss,https://www.immowelt.de/expose/dcab5233-72d4-45fe-b15c-d671c7d1e61d;910
+Rheindorf, Leverkusen (51371),620.000 € 2.206 €/m²,11 Zimmer,281 m²,659 m² Grundstück,https://www.immowelt.de/expose/ec164722-5f98-4413-b884-29d494c82df7;910
+Schlebusch - Nord, Leverkusen (51375),695.000 € 1.931 €/m²,360 m²,331 m² Grundstück,Unknown,https://www.immowelt.de/expose/d0e42ae1-5351-49af-8eb3-5ebcedaff727;910
+"Hitdorf, Leverkusen (51371),279.000 € 3.720 €/m²,3 Zimmer,""75,2 m²"",2. Geschoss,https://www.immowelt.de/expose/12ed016d-3684-4468-9a4f-c074d02d0697";910
+"Schlebusch - Süd, Leverkusen (51375),779.000 € 5.625 €/m²,5 Zimmer,""138,5 m²"",290 m² Grundstück,https://www.immowelt.de/expose/abd70a25-fa39-48bd-a604-d971849c10c0";910
+Opladen, Leverkusen (51379),275.000 € 3.090 €/m²,3 Zimmer,89 m²,1. Geschoss,https://www.immowelt.de/expose/f6477bd6-a83c-4008-b06c-cba8bb11945d;910
+Lützenkirchen, Leverkusen (51381),425.000 € 3.864 €/m²,5 Zimmer,110 m²,596 m² Grundstück,https://www.immowelt.de/expose/32a0b288-17e3-4963-8a22-d46ff7c54f1b;910
+Steinbüchel, Leverkusen (51377),175.000 € 2.188 €/m²,3 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/485f745b-9459-4559-82ea-e0ca41fd78d3;910
+Bürrig, Leverkusen (51371),295.000 € 1.569 €/m²,9 Zimmer,188 m²,1.075 m² Grundstück,https://www.immowelt.de/expose/43dcf597-db22-423c-b57e-6211be6122d6;910
+"Lützenkirchen, Leverkusen (51381),176.000 € 2.286 €/m²,""3,5 Zimmer"",77 m²,1. Geschoss,https://www.immowelt.de/expose/3c89197a-d371-45a3-bd0c-ca514068199f";910
+"Bergisch Neukirchen, Leverkusen / Bergisch Neukirchen (51381),320.000 € 2.510 €/m²,8 Zimmer,""127,5 m²"",355 m² Grundstück,https://www.immowelt.de/expose/2ccd5c4c-5973-4049-b7c5-e562356c11d3";910
+Quettingen, Leverkusen (51381),395.000 € 3.950 €/m²,4 Zimmer,100 m²,1.344 m² Grundstück,https://www.immowelt.de/expose/0fdae277-ecc1-4be0-a107-561ff0c26358;910
+Opladen, Leverkusen (51379),245.000 € 2.663 €/m²,3 Zimmer,92 m²,4. Geschoss,https://www.immowelt.de/expose/c38313eb-6b67-472c-90c4-006d0e5eb355;910
+Lützenkirchen, Leverkusen (51381),339.000 € 2.457 €/m²,5 Zimmer,138 m²,2. Geschoss,https://www.immowelt.de/expose/8086cf84-f912-4512-8e29-b174fcbb9c2c;910
+"Küppersteg, Leverkusen (51373),239.000 € 2.481 €/m²,3 Zimmer,""96,3 m²"",Unknown,https://www.immowelt.de/expose/5519762b-f359-4cce-bf98-f76f437df563";910
+"Schlebusch - Nord, Leverkusen (51375),289.900 € 5.254 €/m²,2 Zimmer,""55,2 m²"",1. Geschoss,https://www.immowelt.de/expose/c25b0dee-f464-4877-88c6-b667cd328677";910
+"Schlebusch - Nord, Leverkusen (51375),429.900 € 5.185 €/m²,3 Zimmer,""82,9 m²"",1. Geschoss,https://www.immowelt.de/expose/51b3f81c-1cb3-45e2-96a8-36857ed92b78";910
+"Schlebusch - Nord, Leverkusen (51375),494.900 € 5.232 €/m²,3 Zimmer,""94,6 m²"",1. Geschoss,https://www.immowelt.de/expose/8267f8ba-799a-4f90-80c1-5d5f71175090";910
+"Schlebusch - Nord, Leverkusen (51375),299.900 € 5.268 €/m²,2 Zimmer,""56,9 m²"",2. Geschoss,https://www.immowelt.de/expose/65c65953-b6bc-4de2-a01a-22d767085785";910
+"Schlebusch - Nord, Leverkusen (51375),384.900 € 5.247 €/m²,2 Zimmer,""73,4 m²"",2. Geschoss,https://www.immowelt.de/expose/5db609e2-16d1-4e2b-a27a-a3ec6a86b944";910
+"Schlebusch - Nord, Leverkusen (51375),499.900 € 5.129 €/m²,3 Zimmer,""97,5 m²"",2. Geschoss,https://www.immowelt.de/expose/95a3dedf-f0f0-44e4-bca4-2c0b1711cc76";910
+"Schlebusch - Nord, Leverkusen (51375),439.900 € 5.217 €/m²,3 Zimmer,""84,3 m²"",2. Geschoss,https://www.immowelt.de/expose/0d90f846-3685-4a5e-a8ff-a1588c0b3f13";910
+"Schlebusch - Nord, Leverkusen (51375),419.900 € 5.229 €/m²,3 Zimmer,""80,3 m²"",EG,https://www.immowelt.de/expose/b39a3aec-9344-4568-af68-a9314aaed798";910
+"Schlebusch - Nord, Leverkusen (51375),429.900 € 5.149 €/m²,3 Zimmer,""83,5 m²"",EG,https://www.immowelt.de/expose/a71e8a7e-7043-4ef1-8119-a3c9fd27e4b4";910
+Wiesdorf - Ost, Leverkusen (51373),1.250.000 € 4.464 €/m²,7 Zimmer,280 m²,565 m² Grundstück,https://www.immowelt.de/expose/032b5345-1882-41c9-90fe-704da73f6c5f;910
+Küppersteg, Leverkusen (51373),306.000 € 2.833 €/m²,108 m²,Unknown,Unknown,https://www.immowelt.de/expose/ab422f48-74a3-458e-96de-dd9c00f1cc1b;910
+"Quettingen, Leverkusen (51381),174.900 € 2.846 €/m²,3 Zimmer,""61,5 m²"",1. Geschoss,https://www.immowelt.de/expose/efcc5bee-7e59-42c3-874f-d267aea56267";910
+Schlebusch - Nord, Leverkusen (51375),459.900 € 5.229 €/m²,3 Zimmer,88 m²,1. Geschoss,https://www.immowelt.de/expose/29ae2563-44a1-4d0e-8426-c3ece32fdc39;910
+Küppersteg, Leverkusen (51373),306.000 € 2.833 €/m²,4 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/1d5b62de-2dd7-46f6-8db6-febac88e8ead;910
+"Schlebusch - Nord, Leverkusen (51375),359.000 € 3.234 €/m²,""3,5 Zimmer"",111 m²,EG,https://www.immowelt.de/expose/b76f469d-7197-43ce-acd6-99f63073092e";910
+Manfort, Leverkusen (51377),580.000 € 3.671 €/m²,5 Zimmer,158 m²,128 m² Grundstück,https://www.immowelt.de/expose/3157a33d-c1d5-454b-a8c8-ae3c7daa972c;910
+Schlebusch - Nord, Leverkusen (51375),425.000 € 3.761 €/m²,3 Zimmer,113 m²,3. Geschoss,https://www.immowelt.de/expose/1171d155-599b-4e40-a5fa-27a8e02ca2d6;910
+Schlebusch - Nord, Leverkusen (51375),195.000 € 4.333 €/m²,2 Zimmer,45 m²,2. Geschoss,https://www.immowelt.de/expose/4b15eba8-a0b7-47d8-b185-25fb37a00ad0;910
+Schlebusch - Nord, Leverkusen (51375),540.000 € 4.000 €/m²,5 Zimmer,135 m²,763 m² Grundstück,https://www.immowelt.de/expose/5ea7db37-e4ab-4576-9271-a19213f00164;910
+"Schlebusch - Nord, Leverkusen (51375),550.000 € 3.691 €/m²,""5,5 Zimmer"",149 m²,EG,https://www.immowelt.de/expose/f5ecbb4c-96da-481e-8a93-dd4739f6288d";910
+"Waldsiedlung, Leverkusen (51375),740.000 € 4.471 €/m²,5 Zimmer,""165,5 m²"",386 m² Grundstück,https://www.immowelt.de/expose/d605c449-ccbc-458b-98fc-5b866f3e968b";910
+Bürrig, Leverkusen (51371),689.000 € 4.306 €/m²,6 Zimmer,160 m²,707 m² Grundstück,https://www.immowelt.de/expose/c448cca2-f117-468d-a57c-aed14ddc8bd7;910
+Schlebusch - Nord, Leverkusen (51375),640.000 € 4.638 €/m²,6 Zimmer,138 m²,667 m² Grundstück,https://www.immowelt.de/expose/dd95f6f5-86e4-442a-89ff-63bf781bc207;910
+Opladen, Leverkusen-Opladen (51379),6.189.000 € 3.275 €/m²,1.890 m²,2.043 m² Grundstück,Unknown,https://www.immowelt.de/expose/df27d0be-7540-48db-b220-b9d1149dc63d;910
+Steinbüchel, Leverkusen (51377),349.000 € 3.713 €/m²,4 Zimmer,94 m²,220 m² Grundstück,https://www.immowelt.de/expose/40db27c6-4547-4c2d-8c1d-d796a6d57f5c;910
+Lützenkirchen, Leverkusen (51381),609.000 € 3.383 €/m²,8 Zimmer,180 m²,1.227 m² Grundstück,https://www.immowelt.de/expose/dbde6abd-216f-44b4-b325-8c0ce8d2763e;910
+Opladen, Leverkusen (51379),434.000 € 3.647 €/m²,4 Zimmer,119 m²,Unknown,https://www.immowelt.de/expose/9e9c2b7a-9263-4db8-9413-62cf8ef9cc61;910
+Opladen, Leverkusen (51379),434.000 € 3.647 €/m²,4 Zimmer,119 m²,Unknown,https://www.immowelt.de/expose/d6a391ae-053e-412a-992c-cdc9ee93b386;910
+Steinbüchel, Leverkusen (51377),560.000 € 3.636 €/m²,6 Zimmer,154 m²,1.150 m² Grundstück,https://www.immowelt.de/expose/fd5772c7-f636-46d7-b1fe-4d0ae92ab110;910
+Bürrig, Leverkusen (51371),235.000 € 2.765 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/956cccc0-c32d-4d4c-ba6b-0fe2b1d8ea5f;910
+Wiesdorf - Ost, Leverkusen (51373),149.000 € 1.863 €/m²,3 Zimmer,80 m²,5. Geschoss,https://www.immowelt.de/expose/1cf5b8c8-c45b-4b02-8fa4-bca89970ba19;910
+Schlebusch - Süd, Leverkusen (51375),649.999 € 4.710 €/m²,6 Zimmer,138 m²,611 m² Grundstück,https://www.immowelt.de/expose/aacaedb7-a896-48c2-9c98-2218feb96e4c;910
+Steinbüchel, Leverkusen (51377),529.000 € 2.755 €/m²,6 Zimmer,192 m²,301 m² Grundstück,https://www.immowelt.de/expose/35ac3883-f629-4eba-8197-ea6f79be4687;910
+Lützenkirchen, Leverkusen (51381),295.000 € 3.471 €/m²,4 Zimmer,85 m²,941 m² Grundstück,https://www.immowelt.de/expose/3fce6111-3320-4f92-8bac-8c120984278a;910
+Steinbüchel, Leverkusen (51377),225.000 € 3.214 €/m²,3 Zimmer,70 m²,2. Geschoss,https://www.immowelt.de/expose/de614392-4978-427f-9c32-52b5556aa27d;910
+Steinbüchel, Leverkusen (51377),817.900 € 3.437 €/m²,8 Zimmer,238 m²,644 m² Grundstück,https://www.immowelt.de/expose/ebfe6dd3-e88c-4b43-ab27-b5e20dc47b34;910
+"Sperberweg 14, Lützenkirchen, Leverkusen (51381),449.000 € 3.545 €/m²,5 Zimmer,""126,7 m²"",421 m² Grundstück,https://www.immowelt.de/expose/0c9756ed-973e-4fab-8d42-8a5e3879e9b6";910
+Küppersteg, Leverkusen / Leverkusen-Küppersteg (51373),260.000 € 3.421 €/m²,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/9cce5a78-8239-4f43-a37f-2a74d93485ef;910
+Küppersteg, Leverkusen / Leverkusen-Küppersteg (51373),260.000 € 3.421 €/m²,3 Zimmer,76 m²,2. Geschoss,https://www.immowelt.de/expose/a24c1bc0-5725-4de9-ab89-091c7ea4223f;910
+Rheindorf, Leverkusen (51371),379.000 € 3.989 €/m²,4 Zimmer,95 m²,368 m² Grundstück,https://www.immowelt.de/expose/fbe7b035-605a-4797-ba62-4df800b6c42a;910
+Lützenkirchen, Leverkusen (51381),519.000 € 4.943 €/m²,5 Zimmer,105 m²,800 m² Grundstück,https://www.immowelt.de/expose/bf9952bb-96b3-4f27-8261-8a5ba375a75e;910
+"Görlitzer Str. 33, Quettingen, Leverkusen / Quettingen (51381),199.000 € 2.702 €/m²,3 Zimmer,""73,6 m²"",EG,https://www.immowelt.de/expose/bbb27ca9-8be3-4f89-96a3-ef7dfd21b9f9";910
+"Bürrig, Leverkusen (51371),835.000 € 1.845 €/m²,18 Zimmer,""452,5 m²"",624 m² Grundstück,https://www.immowelt.de/expose/a424fbfb-96c7-4b04-9641-ad64df58b5d5";910
+Quettingen, Leverkusen (51381),230.000 € 2.527 €/m²,91 m²,Unknown,Unknown,https://www.immowelt.de/expose/2cef2882-abcc-4424-b609-d9a001aaa0a1;910
+Steinbüchel, Leverkusen (51377),279.000 € 2.405 €/m²,3 Zimmer,116 m²,3. Geschoss,https://www.immowelt.de/expose/3612edc1-ccea-43a0-9a7c-f487ceafba75;910
+Quettingen, Leverkusen (51381),230.000 € 2.527 €/m²,3 Zimmer,91 m²,Unknown,https://www.immowelt.de/expose/8deeae5b-8756-4a4b-9478-74652c29007c;910
+Rheindorf, Leverkusen (51371),249.000 € 3.192 €/m²,3 Zimmer,78 m²,3. Geschoss,https://www.immowelt.de/expose/305d4b3d-d49e-4e9c-8608-34111f750610;910
+Wiesdorf - West, Leverkusen (51373),285.000 € 3.904 €/m²,4 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/67e0d667-7520-4e44-ac53-7d88af191d3b;910
+"Sürderstraße 28, Schlebusch - Nord, Leverkusen (51375),685.400 € 4.425 €/m²,5 Zimmer,""154,9 m²"",350 m² Grundstück,https://www.immowelt.de/expose/cc5d6f9d-c7fa-4447-8b2a-9fbeea00db94";910
+Bürrig, Leverkusen (51371),493.000 € 2.739 €/m²,8 Zimmer,180 m²,448 m² Grundstück,https://www.immowelt.de/expose/f0ac9256-7847-4977-b7d4-739bc612f3e4;910
+Opladen, Leverkusen (51379),332.000 € 2.699 €/m²,4 Zimmer,123 m²,4. Geschoss,https://www.immowelt.de/expose/1f42e940-b846-4e1e-bf4b-de8d568c66fc;910
+Birkenweg 3, Bergisch Neukirchen, Leverkusen (51381),179.000 € 2.355 €/m²,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/6a7126e9-5a30-45d5-a269-f91876e62e70;910
+Wiesdorf - West, Leverkusen (51373),3.500.000 € 1.849 €/m²,34 Zimmer,1.893 m²,1.500 m² Grundstück,https://www.immowelt.de/expose/7ad76d00-7f58-40fa-b05f-ae47b0d1adef;910
+Humboldtstrasse 64, Opladen, Leverkusen (51379),1.850.000 € 3.439 €/m²,538 m²,249 m² Grundstück,Unknown,https://www.immowelt.de/expose/9bde17ca-d949-47de-813d-fbaaa519aae8;910
+"Bürrig, Leverkusen (51371),299.000 € 3.005 €/m²,4 Zimmer,""99,5 m²"",4. Geschoss,https://www.immowelt.de/expose/5d565caf-ab4d-4a70-804e-291092b146a8";910
+Bergisch Neukirchen, Leverkusen (51381),935.000 € 4.119 €/m²,10 Zimmer,227 m²,1.058 m² Grundstück,https://www.immowelt.de/expose/36e88b9c-6959-4730-a2bb-8be22fa5f482;910
+"Lützenkirchen, Leverkusen (51381),245.000 € 1.968 €/m²,4 Zimmer,""124,5 m²"",Unknown,https://www.immowelt.de/expose/88813090-ca18-453e-9cec-4cfc1053de85";910
+Waldsiedlung, Leverkusen (51375),595.000 € 2.975 €/m²,7 Zimmer,200 m²,762 m² Grundstück,https://www.immowelt.de/expose/a3f59f4a-8440-4234-baaa-f1c7c8122729;910
+Hitdorf, Leverkusen (51371),695.000 € 3.103 €/m²,224 m²,385 m² Grundstück,Unknown,https://www.immowelt.de/expose/3dbc3587-b876-4f2f-9b8f-c3cd3579f430;910
+"Unknown,Unknown,5 Zimmer,""129,7 m²"",211 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732";910
+"Unknown,Unknown,6 Zimmer,""171,8 m²"",317 m² Grundstück,https://www.immowelt.de/projekte/expose/k2sf732";910
+Quettingen, Leverkusen (51381),399.000 € 2.733 €/m²,5 Zimmer,146 m²,424 m² Grundstück,https://www.immowelt.de/expose/e1361f75-90bf-4db6-9fc4-cbd138645487;910
+Schlebusch - Süd, Leverkusen / Schlebusch (51375),525.000 € 2.908 €/m²,8 Zimmer,196 m²,995 m² Grundstück,https://www.immowelt.de/expose/69a993cd-a9fa-4cc0-bedd-59f56b04b881;910
+Schlebusch - Süd, Leverkusen / Schlebusch (51375),525.000 € 2.679 €/m²,8 Zimmer,196 m²,995 m² Grundstück,https://www.immowelt.de/expose/128b921c-adf1-43a9-af1f-4c9820a33a22;910
+Manfort, Leverkusen (51377),399.000 € 4.750 €/m²,3 Zimmer,84 m²,809 m² Grundstück,https://www.immowelt.de/expose/d6222052-31df-4390-8bb8-9aeef82c58f9;910
+Opladen, Leverkusen (51379),243.000 € 3.240 €/m²,2 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/95837f23-6071-43ce-9855-8054d9f5d40c;910
+Schlebusch - Nord, Leverkusen (51375),349.500 € 4.369 €/m²,3 Zimmer,80 m²,1. Geschoss,https://www.immowelt.de/expose/5e6124c9-6dd4-4f85-8acc-1763ce4f9104;910
+Wiesdorf - West, Leverkusen (51373),3.495.000 € 2.479 €/m²,57 Zimmer,1.410 m²,2.095 m² Grundstück,https://www.immowelt.de/expose/992c7cf0-4caf-44bd-bc18-09963ea1e890;910
+Wiesdorf - West, Leverkusen (51373),1.495.000 € 2.960 €/m²,15 Zimmer,505 m²,216 m² Grundstück,https://www.immowelt.de/expose/c6d1fea9-ece4-4932-8373-bc68200eed2d;910
+Küppersteg, Leverkusen (51373),410.000 € 2.645 €/m²,6 Zimmer,155 m²,647 m² Grundstück,https://www.immowelt.de/expose/6c44c83a-6501-49e3-a07f-c982c7daa583;910
+Schlebusch - Nord, Leverkusen (51375),289.900 € 5.175 €/m²,2 Zimmer,56 m²,EG,https://www.immowelt.de/expose/cac1d0a5-7362-44e8-8702-849d83c346fb;910
+Lützenkirchen, Leverkusen (51381),325.000 € 2.955 €/m²,4 Zimmer,110 m²,424 m² Grundstück,https://www.immowelt.de/expose/c2bf7fad-ce01-46f9-93e7-9adbb37ad8b1;910
+Opladen, Leverkusen-Opladen (51379),778.000 € 3.125 €/m²,8 Zimmer,249 m²,955 m² Grundstück,https://www.immowelt.de/expose/f73dc4de-2899-43f2-9082-6fa4f8aaee94;910
+Opladen, Opladen (51379),955.900 € 4.306 €/m²,7 Zimmer,222 m²,1.375 m² Grundstück,https://www.immowelt.de/expose/52d66ee4-807b-4b3a-b480-7c00146d011d;910
+Schlebusch - Nord, Leverkusen / Schlebusch (51375),990.000 € 2.097 €/m²,14 Zimmer,472 m²,804 m² Grundstück,https://www.immowelt.de/expose/cddf7de8-1a55-42e1-9777-1aab472c6db4;910
+Steinbüchel, Leverkusen (51377),349.000 € 2.209 €/m²,6 Zimmer,158 m²,337 m² Grundstück,https://www.immowelt.de/expose/a41b2aa4-cbc0-4b34-80dd-4a41fcda8869;910
+Bergisch Neukirchen, Leverkusen (51381),799.900 € 2.454 €/m²,10 Zimmer,326 m²,737 m² Grundstück,https://www.immowelt.de/expose/476ef110-c4a2-43f2-b1b4-0d9d72a05ebf;910
+Opladen, Leverkusen (51379),1.980.000 € 1.221 €/m²,1.621 m²,2.226 m² Grundstück,Unknown,https://www.immowelt.de/expose/bee14dee-edf4-41f5-8911-fb61cc797762;910
+"Opladen, Leverkusen (51379),239.000 € 2.951 €/m²,""2,5 Zimmer"",81 m²,Unknown,https://www.immowelt.de/expose/7887f3ae-14d9-4e2d-90bc-96c6ad438ac6";910
+"Opladen, Leverkusen (51379),239.000 € 2.951 €/m²,""2,5 Zimmer"",81 m²,Unknown,https://www.immowelt.de/expose/427f6f09-a30b-4631-a131-6b3fe42d98af";910
+Opladen, Leverkusen (51379),539.000 € 3.171 €/m²,5 Zimmer,170 m²,Unknown,https://www.immowelt.de/expose/e5fc8aa6-5827-4afe-8477-143b1b1a5b6a;910
+"Schlebusch - Nord, Leverkusen (51375),394.900 € 5.243 €/m²,3 Zimmer,""75,3 m²"",2. Geschoss,https://www.immowelt.de/expose/34b8e7f4-7c24-4f9a-80e2-34429eb48699";910
+Schlebusch - Nord, Leverkusen (51375),494.900 € 5.157 €/m²,3 Zimmer,96 m²,EG,https://www.immowelt.de/expose/418a6877-03a2-43cd-8cdb-f0dd53fd88df;910
+"Schlebusch - Nord, Leverkusen (51375),444.900 € 5.107 €/m²,3 Zimmer,""87,1 m²"",EG,https://www.immowelt.de/expose/39f851c2-aa93-4489-8b47-90118ab2e6f3";910
+Schlebusch - Süd, Leverkusen (51375),1.490.000 € 3.697 €/m²,8 Zimmer,403 m²,2.191 m² Grundstück,https://www.immowelt.de/expose/371cb2d2-b0e3-4a2a-9a52-dfbf1cd571a2;910
+Manfort, Leverkusen (51377),1.201.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/01bbd338-28df-49a7-8330-fa205ed3d251;910
+Wiesdorf - Ost, Leverkusen (51373),929.000 € 3.026 €/m²,15 Zimmer,307 m²,834 m² Grundstück,https://www.immowelt.de/expose/5b42ce72-6b0d-4980-90e9-09f98ceed237;910
+Opladen, Leverkusen (51379),370.000 € 2.846 €/m²,5 Zimmer,130 m²,1.381 m² Grundstück,https://www.immowelt.de/expose/b1856894-8ee7-480b-8db2-01b4a20f542e;910
+Opladen, Leverkusen (51379),214.000 € 3.194 €/m²,2 Zimmer,67 m²,2. Geschoss,https://www.immowelt.de/expose/b032cf23-ab39-41e0-a0e2-33750b91cff2;910
+Wiesdorf - Ost, Leverkusen (51373),929.000 € 3.026 €/m²,15 Zimmer,307 m²,834 m² Grundstück,https://www.immowelt.de/expose/fc3597d0-2017-4236-a2ba-c27110c4037d;910
+Schlebusch - Nord, Leverkusen (51375),383.000 € 4.118 €/m²,3 Zimmer,93 m²,Unknown,https://www.immowelt.de/expose/68e4613c-9b89-45f0-8099-5847fb8423b4;910
+Schlebusch - Süd, Leverkusen (51375),399.000 € 3.142 €/m²,3 Zimmer,127 m²,2. Geschoss,https://www.immowelt.de/expose/5af6385b-211a-47a6-8279-5f2177fa12e8;910
+"Wiesdorf - Ost, Leverkusen (51373),1.180.000 € 6.532 €/m²,5 Zimmer,""180,6 m²"",481 m² Grundstück,https://www.immowelt.de/expose/876ac29a-0188-4603-8b0f-3616443c5995";910
+Grüner Weg 34, Schlebusch - Nord, Leverkusen (51375),599.500 € 5.038 €/m²,3 Zimmer,119 m²,EG,https://www.immowelt.de/expose/cdd30654-921a-4da4-bed0-b4eecc4259b3;910
+Küppersteg, Leverkusen (51373),670.000 € 3.190 €/m²,8 Zimmer,210 m²,613 m² Grundstück,https://www.immowelt.de/expose/58c28f7d-33e7-43e1-8cf7-fc743b138b49;910
+Bergisch Neukirchen, Leverkusen (51381),348.000 € 4.971 €/m²,2 Zimmer,70 m²,886 m² Grundstück,https://www.immowelt.de/expose/f3c88988-8920-4062-8d37-39e9a8f20036;910
+Bergisch Neukirchen, Leverkusen (51381),575.000 € 4.021 €/m²,4 Zimmer,143 m²,982 m² Grundstück,https://www.immowelt.de/expose/8d3d532e-c71c-474b-b542-454a12518e99;910
+Lützenkirchen, Leverkusen (51381),639.000 € 4.044 €/m²,7 Zimmer,158 m²,691 m² Grundstück,https://www.immowelt.de/expose/0a55b9fe-4a03-486a-a33e-ff4254838526;910
+Schlebusch - Nord, Leverkusen (51375),595.000 € 2.390 €/m²,6 Zimmer,249 m²,733 m² Grundstück,https://www.immowelt.de/expose/ba488d8a-9c3a-4aad-ad54-a9c8f04490c4;910
+"Opladen, Leverkusen (51379),199.000 € 3.205 €/m²,2 Zimmer,""62,1 m²"",2. Geschoss,https://www.immowelt.de/expose/e15e5745-e315-43b1-8509-0d6a5475b572";910
+Lützenkirchen, Leverkusen (51381),157.000 € 2.309 €/m²,2 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/9403de85-0979-4c4d-bbf7-600f7bd38b23;910
+Lützenkirchen, Leverkusen (51381),157.000 € 2.309 €/m²,2 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/d4a47f32-2feb-4ef0-a30b-7cc8f5c92c08;910
+Steinbüchel, Leverkusen (51377),569.000 € 4.626 €/m²,4 Zimmer,123 m²,345 m² Grundstück,https://www.immowelt.de/expose/30e9b900-530b-4ce6-9375-e0ca3c55f90d;910
+Steinbüchel, Leverkusen (51377),265.000 € 2.760 €/m²,4 Zimmer,96 m²,5. Geschoss,https://www.immowelt.de/expose/7106c7dd-5b70-44bc-b352-fed516f4c4e4;910
+Küppersteg, Leverkusen (51373),815.000 € 2.629 €/m²,9 Zimmer,310 m²,1.699 m² Grundstück,https://www.immowelt.de/expose/d005fe79-b041-4f9c-ad0f-5555980ee7a4;910
+Immenweg 24, Rheindorf, Leverkusen (51371),639.000 € 3.631 €/m²,6 Zimmer,176 m²,553 m² Grundstück,https://www.immowelt.de/expose/10c8afa4-d495-4d85-ace0-7556b5065941;910
+Lützenkirchen, Leverkusen / Lützenkirchen (51381),206.000 € 2.575 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/dd5ce33f-2da4-4e2e-a182-cb8a31ec210b;910
+Lützenkirchen, Leverkusen (51381),589.000 € 3.636 €/m²,6 Zimmer,162 m²,533 m² Grundstück,https://www.immowelt.de/expose/5a8b712d-9edb-44a1-9c7e-63435fc55e4b;910
+"Opladen, Leverkusen (51379),895.000 € 2.667 €/m²,12 Zimmer,""335,6 m²"",343 m² Grundstück,https://www.immowelt.de/expose/bec4ff64-ff8c-4350-8fc6-469d07ac4d88";910
+Grüner Weg 36, Schlebusch - Nord, Leverkusen (51375),639.400 € 5.512 €/m²,3 Zimmer,116 m²,EG,https://www.immowelt.de/expose/52c536fb-9422-45d6-8b10-d3ff42349796;910
+Grüner Weg 36, Schlebusch - Nord, Leverkusen (51375),549.800 € 5.138 €/m²,3 Zimmer,107 m²,EG,https://www.immowelt.de/expose/c2d6043e-1f2f-4000-a68a-7f1e5e919dcf;910
+"Schlebusch - Nord, Leverkusen (51375),288.500 € 3.629 €/m²,3 Zimmer,""79,5 m²"",2. Geschoss,https://www.immowelt.de/expose/9d18b7bb-e189-49a1-8d82-1a11d416e205";910
+"Bürrig, Leverkusen (51371),489.900 € 5.210 €/m²,3 Zimmer,""92,1 m²"",frei ab sofort,https://www.immowelt.de/expose/3fada4fd-2e49-44df-a906-f21f9af4a128";910
+"Hitdorf, Leverkusen (51371),465.000 € 4.387 €/m²,""4,5 Zimmer"",106 m²,1. Geschoss,https://www.immowelt.de/expose/cc080e1d-d3b4-4365-95ba-a74541b0fd5a";910
+"Rheindorf, Leverkusen (51371),1.980.000 € 2.209 €/m²,""896,3 m²"",Unknown,Unknown,https://www.immowelt.de/expose/fcbdc4bf-eff6-42e6-9a4e-01fe6da3feb6";910
+"Küppersteg, Leverkusen (51373),414.000 € 5.284 €/m²,""3,5 Zimmer"",""78,4 m²"",2. Geschoss,https://www.immowelt.de/expose/9c210bba-ffe4-416f-b2d6-b97997aff675";910
+"Küppersteg, Leverkusen (51373),407.000 € 5.286 €/m²,""3,5 Zimmer"",77 m²,2. Geschoss,https://www.immowelt.de/expose/99a1823b-56d8-4d72-a3c2-1173e2ef058e";910
+"Küppersteg, Leverkusen (51373),317.000 € 5.252 €/m²,""2,5 Zimmer"",""60,4 m²"",2. Geschoss,https://www.immowelt.de/expose/7acbee2f-aa58-4a1a-8e34-ee8e0531860b";910
+"Küppersteg, Leverkusen (51373),414.000 € 5.284 €/m²,""3,5 Zimmer"",""78,4 m²"",1. Geschoss,https://www.immowelt.de/expose/01a1e344-8fcf-4cdb-aad3-ba3ffdc27b92";910
+"Von-Ketteler-Straße 79, Bürrig, Leverkusen (51371),489.900 € 5.322 €/m²,3 Zimmer,""92,1 m²"",EG,https://www.immowelt.de/expose/d32375b7-4244-48c2-a3f2-3ba74fee8b66";910
+"Schlebusch - Nord, Leverkusen (51375),250.000 € 4.167 €/m²,""1,5 Zimmer"",60 m²,frei ab sofort,https://www.immowelt.de/expose/7dd027a1-92a2-4d16-96a7-e683873f3785";910
+Burscheiderstr, Bergisch Neukirchen, Leverkusen (51381),140.000 € 2.154 €/m²,2 Zimmer,65 m²,frei ab sofort,https://www.immowelt.de/expose/fc489853-d44b-4db5-bf53-03a864794b66;910
+Ringstraße, Hitdorf, Leverkusen (51371),360.000 € 2.707 €/m²,5 Zimmer,133 m²,580 m² Grundstück,https://www.immowelt.de/expose/dd55f890-29a1-463b-931f-ce5a5efdd8e2;910
+Am Heidkamp 11, Lützenkirchen, Leverkusen (51381),260.000 € 1.667 €/m²,4 Zimmer,156 m²,216 m² Grundstück,https://www.immowelt.de/expose/a38b3f63-fe26-4493-8b56-92dc365f3529;910
+Burscheid, Burscheid (51399),298.000 € 3.041 €/m²,4 Zimmer,98 m²,Unknown,https://www.immowelt.de/expose/6e91f145-afd2-4823-a4b6-6964d2dc83a9;910
+Leichlingen, Leichlingen (Rheinland) (42799),159.000 € 2.944 €/m²,2 Zimmer,54 m²,1. Geschoss,https://www.immowelt.de/expose/1eac5076-604b-4719-be8d-83d94d3c7065;910

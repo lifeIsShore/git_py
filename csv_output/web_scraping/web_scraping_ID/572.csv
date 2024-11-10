@@ -1,61 +1,61 @@
-﻿Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL
-"Altstadt, Wismar (23966)",Preis auf Anfrage,4 Zimmer,153 m²,1.980 m² Grundstück,https://www.immowelt.de/expose/f400c3f3-d89d-4a06-8e94-c11dfa72f3a8
-"Altstadt, Wismar (23966)",329.000 € 6.826 €/m²,2 Zimmer,"48,2 m²",3. Geschoss,https://www.immowelt.de/expose/b0174b27-5b21-4245-a608-aa54f906df75
-"Altstadt, Wismar (23966)",134.000 € 2.851 €/m²,2 Zimmer,47 m²,Unknown,https://www.immowelt.de/expose/a9c56371-adcf-4bfb-9f19-d98a18f9d894
-"Dorfstrasse 8, Ost / Kagenmarkt, Goldebee (23970)",149.000 € 1.833 €/m²,4 Zimmer,120 m²,643 m² Grundstück,https://www.immowelt.de/expose/7d9e3cd3-2ced-4186-be4a-13ca207ab33b
-"Süd / Wismar Süd, Wismar (23970)",249.000 € 2.349 €/m²,5 Zimmer,106 m²,545 m² Grundstück,https://www.immowelt.de/expose/a889b9c4-2bcf-4cb3-8c11-70762807a055
-"Breite Straße 36, Altstadt, Wismar (23966)",215.000 € 827 €/m²,260 m²,150 m² Grundstück,Unknown,https://www.immowelt.de/expose/6d7a09c0-222a-4785-a162-cf1540ee2767
-"Altstadt, Wismar (23966)",1.850.000 € 5.316 €/m²,12 Zimmer,348 m²,411 m² Grundstück,https://www.immowelt.de/expose/2a6de5dc-5f7f-4a93-a5bd-1082a8f4be06
-"Alexander-Behm Straße 11, West / Lübsche Burg, Wismar (23968)",398.000 € 4.374 €/m²,3 Zimmer,91 m²,2. Geschoss,https://www.immowelt.de/expose/2c21dd5f-26c6-4366-8b26-8d5b8fb4743a
-"Alexander-Behm Straße 11, West / Lübsche Burg, Wismar (23968)",398.000 € 4.738 €/m²,3 Zimmer,84 m²,2. Geschoss,https://www.immowelt.de/expose/cf077cb5-afc4-429a-9047-5fbed787f64e
-"Altstadt, Wismar (23966)",749.000 € 3.745 €/m²,14 Zimmer,200 m²,112 m² Grundstück,https://www.immowelt.de/expose/fd2c3300-99bd-4fd4-ba9e-43ffd6ce2fbd
-"Altstadt, Wismar (23966)",299.000 € 2.663 €/m²,4 Zimmer,"112,3 m²",Unknown,https://www.immowelt.de/expose/ba37afb5-3d0d-4740-9ec3-520cd4050eec
-"Ost / Wismar Ost, Wismar (23970)",265.150 € 1.804 €/m²,5 Zimmer,147 m²,Unknown,https://www.immowelt.de/expose/e5c43f0b-e983-415d-be33-2c2f468e7024
-"Wendorf, Wismar (23968)",273.550 € 1.721 €/m²,6 Zimmer,"158,9 m²",Unknown,https://www.immowelt.de/expose/5d6bdd21-6d54-47a1-9771-9e633a0ecf6f
-"Wendorf, Wismar (23968)",180.000 € 2.278 €/m²,2 Zimmer,79 m²,1. Geschoss,https://www.immowelt.de/expose/36c618e7-075d-4a7e-89be-bd89aa352144
-"Altstadt, Wismar (23966)",340.000 € 2.664 €/m²,8 Zimmer,"127,6 m²",130 m² Grundstück,https://www.immowelt.de/expose/1625d6ff-d0d5-4ce7-8f79-9fe4faf26565
-"Wendorf / Hinter Wendorf, Wismar (23968)",275.000 € 3.929 €/m²,3 Zimmer,70 m²,323 m² Grundstück,https://www.immowelt.de/expose/536db03f-e8b6-402c-89d1-8ced27d1dd58
-"Friedenshof, Wismar (23966)",229.000 € 2.573 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/0d2f904f-084e-4a18-bf89-8ab482c0f002
-"Friedenshof / Dammhusen, Wismar (23966)",349.999 € 3.017 €/m²,4 Zimmer,116 m²,534 m² Grundstück,https://www.immowelt.de/expose/3afbd72e-2e7a-4aef-bb65-b24e0ff128ff
-"Mozartstr. 9, Wendorf, Wismar (23968)",100.000 € 1.587 €/m²,3 Zimmer,63 m²,2. Geschoss,https://www.immowelt.de/expose/189f21e2-49aa-4580-a072-0f2523d58676
-"Altstadt, Wismar (23966)",280.000 € 2.917 €/m²,3 Zimmer,96 m²,2. Geschoss,https://www.immowelt.de/expose/b76c5bc5-ec1f-4aeb-bcd1-2ac5ee7c2a6b
-"Altstadt, Wismar (23966)",399.000 € 1.223 €/m²,17 Zimmer,"326,3 m²",274 m² Grundstück,https://www.immowelt.de/expose/b4ff89b0-3c58-4045-826e-431874f1d0ed
-"Nord / Fischkaten, Wismar (23970)",625.000 € 3.472 €/m²,6 Zimmer,180 m²,803 m² Grundstück,https://www.immowelt.de/expose/3e8a313d-c926-4185-844c-4eee432f2c1d
-"Altstadt, Wismar (23966)",149.000 € 1.278 €/m²,6 Zimmer,"116,6 m²",89 m² Grundstück,https://www.immowelt.de/expose/7ac33a0c-0385-4a3c-8591-b01e0281a9f9
-"Wendorf / Hinter Wendorf, Wismar (23968)",341.000 €,5 Zimmer,427 m² Grundstück,Unknown,https://www.immowelt.de/expose/7bfa0662-8c94-4b48-9217-9d389d84c0e8
-"Friedenshof / Dammhusen, Wismar (23966)",440.000 € 3.552 €/m²,4 Zimmer,"123,9 m²",441 m² Grundstück,https://www.immowelt.de/expose/6a25f003-ef5f-4d14-8bb2-fee49252353d
-"Altstadt, Wismar (23966)",750.000 € 2.475 €/m²,5 Zimmer,303 m²,103 m² Grundstück,https://www.immowelt.de/expose/c812c69f-49e6-41d2-9aa9-738937b36dcf
-"Friedenshof, Wismar (23966)",430.000 € 2.792 €/m²,7 Zimmer,154 m²,595 m² Grundstück,https://www.immowelt.de/expose/8623c5e2-57e6-41df-aed7-0c4d7cd2fc19
-"Steffin, Wismar (23970)",1.200.000 € 2.273 €/m²,28 Zimmer,528 m²,1.266 m² Grundstück,https://www.immowelt.de/expose/1ee6b6ce-e46e-4374-9ac7-a1ca815af566
-"Altstadt, Wismar (23966)",449.000 € 2.451 €/m²,6 Zimmer,"183,2 m²",175 m² Grundstück,https://www.immowelt.de/expose/1f66084a-716d-4215-87f1-5a1c3481b08d
-"Altstadt, Wismar (23966)",380.000 € 1.597 €/m²,7 Zimmer,238 m²,111 m² Grundstück,https://www.immowelt.de/expose/70b5e9fe-393c-4df9-b21e-9e82c3e078c4
-"Altstadt, Wismar (23966)",450.000 € 2.018 €/m²,10 Zimmer,223 m²,121 m² Grundstück,https://www.immowelt.de/expose/bcb6b4b3-819e-4b61-aba9-f65da067ff4a
-"Fischerstraße 0, Altstadt, Wismar (23966)",125.000 € 758 €/m²,8 Zimmer,165 m²,89 m² Grundstück,https://www.immowelt.de/expose/6d18765d-1c99-4eac-abe1-cb32e8d385c4
-"Friedenshof / Dammhusen, Wismar (23966)",380.000 € 2.923 €/m²,5 Zimmer,130 m²,263 m² Grundstück,https://www.immowelt.de/expose/cc6d1c63-0d0f-4090-b26b-05d32c01f6a3
-"Altstadt, Wismar (23966)",167.000 € 2.843 €/m²,2 Zimmer,"58,8 m²",Unknown,https://www.immowelt.de/expose/d661b3fa-78a9-41e8-b561-296179e7025c
-"Altstadt, Wismar (23966)",1.720.000 € 2.062 €/m²,834 m²,Unknown,Unknown,https://www.immowelt.de/expose/52e5b7d7-a49b-417f-a85d-90eda29ec2d6
-"Friedenshof, Wismar (23970)",299.900 € 4.053 €/m²,3 Zimmer,74 m²,488 m² Grundstück,https://www.immowelt.de/expose/c6cdc9df-8cf6-41ef-abf9-497f51ff4bd7
-"Wendorf, Wismar (23968)",325.000 € 3.652 €/m²,3 Zimmer,89 m²,2. Geschoss,https://www.immowelt.de/expose/e28449e9-29d7-4085-8164-0d8bd224847a
-"Altstadt, Wismar (23966)",347.000 € 2.410 €/m²,3 Zimmer,144 m²,Unknown,https://www.immowelt.de/expose/9b0d59b8-f4e6-4555-ba91-3525f4d606ea
-"Altstadt, Wismar (23966)",165.000 € 2.200 €/m²,3 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/f63915f5-40c6-4f08-b85b-0e8850786fa1
-"Platter Kamp 8, Ost / Wismar Ost, Wismar (23970)",280.000 € 1.677 €/m²,7 Zimmer,167 m²,Unknown,https://www.immowelt.de/expose/fed413f5-8996-4f0d-a816-19e3b309f65a
-"Blüffelstr. 10, Altstadt, Wismar (23966)",399.000 € 2.850 €/m²,5 Zimmer,140 m²,75 m² Grundstück,https://www.immowelt.de/expose/521e686c-2102-469d-a84a-71a86b872c29
-"Dankwartstr. 20, Altstadt, Wismar (23966)",890.000 € 1.496 €/m²,16 Zimmer,595 m²,433 m² Grundstück,https://www.immowelt.de/expose/2e0e596c-fcdf-463d-84a4-94cb63b32d56
-"West / Lübsche Burg, Wismar (23966)",1.199.000 € 4.424 €/m²,8 Zimmer,271 m²,1.093 m² Grundstück,https://www.immowelt.de/expose/839ad14e-3a05-476d-a114-997d1c114472
-"Hornstorf, Hornstorf b Wismar, Meckl (23974)",115.000 € 2.255 €/m²,2 Zimmer,51 m²,Unknown,https://www.immowelt.de/expose/66e7629d-8abc-4b0a-a17f-434426387606
-"Kritzow, Kritzow (23970)",444.900 € 1.738 €/m²,7 Zimmer,256 m²,1.885 m² Grundstück,https://www.immowelt.de/expose/1c28da12-7a0f-4f6a-ab6f-f2f485e2400c
-"Karow, Groß Stieten (23972)",487.569 € 2.920 €/m²,6 Zimmer,167 m²,670 m² Grundstück,https://www.immowelt.de/expose/cd9b7136-6f8b-4887-ae14-9222c0b6387e
-"Lübow, Lübow (23972)",299.900 € 2.702 €/m²,4 Zimmer,111 m²,220 m² Grundstück,https://www.immowelt.de/expose/6864385b-4b2a-44d6-9cf9-87a52af12d34
-"Karow, Groß Stieten (23972)",260.000 € 1.940 €/m²,5 Zimmer,134 m²,840 m² Grundstück,https://www.immowelt.de/expose/49e9291c-7ef5-4490-a2f2-a984a50d5d08
-"Hornstorf, Hornstorf (23974)",260.000 € 1.940 €/m²,5 Zimmer,134 m²,690 m² Grundstück,https://www.immowelt.de/expose/05484d16-5300-4ac6-b907-aca8e3988d3a
-"Lübow, Lübow (23972)",125.000 € 753 €/m²,6 Zimmer,166 m²,1.226 m² Grundstück,https://www.immowelt.de/expose/f6481844-f238-40eb-b301-649ebafacea2
-"Dorf Mecklenburg, Lübow (23972)",389.000 € 1.677 €/m²,7 Zimmer,232 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/977ea6e6-9967-4660-b9dc-830f23e60900
-"Karow, Groß Stieten (23972)",260.000 € 2.524 €/m²,3 Zimmer,103 m²,650 m² Grundstück,https://www.immowelt.de/expose/446d77f8-eb84-4646-8998-cb641aa8ff42
-"Metelsdorf, Metelsdorf (23972)",598.000 € 2.382 €/m²,10 Zimmer,251 m²,737 m² Grundstück,https://www.immowelt.de/expose/bea0db07-c9d9-4343-ac80-cbb9b3f94c41
-"Dorf Mecklenburg, Dorf Mecklenburg (23972)",64.000 € 1.055 €/m²,3 Zimmer,"60,7 m²",1. Geschoss,https://www.immowelt.de/expose/e262c67b-1189-4168-80b6-8deab5805402
-"Karow, Dorf Mecklenburg OT Karow (23972)",269.000 € 2.242 €/m²,4 Zimmer,120 m²,299 m² Grundstück,https://www.immowelt.de/expose/c775ba26-0998-43a0-b4d1-39ebd76350c6
-"Rambow, Groß Stieten (23972)",703.216 € 2.906 €/m²,8 Zimmer,242 m²,670 m² Grundstück,https://www.immowelt.de/expose/b3bee8ed-3a68-45ae-84e0-5cf7e5169f46
-"Dorf Mecklenburg, Dorf Mecklenburg (23972)",400.000 € 2.740 €/m²,4 Zimmer,146 m²,1.300 m² Grundstück,https://www.immowelt.de/expose/d450b299-be24-4366-992a-23bfde6a9c61
-"Lübow, Lübow (23972)",330.000 € 2.391 €/m²,5 Zimmer,138 m²,1.292 m² Grundstück,https://www.immowelt.de/expose/0369ce29-636c-4808-bf1d-10443eec5057
-"Klein Woltersdorf, Gägelow (23968)",490.000 € 2.227 €/m²,10 Zimmer,220 m²,4.900 m² Grundstück,https://www.immowelt.de/expose/1b289701-1513-4a83-a513-c879dedfc2e3
-"Dorf Mecklenburg, Dorf Mecklenburg (23972)",341.340 € 2.004 €/m²,6 Zimmer,"170,4 m²",Unknown,https://www.immowelt.de/expose/c0c02e80-b725-4768-a9f1-21dd1b531b61
+Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL;city_id
+Altstadt, Wismar (23966),Preis auf Anfrage,4 Zimmer,153 m²,1.980 m² Grundstück,https://www.immowelt.de/expose/f400c3f3-d89d-4a06-8e94-c11dfa72f3a8;572
+"Altstadt, Wismar (23966),329.000 € 6.826 €/m²,2 Zimmer,""48,2 m²"",3. Geschoss,https://www.immowelt.de/expose/b0174b27-5b21-4245-a608-aa54f906df75";572
+Altstadt, Wismar (23966),134.000 € 2.851 €/m²,2 Zimmer,47 m²,Unknown,https://www.immowelt.de/expose/a9c56371-adcf-4bfb-9f19-d98a18f9d894;572
+Dorfstrasse 8, Ost / Kagenmarkt, Goldebee (23970),149.000 € 1.833 €/m²,4 Zimmer,120 m²,643 m² Grundstück,https://www.immowelt.de/expose/7d9e3cd3-2ced-4186-be4a-13ca207ab33b;572
+Süd / Wismar Süd, Wismar (23970),249.000 € 2.349 €/m²,5 Zimmer,106 m²,545 m² Grundstück,https://www.immowelt.de/expose/a889b9c4-2bcf-4cb3-8c11-70762807a055;572
+Breite Straße 36, Altstadt, Wismar (23966),215.000 € 827 €/m²,260 m²,150 m² Grundstück,Unknown,https://www.immowelt.de/expose/6d7a09c0-222a-4785-a162-cf1540ee2767;572
+Altstadt, Wismar (23966),1.850.000 € 5.316 €/m²,12 Zimmer,348 m²,411 m² Grundstück,https://www.immowelt.de/expose/2a6de5dc-5f7f-4a93-a5bd-1082a8f4be06;572
+Alexander-Behm Straße 11, West / Lübsche Burg, Wismar (23968),398.000 € 4.374 €/m²,3 Zimmer,91 m²,2. Geschoss,https://www.immowelt.de/expose/2c21dd5f-26c6-4366-8b26-8d5b8fb4743a;572
+Alexander-Behm Straße 11, West / Lübsche Burg, Wismar (23968),398.000 € 4.738 €/m²,3 Zimmer,84 m²,2. Geschoss,https://www.immowelt.de/expose/cf077cb5-afc4-429a-9047-5fbed787f64e;572
+Altstadt, Wismar (23966),749.000 € 3.745 €/m²,14 Zimmer,200 m²,112 m² Grundstück,https://www.immowelt.de/expose/fd2c3300-99bd-4fd4-ba9e-43ffd6ce2fbd;572
+"Altstadt, Wismar (23966),299.000 € 2.663 €/m²,4 Zimmer,""112,3 m²"",Unknown,https://www.immowelt.de/expose/ba37afb5-3d0d-4740-9ec3-520cd4050eec";572
+Ost / Wismar Ost, Wismar (23970),265.150 € 1.804 €/m²,5 Zimmer,147 m²,Unknown,https://www.immowelt.de/expose/e5c43f0b-e983-415d-be33-2c2f468e7024;572
+"Wendorf, Wismar (23968),273.550 € 1.721 €/m²,6 Zimmer,""158,9 m²"",Unknown,https://www.immowelt.de/expose/5d6bdd21-6d54-47a1-9771-9e633a0ecf6f";572
+Wendorf, Wismar (23968),180.000 € 2.278 €/m²,2 Zimmer,79 m²,1. Geschoss,https://www.immowelt.de/expose/36c618e7-075d-4a7e-89be-bd89aa352144;572
+"Altstadt, Wismar (23966),340.000 € 2.664 €/m²,8 Zimmer,""127,6 m²"",130 m² Grundstück,https://www.immowelt.de/expose/1625d6ff-d0d5-4ce7-8f79-9fe4faf26565";572
+Wendorf / Hinter Wendorf, Wismar (23968),275.000 € 3.929 €/m²,3 Zimmer,70 m²,323 m² Grundstück,https://www.immowelt.de/expose/536db03f-e8b6-402c-89d1-8ced27d1dd58;572
+Friedenshof, Wismar (23966),229.000 € 2.573 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/0d2f904f-084e-4a18-bf89-8ab482c0f002;572
+Friedenshof / Dammhusen, Wismar (23966),349.999 € 3.017 €/m²,4 Zimmer,116 m²,534 m² Grundstück,https://www.immowelt.de/expose/3afbd72e-2e7a-4aef-bb65-b24e0ff128ff;572
+Mozartstr. 9, Wendorf, Wismar (23968),100.000 € 1.587 €/m²,3 Zimmer,63 m²,2. Geschoss,https://www.immowelt.de/expose/189f21e2-49aa-4580-a072-0f2523d58676;572
+Altstadt, Wismar (23966),280.000 € 2.917 €/m²,3 Zimmer,96 m²,2. Geschoss,https://www.immowelt.de/expose/b76c5bc5-ec1f-4aeb-bcd1-2ac5ee7c2a6b;572
+"Altstadt, Wismar (23966),399.000 € 1.223 €/m²,17 Zimmer,""326,3 m²"",274 m² Grundstück,https://www.immowelt.de/expose/b4ff89b0-3c58-4045-826e-431874f1d0ed";572
+Nord / Fischkaten, Wismar (23970),625.000 € 3.472 €/m²,6 Zimmer,180 m²,803 m² Grundstück,https://www.immowelt.de/expose/3e8a313d-c926-4185-844c-4eee432f2c1d;572
+"Altstadt, Wismar (23966),149.000 € 1.278 €/m²,6 Zimmer,""116,6 m²"",89 m² Grundstück,https://www.immowelt.de/expose/7ac33a0c-0385-4a3c-8591-b01e0281a9f9";572
+Wendorf / Hinter Wendorf, Wismar (23968),341.000 €,5 Zimmer,427 m² Grundstück,Unknown,https://www.immowelt.de/expose/7bfa0662-8c94-4b48-9217-9d389d84c0e8;572
+"Friedenshof / Dammhusen, Wismar (23966),440.000 € 3.552 €/m²,4 Zimmer,""123,9 m²"",441 m² Grundstück,https://www.immowelt.de/expose/6a25f003-ef5f-4d14-8bb2-fee49252353d";572
+Altstadt, Wismar (23966),750.000 € 2.475 €/m²,5 Zimmer,303 m²,103 m² Grundstück,https://www.immowelt.de/expose/c812c69f-49e6-41d2-9aa9-738937b36dcf;572
+Friedenshof, Wismar (23966),430.000 € 2.792 €/m²,7 Zimmer,154 m²,595 m² Grundstück,https://www.immowelt.de/expose/8623c5e2-57e6-41df-aed7-0c4d7cd2fc19;572
+Steffin, Wismar (23970),1.200.000 € 2.273 €/m²,28 Zimmer,528 m²,1.266 m² Grundstück,https://www.immowelt.de/expose/1ee6b6ce-e46e-4374-9ac7-a1ca815af566;572
+"Altstadt, Wismar (23966),449.000 € 2.451 €/m²,6 Zimmer,""183,2 m²"",175 m² Grundstück,https://www.immowelt.de/expose/1f66084a-716d-4215-87f1-5a1c3481b08d";572
+Altstadt, Wismar (23966),380.000 € 1.597 €/m²,7 Zimmer,238 m²,111 m² Grundstück,https://www.immowelt.de/expose/70b5e9fe-393c-4df9-b21e-9e82c3e078c4;572
+Altstadt, Wismar (23966),450.000 € 2.018 €/m²,10 Zimmer,223 m²,121 m² Grundstück,https://www.immowelt.de/expose/bcb6b4b3-819e-4b61-aba9-f65da067ff4a;572
+Fischerstraße 0, Altstadt, Wismar (23966),125.000 € 758 €/m²,8 Zimmer,165 m²,89 m² Grundstück,https://www.immowelt.de/expose/6d18765d-1c99-4eac-abe1-cb32e8d385c4;572
+Friedenshof / Dammhusen, Wismar (23966),380.000 € 2.923 €/m²,5 Zimmer,130 m²,263 m² Grundstück,https://www.immowelt.de/expose/cc6d1c63-0d0f-4090-b26b-05d32c01f6a3;572
+"Altstadt, Wismar (23966),167.000 € 2.843 €/m²,2 Zimmer,""58,8 m²"",Unknown,https://www.immowelt.de/expose/d661b3fa-78a9-41e8-b561-296179e7025c";572
+Altstadt, Wismar (23966),1.720.000 € 2.062 €/m²,834 m²,Unknown,Unknown,https://www.immowelt.de/expose/52e5b7d7-a49b-417f-a85d-90eda29ec2d6;572
+Friedenshof, Wismar (23970),299.900 € 4.053 €/m²,3 Zimmer,74 m²,488 m² Grundstück,https://www.immowelt.de/expose/c6cdc9df-8cf6-41ef-abf9-497f51ff4bd7;572
+Wendorf, Wismar (23968),325.000 € 3.652 €/m²,3 Zimmer,89 m²,2. Geschoss,https://www.immowelt.de/expose/e28449e9-29d7-4085-8164-0d8bd224847a;572
+Altstadt, Wismar (23966),347.000 € 2.410 €/m²,3 Zimmer,144 m²,Unknown,https://www.immowelt.de/expose/9b0d59b8-f4e6-4555-ba91-3525f4d606ea;572
+Altstadt, Wismar (23966),165.000 € 2.200 €/m²,3 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/f63915f5-40c6-4f08-b85b-0e8850786fa1;572
+Platter Kamp 8, Ost / Wismar Ost, Wismar (23970),280.000 € 1.677 €/m²,7 Zimmer,167 m²,Unknown,https://www.immowelt.de/expose/fed413f5-8996-4f0d-a816-19e3b309f65a;572
+Blüffelstr. 10, Altstadt, Wismar (23966),399.000 € 2.850 €/m²,5 Zimmer,140 m²,75 m² Grundstück,https://www.immowelt.de/expose/521e686c-2102-469d-a84a-71a86b872c29;572
+Dankwartstr. 20, Altstadt, Wismar (23966),890.000 € 1.496 €/m²,16 Zimmer,595 m²,433 m² Grundstück,https://www.immowelt.de/expose/2e0e596c-fcdf-463d-84a4-94cb63b32d56;572
+West / Lübsche Burg, Wismar (23966),1.199.000 € 4.424 €/m²,8 Zimmer,271 m²,1.093 m² Grundstück,https://www.immowelt.de/expose/839ad14e-3a05-476d-a114-997d1c114472;572
+Hornstorf, Hornstorf b Wismar, Meckl (23974),115.000 € 2.255 €/m²,2 Zimmer,51 m²,Unknown,https://www.immowelt.de/expose/66e7629d-8abc-4b0a-a17f-434426387606;572
+Kritzow, Kritzow (23970),444.900 € 1.738 €/m²,7 Zimmer,256 m²,1.885 m² Grundstück,https://www.immowelt.de/expose/1c28da12-7a0f-4f6a-ab6f-f2f485e2400c;572
+Karow, Groß Stieten (23972),487.569 € 2.920 €/m²,6 Zimmer,167 m²,670 m² Grundstück,https://www.immowelt.de/expose/cd9b7136-6f8b-4887-ae14-9222c0b6387e;572
+Lübow, Lübow (23972),299.900 € 2.702 €/m²,4 Zimmer,111 m²,220 m² Grundstück,https://www.immowelt.de/expose/6864385b-4b2a-44d6-9cf9-87a52af12d34;572
+Karow, Groß Stieten (23972),260.000 € 1.940 €/m²,5 Zimmer,134 m²,840 m² Grundstück,https://www.immowelt.de/expose/49e9291c-7ef5-4490-a2f2-a984a50d5d08;572
+Hornstorf, Hornstorf (23974),260.000 € 1.940 €/m²,5 Zimmer,134 m²,690 m² Grundstück,https://www.immowelt.de/expose/05484d16-5300-4ac6-b907-aca8e3988d3a;572
+Lübow, Lübow (23972),125.000 € 753 €/m²,6 Zimmer,166 m²,1.226 m² Grundstück,https://www.immowelt.de/expose/f6481844-f238-40eb-b301-649ebafacea2;572
+Dorf Mecklenburg, Lübow (23972),389.000 € 1.677 €/m²,7 Zimmer,232 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/977ea6e6-9967-4660-b9dc-830f23e60900;572
+Karow, Groß Stieten (23972),260.000 € 2.524 €/m²,3 Zimmer,103 m²,650 m² Grundstück,https://www.immowelt.de/expose/446d77f8-eb84-4646-8998-cb641aa8ff42;572
+Metelsdorf, Metelsdorf (23972),598.000 € 2.382 €/m²,10 Zimmer,251 m²,737 m² Grundstück,https://www.immowelt.de/expose/bea0db07-c9d9-4343-ac80-cbb9b3f94c41;572
+"Dorf Mecklenburg, Dorf Mecklenburg (23972),64.000 € 1.055 €/m²,3 Zimmer,""60,7 m²"",1. Geschoss,https://www.immowelt.de/expose/e262c67b-1189-4168-80b6-8deab5805402";572
+Karow, Dorf Mecklenburg OT Karow (23972),269.000 € 2.242 €/m²,4 Zimmer,120 m²,299 m² Grundstück,https://www.immowelt.de/expose/c775ba26-0998-43a0-b4d1-39ebd76350c6;572
+Rambow, Groß Stieten (23972),703.216 € 2.906 €/m²,8 Zimmer,242 m²,670 m² Grundstück,https://www.immowelt.de/expose/b3bee8ed-3a68-45ae-84e0-5cf7e5169f46;572
+Dorf Mecklenburg, Dorf Mecklenburg (23972),400.000 € 2.740 €/m²,4 Zimmer,146 m²,1.300 m² Grundstück,https://www.immowelt.de/expose/d450b299-be24-4366-992a-23bfde6a9c61;572
+Lübow, Lübow (23972),330.000 € 2.391 €/m²,5 Zimmer,138 m²,1.292 m² Grundstück,https://www.immowelt.de/expose/0369ce29-636c-4808-bf1d-10443eec5057;572
+Klein Woltersdorf, Gägelow (23968),490.000 € 2.227 €/m²,10 Zimmer,220 m²,4.900 m² Grundstück,https://www.immowelt.de/expose/1b289701-1513-4a83-a513-c879dedfc2e3;572
+"Dorf Mecklenburg, Dorf Mecklenburg (23972),341.340 € 2.004 €/m²,6 Zimmer,""170,4 m²"",Unknown,https://www.immowelt.de/expose/c0c02e80-b725-4768-a9f1-21dd1b531b61";572

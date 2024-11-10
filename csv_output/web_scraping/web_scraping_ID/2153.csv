@@ -1,541 +1,541 @@
-﻿Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL
-"Bredeney, Essen (45133)",695.000 € 3.840 €/m²,4 Zimmer,181 m²,Unknown,https://www.immowelt.de/expose/93496459-87da-49a5-abea-2815ec773ab0
-"Fulerum, Essen (45149)",645.000 € 2.434 €/m²,12 Zimmer,265 m²,1.196 m² Grundstück,https://www.immowelt.de/expose/dd2340f0-d7a4-4e86-a159-3328c129b56a
-"Fischlaken, Essen (45239)",1.381.538 € 6.548 €/m²,6 Zimmer,211 m²,1.130 m² Grundstück,https://www.immowelt.de/expose/8f2a29f4-a7e9-4e67-9654-0846339131af
-"Fischlaken, Essen (45239)",1.194.797 € 7.659 €/m²,5 Zimmer,156 m²,1.113 m² Grundstück,https://www.immowelt.de/expose/2c67975d-013d-422d-857c-8f30e2905fd6
-"Frohnhausen, Essen (45145)",194.000 € 1.960 €/m²,4 Zimmer,99 m²,Unknown,https://www.immowelt.de/expose/619abd51-f90d-4fc1-a4bc-874a70059148
-"Tauweg 2, Dellwig, Essen (45357)",126.900 € 2.033 €/m²,"4,5 Zimmer","62,4 m²",EG,https://www.immowelt.de/expose/558742df-6e4d-45b0-b94b-427d691fba16
-"Im Dreieck 1, Dellwig, Essen (45357)",114.500 € 1.993 €/m²,3 Zimmer,"57,5 m²",EG,https://www.immowelt.de/expose/bbf74564-4443-4be9-8f0d-9db579abbf53
-"Ripshorster Straße 344, Dellwig, Essen (45357)",142.000 € 2.080 €/m²,3 Zimmer,"68,3 m²",1. Geschoss,https://www.immowelt.de/expose/d60fec4a-5042-4956-bd0d-9c676c88da01
-"Ripshorster Straße 336, Dellwig, Essen (45357)",139.000 € 2.078 €/m²,"3,5 Zimmer","66,9 m²",3. Geschoss,https://www.immowelt.de/expose/4e6bce5c-31fb-4609-b401-1e9bcca8794d
-"Im Dreieck 5, Dellwig, Essen (45357)",114.500 € 1.993 €/m²,"4,5 Zimmer","57,5 m²",1. Geschoss,https://www.immowelt.de/expose/c5fb3f03-983a-41a8-b85f-34562db10588
-"Südviertel, Essen (45128)",207.900 € 2.800 €/m²,2 Zimmer,"74,3 m²",EG,https://www.immowelt.de/expose/8f2ca680-af99-4a97-80c6-a26fee9828a4
-"Kleine Steinstraße 11, Südviertel, Essen (45128)",239.000 € 2.104 €/m²,4 Zimmer,"113,6 m²",Unknown,https://www.immowelt.de/expose/353364f7-ab0c-422b-807d-2dcb8b730dd4
-"Werden, Essen (45239)",670.000 € 4.467 €/m²,4 Zimmer,150 m²,291 m² Grundstück,https://www.immowelt.de/expose/bce1b653-7e88-4ea0-80db-9e576440be7d
-"Burgaltendorf, Essen (45289)",749.000 € 2.859 €/m²,7 Zimmer,262 m²,430 m² Grundstück,https://www.immowelt.de/expose/c34b337c-3eaf-4639-8fc4-6bb55b2c1ac9
-"Wiesengrund 17, Dellwig, Essen (45357)",104.900 € 2.276 €/m²,2 Zimmer,"46,1 m²",1. Geschoss,https://www.immowelt.de/expose/d14661a3-4bdb-4e7b-aad6-4cc5c2e1a10a
-"Nordviertel, Essen (45141)",115.000 € 1.885 €/m²,3 Zimmer,61 m²,2. Geschoss,https://www.immowelt.de/expose/d9993798-0ed0-46d9-8493-97c8e5b945fe
-"Stiftsdamenwald 21/21a, Stoppenberg, Essen (45141)",279.000 € 2.059 €/m²,6 Zimmer,"135,5 m²",583 m² Grundstück,https://www.immowelt.de/expose/cc596508-48c0-4926-9db7-c7c0651eb9c7
-"Werdener Straße 48, Kettwig, Essen (45219)",187.000 € 2.427 €/m²,3 Zimmer,77 m²,7. Geschoss,https://www.immowelt.de/expose/b39c44c1-1e11-4708-af8c-d7cf0bebbdd8
-"Wiesengrund 15, Dellwig, Essen (45357)",112.000 € 2.402 €/m²,2 Zimmer,"46,6 m²",2. Geschoss,https://www.immowelt.de/expose/def3ea84-6a8a-49b9-93cc-ff526a1ab984
-"Adelgundenweg 22, Bergerhausen, Essen (45136)",182.900 € 2.692 €/m²,3 Zimmer,"67,9 m²",EG,https://www.immowelt.de/expose/202a7136-dcbe-49c2-a6a1-b205d71c7e6f
-"Ruhrtalstraße 403, Kettwig, Essen (45219)",219.900 € 2.361 €/m²,5 Zimmer,"93,1 m²",EG,https://www.immowelt.de/expose/69f4c0fd-b20c-4d05-9a6f-71baaa89007c
-"Werdener Straße 52, Kettwig, Essen (45219)",208.100 € 2.800 €/m²,3 Zimmer,"74,3 m²",2. Geschoss,https://www.immowelt.de/expose/e4f828f1-44b4-4fb5-8ab4-5b9d72053e16
-"Regenweg 1, Dellwig, Essen (45357)",124.000 € 2.161 €/m²,"2,5 Zimmer","57,4 m²",EG,https://www.immowelt.de/expose/2ec0a5cd-d5be-4833-986d-cc3a4ed8b89a
-"Bauvereinstraße 7/9, Bergerhausen, Essen (45136)",145.500 € 2.645 €/m²,2 Zimmer,55 m²,1. Geschoss,https://www.immowelt.de/expose/b58bf577-c649-4cfe-bf01-941a8047ac8d
-"Donnerstraße 247, Dellwig, Essen (45357)",89.000 € 1.851 €/m²,3 Zimmer,"48,1 m²",1. Geschoss,https://www.immowelt.de/expose/98f044e9-7b81-4b64-8e18-6c047750a892
-"Bredeney, Essen (45133)",634.500 € 5.878 €/m²,"4,5 Zimmer","107,9 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k2sg832
-"Emscherstraße 12, Katernberg, Essen (45327)",319.000 € 3.559 €/m²,3 Zimmer,"89,6 m²",frei ab sofort,https://www.immowelt.de/expose/cb40a7db-01c4-435e-932a-7d48103445a1
-"Luthestraße 18, Dellwig, Essen (45357)",140.200 € 2.443 €/m²,"2,5 Zimmer","57,4 m²",EG,https://www.immowelt.de/expose/70f3bfee-9fc2-40e9-84cc-c4ee5d045b07
-"Luthestraße 22, Dellwig, Essen (45357)",124.000 € 2.161 €/m²,3 Zimmer,"57,4 m²",1. Geschoss,https://www.immowelt.de/expose/12cad147-ba75-4496-a3e1-0ea407ff82da
-"Bauvereinstraße 7/9, Bergerhausen, Essen (45136)",135.000 € 2.255 €/m²,"2,5 Zimmer","59,9 m²",1. Geschoss,https://www.immowelt.de/expose/c7fedc69-280f-4ee1-a631-66e9aaded0b4
-"Donnerberg 116a, Dellwig, Essen (45357)",114.000 € 1.750 €/m²,3 Zimmer,"65,2 m²",2. Geschoss,https://www.immowelt.de/expose/67a6c521-bcb8-4604-af1e-623ead909b08
-"Donnerstraße 249, Dellwig, Essen (45357)",104.000 € 2.163 €/m²,2 Zimmer,"48,1 m²",EG,https://www.immowelt.de/expose/e2e0e24d-c5b1-4707-a985-aa75ff82e376
-"Regenweg 1, Dellwig, Essen (45357)",120.000 € 2.091 €/m²,3 Zimmer,"57,4 m²",1. Geschoss,https://www.immowelt.de/expose/72c619bb-0497-4d5c-9803-315a06450db3
-"Wiesengrund 15, Dellwig, Essen (45357)",114.400 € 2.555 €/m²,2 Zimmer,"44,8 m²",2. Geschoss,https://www.immowelt.de/expose/20ccb779-7203-410e-a12b-255f1cc9c132
-"Werdener Straße 48, Kettwig, Essen (45219)",225.000 € 2.859 €/m²,3 Zimmer,"78,7 m²",EG,https://www.immowelt.de/expose/a18a8d1b-a9c5-4bcb-b5d0-48b2432064c8
-"Im Dreieck 1, Dellwig, Essen (45357)",119.500 € 2.080 €/m²,3 Zimmer,"57,5 m²",1. Geschoss,https://www.immowelt.de/expose/d99e88e6-dd7a-443c-a62a-c96b8c6812c1
-"Langenberger Str. 505, Überruhr-Holthausen, Essen (45277)",420.000 € 2.373 €/m²,4 Zimmer,177 m²,1. Geschoss,https://www.immowelt.de/expose/9036902b-44bc-4d4a-8cbf-f6d8249ac701
-"Am Jungborn, Bochhold, Essen (45355)",135.000 € 2.177 €/m²,2 Zimmer,62 m²,2. Geschoss,https://www.immowelt.de/expose/613dd0db-30d6-425d-9bad-676f7caa6fb1
-"Heisingen, Essen (45259)",1.395.974 € 7.977 €/m²,6 Zimmer,175 m²,711 m² Grundstück,https://www.immowelt.de/expose/beb41dfa-e423-46ba-9af5-c54a74d1b843
-"Huttrop, Essen (45138)",89.000 € 1.459 €/m²,2 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/82d4308a-ebca-4a61-9ec1-20e0b604fcdf
-"Bredeney, Essen / Bredeney (45133)",1.295.000 € 5.373 €/m²,6 Zimmer,241 m²,Unknown,https://www.immowelt.de/expose/2da6b1af-431b-47de-a685-97f948f9fd47
-"Rüttenscheid, Essen (45130)",279.000 € 2.937 €/m²,"3,5 Zimmer",95 m²,3. Geschoss,https://www.immowelt.de/expose/01bd5716-86cd-4dcd-b6a3-32d824f6102c
-"Holsterhausen, Essen (45145)",95.000 € 1.759 €/m²,"2,5 Zimmer",54 m²,1. Geschoss,https://www.immowelt.de/expose/465df720-c623-4473-8e6e-70f8c037d9e5
-"Heisingen, Essen (45259)",99.000 € 3.300 €/m²,1 Zimmer,30 m²,1. Geschoss,https://www.immowelt.de/expose/5c0f40d8-a76c-4ee6-9048-a552768fdb97
-"Bredeney, Essen (45133)",2.200.000 € 44.900 €/m²,10 Zimmer,500 m²,2.375 m² Grundstück,https://www.immowelt.de/expose/24c14da8-773b-44ba-90ea-92bff37a9636
-"Bredeney, Essen (45133)",1.149.000 € 3.869 €/m²,5 Zimmer,297 m²,EG,https://www.immowelt.de/expose/1e58d3f8-d8d6-47d9-8270-e0f08d67e91f
-"Margarethenhöhe, Essen (45149)",359.000 € 3.520 €/m²,4 Zimmer,102 m²,3. Geschoss,https://www.immowelt.de/expose/f7df7cad-f0a1-4c36-9c46-fe73c2983363
-"Kettwig, Essen (45219)",210.000 € 2.211 €/m²,3 Zimmer,95 m²,Unknown,https://www.immowelt.de/expose/0b64f1aa-3d55-4652-88b3-0ecc562a2422
-"Burgaltendorf, Essen / Burgaltendorf (45289)",279.000 € 1.860 €/m²,4 Zimmer,150 m²,2. Geschoss,https://www.immowelt.de/expose/7aa3c560-5670-4920-94e5-f4770b560caa
-"Bredeney, Essen (45133)",639.000 € 5.120 €/m²,3 Zimmer,"124,8 m²",frei ab 01.01.2025,https://www.immowelt.de/expose/b665837a-9d87-4307-a4d5-d99786072dbc
-"Haskenstraße 22, Altendorf, Essen (45143)",798.000 € 1.390 €/m²,574 m²,221 m² Grundstück,Unknown,https://www.immowelt.de/expose/ac0af6c7-146f-4d5a-a7b3-8019d0b3d985
-"Stadtwald, Essen (45133)",585.000 € 3.079 €/m²,7 Zimmer,190 m²,5. Geschoss,https://www.immowelt.de/expose/dd7cf992-8dee-45a3-a49e-b71fb664f307
-"Altendorf, Essen (45143)",99.999 € 1.639 €/m²,"2,5 Zimmer",61 m²,1. Geschoss,https://www.immowelt.de/expose/7738ecc1-9d7a-4432-9fb0-37e94505ccf0
-"Fischlaken, Essen (45239)",419.000 € 2.993 €/m²,4 Zimmer,140 m²,Unknown,https://www.immowelt.de/expose/81c6a4ef-e41e-4b72-9ded-8bde4cc40c8e
-"Frintrop, Essen (45359)",209.000 € 2.188 €/m²,2 Zimmer,"95,5 m²",1. Geschoss,https://www.immowelt.de/expose/0ed2123f-1702-43c2-8478-00b6592753dd
-"Bredeney, Essen (45133)",950.000 € 4.847 €/m²,5 Zimmer,196 m²,frei ab 01.07.2025,https://www.immowelt.de/expose/18a53543-aeb2-44bf-8116-40530a18f709
-"Bergerhausen, Essen / Bergerhausen (45136)",95.000 € 1.900 €/m²,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/0924fca0-f4c0-4b90-b7f3-7ba3106fb7c7
-"Onckenstraße 66, Frohnhausen, Essen (45144)",349.000 € 1.163 €/m²,300 m²,315 m² Grundstück,Unknown,https://www.immowelt.de/expose/62253139-b121-4c26-94b3-52c0cb9fd1b5
-"Kunstwerkerstraße 175-187, Bergerhausen, Essen (45136)",548.000 € 3.874 €/m²,"3,5 Zimmer","141,5 m²",1. Geschoss,https://www.immowelt.de/expose/f75fe35b-5407-44fa-82fc-dbebff4c41cd
-"Nordviertel, Essen (45141)",205.000 € 1.694 €/m²,5 Zimmer,121 m²,Unknown,https://www.immowelt.de/expose/e7bfae48-914f-432e-952d-57fe665a6210
-"Schonnebeck, Essen / Schonebeck (45309)",380.000 € 3.248 €/m²,4 Zimmer,117 m²,495 m² Grundstück,https://www.immowelt.de/expose/cd5060e2-b6c8-4715-b161-94b0e67b5a5b
-"Bergerhausen, Essen (45136)",235.000 € 2.260 €/m²,4 Zimmer,104 m²,1. Geschoss,https://www.immowelt.de/expose/a72e8bd4-4de9-4db5-8d9d-54b41beee071
-"Bredeney, Essen (45133)",389.500 € 5.824 €/m²,"2,5 Zimmer","66,9 m²",2. Geschoss,https://www.immowelt.de/projekte/expose/k2sg832
-"Bredeney, Essen (45133)",369.500 € 5.265 €/m²,"2,5 Zimmer","70,2 m²",EG,https://www.immowelt.de/projekte/expose/k2sg832
-"Frohnhausen, Essen / Frohnhausen (45145)",119.000 € 1.951 €/m²,2 Zimmer,61 m²,2. Geschoss,https://www.immowelt.de/expose/370d414e-48e6-40ab-9b9d-aca043503317
-"Frillendorf, Essen (45139)",546.970 € 3.696 €/m²,7 Zimmer,148 m²,368 m² Grundstück,https://www.immowelt.de/expose/f724a1c7-5caf-4cc7-945a-7da49a954e78
-"Keplerstr. 79, Holsterhausen, Essen (45147)",105.000 € 1.750 €/m²,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/ea777419-9990-46e3-b3fa-be2eb080fcc6
-"Frohnhausen, Essen (45144)",359.000 € 1.197 €/m²,"20,5 Zimmer",300 m²,315 m² Grundstück,https://www.immowelt.de/expose/28bc1538-3750-43aa-aab1-bc81e55a0cdb
-"Bredeney, Essen / Bredeney (45133)",765.000 € 7.384 €/m²,3 Zimmer,"103,6 m²",1. Geschoss,https://www.immowelt.de/expose/037354ef-c8d3-499e-bccf-b368147bf010
-"Bredeney, Essen / Bredeney (45133)",920.000 € 7.160 €/m²,3 Zimmer,"128,5 m²",EG,https://www.immowelt.de/expose/5c0c3f31-f277-4028-b06f-2fbd67829fb9
-"Bredeney, Essen / Bredeney (45133)",1.065.000 € 7.315 €/m²,4 Zimmer,"145,6 m²",1. Geschoss,https://www.immowelt.de/expose/a7e9461f-efaf-4cd1-a756-947bea2cf09c
-"Stadtwald, Essen (45133)",499.000 € 4.916 €/m²,4 Zimmer,"101,5 m²",1. Geschoss,https://www.immowelt.de/expose/bc5ca575-538c-44f8-80f1-76b46df05ba6
-"Karnap, Essen (45329)",139.890 € 2.250 €/m²,3 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/ab6ef769-3080-45ac-907f-09c918b70625
-"Bergerhausen, Essen / Bergerhausen (45136)",1.050.000 € 1.906 €/m²,551 m²,323 m² Grundstück,Unknown,https://www.immowelt.de/expose/a5b3e596-4217-4875-944b-85ac296e53dc
-"Bredeney, Essen / Bredeney (45133)",735.000 € 7.095 €/m²,3 Zimmer,"103,6 m²",1. Geschoss,https://www.immowelt.de/expose/bbfc9fad-cf99-44b9-a75a-34581e1bf6a2
-"Bredeney, Essen / Bredeney (45133)",945.000 € 7.354 €/m²,3 Zimmer,"128,5 m²",EG,https://www.immowelt.de/expose/3364537c-a44f-4140-ba3b-5511cb2dc807
-"Basunestraße, Altenessen-Nord, Essen (45329)",487.500 € 3.482 €/m²,5 Zimmer,140 m²,313 m² Grundstück,https://www.immowelt.de/expose/1217b755-057e-4aab-9e7c-39213f39de74
-"Schuir, Essen (45133)",2.950.000 € 9.307 €/m²,6 Zimmer,"298,7 m²",1.805 m² Grundstück,https://www.immowelt.de/expose/e54861b5-0b6e-4bba-8ba5-725cc1ae14f1
-"Dellwig, Essen (45357)",75.000 € 2.083 €/m²,1 Zimmer,36 m²,EG,https://www.immowelt.de/expose/c2de4ca8-0ae7-4b3b-8d53-48de4fa492f4
-"Kettwig, Essen (45219)",310.000 € 2.517 €/m²,"4,5 Zimmer","123,2 m²",5. Geschoss,https://www.immowelt.de/expose/2369a3ff-3778-4bd7-8aea-47de935b43bf
-"Bergerhausen, Essen (45136)",995.000 € 2.168 €/m²,19 Zimmer,459 m²,545 m² Grundstück,https://www.immowelt.de/expose/1c38d2fb-259c-4520-9b9f-23fa99506b16
-"Theobaldstraße 49, Katernberg, Essen (45327)",315.000 € 2.603 €/m²,6 Zimmer,121 m²,673 m² Grundstück,https://www.immowelt.de/expose/837e9aab-ddc4-40b1-9c71-865ea48722be
-"Frintrop, Essen (45359)",95.000 € 1.583 €/m²,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/789f8cc8-eb33-41ac-92ff-2b21dbce6288
-"Altendorf, Essen (45143)",345.000 € 1.438 €/m²,240 m²,"281,3 m² Grundstück",Unknown,https://www.immowelt.de/expose/d711a4b2-e1ab-4cc6-9881-6cbb06a81151
-"-, Stadtkern, Essen (45127)",899.000 € 5.619 €/m²,6 Zimmer,160 m²,230 m² Grundstück,https://www.immowelt.de/expose/668e1f7c-dca4-435b-be93-fda1c6253123
-"-, Frohnhausen, Overrath (51491)",799.000 € 4.994 €/m²,6 Zimmer,160 m²,230 m² Grundstück,https://www.immowelt.de/expose/065d90a5-c0b2-454a-b994-516922a27f38
-"Altenessen-Süd, Essen / Altenessen-Süd (45326)",475.000 € 1.471 €/m²,17 Zimmer,323 m²,Unknown,https://www.immowelt.de/expose/ce8d46f8-ac2b-44ae-9a5f-d8af61d1f34b
-"Heisingen, Essen (45259)",279.000 € 3.282 €/m²,"3,5 Zimmer",85 m²,1. Geschoss,https://www.immowelt.de/expose/233ae7c8-fc79-428d-b0a5-89a871d77f4a
-"Katernberg, Essen (45327)",775.000 € 2.320 €/m²,8 Zimmer,334 m²,4.910 m² Grundstück,https://www.immowelt.de/expose/40482a80-5686-4029-b8c2-e1213886433a
-"Bredeney, Essen (45133)",980.000 € 4.804 €/m²,6 Zimmer,204 m²,Unknown,https://www.immowelt.de/expose/3243ee64-7c33-4e87-bc1c-a08c86e724bf
-"Stoppenberg, Essen (45141)",355.000 € 2.817 €/m²,126 m²,252 m² Grundstück,Unknown,https://www.immowelt.de/expose/a7df41d2-ba3d-4ad7-8d14-037d5e58c643
-"Katernberg, Essen (45327)",1.790.000 € 1.362 €/m²,54 Zimmer,1.314 m²,2.944 m² Grundstück,https://www.immowelt.de/expose/a19e9365-e64c-46f3-9af7-99741818cdf8
-"Stoppenberg, Essen (45141)",355.000 € 2.817 €/m²,1 Zimmer,126 m²,252 m² Grundstück,https://www.immowelt.de/expose/5c15fbb2-68da-4b1c-81ba-4ea84d15a9aa
-"Fulerum, Essen (45149)",449.000 € 4.402 €/m²,3 Zimmer,102 m²,1. Geschoss,https://www.immowelt.de/expose/ac50e0fe-ae26-4008-8fe3-60ff9107c739
-"Frohnhausen, Essen / Frohnhausen (45145)",73.000 € 1.765 €/m²,"41,4 m²",2. Geschoss,Unknown,https://www.immowelt.de/expose/90d63155-6266-434c-b767-5e4ab487dd80
-"Gelsenkirchener str 308, Katernberg, essen (45327)",100.000 € 391 €/m²,10 Zimmer,256 m²,2.300 m² Grundstück,https://www.immowelt.de/expose/e9cc6fa9-8e8c-4385-bfe1-6c5715ff2568
-"Fischlaken, Essen (45239)",645.000 € 3.525 €/m²,7 Zimmer,183 m²,558 m² Grundstück,https://www.immowelt.de/expose/9cd2ebc7-ae79-41a6-b77f-6261f0ce367b
-"Steele, Essen (45276)",795.000 € 3.142 €/m²,8 Zimmer,253 m²,480 m² Grundstück,https://www.immowelt.de/expose/33a7296e-0e00-4342-b8e7-e4b676e06a82
-"Heisingen, Essen (45259)",182.000 € 1.784 €/m²,3 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/eee97b5e-c06c-48d8-abf6-fe40346c0789
-"Katernberg, Essen (45327)",170.000 € 659 €/m²,1 Zimmer,258 m²,2.332 m² Grundstück,https://www.immowelt.de/expose/cf7ba45b-c112-4182-8aea-96022cf14250
-"Kupferdreh, Essen (45257)",412.000 € 2.289 €/m²,7 Zimmer,180 m²,203 m² Grundstück,https://www.immowelt.de/expose/468f207b-9bbb-42f0-91c6-6dbc50f59cbb
-"Werden, Essen (45239)",1.220.000 € 4.080 €/m²,9 Zimmer,299 m²,10.113 m² Grundstück,https://www.immowelt.de/expose/ff419998-32b1-42c7-b58f-fd52d084d5f2
-"Steele, Essen (45276)",89.500 € 1.904 €/m²,"1,5 Zimmer",47 m²,2. Geschoss,https://www.immowelt.de/expose/1c4ac6dc-b5d5-4d72-8664-dcc63664bb15
-"Rüttenscheid, Essen (45131)",345.000 € 4.207 €/m²,3 Zimmer,82 m²,Unknown,https://www.immowelt.de/expose/1d3e4e9f-08ae-475c-a4ad-3c572fab2d7f
-"Holsterhausen, Essen (45147)",600.000 € 1.467 €/m²,21 Zimmer,409 m²,362 m² Grundstück,https://www.immowelt.de/expose/07702788-9e0c-450c-8e66-c2696f5e1698
-"Kettwig, Essen (45219)",690.000 € 5.000 €/m²,138 m²,Unknown,Unknown,https://www.immowelt.de/expose/f5676861-52ed-4adc-a09d-ed2c1824df7e
-"Bochhold, Essen (45355)",159.999 € 2.145 €/m²,3 Zimmer,"74,6 m²",3. Geschoss,https://www.immowelt.de/expose/14d7a6b8-9115-4187-82b8-2d8a70d698d1
-"Bochhold, Essen (45355)",219.912 € 2.192 €/m²,3 Zimmer,"100,3 m²",2. Geschoss,https://www.immowelt.de/expose/10986150-d65e-4736-bcaa-e09eaa61340f
-"Katernberg, Essen (45327)",209.950 € 893 €/m²,10 Zimmer,235 m²,185 m² Grundstück,https://www.immowelt.de/expose/ee2be46a-e55f-4cc5-97cc-451e03732446
-"Vogelheim, Essen (45356)",199.500 € 2.594 €/m²,3 Zimmer,"76,9 m²",375 m² Grundstück,https://www.immowelt.de/expose/c22cbaa6-a7c0-4e0f-b8d0-b36eab3bc87d
-"Burgfeldstraße 31, Westviertel, Essen (45127)",150.000 € 3.571 €/m²,1 Zimmer,42 m²,1. Geschoss,https://www.immowelt.de/expose/37b34ba1-839d-4275-b324-06203acb5be4
-"Kettwig, Essen (45219)",690.000 € 5.000 €/m²,138 m²,1.237 m² Grundstück,Unknown,https://www.immowelt.de/expose/945e5735-c911-479e-86ca-65340b577e04
-"Altenessen-Süd, Essen (45326)",549.000 € 2.889 €/m²,6 Zimmer,190 m²,460 m² Grundstück,https://www.immowelt.de/expose/fa7115dc-4a91-4282-9250-f2766777c135
-"Kettwig, Essen (45219)",690.000 € 5.000 €/m²,5 Zimmer,138 m²,1.237 m² Grundstück,https://www.immowelt.de/expose/8789a90a-ef15-44db-b180-98f288ddd999
-"Holsterhausen, Essen (45147)",202.000 € 2.376 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/5b10dd7d-902c-43bd-b747-9a2ec387ae92
-"Kray, Essen (45307)",655.000 € 1.658 €/m²,395 m²,150 m² Grundstück,Unknown,https://www.immowelt.de/expose/89e42e91-6bd4-4ac0-8a75-870c11737856
-"Katernberg, Essen / Katernberg (45327)",110.000 € 1.364 €/m²,3 Zimmer,"80,7 m²",3. Geschoss,https://www.immowelt.de/expose/ed0c872b-1f99-434d-80af-8602e7cd12fe
-"Brüggemannstraße 10, Katernberg, Essen (45327)",154.800 € 2.277 €/m²,"4,5 Zimmer",68 m²,1. Geschoss,https://www.immowelt.de/expose/93458951-b87d-42d9-8459-01d1ed7b5825
-"Karnap, Essen (45329)",79.069 € 1.850 €/m²,2 Zimmer,"42,7 m²",1. Geschoss,https://www.immowelt.de/expose/60c58773-7465-4b94-b0a9-619287bf58ea
-"Karnap, Essen (45329)",170.334 € 1.800 €/m²,4 Zimmer,"94,6 m²",1. Geschoss,https://www.immowelt.de/expose/74579881-6a21-49e7-97ff-7f39fa683959
-"Kupferdreh, Essen (45257)",349.000 € 2.983 €/m²,"4,5 Zimmer","117,2 m²",1. Geschoss,https://www.immowelt.de/expose/07f77cd3-a1ac-4fce-bb68-a6b9ee1a59ea
-"Frohnhausen, Essen (45147)",1.100.000 € 2.381 €/m²,12 Zimmer,462 m²,720 m² Grundstück,https://www.immowelt.de/expose/628cf21e-c283-4a2a-bf02-9d01de0dcf3f
-"Kettwig, Essen (45219)",189.720 € 4.517 €/m²,42 m²,Unknown,Unknown,https://www.immowelt.de/expose/5313a091-31f7-4990-ad17-e29b9e19fa4f
-"Kettwig, Essen (45219)",210.000 € 3.333 €/m²,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/2e721fad-7c0e-427c-8c14-c592bc9c502a
-"Frohnhausen, Essen (45145)",119.900 € 2.498 €/m²,2 Zimmer,48 m²,2. Geschoss,https://www.immowelt.de/expose/52e6ccef-c3fd-44f3-84c3-c9ad466fe861
-"Veronikastr. 65, Rüttenscheid, Essen (45131)",210.000 € 2.838 €/m²,3 Zimmer,74 m²,2. Geschoss,https://www.immowelt.de/expose/a6947ef4-8e9a-43ca-9b1a-f0750cfe4862
-"Altenessen-Süd, Essen / Altenessen-Süd (45326)",1.460.000 € 2.113 €/m²,15 Zimmer,691 m²,221 m² Grundstück,https://www.immowelt.de/expose/7d214afa-b64b-4fbf-b6e7-6839a34d948b
-"Altenessen-Süd, Essen / Altenessen-Süd (45326)",1.460.000 € 3.266 €/m²,15 Zimmer,447 m²,221 m² Grundstück,https://www.immowelt.de/expose/0def1b21-b10e-44b2-8cfa-bff2e5a81dd5
-"Rüttenscheid, Essen (45130)",1.650.000 € 6.111 €/m²,8 Zimmer,270 m²,391 m² Grundstück,https://www.immowelt.de/expose/b155b244-1152-45fe-8ba0-4a2b94bee667
-"Rüttenscheid, Essen (45130)",780.000 € 4.727 €/m²,7 Zimmer,165 m²,125 m² Grundstück,https://www.immowelt.de/expose/789d3841-dac2-4ba7-81c2-74ee3d8449f1
-"Kettwig, Essen (45219)",745.000 € 4.461 €/m²,6 Zimmer,167 m²,905 m² Grundstück,https://www.immowelt.de/expose/90111a61-ac73-4337-a2f3-c501997eeda4
-"Bredeney, Essen (45133)",610.000 € 5.304 €/m²,3 Zimmer,115 m²,EG,https://www.immowelt.de/expose/ac99ffbe-1d97-4e8c-8dc8-5884880b5cbd
-"Dellwig, Essen (45357)",200.000 € 3.070 €/m²,3 Zimmer,"65,2 m²",Unknown,https://www.immowelt.de/expose/f426eed3-94de-4ff9-8ec7-78532d775515
-"Bergerhausen, Essen / Bergerhausen (45136)",280.000 € 3.590 €/m²,5 Zimmer,78 m²,1. Geschoss,https://www.immowelt.de/expose/6efb0f9a-bdc8-4ebb-b26e-8cab5f0bc28d
-"Altendorf, Essen / Altendorf (45143)",475.000 € 1.480 €/m²,14 Zimmer,321 m²,359 m² Grundstück,https://www.immowelt.de/expose/609cce99-948c-4b89-bdeb-49fc18987462
-"Fulerum, Essen (45149)",990.000 € 4.213 €/m²,9 Zimmer,235 m²,682 m² Grundstück,https://www.immowelt.de/expose/a83a5817-fc0e-4958-828d-12d39e1341f2
-"Frohnhausen, Essen (45145)",194.000 € 1.960 €/m²,4 Zimmer,99 m²,Unknown,https://www.immowelt.de/expose/9e656349-fd90-4529-b3e3-1cbe5ddee22d
-"Huttrop, Essen (45138)",89.000 € 1.459 €/m²,2 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/badb5437-7213-4230-b55c-c40796bb21c5
-"Altendorf, Essen (45143)",644.444 € 1.033 €/m²,24 Zimmer,624 m²,429 m² Grundstück,https://www.immowelt.de/expose/661cdc44-a60e-45b3-8623-da00991380d9
-"Steele, Essen, Steele (45276)",1.680.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/9aa6b6ba-6e7b-4535-a505-6b3b7840307a
-"Holsterhausen, Essen (45145)",180.000 € 2.500 €/m²,3 Zimmer,72 m²,2. Geschoss,https://www.immowelt.de/expose/09b11732-fe25-4047-b133-485b19993078
-"Leithe, Essen (45307)",439.000 € 2.943 €/m²,4 Zimmer,"149,4 m²","200,2 m² Grundstück",https://www.immowelt.de/expose/0c74681c-061c-49bc-bd51-1b326d0b56f7
-"Horst, Essen (45279)",159.000 € 1.606 €/m²,4 Zimmer,"99,2 m²",3. Geschoss,https://www.immowelt.de/expose/1f689d82-1fa6-4fd4-94f0-df6c2183117e
-"Werden, Essen (45239)",264.950 € 2.912 €/m²,3 Zimmer,91 m²,EG,https://www.immowelt.de/expose/0e93b36a-c563-4c5d-be99-6d4d0707b140
-"Südviertel, Essen (45128)",235.000 € 2.800 €/m²,2 Zimmer,"84,3 m²",EG,https://www.immowelt.de/expose/bd688b95-f7d2-45b1-9b21-2160b88960a6
-"Rüttenscheid, Essen (45131)",1.425.000 € 4.003 €/m²,7 Zimmer,"346,9 m²",721 m² Grundstück,https://www.immowelt.de/expose/f5e73b26-8583-45e5-84ed-be3ba3fc9ac8
-"Goßfelden, Essen / Kray (45309)",625.000 € 4.808 €/m²,"5,5 Zimmer",130 m²,537 m² Grundstück,https://www.immowelt.de/expose/0dee0cf5-7704-4d9d-a813-3308d8b93432
-"Ferdinand-Weerth-Straße 26, Kettwig, Essen (45219)",995.000 € 5.727 €/m²,"4,5 Zimmer","173,8 m²",Unknown,https://www.immowelt.de/expose/e058df2a-17da-44c7-8c37-69c063564bad
-"Haarzopf, Essen (45149)",830.000 € 3.320 €/m²,9 Zimmer,250 m²,425 m² Grundstück,https://www.immowelt.de/expose/3cb4647d-20de-485b-aa03-50ea94c4dacd
-"Ederstraße 12, Bergerhausen, Essen (45136)",135.000 € 2.158 €/m²,3 Zimmer,"62,6 m²",2. Geschoss,https://www.immowelt.de/expose/ceb65d42-17f4-42ec-9985-97ba3a3b5665
-"Altenessen-Nord, Essen (45329)",169.950 € 2.655 €/m²,"3,5 Zimmer",64 m²,EG,https://www.immowelt.de/expose/bf528843-7877-4e6e-a2a5-f395564c81ff
-"Nordviertel, Essen (45141)",142.250 € 2.453 €/m²,2 Zimmer,58 m²,3. Geschoss,https://www.immowelt.de/expose/0803f501-c5cf-43e6-9e08-283181dbb273
-"Bredeney, Essen (45133)",1.249.000 € 3.569 €/m²,7 Zimmer,350 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/e1a12ea6-d5a2-4ac0-a35b-8af9a447c077
-"Karnap, Essen (45329)",669.000 € 3.656 €/m²,6 Zimmer,183 m²,578 m² Grundstück,https://www.immowelt.de/expose/37846308-3ab3-4fa1-810b-1bc2d89efe63
-"Heisingen, Essen (45259)",182.000 € 1.784 €/m²,102 m²,Unknown,Unknown,https://www.immowelt.de/expose/095fc2a7-f1f7-42c6-9922-e206a933baf2
-"Frohnhausen, Essen (45145)",99.000 € 2.063 €/m²,1 Zimmer,48 m²,4. Geschoss,https://www.immowelt.de/expose/75f66122-3f07-4d25-8c58-69b30261f41a
-"Rüttenscheid, Essen (45128)",209.000 € 3.800 €/m²,2 Zimmer,55 m²,2. Geschoss,https://www.immowelt.de/expose/b7e29f4f-3f27-4873-b8d8-daa488a96c78
-"Heisingen, Essen (45259)",182.000 € 1.784 €/m²,3 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/e3028a4f-c10c-4660-8aaf-57998dabd77e
-"Schuir, Essen (45133)",2.095.000 € 8.058 €/m²,5 Zimmer,260 m²,700 m² Grundstück,https://www.immowelt.de/expose/1f93e86f-9db9-4b90-a22a-d9191e35e419
-"Altendorf, Essen (45143)",57.000 € 1.676 €/m²,1 Zimmer,34 m²,Unknown,https://www.immowelt.de/expose/0cd639a3-b63a-4f15-90d0-7378ff1300b9
-"Steele, Essen (45276)",279.000 € 1.594 €/m²,175 m²,219 m² Grundstück,Unknown,https://www.immowelt.de/expose/5c7d4ce5-55a3-47a9-95b7-d367c2fe8d1a
-"Huttrop, Essen (45138)",171.000 € 1.390 €/m²,123 m²,Unknown,Unknown,https://www.immowelt.de/expose/c4a8b677-f1c8-4181-82cf-439ca347c053
-"Huttrop, Essen (45138)",145.000 € 1.198 €/m²,121 m²,Unknown,Unknown,https://www.immowelt.de/expose/4eac3596-1535-4068-8ec8-e91a1ebce16a
-"Frillendorf, Essen (45139)",169.500 € 2.493 €/m²,"2,5 Zimmer",68 m²,2. Geschoss,https://www.immowelt.de/expose/3656089f-7803-428b-b1b1-b712d8afa2f1
-"Frohnhausen, Essen (45145)",470.000 € 1.741 €/m²,10 Zimmer,270 m²,216 m² Grundstück,https://www.immowelt.de/expose/97b497ff-fd6c-4043-bc07-99f2564d56b5
-"Burgaltendorf, Essen (45289)",265.000 € 2.959 €/m²,3 Zimmer,"89,6 m²",Unknown,https://www.immowelt.de/expose/aa6531ac-bc3e-4956-a0e9-b9588cbd4af9
-"Holsterhausen, Essen (45145)",599.000 € 1.788 €/m²,335 m²,270 m² Grundstück,Unknown,https://www.immowelt.de/expose/afc56d4e-9a20-4866-b56b-616858702b2c
-"Obere Fuhr 73, Bergerhausen, Essen (45136)",144.900 € 2.197 €/m²,3 Zimmer,66 m²,EG,https://www.immowelt.de/expose/a8beea37-ac7a-4ade-bc44-70b8f3abc889
-"Katernberg, Essen (45327)",170.000 € 352 €/m²,483 m²,Unknown,Unknown,https://www.immowelt.de/expose/5b727eac-eed6-44dd-bd49-37c4c95398ab
-"Holsterhausen, Essen (45130)",202.000 € 2.376 €/m²,85 m²,Unknown,Unknown,https://www.immowelt.de/expose/34c4b0ab-8a62-4bfc-9a0a-1c590b2f3774
-"Byfang, Essen (45257)",412.000 € 2.822 €/m²,146 m²,Unknown,Unknown,https://www.immowelt.de/expose/a8e1092e-206d-4cdf-a71b-fc0c8bcc630a
-"Heidhausen, Essen (45239)",1.220.000 € 4.080 €/m²,299 m²,Unknown,Unknown,https://www.immowelt.de/expose/a2180843-8246-466a-b39b-48b5623d8df0
-"Holsterhausen, Essen (45147)",340.000 € 1.574 €/m²,14 Zimmer,216 m²,118 m² Grundstück,https://www.immowelt.de/expose/48be643c-5407-4395-9074-1a723fe822e3
-"Holsterhausen, Essen (45147)",202.000 € 2.376 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/86af3367-5300-4b30-b04d-2b15d70daa5f
-"Byfang, Essen (45257)",412.000 € 2.289 €/m²,180 m²,203 m² Grundstück,Unknown,https://www.immowelt.de/expose/c7917a31-a1bb-43fe-ada1-6086469d09ce
-"Heidhausen, Essen (45239)",1.220.000 € 4.080 €/m²,299 m²,10.113 m² Grundstück,Unknown,https://www.immowelt.de/expose/186ef0e6-96a3-4359-9203-57e9e3c77c14
-"Gerschede, Essen (45357)",67.550 € 2.702 €/m²,1 Zimmer,25 m²,Unknown,https://www.immowelt.de/expose/b679062e-c9e7-41fc-b718-26c9d0e8d086
-"Gerschede, Essen (45357)",67.550 € 2.702 €/m²,1 Zimmer,25 m²,4. Geschoss,https://www.immowelt.de/expose/025c719c-0380-4cfa-95a0-9e36eb9a6cd6
-"Haarzopf, Essen (45149)",980.000 € 3.951 €/m²,7 Zimmer,248 m²,725 m² Grundstück,https://www.immowelt.de/expose/8db87006-436a-4d79-9de0-2492f31bb691
-"Südostviertel, Essen (45138)",79.000 € 1.837 €/m²,1 Zimmer,"43,2 m²",5. Geschoss,https://www.immowelt.de/expose/7cc1191e-5d1f-417b-887c-e6f9adbc4973
-"Huttrop, Essen (45138)",115.000 € 2.054 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/e3571824-a48b-45e4-a52f-6557c5ea8a6c
-"Rheinstraße 163, Kettwig, Essen-Kettwig (45219)",219.000 € 3.269 €/m²,"2,5 Zimmer",67 m²,Unknown,https://www.immowelt.de/expose/07575a4d-880c-4737-b2a3-dc9e13404979
-"Nekesweg 1, Bergerhausen, Essen (45136)",87.500 € 2.303 €/m²,2 Zimmer,38 m²,2. Geschoss,https://www.immowelt.de/expose/57b4692d-a5ce-4dd5-bfc0-7534a78e8919
-"Kupferdreh, Essen (45357)",249.000 € 2.980 €/m²,3 Zimmer,"83,6 m²",1. Geschoss,https://www.immowelt.de/expose/1c97be2a-0916-404a-be14-04d964ad9557
-"Kupferdreh, Essen (45357)",249.000 € 3.016 €/m²,3 Zimmer,"82,6 m²",Unknown,https://www.immowelt.de/expose/6b458a52-8c89-44c2-825e-ec9b35bca1c8
-"Altenessen-Süd, Essen (45326)",87.500 € 1.750 €/m²,2 Zimmer,"50,3 m²",1. Geschoss,https://www.immowelt.de/expose/7ec514ea-30bd-47f1-9bf7-f30d61d7f304
-"Werden, Essen (45239)",429.000 € 3.575 €/m²,"3,5 Zimmer","120,3 m²",EG,https://www.immowelt.de/expose/5f26ab53-e0ff-4bef-9871-931c969928fe
-"Kupferdreh, Essen (45357)",249.000 € 2.980 €/m²,3 Zimmer,"83,6 m²",1. Geschoss,https://www.immowelt.de/expose/1b539fe4-1fc9-4af9-b662-375d09288e1f
-"Fischlaken, Essen (45239)",199.999 € 2.778 €/m²,2 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/176c4170-d91a-475e-8326-57ef9821781a
-"Fischlaken, Essen (45239)",1.500.000 € 7.075 €/m²,5 Zimmer,212 m²,2.211 m² Grundstück,https://www.immowelt.de/expose/c6a33184-24bb-44f8-a91f-786b61a5f3be
-"Rüttenscheid, Essen (45128)",189.000 € 3.436 €/m²,2 Zimmer,55 m²,1. Geschoss,https://www.immowelt.de/expose/c14918b7-db4e-41bc-9551-8ebd7c19961a
-"Schonnebeck, Essen (45309)",145.000 € 2.108 €/m²,"3,5 Zimmer","68,8 m²",2. Geschoss,https://www.immowelt.de/expose/965a99e1-6c99-4b47-ac42-340068e0280e
-"Bonnenbergstraße 10, Heisingen, Essen (45259)",299.999 € 2.662 €/m²,5 Zimmer,"112,7 m²",EG,https://www.immowelt.de/expose/920f9d27-8be3-4508-9d1f-c791b969c27b
-"Bredeney, Essen (45133)",1.299.000 € 3.168 €/m²,12 Zimmer,410 m²,507 m² Grundstück,https://www.immowelt.de/expose/09eda5e7-aad0-49e8-9d45-2a8aff41785c
-"Heisingen, Essen (45259)",269.000 € 3.363 €/m²,"4,5 Zimmer",80 m²,2. Geschoss,https://www.immowelt.de/expose/da8babac-4411-4b42-96f1-86bde68040b3
-"Werden, Essen (45239)",439.000 € 4.262 €/m²,8 Zimmer,103 m²,1.575 m² Grundstück,https://www.immowelt.de/expose/99cbe512-a8d9-4cea-b481-026aa52fd9fa
-"Schonnebeck, Essen (45309)",225.000 € 2.922 €/m²,"3,5 Zimmer",77 m²,170 m² Grundstück,https://www.immowelt.de/expose/469a2928-e745-4546-bc46-d341274f4d6a
-"Kettwig, Essen (45219)",3.500.000 € 7.543 €/m²,6 Zimmer,464 m²,1.443 m² Grundstück,https://www.immowelt.de/expose/a088b0ba-4848-473f-b543-55861f0e3a6c
-"Huttrop, Essen (45138)",115.000 € 2.054 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/672ce7e7-6d81-4d85-a2d3-f5f7476350cd
-"Huttrop, Essen (45138)",89.000 € 1.459 €/m²,61 m²,Unknown,Unknown,https://www.immowelt.de/expose/b2a6c76d-c63c-4555-ae38-f60853a480ae
-"Frohnhausen, Essen (45145)",194.000 € 1.960 €/m²,99 m²,Unknown,Unknown,https://www.immowelt.de/expose/761ed853-2cbc-47f1-9d86-12b0a342e9fb
-"Kettwig, Essen (45219)",645.000 €,253 m² Grundstück,Unknown,Unknown,https://www.immowelt.de/expose/b0701ab8-138d-4c57-a283-408952b5d49e
-"Huttrop, Essen (45138)",89.000 € 1.459 €/m²,2 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/67196347-c86d-469d-8569-52ddd77005c5
-"Frohnhausen, Essen (45145)",194.000 € 1.960 €/m²,4 Zimmer,99 m²,Unknown,https://www.immowelt.de/expose/2b9591d3-a2f3-41b6-9957-932788d94adc
-"Frohnhausen, Essen / Frohnhausen (45145)",225.000 € 2.446 €/m²,3 Zimmer,92 m²,2. Geschoss,https://www.immowelt.de/expose/ab433c9b-001d-4941-878a-e094f7be7948
-"Fischlaken, Essen (45239)",430.000 € 3.410 €/m²,"3,5 Zimmer","126,1 m²",2. Geschoss,https://www.immowelt.de/expose/3958886a-5ffe-4f68-9e89-467e91954881
-"Fulerum, Essen (45149)",260.000 € 4.127 €/m²,2 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/543a6769-a7eb-4599-a9e9-a6071c6925f5
-"Kupferdreh, Essen (45257)",599.000 € 3.273 €/m²,6 Zimmer,183 m²,838 m² Grundstück,https://www.immowelt.de/expose/41d869c5-5fe4-4f7b-ba79-7d12df3c971b
-"Schliepersberg 19a, Kupferdreh, Essen (45257)",390.000 € 3.250 €/m²,5 Zimmer,120 m²,295 m² Grundstück,https://www.immowelt.de/expose/5f589620-d1f2-4de4-bc18-af778eb57c54
-"Ostviertel, Essen (45127)",899.000 € 2.804 €/m²,16 Zimmer,"320,6 m²",283 m² Grundstück,https://www.immowelt.de/expose/96778811-eca4-4f17-9fcd-f76bac550eb4
-"Altendorf, Essen (45143)",57.000 € 1.676 €/m²,1 Zimmer,34 m²,Unknown,https://www.immowelt.de/expose/e0884ff7-15ad-4b81-b3b8-63a235e60473
-"Steele, Essen (45276)",279.000 € 1.661 €/m²,5 Zimmer,168 m²,219 m² Grundstück,https://www.immowelt.de/expose/6be1c964-7632-4007-a4d9-511cdeeea6ac
-"Huttrop, Essen (45138)",171.000 € 1.390 €/m²,3 Zimmer,123 m²,Unknown,https://www.immowelt.de/expose/65af4798-bbd1-4364-b527-6eb497ef4da1
-"Huttrop, Essen (45138)",145.000 € 1.169 €/m²,3 Zimmer,124 m²,Unknown,https://www.immowelt.de/expose/8305f05d-4039-48e3-8207-b911e8c05e87
-"Rüttenscheid, Essen (45128)",224.000 € 4.000 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/601c82d2-9372-47bd-a702-1103db75e961
-"Altendorf, Essen (45143)",57.000 € 1.676 €/m²,34 m²,Unknown,Unknown,https://www.immowelt.de/expose/c7ebadbd-8957-4832-bfe9-29239581d4c5
-"Katernberg, Essen (45327)",384.729 € 3.217 €/m²,4 Zimmer,"119,6 m²",410 m² Grundstück,https://www.immowelt.de/expose/1c92ca7b-a785-4055-a4b1-46d1ed2e402e
-"Altenessen-Süd, Essen (45326)",415.729 € 3.468 €/m²,4 Zimmer,"119,9 m²",520 m² Grundstück,https://www.immowelt.de/expose/4286eadd-0b88-488d-a4af-1b2ffb5726a2
-"Horst, Essen (45279)",442.999 € 3.706 €/m²,4 Zimmer,"119,5 m²",530 m² Grundstück,https://www.immowelt.de/expose/a50d1905-243e-4606-af67-4e6c05e541b7
-"Überruhr-Hinsel, Essen (45277)",486.629 € 3.427 €/m²,5 Zimmer,142 m²,520 m² Grundstück,https://www.immowelt.de/expose/59767146-84cc-4667-9b71-8fb8daba5d43
-"Bredeney, Essen (45133)",633.229 € 4.299 €/m²,5 Zimmer,"147,3 m²",430 m² Grundstück,https://www.immowelt.de/expose/502740c6-ba88-4136-ab2d-e6da0f5fa63e
-"Rüttenscheid, Essen (45131)",534.154 € 4.992 €/m²,4 Zimmer,107 m²,485 m² Grundstück,https://www.immowelt.de/expose/e4afc066-75a3-471a-b705-3db436b42734
-"Rüttenscheid, Essen (45130)",561.399 € 4.882 €/m²,4 Zimmer,115 m²,505 m² Grundstück,https://www.immowelt.de/expose/d192413a-5734-4fa7-b65b-909f4f445e88
-"Südviertel, Essen (45128)",490.729 € 4.116 €/m²,4 Zimmer,"119,2 m²",430 m² Grundstück,https://www.immowelt.de/expose/a20a6b1e-9c54-410b-bfc3-385307890891
-"Bergerhausen, Essen (45136)",528.429 € 4.419 €/m²,4 Zimmer,"119,6 m²",465 m² Grundstück,https://www.immowelt.de/expose/81fe4459-1434-4e6e-a1be-493a0fc774ea
-"Stadtwald, Essen (45134)",649.869 € 5.421 €/m²,4 Zimmer,"119,9 m²",410 m² Grundstück,https://www.immowelt.de/expose/7d8caace-dca5-44d2-ba29-016e75ad3f70
-"Ostviertel, Essen (45139)",425.619 € 3.559 €/m²,4 Zimmer,"119,6 m²",605 m² Grundstück,https://www.immowelt.de/expose/31456c1f-bb38-454f-963d-dea413494e7f
-"Burgaltendorf, Essen (45289)",480.749 € 4.180 €/m²,4 Zimmer,115 m²,385 m² Grundstück,https://www.immowelt.de/expose/73c76552-bf58-4789-9243-13ec582f0897
-"Heisingen, Essen (45259)",499.999 € 4.170 €/m²,4 Zimmer,"119,9 m²",325 m² Grundstück,https://www.immowelt.de/expose/cb4a8e8c-9512-474e-9a31-2209319167db
-"Stoppenberg, Essen (45141)",499.999 € 4.194 €/m²,4 Zimmer,"119,2 m²",414 m² Grundstück,https://www.immowelt.de/expose/83643c23-1c37-40a7-9cbe-fd9f2e2b1fa6
-"Haarzopf, Essen (45149)",484.429 € 3.411 €/m²,5 Zimmer,142 m²,395 m² Grundstück,https://www.immowelt.de/expose/00653385-04ac-4949-8449-49398e8a9c90
-"Frohnhausen, Essen (45144)",502.479 € 4.696 €/m²,4 Zimmer,107 m²,620 m² Grundstück,https://www.immowelt.de/expose/af1d382d-bfc8-4822-9290-2f45927afa21
-"Huttrop, Essen (45138)",527.259 € 4.399 €/m²,5 Zimmer,"119,9 m²",440 m² Grundstück,https://www.immowelt.de/expose/4ea9dd54-f572-4c7b-a402-8ad0a9097cdb
-"Kupferdreh, Essen (45257)",454.999 € 3.807 €/m²,4 Zimmer,"119,5 m²",390 m² Grundstück,https://www.immowelt.de/expose/bd30489a-eaf3-4b08-b30c-3a01444f83b9
-"Schonnebeck, Essen (45309)",417.529 € 3.483 €/m²,4 Zimmer,"119,9 m²",610 m² Grundstück,https://www.immowelt.de/expose/b5c8acaa-1b79-40f6-a4a2-d3c8cba594dc
-"Leithe, Essen (45307)",399.879 € 3.354 €/m²,4 Zimmer,"119,2 m²",550 m² Grundstück,https://www.immowelt.de/expose/055a3ebb-2a71-4c2f-b3b5-17d974a68833
-"Steele, Essen (45276)",494.599 € 4.138 €/m²,4 Zimmer,"119,5 m²",480 m² Grundstück,https://www.immowelt.de/expose/0ade7498-f195-41e8-bb6e-626cbae9ce1e
-"Heidhausen, Essen (45239)",482.204 € 3.302 €/m²,4 Zimmer,146 m²,455 m² Grundstück,https://www.immowelt.de/expose/867c2898-87a6-4916-a5b3-d4df07a03ea1
-"Kettwig, Essen (45219)",489.939 € 2.928 €/m²,5 Zimmer,"167,3 m²",370 m² Grundstück,https://www.immowelt.de/expose/7445fd27-b974-46e1-ae88-1c9cc2a5f613
-"Schönebeck, Essen (45359)",441.679 € 4.128 €/m²,4 Zimmer,107 m²,420 m² Grundstück,https://www.immowelt.de/expose/fd3cd9e2-0ad9-49d0-882b-3e17d51c5ad5
-"Borbeck-Mitte, Essen (45355)",458.829 € 3.828 €/m²,4 Zimmer,"119,9 m²",505 m² Grundstück,https://www.immowelt.de/expose/cfd307bf-dcf8-4a1a-aafe-065659965a86
-"Bochhold, Essen (45356)",411.129 € 3.438 €/m²,4 Zimmer,"119,6 m²",490 m² Grundstück,https://www.immowelt.de/expose/0a565860-f38a-4a81-86fd-59d4590546b6
-"Altendorf, Essen (45143)",428.029 € 3.014 €/m²,5 Zimmer,142 m²,430 m² Grundstück,https://www.immowelt.de/expose/21851e41-f30a-4028-b6f7-e00a26d6c07c
-"Westviertel, Essen (45127)",454.199 € 3.950 €/m²,4 Zimmer,115 m²,360 m² Grundstück,https://www.immowelt.de/expose/03b815ff-7473-46ad-9e27-e4f2aa4b8fab
-"Bergerhausen, Essen (45136)",439.000 € 3.851 €/m²,4 Zimmer,114 m²,Unknown,https://www.immowelt.de/expose/4bdbf19d-89e5-4f2b-876d-50abcf49a380
-"Holsterhausen, Essen (45147)",275.000 € 2.926 €/m²,4 Zimmer,94 m²,Unknown,https://www.immowelt.de/expose/8c77a4e4-794f-47bd-b4d4-1abad541e2fe
-"Bergerhausen, Essen (45136)",189.999 € 2.667 €/m²,"3,5 Zimmer","71,3 m²",Unknown,https://www.immowelt.de/expose/c08e935e-64d4-43cb-b7c2-b60ba37b6339
-"Steele, Essen (45276)",279.000 € 1.594 €/m²,175 m²,Unknown,Unknown,https://www.immowelt.de/expose/15a324f8-317b-4c2c-906b-375403afba35
-"Bedingrade, Essen (45359)",2.420.000 € 1.596 €/m²,64 Zimmer,1.516 m²,2.250 m² Grundstück,https://www.immowelt.de/expose/00700be4-7566-4619-aa77-c0c863041493
-"Südviertel, Essen (45128)",545.000 € 3.403 €/m²,"4,5 Zimmer","160,1 m²",Unknown,https://www.immowelt.de/expose/bddf358f-961d-48bf-9fe4-607dfe9c51df
-"Südviertel, Essen (45128)",465.000 € 3.458 €/m²,"4,5 Zimmer","134,5 m²",Unknown,https://www.immowelt.de/expose/5d9ef3c5-ad66-4c04-980e-338e443c0f93
-"Huttrop, Essen (45138)",145.000 € 1.790 €/m²,81 m²,Unknown,Unknown,https://www.immowelt.de/expose/73117cb0-8850-4513-ae27-5832c29d21b2
-"Huttrop, Essen (45138)",171.000 € 2.085 €/m²,82 m²,Unknown,Unknown,https://www.immowelt.de/expose/f3f01830-aa0d-4afb-87a7-5af5fe0224c9
-"Pastor-Fliedner-Weg 1A, Karnap, Essen (45329)",75.000 € 1.531 €/m²,2 Zimmer,49 m²,2. Geschoss,https://www.immowelt.de/expose/d81bd4d0-e72c-40d2-89b9-0099425f7220
-"Röckenstraße 27, Katernberg, Essen (45327)",99.500 € 1.626 €/m²,"3,5 Zimmer","61,2 m²",EG,https://www.immowelt.de/expose/92e2cd53-edc6-4a62-ab9b-8993cac79b83
-"Katernberg, Essen (45327)",122.500 € 1.754 €/m²,"4,5 Zimmer","69,8 m²",1. Geschoss,https://www.immowelt.de/expose/c296780b-6331-4aee-a4db-a877956285c8
-"Nienhuser Busch 47, Katernberg, Essen (45327)",139.400 € 1.764 €/m²,"3,5 Zimmer",79 m²,1. Geschoss,https://www.immowelt.de/expose/cbdb8a00-366e-42da-a363-3d4e6dd90b6c
-"Lommenweg 4, Stoppenberg, Essen (45141)",129.800 € 2.186 €/m²,"3,5 Zimmer","59,4 m²",1. Geschoss,https://www.immowelt.de/expose/da2415ca-2386-4ed5-93c9-4a9743fbef24
-"Drostenhof 10, Schonnebeck, Essen (45309)",99.800 € 2.289 €/m²,"1,5 Zimmer","43,6 m²",EG,https://www.immowelt.de/expose/6b188f16-15c8-4a1a-9a68-47205f8ebf15
-"Drostenbusch 119, Schonnebeck, Essen (45309)",154.800 € 2.183 €/m²,"3,5 Zimmer","70,9 m²",2. Geschoss,https://www.immowelt.de/expose/7d55add0-64f0-4330-ab1d-26f7e1a14592
-"Fridolinstraße 2, Horst, Essen (45279)",139.800 € 1.942 €/m²,"3,5 Zimmer",72 m²,1. Geschoss,https://www.immowelt.de/expose/8a65161a-1c9a-4890-88e7-ede3e3ba0f42
-"Julienstraße 1, Rüttenscheid, Essen (45130)",177.000 € 2.812 €/m²,2 Zimmer,"62,9 m²",3. Geschoss,https://www.immowelt.de/expose/500398fd-9cf3-471b-85b5-372f0f0f6223
-"Wertstraße 10, Dellwig, Essen (45357)",80.000 € 1.746 €/m²,2 Zimmer,"45,8 m²",1. Geschoss,https://www.immowelt.de/expose/b6bb73cc-e06f-4743-96ee-33a94811f21f
-"Borbeck-Mitte, Essen (45355)",610.000 € 2.446 €/m²,12 Zimmer,"249,4 m²",2. Geschoss,https://www.immowelt.de/expose/7b2b5918-a59b-4806-bec9-feebd8afc7ac
-"Haarzopf, Essen (45149)",389.000 € 3.112 €/m²,4 Zimmer,125 m²,Unknown,https://www.immowelt.de/expose/33834db9-a103-4238-868c-51bd92e821d7
-"Heidhausen, Essen (45239)",698.000 € 4.653 €/m²,3 Zimmer,150 m²,Unknown,https://www.immowelt.de/expose/43e74f0e-5d60-41da-829a-c85adf024a9f
-"Stadtwald, Essen (45133)",1.050.000 € 4.086 €/m²,4 Zimmer,257 m²,Unknown,https://www.immowelt.de/expose/051145b6-0bc5-4527-8961-15bf647fe211
-"Kettwig, Essen (45219)",1.950.000 € 5.200 €/m²,8 Zimmer,375 m²,1.772 m² Grundstück,https://www.immowelt.de/expose/a6aeafd6-d1ef-48d7-9bdc-21525286664e
-"Wertstraße 12, Dellwig, Essen (45357)",119.500 € 1.768 €/m²,3 Zimmer,"67,6 m²",1. Geschoss,https://www.immowelt.de/expose/e768043e-b6e1-4323-aa79-25b4ef6e68ba
-"Bottlenberg 14, Stadtwald, Essen (45134)",600.000 € 3.469 €/m²,7 Zimmer,173 m²,1.246 m² Grundstück,https://www.immowelt.de/expose/4064a1fd-18d3-4873-82fa-a104118b4ef5
-"Nienhuser Busch 41, Katernberg, Essen (45327)",134.800 € 2.281 €/m²,"2,5 Zimmer","59,1 m²",1. Geschoss,https://www.immowelt.de/expose/ca683471-624c-442b-9b2e-f78ef96a6ac2
-"Hattramstraße 9, Karnap, Essen (45329)",99.400 € 1.947 €/m²,"2,5 Zimmer","51,1 m²",2. Geschoss,https://www.immowelt.de/expose/baad2f48-7e33-4a9e-b9dd-5c45e58e61d7
-"Brüggemannstraße 14, Katernberg, Essen (45327)",142.600 € 2.189 €/m²,"4,5 Zimmer","65,1 m²",EG,https://www.immowelt.de/expose/58ca8cb5-3d70-4e6a-9dcc-1c6067654660
-"Altendorf, Essen (45143)",99.000 € 1.394 €/m²,3 Zimmer,71 m²,2. Geschoss,https://www.immowelt.de/expose/b4fa0e37-9e92-469a-9bb2-f12749f1cee2
-"Bredeney, Essen (45133)",610.000 € 4.420 €/m²,3 Zimmer,138 m²,1. Geschoss,https://www.immowelt.de/expose/e6981798-be77-4c76-b086-f364a1a05543
-"Rüttenscheid, Essen (45131)",140.000 € 2.154 €/m²,2 Zimmer,65 m²,4. Geschoss,https://www.immowelt.de/expose/4a4e295c-d9ce-419a-8b64-c7ab0a16dcef
-"Karnap, Essen / Karnap (45329)",135.000 € 2.410 €/m²,3 Zimmer,56 m²,1. Geschoss,https://www.immowelt.de/expose/23821a2f-f991-4db4-a039-3dc96549c8b3
-"Stadtkern, Essen (45127)",2.450.000 € 1.128 €/m²,60 Zimmer,"2.172,3 m²",720 m² Grundstück,https://www.immowelt.de/expose/8c3ce6d7-facc-49b9-a183-543819feacec
-"Bochhold, Essen / Bochold (45355)",640.000 € 1.675 €/m²,15 Zimmer,382 m²,311 m² Grundstück,https://www.immowelt.de/expose/debd7df7-1b78-444b-b697-55228917202c
-"Heidhausen, Essen (45239)",219.000 € 3.042 €/m²,3 Zimmer,72 m²,EG,https://www.immowelt.de/expose/b3eb18dd-bef6-4dda-bbc4-c8e97bccd672
-"Überruhr-Hinsel, Essen (45277)",549.000 € 2.952 €/m²,"7,5 Zimmer",186 m²,671 m² Grundstück,https://www.immowelt.de/expose/9c4915c5-428f-4612-a40b-ff0cb36b7432
-"Überruhr-Hinsel, Essen (45277)",590.000 € 4.646 €/m²,5 Zimmer,127 m²,870 m² Grundstück,https://www.immowelt.de/expose/9e19296d-050a-49e3-a66c-4e6a504dcd0c
-"Burgaltendorf, Essen (45277)",400.000 € 3.564 €/m²,"112,2 m²",587 m² Grundstück,Unknown,https://www.immowelt.de/expose/1ac0acea-a7ba-4a02-8ef7-847cb9b3cf23
-"Kettwig, Essen (45219)",1.390.000 € 3.424 €/m²,15 Zimmer,406 m²,764 m² Grundstück,https://www.immowelt.de/expose/900be1ed-86e5-4165-9798-a62950710766
-"Schönebeck, Essen (45359)",378.000 € 3.098 €/m²,"3,5 Zimmer",122 m²,Unknown,https://www.immowelt.de/expose/e62140fb-9f53-4f04-9340-906b7d143cee
-"Rüttenscheid, Essen (45131)",1.950.000 € 4.765 €/m²,5 Zimmer,"409,3 m²",Unknown,https://www.immowelt.de/expose/a0cad027-8e3b-4832-bbb9-39c12a76519e
-"Überruhr-Hinsel, Essen (45277)",539.000 € 2.655 €/m²,6 Zimmer,203 m²,240 m² Grundstück,https://www.immowelt.de/expose/2250d680-8633-4d08-926a-fbad8086b514
-"Rellinghausen, Essen (45134)",237.900 € 2.309 €/m²,3 Zimmer,103 m²,Unknown,https://www.immowelt.de/expose/b1dfc138-3055-4752-99c3-d4633dba27b8
-"Rüttenscheiderstr 184, Rüttenscheid, Essen (45131)",256.000 € 3.494 €/m²,2 Zimmer,77 m²,2. Geschoss,https://www.immowelt.de/expose/ce0ccf0e-2930-42a6-94ab-143cab9718f4
-"Altendorf, Essen (45143)",149.000 € 2.178 €/m²,2 Zimmer,"68,4 m²",3. Geschoss,https://www.immowelt.de/expose/9768e12f-742a-459c-94a0-c6054e4bd142
-"Altendorf, Essen (45143)",46.000 € 2.091 €/m²,1 Zimmer,22 m²,3. Geschoss,https://www.immowelt.de/expose/724d4929-712e-40dd-aed8-b74df97dacb7
-"Hinseler Hof 37, Überruhr-Hinsel, Essen (45277)",729.000 € 3.325 €/m²,9 Zimmer,298 m²,680 m² Grundstück,https://www.immowelt.de/expose/37bbdd66-793c-4695-b841-92845a87eac5
-"Bergerhausen, Essen / Bergerhausen (45136)",95.000 € 1.900 €/m²,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/62cf1077-efea-4aec-ba4f-689c6ce124a6
-"Bergerhausen, Essen / Bergerhausen (45136)",190.000 € 1.900 €/m²,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/91e97ec5-1bd9-4ccf-aa98-413e58c24bff
-"Schönebeck, Essen / Schönebeck (45359)",395.000 € 2.651 €/m²,"5,5 Zimmer",149 m²,2. Geschoss,https://www.immowelt.de/expose/71444dab-8046-4289-94e9-2b93b933a8fa
-"Bredeney, Essen (45133)",1.320.000 € 2.084 €/m²,"27,5 Zimmer","633,3 m²",1.203 m² Grundstück,https://www.immowelt.de/expose/f51ece16-48c1-44c5-9026-dd1a06763f39
-"Kettwig, Essen (45219)",189.950 € 2.922 €/m²,3 Zimmer,65 m²,1. Geschoss,https://www.immowelt.de/expose/05afefc7-150b-4dee-9c05-9e23b92ea034
-"Schuir, Essen / Bredeney (45133)",319.000 € 3.753 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/09634001-8b53-4483-a3ac-a7b2313235d4
-"Bergerhausen, Essen (45136)",210.000 € 3.500 €/m²,2 Zimmer,60 m²,EG,https://www.immowelt.de/expose/7beb3642-6e38-4a95-801a-a1ff0c6d4bc5
-"Überruhr-Holthausen, Essen (45277)",179.000 € 2.325 €/m²,3 Zimmer,77 m²,2. Geschoss,https://www.immowelt.de/expose/59d8dfbb-cb6b-48da-a11a-41e9903e1a20
-"Frintrop, Essen (45359)",840.000 € 1.538 €/m²,21 Zimmer,546 m²,275 m² Grundstück,https://www.immowelt.de/expose/e68f4480-84a7-4c14-be04-cfc599575bc4
-"Werden, Essen (45239)",475.000 € 3.369 €/m²,5 Zimmer,141 m²,frei ab 01.12.2024,https://www.immowelt.de/expose/fe53ae19-4b39-4026-9dd9-6ac0523a24b7
-"Holsterhausen, Essen (45147)",199.000 € 2.236 €/m²,4 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/14f6103c-aa88-48f6-9f97-b6a709d2ebba
-"Katernberg, Essen (45327)",590.000 € 2.360 €/m²,10 Zimmer,250 m²,496 m² Grundstück,https://www.immowelt.de/expose/2da7011e-0d6c-4d43-8af6-15cf2dbddf96
-"Heidhausen, Essen (45239)",2.950.000 € 5.175 €/m²,10 Zimmer,570 m²,10.452 m² Grundstück,https://www.immowelt.de/expose/ee0d9dff-7be7-4e41-af90-bf4629040920
-"Altenessen-Süd, Essen (45326)",99.000 € 1.707 €/m²,2 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/3395cb57-444b-40ba-b9f0-62ed3f8e4991
-"Bergerhausen, Essen (45136)",185.000 € 2.151 €/m²,3 Zimmer,86 m²,1. Geschoss,https://www.immowelt.de/expose/8d7b443d-508e-430e-9035-c4b85efd9c45
-"Kettwig, Essen (45219)",679.000 € 2.515 €/m²,8 Zimmer,270 m²,548 m² Grundstück,https://www.immowelt.de/expose/b41e70b0-2993-461b-8ad2-2e5da1f2275d
-"Südostviertel, Essen (45138)",184.000 € 2.556 €/m²,3 Zimmer,72 m²,1. Geschoss,https://www.immowelt.de/expose/3d75eb57-cb34-4b50-86be-5e0b710cda6d
-"Freisenbruch, Essen (45279)",435.000 € 3.107 €/m²,5 Zimmer,140 m²,385 m² Grundstück,https://www.immowelt.de/expose/9b14a78c-2fe9-49b0-8393-6ce7c604df8b
-"Altenessen-Süd, Essen (45326)",169.950 € 1.888 €/m²,4 Zimmer,90 m²,frei ab 01.12.2024,https://www.immowelt.de/expose/733a91e5-3281-417b-99f6-8ee37640214a
-"Von Schmoller Straße 6, Südviertel, Essen (45128)",166.000 € 3.773 €/m²,2 Zimmer,44 m²,1. Geschoss,https://www.immowelt.de/expose/d1ee00c4-b4ff-4902-8afd-b7e9468b2c9d
-"Altendorf, Essen (45143)",619.000 € 1.317 €/m²,25 Zimmer,470 m²,262 m² Grundstück,https://www.immowelt.de/expose/c5ac2961-1250-4573-9462-4d62a19aad99
-"Stoppenberg, Essen (45141)",670.000 € 2.219 €/m²,13 Zimmer,302 m²,Unknown,https://www.immowelt.de/expose/acd6ad4f-1442-4bc2-9995-51360d8701f1
-"Altenessen-Süd, Essen / Altenessen-Süd (45326)",580.000 € 4.111 €/m²,5 Zimmer,"141,1 m²","249,6 m² Grundstück",https://www.immowelt.de/expose/33dddf0c-f831-4568-8c61-34fb75b6633c
-"Kupferdreh, Essen (45257)",880.000 € 3.911 €/m²,6 Zimmer,225 m²,500 m² Grundstück,https://www.immowelt.de/expose/d6976bbf-efa6-4cd0-a1a9-dbc5c05d7957
-"Borbeck-Mitte, Essen / Borbeck-Mitte (45355)",340.000 € 3.333 €/m²,"3,5 Zimmer",102 m²,Unknown,https://www.immowelt.de/expose/8bcba758-2902-4e69-bf59-011604a99e59
-"Altenessen-Süd, Essen (45326)",580.000 € 1.076 €/m²,539 m²,405 m² Grundstück,Unknown,https://www.immowelt.de/expose/fbfe0079-7f62-4f73-adbe-14562dae39e8
-"Elsterbuschstraße 31, Leithe, Essen (45307)",117.000 € 1.780 €/m²,"3,5 Zimmer","65,7 m²",EG,https://www.immowelt.de/expose/53e81578-78d2-4b41-9116-a5e05edd12e5
-"Brunnenstraße 63, Südviertel, Essen (45128)",492.000 € 3.820 €/m²,4 Zimmer,"128,8 m²",EG,https://www.immowelt.de/expose/93e9dce1-2e36-4dcc-aa4a-b85259c22df8
-"Bergborbeck, Essen (45355)",179.000 € 2.126 €/m²,3 Zimmer,"84,2 m²",1. Geschoss,https://www.immowelt.de/expose/51716c82-1186-45da-89b2-02cee9180517
-"Fischlaken, Essen / Fischlaken (45239)",695.000 € 3.777 €/m²,6 Zimmer,155 m²,608 m² Grundstück,https://www.immowelt.de/expose/5a0e15b5-f973-400c-84e1-d71353925cac
-"Altendorf, Essen (45143)",529.000 € 4.101 €/m²,6 Zimmer,129 m²,310 m² Grundstück,https://www.immowelt.de/expose/216d05d3-e696-41fa-a64e-d86dfbf7466b
-"Horst, Essen (45279)",259.000 € 2.292 €/m²,3 Zimmer,113 m²,Unknown,https://www.immowelt.de/expose/9e2ad4fd-8d22-4883-912d-cb0842273921
-"Huttrop, Essen (45138)",495.000 € 3.214 €/m²,6 Zimmer,154 m²,387 m² Grundstück,https://www.immowelt.de/expose/3549b754-33ac-4b89-88ba-fd24d497daf9
-"Heisingen, Essen (45259)",519.000 € 3.118 €/m²,6 Zimmer,"166,5 m²",3. Geschoss,https://www.immowelt.de/expose/6366b553-cf6b-478c-b27e-574f14d9ae7f
-"Heisingen, Essen (45259)",139.000 € 2.960 €/m²,1 Zimmer,47 m²,1. Geschoss,https://www.immowelt.de/expose/15990a4e-9236-4f59-8737-67943728b703
-"Heisingen, Essen (45259)",329.000 € 3.182 €/m²,3 Zimmer,"103,4 m²",EG,https://www.immowelt.de/expose/3d98200a-a910-4f57-b05b-a0b0a0a9b77b
-"Kettwig, Essen (45219)",164.000 € 2.343 €/m²,2 Zimmer,70 m²,frei ab sofort,https://www.immowelt.de/expose/7ecdf7ac-c5a3-491e-b859-44208af22d58
-"Schonnebeck, Essen (45309)",130.000 € 2.090 €/m²,3 Zimmer,"62,2 m²",Unknown,https://www.immowelt.de/expose/90a70cc6-bd5c-4faf-b20a-e2bb27213be4
-"Freisenbruch, Essen / Freisenbruch (45279)",390.000 € 3.900 €/m²,3 Zimmer,100 m²,2. Geschoss,https://www.immowelt.de/expose/b6742a1d-37b9-4a89-a3b6-9a3dcf900bb0
-"Soester Str. 12, Kray, Essen (45307)",199.000 € 1.983 €/m²,4 Zimmer,115 m²,2. Geschoss,https://www.immowelt.de/expose/6738e2a4-00eb-4740-a617-0d7ede6f434c
-"Schönebeck, Essen (45359)",390.000 € 2.516 €/m²,4 Zimmer,155 m²,615 m² Grundstück,https://www.immowelt.de/expose/afa87dce-80d2-4040-a9aa-bea7c923af2b
-"Heisingen, Essen (45259)",1.630.000 € 9.056 €/m²,6 Zimmer,180 m²,2.260 m² Grundstück,https://www.immowelt.de/expose/b9bb014f-5272-472a-aeb5-b01996a75767
-"Bedingrade, Essen (45359)",199.000 € 2.236 €/m²,3 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/7a5971e6-9256-434d-a64a-a7d6b0a7d58e
-"Haarzopf, Essen (45149)",749.000 € 4.928 €/m²,3 Zimmer,152 m²,510 m² Grundstück,https://www.immowelt.de/expose/6291a78f-a320-42e6-97d5-f369fe8e9d93
-"Kupferdreher Straße 263, Kupferdreh, Essen (45257)",114.800 € 1.965 €/m²,3 Zimmer,"58,4 m²",1. Geschoss,https://www.immowelt.de/expose/113ef0c7-7f67-451f-9c0f-f242c1a25e81
-"Kettwig, Essen (45219)",895.000 € 3.925 €/m²,9 Zimmer,228 m²,898 m² Grundstück,https://www.immowelt.de/expose/be586e6b-f9e9-4cab-b88d-595797fa2ec7
-"Kettwig, Essen (45219)",399.000 € 4.694 €/m²,2 Zimmer,85 m²,EG,https://www.immowelt.de/expose/5b2c02cf-1ee1-4037-9a3d-03ec334893f2
-"Kray, Essen (45307)",110.000 € 1.549 €/m²,3 Zimmer,71 m²,1. Geschoss,https://www.immowelt.de/expose/5c52795b-de12-4eac-bcff-bd5ce71ae0c6
-"Brüggemannstraße 14, Katernberg, Essen (45327)",144.600 € 2.224 €/m²,"4,5 Zimmer",65 m²,2. Geschoss,https://www.immowelt.de/expose/2c3897c4-8105-4c59-9212-b42ffcb28f12
-"Borbecker Straße 257, Borbeck-Mitte, Essen (45355)",126.500 € 1.957 €/m²,4 Zimmer,"64,7 m²",2. Geschoss,https://www.immowelt.de/expose/466bfb65-4ba8-44a6-859e-e170dc92461c
-"Freisenbruch, Essen (45279)",84.000 € 1.867 €/m²,2 Zimmer,45 m²,EG,https://www.immowelt.de/expose/a31a98ba-8a6e-44b5-aeff-2385b61af361
-"Rüttenscheider Straße 236, Rüttenscheid, Essen (45131)",1.711.111 € 3.704 €/m²,22 Zimmer,462 m²,460 m² Grundstück,https://www.immowelt.de/expose/fd79346a-8b59-47bc-9d40-3f1b40bc4a5c
-"Katernberg, Essen (45327)",99.000 € 1.707 €/m²,2 Zimmer,58 m²,2. Geschoss,https://www.immowelt.de/expose/924464db-769c-4aa5-aa8a-f433cd8d1433
-"Bredeney, Essen (45133)",4.650.000 € 15.320 €/m²,10 Zimmer,"303,5 m²",1.286 m² Grundstück,https://www.immowelt.de/expose/5ba2ebcf-46b7-469f-bc65-2c5632ad0994
-"Altendorf, Essen (45143)",1.198.500 € 989 €/m²,18 Zimmer,1.212 m²,1.020 m² Grundstück,https://www.immowelt.de/expose/aba6b01a-b8ba-4607-b068-569d352e175b
-"Bredeney, Essen (45133)",980.000 € 4.601 €/m²,7 Zimmer,213 m²,581 m² Grundstück,https://www.immowelt.de/expose/791e1f28-0c35-4d78-89d7-fb4bf3122dd5
-"Ostviertel, Essen (45127)",260.000 € 5.306 €/m²,4 Zimmer,49 m²,1. Geschoss,https://www.immowelt.de/expose/43e4010f-adba-44a0-a6b7-1014268f51e1
-"Altendorf, Essen (45143)",649.000 € 1.445 €/m²,449 m²,579 m² Grundstück,Unknown,https://www.immowelt.de/expose/1079393b-59c2-437c-b470-5863016e05c9
-"Altenessen-Süd, Essen-Altenessen (45326)",695.000 € 8.688 €/m²,80 m²,Unknown,Unknown,https://www.immowelt.de/expose/f4e259d2-b260-4178-9119-215a4875523f
-"Altenessen-Süd, Essen (45326)",86.000 € 1.564 €/m²,1 Zimmer,55 m²,6. Geschoss,https://www.immowelt.de/expose/f54fcd8b-6782-4e01-8b19-d0819bd5b200
-"Karnap, Essen (45329)",689.999 € 3.286 €/m²,7 Zimmer,210 m²,470 m² Grundstück,https://www.immowelt.de/expose/e40d1fbc-1a8f-4f01-997c-44cd465cc917
-"Holsterhausen, Essen (45147)",309.000 € 2.255 €/m²,4 Zimmer,137 m²,1. Geschoss,https://www.immowelt.de/expose/aa656c34-e7d2-4f63-a4a7-ce98dab88e83
-"Bedingrade, Essen (45359)",120.000 € 1.935 €/m²,2 Zimmer,62 m²,Unknown,https://www.immowelt.de/expose/a48459f5-821a-4ea6-8ead-add7db3f474f
-"Südostviertel, Essen (45138)",580.000 € 2.283 €/m²,11 Zimmer,254 m²,590 m² Grundstück,https://www.immowelt.de/expose/9d4b68fa-dcd2-45f0-837b-042a31eafebd
-"Rüttenscheid, Essen (45130)",171.800 € 2.962 €/m²,2 Zimmer,58 m²,4. Geschoss,https://www.immowelt.de/expose/ab03f512-5da9-4f26-8903-2bca0a01d1f6
-"Südostviertel, Essen (45138)",789.000 € 2.321 €/m²,15 Zimmer,340 m²,222 m² Grundstück,https://www.immowelt.de/expose/3cb128f7-4200-491e-a3fa-c07dd3ad46b8
-"Leithe, Essen (45307)",399.000 € 3.400 €/m²,4 Zimmer,116 m²,137 m² Grundstück,https://www.immowelt.de/expose/dd4b16ba-07c6-4fc6-85b6-02f0a2624b00
-"Rüttenscheid, Essen / Rüttenscheid (45131)",980.000 € 4.317 €/m²,"4,5 Zimmer",227 m²,3. Geschoss,https://www.immowelt.de/expose/63aff40e-f180-406b-a9df-996178cb2112
-"Holsterhausen, Essen (45147)",1.100.000 € 1.843 €/m²,24 Zimmer,597 m²,277 m² Grundstück,https://www.immowelt.de/expose/c14b2365-0e8d-4a6c-bfa6-4d642ba3833b
-"Holsterhausen, Essen (45145)",142.000 € 2.029 €/m²,3 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/faa48034-9435-474b-bf0c-14addc9dfa3c
-"Stoppenberg, Essen (45327)",1.950.000 € 1.492 €/m²,1.307 m²,1.355 m² Grundstück,Unknown,https://www.immowelt.de/expose/5e8d9e75-e896-46fa-92b4-5ce8ceed7eb6
-"Werden, Essen (45239)",785.000 € 4.435 €/m²,5 Zimmer,177 m²,Unknown,https://www.immowelt.de/expose/819c43f7-a84b-4b9f-8976-46327a882f6a
-"Südviertel, Essen (45128)",255.000 € 3.744 €/m²,2 Zimmer,"68,1 m²",2. Geschoss,https://www.immowelt.de/expose/e3ad414b-7cab-4b50-bbc2-d2f582cc2366
-"Bedingrade, Essen (45359)",600.000 € 2.667 €/m²,11 Zimmer,225 m²,800 m² Grundstück,https://www.immowelt.de/expose/c8dc80c2-0f73-4bb0-8f63-8eaea4248e35
-"Stoppenberg, Essen (45327)",2.795.000 € 1.532 €/m²,1.824 m²,Unknown,Unknown,https://www.immowelt.de/expose/13ab2903-919f-4f94-b6bc-a758918dd5fa
-"Kettwig, Essen (45219)",359.000 € 2.919 €/m²,3 Zimmer,123 m²,Unknown,https://www.immowelt.de/expose/2e64344f-bfba-4be6-b364-b178c7eed54b
-"Nienhuser Busch 35, Katernberg, Essen (45327)",124.300 € 2.104 €/m²,"2,5 Zimmer","59,1 m²",2. Geschoss,https://www.immowelt.de/expose/374b9826-dac4-414e-a60d-67f56e14bd13
-"Heisterholz 46, Karnap, Essen (45329)",129.400 € 2.226 €/m²,"2,5 Zimmer","58,1 m²",1. Geschoss,https://www.immowelt.de/expose/513f74af-5819-42db-b7f2-6ebcdcba0954
-"Kray, Essen (45307)",79.000 € 1.682 €/m²,"2,5 Zimmer",47 m²,Unknown,https://www.immowelt.de/expose/9f99d94e-2918-4601-a467-8fa62412aa0e
-"Steele, Essen (45276)",169.000 € 1.690 €/m²,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/11f1b928-4107-4c31-8220-f595fecef3a5
-"Horst, Essen (45279)",109.000 € 1.346 €/m²,3 Zimmer,81 m²,5. Geschoss,https://www.immowelt.de/expose/a1187dc1-1467-42d1-b4de-c6f128ccf57a
-"Kray, Essen (45309)",379.000 € 3.989 €/m²,4 Zimmer,95 m²,120 m² Grundstück,https://www.immowelt.de/expose/ae20c54f-76be-434d-bf9b-f5c34b13a003
-"Gärtnerstraße 38, Südviertel, Essen (45128)",195.000 € 2.972 €/m²,2 Zimmer,"65,6 m²",3. Geschoss,https://www.immowelt.de/expose/fff40891-70ad-4b87-be90-edaa52c72837
-"Rüttenscheid, Essen (45130)",199.000 € 2.618 €/m²,3 Zimmer,76 m²,2. Geschoss,https://www.immowelt.de/expose/0e52a7c7-2eff-4eab-8b28-8cb0435b863d
-"Dellwig, Essen (45357)",750.000 € 2.500 €/m²,12 Zimmer,300 m²,1.427 m² Grundstück,https://www.immowelt.de/expose/d0ae9ed6-9b41-4d94-99bc-7532f912a798
-"Schuir, Essen (45133)",2.095.000 € 7.005 €/m²,6 Zimmer,"262,7 m²",710 m² Grundstück,https://www.immowelt.de/expose/57e85250-2cb2-4622-8f38-5f636602f2ee
-"Stadtwald, Essen (45134)",1.149.000 € 6.566 €/m²,7 Zimmer,175 m²,486 m² Grundstück,https://www.immowelt.de/expose/0348f35e-abc7-4be2-af73-0c489c64cd69
-"Kray, Essen (45309)",380.000 € 1.784 €/m²,8 Zimmer,213 m²,499 m² Grundstück,https://www.immowelt.de/expose/5517a940-1443-4c4f-b80f-5205e95ea0a3
-"Bredeney, Essen (45133)",1.750.000 € 8.216 €/m²,5 Zimmer,213 m²,1. Geschoss,https://www.immowelt.de/expose/549d1901-fd21-4aab-abc6-3318d69fdb86
-"Kupferdreh, Essen (45257)",549.000 € 2.027 €/m²,12 Zimmer,"270,9 m²",498 m² Grundstück,https://www.immowelt.de/expose/e99fc97b-6b16-46f3-8cdc-7cb153ea104a
-"Wilhelm-Nieswandt-Allee 132-134, Altenessen-Nord, Essen (45326)",99.000 € 1.889 €/m²,"2,5 Zimmer","52,4 m²",1. Geschoss,https://www.immowelt.de/expose/66177a73-3bc9-41cf-b589-8bf209f410a4
-"Südviertel, Essen (45128)",219.000 € 2.808 €/m²,3 Zimmer,78 m²,Unknown,https://www.immowelt.de/expose/d1ea37e5-02ab-40c0-9892-68a99dcf1fa9
-"Grundstraße 66, Katernberg, Essen (45327)",158.400 € 2.017 €/m²,"3,5 Zimmer","78,6 m²",EG,https://www.immowelt.de/expose/aa08e93e-25b6-437e-8158-2d47c72390b2
-"Borbeck-Mitte, Essen / Borbeck-Mitte (45355)",180.000 € 2.118 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/e6bcbddd-973b-43d8-8928-095dc0722b8a
-"Altenessen-Nord, Essen (45329)",450.000 € 3.913 €/m²,"4,5 Zimmer",115 m²,298 m² Grundstück,https://www.immowelt.de/expose/5695b348-7b68-4549-9f30-d5a8f4bb1070
-"Bredeney, Essen (45133)",1.850.000 € 3.768 €/m²,17 Zimmer,491 m²,1.452 m² Grundstück,https://www.immowelt.de/expose/8e8a25c0-ca24-4777-b5a0-39f849985887
-"Nordviertel, Essen (45141)",90.000 € 1.500 €/m²,2 Zimmer,60 m²,1. Geschoss,https://www.immowelt.de/expose/b5ecb3e4-f940-41c6-bbd2-05f8c4925fe6
-"Kirchfeldstr 28A, Kettwig, Essen (45219)",221.000 € 2.961 €/m²,2 Zimmer,77 m²,1. Geschoss,https://www.immowelt.de/expose/b45527d8-0f3d-42ec-b033-8e5efd349f3e
-"Kupferdreh, Essen (45257)",216.000 € 2.614 €/m²,"2,5 Zimmer","82,6 m²",Unknown,https://www.immowelt.de/expose/73b910dd-825b-4667-8ef2-4d971a00c240
-"Heisingen, Essen (45259)",575.000 € 4.600 €/m²,4 Zimmer,125 m²,685 m² Grundstück,https://www.immowelt.de/expose/2d5a85ae-34ed-41a9-82b7-890592db211d
-"Fulerum, Essen (45149)",549.000 € 3.565 €/m²,5 Zimmer,154 m²,EG,https://www.immowelt.de/expose/acfa5503-f701-4787-b90e-1084d5cc67c3
-"Kettwig, Essen (45219)",1.250.000 € 3.858 €/m²,12 Zimmer,324 m²,1.422 m² Grundstück,https://www.immowelt.de/expose/5785f235-d3c6-4f42-8968-aeecc805ecfe
-"Frohnhausen, Essen (45144)",127.000 € 1.896 €/m²,3 Zimmer,67 m²,2. Geschoss,https://www.immowelt.de/expose/65b37b81-697c-4a5d-ab81-38852637d75c
-"Heisingen, Essen (45259)",139.000 € 3.092 €/m²,1 Zimmer,45 m²,EG,https://www.immowelt.de/expose/ed767f31-7c27-47ed-bb3e-012df2568538
-"Mathilde-Kaiser-Str. 25, Huttrop, Essen (45138)",123.900 € 2.044 €/m²,2 Zimmer,68 m²,3. Geschoss,https://www.immowelt.de/expose/c1a91f21-79c5-46e9-b865-81576cc112ec
-"Borbeck-Mitte, Essen (45355)",219.999 € 2.292 €/m²,"3,5 Zimmer",96 m²,2. Geschoss,https://www.immowelt.de/expose/25092464-7322-4caa-81ca-51b430b3a175
-"Rüttenscheiderstr 184, Rüttenscheid, Essen (45131)",259.000 € 3.494 €/m²,2 Zimmer,77 m²,2. Geschoss,https://www.immowelt.de/expose/f2699f24-20fb-48a9-a5f5-13e92fd75792
-"Altenessen-Süd, Essen (45326)",895.000 € 2.564 €/m²,6 Zimmer,349 m²,1.279 m² Grundstück,https://www.immowelt.de/expose/62a8f55c-121c-4907-b4a8-10adb0c333ea
-"Frintrop, Essen (45359)",499.000 € 3.119 €/m²,5 Zimmer,160 m²,340 m² Grundstück,https://www.immowelt.de/expose/d0f04f97-6da9-4b48-9273-8b9d98afef7c
-"Kupferdreh, Essen / Kupferdreh (45257)",1.391.250 € 2.733 €/m²,509 m²,674 m² Grundstück,Unknown,https://www.immowelt.de/expose/c4321ed3-0c44-4cf5-ac44-2a7b635d7e99
-"Stadtkern, Essen (45127)",1.250.000 € 2.395 €/m²,522 m²,362 m² Grundstück,Unknown,https://www.immowelt.de/expose/c2499d33-e7e0-4a9c-9853-d36392e8b4d6
-"Bochhold, Essen (45355)",350.000 € 2.431 €/m²,5 Zimmer,144 m²,203 m² Grundstück,https://www.immowelt.de/expose/e01bef7c-df23-4ba1-b44d-b6cca72939fd
-"Bochhold, Essen (45356)",349.000 € 2.296 €/m²,5 Zimmer,152 m²,294 m² Grundstück,https://www.immowelt.de/expose/e8530a01-25d3-4d19-b764-87a32b86a3f5
-"Bochhold, Essen (45356)",349.000 € 2.296 €/m²,5 Zimmer,152 m²,frei ab 01.01.2025,https://www.immowelt.de/expose/e87d39c0-8118-41d2-a530-dcbd83dcb1c4
-"Rüttenscheid, Essen / Bergerhausen (45136)",460.000 € 2.072 €/m²,5 Zimmer,222 m²,Unknown,https://www.immowelt.de/expose/5d6cd3a3-5a0d-4313-87a6-98e8eef3765a
-"Rellinghausen, Essen (45134)",341.900 € 2.124 €/m²,5 Zimmer,161 m²,Unknown,https://www.immowelt.de/expose/ca32b0ef-fdbe-4c2b-9cf7-599e4cf591cb
-"Rellinghausen, Essen (45134)",435.900 € 2.382 €/m²,5 Zimmer,183 m²,Unknown,https://www.immowelt.de/expose/07b48b86-8d1a-41f9-94da-75cf7ca314ce
-"Rellinghausen, Essen (45134)",484.900 € 2.585 €/m²,6 Zimmer,"187,6 m²",Unknown,https://www.immowelt.de/expose/8d7e5494-b300-4727-9e91-7d81bb52189d
-"Rellinghausen, Essen (45134)",400.800 € 2.690 €/m²,4 Zimmer,149 m²,Unknown,https://www.immowelt.de/expose/72956d8c-936e-4351-82cb-b434e2d8148e
-"Rellinghausen, Essen (45134)",326.400 € 3.079 €/m²,4 Zimmer,106 m²,Unknown,https://www.immowelt.de/expose/31731ad9-c6f8-49e0-8873-1dbe64c4bfc2
-"Katernberg, Essen (45327)",265.000 € 3.705 €/m²,2 Zimmer,"71,5 m²",frei ab sofort,https://www.immowelt.de/expose/1a03f14f-a80c-4124-a8a5-79ecec9e6ebe
-"Bochhold, Essen-Bochold (45355)",460.000 € 4.780 €/m²,2 Zimmer,"96,2 m²",Unknown,https://www.immowelt.de/expose/1d5d2a53-4292-4fc7-99c8-f826a9f503cd
-"Bochhold, Essen-Bochold (45355)",575.000 € 4.203 €/m²,4 Zimmer,"136,8 m²",Unknown,https://www.immowelt.de/expose/c266b6b6-9f73-4137-8354-f81c5b0dce6a
-"Soester Str. 12, Kray, Essen (45307)",220.000 € 1.983 €/m²,4 Zimmer,115 m²,Unknown,https://www.immowelt.de/expose/13ca5f54-090b-4114-b431-c2793e00ea86
-"Rüttenscheid, Essen (45130)",1.120.000 € 3.209 €/m²,14 Zimmer,349 m²,500 m² Grundstück,https://www.immowelt.de/expose/d9f6e145-aea8-4fae-84b6-19fd399198ac
-"Bochhold, Essen (45356)",209.950 € 2.727 €/m²,"2,5 Zimmer",77 m²,2. Geschoss,https://www.immowelt.de/expose/6c94fddd-12a6-402b-bd25-9eca570ed044
-"Ratsherrnweg 20, Rüttenscheid, Essen (45130)",171.000 € 3.109 €/m²,3 Zimmer,55 m²,4. Geschoss,https://www.immowelt.de/expose/8cb98f6b-b215-4763-b4f7-3e0ca600adc8
-"Altenessen-Süd, Essen (45326)",155.000 € 1.270 €/m²,6 Zimmer,122 m²,Unknown,https://www.immowelt.de/expose/229c410e-8b84-4f43-9a9c-83420ff3d3c4
-"Bergerhausen, Essen (45136)",879.000 € 3.330 €/m²,8 Zimmer,264 m²,531 m² Grundstück,https://www.immowelt.de/expose/ec5adba9-78db-4983-8a12-13d5e1e1968f
-"Überruhr-Holthausen, Essen (45277)",389.000 € 3.455 €/m²,5 Zimmer,"112,6 m²",445 m² Grundstück,https://www.immowelt.de/expose/da52bc5c-a4e4-4991-91ba-2ce1f158b730
-"Altenessen-Süd, Essen (45326)",199.000 € 1.990 €/m²,4 Zimmer,100 m²,200 m² Grundstück,https://www.immowelt.de/expose/1c0f1a29-4184-4d9d-bec7-01b3ce674d75
-"Bredeney, Essen (45133)",3.350.000 € 12.500 €/m²,4 Zimmer,268 m²,3.550 m² Grundstück,https://www.immowelt.de/expose/1b85f8cf-a335-4f2a-84e7-484fe6483dd6
-"Bochhold, Essen / Borbeck-Mitte (45355)",395.000 € 2.135 €/m²,4 Zimmer,185 m²,9. Geschoss,https://www.immowelt.de/expose/80c0c915-9cfe-4e48-a6ad-99b025c991ab
-"Bochhold, Essen-Bochold (45355)",680.000 € 3.819 €/m²,5 Zimmer,178 m²,Unknown,https://www.immowelt.de/expose/c0dc824f-a598-434b-876c-e9e5440645fd
-"Bochhold, Essen-Bochold (45355)",444.000 € 4.221 €/m²,3 Zimmer,"105,2 m²",Unknown,https://www.immowelt.de/expose/d405ec80-f558-49f2-aba5-10a21669e824
-"Bochhold, Essen-Bochold (45355)",285.000 € 3.977 €/m²,2 Zimmer,"71,7 m²",Unknown,https://www.immowelt.de/expose/a40e383a-1ef2-431f-a9de-4e4c46b7d2cb
-"Freisenbruch, Essen (45279)",420.000 € 4.183 €/m²,3 Zimmer,"100,4 m²",Unknown,https://www.immowelt.de/expose/0ac4a49f-cab4-4ddd-acb8-52c949a70616
-"Altenessen-Nord, Essen (45329)",899.000 € 1.684 €/m²,19 Zimmer,534 m²,518 m² Grundstück,https://www.immowelt.de/expose/18ed999f-ee28-452d-b3df-edd5b0609fb1
-"Steele, Essen (45276)",4.379.289 € 1.747 €/m²,100 Zimmer,"2.506,5 m²",3.793 m² Grundstück,https://www.immowelt.de/expose/d1baae35-5bcd-41ec-bef7-36da3264d07e
-"Steele, Essen (45276)",649.000 € 1.400 €/m²,19 Zimmer,"463,4 m²",187 m² Grundstück,https://www.immowelt.de/expose/8a28e745-5696-4b35-b82c-ef11e385dbdd
-"Huttrop, Essen (45138)",199.000 € 1.686 €/m²,4 Zimmer,118 m²,4. Geschoss,https://www.immowelt.de/expose/5dca9d05-dada-4205-970c-e2d73adbebf3
-"Dellwig, Essen (45357)",750.000 € 2.500 €/m²,12 Zimmer,300 m²,1.427 m² Grundstück,https://www.immowelt.de/expose/61cef1fe-13d3-4235-809c-f7e3426e72bb
-"Altenessen-Süd, Essen (45326)",3.500.000 € 1.524 €/m²,2.297 m²,Unknown,Unknown,https://www.immowelt.de/expose/511b53c5-041f-4043-b1d2-26319670dde9
-"Frohnhausen, Essen (45144)",146.500 € 1.620 €/m²,"3,5 Zimmer","90,4 m²",3. Geschoss,https://www.immowelt.de/expose/68d5be28-bb3c-420a-a908-a5068c5957f6
-"Rüttenscheid, Essen (45131)",199.000 € 3.159 €/m²,3 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/3de33530-5ecb-4309-97d4-0993e565fe45
-"Fulerum, Essen (45149)",890.000 € 4.238 €/m²,5 Zimmer,210 m²,EG,https://www.immowelt.de/expose/7d8336d2-4c35-4d7a-bd7e-17519468d4a3
-"Rüttenscheid, Essen / Rüttenscheid (45131)",229.000 € 2.899 €/m²,2 Zimmer,79 m²,EG,https://www.immowelt.de/expose/a065d948-227d-487e-ae01-b3e8c48b385b
-"Altenessen-Nord, Essen / Altenessen-Nord (45329)",182.000 € 2.193 €/m²,3 Zimmer,83 m²,EG,https://www.immowelt.de/expose/ba82d468-8b44-427f-811a-1cef5b9416ca
-"Kupferdreh, Essen (45257)",875.000 € 4.654 €/m²,7 Zimmer,188 m²,1.571 m² Grundstück,https://www.immowelt.de/expose/cfb16f4e-8345-4658-8957-125426bee7f6
-"Huttrop, Essen (45138)",124.000 € 2.044 €/m²,2 Zimmer,68 m²,3. Geschoss,https://www.immowelt.de/expose/255603ba-e066-444e-a1a7-c84c03b42931
-"Stadtwald, Essen (45134)",309.000 € 2.377 €/m²,3 Zimmer,130 m²,Unknown,https://www.immowelt.de/expose/0d7ea533-cebf-45ea-8b7a-e567579e287b
-"Altenessen-Süd, Essen (45326)",89.950 € 1.046 €/m²,3 Zimmer,86 m²,1. Geschoss,https://www.immowelt.de/expose/63c17142-5030-4aff-ba97-c00a0445927f
-"Fischlaken, Essen (45239)",167.950 € 3.054 €/m²,2 Zimmer,55 m²,2. Geschoss,https://www.immowelt.de/expose/fba06245-09c6-4078-b13d-d8c9fafafd8e
-"Kettwig, Essen (45219)",190.000 € 3.800 €/m²,"1,5 Zimmer",50 m²,frei ab sofort,https://www.immowelt.de/expose/19aa86f5-e07f-42c9-9373-f5d6148763da
-"Heisingen, Essen (45259)",1.395.000 € 4.359 €/m²,10 Zimmer,320 m²,1.168 m² Grundstück,https://www.immowelt.de/expose/e2f07b54-99da-4b92-a240-6652a21152de
-"Altenessen-Nord, Essen / Altenessen-Nord (45329)",399.000 € 2.280 €/m²,6 Zimmer,175 m²,3. Geschoss,https://www.immowelt.de/expose/bd2b828e-432f-434b-ab01-1e59e938c684
-"Schonnebeck, Essen (45309)",219.000 € 2.433 €/m²,4 Zimmer,90 m²,178 m² Grundstück,https://www.immowelt.de/expose/8b97eec6-3c0c-4d73-a467-ea5dbfeae351
-"Altendorf, Essen-Altendorf (45143)",Preis auf Anfrage,16 Zimmer,560 m²,1.575 m² Grundstück,https://www.immowelt.de/expose/767e05d2-f467-4dd2-87db-7fe2cea924da
-Unknown,Unknown,"5,5 Zimmer","189,2 m²",3. Geschoss,https://www.immowelt.de/projekte/expose/k2sg832
-"Rüttenscheid, Essen (45130)",195.000 € 3.095 €/m²,3 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/dec459a5-9787-487c-88a1-5396a0b97de6
-"Frohnhausen, Essen (45144)",604.589 € 2.549 €/m²,7 Zimmer,"237,2 m²",491 m² Grundstück,https://www.immowelt.de/expose/5310bf35-2e0e-4d12-b75e-f7ff9520ffc8
-"Frohnhausen, Essen (45144)",608.569 € 2.320 €/m²,8 Zimmer,"262,4 m²",491 m² Grundstück,https://www.immowelt.de/expose/ecad54d8-3c40-4799-a289-47aabc488e3f
-"Huttrop, Essen (45138)",139.000 € 2.044 €/m²,2 Zimmer,68 m²,3. Geschoss,https://www.immowelt.de/expose/2c0f0178-6290-491f-aca7-4f94bf4647c7
-"Horst, Essen (45279)",130.000 € 1.808 €/m²,2 Zimmer,"71,9 m²",Unknown,https://www.immowelt.de/expose/3df8528d-59b8-4b71-8c40-470ff804d801
-"Kettwig, Essen (45219)",228.000 € 2.961 €/m²,2 Zimmer,77 m²,1. Geschoss,https://www.immowelt.de/expose/7e589078-37e6-4e5f-a535-4a908b0ef8d9
-"Freisenbruch, Essen (45279)",165.000 € 2.171 €/m²,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/43dd3099-91dc-4eb5-aa1e-9722c9b49b8c
-"im Breiksken 5, Kray, Essen (45307)",545.000 € 1.453 €/m²,10 Zimmer,375 m²,512 m² Grundstück,https://www.immowelt.de/expose/dc778060-aa7c-46c8-b273-480c88135dfd
-"Rüttenscheid, Essen (45130)",178.000 € 3.560 €/m²,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/305b1eeb-8c82-4f51-b47f-8f554798f842
-"Kettwig, Essen / Kettwig (45219)",2.395.000 € 9.355 €/m²,6 Zimmer,256 m²,Unknown,https://www.immowelt.de/expose/0f949752-9cf2-49ac-a9a1-1cab2b5d1f1e
-"Dellwig, Essen (45357)",545.139 € 2.078 €/m²,8 Zimmer,"262,4 m²",492 m² Grundstück,https://www.immowelt.de/expose/7b0e578e-300d-427d-9ced-1fe80a82a2fa
-"Dellwig, Essen (45357)",339.999 € 3.173 €/m²,4 Zimmer,"107,2 m²",492 m² Grundstück,https://www.immowelt.de/expose/a618d1a6-ff89-456d-ae42-de9a2ee6e681
-"Dellwig, Essen (45357)",545.139 € 2.078 €/m²,8 Zimmer,"262,4 m²",492 m² Grundstück,https://www.immowelt.de/expose/a408835c-457c-48ef-bdfc-075943863596
-"Borbeck-Mitte, Essen / Borbeck-Mitte (45355)",120.000 € 1.905 €/m²,2 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/7ba174b9-8717-4876-b7b5-4b9900a43c86
-"Stadtwald, Essen (45133)",639.000 € 5.412 €/m²,3 Zimmer,"118,1 m²",Unknown,https://www.immowelt.de/expose/1b636310-1ff5-4953-81c9-2f594e119664
-"Horst, Essen (45279)",145.000 € 1.813 €/m²,3 Zimmer,80 m²,7. Geschoss,https://www.immowelt.de/expose/adfbcd4d-6da4-43c5-90b7-3550eed4865a
-"Rüttenscheid, Essen (45130)",179.000 € 3.154 €/m²,2 Zimmer,"56,8 m²",1. Geschoss,https://www.immowelt.de/expose/630e12ab-6092-4847-a485-84f1842e75a7
-"Schuir, Essen (45133)",2.950.000 € 9.307 €/m²,6 Zimmer,"298,7 m²",1.805 m² Grundstück,https://www.immowelt.de/expose/34bd65f8-d7b1-4941-b920-68e906acd587
-"Bredeney, Essen (45133)",279.000 € 2.921 €/m²,"2,5 Zimmer","95,5 m²",Unknown,https://www.immowelt.de/expose/784bc239-7478-4a87-bdd2-08d9b023ee63
-"Schuir, Essen (45133)",279.000 € 2.921 €/m²,"2,5 Zimmer","95,5 m²",Unknown,https://www.immowelt.de/expose/e06db5e2-1cad-4442-a25b-c1e3602d8a50
-"Bredeney, Essen / Bredeney (45133)",1.198.000 € 7.300 €/m²,4 Zimmer,"164,1 m²",EG,https://www.immowelt.de/expose/0f882273-ab7f-40da-b6da-8fb9ad53ead0
-"Bredeney, Essen / Bredeney (45133)",1.235.000 € 7.558 €/m²,4 Zimmer,"163,4 m²",EG,https://www.immowelt.de/expose/35edd4f6-1d99-4a8f-b23b-78bcefbd444e
-"Stadtwald, Essen (45134)",506.599 € 4.111 €/m²,4 Zimmer,"123,2 m²",350 m² Grundstück,https://www.immowelt.de/expose/8ce04a24-36df-4702-b3df-0dc18ea9981b
-"Stadtwald, Essen (45134)",540.640 € 3.413 €/m²,2 Zimmer,"158,4 m²",350 m² Grundstück,https://www.immowelt.de/expose/78d99b6b-d3ac-4e7a-89b8-cea39cdf75f5
-"Stadtwald, Essen (45134)",515.579 € 3.750 €/m²,3 Zimmer,"137,5 m²",350 m² Grundstück,https://www.immowelt.de/expose/b857005e-6f4c-4c6b-ba22-33e212ad940f
-"Stadtwald, Essen (45134)",520.119 € 3.829 €/m²,4 Zimmer,"135,8 m²",350 m² Grundstück,https://www.immowelt.de/expose/388deadf-d1cf-4e63-a9e9-25d105894e08
-"Bredeney, Essen (45133)",340.000 € 4.000 €/m²,2 Zimmer,85 m²,EG,https://www.immowelt.de/expose/fc870d0e-c894-4b3c-8e9d-424a824a9594
-"Kettwig, Essen (45219)",495.000 € 5.000 €/m²,3 Zimmer,99 m²,2. Geschoss,https://www.immowelt.de/expose/d6e0ae99-df14-46c6-9330-3dfea6690299
-"Kettwig, Essen (45219)",495.000 € 5.000 €/m²,3 Zimmer,99 m²,2. Geschoss,https://www.immowelt.de/expose/7810dbd4-a2af-4794-9cd0-336f65310969
-"Frillendorf, Essen (45139)",620.510 € 5.086 €/m²,7 Zimmer,122 m²,593 m² Grundstück,https://www.immowelt.de/expose/f136bd0b-babe-43c6-9905-2c874a033d10
-"Frillendorf, Essen (45139)",555.990 € 3.541 €/m²,7 Zimmer,157 m²,378 m² Grundstück,https://www.immowelt.de/expose/f7b175c9-135a-426a-8598-bce834240cbb
-"Frillendorf, Essen (45139)",514.110 € 3.620 €/m²,6 Zimmer,142 m²,378 m² Grundstück,https://www.immowelt.de/expose/1167b400-ace1-4afb-81a4-2f481f0d8d2d
-"Frillendorf, Essen (45139)",679.870 € 3.237 €/m²,9 Zimmer,210 m²,378 m² Grundstück,https://www.immowelt.de/expose/7d6b1eab-b655-431d-a6ac-7d5f91961557
-"Stadtwald, Essen (45133)",599.500 € 5.506 €/m²,3 Zimmer,"108,9 m²",Unknown,https://www.immowelt.de/expose/a85bb5af-591f-4e01-98f0-7db75f5b7c19
-"Frohnhausen, Essen-Frohnhausen (45144)",1.099.000 € 2.113 €/m²,24 Zimmer,520 m²,601 m² Grundstück,https://www.immowelt.de/expose/51f3a211-1b82-4159-8a29-828f423268ef
-"Stadtkern, Essen (45127)",190.000 € 3.800 €/m²,"1,5 Zimmer",50 m²,frei ab sofort,https://www.immowelt.de/expose/a2eed2e2-d75e-4610-a427-2d9cb362e915
-"Kettwig, Essen (45219)",399.000 € 4.750 €/m²,2 Zimmer,84 m²,1. Geschoss,https://www.immowelt.de/expose/3828dcec-e449-4866-a616-df8af9119ec7
-"Kettwig, Essen (45219)",569.000 € 4.991 €/m²,3 Zimmer,114 m²,2. Geschoss,https://www.immowelt.de/expose/53e0938b-72b0-4c8d-a470-5c3863213c34
-"Kettwig, Essen (45219)",399.000 € 4.807 €/m²,2 Zimmer,83 m²,1. Geschoss,https://www.immowelt.de/expose/8f4fbc4d-80fc-4cd6-9132-3c4b804b6a86
-"Kettwig, Essen (45219)",545.000 € 5.000 €/m²,4 Zimmer,109 m²,EG,https://www.immowelt.de/expose/fe7377f9-28f1-457c-aca7-4562c1d7cd39
-"Ostviertel, Essen (45127)",350.000 € 3.933 €/m²,2 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/211868e6-470c-4b64-a9a3-8aa8b5fbddc7
-"Schönebeck, Essen (45359)",395.000 € 3.496 €/m²,4 Zimmer,113 m²,EG,https://www.immowelt.de/expose/65491c57-392c-4615-a6bf-05c00abeab3c
-"Kupferdreh, Essen (45257)",360.000 € 2.535 €/m²,9 Zimmer,142 m²,224 m² Grundstück,https://www.immowelt.de/expose/b60b27cc-8afb-48e4-8d40-0b2da0e88f59
-"Kupferdreh, Essen (45257)",199.000 € 2.653 €/m²,3 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/1ace6a1c-6480-4d5e-9f50-2fe3c50d6d6b
-"Katernberg, Essen (45327)",750.000 € 1.185 €/m²,24 Zimmer,633 m²,1.054 m² Grundstück,https://www.immowelt.de/expose/08a96e7d-6008-4ee6-8769-c5a9c8456a07
-"Südviertel, Essen (45128)",5.999.000 € 6.959 €/m²,862 m²,Unknown,Unknown,https://www.immowelt.de/expose/1d2af3b9-be5d-4c6a-a2cb-4f7faf9bd567
-"Schuir, Essen (45133)",695.000 € 4.067 €/m²,5 Zimmer,"170,9 m²",523 m² Grundstück,https://www.immowelt.de/expose/797f5e88-89db-4ade-b9b6-501c1cf84dfb
-"Gerschede, Essen (45357)",135.000 € 2.700 €/m²,2 Zimmer,50 m²,1. Geschoss,https://www.immowelt.de/expose/c3cd9c7d-900a-41fb-8443-f6c6d4ef0d76
-"Bedingrade, Essen / Bedingrade (45359)",585.000 € 4.078 €/m²,5 Zimmer,"143,4 m²",620 m² Grundstück,https://www.immowelt.de/expose/9387c204-5541-4d83-92a7-2d600c66fcac
-"Bedingrade, Essen / Bedingrade (45359)",595.000 € 4.063 €/m²,6 Zimmer,"146,4 m²",620 m² Grundstück,https://www.immowelt.de/expose/c5f69c91-35be-437b-bd42-54f250d1de01
-"Bredeney, Essen / Bredeney (45133)",1.510.000 € 9.185 €/m²,3 Zimmer,"164,4 m²",EG,https://www.immowelt.de/expose/c367a906-6670-499e-9f8d-d1267f86fb0d
-"Bredeney, Essen / Bredeney (45133)",1.065.000 € 7.320 €/m²,4 Zimmer,"145,5 m²",1. Geschoss,https://www.immowelt.de/expose/defd8632-28e6-49b5-8359-06858627317b
-"Bredeney, Essen / Bredeney (45133)",1.106.000 € 7.560 €/m²,4 Zimmer,"146,3 m²",1. Geschoss,https://www.immowelt.de/expose/557e2ba9-e333-4cb6-9239-be200d251085
-"Frillendorf, Essen (45139)",467.550 € 3.740 €/m²,6 Zimmer,125 m²,368 m² Grundstück,https://www.immowelt.de/expose/14ede629-658b-41ad-9e48-44db47366191
-"Rüttenscheid, Essen (45130)",134.900 € 1.938 €/m²,3 Zimmer,"69,6 m²",Unknown,https://www.immowelt.de/expose/2d24d893-cfbc-4c4f-94f7-d7d04bbf535b
-"Bredeney, Essen / Bredeney (45133)",1.026.000 € 7.013 €/m²,4 Zimmer,"146,3 m²",1. Geschoss,https://www.immowelt.de/expose/ff3dc3a5-eb58-4430-8228-29adb6840ec2
-"Bredeney, Essen / Bredeney (45133)",1.170.000 € 7.147 €/m²,4 Zimmer,"163,7 m²",EG,https://www.immowelt.de/expose/eb5e2bb6-9507-4ccb-b52b-638d5d7c629a
-"Bredeney, Essen / Bredeney (45133)",1.230.000 € 7.569 €/m²,4 Zimmer,"162,5 m²",EG,https://www.immowelt.de/expose/d77aa3b7-398f-46aa-ad5b-c686d3e8b607
-"Bredeney, Essen / Bredeney (45133)",1.106.000 € 7.544 €/m²,4 Zimmer,"146,6 m²",1. Geschoss,https://www.immowelt.de/expose/72ff5260-0e30-4fa0-9608-7bba0b02c657
-Unknown,Unknown,"5,5 Zimmer",144 m²,511 m² Grundstück,https://www.immowelt.de/projekte/expose/k2fq732
-Unknown,Unknown,"5,5 Zimmer",144 m²,340 m² Grundstück,https://www.immowelt.de/projekte/expose/k2fq732
-"Bredeney, Essen / Bredeney (45133)",1.140.000 € 7.011 €/m²,4 Zimmer,"162,6 m²",EG,https://www.immowelt.de/expose/20a6b32a-e556-4c64-bd97-cd77006f7e65
-"Frankenstr. 98, Rellinghausen, Essen (45134)",147.500 € 2.201 €/m²,3 Zimmer,67 m²,3. Geschoss,https://www.immowelt.de/expose/b3de8dcf-0294-4645-875a-fbcfd3017737
-Unknown,Unknown,"5,5 Zimmer",144 m²,460 m² Grundstück,https://www.immowelt.de/projekte/expose/k2fq732
-"Bredeney, Essen (45133)",1.790.000 € 4.464 €/m²,10 Zimmer,401 m²,2.334 m² Grundstück,https://www.immowelt.de/expose/0297c5b6-839c-4e0e-8e6d-82fb6c433508
-"Frillendorf, Essen (45139)",895.000 € 2.002 €/m²,447 m²,972 m² Grundstück,Unknown,https://www.immowelt.de/expose/cf166914-4a5d-4755-8490-0b497e3d5434
-"Schönebeck, Essen / Schönebeck (45359)",120.000 € 1.935 €/m²,2 Zimmer,62 m²,4. Geschoss,https://www.immowelt.de/expose/0df2c02b-502e-4e63-849a-52563fcfaf5f
-"Dennendreef 5, Stadtkern, Boxtel (5282 HK)",139.500 € 2.536 €/m²,3 Zimmer,55 m²,225 m² Grundstück,https://www.immowelt.de/expose/83f15a7c-2799-4643-9de3-f9687b565075
-"Kettwig, Essen (45219)",295.071 € 10.228 €/m²,1 Zimmer,"28,9 m²",2. Geschoss,https://www.immowelt.de/expose/7a13e25f-522c-4503-b8e7-733941c0e33d
-"Kettwig, Essen (45219)",286.740 € 4.459 €/m²,2 Zimmer,"64,3 m²",1. Geschoss,https://www.immowelt.de/expose/00941873-c63d-4096-bf72-63f9f0134ac3
-"Schuir, Essen (45133)",2.045.000 € 7.865 €/m²,6 Zimmer,260 m²,660 m² Grundstück,https://www.immowelt.de/expose/cd990d6d-9a33-4bed-a90e-757809fd75b9
-"Bochhold, Essen (45355)",142.500 € 2.298 €/m²,2 Zimmer,62 m²,EG,https://www.immowelt.de/expose/19a61db6-5bf4-4988-8da5-926fd451683e
-"Heisingen, Essen (45259)",189.000 € 2.662 €/m²,"2,5 Zimmer",71 m²,Unknown,https://www.immowelt.de/expose/2dde6cd3-bfdf-472f-8562-272237b5acc6
-"Käthe-Larsch-Straße, Stadtkern, Essen (45127)",200.000 € 2.564 €/m²,"2,5 Zimmer",78 m²,frei ab sofort,https://www.immowelt.de/expose/7889013e-d9b6-4c5c-940c-03c626146c47
-"Herkulesstraße, Ostviertel, Essen (45147)",130.000 € 553 €/m²,7 Zimmer,235 m²,frei ab sofort,https://www.immowelt.de/expose/eb6c6dd5-4e94-4ada-bae2-b4d3f51f4cc7
-"Heiligenhauserstraße, Kettwig, Essen (45219)","1.700 € 12,14 €/m²",5 Zimmer,140 m²,frei ab sofort,https://www.immowelt.de/expose/128c3f6b-fc13-418c-9e48-99893f092dc1
-"Hauptstrasse, Kettwig, Essen (45219)",200.000 € 1.961 €/m²,3 Zimmer,102 m²,frei ab sofort,https://www.immowelt.de/expose/4750fd24-6e07-4135-b713-0805a47cc936
-"Hans-Luther-Allee, Rüttenscheid, Essen (45131)",200.000 € 494 €/m²,"5,5 Zimmer",405 m²,frei ab sofort,https://www.immowelt.de/expose/fea137e2-c70f-4720-98df-1341a036684a
-"Hohehausstr., Bochhold, Essen (45355)",140.000 € 1.758 €/m²,"3,5 Zimmer","79,6 m²",frei ab sofort,https://www.immowelt.de/expose/6462ab6d-c781-4176-9909-39445177ab7d
-"Kupferdreh, Essen (45257)",800.000 € 1.860 €/m²,430 m²,Unknown,Unknown,https://www.immowelt.de/expose/4f2f8e5d-4e77-4f8d-90c3-52ddcf91f14b
-"Kupferdreh, Essen (45257)",155.000 € 2.818 €/m²,2 Zimmer,55 m²,EG,https://www.immowelt.de/expose/751e3c78-8261-4f10-84bc-43581044b6df
-"Kupferdreh, Essen (45257)",220.000 € 2.558 €/m²,3 Zimmer,86 m²,2. Geschoss,https://www.immowelt.de/expose/00b2e088-2cee-484e-ab6e-2b386fcfafcc
-"Stobbestraße 11, Holsterhausen, Essen (45147)",199.900 € 2.474 €/m²,4 Zimmer,"80,8 m²",EG,https://www.immowelt.de/expose/6c74d29a-a14e-4ac8-870e-9bfa41107490
-"Stoppenberg, Essen (45141)",355.000 € 2.817 €/m²,126 m²,Unknown,Unknown,https://www.immowelt.de/expose/4330e0be-393f-4318-ba75-91672728a8a9
-"Holsterhausen, Essen (45147)",130.000 € 1.970 €/m²,2 Zimmer,66 m²,1. Geschoss,https://www.immowelt.de/expose/f22c71c6-36b7-48c0-b4c5-f7ccd4d72ba7
-"Nollendorfstraße 50, Heißen - Süd, Mülheim an der Ruhr (45472)",139.000 € 2.439 €/m²,3 Zimmer,57 m²,2. Geschoss,https://www.immowelt.de/expose/dab33758-bd86-438f-924e-60b368757224
-"Heißen - Süd, Mülheim (45472)",354.000 € 4.694 €/m²,2 Zimmer,"75,4 m²",Unknown,https://www.immowelt.de/projekte/expose/k2wz832
-"Heißen - Mitte, Mülheim an der Ruhr (45472)",240.000 € 976 €/m²,246 m²,Unknown,Unknown,https://www.immowelt.de/expose/147ece95-ef95-46a8-bdad-82516295a731
-"Holthausen - West, Mülheim an der Ruhr (45472)",480.000 € 4.752 €/m²,"3,5 Zimmer",101 m²,2. Geschoss,https://www.immowelt.de/expose/d4ba9609-bb62-40f1-a822-58ab42103dfe
+Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL;city_id
+Bredeney, Essen (45133),695.000 € 3.840 €/m²,4 Zimmer,181 m²,Unknown,https://www.immowelt.de/expose/93496459-87da-49a5-abea-2815ec773ab0;2153
+Fulerum, Essen (45149),645.000 € 2.434 €/m²,12 Zimmer,265 m²,1.196 m² Grundstück,https://www.immowelt.de/expose/dd2340f0-d7a4-4e86-a159-3328c129b56a;2153
+Fischlaken, Essen (45239),1.381.538 € 6.548 €/m²,6 Zimmer,211 m²,1.130 m² Grundstück,https://www.immowelt.de/expose/8f2a29f4-a7e9-4e67-9654-0846339131af;2153
+Fischlaken, Essen (45239),1.194.797 € 7.659 €/m²,5 Zimmer,156 m²,1.113 m² Grundstück,https://www.immowelt.de/expose/2c67975d-013d-422d-857c-8f30e2905fd6;2153
+Frohnhausen, Essen (45145),194.000 € 1.960 €/m²,4 Zimmer,99 m²,Unknown,https://www.immowelt.de/expose/619abd51-f90d-4fc1-a4bc-874a70059148;2153
+"Tauweg 2, Dellwig, Essen (45357),126.900 € 2.033 €/m²,""4,5 Zimmer"",""62,4 m²"",EG,https://www.immowelt.de/expose/558742df-6e4d-45b0-b94b-427d691fba16";2153
+"Im Dreieck 1, Dellwig, Essen (45357),114.500 € 1.993 €/m²,3 Zimmer,""57,5 m²"",EG,https://www.immowelt.de/expose/bbf74564-4443-4be9-8f0d-9db579abbf53";2153
+"Ripshorster Straße 344, Dellwig, Essen (45357),142.000 € 2.080 €/m²,3 Zimmer,""68,3 m²"",1. Geschoss,https://www.immowelt.de/expose/d60fec4a-5042-4956-bd0d-9c676c88da01";2153
+"Ripshorster Straße 336, Dellwig, Essen (45357),139.000 € 2.078 €/m²,""3,5 Zimmer"",""66,9 m²"",3. Geschoss,https://www.immowelt.de/expose/4e6bce5c-31fb-4609-b401-1e9bcca8794d";2153
+"Im Dreieck 5, Dellwig, Essen (45357),114.500 € 1.993 €/m²,""4,5 Zimmer"",""57,5 m²"",1. Geschoss,https://www.immowelt.de/expose/c5fb3f03-983a-41a8-b85f-34562db10588";2153
+"Südviertel, Essen (45128),207.900 € 2.800 €/m²,2 Zimmer,""74,3 m²"",EG,https://www.immowelt.de/expose/8f2ca680-af99-4a97-80c6-a26fee9828a4";2153
+"Kleine Steinstraße 11, Südviertel, Essen (45128),239.000 € 2.104 €/m²,4 Zimmer,""113,6 m²"",Unknown,https://www.immowelt.de/expose/353364f7-ab0c-422b-807d-2dcb8b730dd4";2153
+Werden, Essen (45239),670.000 € 4.467 €/m²,4 Zimmer,150 m²,291 m² Grundstück,https://www.immowelt.de/expose/bce1b653-7e88-4ea0-80db-9e576440be7d;2153
+Burgaltendorf, Essen (45289),749.000 € 2.859 €/m²,7 Zimmer,262 m²,430 m² Grundstück,https://www.immowelt.de/expose/c34b337c-3eaf-4639-8fc4-6bb55b2c1ac9;2153
+"Wiesengrund 17, Dellwig, Essen (45357),104.900 € 2.276 €/m²,2 Zimmer,""46,1 m²"",1. Geschoss,https://www.immowelt.de/expose/d14661a3-4bdb-4e7b-aad6-4cc5c2e1a10a";2153
+Nordviertel, Essen (45141),115.000 € 1.885 €/m²,3 Zimmer,61 m²,2. Geschoss,https://www.immowelt.de/expose/d9993798-0ed0-46d9-8493-97c8e5b945fe;2153
+"Stiftsdamenwald 21/21a, Stoppenberg, Essen (45141),279.000 € 2.059 €/m²,6 Zimmer,""135,5 m²"",583 m² Grundstück,https://www.immowelt.de/expose/cc596508-48c0-4926-9db7-c7c0651eb9c7";2153
+Werdener Straße 48, Kettwig, Essen (45219),187.000 € 2.427 €/m²,3 Zimmer,77 m²,7. Geschoss,https://www.immowelt.de/expose/b39c44c1-1e11-4708-af8c-d7cf0bebbdd8;2153
+"Wiesengrund 15, Dellwig, Essen (45357),112.000 € 2.402 €/m²,2 Zimmer,""46,6 m²"",2. Geschoss,https://www.immowelt.de/expose/def3ea84-6a8a-49b9-93cc-ff526a1ab984";2153
+"Adelgundenweg 22, Bergerhausen, Essen (45136),182.900 € 2.692 €/m²,3 Zimmer,""67,9 m²"",EG,https://www.immowelt.de/expose/202a7136-dcbe-49c2-a6a1-b205d71c7e6f";2153
+"Ruhrtalstraße 403, Kettwig, Essen (45219),219.900 € 2.361 €/m²,5 Zimmer,""93,1 m²"",EG,https://www.immowelt.de/expose/69f4c0fd-b20c-4d05-9a6f-71baaa89007c";2153
+"Werdener Straße 52, Kettwig, Essen (45219),208.100 € 2.800 €/m²,3 Zimmer,""74,3 m²"",2. Geschoss,https://www.immowelt.de/expose/e4f828f1-44b4-4fb5-8ab4-5b9d72053e16";2153
+"Regenweg 1, Dellwig, Essen (45357),124.000 € 2.161 €/m²,""2,5 Zimmer"",""57,4 m²"",EG,https://www.immowelt.de/expose/2ec0a5cd-d5be-4833-986d-cc3a4ed8b89a";2153
+Bauvereinstraße 7/9, Bergerhausen, Essen (45136),145.500 € 2.645 €/m²,2 Zimmer,55 m²,1. Geschoss,https://www.immowelt.de/expose/b58bf577-c649-4cfe-bf01-941a8047ac8d;2153
+"Donnerstraße 247, Dellwig, Essen (45357),89.000 € 1.851 €/m²,3 Zimmer,""48,1 m²"",1. Geschoss,https://www.immowelt.de/expose/98f044e9-7b81-4b64-8e18-6c047750a892";2153
+"Bredeney, Essen (45133),634.500 € 5.878 €/m²,""4,5 Zimmer"",""107,9 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2sg832";2153
+"Emscherstraße 12, Katernberg, Essen (45327),319.000 € 3.559 €/m²,3 Zimmer,""89,6 m²"",frei ab sofort,https://www.immowelt.de/expose/cb40a7db-01c4-435e-932a-7d48103445a1";2153
+"Luthestraße 18, Dellwig, Essen (45357),140.200 € 2.443 €/m²,""2,5 Zimmer"",""57,4 m²"",EG,https://www.immowelt.de/expose/70f3bfee-9fc2-40e9-84cc-c4ee5d045b07";2153
+"Luthestraße 22, Dellwig, Essen (45357),124.000 € 2.161 €/m²,3 Zimmer,""57,4 m²"",1. Geschoss,https://www.immowelt.de/expose/12cad147-ba75-4496-a3e1-0ea407ff82da";2153
+"Bauvereinstraße 7/9, Bergerhausen, Essen (45136),135.000 € 2.255 €/m²,""2,5 Zimmer"",""59,9 m²"",1. Geschoss,https://www.immowelt.de/expose/c7fedc69-280f-4ee1-a631-66e9aaded0b4";2153
+"Donnerberg 116a, Dellwig, Essen (45357),114.000 € 1.750 €/m²,3 Zimmer,""65,2 m²"",2. Geschoss,https://www.immowelt.de/expose/67a6c521-bcb8-4604-af1e-623ead909b08";2153
+"Donnerstraße 249, Dellwig, Essen (45357),104.000 € 2.163 €/m²,2 Zimmer,""48,1 m²"",EG,https://www.immowelt.de/expose/e2e0e24d-c5b1-4707-a985-aa75ff82e376";2153
+"Regenweg 1, Dellwig, Essen (45357),120.000 € 2.091 €/m²,3 Zimmer,""57,4 m²"",1. Geschoss,https://www.immowelt.de/expose/72c619bb-0497-4d5c-9803-315a06450db3";2153
+"Wiesengrund 15, Dellwig, Essen (45357),114.400 € 2.555 €/m²,2 Zimmer,""44,8 m²"",2. Geschoss,https://www.immowelt.de/expose/20ccb779-7203-410e-a12b-255f1cc9c132";2153
+"Werdener Straße 48, Kettwig, Essen (45219),225.000 € 2.859 €/m²,3 Zimmer,""78,7 m²"",EG,https://www.immowelt.de/expose/a18a8d1b-a9c5-4bcb-b5d0-48b2432064c8";2153
+"Im Dreieck 1, Dellwig, Essen (45357),119.500 € 2.080 €/m²,3 Zimmer,""57,5 m²"",1. Geschoss,https://www.immowelt.de/expose/d99e88e6-dd7a-443c-a62a-c96b8c6812c1";2153
+Langenberger Str. 505, Überruhr-Holthausen, Essen (45277),420.000 € 2.373 €/m²,4 Zimmer,177 m²,1. Geschoss,https://www.immowelt.de/expose/9036902b-44bc-4d4a-8cbf-f6d8249ac701;2153
+Am Jungborn, Bochhold, Essen (45355),135.000 € 2.177 €/m²,2 Zimmer,62 m²,2. Geschoss,https://www.immowelt.de/expose/613dd0db-30d6-425d-9bad-676f7caa6fb1;2153
+Heisingen, Essen (45259),1.395.974 € 7.977 €/m²,6 Zimmer,175 m²,711 m² Grundstück,https://www.immowelt.de/expose/beb41dfa-e423-46ba-9af5-c54a74d1b843;2153
+Huttrop, Essen (45138),89.000 € 1.459 €/m²,2 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/82d4308a-ebca-4a61-9ec1-20e0b604fcdf;2153
+Bredeney, Essen / Bredeney (45133),1.295.000 € 5.373 €/m²,6 Zimmer,241 m²,Unknown,https://www.immowelt.de/expose/2da6b1af-431b-47de-a685-97f948f9fd47;2153
+"Rüttenscheid, Essen (45130),279.000 € 2.937 €/m²,""3,5 Zimmer"",95 m²,3. Geschoss,https://www.immowelt.de/expose/01bd5716-86cd-4dcd-b6a3-32d824f6102c";2153
+"Holsterhausen, Essen (45145),95.000 € 1.759 €/m²,""2,5 Zimmer"",54 m²,1. Geschoss,https://www.immowelt.de/expose/465df720-c623-4473-8e6e-70f8c037d9e5";2153
+Heisingen, Essen (45259),99.000 € 3.300 €/m²,1 Zimmer,30 m²,1. Geschoss,https://www.immowelt.de/expose/5c0f40d8-a76c-4ee6-9048-a552768fdb97;2153
+Bredeney, Essen (45133),2.200.000 € 44.900 €/m²,10 Zimmer,500 m²,2.375 m² Grundstück,https://www.immowelt.de/expose/24c14da8-773b-44ba-90ea-92bff37a9636;2153
+Bredeney, Essen (45133),1.149.000 € 3.869 €/m²,5 Zimmer,297 m²,EG,https://www.immowelt.de/expose/1e58d3f8-d8d6-47d9-8270-e0f08d67e91f;2153
+Margarethenhöhe, Essen (45149),359.000 € 3.520 €/m²,4 Zimmer,102 m²,3. Geschoss,https://www.immowelt.de/expose/f7df7cad-f0a1-4c36-9c46-fe73c2983363;2153
+Kettwig, Essen (45219),210.000 € 2.211 €/m²,3 Zimmer,95 m²,Unknown,https://www.immowelt.de/expose/0b64f1aa-3d55-4652-88b3-0ecc562a2422;2153
+Burgaltendorf, Essen / Burgaltendorf (45289),279.000 € 1.860 €/m²,4 Zimmer,150 m²,2. Geschoss,https://www.immowelt.de/expose/7aa3c560-5670-4920-94e5-f4770b560caa;2153
+"Bredeney, Essen (45133),639.000 € 5.120 €/m²,3 Zimmer,""124,8 m²"",frei ab 01.01.2025,https://www.immowelt.de/expose/b665837a-9d87-4307-a4d5-d99786072dbc";2153
+Haskenstraße 22, Altendorf, Essen (45143),798.000 € 1.390 €/m²,574 m²,221 m² Grundstück,Unknown,https://www.immowelt.de/expose/ac0af6c7-146f-4d5a-a7b3-8019d0b3d985;2153
+Stadtwald, Essen (45133),585.000 € 3.079 €/m²,7 Zimmer,190 m²,5. Geschoss,https://www.immowelt.de/expose/dd7cf992-8dee-45a3-a49e-b71fb664f307;2153
+"Altendorf, Essen (45143),99.999 € 1.639 €/m²,""2,5 Zimmer"",61 m²,1. Geschoss,https://www.immowelt.de/expose/7738ecc1-9d7a-4432-9fb0-37e94505ccf0";2153
+Fischlaken, Essen (45239),419.000 € 2.993 €/m²,4 Zimmer,140 m²,Unknown,https://www.immowelt.de/expose/81c6a4ef-e41e-4b72-9ded-8bde4cc40c8e;2153
+"Frintrop, Essen (45359),209.000 € 2.188 €/m²,2 Zimmer,""95,5 m²"",1. Geschoss,https://www.immowelt.de/expose/0ed2123f-1702-43c2-8478-00b6592753dd";2153
+Bredeney, Essen (45133),950.000 € 4.847 €/m²,5 Zimmer,196 m²,frei ab 01.07.2025,https://www.immowelt.de/expose/18a53543-aeb2-44bf-8116-40530a18f709;2153
+Bergerhausen, Essen / Bergerhausen (45136),95.000 € 1.900 €/m²,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/0924fca0-f4c0-4b90-b7f3-7ba3106fb7c7;2153
+Onckenstraße 66, Frohnhausen, Essen (45144),349.000 € 1.163 €/m²,300 m²,315 m² Grundstück,Unknown,https://www.immowelt.de/expose/62253139-b121-4c26-94b3-52c0cb9fd1b5;2153
+"Kunstwerkerstraße 175-187, Bergerhausen, Essen (45136),548.000 € 3.874 €/m²,""3,5 Zimmer"",""141,5 m²"",1. Geschoss,https://www.immowelt.de/expose/f75fe35b-5407-44fa-82fc-dbebff4c41cd";2153
+Nordviertel, Essen (45141),205.000 € 1.694 €/m²,5 Zimmer,121 m²,Unknown,https://www.immowelt.de/expose/e7bfae48-914f-432e-952d-57fe665a6210;2153
+Schonnebeck, Essen / Schonebeck (45309),380.000 € 3.248 €/m²,4 Zimmer,117 m²,495 m² Grundstück,https://www.immowelt.de/expose/cd5060e2-b6c8-4715-b161-94b0e67b5a5b;2153
+Bergerhausen, Essen (45136),235.000 € 2.260 €/m²,4 Zimmer,104 m²,1. Geschoss,https://www.immowelt.de/expose/a72e8bd4-4de9-4db5-8d9d-54b41beee071;2153
+"Bredeney, Essen (45133),389.500 € 5.824 €/m²,""2,5 Zimmer"",""66,9 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2sg832";2153
+"Bredeney, Essen (45133),369.500 € 5.265 €/m²,""2,5 Zimmer"",""70,2 m²"",EG,https://www.immowelt.de/projekte/expose/k2sg832";2153
+Frohnhausen, Essen / Frohnhausen (45145),119.000 € 1.951 €/m²,2 Zimmer,61 m²,2. Geschoss,https://www.immowelt.de/expose/370d414e-48e6-40ab-9b9d-aca043503317;2153
+Frillendorf, Essen (45139),546.970 € 3.696 €/m²,7 Zimmer,148 m²,368 m² Grundstück,https://www.immowelt.de/expose/f724a1c7-5caf-4cc7-945a-7da49a954e78;2153
+Keplerstr. 79, Holsterhausen, Essen (45147),105.000 € 1.750 €/m²,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/ea777419-9990-46e3-b3fa-be2eb080fcc6;2153
+"Frohnhausen, Essen (45144),359.000 € 1.197 €/m²,""20,5 Zimmer"",300 m²,315 m² Grundstück,https://www.immowelt.de/expose/28bc1538-3750-43aa-aab1-bc81e55a0cdb";2153
+"Bredeney, Essen / Bredeney (45133),765.000 € 7.384 €/m²,3 Zimmer,""103,6 m²"",1. Geschoss,https://www.immowelt.de/expose/037354ef-c8d3-499e-bccf-b368147bf010";2153
+"Bredeney, Essen / Bredeney (45133),920.000 € 7.160 €/m²,3 Zimmer,""128,5 m²"",EG,https://www.immowelt.de/expose/5c0c3f31-f277-4028-b06f-2fbd67829fb9";2153
+"Bredeney, Essen / Bredeney (45133),1.065.000 € 7.315 €/m²,4 Zimmer,""145,6 m²"",1. Geschoss,https://www.immowelt.de/expose/a7e9461f-efaf-4cd1-a756-947bea2cf09c";2153
+"Stadtwald, Essen (45133),499.000 € 4.916 €/m²,4 Zimmer,""101,5 m²"",1. Geschoss,https://www.immowelt.de/expose/bc5ca575-538c-44f8-80f1-76b46df05ba6";2153
+Karnap, Essen (45329),139.890 € 2.250 €/m²,3 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/ab6ef769-3080-45ac-907f-09c918b70625;2153
+Bergerhausen, Essen / Bergerhausen (45136),1.050.000 € 1.906 €/m²,551 m²,323 m² Grundstück,Unknown,https://www.immowelt.de/expose/a5b3e596-4217-4875-944b-85ac296e53dc;2153
+"Bredeney, Essen / Bredeney (45133),735.000 € 7.095 €/m²,3 Zimmer,""103,6 m²"",1. Geschoss,https://www.immowelt.de/expose/bbfc9fad-cf99-44b9-a75a-34581e1bf6a2";2153
+"Bredeney, Essen / Bredeney (45133),945.000 € 7.354 €/m²,3 Zimmer,""128,5 m²"",EG,https://www.immowelt.de/expose/3364537c-a44f-4140-ba3b-5511cb2dc807";2153
+Basunestraße, Altenessen-Nord, Essen (45329),487.500 € 3.482 €/m²,5 Zimmer,140 m²,313 m² Grundstück,https://www.immowelt.de/expose/1217b755-057e-4aab-9e7c-39213f39de74;2153
+"Schuir, Essen (45133),2.950.000 € 9.307 €/m²,6 Zimmer,""298,7 m²"",1.805 m² Grundstück,https://www.immowelt.de/expose/e54861b5-0b6e-4bba-8ba5-725cc1ae14f1";2153
+Dellwig, Essen (45357),75.000 € 2.083 €/m²,1 Zimmer,36 m²,EG,https://www.immowelt.de/expose/c2de4ca8-0ae7-4b3b-8d53-48de4fa492f4;2153
+"Kettwig, Essen (45219),310.000 € 2.517 €/m²,""4,5 Zimmer"",""123,2 m²"",5. Geschoss,https://www.immowelt.de/expose/2369a3ff-3778-4bd7-8aea-47de935b43bf";2153
+Bergerhausen, Essen (45136),995.000 € 2.168 €/m²,19 Zimmer,459 m²,545 m² Grundstück,https://www.immowelt.de/expose/1c38d2fb-259c-4520-9b9f-23fa99506b16;2153
+Theobaldstraße 49, Katernberg, Essen (45327),315.000 € 2.603 €/m²,6 Zimmer,121 m²,673 m² Grundstück,https://www.immowelt.de/expose/837e9aab-ddc4-40b1-9c71-865ea48722be;2153
+Frintrop, Essen (45359),95.000 € 1.583 €/m²,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/789f8cc8-eb33-41ac-92ff-2b21dbce6288;2153
+"Altendorf, Essen (45143),345.000 € 1.438 €/m²,240 m²,""281,3 m² Grundstück"",Unknown,https://www.immowelt.de/expose/d711a4b2-e1ab-4cc6-9881-6cbb06a81151";2153
+-, Stadtkern, Essen (45127),899.000 € 5.619 €/m²,6 Zimmer,160 m²,230 m² Grundstück,https://www.immowelt.de/expose/668e1f7c-dca4-435b-be93-fda1c6253123;2153
+-, Frohnhausen, Overrath (51491),799.000 € 4.994 €/m²,6 Zimmer,160 m²,230 m² Grundstück,https://www.immowelt.de/expose/065d90a5-c0b2-454a-b994-516922a27f38;2153
+Altenessen-Süd, Essen / Altenessen-Süd (45326),475.000 € 1.471 €/m²,17 Zimmer,323 m²,Unknown,https://www.immowelt.de/expose/ce8d46f8-ac2b-44ae-9a5f-d8af61d1f34b;2153
+"Heisingen, Essen (45259),279.000 € 3.282 €/m²,""3,5 Zimmer"",85 m²,1. Geschoss,https://www.immowelt.de/expose/233ae7c8-fc79-428d-b0a5-89a871d77f4a";2153
+Katernberg, Essen (45327),775.000 € 2.320 €/m²,8 Zimmer,334 m²,4.910 m² Grundstück,https://www.immowelt.de/expose/40482a80-5686-4029-b8c2-e1213886433a;2153
+Bredeney, Essen (45133),980.000 € 4.804 €/m²,6 Zimmer,204 m²,Unknown,https://www.immowelt.de/expose/3243ee64-7c33-4e87-bc1c-a08c86e724bf;2153
+Stoppenberg, Essen (45141),355.000 € 2.817 €/m²,126 m²,252 m² Grundstück,Unknown,https://www.immowelt.de/expose/a7df41d2-ba3d-4ad7-8d14-037d5e58c643;2153
+Katernberg, Essen (45327),1.790.000 € 1.362 €/m²,54 Zimmer,1.314 m²,2.944 m² Grundstück,https://www.immowelt.de/expose/a19e9365-e64c-46f3-9af7-99741818cdf8;2153
+Stoppenberg, Essen (45141),355.000 € 2.817 €/m²,1 Zimmer,126 m²,252 m² Grundstück,https://www.immowelt.de/expose/5c15fbb2-68da-4b1c-81ba-4ea84d15a9aa;2153
+Fulerum, Essen (45149),449.000 € 4.402 €/m²,3 Zimmer,102 m²,1. Geschoss,https://www.immowelt.de/expose/ac50e0fe-ae26-4008-8fe3-60ff9107c739;2153
+"Frohnhausen, Essen / Frohnhausen (45145),73.000 € 1.765 €/m²,""41,4 m²"",2. Geschoss,Unknown,https://www.immowelt.de/expose/90d63155-6266-434c-b767-5e4ab487dd80";2153
+Gelsenkirchener str 308, Katernberg, essen (45327),100.000 € 391 €/m²,10 Zimmer,256 m²,2.300 m² Grundstück,https://www.immowelt.de/expose/e9cc6fa9-8e8c-4385-bfe1-6c5715ff2568;2153
+Fischlaken, Essen (45239),645.000 € 3.525 €/m²,7 Zimmer,183 m²,558 m² Grundstück,https://www.immowelt.de/expose/9cd2ebc7-ae79-41a6-b77f-6261f0ce367b;2153
+Steele, Essen (45276),795.000 € 3.142 €/m²,8 Zimmer,253 m²,480 m² Grundstück,https://www.immowelt.de/expose/33a7296e-0e00-4342-b8e7-e4b676e06a82;2153
+Heisingen, Essen (45259),182.000 € 1.784 €/m²,3 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/eee97b5e-c06c-48d8-abf6-fe40346c0789;2153
+Katernberg, Essen (45327),170.000 € 659 €/m²,1 Zimmer,258 m²,2.332 m² Grundstück,https://www.immowelt.de/expose/cf7ba45b-c112-4182-8aea-96022cf14250;2153
+Kupferdreh, Essen (45257),412.000 € 2.289 €/m²,7 Zimmer,180 m²,203 m² Grundstück,https://www.immowelt.de/expose/468f207b-9bbb-42f0-91c6-6dbc50f59cbb;2153
+Werden, Essen (45239),1.220.000 € 4.080 €/m²,9 Zimmer,299 m²,10.113 m² Grundstück,https://www.immowelt.de/expose/ff419998-32b1-42c7-b58f-fd52d084d5f2;2153
+"Steele, Essen (45276),89.500 € 1.904 €/m²,""1,5 Zimmer"",47 m²,2. Geschoss,https://www.immowelt.de/expose/1c4ac6dc-b5d5-4d72-8664-dcc63664bb15";2153
+Rüttenscheid, Essen (45131),345.000 € 4.207 €/m²,3 Zimmer,82 m²,Unknown,https://www.immowelt.de/expose/1d3e4e9f-08ae-475c-a4ad-3c572fab2d7f;2153
+Holsterhausen, Essen (45147),600.000 € 1.467 €/m²,21 Zimmer,409 m²,362 m² Grundstück,https://www.immowelt.de/expose/07702788-9e0c-450c-8e66-c2696f5e1698;2153
+Kettwig, Essen (45219),690.000 € 5.000 €/m²,138 m²,Unknown,Unknown,https://www.immowelt.de/expose/f5676861-52ed-4adc-a09d-ed2c1824df7e;2153
+"Bochhold, Essen (45355),159.999 € 2.145 €/m²,3 Zimmer,""74,6 m²"",3. Geschoss,https://www.immowelt.de/expose/14d7a6b8-9115-4187-82b8-2d8a70d698d1";2153
+"Bochhold, Essen (45355),219.912 € 2.192 €/m²,3 Zimmer,""100,3 m²"",2. Geschoss,https://www.immowelt.de/expose/10986150-d65e-4736-bcaa-e09eaa61340f";2153
+Katernberg, Essen (45327),209.950 € 893 €/m²,10 Zimmer,235 m²,185 m² Grundstück,https://www.immowelt.de/expose/ee2be46a-e55f-4cc5-97cc-451e03732446;2153
+"Vogelheim, Essen (45356),199.500 € 2.594 €/m²,3 Zimmer,""76,9 m²"",375 m² Grundstück,https://www.immowelt.de/expose/c22cbaa6-a7c0-4e0f-b8d0-b36eab3bc87d";2153
+Burgfeldstraße 31, Westviertel, Essen (45127),150.000 € 3.571 €/m²,1 Zimmer,42 m²,1. Geschoss,https://www.immowelt.de/expose/37b34ba1-839d-4275-b324-06203acb5be4;2153
+Kettwig, Essen (45219),690.000 € 5.000 €/m²,138 m²,1.237 m² Grundstück,Unknown,https://www.immowelt.de/expose/945e5735-c911-479e-86ca-65340b577e04;2153
+Altenessen-Süd, Essen (45326),549.000 € 2.889 €/m²,6 Zimmer,190 m²,460 m² Grundstück,https://www.immowelt.de/expose/fa7115dc-4a91-4282-9250-f2766777c135;2153
+Kettwig, Essen (45219),690.000 € 5.000 €/m²,5 Zimmer,138 m²,1.237 m² Grundstück,https://www.immowelt.de/expose/8789a90a-ef15-44db-b180-98f288ddd999;2153
+Holsterhausen, Essen (45147),202.000 € 2.376 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/5b10dd7d-902c-43bd-b747-9a2ec387ae92;2153
+Kray, Essen (45307),655.000 € 1.658 €/m²,395 m²,150 m² Grundstück,Unknown,https://www.immowelt.de/expose/89e42e91-6bd4-4ac0-8a75-870c11737856;2153
+"Katernberg, Essen / Katernberg (45327),110.000 € 1.364 €/m²,3 Zimmer,""80,7 m²"",3. Geschoss,https://www.immowelt.de/expose/ed0c872b-1f99-434d-80af-8602e7cd12fe";2153
+"Brüggemannstraße 10, Katernberg, Essen (45327),154.800 € 2.277 €/m²,""4,5 Zimmer"",68 m²,1. Geschoss,https://www.immowelt.de/expose/93458951-b87d-42d9-8459-01d1ed7b5825";2153
+"Karnap, Essen (45329),79.069 € 1.850 €/m²,2 Zimmer,""42,7 m²"",1. Geschoss,https://www.immowelt.de/expose/60c58773-7465-4b94-b0a9-619287bf58ea";2153
+"Karnap, Essen (45329),170.334 € 1.800 €/m²,4 Zimmer,""94,6 m²"",1. Geschoss,https://www.immowelt.de/expose/74579881-6a21-49e7-97ff-7f39fa683959";2153
+"Kupferdreh, Essen (45257),349.000 € 2.983 €/m²,""4,5 Zimmer"",""117,2 m²"",1. Geschoss,https://www.immowelt.de/expose/07f77cd3-a1ac-4fce-bb68-a6b9ee1a59ea";2153
+Frohnhausen, Essen (45147),1.100.000 € 2.381 €/m²,12 Zimmer,462 m²,720 m² Grundstück,https://www.immowelt.de/expose/628cf21e-c283-4a2a-bf02-9d01de0dcf3f;2153
+Kettwig, Essen (45219),189.720 € 4.517 €/m²,42 m²,Unknown,Unknown,https://www.immowelt.de/expose/5313a091-31f7-4990-ad17-e29b9e19fa4f;2153
+Kettwig, Essen (45219),210.000 € 3.333 €/m²,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/2e721fad-7c0e-427c-8c14-c592bc9c502a;2153
+Frohnhausen, Essen (45145),119.900 € 2.498 €/m²,2 Zimmer,48 m²,2. Geschoss,https://www.immowelt.de/expose/52e6ccef-c3fd-44f3-84c3-c9ad466fe861;2153
+Veronikastr. 65, Rüttenscheid, Essen (45131),210.000 € 2.838 €/m²,3 Zimmer,74 m²,2. Geschoss,https://www.immowelt.de/expose/a6947ef4-8e9a-43ca-9b1a-f0750cfe4862;2153
+Altenessen-Süd, Essen / Altenessen-Süd (45326),1.460.000 € 2.113 €/m²,15 Zimmer,691 m²,221 m² Grundstück,https://www.immowelt.de/expose/7d214afa-b64b-4fbf-b6e7-6839a34d948b;2153
+Altenessen-Süd, Essen / Altenessen-Süd (45326),1.460.000 € 3.266 €/m²,15 Zimmer,447 m²,221 m² Grundstück,https://www.immowelt.de/expose/0def1b21-b10e-44b2-8cfa-bff2e5a81dd5;2153
+Rüttenscheid, Essen (45130),1.650.000 € 6.111 €/m²,8 Zimmer,270 m²,391 m² Grundstück,https://www.immowelt.de/expose/b155b244-1152-45fe-8ba0-4a2b94bee667;2153
+Rüttenscheid, Essen (45130),780.000 € 4.727 €/m²,7 Zimmer,165 m²,125 m² Grundstück,https://www.immowelt.de/expose/789d3841-dac2-4ba7-81c2-74ee3d8449f1;2153
+Kettwig, Essen (45219),745.000 € 4.461 €/m²,6 Zimmer,167 m²,905 m² Grundstück,https://www.immowelt.de/expose/90111a61-ac73-4337-a2f3-c501997eeda4;2153
+Bredeney, Essen (45133),610.000 € 5.304 €/m²,3 Zimmer,115 m²,EG,https://www.immowelt.de/expose/ac99ffbe-1d97-4e8c-8dc8-5884880b5cbd;2153
+"Dellwig, Essen (45357),200.000 € 3.070 €/m²,3 Zimmer,""65,2 m²"",Unknown,https://www.immowelt.de/expose/f426eed3-94de-4ff9-8ec7-78532d775515";2153
+Bergerhausen, Essen / Bergerhausen (45136),280.000 € 3.590 €/m²,5 Zimmer,78 m²,1. Geschoss,https://www.immowelt.de/expose/6efb0f9a-bdc8-4ebb-b26e-8cab5f0bc28d;2153
+Altendorf, Essen / Altendorf (45143),475.000 € 1.480 €/m²,14 Zimmer,321 m²,359 m² Grundstück,https://www.immowelt.de/expose/609cce99-948c-4b89-bdeb-49fc18987462;2153
+Fulerum, Essen (45149),990.000 € 4.213 €/m²,9 Zimmer,235 m²,682 m² Grundstück,https://www.immowelt.de/expose/a83a5817-fc0e-4958-828d-12d39e1341f2;2153
+Frohnhausen, Essen (45145),194.000 € 1.960 €/m²,4 Zimmer,99 m²,Unknown,https://www.immowelt.de/expose/9e656349-fd90-4529-b3e3-1cbe5ddee22d;2153
+Huttrop, Essen (45138),89.000 € 1.459 €/m²,2 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/badb5437-7213-4230-b55c-c40796bb21c5;2153
+Altendorf, Essen (45143),644.444 € 1.033 €/m²,24 Zimmer,624 m²,429 m² Grundstück,https://www.immowelt.de/expose/661cdc44-a60e-45b3-8623-da00991380d9;2153
+Steele, Essen, Steele (45276),1.680.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/9aa6b6ba-6e7b-4535-a505-6b3b7840307a;2153
+Holsterhausen, Essen (45145),180.000 € 2.500 €/m²,3 Zimmer,72 m²,2. Geschoss,https://www.immowelt.de/expose/09b11732-fe25-4047-b133-485b19993078;2153
+"Leithe, Essen (45307),439.000 € 2.943 €/m²,4 Zimmer,""149,4 m²"",""200,2 m² Grundstück"",https://www.immowelt.de/expose/0c74681c-061c-49bc-bd51-1b326d0b56f7";2153
+"Horst, Essen (45279),159.000 € 1.606 €/m²,4 Zimmer,""99,2 m²"",3. Geschoss,https://www.immowelt.de/expose/1f689d82-1fa6-4fd4-94f0-df6c2183117e";2153
+Werden, Essen (45239),264.950 € 2.912 €/m²,3 Zimmer,91 m²,EG,https://www.immowelt.de/expose/0e93b36a-c563-4c5d-be99-6d4d0707b140;2153
+"Südviertel, Essen (45128),235.000 € 2.800 €/m²,2 Zimmer,""84,3 m²"",EG,https://www.immowelt.de/expose/bd688b95-f7d2-45b1-9b21-2160b88960a6";2153
+"Rüttenscheid, Essen (45131),1.425.000 € 4.003 €/m²,7 Zimmer,""346,9 m²"",721 m² Grundstück,https://www.immowelt.de/expose/f5e73b26-8583-45e5-84ed-be3ba3fc9ac8";2153
+"Goßfelden, Essen / Kray (45309),625.000 € 4.808 €/m²,""5,5 Zimmer"",130 m²,537 m² Grundstück,https://www.immowelt.de/expose/0dee0cf5-7704-4d9d-a813-3308d8b93432";2153
+"Ferdinand-Weerth-Straße 26, Kettwig, Essen (45219),995.000 € 5.727 €/m²,""4,5 Zimmer"",""173,8 m²"",Unknown,https://www.immowelt.de/expose/e058df2a-17da-44c7-8c37-69c063564bad";2153
+Haarzopf, Essen (45149),830.000 € 3.320 €/m²,9 Zimmer,250 m²,425 m² Grundstück,https://www.immowelt.de/expose/3cb4647d-20de-485b-aa03-50ea94c4dacd;2153
+"Ederstraße 12, Bergerhausen, Essen (45136),135.000 € 2.158 €/m²,3 Zimmer,""62,6 m²"",2. Geschoss,https://www.immowelt.de/expose/ceb65d42-17f4-42ec-9985-97ba3a3b5665";2153
+"Altenessen-Nord, Essen (45329),169.950 € 2.655 €/m²,""3,5 Zimmer"",64 m²,EG,https://www.immowelt.de/expose/bf528843-7877-4e6e-a2a5-f395564c81ff";2153
+Nordviertel, Essen (45141),142.250 € 2.453 €/m²,2 Zimmer,58 m²,3. Geschoss,https://www.immowelt.de/expose/0803f501-c5cf-43e6-9e08-283181dbb273;2153
+Bredeney, Essen (45133),1.249.000 € 3.569 €/m²,7 Zimmer,350 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/e1a12ea6-d5a2-4ac0-a35b-8af9a447c077;2153
+Karnap, Essen (45329),669.000 € 3.656 €/m²,6 Zimmer,183 m²,578 m² Grundstück,https://www.immowelt.de/expose/37846308-3ab3-4fa1-810b-1bc2d89efe63;2153
+Heisingen, Essen (45259),182.000 € 1.784 €/m²,102 m²,Unknown,Unknown,https://www.immowelt.de/expose/095fc2a7-f1f7-42c6-9922-e206a933baf2;2153
+Frohnhausen, Essen (45145),99.000 € 2.063 €/m²,1 Zimmer,48 m²,4. Geschoss,https://www.immowelt.de/expose/75f66122-3f07-4d25-8c58-69b30261f41a;2153
+Rüttenscheid, Essen (45128),209.000 € 3.800 €/m²,2 Zimmer,55 m²,2. Geschoss,https://www.immowelt.de/expose/b7e29f4f-3f27-4873-b8d8-daa488a96c78;2153
+Heisingen, Essen (45259),182.000 € 1.784 €/m²,3 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/e3028a4f-c10c-4660-8aaf-57998dabd77e;2153
+Schuir, Essen (45133),2.095.000 € 8.058 €/m²,5 Zimmer,260 m²,700 m² Grundstück,https://www.immowelt.de/expose/1f93e86f-9db9-4b90-a22a-d9191e35e419;2153
+Altendorf, Essen (45143),57.000 € 1.676 €/m²,1 Zimmer,34 m²,Unknown,https://www.immowelt.de/expose/0cd639a3-b63a-4f15-90d0-7378ff1300b9;2153
+Steele, Essen (45276),279.000 € 1.594 €/m²,175 m²,219 m² Grundstück,Unknown,https://www.immowelt.de/expose/5c7d4ce5-55a3-47a9-95b7-d367c2fe8d1a;2153
+Huttrop, Essen (45138),171.000 € 1.390 €/m²,123 m²,Unknown,Unknown,https://www.immowelt.de/expose/c4a8b677-f1c8-4181-82cf-439ca347c053;2153
+Huttrop, Essen (45138),145.000 € 1.198 €/m²,121 m²,Unknown,Unknown,https://www.immowelt.de/expose/4eac3596-1535-4068-8ec8-e91a1ebce16a;2153
+"Frillendorf, Essen (45139),169.500 € 2.493 €/m²,""2,5 Zimmer"",68 m²,2. Geschoss,https://www.immowelt.de/expose/3656089f-7803-428b-b1b1-b712d8afa2f1";2153
+Frohnhausen, Essen (45145),470.000 € 1.741 €/m²,10 Zimmer,270 m²,216 m² Grundstück,https://www.immowelt.de/expose/97b497ff-fd6c-4043-bc07-99f2564d56b5;2153
+"Burgaltendorf, Essen (45289),265.000 € 2.959 €/m²,3 Zimmer,""89,6 m²"",Unknown,https://www.immowelt.de/expose/aa6531ac-bc3e-4956-a0e9-b9588cbd4af9";2153
+Holsterhausen, Essen (45145),599.000 € 1.788 €/m²,335 m²,270 m² Grundstück,Unknown,https://www.immowelt.de/expose/afc56d4e-9a20-4866-b56b-616858702b2c;2153
+Obere Fuhr 73, Bergerhausen, Essen (45136),144.900 € 2.197 €/m²,3 Zimmer,66 m²,EG,https://www.immowelt.de/expose/a8beea37-ac7a-4ade-bc44-70b8f3abc889;2153
+Katernberg, Essen (45327),170.000 € 352 €/m²,483 m²,Unknown,Unknown,https://www.immowelt.de/expose/5b727eac-eed6-44dd-bd49-37c4c95398ab;2153
+Holsterhausen, Essen (45130),202.000 € 2.376 €/m²,85 m²,Unknown,Unknown,https://www.immowelt.de/expose/34c4b0ab-8a62-4bfc-9a0a-1c590b2f3774;2153
+Byfang, Essen (45257),412.000 € 2.822 €/m²,146 m²,Unknown,Unknown,https://www.immowelt.de/expose/a8e1092e-206d-4cdf-a71b-fc0c8bcc630a;2153
+Heidhausen, Essen (45239),1.220.000 € 4.080 €/m²,299 m²,Unknown,Unknown,https://www.immowelt.de/expose/a2180843-8246-466a-b39b-48b5623d8df0;2153
+Holsterhausen, Essen (45147),340.000 € 1.574 €/m²,14 Zimmer,216 m²,118 m² Grundstück,https://www.immowelt.de/expose/48be643c-5407-4395-9074-1a723fe822e3;2153
+Holsterhausen, Essen (45147),202.000 € 2.376 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/86af3367-5300-4b30-b04d-2b15d70daa5f;2153
+Byfang, Essen (45257),412.000 € 2.289 €/m²,180 m²,203 m² Grundstück,Unknown,https://www.immowelt.de/expose/c7917a31-a1bb-43fe-ada1-6086469d09ce;2153
+Heidhausen, Essen (45239),1.220.000 € 4.080 €/m²,299 m²,10.113 m² Grundstück,Unknown,https://www.immowelt.de/expose/186ef0e6-96a3-4359-9203-57e9e3c77c14;2153
+Gerschede, Essen (45357),67.550 € 2.702 €/m²,1 Zimmer,25 m²,Unknown,https://www.immowelt.de/expose/b679062e-c9e7-41fc-b718-26c9d0e8d086;2153
+Gerschede, Essen (45357),67.550 € 2.702 €/m²,1 Zimmer,25 m²,4. Geschoss,https://www.immowelt.de/expose/025c719c-0380-4cfa-95a0-9e36eb9a6cd6;2153
+Haarzopf, Essen (45149),980.000 € 3.951 €/m²,7 Zimmer,248 m²,725 m² Grundstück,https://www.immowelt.de/expose/8db87006-436a-4d79-9de0-2492f31bb691;2153
+"Südostviertel, Essen (45138),79.000 € 1.837 €/m²,1 Zimmer,""43,2 m²"",5. Geschoss,https://www.immowelt.de/expose/7cc1191e-5d1f-417b-887c-e6f9adbc4973";2153
+Huttrop, Essen (45138),115.000 € 2.054 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/e3571824-a48b-45e4-a52f-6557c5ea8a6c;2153
+"Rheinstraße 163, Kettwig, Essen-Kettwig (45219),219.000 € 3.269 €/m²,""2,5 Zimmer"",67 m²,Unknown,https://www.immowelt.de/expose/07575a4d-880c-4737-b2a3-dc9e13404979";2153
+Nekesweg 1, Bergerhausen, Essen (45136),87.500 € 2.303 €/m²,2 Zimmer,38 m²,2. Geschoss,https://www.immowelt.de/expose/57b4692d-a5ce-4dd5-bfc0-7534a78e8919;2153
+"Kupferdreh, Essen (45357),249.000 € 2.980 €/m²,3 Zimmer,""83,6 m²"",1. Geschoss,https://www.immowelt.de/expose/1c97be2a-0916-404a-be14-04d964ad9557";2153
+"Kupferdreh, Essen (45357),249.000 € 3.016 €/m²,3 Zimmer,""82,6 m²"",Unknown,https://www.immowelt.de/expose/6b458a52-8c89-44c2-825e-ec9b35bca1c8";2153
+"Altenessen-Süd, Essen (45326),87.500 € 1.750 €/m²,2 Zimmer,""50,3 m²"",1. Geschoss,https://www.immowelt.de/expose/7ec514ea-30bd-47f1-9bf7-f30d61d7f304";2153
+"Werden, Essen (45239),429.000 € 3.575 €/m²,""3,5 Zimmer"",""120,3 m²"",EG,https://www.immowelt.de/expose/5f26ab53-e0ff-4bef-9871-931c969928fe";2153
+"Kupferdreh, Essen (45357),249.000 € 2.980 €/m²,3 Zimmer,""83,6 m²"",1. Geschoss,https://www.immowelt.de/expose/1b539fe4-1fc9-4af9-b662-375d09288e1f";2153
+Fischlaken, Essen (45239),199.999 € 2.778 €/m²,2 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/176c4170-d91a-475e-8326-57ef9821781a;2153
+Fischlaken, Essen (45239),1.500.000 € 7.075 €/m²,5 Zimmer,212 m²,2.211 m² Grundstück,https://www.immowelt.de/expose/c6a33184-24bb-44f8-a91f-786b61a5f3be;2153
+Rüttenscheid, Essen (45128),189.000 € 3.436 €/m²,2 Zimmer,55 m²,1. Geschoss,https://www.immowelt.de/expose/c14918b7-db4e-41bc-9551-8ebd7c19961a;2153
+"Schonnebeck, Essen (45309),145.000 € 2.108 €/m²,""3,5 Zimmer"",""68,8 m²"",2. Geschoss,https://www.immowelt.de/expose/965a99e1-6c99-4b47-ac42-340068e0280e";2153
+"Bonnenbergstraße 10, Heisingen, Essen (45259),299.999 € 2.662 €/m²,5 Zimmer,""112,7 m²"",EG,https://www.immowelt.de/expose/920f9d27-8be3-4508-9d1f-c791b969c27b";2153
+Bredeney, Essen (45133),1.299.000 € 3.168 €/m²,12 Zimmer,410 m²,507 m² Grundstück,https://www.immowelt.de/expose/09eda5e7-aad0-49e8-9d45-2a8aff41785c;2153
+"Heisingen, Essen (45259),269.000 € 3.363 €/m²,""4,5 Zimmer"",80 m²,2. Geschoss,https://www.immowelt.de/expose/da8babac-4411-4b42-96f1-86bde68040b3";2153
+Werden, Essen (45239),439.000 € 4.262 €/m²,8 Zimmer,103 m²,1.575 m² Grundstück,https://www.immowelt.de/expose/99cbe512-a8d9-4cea-b481-026aa52fd9fa;2153
+"Schonnebeck, Essen (45309),225.000 € 2.922 €/m²,""3,5 Zimmer"",77 m²,170 m² Grundstück,https://www.immowelt.de/expose/469a2928-e745-4546-bc46-d341274f4d6a";2153
+Kettwig, Essen (45219),3.500.000 € 7.543 €/m²,6 Zimmer,464 m²,1.443 m² Grundstück,https://www.immowelt.de/expose/a088b0ba-4848-473f-b543-55861f0e3a6c;2153
+Huttrop, Essen (45138),115.000 € 2.054 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/672ce7e7-6d81-4d85-a2d3-f5f7476350cd;2153
+Huttrop, Essen (45138),89.000 € 1.459 €/m²,61 m²,Unknown,Unknown,https://www.immowelt.de/expose/b2a6c76d-c63c-4555-ae38-f60853a480ae;2153
+Frohnhausen, Essen (45145),194.000 € 1.960 €/m²,99 m²,Unknown,Unknown,https://www.immowelt.de/expose/761ed853-2cbc-47f1-9d86-12b0a342e9fb;2153
+Kettwig, Essen (45219),645.000 €,253 m² Grundstück,Unknown,Unknown,https://www.immowelt.de/expose/b0701ab8-138d-4c57-a283-408952b5d49e;2153
+Huttrop, Essen (45138),89.000 € 1.459 €/m²,2 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/67196347-c86d-469d-8569-52ddd77005c5;2153
+Frohnhausen, Essen (45145),194.000 € 1.960 €/m²,4 Zimmer,99 m²,Unknown,https://www.immowelt.de/expose/2b9591d3-a2f3-41b6-9957-932788d94adc;2153
+Frohnhausen, Essen / Frohnhausen (45145),225.000 € 2.446 €/m²,3 Zimmer,92 m²,2. Geschoss,https://www.immowelt.de/expose/ab433c9b-001d-4941-878a-e094f7be7948;2153
+"Fischlaken, Essen (45239),430.000 € 3.410 €/m²,""3,5 Zimmer"",""126,1 m²"",2. Geschoss,https://www.immowelt.de/expose/3958886a-5ffe-4f68-9e89-467e91954881";2153
+Fulerum, Essen (45149),260.000 € 4.127 €/m²,2 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/543a6769-a7eb-4599-a9e9-a6071c6925f5;2153
+Kupferdreh, Essen (45257),599.000 € 3.273 €/m²,6 Zimmer,183 m²,838 m² Grundstück,https://www.immowelt.de/expose/41d869c5-5fe4-4f7b-ba79-7d12df3c971b;2153
+Schliepersberg 19a, Kupferdreh, Essen (45257),390.000 € 3.250 €/m²,5 Zimmer,120 m²,295 m² Grundstück,https://www.immowelt.de/expose/5f589620-d1f2-4de4-bc18-af778eb57c54;2153
+"Ostviertel, Essen (45127),899.000 € 2.804 €/m²,16 Zimmer,""320,6 m²"",283 m² Grundstück,https://www.immowelt.de/expose/96778811-eca4-4f17-9fcd-f76bac550eb4";2153
+Altendorf, Essen (45143),57.000 € 1.676 €/m²,1 Zimmer,34 m²,Unknown,https://www.immowelt.de/expose/e0884ff7-15ad-4b81-b3b8-63a235e60473;2153
+Steele, Essen (45276),279.000 € 1.661 €/m²,5 Zimmer,168 m²,219 m² Grundstück,https://www.immowelt.de/expose/6be1c964-7632-4007-a4d9-511cdeeea6ac;2153
+Huttrop, Essen (45138),171.000 € 1.390 €/m²,3 Zimmer,123 m²,Unknown,https://www.immowelt.de/expose/65af4798-bbd1-4364-b527-6eb497ef4da1;2153
+Huttrop, Essen (45138),145.000 € 1.169 €/m²,3 Zimmer,124 m²,Unknown,https://www.immowelt.de/expose/8305f05d-4039-48e3-8207-b911e8c05e87;2153
+Rüttenscheid, Essen (45128),224.000 € 4.000 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/601c82d2-9372-47bd-a702-1103db75e961;2153
+Altendorf, Essen (45143),57.000 € 1.676 €/m²,34 m²,Unknown,Unknown,https://www.immowelt.de/expose/c7ebadbd-8957-4832-bfe9-29239581d4c5;2153
+"Katernberg, Essen (45327),384.729 € 3.217 €/m²,4 Zimmer,""119,6 m²"",410 m² Grundstück,https://www.immowelt.de/expose/1c92ca7b-a785-4055-a4b1-46d1ed2e402e";2153
+"Altenessen-Süd, Essen (45326),415.729 € 3.468 €/m²,4 Zimmer,""119,9 m²"",520 m² Grundstück,https://www.immowelt.de/expose/4286eadd-0b88-488d-a4af-1b2ffb5726a2";2153
+"Horst, Essen (45279),442.999 € 3.706 €/m²,4 Zimmer,""119,5 m²"",530 m² Grundstück,https://www.immowelt.de/expose/a50d1905-243e-4606-af67-4e6c05e541b7";2153
+Überruhr-Hinsel, Essen (45277),486.629 € 3.427 €/m²,5 Zimmer,142 m²,520 m² Grundstück,https://www.immowelt.de/expose/59767146-84cc-4667-9b71-8fb8daba5d43;2153
+"Bredeney, Essen (45133),633.229 € 4.299 €/m²,5 Zimmer,""147,3 m²"",430 m² Grundstück,https://www.immowelt.de/expose/502740c6-ba88-4136-ab2d-e6da0f5fa63e";2153
+Rüttenscheid, Essen (45131),534.154 € 4.992 €/m²,4 Zimmer,107 m²,485 m² Grundstück,https://www.immowelt.de/expose/e4afc066-75a3-471a-b705-3db436b42734;2153
+Rüttenscheid, Essen (45130),561.399 € 4.882 €/m²,4 Zimmer,115 m²,505 m² Grundstück,https://www.immowelt.de/expose/d192413a-5734-4fa7-b65b-909f4f445e88;2153
+"Südviertel, Essen (45128),490.729 € 4.116 €/m²,4 Zimmer,""119,2 m²"",430 m² Grundstück,https://www.immowelt.de/expose/a20a6b1e-9c54-410b-bfc3-385307890891";2153
+"Bergerhausen, Essen (45136),528.429 € 4.419 €/m²,4 Zimmer,""119,6 m²"",465 m² Grundstück,https://www.immowelt.de/expose/81fe4459-1434-4e6e-a1be-493a0fc774ea";2153
+"Stadtwald, Essen (45134),649.869 € 5.421 €/m²,4 Zimmer,""119,9 m²"",410 m² Grundstück,https://www.immowelt.de/expose/7d8caace-dca5-44d2-ba29-016e75ad3f70";2153
+"Ostviertel, Essen (45139),425.619 € 3.559 €/m²,4 Zimmer,""119,6 m²"",605 m² Grundstück,https://www.immowelt.de/expose/31456c1f-bb38-454f-963d-dea413494e7f";2153
+Burgaltendorf, Essen (45289),480.749 € 4.180 €/m²,4 Zimmer,115 m²,385 m² Grundstück,https://www.immowelt.de/expose/73c76552-bf58-4789-9243-13ec582f0897;2153
+"Heisingen, Essen (45259),499.999 € 4.170 €/m²,4 Zimmer,""119,9 m²"",325 m² Grundstück,https://www.immowelt.de/expose/cb4a8e8c-9512-474e-9a31-2209319167db";2153
+"Stoppenberg, Essen (45141),499.999 € 4.194 €/m²,4 Zimmer,""119,2 m²"",414 m² Grundstück,https://www.immowelt.de/expose/83643c23-1c37-40a7-9cbe-fd9f2e2b1fa6";2153
+Haarzopf, Essen (45149),484.429 € 3.411 €/m²,5 Zimmer,142 m²,395 m² Grundstück,https://www.immowelt.de/expose/00653385-04ac-4949-8449-49398e8a9c90;2153
+Frohnhausen, Essen (45144),502.479 € 4.696 €/m²,4 Zimmer,107 m²,620 m² Grundstück,https://www.immowelt.de/expose/af1d382d-bfc8-4822-9290-2f45927afa21;2153
+"Huttrop, Essen (45138),527.259 € 4.399 €/m²,5 Zimmer,""119,9 m²"",440 m² Grundstück,https://www.immowelt.de/expose/4ea9dd54-f572-4c7b-a402-8ad0a9097cdb";2153
+"Kupferdreh, Essen (45257),454.999 € 3.807 €/m²,4 Zimmer,""119,5 m²"",390 m² Grundstück,https://www.immowelt.de/expose/bd30489a-eaf3-4b08-b30c-3a01444f83b9";2153
+"Schonnebeck, Essen (45309),417.529 € 3.483 €/m²,4 Zimmer,""119,9 m²"",610 m² Grundstück,https://www.immowelt.de/expose/b5c8acaa-1b79-40f6-a4a2-d3c8cba594dc";2153
+"Leithe, Essen (45307),399.879 € 3.354 €/m²,4 Zimmer,""119,2 m²"",550 m² Grundstück,https://www.immowelt.de/expose/055a3ebb-2a71-4c2f-b3b5-17d974a68833";2153
+"Steele, Essen (45276),494.599 € 4.138 €/m²,4 Zimmer,""119,5 m²"",480 m² Grundstück,https://www.immowelt.de/expose/0ade7498-f195-41e8-bb6e-626cbae9ce1e";2153
+Heidhausen, Essen (45239),482.204 € 3.302 €/m²,4 Zimmer,146 m²,455 m² Grundstück,https://www.immowelt.de/expose/867c2898-87a6-4916-a5b3-d4df07a03ea1;2153
+"Kettwig, Essen (45219),489.939 € 2.928 €/m²,5 Zimmer,""167,3 m²"",370 m² Grundstück,https://www.immowelt.de/expose/7445fd27-b974-46e1-ae88-1c9cc2a5f613";2153
+Schönebeck, Essen (45359),441.679 € 4.128 €/m²,4 Zimmer,107 m²,420 m² Grundstück,https://www.immowelt.de/expose/fd3cd9e2-0ad9-49d0-882b-3e17d51c5ad5;2153
+"Borbeck-Mitte, Essen (45355),458.829 € 3.828 €/m²,4 Zimmer,""119,9 m²"",505 m² Grundstück,https://www.immowelt.de/expose/cfd307bf-dcf8-4a1a-aafe-065659965a86";2153
+"Bochhold, Essen (45356),411.129 € 3.438 €/m²,4 Zimmer,""119,6 m²"",490 m² Grundstück,https://www.immowelt.de/expose/0a565860-f38a-4a81-86fd-59d4590546b6";2153
+Altendorf, Essen (45143),428.029 € 3.014 €/m²,5 Zimmer,142 m²,430 m² Grundstück,https://www.immowelt.de/expose/21851e41-f30a-4028-b6f7-e00a26d6c07c;2153
+Westviertel, Essen (45127),454.199 € 3.950 €/m²,4 Zimmer,115 m²,360 m² Grundstück,https://www.immowelt.de/expose/03b815ff-7473-46ad-9e27-e4f2aa4b8fab;2153
+Bergerhausen, Essen (45136),439.000 € 3.851 €/m²,4 Zimmer,114 m²,Unknown,https://www.immowelt.de/expose/4bdbf19d-89e5-4f2b-876d-50abcf49a380;2153
+Holsterhausen, Essen (45147),275.000 € 2.926 €/m²,4 Zimmer,94 m²,Unknown,https://www.immowelt.de/expose/8c77a4e4-794f-47bd-b4d4-1abad541e2fe;2153
+"Bergerhausen, Essen (45136),189.999 € 2.667 €/m²,""3,5 Zimmer"",""71,3 m²"",Unknown,https://www.immowelt.de/expose/c08e935e-64d4-43cb-b7c2-b60ba37b6339";2153
+Steele, Essen (45276),279.000 € 1.594 €/m²,175 m²,Unknown,Unknown,https://www.immowelt.de/expose/15a324f8-317b-4c2c-906b-375403afba35;2153
+Bedingrade, Essen (45359),2.420.000 € 1.596 €/m²,64 Zimmer,1.516 m²,2.250 m² Grundstück,https://www.immowelt.de/expose/00700be4-7566-4619-aa77-c0c863041493;2153
+"Südviertel, Essen (45128),545.000 € 3.403 €/m²,""4,5 Zimmer"",""160,1 m²"",Unknown,https://www.immowelt.de/expose/bddf358f-961d-48bf-9fe4-607dfe9c51df";2153
+"Südviertel, Essen (45128),465.000 € 3.458 €/m²,""4,5 Zimmer"",""134,5 m²"",Unknown,https://www.immowelt.de/expose/5d9ef3c5-ad66-4c04-980e-338e443c0f93";2153
+Huttrop, Essen (45138),145.000 € 1.790 €/m²,81 m²,Unknown,Unknown,https://www.immowelt.de/expose/73117cb0-8850-4513-ae27-5832c29d21b2;2153
+Huttrop, Essen (45138),171.000 € 2.085 €/m²,82 m²,Unknown,Unknown,https://www.immowelt.de/expose/f3f01830-aa0d-4afb-87a7-5af5fe0224c9;2153
+Pastor-Fliedner-Weg 1A, Karnap, Essen (45329),75.000 € 1.531 €/m²,2 Zimmer,49 m²,2. Geschoss,https://www.immowelt.de/expose/d81bd4d0-e72c-40d2-89b9-0099425f7220;2153
+"Röckenstraße 27, Katernberg, Essen (45327),99.500 € 1.626 €/m²,""3,5 Zimmer"",""61,2 m²"",EG,https://www.immowelt.de/expose/92e2cd53-edc6-4a62-ab9b-8993cac79b83";2153
+"Katernberg, Essen (45327),122.500 € 1.754 €/m²,""4,5 Zimmer"",""69,8 m²"",1. Geschoss,https://www.immowelt.de/expose/c296780b-6331-4aee-a4db-a877956285c8";2153
+"Nienhuser Busch 47, Katernberg, Essen (45327),139.400 € 1.764 €/m²,""3,5 Zimmer"",79 m²,1. Geschoss,https://www.immowelt.de/expose/cbdb8a00-366e-42da-a363-3d4e6dd90b6c";2153
+"Lommenweg 4, Stoppenberg, Essen (45141),129.800 € 2.186 €/m²,""3,5 Zimmer"",""59,4 m²"",1. Geschoss,https://www.immowelt.de/expose/da2415ca-2386-4ed5-93c9-4a9743fbef24";2153
+"Drostenhof 10, Schonnebeck, Essen (45309),99.800 € 2.289 €/m²,""1,5 Zimmer"",""43,6 m²"",EG,https://www.immowelt.de/expose/6b188f16-15c8-4a1a-9a68-47205f8ebf15";2153
+"Drostenbusch 119, Schonnebeck, Essen (45309),154.800 € 2.183 €/m²,""3,5 Zimmer"",""70,9 m²"",2. Geschoss,https://www.immowelt.de/expose/7d55add0-64f0-4330-ab1d-26f7e1a14592";2153
+"Fridolinstraße 2, Horst, Essen (45279),139.800 € 1.942 €/m²,""3,5 Zimmer"",72 m²,1. Geschoss,https://www.immowelt.de/expose/8a65161a-1c9a-4890-88e7-ede3e3ba0f42";2153
+"Julienstraße 1, Rüttenscheid, Essen (45130),177.000 € 2.812 €/m²,2 Zimmer,""62,9 m²"",3. Geschoss,https://www.immowelt.de/expose/500398fd-9cf3-471b-85b5-372f0f0f6223";2153
+"Wertstraße 10, Dellwig, Essen (45357),80.000 € 1.746 €/m²,2 Zimmer,""45,8 m²"",1. Geschoss,https://www.immowelt.de/expose/b6bb73cc-e06f-4743-96ee-33a94811f21f";2153
+"Borbeck-Mitte, Essen (45355),610.000 € 2.446 €/m²,12 Zimmer,""249,4 m²"",2. Geschoss,https://www.immowelt.de/expose/7b2b5918-a59b-4806-bec9-feebd8afc7ac";2153
+Haarzopf, Essen (45149),389.000 € 3.112 €/m²,4 Zimmer,125 m²,Unknown,https://www.immowelt.de/expose/33834db9-a103-4238-868c-51bd92e821d7;2153
+Heidhausen, Essen (45239),698.000 € 4.653 €/m²,3 Zimmer,150 m²,Unknown,https://www.immowelt.de/expose/43e74f0e-5d60-41da-829a-c85adf024a9f;2153
+Stadtwald, Essen (45133),1.050.000 € 4.086 €/m²,4 Zimmer,257 m²,Unknown,https://www.immowelt.de/expose/051145b6-0bc5-4527-8961-15bf647fe211;2153
+Kettwig, Essen (45219),1.950.000 € 5.200 €/m²,8 Zimmer,375 m²,1.772 m² Grundstück,https://www.immowelt.de/expose/a6aeafd6-d1ef-48d7-9bdc-21525286664e;2153
+"Wertstraße 12, Dellwig, Essen (45357),119.500 € 1.768 €/m²,3 Zimmer,""67,6 m²"",1. Geschoss,https://www.immowelt.de/expose/e768043e-b6e1-4323-aa79-25b4ef6e68ba";2153
+Bottlenberg 14, Stadtwald, Essen (45134),600.000 € 3.469 €/m²,7 Zimmer,173 m²,1.246 m² Grundstück,https://www.immowelt.de/expose/4064a1fd-18d3-4873-82fa-a104118b4ef5;2153
+"Nienhuser Busch 41, Katernberg, Essen (45327),134.800 € 2.281 €/m²,""2,5 Zimmer"",""59,1 m²"",1. Geschoss,https://www.immowelt.de/expose/ca683471-624c-442b-9b2e-f78ef96a6ac2";2153
+"Hattramstraße 9, Karnap, Essen (45329),99.400 € 1.947 €/m²,""2,5 Zimmer"",""51,1 m²"",2. Geschoss,https://www.immowelt.de/expose/baad2f48-7e33-4a9e-b9dd-5c45e58e61d7";2153
+"Brüggemannstraße 14, Katernberg, Essen (45327),142.600 € 2.189 €/m²,""4,5 Zimmer"",""65,1 m²"",EG,https://www.immowelt.de/expose/58ca8cb5-3d70-4e6a-9dcc-1c6067654660";2153
+Altendorf, Essen (45143),99.000 € 1.394 €/m²,3 Zimmer,71 m²,2. Geschoss,https://www.immowelt.de/expose/b4fa0e37-9e92-469a-9bb2-f12749f1cee2;2153
+Bredeney, Essen (45133),610.000 € 4.420 €/m²,3 Zimmer,138 m²,1. Geschoss,https://www.immowelt.de/expose/e6981798-be77-4c76-b086-f364a1a05543;2153
+Rüttenscheid, Essen (45131),140.000 € 2.154 €/m²,2 Zimmer,65 m²,4. Geschoss,https://www.immowelt.de/expose/4a4e295c-d9ce-419a-8b64-c7ab0a16dcef;2153
+Karnap, Essen / Karnap (45329),135.000 € 2.410 €/m²,3 Zimmer,56 m²,1. Geschoss,https://www.immowelt.de/expose/23821a2f-f991-4db4-a039-3dc96549c8b3;2153
+"Stadtkern, Essen (45127),2.450.000 € 1.128 €/m²,60 Zimmer,""2.172,3 m²"",720 m² Grundstück,https://www.immowelt.de/expose/8c3ce6d7-facc-49b9-a183-543819feacec";2153
+Bochhold, Essen / Bochold (45355),640.000 € 1.675 €/m²,15 Zimmer,382 m²,311 m² Grundstück,https://www.immowelt.de/expose/debd7df7-1b78-444b-b697-55228917202c;2153
+Heidhausen, Essen (45239),219.000 € 3.042 €/m²,3 Zimmer,72 m²,EG,https://www.immowelt.de/expose/b3eb18dd-bef6-4dda-bbc4-c8e97bccd672;2153
+"Überruhr-Hinsel, Essen (45277),549.000 € 2.952 €/m²,""7,5 Zimmer"",186 m²,671 m² Grundstück,https://www.immowelt.de/expose/9c4915c5-428f-4612-a40b-ff0cb36b7432";2153
+Überruhr-Hinsel, Essen (45277),590.000 € 4.646 €/m²,5 Zimmer,127 m²,870 m² Grundstück,https://www.immowelt.de/expose/9e19296d-050a-49e3-a66c-4e6a504dcd0c;2153
+"Burgaltendorf, Essen (45277),400.000 € 3.564 €/m²,""112,2 m²"",587 m² Grundstück,Unknown,https://www.immowelt.de/expose/1ac0acea-a7ba-4a02-8ef7-847cb9b3cf23";2153
+Kettwig, Essen (45219),1.390.000 € 3.424 €/m²,15 Zimmer,406 m²,764 m² Grundstück,https://www.immowelt.de/expose/900be1ed-86e5-4165-9798-a62950710766;2153
+"Schönebeck, Essen (45359),378.000 € 3.098 €/m²,""3,5 Zimmer"",122 m²,Unknown,https://www.immowelt.de/expose/e62140fb-9f53-4f04-9340-906b7d143cee";2153
+"Rüttenscheid, Essen (45131),1.950.000 € 4.765 €/m²,5 Zimmer,""409,3 m²"",Unknown,https://www.immowelt.de/expose/a0cad027-8e3b-4832-bbb9-39c12a76519e";2153
+Überruhr-Hinsel, Essen (45277),539.000 € 2.655 €/m²,6 Zimmer,203 m²,240 m² Grundstück,https://www.immowelt.de/expose/2250d680-8633-4d08-926a-fbad8086b514;2153
+Rellinghausen, Essen (45134),237.900 € 2.309 €/m²,3 Zimmer,103 m²,Unknown,https://www.immowelt.de/expose/b1dfc138-3055-4752-99c3-d4633dba27b8;2153
+Rüttenscheiderstr 184, Rüttenscheid, Essen (45131),256.000 € 3.494 €/m²,2 Zimmer,77 m²,2. Geschoss,https://www.immowelt.de/expose/ce0ccf0e-2930-42a6-94ab-143cab9718f4;2153
+"Altendorf, Essen (45143),149.000 € 2.178 €/m²,2 Zimmer,""68,4 m²"",3. Geschoss,https://www.immowelt.de/expose/9768e12f-742a-459c-94a0-c6054e4bd142";2153
+Altendorf, Essen (45143),46.000 € 2.091 €/m²,1 Zimmer,22 m²,3. Geschoss,https://www.immowelt.de/expose/724d4929-712e-40dd-aed8-b74df97dacb7;2153
+Hinseler Hof 37, Überruhr-Hinsel, Essen (45277),729.000 € 3.325 €/m²,9 Zimmer,298 m²,680 m² Grundstück,https://www.immowelt.de/expose/37bbdd66-793c-4695-b841-92845a87eac5;2153
+Bergerhausen, Essen / Bergerhausen (45136),95.000 € 1.900 €/m²,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/62cf1077-efea-4aec-ba4f-689c6ce124a6;2153
+Bergerhausen, Essen / Bergerhausen (45136),190.000 € 1.900 €/m²,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/91e97ec5-1bd9-4ccf-aa98-413e58c24bff;2153
+"Schönebeck, Essen / Schönebeck (45359),395.000 € 2.651 €/m²,""5,5 Zimmer"",149 m²,2. Geschoss,https://www.immowelt.de/expose/71444dab-8046-4289-94e9-2b93b933a8fa";2153
+"Bredeney, Essen (45133),1.320.000 € 2.084 €/m²,""27,5 Zimmer"",""633,3 m²"",1.203 m² Grundstück,https://www.immowelt.de/expose/f51ece16-48c1-44c5-9026-dd1a06763f39";2153
+Kettwig, Essen (45219),189.950 € 2.922 €/m²,3 Zimmer,65 m²,1. Geschoss,https://www.immowelt.de/expose/05afefc7-150b-4dee-9c05-9e23b92ea034;2153
+Schuir, Essen / Bredeney (45133),319.000 € 3.753 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/09634001-8b53-4483-a3ac-a7b2313235d4;2153
+Bergerhausen, Essen (45136),210.000 € 3.500 €/m²,2 Zimmer,60 m²,EG,https://www.immowelt.de/expose/7beb3642-6e38-4a95-801a-a1ff0c6d4bc5;2153
+Überruhr-Holthausen, Essen (45277),179.000 € 2.325 €/m²,3 Zimmer,77 m²,2. Geschoss,https://www.immowelt.de/expose/59d8dfbb-cb6b-48da-a11a-41e9903e1a20;2153
+Frintrop, Essen (45359),840.000 € 1.538 €/m²,21 Zimmer,546 m²,275 m² Grundstück,https://www.immowelt.de/expose/e68f4480-84a7-4c14-be04-cfc599575bc4;2153
+Werden, Essen (45239),475.000 € 3.369 €/m²,5 Zimmer,141 m²,frei ab 01.12.2024,https://www.immowelt.de/expose/fe53ae19-4b39-4026-9dd9-6ac0523a24b7;2153
+Holsterhausen, Essen (45147),199.000 € 2.236 €/m²,4 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/14f6103c-aa88-48f6-9f97-b6a709d2ebba;2153
+Katernberg, Essen (45327),590.000 € 2.360 €/m²,10 Zimmer,250 m²,496 m² Grundstück,https://www.immowelt.de/expose/2da7011e-0d6c-4d43-8af6-15cf2dbddf96;2153
+Heidhausen, Essen (45239),2.950.000 € 5.175 €/m²,10 Zimmer,570 m²,10.452 m² Grundstück,https://www.immowelt.de/expose/ee0d9dff-7be7-4e41-af90-bf4629040920;2153
+Altenessen-Süd, Essen (45326),99.000 € 1.707 €/m²,2 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/3395cb57-444b-40ba-b9f0-62ed3f8e4991;2153
+Bergerhausen, Essen (45136),185.000 € 2.151 €/m²,3 Zimmer,86 m²,1. Geschoss,https://www.immowelt.de/expose/8d7b443d-508e-430e-9035-c4b85efd9c45;2153
+Kettwig, Essen (45219),679.000 € 2.515 €/m²,8 Zimmer,270 m²,548 m² Grundstück,https://www.immowelt.de/expose/b41e70b0-2993-461b-8ad2-2e5da1f2275d;2153
+Südostviertel, Essen (45138),184.000 € 2.556 €/m²,3 Zimmer,72 m²,1. Geschoss,https://www.immowelt.de/expose/3d75eb57-cb34-4b50-86be-5e0b710cda6d;2153
+Freisenbruch, Essen (45279),435.000 € 3.107 €/m²,5 Zimmer,140 m²,385 m² Grundstück,https://www.immowelt.de/expose/9b14a78c-2fe9-49b0-8393-6ce7c604df8b;2153
+Altenessen-Süd, Essen (45326),169.950 € 1.888 €/m²,4 Zimmer,90 m²,frei ab 01.12.2024,https://www.immowelt.de/expose/733a91e5-3281-417b-99f6-8ee37640214a;2153
+Von Schmoller Straße 6, Südviertel, Essen (45128),166.000 € 3.773 €/m²,2 Zimmer,44 m²,1. Geschoss,https://www.immowelt.de/expose/d1ee00c4-b4ff-4902-8afd-b7e9468b2c9d;2153
+Altendorf, Essen (45143),619.000 € 1.317 €/m²,25 Zimmer,470 m²,262 m² Grundstück,https://www.immowelt.de/expose/c5ac2961-1250-4573-9462-4d62a19aad99;2153
+Stoppenberg, Essen (45141),670.000 € 2.219 €/m²,13 Zimmer,302 m²,Unknown,https://www.immowelt.de/expose/acd6ad4f-1442-4bc2-9995-51360d8701f1;2153
+"Altenessen-Süd, Essen / Altenessen-Süd (45326),580.000 € 4.111 €/m²,5 Zimmer,""141,1 m²"",""249,6 m² Grundstück"",https://www.immowelt.de/expose/33dddf0c-f831-4568-8c61-34fb75b6633c";2153
+Kupferdreh, Essen (45257),880.000 € 3.911 €/m²,6 Zimmer,225 m²,500 m² Grundstück,https://www.immowelt.de/expose/d6976bbf-efa6-4cd0-a1a9-dbc5c05d7957;2153
+"Borbeck-Mitte, Essen / Borbeck-Mitte (45355),340.000 € 3.333 €/m²,""3,5 Zimmer"",102 m²,Unknown,https://www.immowelt.de/expose/8bcba758-2902-4e69-bf59-011604a99e59";2153
+Altenessen-Süd, Essen (45326),580.000 € 1.076 €/m²,539 m²,405 m² Grundstück,Unknown,https://www.immowelt.de/expose/fbfe0079-7f62-4f73-adbe-14562dae39e8;2153
+"Elsterbuschstraße 31, Leithe, Essen (45307),117.000 € 1.780 €/m²,""3,5 Zimmer"",""65,7 m²"",EG,https://www.immowelt.de/expose/53e81578-78d2-4b41-9116-a5e05edd12e5";2153
+"Brunnenstraße 63, Südviertel, Essen (45128),492.000 € 3.820 €/m²,4 Zimmer,""128,8 m²"",EG,https://www.immowelt.de/expose/93e9dce1-2e36-4dcc-aa4a-b85259c22df8";2153
+"Bergborbeck, Essen (45355),179.000 € 2.126 €/m²,3 Zimmer,""84,2 m²"",1. Geschoss,https://www.immowelt.de/expose/51716c82-1186-45da-89b2-02cee9180517";2153
+Fischlaken, Essen / Fischlaken (45239),695.000 € 3.777 €/m²,6 Zimmer,155 m²,608 m² Grundstück,https://www.immowelt.de/expose/5a0e15b5-f973-400c-84e1-d71353925cac;2153
+Altendorf, Essen (45143),529.000 € 4.101 €/m²,6 Zimmer,129 m²,310 m² Grundstück,https://www.immowelt.de/expose/216d05d3-e696-41fa-a64e-d86dfbf7466b;2153
+Horst, Essen (45279),259.000 € 2.292 €/m²,3 Zimmer,113 m²,Unknown,https://www.immowelt.de/expose/9e2ad4fd-8d22-4883-912d-cb0842273921;2153
+Huttrop, Essen (45138),495.000 € 3.214 €/m²,6 Zimmer,154 m²,387 m² Grundstück,https://www.immowelt.de/expose/3549b754-33ac-4b89-88ba-fd24d497daf9;2153
+"Heisingen, Essen (45259),519.000 € 3.118 €/m²,6 Zimmer,""166,5 m²"",3. Geschoss,https://www.immowelt.de/expose/6366b553-cf6b-478c-b27e-574f14d9ae7f";2153
+Heisingen, Essen (45259),139.000 € 2.960 €/m²,1 Zimmer,47 m²,1. Geschoss,https://www.immowelt.de/expose/15990a4e-9236-4f59-8737-67943728b703;2153
+"Heisingen, Essen (45259),329.000 € 3.182 €/m²,3 Zimmer,""103,4 m²"",EG,https://www.immowelt.de/expose/3d98200a-a910-4f57-b05b-a0b0a0a9b77b";2153
+Kettwig, Essen (45219),164.000 € 2.343 €/m²,2 Zimmer,70 m²,frei ab sofort,https://www.immowelt.de/expose/7ecdf7ac-c5a3-491e-b859-44208af22d58;2153
+"Schonnebeck, Essen (45309),130.000 € 2.090 €/m²,3 Zimmer,""62,2 m²"",Unknown,https://www.immowelt.de/expose/90a70cc6-bd5c-4faf-b20a-e2bb27213be4";2153
+Freisenbruch, Essen / Freisenbruch (45279),390.000 € 3.900 €/m²,3 Zimmer,100 m²,2. Geschoss,https://www.immowelt.de/expose/b6742a1d-37b9-4a89-a3b6-9a3dcf900bb0;2153
+Soester Str. 12, Kray, Essen (45307),199.000 € 1.983 €/m²,4 Zimmer,115 m²,2. Geschoss,https://www.immowelt.de/expose/6738e2a4-00eb-4740-a617-0d7ede6f434c;2153
+Schönebeck, Essen (45359),390.000 € 2.516 €/m²,4 Zimmer,155 m²,615 m² Grundstück,https://www.immowelt.de/expose/afa87dce-80d2-4040-a9aa-bea7c923af2b;2153
+Heisingen, Essen (45259),1.630.000 € 9.056 €/m²,6 Zimmer,180 m²,2.260 m² Grundstück,https://www.immowelt.de/expose/b9bb014f-5272-472a-aeb5-b01996a75767;2153
+Bedingrade, Essen (45359),199.000 € 2.236 €/m²,3 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/7a5971e6-9256-434d-a64a-a7d6b0a7d58e;2153
+Haarzopf, Essen (45149),749.000 € 4.928 €/m²,3 Zimmer,152 m²,510 m² Grundstück,https://www.immowelt.de/expose/6291a78f-a320-42e6-97d5-f369fe8e9d93;2153
+"Kupferdreher Straße 263, Kupferdreh, Essen (45257),114.800 € 1.965 €/m²,3 Zimmer,""58,4 m²"",1. Geschoss,https://www.immowelt.de/expose/113ef0c7-7f67-451f-9c0f-f242c1a25e81";2153
+Kettwig, Essen (45219),895.000 € 3.925 €/m²,9 Zimmer,228 m²,898 m² Grundstück,https://www.immowelt.de/expose/be586e6b-f9e9-4cab-b88d-595797fa2ec7;2153
+Kettwig, Essen (45219),399.000 € 4.694 €/m²,2 Zimmer,85 m²,EG,https://www.immowelt.de/expose/5b2c02cf-1ee1-4037-9a3d-03ec334893f2;2153
+Kray, Essen (45307),110.000 € 1.549 €/m²,3 Zimmer,71 m²,1. Geschoss,https://www.immowelt.de/expose/5c52795b-de12-4eac-bcff-bd5ce71ae0c6;2153
+"Brüggemannstraße 14, Katernberg, Essen (45327),144.600 € 2.224 €/m²,""4,5 Zimmer"",65 m²,2. Geschoss,https://www.immowelt.de/expose/2c3897c4-8105-4c59-9212-b42ffcb28f12";2153
+"Borbecker Straße 257, Borbeck-Mitte, Essen (45355),126.500 € 1.957 €/m²,4 Zimmer,""64,7 m²"",2. Geschoss,https://www.immowelt.de/expose/466bfb65-4ba8-44a6-859e-e170dc92461c";2153
+Freisenbruch, Essen (45279),84.000 € 1.867 €/m²,2 Zimmer,45 m²,EG,https://www.immowelt.de/expose/a31a98ba-8a6e-44b5-aeff-2385b61af361;2153
+Rüttenscheider Straße 236, Rüttenscheid, Essen (45131),1.711.111 € 3.704 €/m²,22 Zimmer,462 m²,460 m² Grundstück,https://www.immowelt.de/expose/fd79346a-8b59-47bc-9d40-3f1b40bc4a5c;2153
+Katernberg, Essen (45327),99.000 € 1.707 €/m²,2 Zimmer,58 m²,2. Geschoss,https://www.immowelt.de/expose/924464db-769c-4aa5-aa8a-f433cd8d1433;2153
+"Bredeney, Essen (45133),4.650.000 € 15.320 €/m²,10 Zimmer,""303,5 m²"",1.286 m² Grundstück,https://www.immowelt.de/expose/5ba2ebcf-46b7-469f-bc65-2c5632ad0994";2153
+Altendorf, Essen (45143),1.198.500 € 989 €/m²,18 Zimmer,1.212 m²,1.020 m² Grundstück,https://www.immowelt.de/expose/aba6b01a-b8ba-4607-b068-569d352e175b;2153
+Bredeney, Essen (45133),980.000 € 4.601 €/m²,7 Zimmer,213 m²,581 m² Grundstück,https://www.immowelt.de/expose/791e1f28-0c35-4d78-89d7-fb4bf3122dd5;2153
+Ostviertel, Essen (45127),260.000 € 5.306 €/m²,4 Zimmer,49 m²,1. Geschoss,https://www.immowelt.de/expose/43e4010f-adba-44a0-a6b7-1014268f51e1;2153
+Altendorf, Essen (45143),649.000 € 1.445 €/m²,449 m²,579 m² Grundstück,Unknown,https://www.immowelt.de/expose/1079393b-59c2-437c-b470-5863016e05c9;2153
+Altenessen-Süd, Essen-Altenessen (45326),695.000 € 8.688 €/m²,80 m²,Unknown,Unknown,https://www.immowelt.de/expose/f4e259d2-b260-4178-9119-215a4875523f;2153
+Altenessen-Süd, Essen (45326),86.000 € 1.564 €/m²,1 Zimmer,55 m²,6. Geschoss,https://www.immowelt.de/expose/f54fcd8b-6782-4e01-8b19-d0819bd5b200;2153
+Karnap, Essen (45329),689.999 € 3.286 €/m²,7 Zimmer,210 m²,470 m² Grundstück,https://www.immowelt.de/expose/e40d1fbc-1a8f-4f01-997c-44cd465cc917;2153
+Holsterhausen, Essen (45147),309.000 € 2.255 €/m²,4 Zimmer,137 m²,1. Geschoss,https://www.immowelt.de/expose/aa656c34-e7d2-4f63-a4a7-ce98dab88e83;2153
+Bedingrade, Essen (45359),120.000 € 1.935 €/m²,2 Zimmer,62 m²,Unknown,https://www.immowelt.de/expose/a48459f5-821a-4ea6-8ead-add7db3f474f;2153
+Südostviertel, Essen (45138),580.000 € 2.283 €/m²,11 Zimmer,254 m²,590 m² Grundstück,https://www.immowelt.de/expose/9d4b68fa-dcd2-45f0-837b-042a31eafebd;2153
+Rüttenscheid, Essen (45130),171.800 € 2.962 €/m²,2 Zimmer,58 m²,4. Geschoss,https://www.immowelt.de/expose/ab03f512-5da9-4f26-8903-2bca0a01d1f6;2153
+Südostviertel, Essen (45138),789.000 € 2.321 €/m²,15 Zimmer,340 m²,222 m² Grundstück,https://www.immowelt.de/expose/3cb128f7-4200-491e-a3fa-c07dd3ad46b8;2153
+Leithe, Essen (45307),399.000 € 3.400 €/m²,4 Zimmer,116 m²,137 m² Grundstück,https://www.immowelt.de/expose/dd4b16ba-07c6-4fc6-85b6-02f0a2624b00;2153
+"Rüttenscheid, Essen / Rüttenscheid (45131),980.000 € 4.317 €/m²,""4,5 Zimmer"",227 m²,3. Geschoss,https://www.immowelt.de/expose/63aff40e-f180-406b-a9df-996178cb2112";2153
+Holsterhausen, Essen (45147),1.100.000 € 1.843 €/m²,24 Zimmer,597 m²,277 m² Grundstück,https://www.immowelt.de/expose/c14b2365-0e8d-4a6c-bfa6-4d642ba3833b;2153
+Holsterhausen, Essen (45145),142.000 € 2.029 €/m²,3 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/faa48034-9435-474b-bf0c-14addc9dfa3c;2153
+Stoppenberg, Essen (45327),1.950.000 € 1.492 €/m²,1.307 m²,1.355 m² Grundstück,Unknown,https://www.immowelt.de/expose/5e8d9e75-e896-46fa-92b4-5ce8ceed7eb6;2153
+Werden, Essen (45239),785.000 € 4.435 €/m²,5 Zimmer,177 m²,Unknown,https://www.immowelt.de/expose/819c43f7-a84b-4b9f-8976-46327a882f6a;2153
+"Südviertel, Essen (45128),255.000 € 3.744 €/m²,2 Zimmer,""68,1 m²"",2. Geschoss,https://www.immowelt.de/expose/e3ad414b-7cab-4b50-bbc2-d2f582cc2366";2153
+Bedingrade, Essen (45359),600.000 € 2.667 €/m²,11 Zimmer,225 m²,800 m² Grundstück,https://www.immowelt.de/expose/c8dc80c2-0f73-4bb0-8f63-8eaea4248e35;2153
+Stoppenberg, Essen (45327),2.795.000 € 1.532 €/m²,1.824 m²,Unknown,Unknown,https://www.immowelt.de/expose/13ab2903-919f-4f94-b6bc-a758918dd5fa;2153
+Kettwig, Essen (45219),359.000 € 2.919 €/m²,3 Zimmer,123 m²,Unknown,https://www.immowelt.de/expose/2e64344f-bfba-4be6-b364-b178c7eed54b;2153
+"Nienhuser Busch 35, Katernberg, Essen (45327),124.300 € 2.104 €/m²,""2,5 Zimmer"",""59,1 m²"",2. Geschoss,https://www.immowelt.de/expose/374b9826-dac4-414e-a60d-67f56e14bd13";2153
+"Heisterholz 46, Karnap, Essen (45329),129.400 € 2.226 €/m²,""2,5 Zimmer"",""58,1 m²"",1. Geschoss,https://www.immowelt.de/expose/513f74af-5819-42db-b7f2-6ebcdcba0954";2153
+"Kray, Essen (45307),79.000 € 1.682 €/m²,""2,5 Zimmer"",47 m²,Unknown,https://www.immowelt.de/expose/9f99d94e-2918-4601-a467-8fa62412aa0e";2153
+Steele, Essen (45276),169.000 € 1.690 €/m²,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/11f1b928-4107-4c31-8220-f595fecef3a5;2153
+Horst, Essen (45279),109.000 € 1.346 €/m²,3 Zimmer,81 m²,5. Geschoss,https://www.immowelt.de/expose/a1187dc1-1467-42d1-b4de-c6f128ccf57a;2153
+Kray, Essen (45309),379.000 € 3.989 €/m²,4 Zimmer,95 m²,120 m² Grundstück,https://www.immowelt.de/expose/ae20c54f-76be-434d-bf9b-f5c34b13a003;2153
+"Gärtnerstraße 38, Südviertel, Essen (45128),195.000 € 2.972 €/m²,2 Zimmer,""65,6 m²"",3. Geschoss,https://www.immowelt.de/expose/fff40891-70ad-4b87-be90-edaa52c72837";2153
+Rüttenscheid, Essen (45130),199.000 € 2.618 €/m²,3 Zimmer,76 m²,2. Geschoss,https://www.immowelt.de/expose/0e52a7c7-2eff-4eab-8b28-8cb0435b863d;2153
+Dellwig, Essen (45357),750.000 € 2.500 €/m²,12 Zimmer,300 m²,1.427 m² Grundstück,https://www.immowelt.de/expose/d0ae9ed6-9b41-4d94-99bc-7532f912a798;2153
+"Schuir, Essen (45133),2.095.000 € 7.005 €/m²,6 Zimmer,""262,7 m²"",710 m² Grundstück,https://www.immowelt.de/expose/57e85250-2cb2-4622-8f38-5f636602f2ee";2153
+Stadtwald, Essen (45134),1.149.000 € 6.566 €/m²,7 Zimmer,175 m²,486 m² Grundstück,https://www.immowelt.de/expose/0348f35e-abc7-4be2-af73-0c489c64cd69;2153
+Kray, Essen (45309),380.000 € 1.784 €/m²,8 Zimmer,213 m²,499 m² Grundstück,https://www.immowelt.de/expose/5517a940-1443-4c4f-b80f-5205e95ea0a3;2153
+Bredeney, Essen (45133),1.750.000 € 8.216 €/m²,5 Zimmer,213 m²,1. Geschoss,https://www.immowelt.de/expose/549d1901-fd21-4aab-abc6-3318d69fdb86;2153
+"Kupferdreh, Essen (45257),549.000 € 2.027 €/m²,12 Zimmer,""270,9 m²"",498 m² Grundstück,https://www.immowelt.de/expose/e99fc97b-6b16-46f3-8cdc-7cb153ea104a";2153
+"Wilhelm-Nieswandt-Allee 132-134, Altenessen-Nord, Essen (45326),99.000 € 1.889 €/m²,""2,5 Zimmer"",""52,4 m²"",1. Geschoss,https://www.immowelt.de/expose/66177a73-3bc9-41cf-b589-8bf209f410a4";2153
+Südviertel, Essen (45128),219.000 € 2.808 €/m²,3 Zimmer,78 m²,Unknown,https://www.immowelt.de/expose/d1ea37e5-02ab-40c0-9892-68a99dcf1fa9;2153
+"Grundstraße 66, Katernberg, Essen (45327),158.400 € 2.017 €/m²,""3,5 Zimmer"",""78,6 m²"",EG,https://www.immowelt.de/expose/aa08e93e-25b6-437e-8158-2d47c72390b2";2153
+Borbeck-Mitte, Essen / Borbeck-Mitte (45355),180.000 € 2.118 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/e6bcbddd-973b-43d8-8928-095dc0722b8a;2153
+"Altenessen-Nord, Essen (45329),450.000 € 3.913 €/m²,""4,5 Zimmer"",115 m²,298 m² Grundstück,https://www.immowelt.de/expose/5695b348-7b68-4549-9f30-d5a8f4bb1070";2153
+Bredeney, Essen (45133),1.850.000 € 3.768 €/m²,17 Zimmer,491 m²,1.452 m² Grundstück,https://www.immowelt.de/expose/8e8a25c0-ca24-4777-b5a0-39f849985887;2153
+Nordviertel, Essen (45141),90.000 € 1.500 €/m²,2 Zimmer,60 m²,1. Geschoss,https://www.immowelt.de/expose/b5ecb3e4-f940-41c6-bbd2-05f8c4925fe6;2153
+Kirchfeldstr 28A, Kettwig, Essen (45219),221.000 € 2.961 €/m²,2 Zimmer,77 m²,1. Geschoss,https://www.immowelt.de/expose/b45527d8-0f3d-42ec-b033-8e5efd349f3e;2153
+"Kupferdreh, Essen (45257),216.000 € 2.614 €/m²,""2,5 Zimmer"",""82,6 m²"",Unknown,https://www.immowelt.de/expose/73b910dd-825b-4667-8ef2-4d971a00c240";2153
+Heisingen, Essen (45259),575.000 € 4.600 €/m²,4 Zimmer,125 m²,685 m² Grundstück,https://www.immowelt.de/expose/2d5a85ae-34ed-41a9-82b7-890592db211d;2153
+Fulerum, Essen (45149),549.000 € 3.565 €/m²,5 Zimmer,154 m²,EG,https://www.immowelt.de/expose/acfa5503-f701-4787-b90e-1084d5cc67c3;2153
+Kettwig, Essen (45219),1.250.000 € 3.858 €/m²,12 Zimmer,324 m²,1.422 m² Grundstück,https://www.immowelt.de/expose/5785f235-d3c6-4f42-8968-aeecc805ecfe;2153
+Frohnhausen, Essen (45144),127.000 € 1.896 €/m²,3 Zimmer,67 m²,2. Geschoss,https://www.immowelt.de/expose/65b37b81-697c-4a5d-ab81-38852637d75c;2153
+Heisingen, Essen (45259),139.000 € 3.092 €/m²,1 Zimmer,45 m²,EG,https://www.immowelt.de/expose/ed767f31-7c27-47ed-bb3e-012df2568538;2153
+Mathilde-Kaiser-Str. 25, Huttrop, Essen (45138),123.900 € 2.044 €/m²,2 Zimmer,68 m²,3. Geschoss,https://www.immowelt.de/expose/c1a91f21-79c5-46e9-b865-81576cc112ec;2153
+"Borbeck-Mitte, Essen (45355),219.999 € 2.292 €/m²,""3,5 Zimmer"",96 m²,2. Geschoss,https://www.immowelt.de/expose/25092464-7322-4caa-81ca-51b430b3a175";2153
+Rüttenscheiderstr 184, Rüttenscheid, Essen (45131),259.000 € 3.494 €/m²,2 Zimmer,77 m²,2. Geschoss,https://www.immowelt.de/expose/f2699f24-20fb-48a9-a5f5-13e92fd75792;2153
+Altenessen-Süd, Essen (45326),895.000 € 2.564 €/m²,6 Zimmer,349 m²,1.279 m² Grundstück,https://www.immowelt.de/expose/62a8f55c-121c-4907-b4a8-10adb0c333ea;2153
+Frintrop, Essen (45359),499.000 € 3.119 €/m²,5 Zimmer,160 m²,340 m² Grundstück,https://www.immowelt.de/expose/d0f04f97-6da9-4b48-9273-8b9d98afef7c;2153
+Kupferdreh, Essen / Kupferdreh (45257),1.391.250 € 2.733 €/m²,509 m²,674 m² Grundstück,Unknown,https://www.immowelt.de/expose/c4321ed3-0c44-4cf5-ac44-2a7b635d7e99;2153
+Stadtkern, Essen (45127),1.250.000 € 2.395 €/m²,522 m²,362 m² Grundstück,Unknown,https://www.immowelt.de/expose/c2499d33-e7e0-4a9c-9853-d36392e8b4d6;2153
+Bochhold, Essen (45355),350.000 € 2.431 €/m²,5 Zimmer,144 m²,203 m² Grundstück,https://www.immowelt.de/expose/e01bef7c-df23-4ba1-b44d-b6cca72939fd;2153
+Bochhold, Essen (45356),349.000 € 2.296 €/m²,5 Zimmer,152 m²,294 m² Grundstück,https://www.immowelt.de/expose/e8530a01-25d3-4d19-b764-87a32b86a3f5;2153
+Bochhold, Essen (45356),349.000 € 2.296 €/m²,5 Zimmer,152 m²,frei ab 01.01.2025,https://www.immowelt.de/expose/e87d39c0-8118-41d2-a530-dcbd83dcb1c4;2153
+Rüttenscheid, Essen / Bergerhausen (45136),460.000 € 2.072 €/m²,5 Zimmer,222 m²,Unknown,https://www.immowelt.de/expose/5d6cd3a3-5a0d-4313-87a6-98e8eef3765a;2153
+Rellinghausen, Essen (45134),341.900 € 2.124 €/m²,5 Zimmer,161 m²,Unknown,https://www.immowelt.de/expose/ca32b0ef-fdbe-4c2b-9cf7-599e4cf591cb;2153
+Rellinghausen, Essen (45134),435.900 € 2.382 €/m²,5 Zimmer,183 m²,Unknown,https://www.immowelt.de/expose/07b48b86-8d1a-41f9-94da-75cf7ca314ce;2153
+"Rellinghausen, Essen (45134),484.900 € 2.585 €/m²,6 Zimmer,""187,6 m²"",Unknown,https://www.immowelt.de/expose/8d7e5494-b300-4727-9e91-7d81bb52189d";2153
+Rellinghausen, Essen (45134),400.800 € 2.690 €/m²,4 Zimmer,149 m²,Unknown,https://www.immowelt.de/expose/72956d8c-936e-4351-82cb-b434e2d8148e;2153
+Rellinghausen, Essen (45134),326.400 € 3.079 €/m²,4 Zimmer,106 m²,Unknown,https://www.immowelt.de/expose/31731ad9-c6f8-49e0-8873-1dbe64c4bfc2;2153
+"Katernberg, Essen (45327),265.000 € 3.705 €/m²,2 Zimmer,""71,5 m²"",frei ab sofort,https://www.immowelt.de/expose/1a03f14f-a80c-4124-a8a5-79ecec9e6ebe";2153
+"Bochhold, Essen-Bochold (45355),460.000 € 4.780 €/m²,2 Zimmer,""96,2 m²"",Unknown,https://www.immowelt.de/expose/1d5d2a53-4292-4fc7-99c8-f826a9f503cd";2153
+"Bochhold, Essen-Bochold (45355),575.000 € 4.203 €/m²,4 Zimmer,""136,8 m²"",Unknown,https://www.immowelt.de/expose/c266b6b6-9f73-4137-8354-f81c5b0dce6a";2153
+Soester Str. 12, Kray, Essen (45307),220.000 € 1.983 €/m²,4 Zimmer,115 m²,Unknown,https://www.immowelt.de/expose/13ca5f54-090b-4114-b431-c2793e00ea86;2153
+Rüttenscheid, Essen (45130),1.120.000 € 3.209 €/m²,14 Zimmer,349 m²,500 m² Grundstück,https://www.immowelt.de/expose/d9f6e145-aea8-4fae-84b6-19fd399198ac;2153
+"Bochhold, Essen (45356),209.950 € 2.727 €/m²,""2,5 Zimmer"",77 m²,2. Geschoss,https://www.immowelt.de/expose/6c94fddd-12a6-402b-bd25-9eca570ed044";2153
+Ratsherrnweg 20, Rüttenscheid, Essen (45130),171.000 € 3.109 €/m²,3 Zimmer,55 m²,4. Geschoss,https://www.immowelt.de/expose/8cb98f6b-b215-4763-b4f7-3e0ca600adc8;2153
+Altenessen-Süd, Essen (45326),155.000 € 1.270 €/m²,6 Zimmer,122 m²,Unknown,https://www.immowelt.de/expose/229c410e-8b84-4f43-9a9c-83420ff3d3c4;2153
+Bergerhausen, Essen (45136),879.000 € 3.330 €/m²,8 Zimmer,264 m²,531 m² Grundstück,https://www.immowelt.de/expose/ec5adba9-78db-4983-8a12-13d5e1e1968f;2153
+"Überruhr-Holthausen, Essen (45277),389.000 € 3.455 €/m²,5 Zimmer,""112,6 m²"",445 m² Grundstück,https://www.immowelt.de/expose/da52bc5c-a4e4-4991-91ba-2ce1f158b730";2153
+Altenessen-Süd, Essen (45326),199.000 € 1.990 €/m²,4 Zimmer,100 m²,200 m² Grundstück,https://www.immowelt.de/expose/1c0f1a29-4184-4d9d-bec7-01b3ce674d75;2153
+Bredeney, Essen (45133),3.350.000 € 12.500 €/m²,4 Zimmer,268 m²,3.550 m² Grundstück,https://www.immowelt.de/expose/1b85f8cf-a335-4f2a-84e7-484fe6483dd6;2153
+Bochhold, Essen / Borbeck-Mitte (45355),395.000 € 2.135 €/m²,4 Zimmer,185 m²,9. Geschoss,https://www.immowelt.de/expose/80c0c915-9cfe-4e48-a6ad-99b025c991ab;2153
+Bochhold, Essen-Bochold (45355),680.000 € 3.819 €/m²,5 Zimmer,178 m²,Unknown,https://www.immowelt.de/expose/c0dc824f-a598-434b-876c-e9e5440645fd;2153
+"Bochhold, Essen-Bochold (45355),444.000 € 4.221 €/m²,3 Zimmer,""105,2 m²"",Unknown,https://www.immowelt.de/expose/d405ec80-f558-49f2-aba5-10a21669e824";2153
+"Bochhold, Essen-Bochold (45355),285.000 € 3.977 €/m²,2 Zimmer,""71,7 m²"",Unknown,https://www.immowelt.de/expose/a40e383a-1ef2-431f-a9de-4e4c46b7d2cb";2153
+"Freisenbruch, Essen (45279),420.000 € 4.183 €/m²,3 Zimmer,""100,4 m²"",Unknown,https://www.immowelt.de/expose/0ac4a49f-cab4-4ddd-acb8-52c949a70616";2153
+Altenessen-Nord, Essen (45329),899.000 € 1.684 €/m²,19 Zimmer,534 m²,518 m² Grundstück,https://www.immowelt.de/expose/18ed999f-ee28-452d-b3df-edd5b0609fb1;2153
+"Steele, Essen (45276),4.379.289 € 1.747 €/m²,100 Zimmer,""2.506,5 m²"",3.793 m² Grundstück,https://www.immowelt.de/expose/d1baae35-5bcd-41ec-bef7-36da3264d07e";2153
+"Steele, Essen (45276),649.000 € 1.400 €/m²,19 Zimmer,""463,4 m²"",187 m² Grundstück,https://www.immowelt.de/expose/8a28e745-5696-4b35-b82c-ef11e385dbdd";2153
+Huttrop, Essen (45138),199.000 € 1.686 €/m²,4 Zimmer,118 m²,4. Geschoss,https://www.immowelt.de/expose/5dca9d05-dada-4205-970c-e2d73adbebf3;2153
+Dellwig, Essen (45357),750.000 € 2.500 €/m²,12 Zimmer,300 m²,1.427 m² Grundstück,https://www.immowelt.de/expose/61cef1fe-13d3-4235-809c-f7e3426e72bb;2153
+Altenessen-Süd, Essen (45326),3.500.000 € 1.524 €/m²,2.297 m²,Unknown,Unknown,https://www.immowelt.de/expose/511b53c5-041f-4043-b1d2-26319670dde9;2153
+"Frohnhausen, Essen (45144),146.500 € 1.620 €/m²,""3,5 Zimmer"",""90,4 m²"",3. Geschoss,https://www.immowelt.de/expose/68d5be28-bb3c-420a-a908-a5068c5957f6";2153
+Rüttenscheid, Essen (45131),199.000 € 3.159 €/m²,3 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/3de33530-5ecb-4309-97d4-0993e565fe45;2153
+Fulerum, Essen (45149),890.000 € 4.238 €/m²,5 Zimmer,210 m²,EG,https://www.immowelt.de/expose/7d8336d2-4c35-4d7a-bd7e-17519468d4a3;2153
+Rüttenscheid, Essen / Rüttenscheid (45131),229.000 € 2.899 €/m²,2 Zimmer,79 m²,EG,https://www.immowelt.de/expose/a065d948-227d-487e-ae01-b3e8c48b385b;2153
+Altenessen-Nord, Essen / Altenessen-Nord (45329),182.000 € 2.193 €/m²,3 Zimmer,83 m²,EG,https://www.immowelt.de/expose/ba82d468-8b44-427f-811a-1cef5b9416ca;2153
+Kupferdreh, Essen (45257),875.000 € 4.654 €/m²,7 Zimmer,188 m²,1.571 m² Grundstück,https://www.immowelt.de/expose/cfb16f4e-8345-4658-8957-125426bee7f6;2153
+Huttrop, Essen (45138),124.000 € 2.044 €/m²,2 Zimmer,68 m²,3. Geschoss,https://www.immowelt.de/expose/255603ba-e066-444e-a1a7-c84c03b42931;2153
+Stadtwald, Essen (45134),309.000 € 2.377 €/m²,3 Zimmer,130 m²,Unknown,https://www.immowelt.de/expose/0d7ea533-cebf-45ea-8b7a-e567579e287b;2153
+Altenessen-Süd, Essen (45326),89.950 € 1.046 €/m²,3 Zimmer,86 m²,1. Geschoss,https://www.immowelt.de/expose/63c17142-5030-4aff-ba97-c00a0445927f;2153
+Fischlaken, Essen (45239),167.950 € 3.054 €/m²,2 Zimmer,55 m²,2. Geschoss,https://www.immowelt.de/expose/fba06245-09c6-4078-b13d-d8c9fafafd8e;2153
+"Kettwig, Essen (45219),190.000 € 3.800 €/m²,""1,5 Zimmer"",50 m²,frei ab sofort,https://www.immowelt.de/expose/19aa86f5-e07f-42c9-9373-f5d6148763da";2153
+Heisingen, Essen (45259),1.395.000 € 4.359 €/m²,10 Zimmer,320 m²,1.168 m² Grundstück,https://www.immowelt.de/expose/e2f07b54-99da-4b92-a240-6652a21152de;2153
+Altenessen-Nord, Essen / Altenessen-Nord (45329),399.000 € 2.280 €/m²,6 Zimmer,175 m²,3. Geschoss,https://www.immowelt.de/expose/bd2b828e-432f-434b-ab01-1e59e938c684;2153
+Schonnebeck, Essen (45309),219.000 € 2.433 €/m²,4 Zimmer,90 m²,178 m² Grundstück,https://www.immowelt.de/expose/8b97eec6-3c0c-4d73-a467-ea5dbfeae351;2153
+Altendorf, Essen-Altendorf (45143),Preis auf Anfrage,16 Zimmer,560 m²,1.575 m² Grundstück,https://www.immowelt.de/expose/767e05d2-f467-4dd2-87db-7fe2cea924da;2153
+"Unknown,Unknown,""5,5 Zimmer"",""189,2 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2sg832";2153
+Rüttenscheid, Essen (45130),195.000 € 3.095 €/m²,3 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/dec459a5-9787-487c-88a1-5396a0b97de6;2153
+"Frohnhausen, Essen (45144),604.589 € 2.549 €/m²,7 Zimmer,""237,2 m²"",491 m² Grundstück,https://www.immowelt.de/expose/5310bf35-2e0e-4d12-b75e-f7ff9520ffc8";2153
+"Frohnhausen, Essen (45144),608.569 € 2.320 €/m²,8 Zimmer,""262,4 m²"",491 m² Grundstück,https://www.immowelt.de/expose/ecad54d8-3c40-4799-a289-47aabc488e3f";2153
+Huttrop, Essen (45138),139.000 € 2.044 €/m²,2 Zimmer,68 m²,3. Geschoss,https://www.immowelt.de/expose/2c0f0178-6290-491f-aca7-4f94bf4647c7;2153
+"Horst, Essen (45279),130.000 € 1.808 €/m²,2 Zimmer,""71,9 m²"",Unknown,https://www.immowelt.de/expose/3df8528d-59b8-4b71-8c40-470ff804d801";2153
+Kettwig, Essen (45219),228.000 € 2.961 €/m²,2 Zimmer,77 m²,1. Geschoss,https://www.immowelt.de/expose/7e589078-37e6-4e5f-a535-4a908b0ef8d9;2153
+Freisenbruch, Essen (45279),165.000 € 2.171 €/m²,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/43dd3099-91dc-4eb5-aa1e-9722c9b49b8c;2153
+im Breiksken 5, Kray, Essen (45307),545.000 € 1.453 €/m²,10 Zimmer,375 m²,512 m² Grundstück,https://www.immowelt.de/expose/dc778060-aa7c-46c8-b273-480c88135dfd;2153
+Rüttenscheid, Essen (45130),178.000 € 3.560 €/m²,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/305b1eeb-8c82-4f51-b47f-8f554798f842;2153
+Kettwig, Essen / Kettwig (45219),2.395.000 € 9.355 €/m²,6 Zimmer,256 m²,Unknown,https://www.immowelt.de/expose/0f949752-9cf2-49ac-a9a1-1cab2b5d1f1e;2153
+"Dellwig, Essen (45357),545.139 € 2.078 €/m²,8 Zimmer,""262,4 m²"",492 m² Grundstück,https://www.immowelt.de/expose/7b0e578e-300d-427d-9ced-1fe80a82a2fa";2153
+"Dellwig, Essen (45357),339.999 € 3.173 €/m²,4 Zimmer,""107,2 m²"",492 m² Grundstück,https://www.immowelt.de/expose/a618d1a6-ff89-456d-ae42-de9a2ee6e681";2153
+"Dellwig, Essen (45357),545.139 € 2.078 €/m²,8 Zimmer,""262,4 m²"",492 m² Grundstück,https://www.immowelt.de/expose/a408835c-457c-48ef-bdfc-075943863596";2153
+Borbeck-Mitte, Essen / Borbeck-Mitte (45355),120.000 € 1.905 €/m²,2 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/7ba174b9-8717-4876-b7b5-4b9900a43c86;2153
+"Stadtwald, Essen (45133),639.000 € 5.412 €/m²,3 Zimmer,""118,1 m²"",Unknown,https://www.immowelt.de/expose/1b636310-1ff5-4953-81c9-2f594e119664";2153
+Horst, Essen (45279),145.000 € 1.813 €/m²,3 Zimmer,80 m²,7. Geschoss,https://www.immowelt.de/expose/adfbcd4d-6da4-43c5-90b7-3550eed4865a;2153
+"Rüttenscheid, Essen (45130),179.000 € 3.154 €/m²,2 Zimmer,""56,8 m²"",1. Geschoss,https://www.immowelt.de/expose/630e12ab-6092-4847-a485-84f1842e75a7";2153
+"Schuir, Essen (45133),2.950.000 € 9.307 €/m²,6 Zimmer,""298,7 m²"",1.805 m² Grundstück,https://www.immowelt.de/expose/34bd65f8-d7b1-4941-b920-68e906acd587";2153
+"Bredeney, Essen (45133),279.000 € 2.921 €/m²,""2,5 Zimmer"",""95,5 m²"",Unknown,https://www.immowelt.de/expose/784bc239-7478-4a87-bdd2-08d9b023ee63";2153
+"Schuir, Essen (45133),279.000 € 2.921 €/m²,""2,5 Zimmer"",""95,5 m²"",Unknown,https://www.immowelt.de/expose/e06db5e2-1cad-4442-a25b-c1e3602d8a50";2153
+"Bredeney, Essen / Bredeney (45133),1.198.000 € 7.300 €/m²,4 Zimmer,""164,1 m²"",EG,https://www.immowelt.de/expose/0f882273-ab7f-40da-b6da-8fb9ad53ead0";2153
+"Bredeney, Essen / Bredeney (45133),1.235.000 € 7.558 €/m²,4 Zimmer,""163,4 m²"",EG,https://www.immowelt.de/expose/35edd4f6-1d99-4a8f-b23b-78bcefbd444e";2153
+"Stadtwald, Essen (45134),506.599 € 4.111 €/m²,4 Zimmer,""123,2 m²"",350 m² Grundstück,https://www.immowelt.de/expose/8ce04a24-36df-4702-b3df-0dc18ea9981b";2153
+"Stadtwald, Essen (45134),540.640 € 3.413 €/m²,2 Zimmer,""158,4 m²"",350 m² Grundstück,https://www.immowelt.de/expose/78d99b6b-d3ac-4e7a-89b8-cea39cdf75f5";2153
+"Stadtwald, Essen (45134),515.579 € 3.750 €/m²,3 Zimmer,""137,5 m²"",350 m² Grundstück,https://www.immowelt.de/expose/b857005e-6f4c-4c6b-ba22-33e212ad940f";2153
+"Stadtwald, Essen (45134),520.119 € 3.829 €/m²,4 Zimmer,""135,8 m²"",350 m² Grundstück,https://www.immowelt.de/expose/388deadf-d1cf-4e63-a9e9-25d105894e08";2153
+Bredeney, Essen (45133),340.000 € 4.000 €/m²,2 Zimmer,85 m²,EG,https://www.immowelt.de/expose/fc870d0e-c894-4b3c-8e9d-424a824a9594;2153
+Kettwig, Essen (45219),495.000 € 5.000 €/m²,3 Zimmer,99 m²,2. Geschoss,https://www.immowelt.de/expose/d6e0ae99-df14-46c6-9330-3dfea6690299;2153
+Kettwig, Essen (45219),495.000 € 5.000 €/m²,3 Zimmer,99 m²,2. Geschoss,https://www.immowelt.de/expose/7810dbd4-a2af-4794-9cd0-336f65310969;2153
+Frillendorf, Essen (45139),620.510 € 5.086 €/m²,7 Zimmer,122 m²,593 m² Grundstück,https://www.immowelt.de/expose/f136bd0b-babe-43c6-9905-2c874a033d10;2153
+Frillendorf, Essen (45139),555.990 € 3.541 €/m²,7 Zimmer,157 m²,378 m² Grundstück,https://www.immowelt.de/expose/f7b175c9-135a-426a-8598-bce834240cbb;2153
+Frillendorf, Essen (45139),514.110 € 3.620 €/m²,6 Zimmer,142 m²,378 m² Grundstück,https://www.immowelt.de/expose/1167b400-ace1-4afb-81a4-2f481f0d8d2d;2153
+Frillendorf, Essen (45139),679.870 € 3.237 €/m²,9 Zimmer,210 m²,378 m² Grundstück,https://www.immowelt.de/expose/7d6b1eab-b655-431d-a6ac-7d5f91961557;2153
+"Stadtwald, Essen (45133),599.500 € 5.506 €/m²,3 Zimmer,""108,9 m²"",Unknown,https://www.immowelt.de/expose/a85bb5af-591f-4e01-98f0-7db75f5b7c19";2153
+Frohnhausen, Essen-Frohnhausen (45144),1.099.000 € 2.113 €/m²,24 Zimmer,520 m²,601 m² Grundstück,https://www.immowelt.de/expose/51f3a211-1b82-4159-8a29-828f423268ef;2153
+"Stadtkern, Essen (45127),190.000 € 3.800 €/m²,""1,5 Zimmer"",50 m²,frei ab sofort,https://www.immowelt.de/expose/a2eed2e2-d75e-4610-a427-2d9cb362e915";2153
+Kettwig, Essen (45219),399.000 € 4.750 €/m²,2 Zimmer,84 m²,1. Geschoss,https://www.immowelt.de/expose/3828dcec-e449-4866-a616-df8af9119ec7;2153
+Kettwig, Essen (45219),569.000 € 4.991 €/m²,3 Zimmer,114 m²,2. Geschoss,https://www.immowelt.de/expose/53e0938b-72b0-4c8d-a470-5c3863213c34;2153
+Kettwig, Essen (45219),399.000 € 4.807 €/m²,2 Zimmer,83 m²,1. Geschoss,https://www.immowelt.de/expose/8f4fbc4d-80fc-4cd6-9132-3c4b804b6a86;2153
+Kettwig, Essen (45219),545.000 € 5.000 €/m²,4 Zimmer,109 m²,EG,https://www.immowelt.de/expose/fe7377f9-28f1-457c-aca7-4562c1d7cd39;2153
+Ostviertel, Essen (45127),350.000 € 3.933 €/m²,2 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/211868e6-470c-4b64-a9a3-8aa8b5fbddc7;2153
+Schönebeck, Essen (45359),395.000 € 3.496 €/m²,4 Zimmer,113 m²,EG,https://www.immowelt.de/expose/65491c57-392c-4615-a6bf-05c00abeab3c;2153
+Kupferdreh, Essen (45257),360.000 € 2.535 €/m²,9 Zimmer,142 m²,224 m² Grundstück,https://www.immowelt.de/expose/b60b27cc-8afb-48e4-8d40-0b2da0e88f59;2153
+Kupferdreh, Essen (45257),199.000 € 2.653 €/m²,3 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/1ace6a1c-6480-4d5e-9f50-2fe3c50d6d6b;2153
+Katernberg, Essen (45327),750.000 € 1.185 €/m²,24 Zimmer,633 m²,1.054 m² Grundstück,https://www.immowelt.de/expose/08a96e7d-6008-4ee6-8769-c5a9c8456a07;2153
+Südviertel, Essen (45128),5.999.000 € 6.959 €/m²,862 m²,Unknown,Unknown,https://www.immowelt.de/expose/1d2af3b9-be5d-4c6a-a2cb-4f7faf9bd567;2153
+"Schuir, Essen (45133),695.000 € 4.067 €/m²,5 Zimmer,""170,9 m²"",523 m² Grundstück,https://www.immowelt.de/expose/797f5e88-89db-4ade-b9b6-501c1cf84dfb";2153
+Gerschede, Essen (45357),135.000 € 2.700 €/m²,2 Zimmer,50 m²,1. Geschoss,https://www.immowelt.de/expose/c3cd9c7d-900a-41fb-8443-f6c6d4ef0d76;2153
+"Bedingrade, Essen / Bedingrade (45359),585.000 € 4.078 €/m²,5 Zimmer,""143,4 m²"",620 m² Grundstück,https://www.immowelt.de/expose/9387c204-5541-4d83-92a7-2d600c66fcac";2153
+"Bedingrade, Essen / Bedingrade (45359),595.000 € 4.063 €/m²,6 Zimmer,""146,4 m²"",620 m² Grundstück,https://www.immowelt.de/expose/c5f69c91-35be-437b-bd42-54f250d1de01";2153
+"Bredeney, Essen / Bredeney (45133),1.510.000 € 9.185 €/m²,3 Zimmer,""164,4 m²"",EG,https://www.immowelt.de/expose/c367a906-6670-499e-9f8d-d1267f86fb0d";2153
+"Bredeney, Essen / Bredeney (45133),1.065.000 € 7.320 €/m²,4 Zimmer,""145,5 m²"",1. Geschoss,https://www.immowelt.de/expose/defd8632-28e6-49b5-8359-06858627317b";2153
+"Bredeney, Essen / Bredeney (45133),1.106.000 € 7.560 €/m²,4 Zimmer,""146,3 m²"",1. Geschoss,https://www.immowelt.de/expose/557e2ba9-e333-4cb6-9239-be200d251085";2153
+Frillendorf, Essen (45139),467.550 € 3.740 €/m²,6 Zimmer,125 m²,368 m² Grundstück,https://www.immowelt.de/expose/14ede629-658b-41ad-9e48-44db47366191;2153
+"Rüttenscheid, Essen (45130),134.900 € 1.938 €/m²,3 Zimmer,""69,6 m²"",Unknown,https://www.immowelt.de/expose/2d24d893-cfbc-4c4f-94f7-d7d04bbf535b";2153
+"Bredeney, Essen / Bredeney (45133),1.026.000 € 7.013 €/m²,4 Zimmer,""146,3 m²"",1. Geschoss,https://www.immowelt.de/expose/ff3dc3a5-eb58-4430-8228-29adb6840ec2";2153
+"Bredeney, Essen / Bredeney (45133),1.170.000 € 7.147 €/m²,4 Zimmer,""163,7 m²"",EG,https://www.immowelt.de/expose/eb5e2bb6-9507-4ccb-b52b-638d5d7c629a";2153
+"Bredeney, Essen / Bredeney (45133),1.230.000 € 7.569 €/m²,4 Zimmer,""162,5 m²"",EG,https://www.immowelt.de/expose/d77aa3b7-398f-46aa-ad5b-c686d3e8b607";2153
+"Bredeney, Essen / Bredeney (45133),1.106.000 € 7.544 €/m²,4 Zimmer,""146,6 m²"",1. Geschoss,https://www.immowelt.de/expose/72ff5260-0e30-4fa0-9608-7bba0b02c657";2153
+"Unknown,Unknown,""5,5 Zimmer"",144 m²,511 m² Grundstück,https://www.immowelt.de/projekte/expose/k2fq732";2153
+"Unknown,Unknown,""5,5 Zimmer"",144 m²,340 m² Grundstück,https://www.immowelt.de/projekte/expose/k2fq732";2153
+"Bredeney, Essen / Bredeney (45133),1.140.000 € 7.011 €/m²,4 Zimmer,""162,6 m²"",EG,https://www.immowelt.de/expose/20a6b32a-e556-4c64-bd97-cd77006f7e65";2153
+Frankenstr. 98, Rellinghausen, Essen (45134),147.500 € 2.201 €/m²,3 Zimmer,67 m²,3. Geschoss,https://www.immowelt.de/expose/b3de8dcf-0294-4645-875a-fbcfd3017737;2153
+"Unknown,Unknown,""5,5 Zimmer"",144 m²,460 m² Grundstück,https://www.immowelt.de/projekte/expose/k2fq732";2153
+Bredeney, Essen (45133),1.790.000 € 4.464 €/m²,10 Zimmer,401 m²,2.334 m² Grundstück,https://www.immowelt.de/expose/0297c5b6-839c-4e0e-8e6d-82fb6c433508;2153
+Frillendorf, Essen (45139),895.000 € 2.002 €/m²,447 m²,972 m² Grundstück,Unknown,https://www.immowelt.de/expose/cf166914-4a5d-4755-8490-0b497e3d5434;2153
+Schönebeck, Essen / Schönebeck (45359),120.000 € 1.935 €/m²,2 Zimmer,62 m²,4. Geschoss,https://www.immowelt.de/expose/0df2c02b-502e-4e63-849a-52563fcfaf5f;2153
+Dennendreef 5, Stadtkern, Boxtel (5282 HK),139.500 € 2.536 €/m²,3 Zimmer,55 m²,225 m² Grundstück,https://www.immowelt.de/expose/83f15a7c-2799-4643-9de3-f9687b565075;2153
+"Kettwig, Essen (45219),295.071 € 10.228 €/m²,1 Zimmer,""28,9 m²"",2. Geschoss,https://www.immowelt.de/expose/7a13e25f-522c-4503-b8e7-733941c0e33d";2153
+"Kettwig, Essen (45219),286.740 € 4.459 €/m²,2 Zimmer,""64,3 m²"",1. Geschoss,https://www.immowelt.de/expose/00941873-c63d-4096-bf72-63f9f0134ac3";2153
+Schuir, Essen (45133),2.045.000 € 7.865 €/m²,6 Zimmer,260 m²,660 m² Grundstück,https://www.immowelt.de/expose/cd990d6d-9a33-4bed-a90e-757809fd75b9;2153
+Bochhold, Essen (45355),142.500 € 2.298 €/m²,2 Zimmer,62 m²,EG,https://www.immowelt.de/expose/19a61db6-5bf4-4988-8da5-926fd451683e;2153
+"Heisingen, Essen (45259),189.000 € 2.662 €/m²,""2,5 Zimmer"",71 m²,Unknown,https://www.immowelt.de/expose/2dde6cd3-bfdf-472f-8562-272237b5acc6";2153
+"Käthe-Larsch-Straße, Stadtkern, Essen (45127),200.000 € 2.564 €/m²,""2,5 Zimmer"",78 m²,frei ab sofort,https://www.immowelt.de/expose/7889013e-d9b6-4c5c-940c-03c626146c47";2153
+Herkulesstraße, Ostviertel, Essen (45147),130.000 € 553 €/m²,7 Zimmer,235 m²,frei ab sofort,https://www.immowelt.de/expose/eb6c6dd5-4e94-4ada-bae2-b4d3f51f4cc7;2153
+"Heiligenhauserstraße, Kettwig, Essen (45219),""1.700 € 12,14 €/m²"",5 Zimmer,140 m²,frei ab sofort,https://www.immowelt.de/expose/128c3f6b-fc13-418c-9e48-99893f092dc1";2153
+Hauptstrasse, Kettwig, Essen (45219),200.000 € 1.961 €/m²,3 Zimmer,102 m²,frei ab sofort,https://www.immowelt.de/expose/4750fd24-6e07-4135-b713-0805a47cc936;2153
+"Hans-Luther-Allee, Rüttenscheid, Essen (45131),200.000 € 494 €/m²,""5,5 Zimmer"",405 m²,frei ab sofort,https://www.immowelt.de/expose/fea137e2-c70f-4720-98df-1341a036684a";2153
+"Hohehausstr., Bochhold, Essen (45355),140.000 € 1.758 €/m²,""3,5 Zimmer"",""79,6 m²"",frei ab sofort,https://www.immowelt.de/expose/6462ab6d-c781-4176-9909-39445177ab7d";2153
+Kupferdreh, Essen (45257),800.000 € 1.860 €/m²,430 m²,Unknown,Unknown,https://www.immowelt.de/expose/4f2f8e5d-4e77-4f8d-90c3-52ddcf91f14b;2153
+Kupferdreh, Essen (45257),155.000 € 2.818 €/m²,2 Zimmer,55 m²,EG,https://www.immowelt.de/expose/751e3c78-8261-4f10-84bc-43581044b6df;2153
+Kupferdreh, Essen (45257),220.000 € 2.558 €/m²,3 Zimmer,86 m²,2. Geschoss,https://www.immowelt.de/expose/00b2e088-2cee-484e-ab6e-2b386fcfafcc;2153
+"Stobbestraße 11, Holsterhausen, Essen (45147),199.900 € 2.474 €/m²,4 Zimmer,""80,8 m²"",EG,https://www.immowelt.de/expose/6c74d29a-a14e-4ac8-870e-9bfa41107490";2153
+Stoppenberg, Essen (45141),355.000 € 2.817 €/m²,126 m²,Unknown,Unknown,https://www.immowelt.de/expose/4330e0be-393f-4318-ba75-91672728a8a9;2153
+Holsterhausen, Essen (45147),130.000 € 1.970 €/m²,2 Zimmer,66 m²,1. Geschoss,https://www.immowelt.de/expose/f22c71c6-36b7-48c0-b4c5-f7ccd4d72ba7;2153
+Nollendorfstraße 50, Heißen - Süd, Mülheim an der Ruhr (45472),139.000 € 2.439 €/m²,3 Zimmer,57 m²,2. Geschoss,https://www.immowelt.de/expose/dab33758-bd86-438f-924e-60b368757224;2153
+"Heißen - Süd, Mülheim (45472),354.000 € 4.694 €/m²,2 Zimmer,""75,4 m²"",Unknown,https://www.immowelt.de/projekte/expose/k2wz832";2153
+Heißen - Mitte, Mülheim an der Ruhr (45472),240.000 € 976 €/m²,246 m²,Unknown,Unknown,https://www.immowelt.de/expose/147ece95-ef95-46a8-bdad-82516295a731;2153
+"Holthausen - West, Mülheim an der Ruhr (45472),480.000 € 4.752 €/m²,""3,5 Zimmer"",101 m²,2. Geschoss,https://www.immowelt.de/expose/d4ba9609-bb62-40f1-a822-58ab42103dfe";2153

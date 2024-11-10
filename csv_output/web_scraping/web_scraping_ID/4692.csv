@@ -1,61 +1,61 @@
-﻿Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL
-"Untergrombach, Bruchsal / Untergrombach (76646)",312.000 € 2.889 €/m²,4 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/deecb198-6d30-4e81-8223-7db5c84326a2
-"Obergrombach, Bruchsal (76646)",645.000 € 4.188 €/m²,6 Zimmer,154 m²,400 m² Grundstück,https://www.immowelt.de/expose/88b02a75-18a6-4dcb-9e64-460d7f3c6c32
-"Helmsheim, Bruchsal-Helmsheim (76646)",735.000 € 5.177 €/m²,5 Zimmer,142 m²,523 m² Grundstück,https://www.immowelt.de/expose/13772762-cb53-4568-beab-2849fb6d7161
-"Obergrombach, Bruchsal (76646)",350.000 € 2.414 €/m²,6 Zimmer,145 m²,348 m² Grundstück,https://www.immowelt.de/expose/b1bdd752-9b93-4f7b-8262-c039c31639fc
-"Kernstadt - Nordwest, Bruchsal (76646)",998.000 € 5.198 €/m²,"3,5 Zimmer",192 m²,4. Geschoss,https://www.immowelt.de/expose/89c54789-4423-48b3-968c-db07b7758418
-"Kernstadt - Nordost, Bruchsal (76646)",199.900 € 3.197 €/m²,2 Zimmer,"62,5 m²",EG,https://www.immowelt.de/expose/58fdfc53-0a0b-42bb-b1b1-8b9b005495fe
-"Kernstadt - Nordwest, Bruchsal (76646)",298.000 € 3.275 €/m²,6 Zimmer,91 m²,391 m² Grundstück,https://www.immowelt.de/expose/4ef90b79-d433-4eee-8899-ee2b2f404ae4
-"Kernstadt - Südost, Bruchsal (76646)",139.000 € 3.159 €/m²,1 Zimmer,44 m²,Unknown,https://www.immowelt.de/expose/5f133607-85e2-4786-9bef-95f3495d24ba
-"Kernstadt - Südost, Bruchsal (76646)",230.000 € 2.699 €/m²,2 Zimmer,"85,2 m²",Unknown,https://www.immowelt.de/expose/50ff50a1-6841-4f75-b878-e501f1c2f979
-"Heidelsheim, Bruchsal (76646)",390.000 € 2.557 €/m²,6 Zimmer,"152,6 m²",120 m² Grundstück,https://www.immowelt.de/expose/b4bace61-d376-4201-9b3a-ef9e466f711b
-"Kernstadt - Nordost, Bruchsal (76646)",669.000 € 4.460 €/m²,5 Zimmer,150 m²,596 m² Grundstück,https://www.immowelt.de/expose/f090a19d-c585-4a54-ae2a-2edd3738df9c
-"Heidelsheim, Bruchsal (76646)",145.000 € 4.028 €/m²,1 Zimmer,36 m²,Unknown,https://www.immowelt.de/expose/8991cfbd-c766-43e9-8d11-e23c8b29c1c6
-"Kernstadt - Nordost, Bruchsal (76646)",775.000 € 2.631 €/m²,12 Zimmer,"294,6 m²",268 m² Grundstück,https://www.immowelt.de/expose/a81e4498-a71f-489d-aad7-69bfd7411d75
-"Helmsheim, Bruchsal-Helmsheim (76646)",588.000 € 4.742 €/m²,5 Zimmer,124 m²,420 m² Grundstück,https://www.immowelt.de/expose/fb63b969-c2d1-403f-8fbd-01e7b7aa744a
-"Kernstadt - Nordost, Bruchsal (76646)",299.000 € 3.500 €/m²,"2,5 Zimmer","85,4 m²",EG,https://www.immowelt.de/expose/349b5291-422a-4ee5-8af7-555fea34ea34
-"Kernstadt - Südost, Bruchsal (76646)",750.000 € 3.074 €/m²,12 Zimmer,244 m²,484 m² Grundstück,https://www.immowelt.de/expose/a4cb73e2-a942-4ae2-87c0-5bccc25f9d0e
-"Heidelsheim, Bruchsal / Heidelsheim (76646)",303.900 € 3.640 €/m²,3 Zimmer,"83,5 m²",Unknown,https://www.immowelt.de/expose/b285f981-8a93-42df-9c41-2c35891fa16f
-"Heidelsheim, Bruchsal / Heidelsheim (76646)",299.000 € 3.510 €/m²,3 Zimmer,"85,2 m²",Unknown,https://www.immowelt.de/expose/7a9fc11a-93c1-4372-837d-42d83c9486bd
-"Heidelsheim, Bruchsal / Heidelsheim (76646)",281.900 € 3.633 €/m²,3 Zimmer,"77,6 m²",Unknown,https://www.immowelt.de/expose/15901e95-9bb3-4727-817e-6575b8b76d10
-"Heidelsheim, Bruchsal / Heidelsheim (76646)",194.000 € 4.590 €/m²,2 Zimmer,"42,3 m²",Unknown,https://www.immowelt.de/expose/14cd800e-489e-4f52-9d6a-d9e28c4ef505
-"Kernstadt - Südost, Bruchsal (76646)",110.000 € 3.056 €/m²,1 Zimmer,36 m²,2. Geschoss,https://www.immowelt.de/expose/41b4655b-af11-4212-9bfe-edac67214269
-"Kernstadt - Nordost, Bruchsal (76646)",1.250.000 € 1.871 €/m²,668 m²,292 m² Grundstück,Unknown,https://www.immowelt.de/expose/33f41a2f-c1d5-4a9f-b2b2-191062c5037d
-"Kernstadt - Nordost, Bruchsal (76646)",649.000 € 3.135 €/m²,6 Zimmer,207 m²,550 m² Grundstück,https://www.immowelt.de/expose/3faeb453-f661-490d-9b8e-b499cf7115a9
-"Büchenau, Bruchsal / Büchenau (76646)",299.000 € 2.736 €/m²,5 Zimmer,"109,3 m²",656 m² Grundstück,https://www.immowelt.de/expose/fdef7582-b317-4942-9960-4052ea610d8f
-"Kernstadt - Nordost, Bruchsal (76646)",299.000 € 2.903 €/m²,4 Zimmer,103 m²,4. Geschoss,https://www.immowelt.de/expose/59d825e5-ac56-4fbe-977d-456446394b8a
-"Kernstadt - Nordost, Bruchsal (76646)",200.000 € 2.778 €/m²,2 Zimmer,72 m²,3. Geschoss,https://www.immowelt.de/expose/f1aaa8f9-db11-4f9a-9607-e38b811686f9
-"Kernstadt - Südost, Bruchsal (76646)",792.000 € 2.955 €/m²,7 Zimmer,268 m²,1.142 m² Grundstück,https://www.immowelt.de/expose/eef7236c-3cbd-41d8-954e-b5c761967d12
-"Kernstadt - Südost, Bruchsal (76646)",792.000 € 3.960 €/m²,200 m²,Unknown,Unknown,https://www.immowelt.de/expose/804bdd1e-6972-4515-bc3f-c177ca531e22
-"Kernstadt - Südost, Bruchsal (76646)",792.000 € 2.955 €/m²,268 m²,1.142 m² Grundstück,Unknown,https://www.immowelt.de/expose/0c711088-b2ea-4aa7-b1a8-fed44c0f1776
-"Helmsheim, Bruchsal-Helmsheim (76646)",1.197.000 € 4.750 €/m²,6 Zimmer,252 m²,1.046 m² Grundstück,https://www.immowelt.de/expose/cd6190b2-6096-40a3-a65e-7b7c31243ca7
-"Kernstadt - Nordost, Bruchsal (76646)",688.000 € 3.780 €/m²,6 Zimmer,182 m²,931 m² Grundstück,https://www.immowelt.de/expose/91dfaffc-bab7-49b1-9d56-552835a6bf67
-"Helmsheim, Bruchsal / Helmsheim (76646)",505.000 € 3.412 €/m²,6 Zimmer,148 m²,1.033 m² Grundstück,https://www.immowelt.de/expose/9d917be6-1e33-4c16-b44a-a79eebd43fbc
-"Helmsheim, Helmsheim (76646)",769.900 € 6.525 €/m²,3 Zimmer,118 m²,755 m² Grundstück,https://www.immowelt.de/expose/a20051dd-8468-463e-a5a9-ad23e508574d
-"Kernstadt - Südost, Bruchsal (76646)",495.000 € 4.605 €/m²,5 Zimmer,"107,5 m²","115,5 m² Grundstück",https://www.immowelt.de/expose/68018c54-89d3-45a8-a1d7-4a97b4d06bbc
-"Kernstadt - Nordost, Bruchsal (76646)",649.000 € 5.408 €/m²,4 Zimmer,120 m²,350 m² Grundstück,https://www.immowelt.de/expose/cc6478b3-1639-4c47-83f7-72a4cf1f2177
-"Untergrombach, Bruchsal / Untergrombach (76646)",1.812.000 € 3.400 €/m²,22 Zimmer,533 m²,916 m² Grundstück,https://www.immowelt.de/expose/6dbb637d-2141-406d-94da-f9879f1cf82b
-"Kernstadt - Nordost, Bruchsal (76646)",1.998.000 € 8.325 €/m²,8 Zimmer,240 m²,800 m² Grundstück,https://www.immowelt.de/expose/87b5c991-ffd5-4606-ad9f-68bceb1f8bb3
-"Kernstadt - Nordost, Bruchsal (76646)",239.000 € 2.795 €/m²,3 Zimmer,"85,5 m²",Unknown,https://www.immowelt.de/expose/56897c1f-42a0-44cc-bec4-0ec422a460c1
-"Kernstadt - Nordost, Bruchsal (76646)",269.000 € 3.478 €/m²,2 Zimmer,"77,4 m²",1. Geschoss,https://www.immowelt.de/expose/ede8fa1d-3e96-467e-a495-375ab48c48e8
-"Kernstadt - Südost, Bruchsal (76646)",449.000 € 2.604 €/m²,7 Zimmer,"172,5 m²",580 m² Grundstück,https://www.immowelt.de/expose/9ad0c56a-f821-44fd-b687-425c943592c1
-"Kernstadt - Nordost, Bruchsal (76646)",186.000 € 4.227 €/m²,2 Zimmer,44 m²,3. Geschoss,https://www.immowelt.de/expose/0e3c9145-a00f-4b8c-b5f7-f1af4c78d89f
-"Untergrombach, Bruchsal (76646)",278.500 € 2.194 €/m²,6 Zimmer,"126,9 m²",18 m² Grundstück,https://www.immowelt.de/expose/3a165ca1-0a06-4ebe-82ff-16b527c56571
-"Kernstadt - Nordwest, Bruchsal (76646)",219.000 € 2.461 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/e3c19d7f-5a5b-434a-8f25-86a61f470c31
-"Kernstadt - Südost, Bruchsal (76646)",250.000 € 4.167 €/m²,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/8da8b440-5406-4eec-bbeb-39998899a3b8
-"Seilersbahn 20, Kernstadt - Nordost, Bruchsal (76646)",582.416 € 5.765 €/m²,3 Zimmer,101 m²,Unknown,https://www.immowelt.de/expose/0949fdf3-a5fc-46e1-9176-9b50a2c6d914
-"Heidelsheim, Bruchsal-Heidelsheim (76646)",682.400 € 4.373 €/m²,4 Zimmer,"156,1 m²",413 m² Grundstück,https://www.immowelt.de/expose/41ef7a94-3b97-4f3c-8cdd-17b5fb341291
-"Heidelsheim, Bruchsal-Heidelsheim (76646)",985.900 € 4.930 €/m²,5 Zimmer,200 m²,927 m² Grundstück,https://www.immowelt.de/expose/6f8e48c0-3b3d-4a09-b3ee-c2b040f46f3f
-Unknown,Unknown,2 Zimmer,"60,6 m²",Unknown,https://www.immowelt.de/projekte/expose/k2hw832
-Forst (76694),540.000 € 3.649 €/m²,148 m²,300 m² Grundstück,Unknown,https://www.immowelt.de/expose/a318c295-4151-47a6-972f-4391889b554e
-Unknown,Unknown,3 Zimmer,"79,8 m²",Unknown,https://www.immowelt.de/projekte/expose/k2hw832
-Unknown,Unknown,3 Zimmer,86 m²,Unknown,https://www.immowelt.de/projekte/expose/k2hw832
-Forst (76694),689.000 € 4.417 €/m²,5 Zimmer,156 m²,657 m² Grundstück,https://www.immowelt.de/expose/5ea3ed89-b8a5-4c1f-a831-0df18d458061
-"Neibsheim, Bretten (75015)",349.000 € 3.388 €/m²,5 Zimmer,103 m²,626 m² Grundstück,https://www.immowelt.de/expose/d7b5c8d9-a870-4990-8e80-f29e88cab829
-Forst (76694),220.000 € 2.581 €/m²,2 Zimmer,"96,5 m²",1. Geschoss,https://www.immowelt.de/expose/818aee82-f9bc-42dc-92ab-515321c782ef
-"Jöhlingen, Walzbachtal / Jöhlingen (75045)",298.000 € 2.483 €/m²,6 Zimmer,120 m²,300 m² Grundstück,https://www.immowelt.de/expose/f0adf424-1359-434e-878d-74ca6874f1b7
-"Ubstadt, Ubstadt-Weiher (76698)",479.000 € 2.030 €/m²,9 Zimmer,236 m²,735 m² Grundstück,https://www.immowelt.de/expose/feea0784-c047-4bc7-9779-a5011143527b
-"Unteröwisheim, Kraichtal (76703)",579.800 € 2.761 €/m²,7 Zimmer,210 m²,304 m² Grundstück,https://www.immowelt.de/expose/98c6c56e-d8dd-4949-a658-c9bf7333f421
-"Neibsheim, Bretten (75015)",485.200 € 3.882 €/m²,"4,5 Zimmer",125 m²,266 m² Grundstück,https://www.immowelt.de/expose/710fec61-ee05-4081-906e-deb044d9ba91
-"Ubstadt, Ubstadt-Weiher (76698)",1.099.000 € 3.053 €/m²,15 Zimmer,360 m²,690 m² Grundstück,https://www.immowelt.de/expose/a770abed-f00c-426d-998c-abba5a7c2a22
-"Münzesheim, Kraichtal (76703)",229.000 € 2.936 €/m²,3 Zimmer,78 m²,Unknown,https://www.immowelt.de/expose/8ebb6f9f-5075-44bd-a2ff-cbe6cc56f346
+Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL;city_id
+Untergrombach, Bruchsal / Untergrombach (76646),312.000 € 2.889 €/m²,4 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/deecb198-6d30-4e81-8223-7db5c84326a2;4692
+Obergrombach, Bruchsal (76646),645.000 € 4.188 €/m²,6 Zimmer,154 m²,400 m² Grundstück,https://www.immowelt.de/expose/88b02a75-18a6-4dcb-9e64-460d7f3c6c32;4692
+Helmsheim, Bruchsal-Helmsheim (76646),735.000 € 5.177 €/m²,5 Zimmer,142 m²,523 m² Grundstück,https://www.immowelt.de/expose/13772762-cb53-4568-beab-2849fb6d7161;4692
+Obergrombach, Bruchsal (76646),350.000 € 2.414 €/m²,6 Zimmer,145 m²,348 m² Grundstück,https://www.immowelt.de/expose/b1bdd752-9b93-4f7b-8262-c039c31639fc;4692
+"Kernstadt - Nordwest, Bruchsal (76646),998.000 € 5.198 €/m²,""3,5 Zimmer"",192 m²,4. Geschoss,https://www.immowelt.de/expose/89c54789-4423-48b3-968c-db07b7758418";4692
+"Kernstadt - Nordost, Bruchsal (76646),199.900 € 3.197 €/m²,2 Zimmer,""62,5 m²"",EG,https://www.immowelt.de/expose/58fdfc53-0a0b-42bb-b1b1-8b9b005495fe";4692
+Kernstadt - Nordwest, Bruchsal (76646),298.000 € 3.275 €/m²,6 Zimmer,91 m²,391 m² Grundstück,https://www.immowelt.de/expose/4ef90b79-d433-4eee-8899-ee2b2f404ae4;4692
+Kernstadt - Südost, Bruchsal (76646),139.000 € 3.159 €/m²,1 Zimmer,44 m²,Unknown,https://www.immowelt.de/expose/5f133607-85e2-4786-9bef-95f3495d24ba;4692
+"Kernstadt - Südost, Bruchsal (76646),230.000 € 2.699 €/m²,2 Zimmer,""85,2 m²"",Unknown,https://www.immowelt.de/expose/50ff50a1-6841-4f75-b878-e501f1c2f979";4692
+"Heidelsheim, Bruchsal (76646),390.000 € 2.557 €/m²,6 Zimmer,""152,6 m²"",120 m² Grundstück,https://www.immowelt.de/expose/b4bace61-d376-4201-9b3a-ef9e466f711b";4692
+Kernstadt - Nordost, Bruchsal (76646),669.000 € 4.460 €/m²,5 Zimmer,150 m²,596 m² Grundstück,https://www.immowelt.de/expose/f090a19d-c585-4a54-ae2a-2edd3738df9c;4692
+Heidelsheim, Bruchsal (76646),145.000 € 4.028 €/m²,1 Zimmer,36 m²,Unknown,https://www.immowelt.de/expose/8991cfbd-c766-43e9-8d11-e23c8b29c1c6;4692
+"Kernstadt - Nordost, Bruchsal (76646),775.000 € 2.631 €/m²,12 Zimmer,""294,6 m²"",268 m² Grundstück,https://www.immowelt.de/expose/a81e4498-a71f-489d-aad7-69bfd7411d75";4692
+Helmsheim, Bruchsal-Helmsheim (76646),588.000 € 4.742 €/m²,5 Zimmer,124 m²,420 m² Grundstück,https://www.immowelt.de/expose/fb63b969-c2d1-403f-8fbd-01e7b7aa744a;4692
+"Kernstadt - Nordost, Bruchsal (76646),299.000 € 3.500 €/m²,""2,5 Zimmer"",""85,4 m²"",EG,https://www.immowelt.de/expose/349b5291-422a-4ee5-8af7-555fea34ea34";4692
+Kernstadt - Südost, Bruchsal (76646),750.000 € 3.074 €/m²,12 Zimmer,244 m²,484 m² Grundstück,https://www.immowelt.de/expose/a4cb73e2-a942-4ae2-87c0-5bccc25f9d0e;4692
+"Heidelsheim, Bruchsal / Heidelsheim (76646),303.900 € 3.640 €/m²,3 Zimmer,""83,5 m²"",Unknown,https://www.immowelt.de/expose/b285f981-8a93-42df-9c41-2c35891fa16f";4692
+"Heidelsheim, Bruchsal / Heidelsheim (76646),299.000 € 3.510 €/m²,3 Zimmer,""85,2 m²"",Unknown,https://www.immowelt.de/expose/7a9fc11a-93c1-4372-837d-42d83c9486bd";4692
+"Heidelsheim, Bruchsal / Heidelsheim (76646),281.900 € 3.633 €/m²,3 Zimmer,""77,6 m²"",Unknown,https://www.immowelt.de/expose/15901e95-9bb3-4727-817e-6575b8b76d10";4692
+"Heidelsheim, Bruchsal / Heidelsheim (76646),194.000 € 4.590 €/m²,2 Zimmer,""42,3 m²"",Unknown,https://www.immowelt.de/expose/14cd800e-489e-4f52-9d6a-d9e28c4ef505";4692
+Kernstadt - Südost, Bruchsal (76646),110.000 € 3.056 €/m²,1 Zimmer,36 m²,2. Geschoss,https://www.immowelt.de/expose/41b4655b-af11-4212-9bfe-edac67214269;4692
+Kernstadt - Nordost, Bruchsal (76646),1.250.000 € 1.871 €/m²,668 m²,292 m² Grundstück,Unknown,https://www.immowelt.de/expose/33f41a2f-c1d5-4a9f-b2b2-191062c5037d;4692
+Kernstadt - Nordost, Bruchsal (76646),649.000 € 3.135 €/m²,6 Zimmer,207 m²,550 m² Grundstück,https://www.immowelt.de/expose/3faeb453-f661-490d-9b8e-b499cf7115a9;4692
+"Büchenau, Bruchsal / Büchenau (76646),299.000 € 2.736 €/m²,5 Zimmer,""109,3 m²"",656 m² Grundstück,https://www.immowelt.de/expose/fdef7582-b317-4942-9960-4052ea610d8f";4692
+Kernstadt - Nordost, Bruchsal (76646),299.000 € 2.903 €/m²,4 Zimmer,103 m²,4. Geschoss,https://www.immowelt.de/expose/59d825e5-ac56-4fbe-977d-456446394b8a;4692
+Kernstadt - Nordost, Bruchsal (76646),200.000 € 2.778 €/m²,2 Zimmer,72 m²,3. Geschoss,https://www.immowelt.de/expose/f1aaa8f9-db11-4f9a-9607-e38b811686f9;4692
+Kernstadt - Südost, Bruchsal (76646),792.000 € 2.955 €/m²,7 Zimmer,268 m²,1.142 m² Grundstück,https://www.immowelt.de/expose/eef7236c-3cbd-41d8-954e-b5c761967d12;4692
+Kernstadt - Südost, Bruchsal (76646),792.000 € 3.960 €/m²,200 m²,Unknown,Unknown,https://www.immowelt.de/expose/804bdd1e-6972-4515-bc3f-c177ca531e22;4692
+Kernstadt - Südost, Bruchsal (76646),792.000 € 2.955 €/m²,268 m²,1.142 m² Grundstück,Unknown,https://www.immowelt.de/expose/0c711088-b2ea-4aa7-b1a8-fed44c0f1776;4692
+Helmsheim, Bruchsal-Helmsheim (76646),1.197.000 € 4.750 €/m²,6 Zimmer,252 m²,1.046 m² Grundstück,https://www.immowelt.de/expose/cd6190b2-6096-40a3-a65e-7b7c31243ca7;4692
+Kernstadt - Nordost, Bruchsal (76646),688.000 € 3.780 €/m²,6 Zimmer,182 m²,931 m² Grundstück,https://www.immowelt.de/expose/91dfaffc-bab7-49b1-9d56-552835a6bf67;4692
+Helmsheim, Bruchsal / Helmsheim (76646),505.000 € 3.412 €/m²,6 Zimmer,148 m²,1.033 m² Grundstück,https://www.immowelt.de/expose/9d917be6-1e33-4c16-b44a-a79eebd43fbc;4692
+Helmsheim, Helmsheim (76646),769.900 € 6.525 €/m²,3 Zimmer,118 m²,755 m² Grundstück,https://www.immowelt.de/expose/a20051dd-8468-463e-a5a9-ad23e508574d;4692
+"Kernstadt - Südost, Bruchsal (76646),495.000 € 4.605 €/m²,5 Zimmer,""107,5 m²"",""115,5 m² Grundstück"",https://www.immowelt.de/expose/68018c54-89d3-45a8-a1d7-4a97b4d06bbc";4692
+Kernstadt - Nordost, Bruchsal (76646),649.000 € 5.408 €/m²,4 Zimmer,120 m²,350 m² Grundstück,https://www.immowelt.de/expose/cc6478b3-1639-4c47-83f7-72a4cf1f2177;4692
+Untergrombach, Bruchsal / Untergrombach (76646),1.812.000 € 3.400 €/m²,22 Zimmer,533 m²,916 m² Grundstück,https://www.immowelt.de/expose/6dbb637d-2141-406d-94da-f9879f1cf82b;4692
+Kernstadt - Nordost, Bruchsal (76646),1.998.000 € 8.325 €/m²,8 Zimmer,240 m²,800 m² Grundstück,https://www.immowelt.de/expose/87b5c991-ffd5-4606-ad9f-68bceb1f8bb3;4692
+"Kernstadt - Nordost, Bruchsal (76646),239.000 € 2.795 €/m²,3 Zimmer,""85,5 m²"",Unknown,https://www.immowelt.de/expose/56897c1f-42a0-44cc-bec4-0ec422a460c1";4692
+"Kernstadt - Nordost, Bruchsal (76646),269.000 € 3.478 €/m²,2 Zimmer,""77,4 m²"",1. Geschoss,https://www.immowelt.de/expose/ede8fa1d-3e96-467e-a495-375ab48c48e8";4692
+"Kernstadt - Südost, Bruchsal (76646),449.000 € 2.604 €/m²,7 Zimmer,""172,5 m²"",580 m² Grundstück,https://www.immowelt.de/expose/9ad0c56a-f821-44fd-b687-425c943592c1";4692
+Kernstadt - Nordost, Bruchsal (76646),186.000 € 4.227 €/m²,2 Zimmer,44 m²,3. Geschoss,https://www.immowelt.de/expose/0e3c9145-a00f-4b8c-b5f7-f1af4c78d89f;4692
+"Untergrombach, Bruchsal (76646),278.500 € 2.194 €/m²,6 Zimmer,""126,9 m²"",18 m² Grundstück,https://www.immowelt.de/expose/3a165ca1-0a06-4ebe-82ff-16b527c56571";4692
+Kernstadt - Nordwest, Bruchsal (76646),219.000 € 2.461 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/e3c19d7f-5a5b-434a-8f25-86a61f470c31;4692
+"Kernstadt - Südost, Bruchsal (76646),250.000 € 4.167 €/m²,""1,5 Zimmer"",60 m²,frei ab sofort,https://www.immowelt.de/expose/8da8b440-5406-4eec-bbeb-39998899a3b8";4692
+Seilersbahn 20, Kernstadt - Nordost, Bruchsal (76646),582.416 € 5.765 €/m²,3 Zimmer,101 m²,Unknown,https://www.immowelt.de/expose/0949fdf3-a5fc-46e1-9176-9b50a2c6d914;4692
+"Heidelsheim, Bruchsal-Heidelsheim (76646),682.400 € 4.373 €/m²,4 Zimmer,""156,1 m²"",413 m² Grundstück,https://www.immowelt.de/expose/41ef7a94-3b97-4f3c-8cdd-17b5fb341291";4692
+Heidelsheim, Bruchsal-Heidelsheim (76646),985.900 € 4.930 €/m²,5 Zimmer,200 m²,927 m² Grundstück,https://www.immowelt.de/expose/6f8e48c0-3b3d-4a09-b3ee-c2b040f46f3f;4692
+"Unknown,Unknown,2 Zimmer,""60,6 m²"",Unknown,https://www.immowelt.de/projekte/expose/k2hw832";4692
+Forst (76694),540.000 € 3.649 €/m²,148 m²,300 m² Grundstück,Unknown,https://www.immowelt.de/expose/a318c295-4151-47a6-972f-4391889b554e;4692
+"Unknown,Unknown,3 Zimmer,""79,8 m²"",Unknown,https://www.immowelt.de/projekte/expose/k2hw832";4692
+Unknown,Unknown,3 Zimmer,86 m²,Unknown,https://www.immowelt.de/projekte/expose/k2hw832;4692
+Forst (76694),689.000 € 4.417 €/m²,5 Zimmer,156 m²,657 m² Grundstück,https://www.immowelt.de/expose/5ea3ed89-b8a5-4c1f-a831-0df18d458061;4692
+Neibsheim, Bretten (75015),349.000 € 3.388 €/m²,5 Zimmer,103 m²,626 m² Grundstück,https://www.immowelt.de/expose/d7b5c8d9-a870-4990-8e80-f29e88cab829;4692
+"Forst (76694),220.000 € 2.581 €/m²,2 Zimmer,""96,5 m²"",1. Geschoss,https://www.immowelt.de/expose/818aee82-f9bc-42dc-92ab-515321c782ef";4692
+Jöhlingen, Walzbachtal / Jöhlingen (75045),298.000 € 2.483 €/m²,6 Zimmer,120 m²,300 m² Grundstück,https://www.immowelt.de/expose/f0adf424-1359-434e-878d-74ca6874f1b7;4692
+Ubstadt, Ubstadt-Weiher (76698),479.000 € 2.030 €/m²,9 Zimmer,236 m²,735 m² Grundstück,https://www.immowelt.de/expose/feea0784-c047-4bc7-9779-a5011143527b;4692
+Unteröwisheim, Kraichtal (76703),579.800 € 2.761 €/m²,7 Zimmer,210 m²,304 m² Grundstück,https://www.immowelt.de/expose/98c6c56e-d8dd-4949-a658-c9bf7333f421;4692
+"Neibsheim, Bretten (75015),485.200 € 3.882 €/m²,""4,5 Zimmer"",125 m²,266 m² Grundstück,https://www.immowelt.de/expose/710fec61-ee05-4081-906e-deb044d9ba91";4692
+Ubstadt, Ubstadt-Weiher (76698),1.099.000 € 3.053 €/m²,15 Zimmer,360 m²,690 m² Grundstück,https://www.immowelt.de/expose/a770abed-f00c-426d-998c-abba5a7c2a22;4692
+Münzesheim, Kraichtal (76703),229.000 € 2.936 €/m²,3 Zimmer,78 m²,Unknown,https://www.immowelt.de/expose/8ebb6f9f-5075-44bd-a2ff-cbe6cc56f346;4692
