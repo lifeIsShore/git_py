@@ -3,7 +3,7 @@ from geopy.distance import geodesic
 import matplotlib.pyplot as plt
 
 # Address and Nominatim API URL
-address = "Jakob-Kienzle-Straße 22, 78054 Villingen-Schwenningen"
+address = "Dominikanerinnenplatz 11b und Jean-Spessart-Str. 7 Euskirchen (53879)"
 nominatim_url = "https://nominatim.openstreetmap.org/search"
 
 # 1. Convert the address to coordinates (Geocoding)
