@@ -1,0 +1,1001 @@
+﻿Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL,city_id,full_address,score
+Lichterfelde, Berlin (14167),468.000 5.258,3 Zimmer,89 m²,2. Geschoss,https://www.immowelt.de/expose/7baa2f6b-ae85-4abd-bc6f-33ae3647d643,1219,"Lichterfelde,  Berlin (14167)",177
+Biesdorf, Berlin / Biesdorf (12683),399.000 3.627,"4,5 Zimmer",110 m²,415 m² Grundstuck,https://www.immowelt.de/expose/a39fd658-bd88-435d-b734-0f618f76a2ed,1219,"Biesdorf,  Berlin / Biesdorf (12683)",204
+Steglitz, Berlin (12169),248.000 4.279,"2,5 Zimmer",58 m²,Unknown,https://www.immowelt.de/expose/8084b888-8925-48ff-94c3-b8aefec4ca44,1219,"Steglitz,  Berlin (12169)",1036
+Charlottenburg, Berlin (14059),895.000 7.979,4 Zimmer,"112,2 m²",3. Geschoss,https://www.immowelt.de/expose/df3132f2-9ee5-4b13-9830-0f04ed16fa44,1219,"Charlottenburg,  Berlin (14059)",1343
+Prenzlauer Berg, Berlin (10405),1.190.000 7.677,3 Zimmer,155 m²,6. Geschoss,https://www.immowelt.de/expose/3ba51a64-3ef3-4f8a-9067-83038060b4c4,1219,"Prenzlauer Berg,  Berlin (10405)",836
+Mahlsdorf, Berlin (12623),469.000 4.414,4 Zimmer,"111,3 m²",Unknown,https://www.immowelt.de/expose/92e34a8e-a595-437b-994b-14d1c1bb7c95,1219,"Mahlsdorf,  Berlin (12623)",336
+Mitte, Berlin / Mitte (10115),1.585.000 8.958,5 Zimmer,"176,9 m²",2. Geschoss,https://www.immowelt.de/expose/fea17220-8cd3-4872-b8b5-73f2315ebd85,1219,"Mitte,  Berlin / Mitte (10115)",871
+Dahlem, Berlin / Dahlem (14195),2.300.000 10.337,9 Zimmer,"222,5 m²",1.176 m² Grundstuck,https://www.immowelt.de/expose/92975243-f96f-4eeb-a3fa-8e29b311097b,1219,"Dahlem,  Berlin / Dahlem (14195)",239
+Grunewald, Berlin (14195),990.000 8.839,3 Zimmer,112 m²,2. Geschoss,https://www.immowelt.de/expose/ec0e6846-d361-4a56-8a21-1fc277864b6d,1219,"Grunewald,  Berlin (14195)",129
+Schlachtensee, Berlin / Schlachtensee (14129),3.300.000 9.981,7 Zimmer,"330,6 m²",602 m² Grundstuck,https://www.immowelt.de/expose/bdb13a68-a571-4d66-b276-eb8d9c1aba89,1219,"Schlachtensee,  Berlin / Schlachtensee (14129)",109
+Sonnenallee 196, Berlin / NeukÃ¶lln (12059),699.000 4.893,4 Zimmer,"142,9 m²",3. Geschoss,https://www.immowelt.de/expose/1ae86a99-9d68-4182-bc44-9b5bb6d69233,1219,"Sonnenallee 196,  Berlin / NeukÃ¶lln (12059)",0
+OstseestraÃŸe 46, Berlin (10409),155.000 3.351,2 Zimmer,"46,3 m²",EG,https://www.immowelt.de/expose/f8bb648c-bf02-47e3-86e7-65d4bebc50b8,1219,"OstseestraÃŸe 46,  Berlin (10409)",0
+Alt-Moabit 133, Berlin (10557),609.000 4.457,4 Zimmer,"136,6 m²",5. Geschoss,https://www.immowelt.de/expose/845016fc-9e9b-4755-a71a-b019ed550cd0,1219,"Alt-Moabit 133,  Berlin (10557)",336
+Rosenthal, Berlin (13158),399.000 4.483,3 Zimmer,89 m²,3. Geschoss,https://www.immowelt.de/expose/c466368f-884b-467f-8493-297f0ddbaac5,1219,"Rosenthal,  Berlin (13158)",159
+SchÃ¶neberg, Berlin (10781),950.000 7.174,3 Zimmer,"132,4 m²",2. Geschoss,https://www.immowelt.de/expose/daa916e6-6d6f-424e-866e-af203e6dceb0,1219,"SchÃ¶neberg,  Berlin (10781)",0
+Zionskirchstr., Berlin (10119),599.000 7.346,3 Zimmer,"81,5 m²",Unknown,https://www.immowelt.de/expose/b5c74a6c-17b9-4d5f-97e6-7a0cfd6e5df9,1219,"Zionskirchstr.,  Berlin (10119)",981
+Zionskirchstr., Berlin (10119),245.000 7.382,1 Zimmer,"33,2 m²",Unknown,https://www.immowelt.de/expose/c02a903e-2f84-441a-b4fd-1bb7a46f6fac,1219,"Zionskirchstr.,  Berlin (10119)",981
+WinterfeldtstraÃŸe 46, Berlin (10781),329.000 5.835,2 Zimmer,"56,4 m²",EG,https://www.immowelt.de/expose/82f85c14-c08b-4158-b81c-5ac019878302,1219,"WinterfeldtstraÃŸe 46,  Berlin (10781)",0
+Steglitz, Berlin (12163),860.000 5.513,5 Zimmer,156 m²,Unknown,https://www.immowelt.de/expose/c1033b1a-6542-4a78-ae07-42db7c6d9e14,1219,"Steglitz,  Berlin (12163)",1036
+Charlottenburg, Berlin (10789),616.502 6.825,4 Zimmer,"90,3 m²",5. Geschoss,https://www.immowelt.de/expose/fb8bb29f-35ee-4d19-902a-1487dde0b6f3,1219,"Charlottenburg,  Berlin (10789)",1343
+WeiÃŸensee, Berlin (13088),734.412 8.403,3 Zimmer,"87,4 m²",frei ab sofort,https://www.immowelt.de/expose/5240e7b9-2bfc-4d65-8e8e-17332d30a6bf,1219,"WeiÃŸensee,  Berlin (13088)",0
+GaudystraÃŸe 14, Berlin (10437),400.000 7.726,2 Zimmer,"51,8 m²",4. Geschoss,https://www.immowelt.de/expose/a83b7f57-cdb7-4036-b197-f3c5ab1c1f62,1219,"GaudystraÃŸe 14,  Berlin (10437)",0
+Schlachtensee, Berlin (14129),589.000 6.123,5 Zimmer,"96,2 m²",446 m² Grundstuck,https://www.immowelt.de/expose/1c3eaa51-16b9-4945-b527-ca0443097ba3,1219,"Schlachtensee,  Berlin (14129)",109
+Heinersdorf, Berlin (13089),4.950.000 3.829,1.332 m²,1.521 m² Grundstuck,Unknown,https://www.immowelt.de/expose/e64264d5-317c-4d54-b428-ea226185d495,1219,"Heinersdorf,  Berlin (13089)",68
+Wilmersdorf, Berlin (10825),820.000 8.057,3 Zimmer,"101,8 m²",5. Geschoss,https://www.immowelt.de/expose/594f4b52-c1cd-4246-9185-f5349b808d83,1219,"Wilmersdorf,  Berlin (10825)",720
+ZillestraÃŸe 69, Berlin (10585),419.900 4.970,3 Zimmer,"84,5 m²",1. Geschoss,https://www.immowelt.de/expose/db59636b-ca3c-4b17-8719-769ac4ae8413,1219,"ZillestraÃŸe 69,  Berlin (10585)",0
+ZillestraÃŸe 69, Berlin (10585),279.900 5.004,2 Zimmer,"55,9 m²",2. Geschoss,https://www.immowelt.de/expose/05f32181-9352-4cba-b8b2-4422b56bcced,1219,"ZillestraÃŸe 69,  Berlin (10585)",0
+ZillestraÃŸe 69, Berlin (10585),259.000 4.917,2 Zimmer,"52,7 m²",EG,https://www.immowelt.de/expose/d136a9b8-2b1a-4c89-9976-b4c4092ec7f3,1219,"ZillestraÃŸe 69,  Berlin (10585)",0
+Lichtenberg, Berlin (10365),299.500 1.997,4 Zimmer,150 m²,frei ab 01.12.2024,https://www.immowelt.de/expose/e0482f33-ce4c-46a1-99f2-34808930c72f,1219,"Lichtenberg,  Berlin (10365)",768
+Wolliner Str. 51, Berlin (10435),434.000 6.994,2 Zimmer,"62,1 m²",EG,https://www.immowelt.de/expose/c3a63ce4-a99d-4b54-ab38-457e5efe6ea2,1219,"Wolliner Str. 51,  Berlin (10435)",840
+FranzÃ¶sisch Buchholz, FranzÃ¶sisch Buchholz / Berlin (B) (13127),660.000 5.933,4 Zimmer,"111,3 m²",201 m² Grundstuck,https://www.immowelt.de/expose/3d2b85c7-448b-49c7-84e3-26e728758a3c,1219,"FranzÃ¶sisch Buchholz,  FranzÃ¶sisch Buchholz / Berlin (B) (13127)",0
+Halensee, Berlin / Halensee (10711),590.000 7.375,3 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/04e810ba-a46d-4831-a0af-578249f4416f,1219,"Halensee,  Berlin / Halensee (10711)",410
+EckertstraÃŸe 17, Berlin (10249),178.000 5.538,1 Zimmer,"32,1 m²",2. Geschoss,https://www.immowelt.de/expose/5628da1f-52b3-4426-9d5c-aee689fde8a4,1219,"EckertstraÃŸe 17,  Berlin (10249)",0
+Medebacher Weg 29, Berlin (13507),470.000 4.115,4 Zimmer,"114,2 m²",4. Geschoss,https://www.immowelt.de/expose/cce5d285-2451-4200-9dce-aa5e908306a9,1219,"Medebacher Weg 29,  Berlin (13507)",409
+Alt-Tegel 25, Berlin (13507),388.000 4.822,2 Zimmer,"80,5 m²",4. Geschoss,https://www.immowelt.de/expose/4fb476c2-9ad7-4720-ac76-4b6f3029cfe3,1219,"Alt-Tegel 25,  Berlin (13507)",407
+Kaulsdorf, Berlin (12621),699.000 4.629,5 Zimmer,151 m²,1.144 m² Grundstuck,https://www.immowelt.de/expose/915541ba-6c75-4c24-b711-b86ec1aa75d7,1219,"Kaulsdorf,  Berlin (12621)",262
+Alt-Tegel 25, Berlin (13507),468.000 4.119,4 Zimmer,"113,6 m²",1. Geschoss,https://www.immowelt.de/expose/8941c192-5662-4e48-9878-87cf9d04025c,1219,"Alt-Tegel 25,  Berlin (13507)",407
+Kaulsdorf, Berlin (12621),449.000 2.974,5 Zimmer,151 m²,630 m² Grundstuck,https://www.immowelt.de/expose/33d5a1d1-a832-4644-a7b2-e4f018b50cdc,1219,"Kaulsdorf,  Berlin (12621)",262
+Amorbacher Weg 3, Berlin (13587),299.900 4.539,2 Zimmer,"66,1 m²",EG,https://www.immowelt.de/expose/3967e613-40be-453c-a0d4-d164d7390620,1219,"Amorbacher Weg 3,  Berlin (13587)",218
+Grunau, Berlin / Grunau (12527),795.000 3.502,8 Zimmer,227 m²,933 m² Grundstuck,https://www.immowelt.de/expose/089aa436-1a30-4b6f-aa6a-f7ef17e7dff8,1219,"Grunau,  Berlin / Grunau (12527)",251
+Charlottenburg, Berlin (10789),605.339 6.615,4 Zimmer,"91,5 m²",4. Geschoss,https://www.immowelt.de/expose/cfc89660-668a-4c6b-8249-525eb5d642ad,1219,"Charlottenburg,  Berlin (10789)",1343
+Mitte, Berlin (10179),186.150 8.500,1 Zimmer,"21,9 m²",frei ab sofort,https://www.immowelt.de/expose/f3fc4a8b-cd59-4b39-8db5-f124b3cc82e8,1219,"Mitte,  Berlin (10179)",773
+Mahlsdorf, Berlin (12623),595.900 4.966,4 Zimmer,120 m²,400 m² Grundstuck,https://www.immowelt.de/expose/8c60b806-ac67-4d0c-b31f-ed9569968129,1219,"Mahlsdorf,  Berlin (12623)",336
+BreisgauerstraÃŸe 51, Berlin (14129),398.000 4.473,4 Zimmer,89 m²,1. Geschoss,https://www.immowelt.de/expose/31af7719-aced-476a-ac38-c6d7b81a6064,1219,"BreisgauerstraÃŸe 51,  Berlin (14129)",0
+Lankwitz, Berlin / Lankwitz (12247),289.000 3.910,2 Zimmer,"73,9 m²",Unknown,https://www.immowelt.de/expose/2e9a0475-1576-47b8-b31d-5ae4a6a9d0a0,1219,"Lankwitz,  Berlin / Lankwitz (12247)",325
+Siemensstadt, Berlin (13599),5.200.000 1.609,70 Zimmer,3.232 m²,1.400 m² Grundstuck,https://www.immowelt.de/expose/373a54d5-31ea-47d0-8ae1-a25d677efae5,1219,"Siemensstadt,  Berlin (13599)",133
+Mitte, Berlin-Mitte (10115),645.000 12.279,"2,5 Zimmer",68 m²,Unknown,https://www.immowelt.de/expose/d8c9274e-7ec0-427a-aff5-051868bdc026,1219,"Mitte,  Berlin-Mitte (10115)",871
+Baseler StraÃŸe 44, Berlin (12205),450.000 3.409,4 Zimmer,132 m²,Unknown,https://www.immowelt.de/expose/6146ac2d-a03e-4cdc-aa58-a30e1ce3d48c,1219,"Baseler StraÃŸe 44,  Berlin (12205)",0
+WeiÃŸensee, Berlin (13088),186.150 8.500,1 Zimmer,"21,9 m²",frei ab sofort,https://www.immowelt.de/expose/63615ba7-5750-43ed-baea-2b2954a92eed,1219,"WeiÃŸensee,  Berlin (13088)",0
+Johannisthal, Berlin (12487),699.000 3.245,8 Zimmer,208 m²,623 m² Grundstuck,https://www.immowelt.de/expose/573a3493-1e01-42b8-8e65-edf3615e84f3,1219,"Johannisthal,  Berlin (12487)",105
+Karow, Berlin-Karow (13125),1.800.000 6.193,10 Zimmer,"290,7 m²",1.300 m² Grundstuck,https://www.immowelt.de/expose/99d1e4a2-f7b3-4fba-bade-f901d2629e91,1219,"Karow,  Berlin-Karow (13125)",99
+Mariendorf, Berlin (12107),1.499.000 5.996,6 Zimmer,250 m²,780 m² Grundstuck,https://www.immowelt.de/expose/460ea722-9fdc-4ff4-9e4b-51a707c6124b,1219,"Mariendorf,  Berlin (12107)",433
+Tegel, Berlin (13507),369.000 4.500,4 Zimmer,82 m²,3. Geschoss,https://www.immowelt.de/expose/4b94efed-2bfe-449f-a8bb-69d310ddb6a6,1219,"Tegel,  Berlin (13507)",466
+Kladow, Berlin (14089),399.000 3.951,4 Zimmer,101 m²,668 m² Grundstuck,https://www.immowelt.de/expose/1285d8dc-cbfd-4479-9c5b-eedd69c260f5,1219,"Kladow,  Berlin (14089)",116
+Buckow, Berlin (12349),620.000 3.444,5 Zimmer,180 m²,283 m² Grundstuck,https://www.immowelt.de/expose/2ac30029-d52b-4c8d-9d1a-f00ff395e29d,1219,"Buckow,  Berlin (12349)",184
+Buckow, Berlin (12349),620.000 3.444,6 Zimmer,180 m²,283 m² Grundstuck,https://www.immowelt.de/expose/f989162a-bd2e-4848-a311-6e1d50d30467,1219,"Buckow,  Berlin (12349)",184
+SchmÃ¶ckwitz, Berlin (12527),420.000 2.444,4 Zimmer,80 m²,1.327 m² Grundstuck,https://www.immowelt.de/expose/db2a17b9-5e44-4979-9c33-b9d55b94afec,1219,"SchmÃ¶ckwitz,  Berlin (12527)",0
+NeukÃ¶lln, Berlin (12049),119.000 4.760,1 Zimmer,25 m²,3. Geschoss,https://www.immowelt.de/expose/5e2fd1d6-6209-4dc6-8610-8a3010ac9b65,1219,"NeukÃ¶lln,  Berlin (12049)",0
+KÃ¶penick, Berlin (12524),289.000 4.495,3 Zimmer,"64,3 m²",EG,https://www.immowelt.de/expose/7f0a5956-5dd8-4a74-89f7-18a0362eb1b3,1219,"KÃ¶penick,  Berlin (12524)",0
+Grunewald, Berlin / Grunewald (14193),1.199.000 7.693,4 Zimmer,"156,3 m²",5. Geschoss,https://www.immowelt.de/expose/af9a24c1-06c5-49c1-90ad-538ef4c583e9,1219,"Grunewald,  Berlin / Grunewald (14193)",129
+GÃ©lieustraÃŸe 10, Berlin (12203),182.000 4.759,1 Zimmer,"38,2 m²",1. Geschoss,https://www.immowelt.de/expose/595df705-e1f0-4c37-a0ff-46242fbb192d,1219,"GÃ©lieustraÃŸe 10,  Berlin (12203)",0
+Friedrichshagen, Berlin (12587),800.000 2.930,9 Zimmer,273 m²,368 m² Grundstuck,https://www.immowelt.de/expose/876c63ca-593f-4ca1-98c2-ea1c56d9cd17,1219,"Friedrichshagen,  Berlin (12587)",152
+Tegel, Berlin (13509),285.000 4.672,2 Zimmer,61 m²,2. Geschoss,https://www.immowelt.de/expose/27519f20-1d6d-46df-be10-3fbf6fd0e482,1219,"Tegel,  Berlin (13509)",466
+Lubars, Lubars (13469),925.000 6.167,5 Zimmer,150 m²,570 m² Grundstuck,https://www.immowelt.de/expose/80085527-ea54-434e-b9f5-269d6cdf2674,1219,"Lubars,  Lubars (13469)",139
+Rudow, Berlin (12357),559.000 5.324,4 Zimmer,105 m²,375 m² Grundstuck,https://www.immowelt.de/expose/279cb6e4-26a0-482b-8c96-996f38261db2,1219,"Rudow,  Berlin (12357)",391
+NeukÃ¶lln, Berlin (12051),3.500.000 2.574,1.360 m²,717 m² Grundstuck,Unknown,https://www.immowelt.de/expose/85df4b93-00f0-4361-9ad6-03dbb7958ae1,1219,"NeukÃ¶lln,  Berlin (12051)",0
+EiswerderstraÃŸe 10, Berlin (13585),1.110.000 9.448,3 Zimmer,"117,5 m²",5. Geschoss,https://www.immowelt.de/expose/11e6b05f-3fe4-41a3-89c4-e0cd4cc1d86e,1219,"EiswerderstraÃŸe 10,  Berlin (13585)",0
+Buckow, Berlin (12349),399.000 4.866,5 Zimmer,82 m²,EG,https://www.immowelt.de/expose/c9717764-356f-4ad2-9a8f-cd5f5dab9deb,1219,"Buckow,  Berlin (12349)",184
+EiswerderstraÃŸe 10C, Berlin (13585),1.055.000 6.075,4 Zimmer,"173,7 m²",EG,https://www.immowelt.de/expose/32b6eeab-4e1d-4f6b-a6be-33b16dd11a6f,1219,"EiswerderstraÃŸe 10C,  Berlin (13585)",0
+CorinthstraÃŸe 53, Berlin (10245),699.000 9.696,2 Zimmer,"72,1 m²",5. Geschoss,https://www.immowelt.de/expose/4592598f-178e-4694-84d0-b08072bb865f,1219,"CorinthstraÃŸe 53,  Berlin (10245)",0
+CorinthstraÃŸe 53, Berlin (10245),1.399.000 9.393,4 Zimmer,"148,9 m²",5. Geschoss,https://www.immowelt.de/expose/163943e4-46a9-4252-820f-97f43b6bc9e5,1219,"CorinthstraÃŸe 53,  Berlin (10245)",0
+Falkenhagener Str. 57, Berlin (13585),430.000 4.478,3 Zimmer,96 m²,Unknown,https://www.immowelt.de/expose/ce264c98-a398-4ca0-b348-0186a95f30db,1219,"Falkenhagener Str. 57,  Berlin (13585)",451
+Steglitz, Berlin (12163),330.000 6.471,1 Zimmer,51 m²,Unknown,https://www.immowelt.de/expose/b97a9a85-522b-4646-96a6-bcb0c5640878,1219,"Steglitz,  Berlin (12163)",1036
+Charlottenburg, Berlin (10789),624.556 6.825,4 Zimmer,"91,5 m²",5. Geschoss,https://www.immowelt.de/expose/c75f0726-8b9a-47ac-b3d5-36e4fcccd405,1219,"Charlottenburg,  Berlin (10789)",1343
+Hubertusstr. 2, Berlin (12163),715.000 8.125,"3,5 Zimmer",88 m²,Unknown,https://www.immowelt.de/expose/cf16649e-5bfa-441a-9912-5419c726fe67,1219,"Hubertusstr. 2,  Berlin (12163)",1067
+WeiÃŸensee, Berlin (13088),734.412 8.403,4 Zimmer,"87,4 m²",frei ab sofort,https://www.immowelt.de/expose/14ca216e-d716-4d80-95b0-215c9059a030,1219,"WeiÃŸensee,  Berlin (13088)",0
+Mariendorf, Berlin (12107),925.000 6.703,6 Zimmer,138 m²,1.284 m² Grundstuck,https://www.immowelt.de/expose/437b8f72-6f6c-41c1-8b80-70eab3b9a027,1219,"Mariendorf,  Berlin (12107)",433
+Westend, Berlin (14050),299.000 4.983,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/e0870663-0581-4e65-9a9e-34826926e8d3,1219,"Westend,  Berlin (14050)",439
+Friedrichsfelde, Berlin-Lichtenberg (10315),159.000 2.870,2 Zimmer,"55,4 m²",EG,https://www.immowelt.de/expose/9bb537a7-81a9-4be5-a556-4b36eaa0136d,1219,"Friedrichsfelde,  Berlin-Lichtenberg (10315)",388
+Friedrichsfelde, Berlin-Lichtenberg (10315),169.000 3.210,2 Zimmer,"52,6 m²",8. Geschoss,https://www.immowelt.de/expose/8009281f-c974-4212-a6b9-f09fc8586e29,1219,"Friedrichsfelde,  Berlin-Lichtenberg (10315)",388
+Friedrichsfelde, Berlin-Lichtenberg (10315),159.000 2.870,2 Zimmer,"55,4 m²",2. Geschoss,https://www.immowelt.de/expose/411223ab-9638-420a-8c4c-c4f0f9b8b378,1219,"Friedrichsfelde,  Berlin-Lichtenberg (10315)",388
+Friedrichsfelde, Berlin-Lichtenberg (10315),164.000 2.722,2 Zimmer,"60,3 m²",2. Geschoss,https://www.immowelt.de/expose/a70b5d8e-a4ab-4c58-ad68-2c43be06b21e,1219,"Friedrichsfelde,  Berlin-Lichtenberg (10315)",388
+Alt-Treptow, Berlin (10245),650.000 10.833,3 Zimmer,60 m²,7. Geschoss,https://www.immowelt.de/expose/c8d40085-44c3-4815-9993-35a3083f2094,1219,"Alt-Treptow,  Berlin (10245)",426
+Alt-Treptow, Berlin (10245),1.150.000 10.360,3 Zimmer,111 m²,5. Geschoss,https://www.immowelt.de/expose/dc2bdb77-533a-428d-8f5f-55c2f79347f7,1219,"Alt-Treptow,  Berlin (10245)",426
+Charlottenburg, Berlin (10789),286.742 7.140,1 Zimmer,"40,2 m²",6. Geschoss,https://www.immowelt.de/expose/bfb3f61a-6b6e-4b52-97ed-172e7d561b98,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),596.316 6.510,4 Zimmer,"91,6 m²",3. Geschoss,https://www.immowelt.de/expose/125656a2-bc25-490b-af6c-99f3fbeba78d,1219,"Charlottenburg,  Berlin (10789)",1343
+Hubertusstr. 2, Berlin (12163),425.000 6.538,2 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/e4dae913-a39f-474f-a6dc-181394f34a12,1219,"Hubertusstr. 2,  Berlin (12163)",1067
+Wilmersdorf, Berlin (10707),1.250.000 7.267,5 Zimmer,172 m²,2. Geschoss,https://www.immowelt.de/expose/65369cf3-d54b-4777-a3ba-cecf54de91b9,1219,"Wilmersdorf,  Berlin (10707)",720
+Pettenkofer Str. 7, Berlin (10247),499.000 4.918,3 Zimmer,"101,5 m²",EG,https://www.immowelt.de/expose/7ab4283e-7219-4a2b-81d5-fab9b26a1e57,1219,"Pettenkofer Str. 7,  Berlin (10247)",826
+Friedrichshain, Berlin / Friedrichshain (10245),545.000 7.786,2 Zimmer,70 m²,EG,https://www.immowelt.de/expose/36b12dee-c72f-4acd-a896-c6f91a15cd2f,1219,"Friedrichshain,  Berlin / Friedrichshain (10245)",1098
+Friedrichshain, Berlin (10245),1.249.000 9.992,4 Zimmer,125 m²,5. Geschoss,https://www.immowelt.de/expose/ac1a3f9c-2bee-40d0-ac1c-f8a576967b6c,1219,"Friedrichshain,  Berlin (10245)",1098
+Lichtenradener Str. 32, Berlin (12049),174.000 5.613,1 Zimmer,31 m²,Unknown,https://www.immowelt.de/expose/7d82001f-6715-42f6-8fa2-f52eb6d67533,1219,"Lichtenradener Str. 32,  Berlin (12049)",0
+WeiÃŸensee, Berlin - Pankow (13086),269.000 4.339,2 Zimmer,62 m²,Unknown,https://www.immowelt.de/expose/892dc9f7-6631-40d7-bdde-0fc5bc968600,1219,"WeiÃŸensee,  Berlin - Pankow (13086)",0
+Prenzlauer Berg, Berlin (10435),269.000 4.719,2 Zimmer,57 m²,Unknown,https://www.immowelt.de/expose/11b7151f-844d-44c7-8e40-f9fc6031c0a8,1219,"Prenzlauer Berg,  Berlin (10435)",836
+Hermanstrasse 232, Berlin (12049),315.000 4.189,3 Zimmer,"75,2 m²",Unknown,https://www.immowelt.de/expose/e06bca1c-43e5-4644-b2a5-d6bbc58fa2a2,1219,"Hermanstrasse 232,  Berlin (12049)",0
+Bismarckallee, Berlin (14193),326.000 5.506,2 Zimmer,"59,2 m²",1. Geschoss,https://www.immowelt.de/expose/0f9f8042-fec4-4de5-88ed-1018a08f24dd,1219,"Bismarckallee,  Berlin (14193)",134
+Fehmarnerstrasse 22, Berlin (13353),159.000 3.245,1 Zimmer,49 m²,Unknown,https://www.immowelt.de/expose/6247ed0b-0614-44a2-8e7f-6e8ec91ffade,1219,"Fehmarnerstrasse 22,  Berlin (13353)",611
+Friedrichshain, Berlin (10247),197.000 2.705,2 Zimmer,"72,8 m²",Unknown,https://www.immowelt.de/expose/957acbb7-99f8-4ae9-9c64-532c0e8da966,1219,"Friedrichshain,  Berlin (10247)",1098
+Pankow, Berlin (13187),299.900 4.826,2 Zimmer,"62,1 m²",3. Geschoss,https://www.immowelt.de/expose/0caa8d3e-02c2-4f71-aaa7-773f2524361b,1219,"Pankow,  Berlin (13187)",70
+Lichterfelde, Berlin (12205),1.850.000 6.424,"8,5 Zimmer",288 m²,1.013 m² Grundstuck,https://www.immowelt.de/expose/6a53eec6-f174-4ea1-9de8-f7b8e0ecdec3,1219,"Lichterfelde,  Berlin (12205)",177
+Wannsee, Berlin (14109),2.995.000 7.269,12 Zimmer,412 m²,1.619 m² Grundstuck,https://www.immowelt.de/expose/d8930b71-7f41-422e-8a8c-5c647e94804c,1219,"Wannsee,  Berlin (14109)",107
+Charlottenburg, Berlin (10789),605.934 6.615,4 Zimmer,"91,6 m²",4. Geschoss,https://www.immowelt.de/expose/e9aaef67-d973-4e95-b414-5d513a30a551,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),253.008 6.300,1 Zimmer,"40,2 m²",4. Geschoss,https://www.immowelt.de/expose/2371fc06-a5f8-4254-8d53-8a9de9cf155b,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),253.008 6.300,1 Zimmer,"40,2 m²",4. Geschoss,https://www.immowelt.de/expose/db79aa4f-9b8e-46b7-b9a9-470e1cab72dc,1219,"Charlottenburg,  Berlin (10789)",1343
+Moabit, Berlin (13407),790.600 3.041,8 Zimmer,260 m²,600 m² Grundstuck,https://www.immowelt.de/expose/b71e8a60-777f-405f-ad5d-c8d3c20ecbd3,1219,"Moabit,  Berlin (13407)",1001
+Charlottenburg, Berlin (10789),567.462 6.195,4 Zimmer,"91,6 m²",2. Geschoss,https://www.immowelt.de/expose/dbc373b9-82d8-4fd3-a0b9-3a71c220a82b,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),566.904 6.195,4 Zimmer,"91,5 m²",2. Geschoss,https://www.immowelt.de/expose/e2ff0fa4-0a13-46f6-bbd6-92442f8320f0,1219,"Charlottenburg,  Berlin (10789)",1343
+Blankenburg, Berlin (13129),1.898.000 3.483,545 m²,1.500 m² Grundstuck,Unknown,https://www.immowelt.de/expose/02f4f5cd-fcf3-417f-8c06-d32ee70fdbc6,1219,"Blankenburg,  Berlin (13129)",101
+Wilmersdorf, Berlin (10717),1.050.000 7.192,5 Zimmer,146 m²,2. Geschoss,https://www.immowelt.de/expose/c1245305-e78f-4591-8317-1b256f1d1edd,1219,"Wilmersdorf,  Berlin (10717)",720
+SchÃ¶nflieÃŸer StraÃŸe 5, Berlin / Prenzlauer Berg (10439),399.000 6.138,2 Zimmer,65 m²,2. Geschoss,https://www.immowelt.de/expose/d9fb39ea-93af-487a-aa5f-a67845f00c54,1219,"SchÃ¶nflieÃŸer StraÃŸe 5,  Berlin / Prenzlauer Berg (10439)",0
+Steglitz, Berlin / Steglitz (12163),1.150.000 7.012,5 Zimmer,164 m²,1. Geschoss,https://www.immowelt.de/expose/d0d185ca-73fa-49dd-ae94-a5286f74a935,1219,"Steglitz,  Berlin / Steglitz (12163)",990
+Bossestr. 9, Berlin (10245),1.089.000 8.165,"4,5 Zimmer","133,4 m²",5. Geschoss,https://www.immowelt.de/expose/a76cde2f-c3d3-4810-9142-338b7dd25bd1,1219,"Bossestr. 9,  Berlin (10245)",536
+Friedrichshain, Berlin (10247),197.000 2.655,2 Zimmer,"74,2 m²",Unknown,https://www.immowelt.de/expose/ac29062d-ae4c-4032-a9b0-18a4d5a5a3ed,1219,"Friedrichshain,  Berlin (10247)",1098
+Hermsdorf, Berlin (13467),738.000 5.271,"4,5 Zimmer",140 m²,647 m² Grundstuck,https://www.immowelt.de/expose/392229a6-8eb2-4cf9-bece-9c65e4812038,1219,"Hermsdorf,  Berlin (13467)",223
+Hakenfelde, Berlin-Spandau (13587),369.000 6.362,2 Zimmer,58 m²,13. Geschoss,https://www.immowelt.de/expose/4c1b98a2-fbb1-4962-88f8-7c021824b649,1219,"Hakenfelde,  Berlin-Spandau (13587)",102
+Triftstr. 45, Berlin (13353),359.000 6.007,2 Zimmer,"59,8 m²",2. Geschoss,https://www.immowelt.de/expose/64ec56a2-2b3c-46d5-868c-7353e44ca526,1219,"Triftstr. 45,  Berlin (13353)",813
+Charlottenburg, Berlin (10789),624.556 6.825,4 Zimmer,"91,5 m²",1. Geschoss,https://www.immowelt.de/expose/76e121f4-47ca-441a-a984-e1983024c3b2,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),528.990 5.775,4 Zimmer,"91,6 m²",1. Geschoss,https://www.immowelt.de/expose/1e82291e-9495-4cba-852a-ff9a187541f3,1219,"Charlottenburg,  Berlin (10789)",1343
+Altglienicke, Berlin (12524),500.000 3.571,5 Zimmer,140 m²,250 m² Grundstuck,https://www.immowelt.de/expose/e44ee09d-a574-423c-9051-70d7f4f48a75,1219,"Altglienicke,  Berlin (12524)",128
+Altglienicke, Berlin (12524),Preis auf Anfrage,5 Zimmer,550 m²,1.600 m² Grundstuck,https://www.immowelt.de/expose/93de7ce9-5992-47fa-bf53-766259d8852f,1219,"Altglienicke,  Berlin (12524)",128
+Hakenfelde, Berlin (13589),1.190.000 4.407,9 Zimmer,270 m²,600 m² Grundstuck,https://www.immowelt.de/expose/038b3d87-3df3-40ed-ba08-c09204260d46,1219,"Hakenfelde,  Berlin (13589)",102
+AlbrechtstraÃŸe 62 A, Berlin (12167),239.000 4.024,2 Zimmer,"59,4 m²",Unknown,https://www.immowelt.de/expose/3689cffe-8438-4077-bcd1-f0e8a0e9ad50,1219,"AlbrechtstraÃŸe 62 A,  Berlin (12167)",0
+Alt-HohenschÃ¶nhausen, Berlin (13051),1.275.000 8.916,5 Zimmer,143 m²,500 m² Grundstuck,https://www.immowelt.de/expose/e4d22c13-e2a4-4343-8517-f95480e457fa,1219,"Alt-HohenschÃ¶nhausen,  Berlin (13051)",0
+Lichterfelde, Berlin (12209),1.300.000 4.194,12 Zimmer,310 m²,464 m² Grundstuck,https://www.immowelt.de/expose/89a01a98-bca3-4e4c-92aa-aff1138b2dbf,1219,"Lichterfelde,  Berlin (12209)",177
+Prenzlauer Berg, Berlin (10407),575.000 5.928,3 Zimmer,97 m²,Unknown,https://www.immowelt.de/expose/74024dde-19df-4931-a475-97409b1b2d27,1219,"Prenzlauer Berg,  Berlin (10407)",836
+Mitte, Berlin (10117),375.000 6.579,2 Zimmer,57 m²,3. Geschoss,https://www.immowelt.de/expose/4ac8a2fe-4db7-42f6-9bbb-5b7d833f4c1d,1219,"Mitte,  Berlin (10117)",773
+Tiergarten, Berlin (10557),210.000 6.364,1 Zimmer,33 m²,12. Geschoss,https://www.immowelt.de/expose/af9eda95-9124-4736-afbf-209a08676c82,1219,"Tiergarten,  Berlin (10557)",258
+Pestalozzistr 36, Berlin (10627),699.000 5.907,"4,5 Zimmer","118,3 m²",4. Geschoss,https://www.immowelt.de/expose/a0a49c9e-14e2-4fe9-b47d-34d08c669bda,1219,"Pestalozzistr 36,  Berlin (10627)",1428
+WeiÃŸensee, Berlin (13088),186.150 8.500,1 Zimmer,"21,9 m²",frei ab sofort,https://www.immowelt.de/expose/ff21300f-32ee-4c4f-b825-ed7f0dbc467f,1219,"WeiÃŸensee,  Berlin (13088)",0
+KÃ¶penick, Berlin (12557),399.000 5.681,2 Zimmer,"70,2 m²",1. Geschoss,https://www.immowelt.de/expose/0fb64549-21b3-4aa2-97ae-7c498ae64774,1219,"KÃ¶penick,  Berlin (12557)",0
+Dahlem, Berlin (14195),875.000 6.629,4 Zimmer,132 m²,2. Geschoss,https://www.immowelt.de/expose/919333e9-c1c5-4264-93a6-0bcd92c6d8fc,1219,"Dahlem,  Berlin (14195)",209
+Mahlsdorf, Berlin (12623),390.000 3.171,4 Zimmer,123 m²,412 m² Grundstuck,https://www.immowelt.de/expose/11f65d59-8f52-4b8f-96bd-bf9a78840d45,1219,"Mahlsdorf,  Berlin (12623)",336
+Lichtenrade, Berlin (D) Lichtenrade (12307),1.540.000 3.516,12 Zimmer,438 m²,1.183 m² Grundstuck,https://www.immowelt.de/expose/d7008b96-5a87-4233-bab5-baab368fb51f,1219,"Lichtenrade,  Berlin (D) Lichtenrade (12307)",351
+Mitte, Berlin (10115),1.700.000 10.897,4 Zimmer,156 m²,6. Geschoss,https://www.immowelt.de/expose/787acae6-c466-4717-b176-087c5906c3cb,1219,"Mitte,  Berlin (10115)",773
+Eylauer StraÃŸe 14, Berlin (10965),420.000 5.577,2 Zimmer,"75,3 m²",3. Geschoss,https://www.immowelt.de/expose/db66fea4-f2c2-428b-8373-4f77e9721048,1219,"Eylauer StraÃŸe 14,  Berlin (10965)",0
+Rudow, Berlin (12357),445.000 5.563,3 Zimmer,80 m²,402 m² Grundstuck,https://www.immowelt.de/expose/a8df77ef-8d07-402a-a50e-1dd20a1a65fb,1219,"Rudow,  Berlin (12357)",391
+SchlegelstraÃŸe 9, Berlin (10115),895.000 7.521,3 Zimmer,119 m²,1. Geschoss,https://www.immowelt.de/expose/0e7da1b3-7b74-4828-a2c1-515bb0858274,1219,"SchlegelstraÃŸe 9,  Berlin (10115)",0
+DieffenbachstraÃŸe 38, Berlin (10967),745.000 6.338,3 Zimmer,"117,6 m²",EG,https://www.immowelt.de/expose/aa943e1e-d3e4-4cba-a09e-c80a75c560c3,1219,"DieffenbachstraÃŸe 38,  Berlin (10967)",0
+Kreuzberg, Berlin (10961),699.700 2.241,5 Zimmer,"312,2 m²",Unknown,https://www.immowelt.de/expose/4e2e28f8-461b-4b67-bbe0-e06bdb94d582,1219,"Kreuzberg,  Berlin (10961)",846
+Charlottenburg, Berlin (14057),225.700 4.990,1 Zimmer,45 m²,frei ab 01.03.2027,https://www.immowelt.de/expose/ce3b7e91-cb40-4cfe-88ee-03372c396771,1219,"Charlottenburg,  Berlin (14057)",1343
+Mariendorf, Berlin (12107),298.000 4.082,3 Zimmer,73 m²,2. Geschoss,https://www.immowelt.de/expose/b079ada7-c045-42e0-b2bc-c900b153dcaf,1219,"Mariendorf,  Berlin (12107)",433
+Dahlem, Berlin (14195),5.895.000 12.815,6 Zimmer,460 m²,2.600 m² Grundstuck,https://www.immowelt.de/expose/d91aba0a-c6f2-41c5-97cb-94288db6215b,1219,"Dahlem,  Berlin (14195)",209
+Friedrichsfelde, Berlin (10315),699.000 7.436,3 Zimmer,94 m²,EG,https://www.immowelt.de/expose/d69c0372-8682-4c9a-8460-c865cd5e42e5,1219,"Friedrichsfelde,  Berlin (10315)",388
+Moabit, Berlin (10551),195.000 6.724,1 Zimmer,29 m²,4. Geschoss,https://www.immowelt.de/expose/8d411d8a-841a-4c08-af10-577f62121209,1219,"Moabit,  Berlin (10551)",1001
+Friedrichshagen, Berlin / Friedrichshagen (12587),760.000 6.609,2 Zimmer,115 m²,1. Geschoss,https://www.immowelt.de/expose/af58ed2c-933d-44b9-9866-04289f764b14,1219,"Friedrichshagen,  Berlin / Friedrichshagen (12587)",152
+Friedrichshagen, Berlin / Friedrichshagen (12587),795.000 6.681,3 Zimmer,119 m²,EG,https://www.immowelt.de/expose/028495a2-f441-4d17-a5f1-e321d955a720,1219,"Friedrichshagen,  Berlin / Friedrichshagen (12587)",152
+Veteranenstr. 14, Berlin (10119),1.980.000 14.504,3 Zimmer,"136,5 m²",5. Geschoss,https://www.immowelt.de/expose/f548b4de-3c99-4459-9d9c-7b2682b93a05,1219,"Veteranenstr. 14,  Berlin (10119)",1022
+Sundgauer StraÃŸe 105i, Berlin (14169),748.800 6.592,4 Zimmer,"113,6 m²",3. Geschoss,https://www.immowelt.de/expose/9fbdda08-a708-40e3-88d5-df6dc882fb61,1219,"Sundgauer StraÃŸe 105i,  Berlin (14169)",0
+Alt-Moabit 104a, Berlin (10559),3.180.000 9.440,8 Zimmer,"336,9 m²",5. Geschoss,https://www.immowelt.de/expose/51efad16-d0d8-440b-93d0-298237ea9e4f,1219,"Alt-Moabit 104a,  Berlin (10559)",884
+Dahlem, Berlin (14195),3.900.000 11.818,8 Zimmer,330 m²,2.116 m² Grundstuck,https://www.immowelt.de/expose/4104ff87-ce68-42ac-8e53-dac30401a56f,1219,"Dahlem,  Berlin (14195)",209
+Veteranenstr. 14, Berlin (10119),635.000 9.947,2 Zimmer,"63,8 m²",4. Geschoss,https://www.immowelt.de/expose/26e50cdd-07b4-46ec-b3e2-f974d5583b51,1219,"Veteranenstr. 14,  Berlin (10119)",1022
+Alt-Moabit 104a, Berlin (10559),1.989.000 9.508,4 Zimmer,"209,2 m²",5. Geschoss,https://www.immowelt.de/expose/c1299cb0-3fe3-43c3-8676-fda749f27f61,1219,"Alt-Moabit 104a,  Berlin (10559)",884
+Veteranenstr. 14, Berlin (10119),845.000 9.452,3 Zimmer,"89,4 m²",3. Geschoss,https://www.immowelt.de/expose/dd5a4514-bc1b-4cda-a656-ac766f402b48,1219,"Veteranenstr. 14,  Berlin (10119)",1022
+Alt-Moabit 104a, Berlin (10559),2.599.000 9.494,5 Zimmer,"273,8 m²",5. Geschoss,https://www.immowelt.de/expose/75ae69fd-172c-42c8-b10f-cff53f32bded,1219,"Alt-Moabit 104a,  Berlin (10559)",884
+Charlottenburg, Berlin (10789),732.800 8.000,4 Zimmer,"91,6 m²",6. Geschoss,https://www.immowelt.de/expose/f5857c75-c2fe-499c-a6ee-12a7a567d7c6,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),295.176 7.350,1 Zimmer,"40,2 m²",5. Geschoss,https://www.immowelt.de/expose/c203c5ed-d905-47c0-b96f-eab41d8b80e4,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),274.092 6.825,1 Zimmer,"40,2 m²",2. Geschoss,https://www.immowelt.de/expose/10291e5a-5a8e-48ff-bf0e-29c35178fdef,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),595.730 6.510,4 Zimmer,"91,5 m²",3. Geschoss,https://www.immowelt.de/expose/4cc7d72d-1fec-40d0-9af8-7c768bdc0c0b,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),615.552 6.720,4 Zimmer,"91,6 m²",1. Geschoss,https://www.immowelt.de/expose/16b436dc-1517-43a1-8a7e-ebceafa12224,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),341.360 8.500,1 Zimmer,"40,2 m²",frei ab sofort,https://www.immowelt.de/expose/68807d41-31f3-4e5b-8d1f-79a71fb203eb,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),528.990 5.775,4 Zimmer,"91,6 m²",1. Geschoss,https://www.immowelt.de/expose/23df9101-6281-433c-9959-6051f0b9902c,1219,"Charlottenburg,  Berlin (10789)",1343
+Charlottenburg, Berlin (10789),460.691 6.248,3 Zimmer,"73,7 m²",frei ab 01.07.2025,https://www.immowelt.de/expose/d6b5367e-d605-4f40-91b1-379b2fb25939,1219,"Charlottenburg,  Berlin (10789)",1343
+Marzahn, Berlin (12681),790.000 4.938,6 Zimmer,160 m²,697 m² Grundstuck,https://www.immowelt.de/expose/15e934b0-871c-4a24-9ef6-3084d952631b,1219,"Marzahn,  Berlin (12681)",171
+Weserstr. 77, Berlin (12059),339.600 4.480,3 Zimmer,"75,8 m²",EG,https://www.immowelt.de/expose/7130e763-f42a-4f53-8182-81b077375dd7,1219,"Weserstr. 77,  Berlin (12059)",839
+GÃ©lieustraÃŸe 10, Berlin (12203),300.000 4.694,2 Zimmer,"63,9 m²",4. Geschoss,https://www.immowelt.de/expose/e390a3c5-5640-483a-9f78-a667580f60ab,1219,"GÃ©lieustraÃŸe 10,  Berlin (12203)",0
+Stephanstr. 52, Berlin (10559),506.000 8.972,2 Zimmer,"56,4 m²",frei ab sofort,https://www.immowelt.de/expose/524bbbd0-40fe-4bb9-b15b-91d4bf26f8f2,1219,"Stephanstr. 52,  Berlin (10559)",585
+GÃ©lieustraÃŸe 10, Berlin (12203),198.000 4.208,2 Zimmer,"47,1 m²",1. Geschoss,https://www.immowelt.de/expose/d4d12701-b24d-461f-8a4b-946b8ebe5dec,1219,"GÃ©lieustraÃŸe 10,  Berlin (12203)",0
+Kreuzberg, Berlin (10963),2.949.000 12.549,5 Zimmer,235 m²,Unknown,https://www.immowelt.de/expose/dcc5339e-f0ca-4d4f-b8c5-7fb8f564ad5c,1219,"Kreuzberg,  Berlin (10963)",846
+Charlottenburg, Berlin (10587),255.000 4.636,2 Zimmer,55 m²,4. Geschoss,https://www.immowelt.de/expose/7db64baf-9247-4c44-be07-3617ed1ef347,1219,"Charlottenburg,  Berlin (10587)",1343
+Friedrichshain, Berlin (10249),559.000 8.500,2 Zimmer,"65,8 m²",6. Geschoss,https://www.immowelt.de/expose/4f79cb0b-1646-4c9e-9db4-85e83f6ce05e,1219,"Friedrichshain,  Berlin (10249)",1098
+Rahnsdorf, Berlin / Rahnsdorf (12589),650.000 3.351,7 Zimmer,194 m²,1.453 m² Grundstuck,https://www.immowelt.de/expose/9c0ad04b-938e-421c-96fd-12ea8fa71a82,1219,"Rahnsdorf,  Berlin / Rahnsdorf (12589)",26
+Weserstr. 77, Berlin (12059),460.200 5.020,3 Zimmer,"91,7 m²",1. Geschoss,https://www.immowelt.de/expose/0e236449-ba79-419d-81d4-0d6ffa737565,1219,"Weserstr. 77,  Berlin (12059)",839
+Dahlem, Berlin (14195),5.900.000 17.353,6 Zimmer,340 m²,2.599 m² Grundstuck,https://www.immowelt.de/expose/8a13266f-167f-431b-8286-546764d58b33,1219,"Dahlem,  Berlin (14195)",209
+Schmargendorf, Berlin (14195),4.200.000 20.388,5 Zimmer,206 m²,1.798 m² Grundstuck,https://www.immowelt.de/expose/30aa54ab-8d4e-4f82-b87a-158c6c023286,1219,"Schmargendorf,  Berlin (14195)",321
+Huttenstrasse 71, Berlin (10551),282.020 7.231,"1,5 Zimmer",39 m²,5. Geschoss,https://www.immowelt.de/expose/492082ed-873d-4e04-88b1-da880925cd3a,1219,"Huttenstrasse 71,  Berlin (10551)",934
+Huttenstrasse 71, Berlin (10551),391.976 7.350,2 Zimmer,"53,3 m²",5. Geschoss,https://www.immowelt.de/expose/d613fbaa-99c1-49c1-9bf9-4271ecba9fdb,1219,"Huttenstrasse 71,  Berlin (10551)",934
+Furbringerstrasse 27, Berlin (10789),378.000 5.642,"2,5 Zimmer",67 m²,Unknown,https://www.immowelt.de/expose/807a203f-eda0-4d9d-88c6-8e41fb058402,1219,"Furbringerstrasse 27,  Berlin (10789)",986
+Friedrich-Wilhelm-StraÃŸe 74, Berlin (13409),262.500 3.241,3 Zimmer,81 m²,1. Geschoss,https://www.immowelt.de/expose/a3e9d266-d638-49f3-b624-2e7ea2554faf,1219,"Friedrich-Wilhelm-StraÃŸe 74,  Berlin (13409)",0
+Haupstrasse 101 PT45, Berlin (10827),274.958 8.715,2 Zimmer,"31,6 m²",5. Geschoss,https://www.immowelt.de/expose/cd78b461-9838-4c64-8677-49f532e296b7,1219,"Haupstrasse 101 PT45,  Berlin (10827)",0
+Olberstrasse 18, Berlin (10589),189.000 3.804,2 Zimmer,"49,7 m²",Unknown,https://www.immowelt.de/expose/5efeccf2-14d8-4501-8a4e-6baa302a6f3b,1219,"Olberstrasse 18,  Berlin (10589)",0
+Huttenstrasse 71 PT55, Berlin (10553),282.000 8.451,2 Zimmer,"33,4 m²",frei ab sofort,https://www.immowelt.de/expose/ce359aeb-e684-48ff-9a81-ca0644ca1ef3,1219,"Huttenstrasse 71 PT55,  Berlin (10553)",0
+Kaiserin-Augusta-Allee 29 WE17, Berlin (10553),168.000 3.574,2 Zimmer,47 m²,Unknown,https://www.immowelt.de/expose/a356e75a-fcda-413a-9b07-1192f043129c,1219,"Kaiserin-Augusta-Allee 29 WE17,  Berlin (10553)",0
+Bundesallee 141, Berlin (12161),283.500 4.362,3 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/5eb538c2-12da-469d-89de-9485d9705f4b,1219,"Bundesallee 141,  Berlin (12161)",795
+Kaiserin Augusta Allee 29, Berlin (10553),265.000 4.732,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/2b15d6fa-8a1d-4e50-8ff1-6259307da9fd,1219,"Kaiserin Augusta Allee 29,  Berlin (10553)",363
+Hauptstrasse 101, Berlin (10827),260.000 8.638,"1,5 Zimmer","30,1 m²",5. Geschoss,https://www.immowelt.de/expose/503d0140-58ad-41e8-b119-6608c931ff69,1219,"Hauptstrasse 101,  Berlin (10827)",739
+Charlottenburg, Berlin (10719),1.800.000 9.474,5 Zimmer,190 m²,Unknown,https://www.immowelt.de/expose/6541b10e-19f2-40a0-a370-1a157bd616f7,1219,"Charlottenburg,  Berlin (10719)",1343
+Lichtenrade, Berlin (12309),1.095.000 4.563,"6,5 Zimmer",240 m²,884 m² Grundstuck,https://www.immowelt.de/expose/a72ce48d-3f7c-4e9b-8f4c-8935c59a6a57,1219,"Lichtenrade,  Berlin (12309)",341
+Steglitzer Damm 24, Berlin (12169),440.000 5.116,2 Zimmer,86 m²,1. Geschoss,https://www.immowelt.de/expose/249d9231-3c98-48f3-8316-3bf63b990310,1219,"Steglitzer Damm 24,  Berlin (12169)",445
+KanstraÃŸe 123, Berlin (10625),370.000 5.441,2 Zimmer,68 m²,3. Geschoss,https://www.immowelt.de/expose/f9767f46-d655-418e-9b0b-bf69d838ab8c,1219,"KanstraÃŸe 123,  Berlin (10625)",0
+Borsigwalde, Berlin (13509),129.000 4.300,1 Zimmer,30 m²,2. Geschoss,https://www.immowelt.de/expose/26a2c931-ef88-4522-8cff-d24ce495c471,1219,"Borsigwalde,  Berlin (13509)",193
+Muggelheim, Berlin (12559),279.000 3.036,4 Zimmer,"91,9 m²",278 m² Grundstuck,https://www.immowelt.de/expose/1fa6961a-a0c1-42b2-9d31-5cab211b1cf0,1219,"Muggelheim,  Berlin (12559)",95
+Friedrichshain, Berlin (10245),599.000 7.729,2 Zimmer,"77,5 m²",2. Geschoss,https://www.immowelt.de/expose/065add07-1597-4e8d-9589-3e48eef4de32,1219,"Friedrichshain,  Berlin (10245)",1098
+Blankenburg, Berlin - Pankow (13129),485.000 4.389,3 Zimmer,"110,5 m²",756 m² Grundstuck,https://www.immowelt.de/expose/bb8712cd-b30d-4e2b-974b-b8d9e35c06d2,1219,"Blankenburg,  Berlin - Pankow (13129)",101
+Wilhelmstadt, Berlin (13593),725.000 5.577,4 Zimmer,130 m²,390 m² Grundstuck,https://www.immowelt.de/expose/01783879-c609-48f9-8055-e85eb68ced2d,1219,"Wilhelmstadt,  Berlin (13593)",215
+Huttenstrasse 71, Berlin (10553),220.500 4.380,2 Zimmer,"50,3 m²",Unknown,https://www.immowelt.de/expose/41838cf5-990e-4050-ad81-d84bdfc27172,1219,"Huttenstrasse 71,  Berlin (10553)",934
+Grolmanstr. 52, Berlin (10623),1.690.000 8.222,8 Zimmer,"205,5 m²",1. Geschoss,https://www.immowelt.de/expose/51152cdb-5ba2-4f2e-9be3-9aad9b09bfa6,1219,"Grolmanstr. 52,  Berlin (10623)",880
+Marie-Elisabeth-Luders-Str. 9, Berlin (10585),338.000 4.143,3 Zimmer,"81,6 m²",3. Geschoss,https://www.immowelt.de/expose/4d6abee0-58da-4042-ad90-152011b03a9b,1219,"Marie-Elisabeth-Luders-Str. 9,  Berlin (10585)",779
+MarkelstraÃŸe 43, Berlin (12163),475.000 6.568,2 Zimmer,"72,3 m²",1. Geschoss,https://www.immowelt.de/expose/b67da445-a341-4f6c-bf2f-c12808a59986,1219,"MarkelstraÃŸe 43,  Berlin (12163)",0
+Rauentaler Str., Berlin (13465),495.000 3.852,4 Zimmer,"128,5 m²",349 m² Grundstuck,https://www.immowelt.de/expose/cae671b6-35d1-4c33-b23f-2babace00ced,1219,"Rauentaler Str.,  Berlin (13465)",17
+Tegel, Berlin / Siemensstadt (13629),299.000 2.718,2 Zimmer,110 m²,Unknown,https://www.immowelt.de/expose/502349af-4808-489c-ac5d-dd282eb849b2,1219,"Tegel,  Berlin / Siemensstadt (13629)",0
+Buckow, Berlin (12349),350.000 4.321,3 Zimmer,81 m²,2. Geschoss,https://www.immowelt.de/expose/6f1706b7-6011-477f-8869-d84307295820,1219,"Buckow,  Berlin (12349)",184
+Friedrichshain, Berlin (10245),2.400.000 12.565,4 Zimmer,191 m²,3. Geschoss,https://www.immowelt.de/expose/6aaba464-3d2e-4570-97e2-da5c3bb6b3da,1219,"Friedrichshain,  Berlin (10245)",1098
+Steglitz, Berlin / Steglitz (12165),1.999.000 7.902,"5,5 Zimmer",253 m²,2. Geschoss,https://www.immowelt.de/expose/81cf99a2-7749-4b87-8af1-a807dc5264ac,1219,"Steglitz,  Berlin / Steglitz (12165)",954
+Kiehlufer 57, Berlin (12059),490.000 5.405,3 Zimmer,"90,7 m²",2. Geschoss,https://www.immowelt.de/expose/da675938-11a9-4291-84fb-2fc111f969a6,1219,"Kiehlufer 57,  Berlin (12059)",761
+GÃ©lieustraÃŸe 10, Berlin (12203),251.000 4.497,2 Zimmer,"55,8 m²",4. Geschoss,https://www.immowelt.de/expose/e9691776-c2b8-41c1-b724-b38289410bab,1219,"GÃ©lieustraÃŸe 10,  Berlin (12203)",0
+Wilmersdorf, Berlin (10707),415.000 7.685,2 Zimmer,54 m²,1. Geschoss,https://www.immowelt.de/expose/f600ff0d-622d-4f66-a19c-61110e1795f8,1219,"Wilmersdorf,  Berlin (10707)",720
+Wilmersdorf, Berlin (10707),415.000 7.685,2 Zimmer,54 m²,1. Geschoss,https://www.immowelt.de/expose/01dc65ee-604d-4d84-8d34-1c76d01f4ab6,1219,"Wilmersdorf,  Berlin (10707)",720
+KÃ¶penick, Berlin (12555),475.000 6.351,2 Zimmer,"74,8 m²",Unknown,https://www.immowelt.de/expose/838fa26a-852a-4a9e-b612-31776dc82b2a,1219,"KÃ¶penick,  Berlin (12555)",0
+GÃ©lieustraÃŸe 10, Berlin (12203),325.000 3.895,3 Zimmer,"83,5 m²",EG,https://www.immowelt.de/expose/2eef69ff-b807-4309-b420-4b71c86bd985,1219,"GÃ©lieustraÃŸe 10,  Berlin (12203)",0
+OberschÃ¶neweide, Berlin (12459),2.300.000 2.182,30 Zimmer,1.054 m²,784 m² Grundstuck,https://www.immowelt.de/expose/b8ee1226-f05a-473c-a3a4-a636a70d6871,1219,"OberschÃ¶neweide,  Berlin (12459)",0
+Herrfurthplatz 2, Berlin (12049),165.000 4.000,1 Zimmer,41 m²,EG,https://www.immowelt.de/expose/30c5b113-3b7c-443d-a19d-f76bec8b5ff8,1219,"Herrfurthplatz 2,  Berlin (12049)",1058
+LutzowstraÃŸe 37, Berlin (10785),389.000 8.136,2 Zimmer,"47,8 m²",2. Geschoss,https://www.immowelt.de/expose/5abb02f1-cdce-4020-b07a-ef559cd07485,1219,"LutzowstraÃŸe 37,  Berlin (10785)",0
+Mariendorf, Berlin (12109),185.000 3.190,3 Zimmer,58 m²,EG,https://www.immowelt.de/expose/beffd3d5-0a70-47f4-a22d-abfdecdf8a08,1219,"Mariendorf,  Berlin (12109)",433
+Lichterfelde, Berlin / Lichterfelde (12205),249.000 5.744,2 Zimmer,"43,4 m²",Unknown,https://www.immowelt.de/expose/0c7af657-9f9a-4434-9afb-5b0c778524c0,1219,"Lichterfelde,  Berlin / Lichterfelde (12205)",138
+GÃ©lieustraÃŸe 10, Berlin (12203),424.000 4.605,3 Zimmer,"92,1 m²",3. Geschoss,https://www.immowelt.de/expose/a7c0c788-7a74-4f8b-91e6-45d48398d4b1,1219,"GÃ©lieustraÃŸe 10,  Berlin (12203)",0
+SchÃ¶neberg, Berlin (10825),545.000 7.676,2 Zimmer,71 m²,3. Geschoss,https://www.immowelt.de/expose/386a5f93-2801-4aff-bfcf-c73735b5998d,1219,"SchÃ¶neberg,  Berlin (10825)",0
+Wilmersdorf, Berlin (10715),259.000 5.046,2 Zimmer,"51,3 m²",frei ab sofort,https://www.immowelt.de/expose/3af8dc40-0abf-42ab-82b8-790250c59e10,1219,"Wilmersdorf,  Berlin (10715)",720
+GÃ©lieustraÃŸe 10, Berlin (12203),455.000 4.951,3 Zimmer,"91,9 m²",2. Geschoss,https://www.immowelt.de/expose/10d9797f-33ea-4cfc-91fd-dbfdd95c86d0,1219,"GÃ©lieustraÃŸe 10,  Berlin (12203)",0
+Halensee, Berlin (10711),695.000 6.473,4 Zimmer,107 m²,EG,https://www.immowelt.de/expose/86eba7f0-3743-4bb5-b1b1-97543a87e861,1219,"Halensee,  Berlin (10711)",410
+Charlottenburg, Berlin (14057),1.300.000 5.652,6 Zimmer,230 m²,Unknown,https://www.immowelt.de/expose/40f124c1-4a84-4eb1-b53b-bdbe045f91c3,1219,"Charlottenburg,  Berlin (14057)",1343
+Huttenstr. 71, Berlin (10553),547.943 7.350,3 Zimmer,"74,6 m²",Unknown,https://www.immowelt.de/expose/ff95236b-aabb-41ca-8475-a52c41876100,1219,"Huttenstr. 71,  Berlin (10553)",934
+Nikolassee, Berlin (14129),2.200.000 6.340,11 Zimmer,347 m²,1.350 m² Grundstuck,https://www.immowelt.de/expose/e7cb846d-cfec-462e-969e-cd1e85fc85fc,1219,"Nikolassee,  Berlin (14129)",156
+Huttenstr. 71, Berlin (10553),325.238 7.350,2 Zimmer,"44,3 m²",Unknown,https://www.immowelt.de/expose/f0b87f59-d613-4d08-9b71-b39a24fd9a1a,1219,"Huttenstr. 71,  Berlin (10553)",934
+Wittenau, Berlin (13437),214.500 6.372,1 Zimmer,43 m²,12. Geschoss,https://www.immowelt.de/expose/15bb728e-1092-4935-bba2-c3da67d2dbf5,1219,"Wittenau,  Berlin (13437)",447
+Grunewald, Berlin (14193),7.800.000 19.500,7 Zimmer,400 m²,1.070 m² Grundstuck,https://www.immowelt.de/expose/294051c7-1e83-4419-b588-84cefa40070a,1219,"Grunewald,  Berlin (14193)",129
+Nikolassee, Berlin (14129),3.635.000 10.097,13 Zimmer,360 m²,1.779 m² Grundstuck,https://www.immowelt.de/expose/11fcccdf-d3b0-40fe-883a-585128f09492,1219,"Nikolassee,  Berlin (14129)",156
+Charlottenburg, Berlin (10789),732.800 8.000,4 Zimmer,"91,6 m²",6. Geschoss,https://www.immowelt.de/expose/3f1ef943-2f72-4730-bd90-7046a28c46c3,1219,"Charlottenburg,  Berlin (10789)",1343
+Mahlsdorf, Berlin (12623),420.000 5.543,5 Zimmer,81 m²,736 m² Grundstuck,https://www.immowelt.de/expose/83030e6c-f9fe-4c43-978f-7410efd3cdf7,1219,"Mahlsdorf,  Berlin (12623)",336
+Wedding, Berlin Reinickendorf (13407),200.000 3.195,2 Zimmer,"62,6 m²",5. Geschoss,https://www.immowelt.de/expose/2a140d4e-e9e0-400e-8268-3ca33db1097e,1219,"Wedding,  Berlin Reinickendorf (13407)",301
+MatternstraÃŸe 15, Berlin (10249),545.000 5.394,3 Zimmer,101 m²,3. Geschoss,https://www.immowelt.de/expose/1ecb92b0-0fd6-4a5b-8870-26b79d3b3cac,1219,"MatternstraÃŸe 15,  Berlin (10249)",0
+Wunsdorfer StraÃŸe 104, Berlin (12307),305.000 4.131,2 Zimmer,"73,8 m²",EG,https://www.immowelt.de/expose/319d7c2f-b569-4f58-a4fa-859f5bfd61dd,1219,"Wunsdorfer StraÃŸe 104,  Berlin (12307)",0
+Wunsdorfer StraÃŸe 104, Berlin (12307),253.000 4.250,2 Zimmer,"59,5 m²",1. Geschoss,https://www.immowelt.de/expose/b4269a5c-3a14-4301-93d0-f576e57d7f4f,1219,"Wunsdorfer StraÃŸe 104,  Berlin (12307)",0
+Wunsdorfer StraÃŸe 104, Berlin (12307),322.000 4.165,3 Zimmer,"77,3 m²",1. Geschoss,https://www.immowelt.de/expose/b370bc81-587b-49f7-a776-f1829b51ccf5,1219,"Wunsdorfer StraÃŸe 104,  Berlin (12307)",0
+GroÃŸbeerenstraÃŸe 46, Berlin (10965),125.000 4.633,1 Zimmer,27 m²,4. Geschoss,https://www.immowelt.de/expose/5d9c8113-c07a-4540-a1f8-1ec766edcb7e,1219,"GroÃŸbeerenstraÃŸe 46,  Berlin (10965)",0
+GroÃŸbeerenstraÃŸe 45, Berlin (10965),125.000 4.587,1 Zimmer,"27,3 m²",4. Geschoss,https://www.immowelt.de/expose/f93dcb0d-3e18-4f43-989f-8dfceaad24f1,1219,"GroÃŸbeerenstraÃŸe 45,  Berlin (10965)",0
+GroÃŸbeerenstraÃŸe 43, Berlin (10965),292.000 4.179,"2,5 Zimmer","69,9 m²",2. Geschoss,https://www.immowelt.de/expose/dbd65bf4-286e-48a2-9f5e-a0455572a28d,1219,"GroÃŸbeerenstraÃŸe 43,  Berlin (10965)",0
+GroÃŸbeerenstraÃŸe 43, Berlin (10965),258.000 3.852,"2,5 Zimmer",67 m²,EG,https://www.immowelt.de/expose/6b54adf8-583b-4301-9996-ed88d01ae8fc,1219,"GroÃŸbeerenstraÃŸe 43,  Berlin (10965)",0
+GroÃŸbeerenstraÃŸe 43, Berlin (10965),340.000 4.371,4 Zimmer,"77,8 m²",EG,https://www.immowelt.de/expose/7813d016-635d-400f-9e3e-243405524f36,1219,"GroÃŸbeerenstraÃŸe 43,  Berlin (10965)",0
+Tegel, Berlin (13507),350.369 5.050,2 Zimmer,"69,4 m²",EG,https://www.immowelt.de/expose/b8420727-d6c9-4ba8-9476-e19ce20a6aaa,1219,"Tegel,  Berlin (13507)",466
+Sophie-Charlotte-Str. 105, Berlin (14059),149.000 3.490,2 Zimmer,"42,7 m²",3. Geschoss,https://www.immowelt.de/expose/9d96e7e6-ccde-4f4b-94cd-62bc5c4af6b6,1219,"Sophie-Charlotte-Str. 105,  Berlin (14059)",200
+Neue GrunstraÃŸe 2, Berlin (10117),1.649.000 10.771,4 Zimmer,"153,1 m²",2. Geschoss,https://www.immowelt.de/expose/270fbefc-aaef-44a6-8afb-ec8d0fcf7cd6,1219,"Neue GrunstraÃŸe 2,  Berlin (10117)",0
+Heiligensee, Berlin / Heiligensee (13503),489.000 3.985,4 Zimmer,"122,7 m²",403 m² Grundstuck,https://www.immowelt.de/expose/ad40688b-ac4e-4ed9-bdd1-b164cdc1e752,1219,"Heiligensee,  Berlin / Heiligensee (13503)",52
+Charlottenburg, Berlin / Charlottenburg (10627),466.000 7.767,2 Zimmer,60 m²,3. Geschoss,https://www.immowelt.de/expose/3198c2be-451c-413e-8c60-593acb46c596,1219,"Charlottenburg,  Berlin / Charlottenburg (10627)",1343
+Wilmersdorf, Berlin (10715),269.000 5.403,2 Zimmer,"49,8 m²",EG,https://www.immowelt.de/expose/f189d503-9ef7-4365-a2cb-2cebc23bb040,1219,"Wilmersdorf,  Berlin (10715)",720
+NiederschÃ¶neweide, Berlin (12439),204.000 3.189,"2,5 Zimmer",64 m²,EG,https://www.immowelt.de/expose/f30133dc-ef27-434e-82ce-75ac29eb41eb,1219,"NiederschÃ¶neweide,  Berlin (12439)",0
+Grunau, Berlin (12527),1.450.000 2.799,518 m²,789 m² Grundstuck,Unknown,https://www.immowelt.de/expose/b9b6ac2c-823d-4c3a-957f-54a42242d83b,1219,"Grunau,  Berlin (12527)",251
+Tiergarten, Berlin (10785),1.845.000 7.851,"7,5 Zimmer",235 m²,2. Geschoss,https://www.immowelt.de/expose/d008b0e5-d950-413e-a6f9-8936a179b437,1219,"Tiergarten,  Berlin (10785)",258
+LinienstraÃŸe, Berlin (10119),659.000 7.641,3 Zimmer,"86,3 m²",1. Geschoss,https://www.immowelt.de/expose/0ec122d4-e24b-42fa-b6ee-36e1de5622a5,1219,"LinienstraÃŸe,  Berlin (10119)",0
+Prenzlauer Berg, Berlin / Prenzlauer Berg (10407),2.497.000 13.077,6 Zimmer,191 m²,Unknown,https://www.immowelt.de/expose/935a9e48-76db-4e70-ae73-e7cc6e6a9ee0,1219,"Prenzlauer Berg,  Berlin / Prenzlauer Berg (10407)",642
+WeiÃŸensee, Berlin (13088),1.650.000 7.674,10 Zimmer,215 m²,100 m² Grundstuck,https://www.immowelt.de/expose/83b04492-bb38-41a2-b00c-2bab5e721dc3,1219,"WeiÃŸensee,  Berlin (13088)",0
+Zehlendorf, Berlin (14169),229.000 3.947,"2,5 Zimmer",58 m²,EG,https://www.immowelt.de/expose/946955d4-e731-4f06-855b-30837511e009,1219,"Zehlendorf,  Berlin (14169)",409
+Prenzlauer Berg, Berlin / Prenzlauer Berg (10407),2.497.000 13.077,6 Zimmer,191 m²,136 m² Grundstuck,https://www.immowelt.de/expose/0dd258a4-ef83-4881-883e-869c18e919fa,1219,"Prenzlauer Berg,  Berlin / Prenzlauer Berg (10407)",642
+Rahnsdorf, Berlin (12589),460.000 4.182,4 Zimmer,110 m²,290 m² Grundstuck,https://www.immowelt.de/expose/66516d52-1a57-4098-8a00-ec990ac8774c,1219,"Rahnsdorf,  Berlin (12589)",26
+Zehlendorf, Berlin (14165),199.000 3.755,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/6a826bfd-36a6-42cc-9180-bf791f2bd1db,1219,"Zehlendorf,  Berlin (14165)",409
+Wilhelmstadt, Berlin (13593),649.000 4.636,6 Zimmer,140 m²,666 m² Grundstuck,https://www.immowelt.de/expose/45429572-34c1-46b6-b0e8-1cfc85b4ec78,1219,"Wilhelmstadt,  Berlin (13593)",215
+Grunau, Berlin / Grunau (12527),198.000 4.853,1 Zimmer,"40,8 m²",3. Geschoss,https://www.immowelt.de/expose/040bdbd3-8f00-4e69-b837-6e5304870074,1219,"Grunau,  Berlin / Grunau (12527)",251
+Halensee, Berlin (10711),249.000 3.702,2 Zimmer,"67,3 m²",5. Geschoss,https://www.immowelt.de/expose/10e16282-b1e7-4427-bf66-f234bcfeea82,1219,"Halensee,  Berlin (10711)",410
+Blankenburg, Berlin (13129),270.000 2.813,4 Zimmer,96 m²,480 m² Grundstuck,https://www.immowelt.de/expose/a310497c-f82c-4ecd-86a7-1215738620b2,1219,"Blankenburg,  Berlin (13129)",101
+Dolziger Str. 14, Berlin (10247),199.000 5.998,1 Zimmer,"33,2 m²",EG,https://www.immowelt.de/expose/fb9c698e-bae1-4500-bf0e-5e26d90da5a5,1219,"Dolziger Str. 14,  Berlin (10247)",882
+Dolziger Str. 13, Berlin (10247),339.000 5.329,2 Zimmer,"63,6 m²",EG,https://www.immowelt.de/expose/3d93be18-cb05-4712-9ae9-bfa60a1cc072,1219,"Dolziger Str. 13,  Berlin (10247)",879
+Rosenthal, Berlin (13156),700.000 5.385,4 Zimmer,130 m²,Unknown,https://www.immowelt.de/expose/959ddc49-9697-4ecc-87f9-db5aeeec15a2,1219,"Rosenthal,  Berlin (13156)",159
+Altglienicke, Berlin (12524),199.000 3.134,2 Zimmer,"63,5 m²",4. Geschoss,https://www.immowelt.de/expose/1b291819-66f2-46c9-95a7-913742e31e7e,1219,"Altglienicke,  Berlin (12524)",128
+Baseler StraÃŸe 44, Berlin (12205),325.000 3.501,2 Zimmer,"92,8 m²",Unknown,https://www.immowelt.de/expose/d05aab01-bd2f-4e32-b51d-25aaab473827,1219,"Baseler StraÃŸe 44,  Berlin (12205)",0
+Grunewald, Berlin / Grunewald (14193),3.250.000 10.870,5 Zimmer,300 m²,729 m² Grundstuck,https://www.immowelt.de/expose/74f273a1-1f35-4da4-bcac-68214f324f27,1219,"Grunewald,  Berlin / Grunewald (14193)",129
+Prenzlauer Berg, Berlin (10405),599000,3 Zimmer,1. Geschoss,Unknown,https://www.immowelt.de/expose/f43ba173-b2ca-4cd1-b91c-51167b60aa0c,1219,"Prenzlauer Berg,  Berlin (10405)",836
+Muggelheim, Berlin (12559),629.000 5.032,5 Zimmer,125 m²,474 m² Grundstuck,https://www.immowelt.de/expose/450c28c9-e825-4515-992a-d78abf92ddac,1219,"Muggelheim,  Berlin (12559)",95
+Grolmanstr. 52, Berlin (10623),2.350.000 11.645,5 Zimmer,"201,8 m²",2. Geschoss,https://www.immowelt.de/expose/d044818d-546e-4fbc-961a-f0dc18628c47,1219,"Grolmanstr. 52,  Berlin (10623)",880
+Biesdorf, Berlin (12683),629.000 5.566,4 Zimmer,113 m²,548 m² Grundstuck,https://www.immowelt.de/expose/a8bb81a1-44f8-4740-b8ac-c662c06c14c3,1219,"Biesdorf,  Berlin (12683)",204
+Westend, Berlin (14050),930.000 6.000,4 Zimmer,155 m²,EG,https://www.immowelt.de/expose/29b93e21-824f-4b70-9029-e9849bb78f61,1219,"Westend,  Berlin (14050)",439
+Charlottenburg, Berlin (10711),1.980.000 7.333,5 Zimmer,270 m²,Unknown,https://www.immowelt.de/expose/714402ff-7a46-4524-ba0b-a54d68a445ec,1219,"Charlottenburg,  Berlin (10711)",1343
+Friedrichsfelde, Berlin-Lichtenberg (10315),169.000 3.210,2 Zimmer,"52,6 m²",Unknown,https://www.immowelt.de/expose/fe71fc8f-89ec-40d2-a939-6f1755622d04,1219,"Friedrichsfelde,  Berlin-Lichtenberg (10315)",388
+Friedrichsfelde, Berlin-Lichtenberg (10315),164.000 2.705,2 Zimmer,"60,6 m²",Unknown,https://www.immowelt.de/expose/e6aab0a1-02b3-4ed2-ac34-4b438af8a26e,1219,"Friedrichsfelde,  Berlin-Lichtenberg (10315)",388
+Friedrichsfelde, Berlin-Lichtenberg (10315),159.000 2.870,2 Zimmer,"55,4 m²",Unknown,https://www.immowelt.de/expose/2dcf4626-471e-4176-89df-7bc66ec4d363,1219,"Friedrichsfelde,  Berlin-Lichtenberg (10315)",388
+Friedrichsfelde, Berlin-Lichtenberg (10315),164.000 2.705,2 Zimmer,"60,6 m²",Unknown,https://www.immowelt.de/expose/d7af1a4d-b1df-4eca-bcea-ed88dc64abbc,1219,"Friedrichsfelde,  Berlin-Lichtenberg (10315)",388
+Lichtenrade, Berlin (12307),464.000 3.093,5 Zimmer,150 m²,590 m² Grundstuck,https://www.immowelt.de/expose/b13bdc26-40cc-415b-835c-205802f76c26,1219,"Lichtenrade,  Berlin (12307)",341
+Wilmersdorf, Berlin (10709),Preis auf Anfrage,12 Zimmer,677 m²,1.561 m² Grundstuck,https://www.immowelt.de/expose/5bb6588f-0211-4686-8585-7e15f0f68da6,1219,"Wilmersdorf,  Berlin (10709)",720
+Altglienicke, Berlin-Altglienicke (12524),545.000 3.206,6 Zimmer,170 m²,174 m² Grundstuck,https://www.immowelt.de/expose/c740d094-00a3-427c-a4bd-cf6b19dd2926,1219,"Altglienicke,  Berlin-Altglienicke (12524)",128
+Lichtenrade, Berlin (12305),495.000 4.806,4 Zimmer,103 m²,483 m² Grundstuck,https://www.immowelt.de/expose/b9a7b03e-7b2e-4217-9564-0a857aa2bd4b,1219,"Lichtenrade,  Berlin (12305)",341
+Dahlem, Berlin / Dahlem (14195),3.495.000 8.888,8 Zimmer,405 m²,1.101 m² Grundstuck,https://www.immowelt.de/expose/871a8396-57a4-4fbf-aaf4-158d47b4b0e8,1219,"Dahlem,  Berlin / Dahlem (14195)",239
+Wolliner Str. 51, Berlin (10435),440.000 5.471,3 Zimmer,"80,4 m²",2. Geschoss,https://www.immowelt.de/expose/fbe015ed-75f7-4e32-9ebc-4ae4c2a82dd8,1219,"Wolliner Str. 51,  Berlin (10435)",840
+Biesdorf, Berlin (12683),1.399.000 6.158,4 Zimmer,"227,2 m²",800 m² Grundstuck,https://www.immowelt.de/expose/c9490dd7-a615-45ea-b2fd-6dd6cc2247e9,1219,"Biesdorf,  Berlin (12683)",204
+Biesdorf, Berlin (12683),1.399.000 6.158,3 Zimmer,"227,2 m²",800 m² Grundstuck,https://www.immowelt.de/expose/183687fe-a434-4971-a849-668464952683,1219,"Biesdorf,  Berlin (12683)",204
+Tempelhofer Damm 2, Berlin (12101),1.126.500 9.633,3 Zimmer,"116,9 m²",5. Geschoss,https://www.immowelt.de/expose/7a33031f-a2c0-446f-85a4-367be7a4a55a,1219,"Tempelhofer Damm 2,  Berlin (12101)",646
+Tempelhofer Damm 2, Berlin (12101),1.433.000 9.634,3 Zimmer,"148,7 m²",5. Geschoss,https://www.immowelt.de/expose/169a5d6f-0dd6-4ba7-a016-b4081b75654e,1219,"Tempelhofer Damm 2,  Berlin (12101)",646
+Tempelhofer Damm 2, Berlin (12101),1.271.000 9.635,3 Zimmer,"131,9 m²",5. Geschoss,https://www.immowelt.de/expose/3d756153-b4ae-4204-931b-0e0d3484342f,1219,"Tempelhofer Damm 2,  Berlin (12101)",646
+Reinickendorf, Berlin / Reinickendorf (13403),394.500 4.566,3 Zimmer,83 m²,3. Geschoss,https://www.immowelt.de/expose/65542ec6-7ce0-4f91-8f61-7e0ebdafabb7,1219,"Reinickendorf,  Berlin / Reinickendorf (13403)",259
+Tempelhofer Damm 2, Berlin (12101),1.184.000 9.635,3 Zimmer,"122,9 m²",5. Geschoss,https://www.immowelt.de/expose/ce1de2ae-74d0-4101-96bb-80fb89cae495,1219,"Tempelhofer Damm 2,  Berlin (12101)",646
+Tempelhofer Damm 4, Berlin (12101),1.510.500 9.531,3 Zimmer,"158,5 m²",5. Geschoss,https://www.immowelt.de/expose/b6d9ab90-13e6-4b13-988d-7ec80f6a58f5,1219,"Tempelhofer Damm 4,  Berlin (12101)",611
+Alt-Moabit 73, Berlin (10555),799.900 7.618,3 Zimmer,105 m²,1. Geschoss,https://www.immowelt.de/expose/dbf0184e-b35d-44e7-8282-1055e4b1a5b7,1219,"Alt-Moabit 73,  Berlin (10555)",1071
+Zehlendorf, Berlin (14169),229.000 3.947,"2,5 Zimmer",58 m²,EG,https://www.immowelt.de/expose/a07fac73-ba18-4a0b-98af-7303b949f5ad,1219,"Zehlendorf,  Berlin (14169)",409
+Alt-Moabit 73, Berlin (10555),265.000 8.030,1 Zimmer,33 m²,1. Geschoss,https://www.immowelt.de/expose/9e7f8c84-0bbe-417f-85f4-f6ccee544dcf,1219,"Alt-Moabit 73,  Berlin (10555)",1071
+NiederschÃ¶nhausen, Berlin (13156),649.000 3.278,8 Zimmer,198 m²,375 m² Grundstuck,https://www.immowelt.de/expose/079f0a30-03d6-4d0f-9c24-bdfff3ec2d8d,1219,"NiederschÃ¶nhausen,  Berlin (13156)",0
+NiederschÃ¶nhausen, Berlin (13156),649.000 3.278,8 Zimmer,198 m²,375 m² Grundstuck,https://www.immowelt.de/expose/60180a4e-b756-4ba5-a4f2-7fca8d0b92ca,1219,"NiederschÃ¶nhausen,  Berlin (13156)",0
+Prenzlauer Berg, Berlin (10435),340.000 8.584,1 Zimmer,"39,6 m²",2. Geschoss,https://www.immowelt.de/expose/4fbd14f4-fd88-467a-9760-1bac56d9893b,1219,"Prenzlauer Berg,  Berlin (10435)",836
+Wedding, Berlin (13353),179.000 2.928,2 Zimmer,"61,1 m²",Unknown,https://www.immowelt.de/expose/b074e847-b327-413e-9ca1-917632e23f47,1219,"Wedding,  Berlin (13353)",960
+Dahlem, Berlin / Dahlem (14195),2.420.000 13.144,6 Zimmer,293 m²,801 m² Grundstuck,https://www.immowelt.de/expose/0a318c38-dc7d-477d-8836-afddc941151e,1219,"Dahlem,  Berlin / Dahlem (14195)",239
+Wedding, Berlin (13349),495.000 5.500,3 Zimmer,90 m²,4. Geschoss,https://www.immowelt.de/expose/6cc51f42-f501-4756-be09-caedbe00326f,1219,"Wedding,  Berlin (13349)",960
+Zehlendorf, Berlin (14163),2.100.000 10.048,7 Zimmer,209 m²,1.058 m² Grundstuck,https://www.immowelt.de/expose/a621893e-8a4a-4b00-9c18-ce5024827d86,1219,"Zehlendorf,  Berlin (14163)",409
+TschaikowskistraÃŸe 3, Berlin / NiederschÃ¶nhausen (13156),849.000 5.986,2 Zimmer,"141,8 m²",Unknown,https://www.immowelt.de/expose/5f47fa02-7c23-41ca-82f7-13164c7d98c2,1219,"TschaikowskistraÃŸe 3,  Berlin / NiederschÃ¶nhausen (13156)",0
+WeiÃŸensee, Berlin (13088),186.150 8.500,1 Zimmer,"21,9 m²",frei ab sofort,https://www.immowelt.de/expose/8fc5f6da-702b-491a-9114-009bdc2b8bf5,1219,"WeiÃŸensee,  Berlin (13088)",0
+Hermsdorf, Berlin / Hermsdorf (13467),420.000 6.462,3 Zimmer,65 m²,EG,https://www.immowelt.de/expose/d0ca957d-ed1e-4b3b-897b-4822e22ddd59,1219,"Hermsdorf,  Berlin / Hermsdorf (13467)",223
+Hermsdorf, Berlin / Hermsdorf (13467),370.000 6.167,3 Zimmer,60 m²,EG,https://www.immowelt.de/expose/dfc43406-8600-441e-885b-9066801d0483,1219,"Hermsdorf,  Berlin / Hermsdorf (13467)",223
+Wilmersdorf, Berlin (10715),245.000 5.000,"1,5 Zimmer",49 m²,4. Geschoss,https://www.immowelt.de/expose/90d77ab3-9028-49d4-814f-db634adbd1fc,1219,"Wilmersdorf,  Berlin (10715)",720
+Duisburger StraÃŸe 13, Berlin (10707),739.000 5.787,"4,5 Zimmer","127,7 m²",1. Geschoss,https://www.immowelt.de/expose/3778344b-2595-41ff-a8a6-220f0dc741a4,1219,"Duisburger StraÃŸe 13,  Berlin (10707)",0
+Gerdauer StraÃŸe 1, Berlin (10715),475.200 4.168,4 Zimmer,114 m²,2. Geschoss,https://www.immowelt.de/expose/eb1f3690-5a5f-4dd5-91f9-c7a29b536f95,1219,"Gerdauer StraÃŸe 1,  Berlin (10715)",0
+PalisadenstraÃŸe 58, Berlin (10243),268.000 4.325,2 Zimmer,62 m²,1. Geschoss,https://www.immowelt.de/expose/3929447a-949a-4a17-805a-0ebd816a993b,1219,"PalisadenstraÃŸe 58,  Berlin (10243)",0
+Kalckreuthstr. 10, Berlin (10777),921.593 5.904,3 Zimmer,"156,1 m²",5. Geschoss,https://www.immowelt.de/expose/def8f806-21ca-4a67-a5ec-518666814475,1219,"Kalckreuthstr. 10,  Berlin (10777)",965
+Motzstr. 28, Berlin (10777),798.000 5.603,3 Zimmer,"142,4 m²",5. Geschoss,https://www.immowelt.de/expose/a14e9bd2-c78b-4039-a43d-e304aa61ceae,1219,"Motzstr. 28,  Berlin (10777)",959
+WeiÃŸensee, Berlin (13088),849.000 8.016,5 Zimmer,"105,9 m²",frei ab sofort,https://www.immowelt.de/expose/149e98f8-a7c8-4eb3-8d46-746b5bac793c,1219,"WeiÃŸensee,  Berlin (13088)",0
+Wilhelmstadt, Berlin (13581),248.000 3.647,2 Zimmer,68 m²,1. Geschoss,https://www.immowelt.de/expose/203c49f2-8f0a-4259-b7c7-b4047a28cce4,1219,"Wilhelmstadt,  Berlin (13581)",215
+Hielscherstr. 51, Berlin / Wilhelmsruh (13158),970.000 7.366,4 Zimmer,"131,7 m²",3. Geschoss,https://www.immowelt.de/expose/d9f686f0-d497-4194-ae29-e7fb4a7aebcb,1219,"Hielscherstr. 51,  Berlin / Wilhelmsruh (13158)",222
+Hielscherstr. 51, Berlin / Wilhelmsruh (13158),1.150.000 7.153,4 Zimmer,"160,8 m²",3. Geschoss,https://www.immowelt.de/expose/e962dd5c-1199-44f1-ba5b-b1c6366d0c42,1219,"Hielscherstr. 51,  Berlin / Wilhelmsruh (13158)",222
+Hielscherstr. 51, Berlin / Wilhelmsruh (13158),940.000 6.083,6 Zimmer,"154,5 m²",EG,https://www.immowelt.de/expose/658a7b8b-773e-4b20-bae8-d81fd1b0f6cf,1219,"Hielscherstr. 51,  Berlin / Wilhelmsruh (13158)",222
+Hielscherstr. 51, Berlin / Wilhelmsruh (13158),399.000 6.211,2 Zimmer,"64,2 m²",EG,https://www.immowelt.de/expose/3686bcd4-adcd-410d-ae44-d8a0d7f2b078,1219,"Hielscherstr. 51,  Berlin / Wilhelmsruh (13158)",222
+Hielscherstr. 51, Berlin / Wilhelmsruh (13158),450.000 7.002,2 Zimmer,"64,3 m²",1. Geschoss,https://www.immowelt.de/expose/efb09009-44db-4b5f-b940-b4f253e84af7,1219,"Hielscherstr. 51,  Berlin / Wilhelmsruh (13158)",222
+Hielscherstr. 51, Berlin / Wilhelmsruh (13158),490.000 7.608,2 Zimmer,"64,4 m²",2. Geschoss,https://www.immowelt.de/expose/66201fbc-70de-4344-b103-e6ab7f4e2718,1219,"Hielscherstr. 51,  Berlin / Wilhelmsruh (13158)",222
+Hielscherstr. 51, Berlin / Wilhelmsruh (13158),810.000 7.300,4 Zimmer,111 m²,2. Geschoss,https://www.immowelt.de/expose/2b26b913-e4b8-49aa-be64-ea62516bbada,1219,"Hielscherstr. 51,  Berlin / Wilhelmsruh (13158)",222
+Hielscherstr. 51, Berlin / Wilhelmsruh (13158),770.000 6.939,4 Zimmer,111 m²,1. Geschoss,https://www.immowelt.de/expose/bb767075-b78e-4d2f-aa52-fb95fc30b8e4,1219,"Hielscherstr. 51,  Berlin / Wilhelmsruh (13158)",222
+Hielscherstr. 51, Berlin / Wilhelmsruh (13158),780.000 7.412,4 Zimmer,"105,2 m²",2. Geschoss,https://www.immowelt.de/expose/2c750825-85b0-4d7b-8f60-d983545b3b08,1219,"Hielscherstr. 51,  Berlin / Wilhelmsruh (13158)",222
+Hielscherstr. 51, Berlin / Wilhelmsruh (13158),1.025.000 5.681,7 Zimmer,"180,4 m²",EG,https://www.immowelt.de/expose/da2a84c0-bbd8-41fe-92bd-ec44a50a7413,1219,"Hielscherstr. 51,  Berlin / Wilhelmsruh (13158)",222
+Mitte, Berlin (10179),398.000 6.123,3 Zimmer,65 m²,10. Geschoss,https://www.immowelt.de/expose/471745ea-a5a0-447e-8918-6a17ae32b834,1219,"Mitte,  Berlin (10179)",773
+Blumenweg 2, Berlin (12105),225.000 5.150,1 Zimmer,"43,7 m²",EG,https://www.immowelt.de/expose/4dedc6ab-a1c4-4a1f-a01d-651bcf20f617,1219,"Blumenweg 2,  Berlin (12105)",192
+Heiligensee, Berlin / Frohnau (13465),499.000 4.332,2 Zimmer,"115,2 m²",2. Geschoss,https://www.immowelt.de/expose/7b78ad1a-8315-4dad-b473-d6d9d29c8e88,1219,"Heiligensee,  Berlin / Frohnau (13465)",0
+WeiÃŸensee, Berlin (13088),1.135.000 8.245,6 Zimmer,"137,7 m²",frei ab sofort,https://www.immowelt.de/expose/bd2aee03-0e6c-4ea1-8054-858a5fe66420,1219,"WeiÃŸensee,  Berlin (13088)",0
+Lichterfelde, Berlin (12209),650.000 4.276,"4,5 Zimmer",152 m²,535 m² Grundstuck,https://www.immowelt.de/expose/95da26a3-36f9-4288-9769-b0572c623928,1219,"Lichterfelde,  Berlin (12209)",177
+Wilmersdorf, Berlin (10709),685.000 8.087,2 Zimmer,"84,7 m²",1. Geschoss,https://www.immowelt.de/expose/c810c523-a785-495c-9f38-3772dd91f0af,1219,"Wilmersdorf,  Berlin (10709)",720
+Mariendorfer Weg 39, Berlin (12051),289.000 5.038,2 Zimmer,"57,4 m²",1. Geschoss,https://www.immowelt.de/expose/ccafb8c9-2893-4f35-9b23-ec9d61732537,1219,"Mariendorfer Weg 39,  Berlin (12051)",299
+Ruppiner Str. 3, Berlin (10115),949.000 6.187,4 Zimmer,"153,4 m²",Unknown,https://www.immowelt.de/expose/c4c2fac2-ca3e-4a74-bd96-17e02b6459b2,1219,"Ruppiner Str. 3,  Berlin (10115)",830
+WeiÃŸensee, Berlin (13088),186.150 8.500,1 Zimmer,"21,9 m²",frei ab sofort,https://www.immowelt.de/expose/302c751f-bc07-4da7-837d-372ed2bc19e6,1219,"WeiÃŸensee,  Berlin (13088)",0
+SimplonstraÃŸe 10-12, Berlin (10245),1.739.000 11.137,4 Zimmer,"156,2 m²",5. Geschoss,https://www.immowelt.de/expose/06c245cf-3d93-4eb4-b4bc-2a4ba55a65b8,1219,"SimplonstraÃŸe 10-12,  Berlin (10245)",0
+SimplonstraÃŸe 10-12, Berlin (10245),645.000 8.976,2 Zimmer,"71,9 m²",2. Geschoss,https://www.immowelt.de/expose/e33cc61d-b99b-4618-b80a-7a869a512c36,1219,"SimplonstraÃŸe 10-12,  Berlin (10245)",0
+SimplonstraÃŸe 10-12, Berlin (10245),1.839.000 10.985,4 Zimmer,"167,4 m²",5. Geschoss,https://www.immowelt.de/expose/f640b6bd-324b-4003-90a3-088a6377a08c,1219,"SimplonstraÃŸe 10-12,  Berlin (10245)",0
+SimplonstraÃŸe 10-12, Berlin (10245),855.000 8.508,3 Zimmer,"100,5 m²",2. Geschoss,https://www.immowelt.de/expose/86ddd369-608d-467d-9f24-cee377d97f5c,1219,"SimplonstraÃŸe 10-12,  Berlin (10245)",0
+Lichterfelde, Berlin (12207),220.000 4.187,2 Zimmer,"52,5 m²",1. Geschoss,https://www.immowelt.de/expose/db1b0b54-4c11-4a79-8b4c-37e67d4736f1,1219,"Lichterfelde,  Berlin (12207)",177
+Regensburger StraÃŸe 33 A, Berlin / SchÃ¶neberg (10777),1.310.000 9.268,"3,5 Zimmer","154,3 m²",3. Geschoss,https://www.immowelt.de/expose/1889e018-7c66-46f6-bf1f-00a560bf9d6c,1219,"Regensburger StraÃŸe 33 A,  Berlin / SchÃ¶neberg (10777)",0
+Lichterfelde, Berlin (12203),1.899.000 6.071,8 Zimmer,280 m²,950 m² Grundstuck,https://www.immowelt.de/expose/75713042-58eb-4698-b143-df3d012dbd25,1219,"Lichterfelde,  Berlin (12203)",177
+Friedenau, Berlin (10827),185.000 5.056,1 Zimmer,"36,6 m²",5. Geschoss,https://www.immowelt.de/expose/41dd5e80-499e-4acc-8002-0067adf675c9,1219,"Friedenau,  Berlin (10827)",674
+WeiÃŸensee, Berlin (13088),186.150 8.500,1 Zimmer,"21,9 m²",frei ab sofort,https://www.immowelt.de/expose/f4e2b5d7-1271-40e9-bbee-09fb0f186e2f,1219,"WeiÃŸensee,  Berlin (13088)",0
+Lankwitz, Berlin (12249),160.000 2.513,2 Zimmer,"63,7 m²",EG,https://www.immowelt.de/expose/77277522-c8ae-49af-96be-9b3a2d057297,1219,"Lankwitz,  Berlin (12249)",325
+Friedrichshain, Berlin (10249),810.000 5.295,3 Zimmer,153 m²,4. Geschoss,https://www.immowelt.de/expose/6862fa10-d451-444c-b749-0144ffd54dd2,1219,"Friedrichshain,  Berlin (10249)",1098
+Friedrichshain, Berlin (10247),430.000 5.972,3 Zimmer,72 m²,2. Geschoss,https://www.immowelt.de/expose/5978aec7-7a7b-4aeb-acf9-aeea797e54a9,1219,"Friedrichshain,  Berlin (10247)",1098
+WeiÃŸensee, Berlin (13088),838.750 8.000,5 Zimmer,"104,8 m²",50 m² Grundstuck,https://www.immowelt.de/expose/a79a0f5d-e773-45c9-9bba-48aa33318414,1219,"WeiÃŸensee,  Berlin (13088)",0
+Rudow, Berlin (12357),1.050.000 6.908,5 Zimmer,152 m²,506 m² Grundstuck,https://www.immowelt.de/expose/ef42d58c-2d75-4898-abdb-9692653eb81f,1219,"Rudow,  Berlin (12357)",391
+Pankow, Berlin (13189),329.000 5.222,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/fd87bf60-1e02-40b1-8299-a8ed5bc9315e,1219,"Pankow,  Berlin (13189)",70
+Rudow, Berlin (12355),1.330.000 4.274,9 Zimmer,"311,2 m²",830 m² Grundstuck,https://www.immowelt.de/expose/727c3b08-5623-4bce-81f7-4861485c34ad,1219,"Rudow,  Berlin (12355)",391
+Friedrichshagen, Berlin (12587),775.000 6.513,3 Zimmer,119 m²,Unknown,https://www.immowelt.de/expose/e816baee-c655-4b08-9a7f-055b63a03291,1219,"Friedrichshagen,  Berlin (12587)",152
+Heiligensee, Berlin (13503),480.000 4.084,5 Zimmer,"117,5 m²",400 m² Grundstuck,https://www.immowelt.de/expose/11d784f6-a3e6-45f1-8edf-d058eeac32c6,1219,"Heiligensee,  Berlin (13503)",52
+Mitte, Berlin / Mitte (10179),699.000 12.709,2 Zimmer,55 m²,15. Geschoss,https://www.immowelt.de/expose/114381e7-cd39-4a61-aef5-552b63df3836,1219,"Mitte,  Berlin / Mitte (10179)",871
+Charlottenburg, Berlin (10589),489.000 6.943,2 Zimmer,"70,4 m²",4. Geschoss,https://www.immowelt.de/expose/ba8dc7da-d165-4986-9b5b-ef06aae17d72,1219,"Charlottenburg,  Berlin (10589)",1343
+Charlottenburg, Berlin (10709),11.250.000 7.500,1.500 m²,Unknown,Unknown,https://www.immowelt.de/expose/5e36d9c3-5df4-409f-8bf4-8bc262b92933,1219,"Charlottenburg,  Berlin (10709)",1343
+Kreuzberg, Berlin (10997),8.000.000 2.286,3.500 m²,Unknown,Unknown,https://www.immowelt.de/expose/eb68b9ce-80fb-4b56-ba9c-385113510371,1219,"Kreuzberg,  Berlin (10997)",846
+Halensee, Berlin (10709),550.000 8.871,2 Zimmer,62 m²,Unknown,https://www.immowelt.de/expose/dccb679c-a352-419c-9bf1-5413b9a26a63,1219,"Halensee,  Berlin (10709)",410
+Tempelhof, Berlin (12103),2.200.000 1.913,1.150 m²,600 m² Grundstuck,Unknown,https://www.immowelt.de/expose/6a86a649-48a9-41aa-ac69-5e45aeb5a22d,1219,"Tempelhof,  Berlin (12103)",384
+Lichterfelde, Berlin (12207),1.099.000 4.396,5 Zimmer,250 m²,450 m² Grundstuck,https://www.immowelt.de/expose/77541f9e-46ed-49d4-aa0d-b7996a7e8581,1219,"Lichterfelde,  Berlin (12207)",177
+Kreuzberg, Berlin (10999),1.495.000 8.642,3 Zimmer,173 m²,4. Geschoss,https://www.immowelt.de/expose/d8961b97-ec6d-457b-b5d7-9e3bc520fbf3,1219,"Kreuzberg,  Berlin (10999)",846
+Lichtenrade, Berlin (12305),1.740.000 4.094,6 Zimmer,425 m²,935 m² Grundstuck,https://www.immowelt.de/expose/3fb0222f-fc55-4319-8981-3e3e89f62658,1219,"Lichtenrade,  Berlin (12305)",341
+Parchwitzer StraÃŸe 212, Berlin (12526),353.000 5.431,4 Zimmer,65 m²,506 m² Grundstuck,https://www.immowelt.de/expose/8c8ef0d8-91ff-4213-891c-08f9adde4b36,1219,"Parchwitzer StraÃŸe 212,  Berlin (12526)",0
+Charlottenburg, Berlin (10789),425.000 5.822,3 Zimmer,73 m²,1. Geschoss,https://www.immowelt.de/expose/f612c523-5e00-4526-8d5e-0593847ec8a8,1219,"Charlottenburg,  Berlin (10789)",1343
+Lichtenrade, Berlin (12307),499.800 3.368,5 Zimmer,"148,4 m²",EG,https://www.immowelt.de/expose/1f510a06-3767-4b6a-9b96-da700e6f9072,1219,"Lichtenrade,  Berlin (12307)",341
+Friedrichshain, Berlin-Friedrichshain (10247),420.000 6.903,3 Zimmer,"60,8 m²",EG,https://www.immowelt.de/expose/c28038c3-f4ea-4e20-a7ae-591df728adde,1219,"Friedrichshain,  Berlin-Friedrichshain (10247)",1098
+Lichtenrade, Berlin (12307),259.800 3.507,2 Zimmer,"74,1 m²",1. Geschoss,https://www.immowelt.de/expose/f6718084-652a-4a00-a597-d4e68b57e3ff,1219,"Lichtenrade,  Berlin (12307)",341
+Charlottenburg, Berlin Charlottenburg (10459),195.000 6.964,1 Zimmer,28 m²,EG,https://www.immowelt.de/expose/487762bf-c93a-4662-9267-6c82b349c01c,1219,"Charlottenburg,  Berlin Charlottenburg (10459)",451
+Spandau, Berlin (13585),2.150.000 2.556,841 m²,865 m² Grundstuck,Unknown,https://www.immowelt.de/expose/dcab9de4-384b-49e9-a51a-9fabb2858870,1219,"Spandau,  Berlin (13585)",743
+Mistelweg 23A, Berlin (12357),549.000 5.279,4 Zimmer,104 m²,422 m² Grundstuck,https://www.immowelt.de/expose/d98fed1c-107f-4f2f-ac86-502569c58c37,1219,"Mistelweg 23A,  Berlin (12357)",146
+Wilmersdorf, Berlin (10707),470.000 9.400,2 Zimmer,50 m²,3. Geschoss,https://www.immowelt.de/expose/e344d79e-9c71-464f-b5ba-f7a9cba2d09c,1219,"Wilmersdorf,  Berlin (10707)",720
+Steglitz, Berlin (12169),240.000 4.969,2 Zimmer,"48,3 m²",Unknown,https://www.immowelt.de/expose/a2c0e83c-6d0b-4e45-8905-9bb6c222bea8,1219,"Steglitz,  Berlin (12169)",1036
+Kladow, Berlin (14089),439.000 3.991,"4,5 Zimmer",110 m²,568 m² Grundstuck,https://www.immowelt.de/expose/448f33e9-bc5b-4f12-9b97-ac0b980c8d54,1219,"Kladow,  Berlin (14089)",116
+Rosenthal, Berlin / Rosenthal (13158),890.000 5.235,4 Zimmer,170 m²,419 m² Grundstuck,https://www.immowelt.de/expose/45b8aa86-8f19-478e-81c7-bf1dc2540fab,1219,"Rosenthal,  Berlin / Rosenthal (13158)",131
+PlÃ¶nzeile 12, Berlin (12459),162.000 3.306,2 Zimmer,49 m²,1. Geschoss,https://www.immowelt.de/expose/b3ad93c2-0ab5-43a2-8559-de2bc8d04116,1219,"PlÃ¶nzeile 12,  Berlin (12459)",0
+Kladow, Berlin (14089),410.000 3.060,3 Zimmer,134 m²,Unknown,https://www.immowelt.de/expose/57ddfd9a-539c-475d-a812-850dbfed1564,1219,"Kladow,  Berlin (14089)",116
+Staaken, Berlin (13591),1.249.000 7.663,4 Zimmer,163 m²,824 m² Grundstuck,https://www.immowelt.de/expose/caf43546-97a9-4e10-ab0d-6959b37c0989,1219,"Staaken,  Berlin (13591)",146
+Prenzlauer Berg, Berlin (10405),1.450.000 7.178,4 Zimmer,202 m²,1. Geschoss,https://www.immowelt.de/expose/a54c92f3-b83c-4932-9654-4c27fd128785,1219,"Prenzlauer Berg,  Berlin (10405)",836
+UrbanstraÃŸe 5, Berlin (10961),359.000 4.249,2 Zimmer,"84,5 m²",3. Geschoss,https://www.immowelt.de/expose/f7c38f24-22a8-4a38-ba4b-44d5b2cf596a,1219,"UrbanstraÃŸe 5,  Berlin (10961)",0
+Lindenthaler Allee 34, Berlin (14163),720.000 4.576,3 Zimmer,"157,4 m²",Unknown,https://www.immowelt.de/expose/6c48de56-46c8-4111-8cc0-e5b5a7f7240d,1219,"Lindenthaler Allee 34,  Berlin (14163)",131
+Mitte, Berlin (10178),8.500.000 23.944,6 Zimmer,355 m²,6. Geschoss,https://www.immowelt.de/expose/01330b79-c136-4da5-aa69-79c00d59248b,1219,"Mitte,  Berlin (10178)",773
+Neu-HohenschÃ¶nhausen, Berlin (13057),229.000 3.273,3 Zimmer,70 m²,frei ab sofort,https://www.immowelt.de/expose/b8a23d54-fd5a-4a2c-99c6-b28fdebefb21,1219,"Neu-HohenschÃ¶nhausen,  Berlin (13057)",0
+TiriotstraÃŸe 56D, Berlin (13127),679.000 6.043,4 Zimmer,115 m²,356 m² Grundstuck,https://www.immowelt.de/expose/37ab5da7-3cbf-4723-bf18-bcc69ea7ebc0,1219,"TiriotstraÃŸe 56D,  Berlin (13127)",0
+NiederschÃ¶nhausen, Berlin - Pankow (13156),249.000 4.961,1 Zimmer,"50,2 m²",1. Geschoss,https://www.immowelt.de/expose/deb940d9-4740-45be-81b1-64ae24971322,1219,"NiederschÃ¶nhausen,  Berlin - Pankow (13156)",0
+Lichtenrade, Berlin (12309),419.000 4.411,4 Zimmer,95 m²,490 m² Grundstuck,https://www.immowelt.de/expose/8dfec035-1028-4366-a382-c25abc396f76,1219,"Lichtenrade,  Berlin (12309)",341
+BismarckstraÃŸe 73, Berlin (10627),210.000 5.371,1 Zimmer,"39,1 m²",Unknown,https://www.immowelt.de/expose/5168058e-62f6-49a4-a740-c47929d0c1b6,1219,"BismarckstraÃŸe 73,  Berlin (10627)",0
+SchÃ¶neberg, Berlin (10781),252.500 4.715,2 Zimmer,"53,6 m²",1. Geschoss,https://www.immowelt.de/expose/3e56e970-a9c9-4cde-93f5-81386bb5f05a,1219,"SchÃ¶neberg,  Berlin (10781)",0
+Tempelhof, Berlin (12101),1.338.660 9.000,3 Zimmer,"148,7 m²",5. Geschoss,https://www.immowelt.de/expose/23855027-562d-44b0-b0ae-8e84f4aaafc6,1219,"Tempelhof,  Berlin (12101)",384
+Duisburger StraÃŸe 12, Berlin (10707),597.000 5.995,2 Zimmer,"99,6 m²",5. Geschoss,https://www.immowelt.de/expose/a3c306af-bb5e-4b2b-999b-1c186d7a6c0e,1219,"Duisburger StraÃŸe 12,  Berlin (10707)",0
+Nikolassee, Berlin (14129),1.039.000 5.195,4 Zimmer,200 m²,3. Geschoss,https://www.immowelt.de/expose/5caec010-290a-4c81-bd1c-bdbe816d892c,1219,"Nikolassee,  Berlin (14129)",156
+Grunau, Berlin (12527),169.000 3.176,2 Zimmer,"53,2 m²",Unknown,https://www.immowelt.de/expose/f257ebdc-4e80-4f72-84f6-a85c1e9be042,1219,"Grunau,  Berlin (12527)",251
+Holsteinische Str. 31, Berlin (10717),1.225.000 8.113,5 Zimmer,151 m²,4. Geschoss,https://www.immowelt.de/expose/4ebbf170-f3a0-4e46-9c55-f3b283211684,1219,"Holsteinische Str. 31,  Berlin (10717)",831
+Gatow, Berlin (14089),1.690.000 11.267,5 Zimmer,150 m²,1.760 m² Grundstuck,https://www.immowelt.de/expose/4e3b6efd-9dae-4764-b3d1-5edfd3cb273c,1219,"Gatow,  Berlin (14089)",14
+Moabit, Berlin (10555),Preis auf Anfrage,1 Zimmer,37 m²,1. Geschoss,https://www.immowelt.de/expose/fd708517-4c4a-4822-8b54-5fe833bc28e6,1219,"Moabit,  Berlin (10555)",1001
+Rudow, Berlin (12355),649.000 3.739,7 Zimmer,"173,6 m²",460 m² Grundstuck,https://www.immowelt.de/expose/92989edc-4519-4bf1-b6c9-8312aa4ef896,1219,"Rudow,  Berlin (12355)",391
+Heiligensee, Berlin (13503),330.000 3.075,"3,5 Zimmer","107,3 m²",Unknown,https://www.immowelt.de/expose/04e57208-c450-4461-b469-82a5d3e85866,1219,"Heiligensee,  Berlin (13503)",52
+Mitte, Berlin (10178),428.000 6.294,3 Zimmer,68 m²,5. Geschoss,https://www.immowelt.de/expose/a9a93d10-df5f-4ad9-9eaa-ca0f1813be14,1219,"Mitte,  Berlin (10178)",773
+Friedrichshain, Berlin Friedrichshain (10243),1.200.000 9.535,4 Zimmer,"125,9 m²",1. Geschoss,https://www.immowelt.de/expose/db7cab29-a5d4-4349-8bdb-4a9600758262,1219,"Friedrichshain,  Berlin Friedrichshain (10243)",1098
+Veteranenstr. 14, Berlin (10119),780.000 8.920,3 Zimmer,"87,4 m²",1. Geschoss,https://www.immowelt.de/expose/7e8acc0e-b1ea-43d1-bc63-5ef2e4630b46,1219,"Veteranenstr. 14,  Berlin (10119)",1022
+Holsteinische StraÃŸe 13, Berlin (10717),179.000 5.594,1 Zimmer,32 m²,EG,https://www.immowelt.de/expose/99ac5564-df1f-44e1-b1c8-5aefd0f9d6e4,1219,"Holsteinische StraÃŸe 13,  Berlin (10717)",0
+Wannsee, Berlin (14109),2.750.000 10.000,7 Zimmer,230 m²,840 m² Grundstuck,https://www.immowelt.de/expose/ec200858-f740-4c3e-bab0-c26599b63a75,1219,"Wannsee,  Berlin (14109)",107
+Manteuffelstr. (Audrey-Lorde-Str.) 22, Berlin (10997),305.000 5.022,2 Zimmer,"60,7 m²",5. Geschoss,https://www.immowelt.de/expose/4e48290b-ed45-4af8-b853-d21d76d70a31,1219,"Manteuffelstr. (Audrey-Lorde-Str.) 22,  Berlin (10997)",0
+Baumschulenweg, Berlin (12437),795.000 3.975,8 Zimmer,200 m²,739 m² Grundstuck,https://www.immowelt.de/expose/3370d651-42a0-4542-acb7-fc9a73e2d44e,1219,"Baumschulenweg,  Berlin (12437)",470
+Frohnau, Berlin / Frohnau (13465),649.000 7.798,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/d222dcbd-1bb2-480f-b6b4-95cd0af72159,1219,"Frohnau,  Berlin / Frohnau (13465)",277
+Hermsdorf, Berlin / Hermsdorf (13467),649.000 7.798,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/488a9da9-03be-4e22-a8c6-94625625b63d,1219,"Hermsdorf,  Berlin / Hermsdorf (13467)",223
+Hermsdorf, Berlin / Hermsdorf (13467),961.000 7.567,"3,5 Zimmer",127 m²,Unknown,https://www.immowelt.de/expose/59a487e8-4cc5-44a6-be9d-4e717d48bca8,1219,"Hermsdorf,  Berlin / Hermsdorf (13467)",223
+Frohnau, Berlin / Frohnau (13465),846.000 7.622,3 Zimmer,111 m²,Unknown,https://www.immowelt.de/expose/54268e8d-2648-42f2-bd91-1f8cfd6d441a,1219,"Frohnau,  Berlin / Frohnau (13465)",277
+OberschÃ¶neweide, Berlin / OberschÃ¶neweide (12459),425.000 5.247,"3,5 Zimmer",81 m²,176 m² Grundstuck,https://www.immowelt.de/expose/f9700dc9-4217-4239-8eb0-7803faf10ad8,1219,"OberschÃ¶neweide,  Berlin / OberschÃ¶neweide (12459)",0
+Halensee, Berlin / Halensee (10711),619.000 6.381,3 Zimmer,97 m²,4. Geschoss,https://www.immowelt.de/expose/e4d8342d-9a72-4f81-bf2f-14767631a6b5,1219,"Halensee,  Berlin / Halensee (10711)",410
+NeukÃ¶lln, Berlin (12049),299.000 4.338,3 Zimmer,"68,9 m²",1. Geschoss,https://www.immowelt.de/expose/37069d0e-b158-41da-acd3-c35ddbb8af00,1219,"NeukÃ¶lln,  Berlin (12049)",0
+Lankwitz, Berlin (12247),1.900.000 6.084,8 Zimmer,"312,3 m²",1.388 m² Grundstuck,https://www.immowelt.de/expose/e511eee6-3fac-41e7-b56b-afb43e315cec,1219,"Lankwitz,  Berlin (12247)",325
+Wilmersdorf, Berlin / Wilmersdorf (10717),995.000 5.278,5 Zimmer,"188,5 m²",1. Geschoss,https://www.immowelt.de/expose/1b9d38e1-7bbc-4ff0-b5cc-c3adbbdcbaeb,1219,"Wilmersdorf,  Berlin / Wilmersdorf (10717)",720
+Kastanienallee 124, Berlin (13158),749.000 4.993,6 Zimmer,150 m²,1. Geschoss,https://www.immowelt.de/expose/07a2a832-3783-4234-886d-ed0d1586fd67,1219,"Kastanienallee 124,  Berlin (13158)",210
+Heiligensee, Berlin-Reinickendorf (13503),169.000 3.381,2 Zimmer,50 m²,2. Geschoss,https://www.immowelt.de/expose/d130b7ff-0401-41af-be3d-b800980ce2c8,1219,"Heiligensee,  Berlin-Reinickendorf (13503)",52
+Altglienicke, Berlin-Treptow (12524),1.900.000 3.527,"538,7 m²",Unknown,Unknown,https://www.immowelt.de/expose/1810af94-f4fd-4abc-a4f8-1fcb25897fbd,1219,"Altglienicke,  Berlin-Treptow (12524)",128
+Altglienicke, Berlin-Treptow (12524),1.900.000 3.527,"538,7 m²",Unknown,Unknown,https://www.immowelt.de/expose/e4180d95-3760-4c45-8939-f1ed868c9d6c,1219,"Altglienicke,  Berlin-Treptow (12524)",128
+Alt-HohenschÃ¶nhausen, Berlin-Lichtenberg (13053),1.498.000 3.891,385 m²,Unknown,Unknown,https://www.immowelt.de/expose/45417ac9-c20d-41c0-a876-5da87227e539,1219,"Alt-HohenschÃ¶nhausen,  Berlin-Lichtenberg (13053)",0
+Alt-HohenschÃ¶nhausen, Berlin-Lichtenberg (13053),1.498.000 3.891,385 m²,Unknown,Unknown,https://www.immowelt.de/expose/878b2f53-0343-4b4d-874e-4b694b656643,1219,"Alt-HohenschÃ¶nhausen,  Berlin-Lichtenberg (13053)",0
+Tempelhof, Berlin-Tempelhof (12103),5.498.000 4.452,1.235 m²,848 m² Grundstuck,Unknown,https://www.immowelt.de/expose/72870dd4-1145-47ab-aaa3-95bc09be5b37,1219,"Tempelhof,  Berlin-Tempelhof (12103)",384
+Tempelhof, Berlin-Tempelhof (12103),5.498.000 4.887,1.125 m²,848 m² Grundstuck,Unknown,https://www.immowelt.de/expose/0d41e92f-f343-4ac1-ba4f-ec4b303f5597,1219,"Tempelhof,  Berlin-Tempelhof (12103)",384
+Tempelhof, Berlin / Tempelhof (12103),589.000 4.062,6 Zimmer,145 m²,EG,https://www.immowelt.de/expose/88064b9b-0524-41f8-9f8f-0c3fcd1a9b46,1219,"Tempelhof,  Berlin / Tempelhof (12103)",384
+KonradshÃ¶he, Berlin / KonradshÃ¶he (13505),2.250.000 5.769,10 Zimmer,390 m²,1.075 m² Grundstuck,https://www.immowelt.de/expose/2d0099d3-c119-452f-b2a3-eda1caae6390,1219,"KonradshÃ¶he,  Berlin / KonradshÃ¶he (13505)",0
+Duisburger StraÃŸe 13, Berlin (10707),949.000 7.313,"4,5 Zimmer","129,8 m²",5. Geschoss,https://www.immowelt.de/expose/d7e3d35e-4fd9-48b0-a0b9-b953b2a42853,1219,"Duisburger StraÃŸe 13,  Berlin (10707)",0
+GaudystraÃŸe 14, Berlin (10437),750.000 7.205,3 Zimmer,"104,1 m²",4. Geschoss,https://www.immowelt.de/expose/82feaee0-e65f-46a3-a072-15eba8eb872a,1219,"GaudystraÃŸe 14,  Berlin (10437)",0
+GaudystraÃŸe 14, Berlin (10437),395.000 6.394,2 Zimmer,"61,8 m²",EG,https://www.immowelt.de/expose/df0d6899-164c-475a-8645-d8e1f82c43be,1219,"GaudystraÃŸe 14,  Berlin (10437)",0
+Mariendorf, Berlin (12107),200.000 4.000,2 Zimmer,50 m²,2. Geschoss,https://www.immowelt.de/expose/784642f2-5e82-44a2-8f45-07e74cffa4f1,1219,"Mariendorf,  Berlin (12107)",433
+Rosenthal, Berlin (13156),799.000 7.504,3 Zimmer,"106,5 m²",493 m² Grundstuck,https://www.immowelt.de/expose/8bbe173f-36de-4e63-bccc-edf1ec4438d7,1219,"Rosenthal,  Berlin (13156)",159
+Stubenrauchstr. 8, Berlin (12161),1.025.000 6.674,5 Zimmer,"153,6 m²",1. Geschoss,https://www.immowelt.de/expose/f232edaa-449b-479a-a529-87dec28f8b0f,1219,"Stubenrauchstr. 8,  Berlin (12161)",859
+Wilmersdorf, Berlin (10707),535.000 9.907,2 Zimmer,54 m²,3. Geschoss,https://www.immowelt.de/expose/8cac61fa-7e26-43f7-8cdb-81bfa1dcfdf0,1219,"Wilmersdorf,  Berlin (10707)",720
+Grunewald, Berlin (14193),3.350.000.000 11.166.667,300 m²,1.500 m² Grundstuck,Unknown,https://www.immowelt.de/expose/77be8658-c8ac-403e-8cec-791956cd4fb9,1219,"Grunewald,  Berlin (14193)",129
+Wilmersdorf, Berlin (10707),476.000 9.520,2 Zimmer,50 m²,3. Geschoss,https://www.immowelt.de/expose/ab1d7253-046c-4f6f-b0ef-d10a4a4fc58e,1219,"Wilmersdorf,  Berlin (10707)",720
+Kreuzberg, Berlin (10965),439.000 7.569,2 Zimmer,58 m²,1. Geschoss,https://www.immowelt.de/expose/87f15e21-c26d-4c5a-8178-3b863c904eeb,1219,"Kreuzberg,  Berlin (10965)",846
+Kreuzberg, Berlin (10965),439.000 7.569,2 Zimmer,58 m²,1. Geschoss,https://www.immowelt.de/expose/d7c1f166-7f53-466d-9560-daa80ecffbcf,1219,"Kreuzberg,  Berlin (10965)",846
+ArchenholdstraÃŸe 39, Berlin (10315),240.000 3.787,2 Zimmer,"63,4 m²",4. Geschoss,https://www.immowelt.de/expose/25b73d07-bd3a-43fd-a5d1-2c5c02f027fd,1219,"ArchenholdstraÃŸe 39,  Berlin (10315)",0
+Rue Montesquieu 15, Berlin (13469),358.000 5.421,2 Zimmer,66 m²,1. Geschoss,https://www.immowelt.de/expose/3c2dc0c9-31ba-4f0b-b0ea-d874a13bc436,1219,"Rue Montesquieu 15,  Berlin (13469)",209
+Karlshorst, Berlin (10318),800.000 5.674,5 Zimmer,141 m²,2. Geschoss,https://www.immowelt.de/expose/0758e095-bed5-4412-a4fa-d8782e9f44ac,1219,"Karlshorst,  Berlin (10318)",259
+Reinickendorf, Berlin (13407),166.000 4.150,1 Zimmer,40 m²,1. Geschoss,https://www.immowelt.de/expose/79a9be64-94d1-439d-95e5-2b5f99db2133,1219,"Reinickendorf,  Berlin (13407)",70
+Lichtenrade, Berlin (12305),4.190.000 3.143,1.333 m²,1.262 m² Grundstuck,Unknown,https://www.immowelt.de/expose/19d96ce3-a6f7-4df3-8416-3e29124b847a,1219,"Lichtenrade,  Berlin (12305)",341
+SchÃ¶neberg, Berlin (10783),380.000 5.831,3 Zimmer,"65,2 m²",4. Geschoss,https://www.immowelt.de/expose/83ac72e7-ca80-45bb-805c-b6d9cf5e03c6,1219,"SchÃ¶neberg,  Berlin (10783)",0
+Wilhelmstadt, Berlin (13595),749.000 8.216,4 Zimmer,"91,2 m²",300 m² Grundstuck,https://www.immowelt.de/expose/b98403f0-9e8b-4836-9ce0-7a37b1604f70,1219,"Wilhelmstadt,  Berlin (13595)",215
+Wilmersdorf, Berlin (10713),385.000 8.750,2 Zimmer,44 m²,2. Geschoss,https://www.immowelt.de/expose/e8e42967-44f4-4f7a-aa1d-93ea19adda08,1219,"Wilmersdorf,  Berlin (10713)",720
+Kladow, Berlin (14089),698.000 4.390,6 Zimmer,159 m²,1.291 m² Grundstuck,https://www.immowelt.de/expose/74916b5b-c3c1-4ff6-a808-b72c6d13d73f,1219,"Kladow,  Berlin (14089)",116
+Rudow, Berlin (12357),350.000 4.118,3 Zimmer,85 m²,3. Geschoss,https://www.immowelt.de/expose/477a9f2d-79ff-4571-b3e4-56fa28076e3f,1219,"Rudow,  Berlin (12357)",391
+Stuhlinger StraÃŸe 12, Berlin (10318),330.000 4.125,3 Zimmer,80 m²,EG,https://www.immowelt.de/expose/f193ad4d-15e6-4845-892a-451f5045c3db,1219,"Stuhlinger StraÃŸe 12,  Berlin (10318)",0
+Mitte, Berlin (10119),1.150.000 8.582,5 Zimmer,134 m²,Unknown,https://www.immowelt.de/expose/d600dd27-6214-4598-a037-644a697eab25,1219,"Mitte,  Berlin (10119)",773
+Pestalozzistr. 11, Berlin (10625),3.965.000 14.499,5 Zimmer,"273,5 m²",Unknown,https://www.immowelt.de/expose/862e6678-1148-441c-93ad-1af21bc9a06d,1219,"Pestalozzistr. 11,  Berlin (10625)",1072
+Spandau, Berlin / Spandau (13585),179.000 5.594,1 Zimmer,32 m²,Unknown,https://www.immowelt.de/expose/177333fd-a574-43e6-b530-242222ece698,1219,"Spandau,  Berlin / Spandau (13585)",743
+Friedenau, Berlin (12161),525.000 6.176,3 Zimmer,85 m²,2. Geschoss,https://www.immowelt.de/expose/f0ada0a8-6a81-4d51-bcb7-7e2eea3820e7,1219,"Friedenau,  Berlin (12161)",674
+Charlottenburg, Berlin (14057),699.000 5.419,3 Zimmer,129 m²,Unknown,https://www.immowelt.de/expose/68a8d7a0-60fa-4075-bb17-f6b2e50bb10e,1219,"Charlottenburg,  Berlin (14057)",1343
+KÃ¶penick, Berlin (12555),99.000 1.980,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/42a492b3-0f40-4674-8476-41b7ff03e5d5,1219,"KÃ¶penick,  Berlin (12555)",0
+Kiehlufer 57, Berlin (12059),316.000 4.305,3 Zimmer,"73,4 m²",Unknown,https://www.immowelt.de/expose/2ab83e42-b3d4-485d-9ac9-5a0d1ccc0650,1219,"Kiehlufer 57,  Berlin (12059)",761
+Kiehlufer 57, Berlin (12059),290.000 5.129,2 Zimmer,"56,5 m²",Unknown,https://www.immowelt.de/expose/4a5dfefb-bfd9-4998-a226-07de7797b626,1219,"Kiehlufer 57,  Berlin (12059)",761
+SchmÃ¶ckwitz, Berlin (12527),Preis auf Anfrage,6 Zimmer,"143,5 m²",908 m² Grundstuck,https://www.immowelt.de/expose/1a2a8b3b-2122-4331-ba4e-7a1520cdedaa,1219,"SchmÃ¶ckwitz,  Berlin (12527)",0
+MarkelstraÃŸe 38, Berlin (12163),385.000 7.873,2 Zimmer,"48,9 m²",4. Geschoss,https://www.immowelt.de/expose/02cd4dfb-2872-451c-b00c-4857c6856507,1219,"MarkelstraÃŸe 38,  Berlin (12163)",0
+Prenzlauer Berg, Berlin (10435),870.000 9.006,3 Zimmer,"96,6 m²",1. Geschoss,https://www.immowelt.de/expose/edd0ca2a-258f-4c91-9156-51aafc7990e5,1219,"Prenzlauer Berg,  Berlin (10435)",836
+Badensche StraÃŸe 31, Berlin (10715),348.000 4.877,4 Zimmer,81 m²,5. Geschoss,https://www.immowelt.de/expose/e6d4c3f1-64b2-4c55-a391-1ee361345e6a,1219,"Badensche StraÃŸe 31,  Berlin (10715)",0
+Kaulsdorf, Berlin (12619),109.000 2.123,2 Zimmer,"51,3 m²",2. Geschoss,https://www.immowelt.de/expose/2320c829-7be9-4591-9eab-e9315315e498,1219,"Kaulsdorf,  Berlin (12619)",262
+Mitte, Berlin (10115),445.000 6.544,2 Zimmer,68 m²,1. Geschoss,https://www.immowelt.de/expose/19d9338f-519a-450b-8ec7-2551fcebe594,1219,"Mitte,  Berlin (10115)",773
+Kaulsdorf, Berlin (12619),593.470 3.208,6 Zimmer,185 m²,563 m² Grundstuck,https://www.immowelt.de/expose/ddc51a93-190a-41c8-a6a6-ba575294257b,1219,"Kaulsdorf,  Berlin (12619)",262
+Kaulsdorf, Berlin (12619),539.000 3.717,5 Zimmer,145 m²,562 m² Grundstuck,https://www.immowelt.de/expose/79fc994e-6587-4f9d-b08c-4bee306e4bb7,1219,"Kaulsdorf,  Berlin (12619)",262
+Kaulsdorf, Berlin (12619),555.000 3.828,5 Zimmer,145 m²,563 m² Grundstuck,https://www.immowelt.de/expose/468370d9-3b51-4f8d-a70c-85d2deb5e5a6,1219,"Kaulsdorf,  Berlin (12619)",262
+Kaulsdorf, Berlin (12619),715.355 3.312,8 Zimmer,216 m²,764 m² Grundstuck,https://www.immowelt.de/expose/942f605b-ada9-44fb-b438-604e342164f6,1219,"Kaulsdorf,  Berlin (12619)",262
+Wilmersdorf, Berlin (10717),269.000 6.555,1 Zimmer,41 m²,3. Geschoss,https://www.immowelt.de/expose/ef3cf30c-5227-4599-a714-1169e1d87c25,1219,"Wilmersdorf,  Berlin (10717)",720
+DonaustraÃŸe 10-11, Berlin (12043),780.217 8.820,3 Zimmer,"88,5 m²",5. Geschoss,https://www.immowelt.de/expose/81cef682-b492-4d53-84ce-c6baa94e989a,1219,"DonaustraÃŸe 10-11,  Berlin (12043)",0
+HermannstraÃŸe 232, Berlin (12049),285.600 3.709,3 Zimmer,77 m²,1. Geschoss,https://www.immowelt.de/expose/a80fb13a-ba32-4e01-a2bd-a62ca9731c20,1219,"HermannstraÃŸe 232,  Berlin (12049)",0
+Driesener StraÃŸe 3, Berlin (10439),262.500 4.038,1 Zimmer,65 m²,4. Geschoss,https://www.immowelt.de/expose/3d54cf57-7f32-492d-8958-0de06a4db41d,1219,"Driesener StraÃŸe 3,  Berlin (10439)",0
+BlucherstraÃŸe 37, Berlin (10961),444.150 4.725,3 Zimmer,94 m²,4. Geschoss,https://www.immowelt.de/expose/424c21cc-9c05-475c-b425-f53973df64af,1219,"BlucherstraÃŸe 37,  Berlin (10961)",0
+HuttenstraÃŸe 71, Berlin (10553),641.703 8.610,3 Zimmer,"74,5 m²",5. Geschoss,https://www.immowelt.de/expose/d2453a44-8710-4855-a296-9f93437a4010,1219,"HuttenstraÃŸe 71,  Berlin (10553)",0
+HuttenstraÃŸe 71, Berlin (10553),323.000 8.075,2 Zimmer,40 m²,5. Geschoss,https://www.immowelt.de/expose/43e89681-79a5-4da8-adbf-fa87fdd8a60a,1219,"HuttenstraÃŸe 71,  Berlin (10553)",0
+KonradshÃ¶he, Berlin (13505),820.000 8.200,4 Zimmer,100 m²,780 m² Grundstuck,https://www.immowelt.de/expose/e1e686a9-b1d6-4851-86e3-10de473d470e,1219,"KonradshÃ¶he,  Berlin (13505)",0
+SchmÃ¶ckwitz, Berlin (12527),450.000 4.500,3 Zimmer,100 m²,1.340 m² Grundstuck,https://www.immowelt.de/expose/0f7e231d-22aa-405d-9719-ca8f1700de01,1219,"SchmÃ¶ckwitz,  Berlin (12527)",0
+Kaulsdorf, Berlin (12623),389.000 7.481,3 Zimmer,52 m²,420 m² Grundstuck,https://www.immowelt.de/expose/9d324fde-35e7-4e5b-89d8-89975afb776b,1219,"Kaulsdorf,  Berlin (12623)",262
+Huttenstrasse 71 WE17, Berlin (10553),204.000 4.505,2 Zimmer,"45,3 m²",Unknown,https://www.immowelt.de/expose/feaf1075-1dc6-44d9-9df7-422fe8fa016b,1219,"Huttenstrasse 71 WE17,  Berlin (10553)",0
+Haupstrasse 101 PT45, Berlin (10827),274.958 8.715,2 Zimmer,"31,6 m²",5. Geschoss,https://www.immowelt.de/expose/40a83522-2d04-4f89-9e50-51e2337d67e9,1219,"Haupstrasse 101 PT45,  Berlin (10827)",0
+Huttenstrasse 71, Berlin (10553),314.634 7.971,2 Zimmer,"39,5 m²",6. Geschoss,https://www.immowelt.de/expose/39567b8d-878b-405b-bdb6-9b37af5f84e9,1219,"Huttenstrasse 71,  Berlin (10553)",933
+Kaiserin-Augusta-Allee 29 WE17, Berlin (10553),168.000 3.574,2 Zimmer,47 m²,Unknown,https://www.immowelt.de/expose/e2220e16-7cf6-45e5-a3f7-c7790a94cfa5,1219,"Kaiserin-Augusta-Allee 29 WE17,  Berlin (10553)",0
+Friedrichshain, Berlin (10245),795.000 6.795,4 Zimmer,117 m²,4. Geschoss,https://www.immowelt.de/expose/dc4bac08-524e-4187-b1fe-0b978c3c1aa4,1219,"Friedrichshain,  Berlin (10245)",1098
+Hakenfelde, Berlin (13587),549.000 3.144,6 Zimmer,"174,6 m²",837 m² Grundstuck,https://www.immowelt.de/expose/37f2b8f5-4729-432d-811c-e00664f36547,1219,"Hakenfelde,  Berlin (13587)",102
+Marzahn, Berlin (12685),750.000 5.000,6 Zimmer,150 m²,1.000 m² Grundstuck,https://www.immowelt.de/expose/4322f729-0b8f-4323-aaa4-e01dbfbd3171,1219,"Marzahn,  Berlin (12685)",171
+Marzahn, Berlin (12685),565.000 3.767,7 Zimmer,150 m²,560 m² Grundstuck,https://www.immowelt.de/expose/712db81c-af9b-44e4-a0ff-59e5fd81ca50,1219,"Marzahn,  Berlin (12685)",171
+Mitte, Berlin (10115),234.000 5.707,1 Zimmer,41 m²,1. Geschoss,https://www.immowelt.de/expose/c6d43fdb-40be-4854-ab21-cd5be1b5a253,1219,"Mitte,  Berlin (10115)",773
+BergmannstraÃŸe 27, Berlin (10961),310.000 5.903,2 Zimmer,"52,5 m²",EG,https://www.immowelt.de/expose/4991810c-fe5c-4068-a5cf-0d019d2ae1d0,1219,"BergmannstraÃŸe 27,  Berlin (10961)",0
+Uhlandstr. 184, Berlin (10623),359.000 7.010,2 Zimmer,"51,2 m²",Unknown,https://www.immowelt.de/expose/f0e5b2fa-f38c-4c7b-94b5-34e5b59b7b02,1219,"Uhlandstr. 184,  Berlin (10623)",967
+Karl-Stieler-StraÃŸe 19, Berlin / Steglitz (12167),499.000 5.445,3 Zimmer,"91,7 m²",EG,https://www.immowelt.de/expose/18fab22f-9b76-42c4-8692-1d5385453d4e,1219,"Karl-Stieler-StraÃŸe 19,  Berlin / Steglitz (12167)",0
+Tempelhof, Berlin (12101),695.000 5.697,5 Zimmer,122 m²,3. Geschoss,https://www.immowelt.de/expose/d577b099-448c-429c-ab92-94ac7cc1dd85,1219,"Tempelhof,  Berlin (12101)",384
+Bohnsdorf, Berlin (12526),470.000 6.144,3 Zimmer,"76,5 m²",1.201 m² Grundstuck,https://www.immowelt.de/expose/1a8eed01-a4a1-43c7-99b2-6499b0509583,1219,"Bohnsdorf,  Berlin (12526)",98
+LeibnizstraÃŸe 44, Berlin (10629),990.000 12.624,2 Zimmer,"78,4 m²",3. Geschoss,https://www.immowelt.de/expose/ff5f5969-5e3e-4795-a050-445ce074e601,1219,"LeibnizstraÃŸe 44,  Berlin (10629)",0
+LeibnizstraÃŸe 43, Berlin (10629),2.150.000 12.968,4 Zimmer,"183,4 m²",2. Geschoss,https://www.immowelt.de/expose/98744c46-013e-4eaa-99ff-cc4e477fc95d,1219,"LeibnizstraÃŸe 43,  Berlin (10629)",0
+LeibnizstraÃŸe 43, Berlin (10629),450.000 11.866,2 Zimmer,"49,4 m²",EG,https://www.immowelt.de/expose/0eaf7d41-38da-45a1-ac5d-9e6698db227a,1219,"LeibnizstraÃŸe 43,  Berlin (10629)",0
+LeibnizstraÃŸe 43, Berlin (10629),400.000 12.214,1 Zimmer,"45,9 m²",EG,https://www.immowelt.de/expose/35b74dbd-751a-4701-942f-1ee9c37f971f,1219,"LeibnizstraÃŸe 43,  Berlin (10629)",0
+Tiergarten, Berlin (10785),1.288.000 8.364,4 Zimmer,154 m²,3. Geschoss,https://www.immowelt.de/expose/d03e4bf2-d343-4199-88af-d883a2cf1129,1219,"Tiergarten,  Berlin (10785)",258
+Weserstr. 77, Berlin (12059),238.500 4.950,2 Zimmer,"48,2 m²",2. Geschoss,https://www.immowelt.de/expose/5d902a19-8316-4a9c-bcb9-341054a2b21d,1219,"Weserstr. 77,  Berlin (12059)",839
+Badensche StraÃŸe 31, Berlin (10715),309.000 4.013,4 Zimmer,77 m²,1. Geschoss,https://www.immowelt.de/expose/5c955d86-92d9-4aee-8770-01a651a46cf8,1219,"Badensche StraÃŸe 31,  Berlin (10715)",0
+AlbrechtstraÃŸe 62 A, Berlin (12167),239.000 4.121,2 Zimmer,58 m²,EG,https://www.immowelt.de/expose/52ea566e-3367-4946-82a1-d8291c145f93,1219,"AlbrechtstraÃŸe 62 A,  Berlin (12167)",0
+KoburgerstraÃŸe 14, Berlin (10825),249.000 5.413,1 Zimmer,46 m²,Unknown,https://www.immowelt.de/expose/bb2845ac-e234-4a09-822a-89365e18fbaf,1219,"KoburgerstraÃŸe 14,  Berlin (10825)",0
+Charlottenburg, Berlin / Charlottenburg (10629),1.100.000 7.006,4 Zimmer,157 m²,6. Geschoss,https://www.immowelt.de/expose/0bf24a8e-abfc-4fe0-9fbb-3d22806e0215,1219,"Charlottenburg,  Berlin / Charlottenburg (10629)",1343
+Friedrichsfelde, Berlin / Friedrichsfelde (10315),370.000 4.252,3 Zimmer,87 m²,4. Geschoss,https://www.immowelt.de/expose/a9900641-36b1-4bae-969b-8892d58aa72d,1219,"Friedrichsfelde,  Berlin / Friedrichsfelde (10315)",388
+Friedrichsfelde, Berlin / Friedrichsfelde (10315),370.000 4.252,3 Zimmer,87 m²,1. Geschoss,https://www.immowelt.de/expose/7581d6e3-bbe9-4c6f-8977-2fba70a5f0da,1219,"Friedrichsfelde,  Berlin / Friedrichsfelde (10315)",388
+Kilstetter StraÃŸe 34, Berlin (14167),425.000 4.991,"3,5 Zimmer","85,2 m²",3. Geschoss,https://www.immowelt.de/expose/b1e4899e-3bb2-41f8-abb2-4381ac38619a,1219,"Kilstetter StraÃŸe 34,  Berlin (14167)",0
+Mahlsdorf, Berlin (12623),515.000 4.640,4 Zimmer,111 m²,361 m² Grundstuck,https://www.immowelt.de/expose/e061c81b-9e0a-4143-8697-aa9fd4b9ecd0,1219,"Mahlsdorf,  Berlin (12623)",336
+Mahlsdorf, Berlin (12623),750.000 2.344,8 Zimmer,320 m²,880 m² Grundstuck,https://www.immowelt.de/expose/e744fb12-77c5-45cc-b61f-a3e51a380b03,1219,"Mahlsdorf,  Berlin (12623)",336
+Muggelheim, Berlin (12559),109.999 991,4 Zimmer,111 m²,Unknown,https://www.immowelt.de/expose/70220471-f880-4c02-8a42-91a323eace8b,1219,"Muggelheim,  Berlin (12559)",95
+KÃ¶penick, Berlin (12557),109.999 991,4 Zimmer,111 m²,Unknown,https://www.immowelt.de/expose/95f9c888-314c-4336-a42a-1e4fe8b50f2f,1219,"KÃ¶penick,  Berlin (12557)",0
+EiswerderstraÃŸe 10, Berlin (13585),408.000 6.450,2 Zimmer,"63,3 m²",4. Geschoss,https://www.immowelt.de/expose/0143fac6-14fc-47cc-b0d7-a30ec95b753b,1219,"EiswerderstraÃŸe 10,  Berlin (13585)",0
+EiswerderstraÃŸe 10, Berlin (13585),395.000 6.245,2 Zimmer,"63,3 m²",3. Geschoss,https://www.immowelt.de/expose/5a187dc6-2c7d-4d5f-a140-c08e661d1d21,1219,"EiswerderstraÃŸe 10,  Berlin (13585)",0
+EiswerderstraÃŸe 10A, Berlin (13585),228.000 7.895,1 Zimmer,"28,9 m²",3. Geschoss,https://www.immowelt.de/expose/a25c278a-9fac-4c4f-830a-943d7eb8d422,1219,"EiswerderstraÃŸe 10A,  Berlin (13585)",0
+EiswerderstraÃŸe 10A, Berlin (13585),222.000 7.687,1 Zimmer,"28,9 m²",2. Geschoss,https://www.immowelt.de/expose/983fba80-a756-42fc-ac9a-43c5797d9127,1219,"EiswerderstraÃŸe 10A,  Berlin (13585)",0
+Wannsee, Wannsee (14109),2.450.000 11.136,7 Zimmer,220 m²,630 m² Grundstuck,https://www.immowelt.de/expose/1ddf69be-edda-4ddb-95af-f3a183bb5f90,1219,"Wannsee,  Wannsee (14109)",107
+Mitte, Berlin (10117),695.000 8.688,2 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/dca53d2a-e749-45ea-aa77-d4d5c7059d61,1219,"Mitte,  Berlin (10117)",773
+Friedrichshain, Berlin (10243),1.350.000 11.492,3 Zimmer,124 m²,4. Geschoss,https://www.immowelt.de/expose/eecbb489-e8b2-4392-80eb-03b970606acb,1219,"Friedrichshain,  Berlin (10243)",1098
+Gesundbrunnen, Berlin (13359),326.700 4.995,2 Zimmer,"65,4 m²",EG,https://www.immowelt.de/expose/08024ca3-db9e-451d-81b1-2f00ee22ca62,1219,"Gesundbrunnen,  Berlin (13359)",688
+Bruchsaler StraÃŸe 18, Berlin (10715),199.000 5.327,1 Zimmer,"37,4 m²",EG,https://www.immowelt.de/expose/34021797-33e3-4bf8-8241-e66f11e9e4ee,1219,"Bruchsaler StraÃŸe 18,  Berlin (10715)",0
+Bruchsaler StraÃŸe 18, Berlin (10715),199.000 5.415,1 Zimmer,"36,8 m²",EG,https://www.immowelt.de/expose/88e5170b-ccb2-4f67-9d9b-4dbb3ee3a2ec,1219,"Bruchsaler StraÃŸe 18,  Berlin (10715)",0
+Wilmersdorf, Berlin (10717),1.225.000 6.282,5 Zimmer,195 m²,5. Geschoss,https://www.immowelt.de/expose/d8491a80-41c0-4764-841e-98d7044d21f4,1219,"Wilmersdorf,  Berlin (10717)",720
+Moabit, Berlin (10555),199.000 5.378,1 Zimmer,37 m²,1. Geschoss,https://www.immowelt.de/expose/45339e51-e6dd-4aa4-a0c7-d4d4aa310d4a,1219,"Moabit,  Berlin (10555)",1001
+WichertstraÃŸe 43, Berlin (10439),375.000 7.370,2 Zimmer,"50,9 m²",2. Geschoss,https://www.immowelt.de/expose/0896533d-4be5-47d9-8c87-125be4085a35,1219,"WichertstraÃŸe 43,  Berlin (10439)",0
+KÃ¶penick, Berlin (12557),1.100.000 3.492,8 Zimmer,336 m²,1.389 m² Grundstuck,https://www.immowelt.de/expose/1c5c4a1a-a22d-45cf-9ca3-e86ea72cf725,1219,"KÃ¶penick,  Berlin (12557)",0
+Mariendorf, Berlin (12107),568.000 4.897,3 Zimmer,116 m²,415 m² Grundstuck,https://www.immowelt.de/expose/ccf198ff-f89a-490c-8936-9f3e656480c7,1219,"Mariendorf,  Berlin (12107)",433
+Wilmersdorf, Berlin (10719),1.699.000 6.715,6 Zimmer,253 m²,Unknown,https://www.immowelt.de/expose/577daf88-f396-45f5-b8b3-2e85393beeec,1219,"Wilmersdorf,  Berlin (10719)",720
+Mahlsdorf, Berlin / Mahlsdorf (12623),658.000 3.104,8 Zimmer,212 m²,1.112 m² Grundstuck,https://www.immowelt.de/expose/cb8dac61-1587-406e-990b-8904b761dedf,1219,"Mahlsdorf,  Berlin / Mahlsdorf (12623)",336
+Lichterfelde, Berlin (12203),229.000 3.461,2 Zimmer,"66,2 m²",1. Geschoss,https://www.immowelt.de/expose/f0056dfc-1805-45d2-9261-fed2144e63e5,1219,"Lichterfelde,  Berlin (12203)",177
+Nikolassee, Berlin (14129),4.700.000 7.508,10 Zimmer,626 m²,1.500 m² Grundstuck,https://www.immowelt.de/expose/a99079dc-0c16-42e8-99e6-49d4bd9c63cf,1219,"Nikolassee,  Berlin (14129)",156
+GoethestraÃŸe 38, Berlin (13086),1.950.000 3.234,603 m²,324 m² Grundstuck,Unknown,https://www.immowelt.de/expose/1a90a7b6-2c85-402a-8d3b-b15a7d32e91b,1219,"GoethestraÃŸe 38,  Berlin (13086)",0
+Britz, Berlin (12359),749.000 7.133,5 Zimmer,105 m²,185 m² Grundstuck,https://www.immowelt.de/expose/1ced9e8e-8210-429e-baa9-c44e032e513b,1219,"Britz,  Berlin (12359)",238
+Steglitz, Berlin (12169),215.000 3.154,"2,5 Zimmer","68,2 m²",Unknown,https://www.immowelt.de/expose/1e29248a-7dae-4c04-a294-5dd7c953348d,1219,"Steglitz,  Berlin (12169)",1036
+Schlachtensee, Berlin (14129),749.000 7.490,4 Zimmer,100 m²,350 m² Grundstuck,https://www.immowelt.de/expose/82483344-0015-43c5-9358-2e8c7bf2c279,1219,"Schlachtensee,  Berlin (14129)",109
+Horstweg 33, Berlin (14059),585.000 5.881,3 Zimmer,"99,5 m²",3. Geschoss,https://www.immowelt.de/expose/9aff5913-b805-42d3-a99b-6233a944a701,1219,"Horstweg 33,  Berlin (14059)",874
+Tempelhof, Berlin (12101),1.106.010 9.000,3 Zimmer,"122,9 m²",5. Geschoss,https://www.immowelt.de/expose/52bfa75d-e0f2-48c7-9aef-2be18dbb3436,1219,"Tempelhof,  Berlin (12101)",384
+SchÃ¶nholzer StraÃŸe 8a, Berlin (13187),445.000 5.745,2 Zimmer,"77,5 m²",Unknown,https://www.immowelt.de/expose/39fba013-aed5-4434-9994-ec82d4823e65,1219,"SchÃ¶nholzer StraÃŸe 8a,  Berlin (13187)",0
+Biesdorf, Berlin (12683),739.000 2.593,10 Zimmer,285 m²,970 m² Grundstuck,https://www.immowelt.de/expose/134b8e5c-6e30-4796-b3ea-c37d1e1eaaf9,1219,"Biesdorf,  Berlin (12683)",204
+MullerstraÃŸe 29, Berlin (12207),210.000 2.800,2 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/9bae2e06-8363-4f0c-bbf6-42316806e2f5,1219,"MullerstraÃŸe 29,  Berlin (12207)",0
+Hermsdorf, Berlin (13465),575.000 8.959,3 Zimmer,"64,2 m²",831 m² Grundstuck,https://www.immowelt.de/expose/f77d2077-7b5b-47a8-b196-ed30e269a9a4,1219,"Hermsdorf,  Berlin (13465)",223
+Grunewald, Berlin (14193),5.250.000 7.778,13 Zimmer,675 m²,1.510 m² Grundstuck,https://www.immowelt.de/expose/a748f357-48d8-4117-a2f1-c5dd67e77b2d,1219,"Grunewald,  Berlin (14193)",129
+Tiergarten, Berlin (10785),797.000 8.249,2 Zimmer,"96,6 m²",5. Geschoss,https://www.immowelt.de/expose/2471110a-73d0-4a53-af3d-4063b3f4aff7,1219,"Tiergarten,  Berlin (10785)",258
+Moabit, Berlin (10557),499.000 10.396,2 Zimmer,48 m²,2. Geschoss,https://www.immowelt.de/expose/9ba343d2-b06d-4381-8517-61dc083b4d92,1219,"Moabit,  Berlin (10557)",1001
+Simpsonweg 2b, Berlin (12305),200.000 3.922,2 Zimmer,51 m²,1. Geschoss,https://www.immowelt.de/expose/be07b55d-b4af-4185-abbb-70adaab3c794,1219,"Simpsonweg 2b,  Berlin (12305)",127
+Mahlsdorf, Berlin (12623),379.500 4.841,3 Zimmer,"78,4 m²",440 m² Grundstuck,https://www.immowelt.de/expose/110e4d78-941e-4b4c-bf7e-24042c21e46a,1219,"Mahlsdorf,  Berlin (12623)",336
+OberschÃ¶neweide, Berlin (12459),300.000 3.150,3 Zimmer,"95,3 m²",Unknown,https://www.immowelt.de/expose/dbd7bfe6-0db7-4224-bf81-dae17e566b73,1219,"OberschÃ¶neweide,  Berlin (12459)",0
+Kaiserdamm 109, Berlin (14057),950.000 5.764,5 Zimmer,"164,8 m²",3. Geschoss,https://www.immowelt.de/expose/2ff6ce93-144a-4439-972d-f12375286b28,1219,"Kaiserdamm 109,  Berlin (14057)",850
+Wilmersdorf, Berlin (10789),280000,2 Zimmer,"48,3 m²",5. Geschoss,https://www.immowelt.de/expose/234189d8-8cfb-4730-bbf9-cef3f9819097,1219,"Wilmersdorf,  Berlin (10789)",720
+Gatow, Berlin (14089),239.000 2.779,2 Zimmer,86 m²,538 m² Grundstuck,https://www.immowelt.de/expose/06483bf0-fe75-4354-9d20-96398af59eba,1219,"Gatow,  Berlin (14089)",14
+Friedrichshain, Berlin (10245),995.000 7.316,4 Zimmer,136 m²,2. Geschoss,https://www.immowelt.de/expose/a026301d-e267-40b7-a79c-e21fa0edd45e,1219,"Friedrichshain,  Berlin (10245)",1098
+Grunau, Berlin-KÃ¶penick (12527),229.000 4.010,2 Zimmer,"57,1 m²",Unknown,https://www.immowelt.de/expose/08cbdd09-3592-4430-8bcc-92694c0a9bfe,1219,"Grunau,  Berlin-KÃ¶penick (12527)",0
+Grunau, Berlin-KÃ¶penick (12527),229.000 4.010,2 Zimmer,"57,1 m²",2. Geschoss,https://www.immowelt.de/expose/ffac7a59-aa93-44ff-8e8c-559da4f991c8,1219,"Grunau,  Berlin-KÃ¶penick (12527)",0
+Mahlsdorf, Berlin (12623),610.000 4.067,150 m²,500 m² Grundstuck,Unknown,https://www.immowelt.de/expose/65599788-f7cf-46c8-8f66-803dff0022c8,1219,"Mahlsdorf,  Berlin (12623)",336
+Kreuzberg, Berlin (10997),3.000.000 2.333,30 Zimmer,1.286 m²,500 m² Grundstuck,https://www.immowelt.de/expose/78c5aef8-7907-497c-bed7-d5370968f3aa,1219,"Kreuzberg,  Berlin (10997)",846
+LoschmidtstraÃŸe 16, Berlin (10587),160.000 5.151,1 Zimmer,"31,1 m²",7. Geschoss,https://www.immowelt.de/expose/be5b6586-a2f7-463e-a89d-9d28b1d6eab9,1219,"LoschmidtstraÃŸe 16,  Berlin (10587)",0
+LoschmidtstraÃŸe 16, Berlin (10587),250.000 4.601,2 Zimmer,"54,3 m²",3. Geschoss,https://www.immowelt.de/expose/a32ae9c2-b328-459e-8476-145854109153,1219,"LoschmidtstraÃŸe 16,  Berlin (10587)",0
+HoffmannstraÃŸe 14, Berlin (12489),489.000 6.255,3 Zimmer,"78,2 m²",3. Geschoss,https://www.immowelt.de/expose/a635eb20-fd11-4c2f-8fa4-57abfcd18f38,1219,"HoffmannstraÃŸe 14,  Berlin (12489)",0
+HoffmannstraÃŸe 14, Berlin (12489),449.000 5.743,3 Zimmer,"78,2 m²",2. Geschoss,https://www.immowelt.de/expose/57353760-ebaf-46ad-9803-906ede69bc35,1219,"HoffmannstraÃŸe 14,  Berlin (12489)",0
+Mitte, Berlin (10117),1.200.000 7.229,4 Zimmer,166 m²,4. Geschoss,https://www.immowelt.de/expose/5b93d449-7931-4268-b64e-76fac2216161,1219,"Mitte,  Berlin (10117)",773
+Goslarer Ufer 3, Berlin (10589),549.000 7.957,2 Zimmer,69 m²,3. Geschoss,https://www.immowelt.de/expose/fc8bbd30-052b-4ee9-8f71-dc533b7866b8,1219,"Goslarer Ufer 3,  Berlin (10589)",410
+Tiergarten, Berlin / Tiergarten (10785),2.490.000 10.163,4 Zimmer,245 m²,4. Geschoss,https://www.immowelt.de/expose/6ab59931-ad62-41cb-a001-d1e8bede776a,1219,"Tiergarten,  Berlin / Tiergarten (10785)",278
+SchmiljanstraÃŸe 8, Berlin (12161),1.471.000 6.001,9 Zimmer,"245,1 m²",4. Geschoss,https://www.immowelt.de/expose/8a7cbc90-b566-48de-bc07-40c5b7d3982a,1219,"SchmiljanstraÃŸe 8,  Berlin (12161)",0
+SchmiljanstraÃŸe 7, Berlin (12161),1.120.000 6.068,7 Zimmer,"184,6 m²",4. Geschoss,https://www.immowelt.de/expose/13141e7e-d746-4ae3-a6b7-56a46cacd013,1219,"SchmiljanstraÃŸe 7,  Berlin (12161)",0
+Wedding, Berlin / Wedding (13353),195.000 3.679,1 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/816da036-45a2-4bde-98d5-85576d339bcc,1219,"Wedding,  Berlin / Wedding (13353)",960
+Charlottenburg, Berlin (10629),1.985.000 7.462,7 Zimmer,266 m²,frei ab sofort,https://www.immowelt.de/expose/d5927771-2278-426e-9aab-2ad3c1d2f502,1219,"Charlottenburg,  Berlin (10629)",1343
+PannierstraÃŸe 53a, Berlin (12047),292.000 4.865,2 Zimmer,60 m²,3. Geschoss,https://www.immowelt.de/expose/135e89ea-389b-40fd-ab0d-1e478f927102,1219,"PannierstraÃŸe 53a,  Berlin (12047)",0
+PannierstraÃŸe 53a, Berlin (12047),410.000 4.628,3 Zimmer,"88,6 m²",1. Geschoss,https://www.immowelt.de/expose/83e1df41-452f-4db3-98dd-fb37c8fe1dca,1219,"PannierstraÃŸe 53a,  Berlin (12047)",0
+Schlesische StraÃŸe 16, Berlin (10997),392.000 4.774,3 Zimmer,"82,1 m²",3. Geschoss,https://www.immowelt.de/expose/9bba57a4-a666-4bb2-b69d-cb5691116fb2,1219,"Schlesische StraÃŸe 16,  Berlin (10997)",0
+KÃ¶penick, Berlin (12555),494.000 6.861,3 Zimmer,72 m²,1. Geschoss,https://www.immowelt.de/expose/86ec68c7-3829-4f65-83f2-f42261057c20,1219,"KÃ¶penick,  Berlin (12555)",0
+CuvrystraÃŸe 49, Berlin (10997),220.000 4.783,2 Zimmer,46 m²,4. Geschoss,https://www.immowelt.de/expose/a0480f37-82b3-4beb-9afd-4ad382774e59,1219,"CuvrystraÃŸe 49,  Berlin (10997)",0
+CuvrystraÃŸe 49, Berlin (10997),220.000 4.490,2 Zimmer,49 m²,2. Geschoss,https://www.immowelt.de/expose/355a85d0-759d-4433-9403-569e0c89a5f4,1219,"CuvrystraÃŸe 49,  Berlin (10997)",0
+Schlesische StraÃŸe 16, Berlin (10997),380.000 5.956,2 Zimmer,"63,8 m²",4. Geschoss,https://www.immowelt.de/expose/00c2251f-6e2f-4c48-85bb-6c73c7bbe8f3,1219,"Schlesische StraÃŸe 16,  Berlin (10997)",0
+Schlesische StraÃŸe 16, Berlin (10997),390.000 5.906,2 Zimmer,66 m²,3. Geschoss,https://www.immowelt.de/expose/777d2f41-f37c-4290-a75c-da0b315c4dca,1219,"Schlesische StraÃŸe 16,  Berlin (10997)",0
+Schlesische StraÃŸe 16, Berlin (10997),288.000 4.692,2 Zimmer,"61,4 m²",1. Geschoss,https://www.immowelt.de/expose/7ff892d4-3e30-4cfb-8d64-29d3a87a45a2,1219,"Schlesische StraÃŸe 16,  Berlin (10997)",0
+Friedenau, Berlin (14197),495.000 5.323,3 Zimmer,93 m²,3. Geschoss,https://www.immowelt.de/expose/da481fb2-7732-4a6f-bfc5-6b29171285d2,1219,"Friedenau,  Berlin (14197)",674
+Grunewald, Berlin (14193),625.000 5.165,3 Zimmer,121 m²,2. Geschoss,https://www.immowelt.de/expose/70499b28-9640-46e2-b53f-06c8b4668c9e,1219,"Grunewald,  Berlin (14193)",129
+Charlottenburg, Berlin (10629),745.000 5.665,4 Zimmer,"131,5 m²",EG,https://www.immowelt.de/expose/6d56a10a-d035-4593-ab20-9f95636b537c,1219,"Charlottenburg,  Berlin (10629)",1343
+TogostraÃŸe 16, Berlin (13351),425.000 3.461,4 Zimmer,"122,8 m²",2. Geschoss,https://www.immowelt.de/expose/dd480acf-7d30-45a6-99e8-4a0bcea2ed38,1219,"TogostraÃŸe 16,  Berlin (13351)",0
+TogostraÃŸe 16, Berlin (13351),208.000 3.890,2 Zimmer,"53,5 m²",EG,https://www.immowelt.de/expose/5d762fe8-77c5-4686-9052-f7c764b620a7,1219,"TogostraÃŸe 16,  Berlin (13351)",0
+TogostraÃŸe 16, Berlin (13351),245.000 4.282,2 Zimmer,"57,2 m²",3. Geschoss,https://www.immowelt.de/expose/0f6a6b97-c8d0-4294-ad0c-36c20b5a878d,1219,"TogostraÃŸe 16,  Berlin (13351)",0
+TogostraÃŸe 16, Berlin (13351),258.000 4.159,2 Zimmer,62 m²,4. Geschoss,https://www.immowelt.de/expose/04ba458c-b2bf-4737-8047-98f68704325e,1219,"TogostraÃŸe 16,  Berlin (13351)",0
+TransvaalstraÃŸe 11, Berlin (13351),252.000 3.940,2 Zimmer,64 m²,4. Geschoss,https://www.immowelt.de/expose/d5eddf63-e9a6-4821-900e-b5096735ab00,1219,"TransvaalstraÃŸe 11,  Berlin (13351)",0
+TransvaalstraÃŸe 11, Berlin (13351),198.000 3.763,2 Zimmer,"52,6 m²",4. Geschoss,https://www.immowelt.de/expose/93927a49-d1a2-45c3-a866-3369ab3e0bf3,1219,"TransvaalstraÃŸe 11,  Berlin (13351)",0
+Prenzlauer Berg, Berlin (10407),225.000 7.031,"1,5 Zimmer",32 m²,EG,https://www.immowelt.de/expose/ca2e25a8-c2d7-43c8-9855-9c2902d7425a,1219,"Prenzlauer Berg,  Berlin (10407)",836
+Heiligensee, Berlin / Frohnau (13465),499.000 4.332,2 Zimmer,"115,2 m²",2. Geschoss,https://www.immowelt.de/expose/53657431-11eb-439e-872c-39d8c2f5e141,1219,"Heiligensee,  Berlin / Frohnau (13465)",0
+EiswerderstraÃŸe 10, Berlin (13585),445.000 7.908,2 Zimmer,"56,3 m²",5. Geschoss,https://www.immowelt.de/expose/5936e304-e21f-428b-9c77-b6f6ac6b47f9,1219,"EiswerderstraÃŸe 10,  Berlin (13585)",0
+EiswerderstraÃŸe 10, Berlin (13585),1.088.000 6.981,4 Zimmer,"155,9 m²",4. Geschoss,https://www.immowelt.de/expose/b9794c69-b66d-4d49-a9d7-d0c4d2304cea,1219,"EiswerderstraÃŸe 10,  Berlin (13585)",0
+EiswerderstraÃŸe 10F, Berlin (13585),1.388.000 9.958,4 Zimmer,"139,4 m²",4. Geschoss,https://www.immowelt.de/expose/9e4a3480-20af-441e-8e50-bba6e72847ca,1219,"EiswerderstraÃŸe 10F,  Berlin (13585)",0
+Moabit, Berlin (10553),275.000 5.612,2 Zimmer,49 m²,Unknown,https://www.immowelt.de/expose/b764a4f7-0d6b-4b49-9edd-3c3c9175eda0,1219,"Moabit,  Berlin (10553)",1001
+Moabit, Berlin (10553),350.000 4.268,3 Zimmer,82 m²,Unknown,https://www.immowelt.de/expose/d7e0ea8e-5417-4e69-a221-890e60599b86,1219,"Moabit,  Berlin (10553)",1001
+EiswerderstraÃŸe 10A, Berlin (13585),962.000 6.341,4 Zimmer,"151,7 m²",EG,https://www.immowelt.de/expose/3021d241-49e6-4572-8a54-3356a1511f8c,1219,"EiswerderstraÃŸe 10A,  Berlin (13585)",0
+Wilmersdorf, Berlin (10713),750.000 7.732,3 Zimmer,97 m²,3. Geschoss,https://www.immowelt.de/expose/477607a4-048d-4825-b0a8-e3239672cd1d,1219,"Wilmersdorf,  Berlin (10713)",720
+Lichtenrade, Berlin (12309),719.000 7.568,4 Zimmer,95 m²,962 m² Grundstuck,https://www.immowelt.de/expose/d2804401-41a4-4cc9-b250-f7b0de011dc3,1219,"Lichtenrade,  Berlin (12309)",341
+SchmiljanstraÃŸe 7, Berlin (12161),595.000 6.358,3 Zimmer,"93,6 m²",3. Geschoss,https://www.immowelt.de/expose/f698f067-6837-4ff6-9651-a5361cbbfaed,1219,"SchmiljanstraÃŸe 7,  Berlin (12161)",0
+Charlottenburg, Berlin (10589),569.000 8.079,2 Zimmer,"70,4 m²",4. Geschoss,https://www.immowelt.de/expose/014a2e83-b879-47bf-a297-209d3625ed2a,1219,"Charlottenburg,  Berlin (10589)",1343
+Glasgower Str. 5 / Ofener Str. 3, Berlin (13349),778.000 1.990,14 Zimmer,391 m²,4. Geschoss,https://www.immowelt.de/expose/ef36b04a-700c-4ed9-8426-0bff70616977,1219,"Glasgower Str. 5 / Ofener Str. 3,  Berlin (13349)",0
+Hellersdorf, Berlin (12621),749.500 6.352,118 m²,610 m² Grundstuck,Unknown,https://www.immowelt.de/expose/68a2d414-74f0-46f5-b3f1-9a77999863e0,1219,"Hellersdorf,  Berlin (12621)",303
+Hellersdorf, Berlin (12621),1.414.000 4.419,8 Zimmer,320 m²,610 m² Grundstuck,https://www.immowelt.de/expose/44f0b795-289c-40a1-a87f-1a7b09c9f08f,1219,"Hellersdorf,  Berlin (12621)",303
+Wedding, Berlin (13407),229.800 4.256,2 Zimmer,54 m²,frei ab sofort,https://www.immowelt.de/expose/4bdb4ac1-523e-4539-bbfd-e76f83980e81,1219,"Wedding,  Berlin (13407)",960
+Schottburger StraÃŸe 4, Berlin (12305),1.299.999 6.063,7 Zimmer,"214,4 m²",805 m² Grundstuck,https://www.immowelt.de/expose/a2993541-d7ed-4db6-8e42-e17228a28346,1219,"Schottburger StraÃŸe 4,  Berlin (12305)",0
+Dahlem, Berlin (14195),Preis auf Anfrage,3.058 m²,3.244 m² Grundstuck,Unknown,https://www.immowelt.de/expose/5667e09c-be8a-4b18-ba13-72337a782c1b,1219,"Dahlem,  Berlin (14195)",209
+WeiÃŸensee, Berlin (13088),289.000 5.352,2 Zimmer,54 m²,Unknown,https://www.immowelt.de/expose/c2ebc3d4-477c-4a0b-9fc8-4cb6eefc526c,1219,"WeiÃŸensee,  Berlin (13088)",0
+Lichtenrade, Berlin (12307),659.000 3.533,7 Zimmer,"186,5 m²",608 m² Grundstuck,https://www.immowelt.de/expose/ae0c34c6-7aa9-48c5-bb48-730d853fddf0,1219,"Lichtenrade,  Berlin (12307)",341
+Schmargendorf, Berlin (14199),1.199.000 7.267,5 Zimmer,165 m²,Unknown,https://www.immowelt.de/expose/8d73ecab-62f7-4f21-a568-22646376f1dc,1219,"Schmargendorf,  Berlin (14199)",321
+Urbanstrasse 133, Berlin (10967),699.000 8.800,5 Zimmer,85 m²,3. Geschoss,https://www.immowelt.de/expose/3a6abd28-6edd-400b-a272-9420baaa08ed,1219,"Urbanstrasse 133,  Berlin (10967)",1083
+Gesundbrunnen, Berlin (13359),269.900 4.994,2 Zimmer,54 m²,EG,https://www.immowelt.de/expose/e81adc4e-6a0a-4ea1-a5a3-5fb50e8a26b2,1219,"Gesundbrunnen,  Berlin (13359)",688
+Wrangelstrasse 54, Berlin (10997),549.000 7.800,4 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/8c42dfcd-8cd6-4101-99d6-a0137b2484c5,1219,"Wrangelstrasse 54,  Berlin (10997)",962
+Frohnau, Berlin (13465),1.590.000 7.227,7 Zimmer,220 m²,988 m² Grundstuck,https://www.immowelt.de/expose/2f69f53e-6114-4b3f-aebe-dba3c82078d6,1219,"Frohnau,  Berlin (13465)",277
+WeiÃŸensee, Berlin (13088),252.000 9.194,1 Zimmer,"27,4 m²",frei ab sofort,https://www.immowelt.de/expose/293b052b-cedc-40c7-b0c0-d15fc80bcf59,1219,"WeiÃŸensee,  Berlin (13088)",0
+Adlershof, Berlin (12489),639.000 7.261,4 Zimmer,88 m²,5. Geschoss,https://www.immowelt.de/expose/d5352b95-e729-4f60-94fb-c0393578df6f,1219,"Adlershof,  Berlin (12489)",400
+Wilmersdorf, Berlin (10719),840.000 7.517,3 Zimmer,"111,8 m²",3. Geschoss,https://www.immowelt.de/expose/2b05be09-1906-44e5-b644-59733c8fadd4,1219,"Wilmersdorf,  Berlin (10719)",720
+Johannisthal, Berlin (D) Johannisthal (12487),1.980.000 3.837,10 Zimmer,516 m²,859 m² Grundstuck,https://www.immowelt.de/expose/e31a1165-9194-4d1b-b9fc-96d449787860,1219,"Johannisthal,  Berlin (D) Johannisthal (12487)",273
+Steglitz, Berlin (12247),499.000 1.663,6 Zimmer,300 m²,500 m² Grundstuck,https://www.immowelt.de/expose/6a357f67-d4bb-4435-b640-ef75664367ac,1219,"Steglitz,  Berlin (12247)",1036
+Rudi-Arndt-StraÃŸe 20, Berlin (10407),240.000 4.800,2 Zimmer,50 m²,2. Geschoss,https://www.immowelt.de/expose/437683c0-ea9e-412a-a4c4-e3a2d74f27ab,1219,"Rudi-Arndt-StraÃŸe 20,  Berlin (10407)",0
+Maybachufer 20, Berlin (12047),359.000 5.279,2 Zimmer,68 m²,EG,https://www.immowelt.de/expose/b47cab67-c65e-4f74-8380-1540633fbe49,1219,"Maybachufer 20,  Berlin (12047)",1520
+Wilmersdorf, Berlin (10707),3.490.000 14.073,7 Zimmer,248 m²,2. Geschoss,https://www.immowelt.de/expose/539b1747-5a8a-408a-9c2c-9fd53942334c,1219,"Wilmersdorf,  Berlin (10707)",720
+Wedding, Berlin (13353),189.000 3.938,2 Zimmer,48 m²,EG,https://www.immowelt.de/expose/3b436de2-32cd-4cc2-b0f1-e6fff62a44c0,1219,"Wedding,  Berlin (13353)",960
+Friedrichshain, Berlin (10247),529.000 5.901,"2,5 Zimmer","89,6 m²",4. Geschoss,https://www.immowelt.de/expose/017e6a6d-487f-4b97-b13f-548d1e015d88,1219,"Friedrichshain,  Berlin (10247)",1098
+Kantstr. 134B, Berlin / Charlottenburg (10625),375.000 5.357,2 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/06b13fee-eb76-490c-9872-a6148b4c92e3,1219,"Kantstr. 134B,  Berlin / Charlottenburg (10625)",1133
+Wilmersdorf, Berlin (10719),1.699.000 6.715,6 Zimmer,253 m²,90 m² Grundstuck,https://www.immowelt.de/expose/643d8755-10b7-49ab-bed8-8bddb8c7d401,1219,"Wilmersdorf,  Berlin (10719)",720
+Otto-Suhr-Allee 145, Berlin (10585),779.900 3.998,6 Zimmer,"195,1 m²",4. Geschoss,https://www.immowelt.de/expose/e94f23ac-c765-4ac2-8b15-e776761a995b,1219,"Otto-Suhr-Allee 145,  Berlin (10585)",731
+Halensee, Berlin (10711),1.175.000 5.000,7 Zimmer,235 m²,5. Geschoss,https://www.immowelt.de/expose/f380e548-ada7-4ce3-a28b-394cf5c24b67,1219,"Halensee,  Berlin (10711)",410
+Tegel, Berlin (13509),219.000 2.595,4 Zimmer,"84,4 m²",EG,https://www.immowelt.de/expose/343f64d5-43e4-4b53-be4a-b4313a27bd01,1219,"Tegel,  Berlin (13509)",466
+Friedrichshain, Berlin (10247),239.000 6.055,2 Zimmer,"39,5 m²",2. Geschoss,https://www.immowelt.de/expose/3d214e22-5335-4075-af60-4c735b5feabc,1219,"Friedrichshain,  Berlin (10247)",1098
+Britz, Berlin (12347),495.000 4.486,4 Zimmer,"110,4 m²",4. Geschoss,https://www.immowelt.de/expose/8a7fe33e-34c9-434f-9b6c-8fa52731c055,1219,"Britz,  Berlin (12347)",238
+Wilmersdorf, Berlin (10707),279.000 5.936,2 Zimmer,47 m²,Unknown,https://www.immowelt.de/expose/1a5bbe2b-5526-4fd1-82f2-b77388043ef0,1219,"Wilmersdorf,  Berlin (10707)",720
+Brunhildstr. 10, Berlin (10829),379.000 5.634,3 Zimmer,"67,3 m²",EG,https://www.immowelt.de/expose/f97bce6e-3750-4383-a951-e506ba6d9642,1219,"Brunhildstr. 10,  Berlin (10829)",854
+Hakenfelde, Berlin / Hakenfelde (13587),194.000 3.593,2 Zimmer,54 m²,Unknown,https://www.immowelt.de/expose/ebc78c19-7dff-4329-bf1f-dec2bf28845d,1219,"Hakenfelde,  Berlin / Hakenfelde (13587)",47
+WeiÃŸensee, Berlin (13088),330.000 5.685,2 Zimmer,"58,1 m²",2. Geschoss,https://www.immowelt.de/expose/6a244295-9657-4ffb-a131-6216754e1c2b,1219,"WeiÃŸensee,  Berlin (13088)",0
+Gesundbrunnen, Berlin (13357),790.000 2.469,5 Zimmer,320 m²,5. Geschoss,https://www.immowelt.de/expose/e2ff21a0-370f-4136-b734-aaf902883e79,1219,"Gesundbrunnen,  Berlin (13357)",688
+NeukÃ¶lln, Berlin (12055),275.000 5.729,2 Zimmer,48 m²,Unknown,https://www.immowelt.de/expose/2e60510b-aa02-45af-bc65-43acda4ff04e,1219,"NeukÃ¶lln,  Berlin (12055)",0
+Grunewald, Berlin / Grunewald (14193),3.777.000 12.565,6 Zimmer,"300,6 m²",687 m² Grundstuck,https://www.immowelt.de/expose/bfa77a56-4159-4c06-bef7-68d9b593b152,1219,"Grunewald,  Berlin / Grunewald (14193)",129
+Kaiserin-Augusta-Allee 29 WE17, Berlin (10553),168.000 3.574,2 Zimmer,47 m²,Unknown,https://www.immowelt.de/expose/c1c7b203-b4e9-4b06-a203-78c4aba1f298,1219,"Kaiserin-Augusta-Allee 29 WE17,  Berlin (10553)",0
+Reinickendorf, Berlin (13403),360.000 6.545,2 Zimmer,55 m²,EG,https://www.immowelt.de/expose/9e6b187f-441e-4185-835d-542105a42ff6,1219,"Reinickendorf,  Berlin (13403)",70
+Reinickendorf, Berlin (13403),280.000 8.655,1 Zimmer,"32,4 m²",3. Geschoss,https://www.immowelt.de/expose/64e1e865-0fc4-42a8-95cd-4305f796a81d,1219,"Reinickendorf,  Berlin (13403)",70
+Haupstrasse 101 PT45, Berlin (10827),274.958 8.715,2 Zimmer,"31,6 m²",frei ab sofort,https://www.immowelt.de/expose/b6b47627-51c5-49c2-b301-1111fc229cc0,1219,"Haupstrasse 101 PT45,  Berlin (10827)",0
+Huttenstrasse 71 WE17, Berlin (10553),204.000 4.505,2 Zimmer,"45,3 m²",Unknown,https://www.immowelt.de/expose/81b97eb5-2522-4fde-b06d-e89e0a75631c,1219,"Huttenstrasse 71 WE17,  Berlin (10553)",0
+Huttenstrasse 71 PT55, Berlin (10553),314.634 7.971,2 Zimmer,"39,5 m²",5. Geschoss,https://www.immowelt.de/expose/9cd89c40-07bf-4e8b-adb6-5b3f5bca43c0,1219,"Huttenstrasse 71 PT55,  Berlin (10553)",0
+KÃ¶penick, Berlin (12555),365.000 5.069,3 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/cb2cb946-6b36-4e56-a3e1-dac51c47fc2e,1219,"KÃ¶penick,  Berlin (12555)",0
+BeethovenstraÃŸe 32, Berlin (12307),360.000 3.273,3 Zimmer,110 m²,1. Geschoss,https://www.immowelt.de/expose/b28c41ce-0162-4d6b-9d1e-08dc5d5f5bfe,1219,"BeethovenstraÃŸe 32,  Berlin (12307)",0
+Schlachtensee, Berlin (14129),775.000 3.875,5 Zimmer,200 m²,480 m² Grundstuck,https://www.immowelt.de/expose/c6608260-b256-4126-b998-fe684f2a0d4d,1219,"Schlachtensee,  Berlin (14129)",109
+Zehlendorf, Berlin (14169),799.000 5.707,4 Zimmer,140 m²,320 m² Grundstuck,https://www.immowelt.de/expose/ed5ae6b3-b483-45f5-a2ef-1a5784a1c322,1219,"Zehlendorf,  Berlin (14169)",409
+Halensee, Berlin (10711),299.000 7.293,1 Zimmer,41 m²,1. Geschoss,https://www.immowelt.de/expose/798ae61a-15de-45dd-bd87-4b4c483c1af0,1219,"Halensee,  Berlin (10711)",410
+Badensche StraÃŸe 31, Berlin (10715),156.000 3.545,2 Zimmer,44 m²,EG,https://www.immowelt.de/expose/35d7b718-b550-4a1a-af07-fe1a2049d2ef,1219,"Badensche StraÃŸe 31,  Berlin (10715)",0
+Lichterfelde, Berlin-Steglitz (12209),210.000 3.722,2 Zimmer,"56,4 m²",1. Geschoss,https://www.immowelt.de/expose/3e34d44f-0ea3-429c-80e1-1cc30051625c,1219,"Lichterfelde,  Berlin-Steglitz (12209)",177
+Lichterfelde, Berlin-Steglitz (12209),210.000 3.722,2 Zimmer,"56,4 m²",Unknown,https://www.immowelt.de/expose/5a01025e-878a-4b83-9be6-c880c05d155b,1219,"Lichterfelde,  Berlin-Steglitz (12209)",177
+Friedrichshain, Berlin-Friedrichshain (10245),179.000 3.655,2 Zimmer,49 m²,Unknown,https://www.immowelt.de/expose/5ed662aa-fbf2-4b43-90ff-cbb5dd79f4f8,1219,"Friedrichshain,  Berlin-Friedrichshain (10245)",1098
+Friedrichshain, Berlin-Friedrichshain (10245),179.000 3.655,2 Zimmer,49 m²,3. Geschoss,https://www.immowelt.de/expose/90f5370c-f777-4992-a5aa-fb1c102eae4e,1219,"Friedrichshain,  Berlin-Friedrichshain (10245)",1098
+Wilmersdorf, Berlin-Wilmersdorf (10717),398.000 5.134,2 Zimmer,"77,5 m²",1. Geschoss,https://www.immowelt.de/expose/93949250-6ccc-47c8-8ad3-70e148b7135a,1219,"Wilmersdorf,  Berlin-Wilmersdorf (10717)",720
+Wilmersdorf, Berlin-Wilmersdorf (10717),398.000 5.134,2 Zimmer,"77,5 m²",Unknown,https://www.immowelt.de/expose/577f61ce-e29c-49a9-9629-3acab8362331,1219,"Wilmersdorf,  Berlin-Wilmersdorf (10717)",720
+Hermsdorf, Berlin-Reinickendorf (13467),443.700 20.187,4 Zimmer,22 m²,Unknown,https://www.immowelt.de/expose/d3fbca10-45ec-4916-af68-32327edd3fda,1219,"Hermsdorf,  Berlin-Reinickendorf (13467)",223
+Hermsdorf, Berlin-Reinickendorf (13467),443.700 4.246,4 Zimmer,"104,5 m²",EG,https://www.immowelt.de/expose/24f7072d-9695-4634-a4c1-3c8361de7604,1219,"Hermsdorf,  Berlin-Reinickendorf (13467)",223
+Friedrichshain, Berlin-Friedrichshain (10247),159.000 4.636,1 Zimmer,"34,3 m²",Unknown,https://www.immowelt.de/expose/3fd2bb2d-8acf-4ffc-976e-123b2e2924ec,1219,"Friedrichshain,  Berlin-Friedrichshain (10247)",1098
+Friedrichshain, Berlin-Friedrichshain (10247),159.000 4.636,1 Zimmer,"34,3 m²",5. Geschoss,https://www.immowelt.de/expose/1131d29b-9faf-4214-9c0e-a7ee78af789d,1219,"Friedrichshain,  Berlin-Friedrichshain (10247)",1098
+Wilmersdorf, Berlin (10707),799.000 8.780,3 Zimmer,91 m²,5. Geschoss,https://www.immowelt.de/expose/115c3142-65a8-461c-b346-b808b4e3f8e4,1219,"Wilmersdorf,  Berlin (10707)",720
+FichtestraÃŸe 23, Berlin / Kreuzberg (10967),379.000 3.836,3 Zimmer,"98,8 m²",EG,https://www.immowelt.de/expose/f68a9e83-13a0-4c95-8334-f446ff2ee243,1219,"FichtestraÃŸe 23,  Berlin / Kreuzberg (10967)",0
+SchÃ¶neberg, Berlin (10777),2.333.333 5.599,7 Zimmer,"416,7 m²",4. Geschoss,https://www.immowelt.de/expose/14c2aa36-9a7f-4e7b-81d2-35c7ba93b590,1219,"SchÃ¶neberg,  Berlin (10777)",0
+Lichterfelde, Berlin (12207),1.320.000 5.077,5 Zimmer,260 m²,450 m² Grundstuck,https://www.immowelt.de/expose/6a2f2bfe-1a42-4c78-9085-f7c91281f16e,1219,"Lichterfelde,  Berlin (12207)",177
+Sewanstr., Berlin (10319),120.000 2.264,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/42d2b863-a63d-4494-acf8-813614569a15,1219,"Sewanstr.,  Berlin (10319)",307
+Wannsee, Berlin (14109),450.000 6.250,3 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/7744a90a-ba48-4c65-b20b-3b3ce744e45b,1219,"Wannsee,  Berlin (14109)",107
+Lichtenrade, Berlin (12305),897.500 3.634,10 Zimmer,247 m²,560 m² Grundstuck,https://www.immowelt.de/expose/f576771e-0c72-4d62-80fb-16e70ab202be,1219,"Lichtenrade,  Berlin (12305)",341
+Grunau, Berlin (12527),1.450.000 2.799,518 m²,789 m² Grundstuck,Unknown,https://www.immowelt.de/expose/4772f8fa-9667-49d5-a77d-885b2c305356,1219,"Grunau,  Berlin (12527)",251
+Erfurter Str. 12, Berlin (10825),4.600.000 3.108,20 Zimmer,1.480 m²,"989,6 m² Grundstuck",https://www.immowelt.de/expose/a7e848e1-b443-48d8-9b75-12bcfb1fae5a,1219,"Erfurter Str. 12,  Berlin (10825)",774
+Buckow, Berlin (12351),799.000 5.380,5 Zimmer,"148,5 m²","216,5 m² Grundstuck",https://www.immowelt.de/expose/6205e46f-9740-41a4-b008-121522ccdd1f,1219,"Buckow,  Berlin (12351)",184
+Buckow, Berlin (12351),1.600.000 5.387,10 Zimmer,297 m²,433 m² Grundstuck,https://www.immowelt.de/expose/87bd48fd-0b17-4d0f-8efe-8ca9f4bdf1cf,1219,"Buckow,  Berlin (12351)",184
+Westend, Berlin / Westend (14050),260.000 6.047,2 Zimmer,42 m²,Unknown,https://www.immowelt.de/expose/4430f7da-2ef5-400f-8045-20685d82adc3,1219,"Westend,  Berlin / Westend (14050)",250
+Britz, Berlin (12359),1.779.000 4.287,13 Zimmer,415 m²,1.050 m² Grundstuck,https://www.immowelt.de/expose/df5fd673-d2b4-46e1-b519-9662ddd1b2f0,1219,"Britz,  Berlin (12359)",238
+Rudow, Berlin (12355),779.000 5.026,6 Zimmer,155 m²,970 m² Grundstuck,https://www.immowelt.de/expose/6b84f9cf-4b27-4282-b53f-615bc4122ae2,1219,"Rudow,  Berlin (12355)",391
+WeiÃŸensee, Berlin (13088),786.896 8.800,3 Zimmer,"89,4 m²",frei ab sofort,https://www.immowelt.de/expose/ce0e15f4-b899-43a3-9cf6-77cfc3cc43e6,1219,"WeiÃŸensee,  Berlin (13088)",0
+Britz, Berlin (12359),144.500 3.613,1 Zimmer,40 m²,3. Geschoss,https://www.immowelt.de/expose/911e8825-b7d8-418a-9a7a-17f8a917dd70,1219,"Britz,  Berlin (12359)",238
+KÃ¶penick, Berlin (12557),300.000 3.820,2 Zimmer,"78,5 m²",Unknown,https://www.immowelt.de/expose/d5b358f3-9780-42b2-829a-f0d4bb07ace7,1219,"KÃ¶penick,  Berlin (12557)",0
+Britz, Berlin (12351),1.280.000 4.267,6 Zimmer,300 m²,745 m² Grundstuck,https://www.immowelt.de/expose/16c9b730-d76f-43f0-aa9c-436b06cfb594,1219,"Britz,  Berlin (12351)",238
+RingstraÃŸe 50, Berlin (12205),431.000 4.481,4 Zimmer,"96,2 m²",EG,https://www.immowelt.de/expose/e19860e2-de3a-42a7-8b83-b70010e20ca9,1219,"RingstraÃŸe 50,  Berlin (12205)",0
+Mahlsdorf, Berlin (12623),639.000 6.265,5 Zimmer,102 m²,609 m² Grundstuck,https://www.immowelt.de/expose/4a3a0055-aab2-4012-98b7-7dd00b641ee7,1219,"Mahlsdorf,  Berlin (12623)",336
+Wilmersdorf, Berlin (10717),525.000 7.721,2 Zimmer,68 m²,3. Geschoss,https://www.immowelt.de/expose/fc9395ef-bb9c-45a2-9b91-c794a93bcdc9,1219,"Wilmersdorf,  Berlin (10717)",720
+Grolmanstr. 52, Berlin (10623),2.750.000 13.342,4 Zimmer,"206,1 m²",5. Geschoss,https://www.immowelt.de/expose/bcfc4fb8-d9e7-436e-abb3-8fb44f68f033,1219,"Grolmanstr. 52,  Berlin (10623)",876
+Kaulsdorf, Berlin (12621),299.000 4.532,2 Zimmer,66 m²,584 m² Grundstuck,https://www.immowelt.de/expose/dfada135-5341-44d2-a064-1c3dd36b53f8,1219,"Kaulsdorf,  Berlin (12621)",262
+SchÃ¶neberg, Berlin (10825),680.000 6.355,3 Zimmer,107 m²,5. Geschoss,https://www.immowelt.de/expose/ce557866-bddc-4281-ae85-f35299523555,1219,"SchÃ¶neberg,  Berlin (10825)",0
+Donaustrasse 10, Berlin (12043),535.000 8.917,3 Zimmer,60 m²,5. Geschoss,https://www.immowelt.de/expose/b6f171cf-9862-4ae4-8cfe-6cb8f7e50167,1219,"Donaustrasse 10,  Berlin (12043)",1611
+KÃ¶penick, Berlin (12557),488.500 6.596,3 Zimmer,"74,1 m²",Unknown,https://www.immowelt.de/expose/39ce810e-2f96-4368-b25b-38196939c6f1,1219,"KÃ¶penick,  Berlin (12557)",0
+Buckow, Berlin (12351),399.000 3.192,5 Zimmer,125 m²,265 m² Grundstuck,https://www.immowelt.de/expose/bda5bcb7-0ded-42c8-99db-07e2db185076,1219,"Buckow,  Berlin (12351)",184
+Frohnau, Berlin (13645),789.690 5.062,5 Zimmer,156 m²,500 m² Grundstuck,https://www.immowelt.de/expose/e1f9b9d9-5146-43bf-8494-0aa10fda0bfd,1219,"Frohnau,  Berlin (13645)",277
+Marie-Elisabeth-Luders-Str. 9, Berlin (10585),318.000 4.079,3 Zimmer,78 m²,1. Geschoss,https://www.immowelt.de/expose/7f1b0aac-9076-4d7b-b1d3-4a8e6e1966d9,1219,"Marie-Elisabeth-Luders-Str. 9,  Berlin (10585)",779
+EiswerderstraÃŸe 10A, Berlin (13585),1.408.000 8.396,4 Zimmer,"167,7 m²",4. Geschoss,https://www.immowelt.de/expose/c3f788e7-ef9a-44f5-96e4-96f1fe4f0599,1219,"EiswerderstraÃŸe 10A,  Berlin (13585)",0
+Marienfelde, Berlin (12277),599.000 4.103,4 Zimmer,146 m²,538 m² Grundstuck,https://www.immowelt.de/expose/938f396b-847c-4dd1-943c-7a8d5a09eb40,1219,"Marienfelde,  Berlin (12277)",190
+SchÃ¶neberg, Berlin (10823),1.039.000 7.116,4 Zimmer,146 m²,4. Geschoss,https://www.immowelt.de/expose/b0606cc6-c7e9-465b-9abc-f361dacddd29,1219,"SchÃ¶neberg,  Berlin (10823)",0
+Charlottenburg, Berlin (10789),750.000 6.189,3 Zimmer,"121,2 m²","teilbar ab 121,2 m²",https://www.immowelt.de/expose/e3dd5566-9f9d-4c65-a3ce-25f26a212e24,1219,"Charlottenburg,  Berlin (10789)",1343
+Mitte, Berlin (10119),465.000 9.490,2 Zimmer,49 m²,1. Geschoss,https://www.immowelt.de/expose/2b2876d3-6b74-4eb0-a8d5-85d8ed2d0819,1219,"Mitte,  Berlin (10119)",773
+Zehlendorf, Berlin (14167),329.000 4.947,2 Zimmer,"66,5 m²",Unknown,https://www.immowelt.de/expose/1e275100-0e75-4ee9-a950-2d58a24f7e0d,1219,"Zehlendorf,  Berlin (14167)",409
+Wedding, Berlin (13407),199.000 2.909,2 Zimmer,"68,4 m²",EG,https://www.immowelt.de/expose/6162ab8a-245f-42fd-b857-7cff83ca5935,1219,"Wedding,  Berlin (13407)",960
+Dahlem, Berlin (14195),1.120.000 6.637,6 Zimmer,"168,8 m²",3. Geschoss,https://www.immowelt.de/expose/2d76b127-f0f1-4366-a8d3-6356bcca6ea8,1219,"Dahlem,  Berlin (14195)",209
+Charlottenburg, Berlin (10589),390.000 7.091,"2,5 Zimmer",55 m²,1. Geschoss,https://www.immowelt.de/expose/131b602f-bf1f-4996-8946-5b5d6274b404,1219,"Charlottenburg,  Berlin (10589)",1343
+Charlottenburg, Berlin (10707),1.485.000 10.171,4 Zimmer,146 m²,2. Geschoss,https://www.immowelt.de/expose/b2bb4317-a6d8-42ae-a260-ab471d3a86cb,1219,"Charlottenburg,  Berlin (10707)",1343
+Moabit, Berlin (10553),898.000 5.442,"5,5 Zimmer",165 m²,EG,https://www.immowelt.de/expose/023a45ba-6fca-4078-8ddf-58e5338e3d3a,1219,"Moabit,  Berlin (10553)",1001
+Prenzlauer Berg, Berlin (10405),617.000 7.600,4 Zimmer,"81,2 m²",4. Geschoss,https://www.immowelt.de/expose/0caf646a-ae59-4d6e-b8b3-1e7e79db508f,1219,"Prenzlauer Berg,  Berlin (10405)",836
+Prenzlauer Berg, Berlin (10405),417.000 7.630,2 Zimmer,"54,7 m²",1. Geschoss,https://www.immowelt.de/expose/aa56f4e8-7c6b-4300-83f5-ba2cdec4c123,1219,"Prenzlauer Berg,  Berlin (10405)",836
+Steglitz, Berlin-Steglitz (12163),"999.000 0,01",4 Zimmer,148 m²,3. Geschoss,https://www.immowelt.de/expose/74555e6e-6a9f-46a3-98a4-1091b3b28370,1219,"Steglitz,  Berlin-Steglitz (12163)",990
+Mahlsdorf, Berlin (12623),749.000 6.242,4 Zimmer,120 m²,401 m² Grundstuck,https://www.immowelt.de/expose/037aecc2-c3b5-4162-873a-033a80b4f404,1219,"Mahlsdorf,  Berlin (12623)",336
+Tegel, Berlin (13507),275.000 4.435,2 Zimmer,62 m²,Unknown,https://www.immowelt.de/expose/5c7aa145-e390-4c16-9e30-316a4f287b09,1219,"Tegel,  Berlin (13507)",466
+Kreuzberg, Berlin (10997),900.000 7.895,4 Zimmer,114 m²,EG,https://www.immowelt.de/expose/d59fd1ec-c588-4951-84ec-72f107164a0e,1219,"Kreuzberg,  Berlin (10997)",846
+Blankenburg, Berlin (13129),498.000 4.116,5 Zimmer,121 m²,376 m² Grundstuck,https://www.immowelt.de/expose/1dbdebf6-3a55-42bc-9f83-1f87623316af,1219,"Blankenburg,  Berlin (13129)",101
+Pankow, Berlin (13187),1.150.000 6.845,5 Zimmer,168 m²,Unknown,https://www.immowelt.de/expose/6837b13b-0175-46a6-8d88-8e4944bf6b11,1219,"Pankow,  Berlin (13187)",70
+EiswerderstraÃŸe 10A, Berlin (13585),848.000 7.113,4 Zimmer,"119,2 m²",2. Geschoss,https://www.immowelt.de/expose/903827cb-6fa3-4cea-8d4e-b7e413d31fc1,1219,"EiswerderstraÃŸe 10A,  Berlin (13585)",0
+EiswerderstraÃŸe 10G, Berlin (13585),1.438.000 10.316,4 Zimmer,"139,4 m²",4. Geschoss,https://www.immowelt.de/expose/c44c48a7-fe6a-49e9-af72-e09bea374465,1219,"EiswerderstraÃŸe 10G,  Berlin (13585)",0
+Lichtenrade, Berlin (12309),1.285.000 4.831,8 Zimmer,266 m²,1.006 m² Grundstuck,https://www.immowelt.de/expose/794b9d79-3b1a-4e2a-8461-8e18efe80701,1219,"Lichtenrade,  Berlin (12309)",341
+Kreuzberg, Berlin (10179),1.135.000 7.993,4 Zimmer,142 m²,Unknown,https://www.immowelt.de/expose/b316c470-221d-48af-b830-7c4d591d516e,1219,"Kreuzberg,  Berlin (10179)",846
+Moabit, Berlin (10553),435.000 5.179,3 Zimmer,84 m²,2. Geschoss,https://www.immowelt.de/expose/f3a3fb49-27d1-438a-9237-ee4ee02f5e84,1219,"Moabit,  Berlin (10553)",1001
+Mahlsdorf, Berlin (12623),900.000 6.870,5 Zimmer,131 m²,Unknown,https://www.immowelt.de/expose/bb2e95c7-c267-4e52-83bc-c67f51f24dcd,1219,"Mahlsdorf,  Berlin (12623)",336
+Mariendorf, Berlin (12107),210.000 4.200,2 Zimmer,50 m²,EG,https://www.immowelt.de/expose/898e68fd-866a-4c93-adea-76239c8d19e5,1219,"Mariendorf,  Berlin (12107)",433
+Mahlsdorf, Berlin (12623),515.000 4.640,4 Zimmer,111 m²,361 m² Grundstuck,https://www.immowelt.de/expose/84b26b22-8dc1-4131-9c06-c0fcd65366ff,1219,"Mahlsdorf,  Berlin (12623)",336
+Grunewald, Berlin (14193),9.990.000 10.516,10 Zimmer,950 m²,1.300 m² Grundstuck,https://www.immowelt.de/expose/90a838aa-e798-4f46-ad18-41eaaef6d779,1219,"Grunewald,  Berlin (14193)",129
+Biesdorf, Berlin (12683),560.000 4.912,4 Zimmer,114 m²,376 m² Grundstuck,https://www.immowelt.de/expose/7418bb95-0bb4-42c3-a57c-55c9eb57ea95,1219,"Biesdorf,  Berlin (12683)",204
+Gropiusstadt, Berlin (12353),279.000 3.865,2 Zimmer,"72,2 m²",2. Geschoss,https://www.immowelt.de/expose/248946f4-a0f5-4d10-a115-c723b52a6e33,1219,"Gropiusstadt,  Berlin (12353)",324
+Westend, Berlin (14050),945.000 7.000,5 Zimmer,135 m²,Unknown,https://www.immowelt.de/expose/db634210-4f8a-4fa7-b180-f08f774e7eb7,1219,"Westend,  Berlin (14050)",439
+Staaken, Berlin (13591),680.000 5.231,5 Zimmer,130 m²,993 m² Grundstuck,https://www.immowelt.de/expose/fdc2439e-2639-4d83-a19b-9611dcb4b9ab,1219,"Staaken,  Berlin (13591)",146
+Marzahn, Berlin (12687),549.900 7.767,3 Zimmer,"70,8 m²",20. Geschoss,https://www.immowelt.de/expose/86d513ac-d060-4767-a385-0aa4a291bf6a,1219,"Marzahn,  Berlin (12687)",171
+Blankenburg, Berlin (13129),545.000 3.893,4 Zimmer,140 m²,455 m² Grundstuck,https://www.immowelt.de/expose/0d08c5a7-6216-4766-9e31-f4df75d6395e,1219,"Blankenburg,  Berlin (13129)",101
+FranzÃ¶sisch Buchholz, Berlin (13127),529.000 3.779,4 Zimmer,140 m²,440 m² Grundstuck,https://www.immowelt.de/expose/1308f54d-9ccc-4de0-8910-6b9e83d849ae,1219,"FranzÃ¶sisch Buchholz,  Berlin (13127)",0
+Blankenburg, Berlin (13129),529.000 3.779,4 Zimmer,140 m²,430 m² Grundstuck,https://www.immowelt.de/expose/c2420232-7813-413d-9bae-37c76dcb5ccc,1219,"Blankenburg,  Berlin (13129)",101
+Karow, Berlin (13125),519.000 3.707,4 Zimmer,140 m²,440 m² Grundstuck,https://www.immowelt.de/expose/afacdfe6-33b1-45c9-bfcb-78200ddaa76f,1219,"Karow,  Berlin (13125)",99
+Buch, Berlin (13125),540.000 3.857,4 Zimmer,140 m²,415 m² Grundstuck,https://www.immowelt.de/expose/71451d47-2617-492c-9039-1406743fe798,1219,"Buch,  Berlin (13125)",202
+Wilhelmstadt, Berlin (13595),167.000 2.169,3 Zimmer,77 m²,Unknown,https://www.immowelt.de/expose/894025af-b557-47a1-b599-033ecd1444c7,1219,"Wilhelmstadt,  Berlin (13595)",215
+Friedrichshagen, Berlin (12587),488.000 5.091,3 Zimmer,"95,9 m²","teilbar ab 95,9 m²",https://www.immowelt.de/expose/2bdfb3bd-95a6-4ac6-8129-222801a8e732,1219,"Friedrichshagen,  Berlin (12587)",152
+Staaken, Berlin (13591),15.900.000 3.092,"5.141,9 m²",5.574 m² Grundstuck,Unknown,https://www.immowelt.de/expose/803617d1-0f9d-4767-acbe-9674e9a9ce3c,1219,"Staaken,  Berlin (13591)",146
+Lankwitz, Berlin (12249),275.000 4.741,2 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/7955166a-2727-4220-a264-29802021ee98,1219,"Lankwitz,  Berlin (12249)",325
+Blankenburg, Berlin (13129),532.000 4.433,4 Zimmer,120 m²,430 m² Grundstuck,https://www.immowelt.de/expose/6a1ed99c-dd7c-448a-90a2-ac563dc38ab9,1219,"Blankenburg,  Berlin (13129)",101
+Karow, Berlin (13125),536.000 4.467,4 Zimmer,120 m²,430 m² Grundstuck,https://www.immowelt.de/expose/9c9e8954-dabe-4519-96a4-6816daa00ce8,1219,"Karow,  Berlin (13125)",99
+NiederschÃ¶neweide, Berlin (12439),250.000 3.736,3 Zimmer,"66,9 m²",3. Geschoss,https://www.immowelt.de/expose/8f778455-d8c8-4a0b-a22b-786e29dc7cf5,1219,"NiederschÃ¶neweide,  Berlin (12439)",0
+NiederschÃ¶nhausen, Berlin / NiederschÃ¶nhausen (13156),270.000 3.965,2 Zimmer,"58,1 m²",EG,https://www.immowelt.de/expose/ebfd03ac-b0ff-4fe9-aff2-006b944c0608,1219,"NiederschÃ¶nhausen,  Berlin / NiederschÃ¶nhausen (13156)",0
+NiederschÃ¶nhausen, Berlin / NiederschÃ¶nhausen (13156),399.000 5.136,4 Zimmer,"85,7 m²",3. Geschoss,https://www.immowelt.de/expose/f6fd23b8-3b06-423c-ab2d-588ca1d35eef,1219,"NiederschÃ¶nhausen,  Berlin / NiederschÃ¶nhausen (13156)",0
+Friedrichshagen, Berlin / Friedrichshagen (12587),6.000.000 10.654,15 Zimmer,"563,2 m²",1.097 m² Grundstuck,https://www.immowelt.de/expose/43ea73bc-853d-477a-a572-53a8fd16a55d,1219,"Friedrichshagen,  Berlin / Friedrichshagen (12587)",152
+Grunewald, Berlin (14193),5.500.000 6.875,10 Zimmer,800 m²,2.100 m² Grundstuck,https://www.immowelt.de/expose/aeeaa3b1-b65a-4733-b529-afa6fb731a0e,1219,"Grunewald,  Berlin (14193)",129
+Friedenau, Berlin-SchÃ¶neberg (12159),349.900 5.383,2 Zimmer,65 m²,1. Geschoss,https://www.immowelt.de/expose/a9322a5f-17ac-42bd-b97f-a9a0569066cb,1219,"Friedenau,  Berlin-SchÃ¶neberg (12159)",0
+Zehlendorf, Berlin (14167),350.000 3.895,3 Zimmer,"89,9 m²",Unknown,https://www.immowelt.de/expose/a92d3333-f980-461e-b2ee-fbd4d0f2481a,1219,"Zehlendorf,  Berlin (14167)",409
+Wilmersdorf, Berlin (10713),175.000 4.070,"1,5 Zimmer",43 m²,Unknown,https://www.immowelt.de/expose/8204d569-64ce-41cb-a6e4-3f8fde084a9b,1219,"Wilmersdorf,  Berlin (10713)",720
+Wannsee, Wannsee (14109),2.500.000 11.364,7 Zimmer,220 m²,630 m² Grundstuck,https://www.immowelt.de/expose/e48141a6-34f3-4863-afe8-a48510b36588,1219,"Wannsee,  Wannsee (14109)",107
+Johannisthal, Berlin (12487),669.000 3.112,5 Zimmer,215 m²,612 m² Grundstuck,https://www.immowelt.de/expose/2fec870a-9ebe-4e82-82f7-68cc5e26329c,1219,"Johannisthal,  Berlin (12487)",105
+Mahlsdorf, Berlin (12623),649.000 3.019,5 Zimmer,215 m²,769 m² Grundstuck,https://www.immowelt.de/expose/f1cca1f3-702f-446b-b786-6963de3b38ce,1219,"Mahlsdorf,  Berlin (12623)",336
+Johannisthal, Berlin (12487),544.000 4.030,4 Zimmer,135 m²,426 m² Grundstuck,https://www.immowelt.de/expose/32c55748-e4e4-4710-b66d-8d3cd2bca8dc,1219,"Johannisthal,  Berlin (12487)",105
+Frohnau, Berlin (13465),495.000 6.875,3 Zimmer,72 m²,659 m² Grundstuck,https://www.immowelt.de/expose/aeb7e496-c9a2-4d20-86e2-25eb1fe43e0e,1219,"Frohnau,  Berlin (13465)",277
+Baumschulenweg, Berlin (12437),644.000 4.472,5 Zimmer,144 m²,453 m² Grundstuck,https://www.immowelt.de/expose/b00ef8c3-15bf-45f0-9765-d09350df8139,1219,"Baumschulenweg,  Berlin (12437)",470
+Johannisthal, Berlin (12487),589.000 4.090,5 Zimmer,144 m²,462 m² Grundstuck,https://www.immowelt.de/expose/e1aa6efc-04f0-42ac-a8b4-e2812753ad05,1219,"Johannisthal,  Berlin (12487)",105
+Mahlsdorf, Berlin (12623),549.000 3.813,5 Zimmer,144 m²,469 m² Grundstuck,https://www.immowelt.de/expose/02a874bc-6ef9-4a35-bb2a-6bf8b7e90573,1219,"Mahlsdorf,  Berlin (12623)",336
+KanalstraÃŸe 1A, Berlin (12589),2.470.000 7.588,9 Zimmer,"325,5 m²",Unknown,https://www.immowelt.de/projekte/expose/k2dc732,1219,"KanalstraÃŸe 1A,  Berlin (12589)",0
+Choriner StraÃŸe 78, Berlin (10119),2.990.000 13.159,5 Zimmer,"227,2 m²",Unknown,https://www.immowelt.de/expose/b850703d-c29d-4b0b-9602-699dc5012499,1219,"Choriner StraÃŸe 78,  Berlin (10119)",0
+Zehlendorf, Berlin (14169),825.000 5.893,4 Zimmer,140 m²,Unknown,https://www.immowelt.de/expose/229dc3a0-4e93-4a3f-9de3-0afd1586161c,1219,"Zehlendorf,  Berlin (14169)",409
+Dahlem, Berlin (14195),3.785.000 16.164,6 Zimmer,"234,2 m²",1.800 m² Grundstuck,https://www.immowelt.de/expose/c6af3da1-90ce-45b7-8d5a-b0dd523e408f,1219,"Dahlem,  Berlin (14195)",209
+Mahlsdorf, Berlin (12623),370.000 3.739,5 Zimmer,115 m²,450 m² Grundstuck,https://www.immowelt.de/expose/9c1913ad-a303-441a-a7bb-44c3fa8a5792,1219,"Mahlsdorf,  Berlin (12623)",336
+Pestalozzistr. 54, Berlin (10627),4.714.000 12.702,6 Zimmer,"371,1 m²",5. Geschoss,https://www.immowelt.de/expose/9d272f28-bbb6-4d2c-bba8-c5797d479697,1219,"Pestalozzistr. 54,  Berlin (10627)",998
+Johannisthal, Berlin (12489),612.000 2.914,8 Zimmer,210 m²,377 m² Grundstuck,https://www.immowelt.de/expose/d434f83f-2bd1-4d6e-9cea-ed9d5b8d2a58,1219,"Johannisthal,  Berlin (12489)",105
+WeiÃŸensee, Berlin (13088),179.000 8.174,1 Zimmer,"21,9 m²",frei ab sofort,https://www.immowelt.de/expose/7691e135-52fd-443e-9153-c3ef1be8caef,1219,"WeiÃŸensee,  Berlin (13088)",0
+Lankwitz, Berlin (12247),2.390.000 2.008,1.190 m²,1.472 m² Grundstuck,Unknown,https://www.immowelt.de/expose/8c617413-eacb-4281-8298-36dc819c3037,1219,"Lankwitz,  Berlin (12247)",325
+Mitte, Berlin (10119),449.000 6.019,3 Zimmer,"74,6 m²",4. Geschoss,https://www.immowelt.de/expose/c63c7926-395b-40b0-9363-003a1bea1460,1219,"Mitte,  Berlin (10119)",773
+Buch, Berlin (13125),269.000 3.776,2 Zimmer,"71,2 m²",Unknown,https://www.immowelt.de/expose/0111389a-a7a6-485f-a635-a480f0627af0,1219,"Buch,  Berlin (13125)",202
+Wilmersdorf, Berlin (10717),1.250.000 6.793,6 Zimmer,184 m²,Unknown,https://www.immowelt.de/expose/95f54209-8ddb-40be-a898-3b1614f3351b,1219,"Wilmersdorf,  Berlin (10717)",720
+Grunewald, Berlin (14193),1.250.000 5.814,5 Zimmer,215 m²,30 m² Grundstuck,https://www.immowelt.de/expose/431f0c36-9690-4553-b63a-3d5074b43abc,1219,"Grunewald,  Berlin (14193)",129
+Grunewald, Berlin (14193),1.250.000 5.814,5 Zimmer,215 m²,Unknown,https://www.immowelt.de/expose/508915e3-d25c-4508-a298-6b9d7063be9b,1219,"Grunewald,  Berlin (14193)",129
+Lichterfelde, Berlin (12207),1.500.000 6.818,5 Zimmer,220 m²,450 m² Grundstuck,https://www.immowelt.de/expose/ea70e7a6-b378-4bab-9e7e-85cb9ad705e5,1219,"Lichterfelde,  Berlin (12207)",177
+Falkenhagener Feld, Berlin (13583),137.000 3.425,1 Zimmer,40 m²,frei ab sofort,https://www.immowelt.de/expose/616ccc4c-645f-401e-82c4-c458e69c163b,1219,"Falkenhagener Feld,  Berlin (13583)",165
+Ahornstr. 10, Berlin (12163),199.000 4.699,2 Zimmer,"42,4 m²",3. Geschoss,https://www.immowelt.de/expose/c53a9572-ad72-4d0d-993f-d7d68facfa10,1219,"Ahornstr. 10,  Berlin (12163)",966
+Hakenfelde, Berlin (13587),250.000 5.063,2 Zimmer,"49,4 m²",3. Geschoss,https://www.immowelt.de/expose/95851e42-959e-4cc5-bf4f-02867746daa4,1219,"Hakenfelde,  Berlin (13587)",102
+Grunewald, Berlin (14193),1.220.000 10.609,3 Zimmer,115 m²,2. Geschoss,https://www.immowelt.de/expose/adcdba47-8ec5-45b4-9f01-18c3ae9bfb64,1219,"Grunewald,  Berlin (14193)",129
+Nikolassee, Berlin (14129),237.000 4.081,2 Zimmer,"58,1 m²",Unknown,https://www.immowelt.de/expose/f27ab482-2791-404e-afe1-e8617c4f6aa1,1219,"Nikolassee,  Berlin (14129)",156
+UrbanstraÃŸe 36b, Berlin (10967),319.000 5.664,2 Zimmer,"56,3 m²",EG,https://www.immowelt.de/expose/062df3b7-eef2-49ce-9bba-60af643a45e3,1219,"UrbanstraÃŸe 36b,  Berlin (10967)",0
+Altglienicke, Berlin / Altglienicke (12524),620.000 5.179,4 Zimmer,"125,5 m²",1. Geschoss,https://www.immowelt.de/expose/00e2eb5c-f54b-4a0f-8ed7-5fbeff4670f8,1219,"Altglienicke,  Berlin / Altglienicke (12524)",128
+CarmerstraÃŸe 14, Berlin (10623),2.100.000 8.400,7 Zimmer,250 m²,1. Geschoss,https://www.immowelt.de/expose/db7b02ac-ddf8-44a0-84de-6c877feb317e,1219,"CarmerstraÃŸe 14,  Berlin (10623)",0
+Mahlsdorf, Berlin / Mahlsdorf (12623),625.000 3.676,5 Zimmer,170 m²,804 m² Grundstuck,https://www.immowelt.de/expose/c635e146-65c8-4623-b601-34c77039b4c4,1219,"Mahlsdorf,  Berlin / Mahlsdorf (12623)",336
+Zehlendorf, Berlin (14169),875.000 7.292,4 Zimmer,120 m²,320 m² Grundstuck,https://www.immowelt.de/expose/20fb3290-1237-46f7-a8a1-fea3c00867a7,1219,"Zehlendorf,  Berlin (14169)",409
+Kaulsdorf, Berlin (12621),389.000 3.890,1 Zimmer,100 m²,2. Geschoss,https://www.immowelt.de/expose/2b4e579f-d810-4e65-a120-73a114760133,1219,"Kaulsdorf,  Berlin (12621)",262
+Kaulsdorf, Berlin (12621),359.000 3.663,3 Zimmer,98 m²,EG,https://www.immowelt.de/expose/88b24be5-1fbd-4f30-8bf4-46e9c965e5e1,1219,"Kaulsdorf,  Berlin (12621)",262
+Kaulsdorf, Berlin (12621),479.000 3.303,4 Zimmer,145 m²,1. Geschoss,https://www.immowelt.de/expose/61d53413-7952-4f79-82b7-41325a23d2d5,1219,"Kaulsdorf,  Berlin (12621)",262
+Lichterfelde, Berlin (12203),495.000 6.346,2 Zimmer,78 m²,1. Geschoss,https://www.immowelt.de/expose/b3207a90-a9fa-456d-ba01-cf3ed515a2c6,1219,"Lichterfelde,  Berlin (12203)",177
+Tiergarten, Berlin (10787),598.000 7.149,2 Zimmer,"83,7 m²",2. Geschoss,https://www.immowelt.de/expose/0df8216f-ab8f-4597-8582-69a350883f70,1219,"Tiergarten,  Berlin (10787)",258
+Klingsorstr. 7, Berlin (12167),800.000 4.943,3 Zimmer,"161,9 m²",Unknown,https://www.immowelt.de/expose/8f1b496d-2f37-4008-8ed1-285088080a26,1219,"Klingsorstr. 7,  Berlin (12167)",624
+Karl-Stieler-Str 19, Berlin / Steglitz (12167),459.000 5.572,"2,5 Zimmer","82,4 m²",1. Geschoss,https://www.immowelt.de/expose/190c94bc-626a-420b-bcfa-c0622f6e7a66,1219,"Karl-Stieler-Str 19,  Berlin / Steglitz (12167)",434
+Mitte, Berlin (10117),3.190.000 17.722,4 Zimmer,180 m²,Unknown,https://www.immowelt.de/expose/e0835e93-d036-4893-8a13-4b5e864bb1f6,1219,"Mitte,  Berlin (10117)",773
+Wilmersdorf, Berlin (10717),939.000 5.596,5 Zimmer,"167,8 m²",1. Geschoss,https://www.immowelt.de/expose/1c0f13d4-f896-40b1-9911-d55b2b8d9427,1219,"Wilmersdorf,  Berlin (10717)",720
+Babelsberger Str. 49, Berlin (10715),312.650 4.212,2 Zimmer,"74,2 m²",4. Geschoss,https://www.immowelt.de/expose/e0e44c48-71b8-4be1-a503-15e973f542e3,1219,"Babelsberger Str. 49,  Berlin (10715)",730
+Babelsberger Str. 49, Berlin (10715),383.500 4.140,3 Zimmer,"92,6 m²",EG,https://www.immowelt.de/expose/c7ed76d2-3e28-4d31-a8e8-e8283c9a427e,1219,"Babelsberger Str. 49,  Berlin (10715)",730
+Schwendyweg 36, Berlin (13587),179.980 3.396,2 Zimmer,53 m²,3. Geschoss,https://www.immowelt.de/expose/b5b973bd-54c6-4b6d-a5c8-0d8b68e0fce0,1219,"Schwendyweg 36,  Berlin (13587)",186
+Lichterfelde, Berlin (14167),649.000 5.408,"4,5 Zimmer",120 m²,265 m² Grundstuck,https://www.immowelt.de/expose/0ac28746-c4b9-4b2e-a03d-78a9ce5e91ab,1219,"Lichterfelde,  Berlin (14167)",177
+Rudow, Berlin (12357),710.000 3.272,8 Zimmer,217 m²,490 m² Grundstuck,https://www.immowelt.de/expose/1ccd5d75-42d8-4f97-90b8-cdeadf6de987,1219,"Rudow,  Berlin (12357)",391
+Steglitzer Damm 24, Berlin (12167),430.000 5.000,2 Zimmer,86 m²,1. Geschoss,https://www.immowelt.de/expose/82e4d67e-f8d2-42d7-9460-a3b747eab40f,1219,"Steglitzer Damm 24,  Berlin (12167)",436
+Huttenstrasse 71, Berlin (10553),140.000 3.043,2 Zimmer,46 m²,Unknown,https://www.immowelt.de/expose/85a9be84-aa95-4369-b38f-d29126c4f98c,1219,"Huttenstrasse 71,  Berlin (10553)",933
+Helmholtzstrasse 1, Berlin (10587),350.000 3.646,"3,5 Zimmer",96 m²,1. Geschoss,https://www.immowelt.de/expose/3eabfc8a-8803-4214-88d8-18f8e4043d23,1219,"Helmholtzstrasse 1,  Berlin (10587)",459
+Huttenstrasse 71, Berlin (10553),320.000 3.333,3 Zimmer,96 m²,Unknown,https://www.immowelt.de/expose/239a5491-557a-4301-9200-ed58250ab801,1219,"Huttenstrasse 71,  Berlin (10553)",933
+Stresemannstrasse 34, Berlin (10963),260.000 4.643,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/5ca00762-0051-4aef-842a-22398ed0ad85,1219,"Stresemannstrasse 34,  Berlin (10963)",748
+Hauptstrasse 101, Berlin (10827),220.000 3.607,2 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/daa3fbb0-380e-4bfc-b5d0-542fccc3bef9,1219,"Hauptstrasse 101,  Berlin (10827)",739
+Hauptstrasse 101, Berlin (10827),372.255 8.272,2 Zimmer,45 m²,5. Geschoss,https://www.immowelt.de/expose/c8c0690e-9968-4122-a9ae-d79b52b3d6af,1219,"Hauptstrasse 101,  Berlin (10827)",739
+HollÃ¤nderstrasse 16, Berlin (13407),170.000 2.852,2 Zimmer,"59,6 m²",Unknown,https://www.immowelt.de/expose/6b4f4487-b04a-43ef-b427-0a6d2479b5eb,1219,"HollÃ¤nderstrasse 16,  Berlin (13407)",0
+Donaustrasse 10, Berlin (12043),964.318 8.688,4 Zimmer,111 m²,5. Geschoss,https://www.immowelt.de/expose/ae680ef5-d1b7-452e-b596-71f250f671f8,1219,"Donaustrasse 10,  Berlin (12043)",1611
+Huttenstrasse 71 , Berlin (10553),314.634 7.971,2 Zimmer,"39,5 m²",5. Geschoss,https://www.immowelt.de/expose/e47c9187-5941-49f7-95b3-f629d02230ff,1219,"Huttenstrasse 71 ,  Berlin (10553)",933
+Prenzlauer Berg, Berlin (10119),548.000 6.685,2 Zimmer,82 m²,teilbar ab 82 m²,https://www.immowelt.de/expose/9b1365b5-64cd-417a-a93f-d8ea301d79e3,1219,"Prenzlauer Berg,  Berlin (10119)",836
+HauptstraÃŸe 17, Berlin (13127),849.000 6.757,4 Zimmer,"125,6 m²","39,5 m² Grundstuck",https://www.immowelt.de/expose/1474b65f-8764-4da3-b900-9a3a0c62bb46,1219,"HauptstraÃŸe 17,  Berlin (13127)",0
+HauptstraÃŸe 17, Berlin (13127),780.000 4.665,5 Zimmer,"167,2 m²",Unknown,https://www.immowelt.de/expose/9a97956b-d2c4-4fcd-b49e-01d4fc4b330d,1219,"HauptstraÃŸe 17,  Berlin (13127)",0
+HauptstraÃŸe 17, Berlin (13127),499.000 4.885,3 Zimmer,"102,2 m²",Unknown,https://www.immowelt.de/expose/3b529357-7392-48e6-a951-5f64df7d3422,1219,"HauptstraÃŸe 17,  Berlin (13127)",0
+Wilmersdorf, Berlin / Wilmersdorf (10707),449.000 7.242,3 Zimmer,62 m²,3. Geschoss,https://www.immowelt.de/expose/33a855a8-2394-4c5a-83e2-1afd049a193d,1219,"Wilmersdorf,  Berlin / Wilmersdorf (10707)",720
+Dachsberg 3, Berlin (14193),670.000 6.924,3 Zimmer,"96,8 m²",1. Geschoss,https://www.immowelt.de/expose/f3c6e385-79c2-4a22-bd66-991dc2ff68aa,1219,"Dachsberg 3,  Berlin (14193)",205
+Wilmersdorf, Berlin (10717),3.200.000 7.111,9 Zimmer,450 m²,1.021 m² Grundstuck,https://www.immowelt.de/expose/d829c7de-bfb5-46ba-aa12-452dfcfefd21,1219,"Wilmersdorf,  Berlin (10717)",720
+DonaustraÃŸe 10-11, Berlin (12043),987.431 9.030,4 Zimmer,"109,4 m²",Unknown,https://www.immowelt.de/expose/d57596ac-2071-426e-b712-b4aa403eeee4,1219,"DonaustraÃŸe 10-11,  Berlin (12043)",0
+WendenschloÃŸstraÃŸe 294 A, Berlin (12557),829.000 6.019,4 Zimmer,"137,7 m²","196,6 m² Grundstuck",https://www.immowelt.de/expose/123bca05-7008-42c8-86ee-06d4e08e0657,1219,"WendenschloÃŸstraÃŸe 294 A,  Berlin (12557)",0
+WendenschloÃŸstraÃŸe 294 A, Berlin (12557),829.000 6.019,4 Zimmer,"137,7 m²","191,9 m² Grundstuck",https://www.immowelt.de/expose/be6c08e6-fd35-467d-9069-14e880e82712,1219,"WendenschloÃŸstraÃŸe 294 A,  Berlin (12557)",0
+WendenschloÃŸstraÃŸe 294 A, Berlin (12557),829.000 6.019,4 Zimmer,"137,7 m²","190,9 m² Grundstuck",https://www.immowelt.de/expose/9b0f0c3a-51b8-4825-a2c5-4be63418f5cb,1219,"WendenschloÃŸstraÃŸe 294 A,  Berlin (12557)",0
+WendenschloÃŸstraÃŸe 294 A, Berlin (12557),1.129.000 7.596,4 Zimmer,"148,6 m²","394,4 m² Grundstuck",https://www.immowelt.de/expose/379a4526-e7e1-4cf9-8294-6b8ad866bf43,1219,"WendenschloÃŸstraÃŸe 294 A,  Berlin (12557)",0
+Wilmersdorf, Berlin (10719),670.000 5.982,3 Zimmer,112 m²,Unknown,https://www.immowelt.de/expose/56690d73-edcf-4c6e-923c-50b41dcbc48f,1219,"Wilmersdorf,  Berlin (10719)",720
+Grunewald, Berlin (14193),9.950.000 19.900,11 Zimmer,500 m²,868 m² Grundstuck,https://www.immowelt.de/expose/27305411-da00-4dde-841d-d0b6a4814df6,1219,"Grunewald,  Berlin (14193)",129
+Zehlendorf, Berlin (14169),895.000 7.458,4 Zimmer,120 m²,320 m² Grundstuck,https://www.immowelt.de/expose/b318c774-d4df-467e-b2ba-39369d342790,1219,"Zehlendorf,  Berlin (14169)",409
+Mitte, Berlin (10179),1.300.000 9.155,4 Zimmer,142 m²,Unknown,https://www.immowelt.de/expose/25b4e615-aabc-485f-867b-d8012bdfbad8,1219,"Mitte,  Berlin (10179)",773
+WeiÃŸensee, Berlin (13088),1.018.000 8.776,5 Zimmer,116 m²,frei ab sofort,https://www.immowelt.de/expose/4482b1aa-ab53-416e-9fc6-37dea9422e72,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),1.018.000 8.776,5 Zimmer,116 m²,frei ab sofort,https://www.immowelt.de/expose/ccbf433b-4cdc-4a40-acbd-56e1f1e24937,1219,"WeiÃŸensee,  Berlin (13088)",0
+Kaulsdorf, Berlin (12621),642.780 4.229,5 Zimmer,152 m²,"476,5 m² Grundstuck",https://www.immowelt.de/expose/494e0ef0-56c5-4a5d-99aa-84dc277573ea,1219,"Kaulsdorf,  Berlin (12621)",262
+WeiÃŸensee, Berlin (13088),1.018.000 8.776,5 Zimmer,116 m²,frei ab sofort,https://www.immowelt.de/expose/f60b1426-1732-44b6-932c-00481020e969,1219,"WeiÃŸensee,  Berlin (13088)",0
+Buckow, Berlin / Buckow (12349),598.700 5.537,3 Zimmer,"108,1 m²",2. Geschoss,https://www.immowelt.de/expose/cda52616-0b8b-4e41-969a-f34bb29be969,1219,"Buckow,  Berlin / Buckow (12349)",199
+Dahlem, Berlin (14195),1.500.000 7.772,6 Zimmer,193 m²,Unknown,https://www.immowelt.de/expose/a542be3e-596d-4933-b7f0-59c48823b561,1219,"Dahlem,  Berlin (14195)",209
+Altglienicke, Berlin (12524),412.000 3.075,4 Zimmer,134 m²,550 m² Grundstuck,https://www.immowelt.de/expose/ceff45d1-c08e-4f1e-8c27-a0ae84a25f2e,1219,"Altglienicke,  Berlin (12524)",128
+Grunau, Berlin (12527),462.000 2.640,6 Zimmer,175 m²,590 m² Grundstuck,https://www.immowelt.de/expose/1e0057d6-4eb3-4a78-92d9-9403f02bac78,1219,"Grunau,  Berlin (12527)",251
+Altglienicke, Berlin (12524),487.000 2.952,5 Zimmer,165 m²,500 m² Grundstuck,https://www.immowelt.de/expose/efbc24d6-3295-485a-88e1-36e8507b629e,1219,"Altglienicke,  Berlin (12524)",128
+Bohnsdorf, Berlin (12526),546.000 2.482,8 Zimmer,220 m²,700 m² Grundstuck,https://www.immowelt.de/expose/0586b3c0-e150-4c7b-90d8-fc7899cb9446,1219,"Bohnsdorf,  Berlin (12526)",98
+Grunewald, Steglitz-Zehlendorf (14169),445.000 11.410,2 Zimmer,39 m²,EG,https://www.immowelt.de/expose/dfcb6634-8cb3-4534-aaf6-bdd1749a4d46,1219,"Grunewald,  Steglitz-Zehlendorf (14169)",0
+Grunewald, Berlin (14193),2.200.000 11.282,6 Zimmer,195 m²,Unknown,https://www.immowelt.de/expose/c9d9b9f7-7bd2-43ef-848c-37449fd15fce,1219,"Grunewald,  Berlin (14193)",129
+TreskowstraÃŸe 22, Berlin (13089),490.000 7.241,3 Zimmer,"67,7 m²",6. Geschoss,https://www.immowelt.de/expose/c7d20613-8763-46a0-9281-a8b338d54dfa,1219,"TreskowstraÃŸe 22,  Berlin (13089)",0
+Wannsee, Berlin / Wannsee (14109),535.000 3.344,1 Zimmer,160 m²,1.124 m² Grundstuck,https://www.immowelt.de/expose/91f04f31-8ece-4b78-9b54-69ad34af3264,1219,"Wannsee,  Berlin / Wannsee (14109)",107
+Tegel, Berlin (13507),172.000 3.245,1 Zimmer,53 m²,EG,https://www.immowelt.de/expose/7815b944-9aaa-4939-af72-18e8f626845d,1219,"Tegel,  Berlin (13507)",466
+Tegel, Berlin (13507),325.000 3.368,3 Zimmer,"96,5 m²",3. Geschoss,https://www.immowelt.de/expose/a1f34095-9317-4984-b63f-610e537c2f41,1219,"Tegel,  Berlin (13507)",466
+Tegel, Berlin (13507),465.000 3.131,"148,5 m²",Unknown,Unknown,https://www.immowelt.de/expose/c28a51ad-890d-42d8-ae2f-bd9e137fd661,1219,"Tegel,  Berlin (13507)",466
+Gesundbrunnen, Berlin (13347),698.500 5.970,5 Zimmer,117 m²,EG,https://www.immowelt.de/expose/bfceedba-18e9-4e24-99e9-c6ca3acdded1,1219,"Gesundbrunnen,  Berlin (13347)",688
+Wilmersdorf, Berlin (10719),670.000 5.929,4 Zimmer,113 m²,Unknown,https://www.immowelt.de/expose/861a3b00-7141-4fe3-bae6-066f8a1ec160,1219,"Wilmersdorf,  Berlin (10719)",720
+Gitschiner StraÃŸe 93, Berlin (10969),799.000 7.767,4 Zimmer,"102,9 m²",4. Geschoss,https://www.immowelt.de/expose/1fedece1-748b-4bea-b452-e6b1a8a7aab4,1219,"Gitschiner StraÃŸe 93,  Berlin (10969)",0
+Prenzlauer Berg, Berlin (10437),285.000 4.597,2 Zimmer,62 m²,Unknown,https://www.immowelt.de/expose/5e38f0d0-add4-4e11-a2cf-60fd3fa89311,1219,"Prenzlauer Berg,  Berlin (10437)",836
+Wilmersdorf, Berlin (10719),1.420.000 6.827,6 Zimmer,208 m²,Unknown,https://www.immowelt.de/expose/b429314e-e7f3-421e-a949-c25c00bb3e7e,1219,"Wilmersdorf,  Berlin (10719)",720
+Wilmersdorf, Berlin (10707),574.000 6.106,4 Zimmer,94 m²,Unknown,https://www.immowelt.de/expose/f9518c31-8cf0-47b4-8c34-722eb1fb1daf,1219,"Wilmersdorf,  Berlin (10707)",720
+Johannisthal, Berlin (12489),740.000 4.540,4 Zimmer,163 m²,450 m² Grundstuck,https://www.immowelt.de/expose/ee2a8441-647f-4292-8333-dd6d9417c516,1219,"Johannisthal,  Berlin (12489)",105
+Johannisthal, Berlin (12489),740.000 4.379,5 Zimmer,169 m²,490 m² Grundstuck,https://www.immowelt.de/expose/8ad666f9-0258-492b-ac1c-b87621c5c427,1219,"Johannisthal,  Berlin (12489)",105
+Mitte, Berlin (10115),1.649.000 11.531,3 Zimmer,143 m²,5. Geschoss,https://www.immowelt.de/expose/ee909a78-51e9-4323-a97e-7c8e6ae7c0b5,1219,"Mitte,  Berlin (10115)",773
+Moabit, Berlin (13407),760.600 5.593,5 Zimmer,136 m²,500 m² Grundstuck,https://www.immowelt.de/expose/9eb95361-fbb0-47e3-8a46-f5c147874e39,1219,"Moabit,  Berlin (13407)",1001
+SponholzstraÃŸe 27, Berlin (12159),595.000 4.995,4 Zimmer,"119,1 m²",3. Geschoss,https://www.immowelt.de/expose/6146f318-dde1-446c-adc1-fefa53554228,1219,"SponholzstraÃŸe 27,  Berlin (12159)",0
+SponholzstraÃŸe 27, Berlin (12159),595.000 4.821,4 Zimmer,"123,4 m²",1. Geschoss,https://www.immowelt.de/expose/535929f6-461f-47a8-ba20-ed241171fd11,1219,"SponholzstraÃŸe 27,  Berlin (12159)",0
+BahnhofstraÃŸe 1, Berlin (12159),470.000 4.766,3 Zimmer,"98,6 m²",1. Geschoss,https://www.immowelt.de/expose/fa4445c1-93cb-4e43-a52c-110a52a52350,1219,"BahnhofstraÃŸe 1,  Berlin (12159)",0
+Friedrichshain, Berlin (10245),299.000 5.277,2 Zimmer,"56,7 m²",EG,https://www.immowelt.de/expose/25ff01eb-bec9-46f8-89c0-c2e3bb7a750f,1219,"Friedrichshain,  Berlin (10245)",1098
+Wannsee, Berlin (14109),450.000 6.250,3 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/6a70f395-d8dd-413e-ae91-29b4d2869f48,1219,"Wannsee,  Berlin (14109)",107
+Reinickendorf, Berlin (13409),269.000 3.893,"2,5 Zimmer","69,1 m²",2. Geschoss,https://www.immowelt.de/expose/c1338512-3e68-4f18-adc0-c23d6687dedd,1219,"Reinickendorf,  Berlin (13409)",70
+Altglienicke, Berlin (12524),448.000 3.090,5 Zimmer,145 m²,530 m² Grundstuck,https://www.immowelt.de/expose/1a625eeb-e964-4ea2-84ab-89be1df2abcd,1219,"Altglienicke,  Berlin (12524)",128
+KÃ¶penick, Berlin (12557),611.900 3.848,159 m²,482 m² Grundstuck,Unknown,https://www.immowelt.de/expose/9bcb8350-aaa1-4faa-a426-a31957cef37e,1219,"KÃ¶penick,  Berlin (12557)",0
+Johannisthal, Berlin (12487),569.000 3.924,5 Zimmer,145 m²,490 m² Grundstuck,https://www.immowelt.de/expose/94315ae0-1437-4935-a0ec-d94e0090a800,1219,"Johannisthal,  Berlin (12487)",105
+Muggelheim, Berlin (12559),627.300 3.945,159 m²,561 m² Grundstuck,Unknown,https://www.immowelt.de/expose/1fb4f076-01ff-4ded-850e-f993aabe61e5,1219,"Muggelheim,  Berlin (12559)",95
+SchmÃ¶ckwitz, Berlin (12527),488.000 3.148,5 Zimmer,155 m²,580 m² Grundstuck,https://www.immowelt.de/expose/3b558231-18a1-4f42-b5c1-3742d3d55d42,1219,"SchmÃ¶ckwitz,  Berlin (12527)",0
+Bohnsdorf, Berlin (12526),498.000 3.434,5 Zimmer,145 m²,520 m² Grundstuck,https://www.immowelt.de/expose/e82a37de-10f7-46c5-ade4-17566a277ee0,1219,"Bohnsdorf,  Berlin (12526)",98
+Hakenfelde, Berlin (13587),180.000 2.980,2 Zimmer,"60,4 m²",2. Geschoss,https://www.immowelt.de/expose/496baa8e-a86c-4f13-b735-9b46ecd07732,1219,"Hakenfelde,  Berlin (13587)",102
+Heiligensee, Berlin (13503),820.000 9.647,3 Zimmer,85 m²,859 m² Grundstuck,https://www.immowelt.de/expose/f98d42a1-8c0e-471b-a9ed-b201de4e5d80,1219,"Heiligensee,  Berlin (13503)",52
+Kladow, Berlin (14089),695.000 4.220,9 Zimmer,"164,7 m²",719 m² Grundstuck,https://www.immowelt.de/expose/f6226ff5-c9cb-4dfc-bb6d-b94911c32c2a,1219,"Kladow,  Berlin (14089)",116
+Zehlendorf, Berlin / Zehlendorf (14167),1.950.000 6.813,6 Zimmer,"286,2 m²",420 m² Grundstuck,https://www.immowelt.de/expose/2075f488-7c06-401c-b844-04c1c7741656,1219,"Zehlendorf,  Berlin / Zehlendorf (14167)",409
+Schmargendorf, Berlin (14195),510.000 6.892,3 Zimmer,74 m²,Unknown,https://www.immowelt.de/expose/60ed5db9-4ea5-4af6-9724-3596c18f36b8,1219,"Schmargendorf,  Berlin (14195)",321
+Rudow, Berlin (12357),399.000 4.277,"3,5 Zimmer","93,3 m²",2. Geschoss,https://www.immowelt.de/expose/68bb11ad-f7f7-4140-9a67-d3c2649991d6,1219,"Rudow,  Berlin (12357)",391
+Wannsee, Berlin (14109),2.885.000 13.114,5 Zimmer,220 m²,1. Geschoss,https://www.immowelt.de/expose/1e6cd715-6610-4b24-92f9-470930b62d7d,1219,"Wannsee,  Berlin (14109)",107
+Wannsee, Berlin (14109),2.615.000 12.882,5 Zimmer,203 m²,1. Geschoss,https://www.immowelt.de/expose/e6d8959d-cbbe-46e5-82d7-f4d353b0e21f,1219,"Wannsee,  Berlin (14109)",107
+Wannsee, Berlin (14109),3.850.000 16.692,5 Zimmer,"230,7 m²",frei ab sofort,https://www.immowelt.de/expose/47aeaea4-d784-47b9-bb59-9f528cd6f86b,1219,"Wannsee,  Berlin (14109)",107
+Reinickendorf, Berlin (13403),170.000 2.541,3 Zimmer,"66,9 m²",3. Geschoss,https://www.immowelt.de/expose/12bb984a-6f2f-4433-aea6-200182c67e1a,1219,"Reinickendorf,  Berlin (13403)",70
+Blankenburger Str. 26, Berlin (13156),375.000 6.417,2 Zimmer,"58,4 m²",EG,https://www.immowelt.de/expose/89c56412-71fd-4ae7-a0e4-efd81270a1fc,1219,"Blankenburger Str. 26,  Berlin (13156)",294
+Mariendorf, Berlin (D) Mariendorf (12277),1.199.000 8.212,4 Zimmer,146 m²,1.324 m² Grundstuck,https://www.immowelt.de/expose/7249be4d-9869-409a-bfb0-cc8b1f3e4fb8,1219,"Mariendorf,  Berlin (D) Mariendorf (12277)",452
+Moabit, Berlin (10119),748.000 7.281,3 Zimmer,"102,7 m²",4. Geschoss,https://www.immowelt.de/expose/1b090004-13da-4b5a-9cdd-cd579d7606c6,1219,"Moabit,  Berlin (10119)",1001
+Dahlem, Berlin (14195),1.700.000 8.718,6 Zimmer,195 m²,Unknown,https://www.immowelt.de/expose/b40b8429-3b40-49d6-bc7e-49b7efafb51f,1219,"Dahlem,  Berlin (14195)",209
+SchillerstraÃŸe 22, Berlin (12207),399.000 7.943,2 Zimmer,"50,2 m²",3. Geschoss,https://www.immowelt.de/expose/13b56d63-d8c1-4372-89a9-7a97caeb7894,1219,"SchillerstraÃŸe 22,  Berlin (12207)",0
+Karlshorst, Berlin (10318),1.250.000 6.579,4 Zimmer,190 m²,472 m² Grundstuck,https://www.immowelt.de/expose/b3678071-b8be-485c-9225-4e644d24e9a3,1219,"Karlshorst,  Berlin (10318)",259
+Tempelhof, Berlin (12099),399.000 6.786,3 Zimmer,"58,8 m²",Unknown,https://www.immowelt.de/expose/9ef87eba-7e72-4df9-a439-edeaf4be6646,1219,"Tempelhof,  Berlin (12099)",422
+DudenstraÃŸe 76, Berlin (10965),270.000 3.595,2 Zimmer,"75,1 m²",4. Geschoss,https://www.immowelt.de/expose/d3cf85bd-217f-48cd-b038-e16c2cc20a18,1219,"DudenstraÃŸe 76,  Berlin (10965)",0
+DudenstraÃŸe 76, Berlin (10965),280.000 3.747,2 Zimmer,"74,7 m²",2. Geschoss,https://www.immowelt.de/expose/3baeb848-c08b-45e0-bea7-73b38f7977e0,1219,"DudenstraÃŸe 76,  Berlin (10965)",0
+Friedrichshain, Berlin (10245),1.240.000 9.977,4 Zimmer,"124,3 m²",5. Geschoss,https://www.immowelt.de/expose/8fda9371-3733-4027-9dee-1c6eed4ba029,1219,"Friedrichshain,  Berlin (10245)",1098
+Gesundbrunnen, Berlin (13347),398.500 5.948,3 Zimmer,67 m²,EG,https://www.immowelt.de/expose/5ad3bb68-fe6d-4d5a-821b-f3104af5bfc8,1219,"Gesundbrunnen,  Berlin (13347)",688
+NeukÃ¶lln, Berlin (12043),500.000 3.943,4 Zimmer,"126,8 m²",3. Geschoss,https://www.immowelt.de/expose/3789ef21-9002-4df3-9b53-777782e15dff,1219,"NeukÃ¶lln,  Berlin (12043)",0
+Hermsdorf, Berlin (13467),650.000 6.190,4 Zimmer,105 m²,200 m² Grundstuck,https://www.immowelt.de/expose/07f722ab-07f0-44dc-b6b0-83dbcfbbd489,1219,"Hermsdorf,  Berlin (13467)",223
+Friedrichshain, Berlin (10245),1.249.000 10.073,4 Zimmer,124 m²,5. Geschoss,https://www.immowelt.de/expose/1c4dd41a-a7bc-4e4b-8d5e-e71438f20091,1219,"Friedrichshain,  Berlin (10245)",1098
+Wannsee, Berlin (14109),245.000 6.125,3 Zimmer,40 m²,Unknown,https://www.immowelt.de/expose/76accb15-a604-4e36-96e6-a68adc7f6394,1219,"Wannsee,  Berlin (14109)",107
+Biesdorf, Berlin (12683),644.000 2.954,8 Zimmer,218 m²,644 m² Grundstuck,https://www.immowelt.de/expose/6a4cbdc1-53eb-4002-affc-93e201fe5b69,1219,"Biesdorf,  Berlin (12683)",204
+Mahlsdorf, Berlin (12623),499.000 4.080,4 Zimmer,"122,3 m²",1.292 m² Grundstuck,https://www.immowelt.de/expose/d8f490f2-6875-4c7f-aa7c-a2f6307bc49c,1219,"Mahlsdorf,  Berlin (12623)",336
+KunzendorfstraÃŸe 2, Berlin (14165),365.000 4.793,3 Zimmer,"76,2 m²",1. Geschoss,https://www.immowelt.de/expose/af430113-db62-4355-99ff-34ef0573263e,1219,"KunzendorfstraÃŸe 2,  Berlin (14165)",0
+UhlandstraÃŸe 136, Berlin (10717),740.000 5.482,3 Zimmer,135 m²,5. Geschoss,https://www.immowelt.de/expose/8a76d418-7636-44d5-aaaa-f460042fa86c,1219,"UhlandstraÃŸe 136,  Berlin (10717)",0
+UhlandstraÃŸe 136, Berlin (10717),498.000 4.466,2 Zimmer,"111,5 m²",2. Geschoss,https://www.immowelt.de/expose/9e8f1084-e6e7-44da-8fec-8c7df8a10a9b,1219,"UhlandstraÃŸe 136,  Berlin (10717)",0
+UhlandstraÃŸe 136, Berlin (10717),720.000 4.831,4 Zimmer,149 m²,1. Geschoss,https://www.immowelt.de/expose/82be9204-01f3-440d-bfdd-3c5ab39dd659,1219,"UhlandstraÃŸe 136,  Berlin (10717)",0
+Dahlem, Berlin (14195),4.200.000 11.667,8 Zimmer,360 m²,1.579 m² Grundstuck,https://www.immowelt.de/expose/ec11b2b1-192d-4c0c-a334-305a64f09091,1219,"Dahlem,  Berlin (14195)",209
+Biesdorf, Berlin (12683),525.000 3.621,5 Zimmer,145 m²,580 m² Grundstuck,https://www.immowelt.de/expose/3f0856fe-c83c-44dc-a0b4-8572e81e9f98,1219,"Biesdorf,  Berlin (12683)",204
+Biesdorf, Berlin (12683),595.000 4.103,5 Zimmer,145 m²,580 m² Grundstuck,https://www.immowelt.de/expose/4da581fd-715b-4a95-a986-1b0ae1dcfa4d,1219,"Biesdorf,  Berlin (12683)",204
+SchÃ¶neberg, Tiergarten (10785),770.000 12.170,2 Zimmer,60 m²,2. Geschoss,https://www.immowelt.de/expose/24c388d6-9d0a-41fb-99e8-b9449da9604e,1219,"SchÃ¶neberg,  Tiergarten (10785)",0
+Mitte, Berlin (10117),2.810.000 15.787,4 Zimmer,178 m²,5. Geschoss,https://www.immowelt.de/expose/35b1675b-3231-43a6-bb1b-8048cbc27d33,1219,"Mitte,  Berlin (10117)",773
+Mitte, Berlin (10115),250.000 4.167,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/ee5d60f1-7b53-445a-a4a7-171eb76cfe32,1219,"Mitte,  Berlin (10115)",773
+WeiÃŸensee, Berlin (13088),217.980 8.650,1 Zimmer,"25,2 m²",frei ab sofort,https://www.immowelt.de/expose/eefe3fc2-3973-4c32-a668-7e3c8bd97d52,1219,"WeiÃŸensee,  Berlin (13088)",0
+SchÃ¶neberg, SchÃ¶neberg (10781),370.000 10.694,1 Zimmer,33 m²,2. Geschoss,https://www.immowelt.de/expose/97dd2fa2-4de4-4f2b-978f-27e639f6caa5,1219,"SchÃ¶neberg,  SchÃ¶neberg (10781)",0
+WeiÃŸensee, Berlin (13088),218.838 8.750,2 Zimmer,25 m²,frei ab sofort,https://www.immowelt.de/expose/01e84ed6-822d-457c-b6f6-c0d92f0d0924,1219,"WeiÃŸensee,  Berlin (13088)",0
+LuckstraÃŸe 46, Berlin (10317),312.000 4.381,2 Zimmer,"71,2 m²",4. Geschoss,https://www.immowelt.de/expose/9710bd00-0477-4848-bcaf-d109b2089968,1219,"LuckstraÃŸe 46,  Berlin (10317)",0
+WeiÃŸensee, Berlin (13088),646.800 8.800,3 Zimmer,"73,5 m²",45 m² Grundstuck,https://www.immowelt.de/expose/ea174546-d42d-46e4-90df-f45062044e76,1219,"WeiÃŸensee,  Berlin (13088)",0
+Grunewald, Berlin (14193),2.299.000 8.842,8 Zimmer,260 m²,Unknown,https://www.immowelt.de/expose/f563939d-b47d-45c6-9dcc-ea09e443db62,1219,"Grunewald,  Berlin (14193)",129
+Tegel, Berlin (13469),925.000 6.167,5 Zimmer,150 m²,785 m² Grundstuck,https://www.immowelt.de/expose/d8c34960-466a-4297-be13-6948bf233701,1219,"Tegel,  Berlin (13469)",466
+KunzendorfstraÃŸe 2, Berlin (14165),273.000 4.569,2 Zimmer,"59,8 m²",1. Geschoss,https://www.immowelt.de/expose/3473f814-eb40-4a65-9ebc-c60944084c6c,1219,"KunzendorfstraÃŸe 2,  Berlin (14165)",0
+KunzendorfstraÃŸe 2, Berlin (14165),243.000 4.469,2 Zimmer,"54,4 m²",EG,https://www.immowelt.de/expose/854c736f-4623-4fe8-ae45-3cf7cce93dac,1219,"KunzendorfstraÃŸe 2,  Berlin (14165)",0
+Spandau, Berlin (13585),275.000 4.753,2 Zimmer,"57,9 m²",EG,https://www.immowelt.de/expose/4c250cb5-789e-45b4-9285-f79dd098765b,1219,"Spandau,  Berlin (13585)",743
+Spandau, Berlin (13585),275.000 4.927,"1,5 Zimmer","55,8 m²",3. Geschoss,https://www.immowelt.de/expose/b16480e3-2bd1-4c65-98b1-007c1302ee9e,1219,"Spandau,  Berlin (13585)",743
+Wilmersdorfer StraÃŸe 107c, Berlin (10629),365.000 5.505,3 Zimmer,"66,3 m²",5. Geschoss,https://www.immowelt.de/expose/e5a30bf0-ce4f-4d8a-b71a-03c13c9d4351,1219,"Wilmersdorfer StraÃŸe 107c,  Berlin (10629)",0
+Wilmersdorfer StraÃŸe 107a, Berlin (10629),228.000 4.825,2 Zimmer,"47,3 m²",1. Geschoss,https://www.immowelt.de/expose/44dced8d-2e5a-44a1-b0bd-922405abe982,1219,"Wilmersdorfer StraÃŸe 107a,  Berlin (10629)",0
+Spandau, Berlin (13585),460.000 4.791,3 Zimmer,96 m²,3. Geschoss,https://www.immowelt.de/expose/051a44d9-3690-49f7-a342-3e83b6b24aff,1219,"Spandau,  Berlin (13585)",743
+Spandau, Berlin (13585),280.000 4.869,2 Zimmer,"57,5 m²",2. Geschoss,https://www.immowelt.de/expose/a184f290-7ed5-4918-88e9-99cd56b5c368,1219,"Spandau,  Berlin (13585)",743
+Friedrichshain, Friedrichshain (10243),450.000 10.465,1 Zimmer,43 m²,6. Geschoss,https://www.immowelt.de/expose/98700d5f-dc3c-4788-8398-a9f145f26e0c,1219,"Friedrichshain,  Friedrichshain (10243)",381
+Akazienallee 43, Berlin (14050),499.000 5.364,3 Zimmer,93 m²,1. Geschoss,https://www.immowelt.de/expose/b68c1002-8a2c-402a-bfb0-825fe63c2f35,1219,"Akazienallee 43,  Berlin (14050)",166
+Karow, Berlin (13125),360.000 3.077,6 Zimmer,117 m²,560 m² Grundstuck,https://www.immowelt.de/expose/f17f85b5-9072-4156-a941-0d9d9b8f9a1f,1219,"Karow,  Berlin (13125)",99
+Biesdorf, Berlin (12683),650.000 4.483,6 Zimmer,145 m²,205 m² Grundstuck,https://www.immowelt.de/expose/37bf16a7-3079-42ed-a4d9-375e6effdc18,1219,"Biesdorf,  Berlin (12683)",204
+Tegel, Berlin (13507),2.500.000 19.616,15 Zimmer,"127,5 m²",939 m² Grundstuck,https://www.immowelt.de/expose/4dd4ba2d-6dba-4491-98bc-41f3b546093b,1219,"Tegel,  Berlin (13507)",466
+Lichtenrade, Berlin (12305),385.000 4.529,2 Zimmer,85 m²,2. Geschoss,https://www.immowelt.de/expose/4af11583-acc0-41b6-ba80-41745e0d0cb3,1219,"Lichtenrade,  Berlin (12305)",341
+Maybachufer 20, Berlin (12047),369.000 5.677,2 Zimmer,65 m²,4. Geschoss,https://www.immowelt.de/expose/ebfe5d56-40e6-41fa-ac0f-698d42e4ef4b,1219,"Maybachufer 20,  Berlin (12047)",1520
+Eylauer StraÃŸe 14, Berlin (10965),510.000 5.605,3 Zimmer,91 m²,3. Geschoss,https://www.immowelt.de/expose/0d9e949b-6cf6-4fb4-b335-42cd50fdc4a9,1219,"Eylauer StraÃŸe 14,  Berlin (10965)",0
+Ketschendorfer Weg 12, Berlin (12683),341000,2 Zimmer,549 m² Grundstuck,frei ab sofort,https://www.immowelt.de/expose/b169286f-613d-41a4-a405-aa8e4cc0ab42,1219,"Ketschendorfer Weg 12,  Berlin (12683)",173
+Steglitz, Berlin (12169),379.000 3.828,3 Zimmer,99 m²,2. Geschoss,https://www.immowelt.de/expose/0d39f878-e011-4357-8656-a2ecd2c38b4a,1219,"Steglitz,  Berlin (12169)",1036
+SchluterstraÃŸe 65, Berlin (10625),323.000 5.902,1 Zimmer,"54,7 m²",4. Geschoss,https://www.immowelt.de/expose/f1a0e09b-3be8-46d7-96d4-a238c89a4cce,1219,"SchluterstraÃŸe 65,  Berlin (10625)",0
+Grunewald, Berlin (14193),9.995.000 22.716,11 Zimmer,440 m²,900 m² Grundstuck,https://www.immowelt.de/expose/9a9d7c8c-f618-4839-aa91-e5d34ba8bb1e,1219,"Grunewald,  Berlin (14193)",129
+Tiergarten, Berlin / Tiergarten (10785),2.998.000 10.302,4 Zimmer,291 m²,14. Geschoss,https://www.immowelt.de/expose/5843c34e-8fee-4de2-9946-7853999430b4,1219,"Tiergarten,  Berlin / Tiergarten (10785)",278
+DudenstraÃŸe 76, Berlin (10965),330.000 5.088,2 Zimmer,"64,9 m²",3. Geschoss,https://www.immowelt.de/expose/8367e061-7ced-4fef-a294-dcc30b43dc7f,1219,"DudenstraÃŸe 76,  Berlin (10965)",0
+Kirschenallee 1c, Berlin (14050),650.000 5.243,4 Zimmer,124 m²,4. Geschoss,https://www.immowelt.de/expose/f0d12f1f-d7e3-411b-a9f1-1d1848b65bed,1219,"Kirschenallee 1c,  Berlin (14050)",164
+Paretzer StraÃŸe 10, Berlin (10713),366.000 3.735,3 Zimmer,98 m²,EG,https://www.immowelt.de/expose/c1b60c01-6104-4942-8fc2-e396b64e70f1,1219,"Paretzer StraÃŸe 10,  Berlin (10713)",0
+Wedding, Berlin (13353),175.000 3.646,2 Zimmer,48 m²,EG,https://www.immowelt.de/expose/d18a78bd-d792-4bb9-baeb-6f8c7195a64e,1219,"Wedding,  Berlin (13353)",960
+Friedrichshain, Berlin (10247),145.562 4.250,1 Zimmer,"34,3 m²",3. Geschoss,https://www.immowelt.de/expose/c03a47a4-d367-46fe-ac44-3d5750915c1e,1219,"Friedrichshain,  Berlin (10247)",1098
+Friedrichshain, Berlin (10247),342.720 4.200,3 Zimmer,"81,6 m²",4. Geschoss,https://www.immowelt.de/expose/f4e8d1ff-0fb8-4348-b4cb-26c78679bba1,1219,"Friedrichshain,  Berlin (10247)",1098
+Friedrichshain, Berlin (10247),319.062 4.100,3 Zimmer,"77,8 m²",2. Geschoss,https://www.immowelt.de/expose/966f9989-a65c-4269-910d-da30b311cb0c,1219,"Friedrichshain,  Berlin (10247)",1098
+Friedrichshain, Berlin (10247),428.368 4.100,3 Zimmer,"104,5 m²",2. Geschoss,https://www.immowelt.de/expose/fcecce0b-2e44-4b81-a286-cf9a296854ee,1219,"Friedrichshain,  Berlin (10247)",1098
+Friedrichshain, Berlin (10247),159.390 4.200,1 Zimmer,38 m²,Unknown,https://www.immowelt.de/expose/7346ddf1-2539-4127-9c01-ee2cc8191582,1219,"Friedrichshain,  Berlin (10247)",1098
+Friedrichshain, Berlin (10247),159.936 4.200,1 Zimmer,"38,1 m²",3. Geschoss,https://www.immowelt.de/expose/1ebef732-f634-41ce-a3f6-b36625d013f6,1219,"Friedrichshain,  Berlin (10247)",1098
+Friedrichshain, Berlin (10247),243.397 4.150,2 Zimmer,"58,7 m²",2. Geschoss,https://www.immowelt.de/expose/d50a32b1-a6a8-4586-ab22-3c41c9f1b483,1219,"Friedrichshain,  Berlin (10247)",1098
+Friedrichshain, Berlin (10247),364.253 4.300,3 Zimmer,"84,7 m²",4. Geschoss,https://www.immowelt.de/expose/bd86e9da-1d0b-4f8e-9a11-19b8822c0209,1219,"Friedrichshain,  Berlin (10247)",1098
+Friedrichshain, Berlin (10247),320.450 4.250,2 Zimmer,"75,4 m²",3. Geschoss,https://www.immowelt.de/expose/a07d0c42-b0d6-48de-9d0e-ab1baa39dd66,1219,"Friedrichshain,  Berlin (10247)",1098
+Friedrichshain, Berlin (10247),303.821 4.150,2 Zimmer,"73,2 m²",1. Geschoss,https://www.immowelt.de/expose/f36d4663-5a84-4ccb-8d7b-c2b81d053655,1219,"Friedrichshain,  Berlin (10247)",1098
+Rigaer Str. 39, Berlin (10247),399.900 5.767,2 Zimmer,"69,3 m²",4. Geschoss,https://www.immowelt.de/expose/0b83979a-32f6-49f7-a484-eccb3aa2cde6,1219,"Rigaer Str. 39,  Berlin (10247)",1202
+Schmargendorf, Berlin (14195),540.000 7.297,3 Zimmer,74 m²,Unknown,https://www.immowelt.de/expose/072b2ec2-4823-4e05-9be0-a97efbbcc70c,1219,"Schmargendorf,  Berlin (14195)",321
+ZaunkÃ¶nigweg 11a, Berlin (12351),570.000 3.865,3 Zimmer,"147,5 m²",Unknown,https://www.immowelt.de/expose/4fa9ec13-b36b-4b6c-9e5d-14d7cb8d7626,1219,"ZaunkÃ¶nigweg 11a,  Berlin (12351)",0
+Grunewald, Berlin (14193),13.100.000 10.826,23 Zimmer,1.210 m²,2.720 m² Grundstuck,https://www.immowelt.de/expose/071f1591-dc0a-4a7f-8288-66ae4e9f7bd1,1219,"Grunewald,  Berlin (14193)",129
+Frohnau, Berlin (13465),898.000 3.592,8 Zimmer,250 m²,720 m² Grundstuck,https://www.immowelt.de/expose/55023041-087d-4fee-8f3f-ca7327c047ac,1219,"Frohnau,  Berlin (13465)",277
+Kaulsdorf, Berlin (10585),1.100.000 6.111,5 Zimmer,180 m²,1.500 m² Grundstuck,https://www.immowelt.de/expose/af961f1d-27a6-4ff4-826f-133f0c428c45,1219,"Kaulsdorf,  Berlin (10585)",262
+Falkenhagener Str. 57, Berlin (13585),250.000 4.464,1 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/9fbde82f-89db-464c-b5e8-75307f6c3aff,1219,"Falkenhagener Str. 57,  Berlin (13585)",451
+Dahlem, Berlin (14195),5.995.000 11.990,8 Zimmer,500 m²,2.000 m² Grundstuck,https://www.immowelt.de/expose/239210fd-e287-4608-988b-c1ec2ca220c8,1219,"Dahlem,  Berlin (14195)",209
+TransvaalstraÃŸe 11, Berlin (13351),172.000 3.735,1 Zimmer,"46,1 m²",3. Geschoss,https://www.immowelt.de/expose/3d9182d0-cad6-4cfe-99d0-3f96de21864a,1219,"TransvaalstraÃŸe 11,  Berlin (13351)",0
+Rudow, Berlin (12355),475.000 3.770,5 Zimmer,126 m²,431 m² Grundstuck,https://www.immowelt.de/expose/10059563-8e38-4ff6-8fdf-eb16e4e82d2e,1219,"Rudow,  Berlin (12355)",391
+Wilmersdorf, Berlin (10719),970.000 5.879,3 Zimmer,165 m²,Unknown,https://www.immowelt.de/expose/0ca2273c-ecb0-4840-b220-f8bff9afd539,1219,"Wilmersdorf,  Berlin (10719)",720
+Kladow, Berlin (14089),2.000.000 6.667,8 Zimmer,300 m²,1.440 m² Grundstuck,https://www.immowelt.de/expose/8daf0030-a9ba-4844-8150-6600623d76e1,1219,"Kladow,  Berlin (14089)",116
+Eichborndamm 3, Berlin (13403),699.000 6.853,4 Zimmer,102 m²,3. Geschoss,https://www.immowelt.de/expose/fa11c88f-13bf-4fa4-8bec-e4facba72241,1219,"Eichborndamm 3,  Berlin (13403)",357
+Tempelhof, Berlin (12099),245.000 3.828,2 Zimmer,64 m²,1. Geschoss,https://www.immowelt.de/expose/4b22deb5-d428-4ec8-b85e-b116a133124c,1219,"Tempelhof,  Berlin (12099)",422
+Lichtenrade, Berlin (12305),499.000 3.995,3 Zimmer,"124,9 m²",585 m² Grundstuck,https://www.immowelt.de/expose/d109ff1e-a96c-4e16-88b7-dc807cf8fa34,1219,"Lichtenrade,  Berlin (12305)",341
+Rudow, Berlin (12355),1.089.000 3.068,10 Zimmer,355 m²,765 m² Grundstuck,https://www.immowelt.de/expose/bf7dffdb-e81f-4a54-aa08-3460d3fb78a4,1219,"Rudow,  Berlin (12355)",391
+Kaulsdorf, Berlin (12623),679.000 4.920,6 Zimmer,138 m²,510 m² Grundstuck,https://www.immowelt.de/expose/da2aa220-f22a-4437-8e68-6327d1ba1899,1219,"Kaulsdorf,  Berlin (12623)",262
+WeiÃŸensee, Berlin (13088),217.980 8.650,2 Zimmer,"25,2 m²",frei ab sofort,https://www.immowelt.de/expose/fe61aa28-f7cb-4c6f-bb5a-132523899ba3,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),1.073.800 9.043,4 Zimmer,"118,8 m²",frei ab sofort,https://www.immowelt.de/expose/a05366b6-a091-4415-9587-01b41a201fab,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),217.980 8.650,1 Zimmer,"25,2 m²",frei ab sofort,https://www.immowelt.de/expose/a56796f6-f3b5-40fa-baf6-10c9e5e2a9d2,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),218.838 8.750,2 Zimmer,25 m²,frei ab sofort,https://www.immowelt.de/expose/51a4603d-5e50-4c57-85bc-abb1fe7e68a5,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),436.914 8.100,2 Zimmer,"53,9 m²",frei ab sofort,https://www.immowelt.de/expose/66f4f0d1-998f-4ede-a4f6-0696f64ef9e1,1219,"WeiÃŸensee,  Berlin (13088)",0
+Borsigwalde, Berlin (13403),639.000 5.557,5 Zimmer,115 m²,Unknown,https://www.immowelt.de/expose/fb1d744d-96a7-45b5-a33c-f53a2dbcee6d,1219,"Borsigwalde,  Berlin (13403)",193
+WeiÃŸensee, Berlin (13088),212.960 8.800,2 Zimmer,"24,2 m²",frei ab sofort,https://www.immowelt.de/expose/7c6cb035-b5e3-4d6d-a7d2-75e482be73fa,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),186.150 8.500,1 Zimmer,"21,9 m²",frei ab sofort,https://www.immowelt.de/expose/8741e282-f260-43f5-bdac-083163254151,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),759.000 8.488,3 Zimmer,"89,4 m²",frei ab sofort,https://www.immowelt.de/expose/a3d50cf4-df30-4987-8a1c-318bd40c08e4,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),212.961 8.800,1 Zimmer,"24,2 m²",frei ab sofort,https://www.immowelt.de/expose/3099b998-0a88-4379-9c33-30382c91a42e,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),193.600 8.800,1 Zimmer,22 m²,frei ab sofort,https://www.immowelt.de/expose/8a52141a-8d12-4344-b3bc-8a110dda439a,1219,"WeiÃŸensee,  Berlin (13088)",0
+Spandau, Berlin (13583),239.900 4.043,2 Zimmer,"59,3 m²",4. Geschoss,https://www.immowelt.de/expose/9c852238-0341-43df-b704-db82dc76d88f,1219,"Spandau,  Berlin (13583)",743
+Wilmersdorfer StraÃŸe 107c, Berlin (10629),405.000 5.780,3 Zimmer,"70,1 m²",2. Geschoss,https://www.immowelt.de/expose/ab344f1a-b2c0-4d45-9924-351f500aa461,1219,"Wilmersdorfer StraÃŸe 107c,  Berlin (10629)",0
+WeiÃŸensee, Berlin (13088),984.000 8.000,4 Zimmer,123 m²,45 m² Grundstuck,https://www.immowelt.de/expose/658000bb-9d95-4689-9617-76e20509c6f1,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),1.650.000 7.674,10 Zimmer,215 m²,100 m² Grundstuck,https://www.immowelt.de/expose/82a359db-11d5-40bc-94b6-403ed30d447c,1219,"WeiÃŸensee,  Berlin (13088)",0
+Mitte, Berlin (10179),1.300.000 9.155,4 Zimmer,142 m²,Unknown,https://www.immowelt.de/expose/a5619bc4-4927-449f-bf20-1145337a38ab,1219,"Mitte,  Berlin (10179)",773
+WeiÃŸensee, Berlin (13088),212.960 8.800,1 Zimmer,"24,2 m²",frei ab sofort,https://www.immowelt.de/expose/8f54b285-bea7-4c01-8976-016dd378b0fe,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),212.960 8.800,2 Zimmer,"24,2 m²",frei ab sofort,https://www.immowelt.de/expose/c9166fa2-a43e-4107-b159-7c2b3cee1cbd,1219,"WeiÃŸensee,  Berlin (13088)",0
+AckerstraÃŸe 153, Berlin (10115),525.000 6.974,3 Zimmer,"75,3 m²",2. Geschoss,https://www.immowelt.de/expose/e0defb01-8e0e-40bc-b8d5-2c712099e81d,1219,"AckerstraÃŸe 153,  Berlin (10115)",0
+AckerstraÃŸe 153, Berlin (10115),498.000 6.510,3 Zimmer,"76,5 m²",1. Geschoss,https://www.immowelt.de/expose/e3a8da95-0d24-4c55-b777-4bbbe406a8d2,1219,"AckerstraÃŸe 153,  Berlin (10115)",0
+AckerstraÃŸe 153, Berlin (10115),380.000 6.302,2 Zimmer,"60,3 m²",1. Geschoss,https://www.immowelt.de/expose/6f23c630-0061-4591-918f-1287180696e4,1219,"AckerstraÃŸe 153,  Berlin (10115)",0
+AckerstraÃŸe 153, Berlin (10115),398.000 6.627,2 Zimmer,"60,1 m²",2. Geschoss,https://www.immowelt.de/expose/afb449de-deda-4514-8fc7-52e53da09a22,1219,"AckerstraÃŸe 153,  Berlin (10115)",0
+AckerstraÃŸe 153, Berlin (10115),262.000 6.529,1 Zimmer,"40,1 m²",1. Geschoss,https://www.immowelt.de/expose/b77c95f5-dd26-4d49-abca-cadf1c5d387c,1219,"AckerstraÃŸe 153,  Berlin (10115)",0
+WeiÃŸensee, Berlin (13088),873.500 8.248,5 Zimmer,"105,9 m²","50,8 m² Grundstuck",https://www.immowelt.de/expose/39fa8ef6-935f-4ff9-af8c-216e8dde075c,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),212.960 8.800,2 Zimmer,"24,2 m²",frei ab sofort,https://www.immowelt.de/expose/e87a25a4-0f09-41e4-8b04-d032e954a272,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),646.800 8.800,3 Zimmer,"73,5 m²",45 m² Grundstuck,https://www.immowelt.de/expose/8b3624f4-c84c-4c16-982a-610cbbd112a3,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),769.384 8.803,3 Zimmer,"87,4 m²",frei ab sofort,https://www.immowelt.de/expose/e69ba9db-981e-4e2d-8a58-c10dea606624,1219,"WeiÃŸensee,  Berlin (13088)",0
+Schmargendorf, Berlin (14193),1.395.000 9.621,4 Zimmer,145 m²,4. Geschoss,https://www.immowelt.de/expose/107eed73-a87e-49cd-bde2-ceaaa14c256c,1219,"Schmargendorf,  Berlin (14193)",321
+NiederschÃ¶neweide, Berlin (12439),2.500.000 2.551,980 m²,Unknown,Unknown,https://www.immowelt.de/expose/dd4eedd7-ce26-4130-89a1-ff621eee4f9d,1219,"NiederschÃ¶neweide,  Berlin (12439)",0
+DudenstraÃŸe 76, Berlin (10965),275.000 3.721,2 Zimmer,"73,9 m²",1. Geschoss,https://www.immowelt.de/expose/f16f4f1a-ba7e-4ec7-98a7-31a65ec4d6ac,1219,"DudenstraÃŸe 76,  Berlin (10965)",0
+Friedrichshain, Berlin (10245),1.125.000 9.956,4 Zimmer,113 m²,3. Geschoss,https://www.immowelt.de/expose/4bbe9678-b665-453f-a049-1a8dcd3c0b7c,1219,"Friedrichshain,  Berlin (10245)",1098
+TiriotstraÃŸe 56E, Berlin (13127),699.000 6.217,4 Zimmer,115 m²,356 m² Grundstuck,https://www.immowelt.de/expose/1bfbad74-0330-43cc-a1c1-52ed305b843e,1219,"TiriotstraÃŸe 56E,  Berlin (13127)",0
+TiriotstraÃŸe 56B, Berlin / FranzÃ¶sisch Buchholz (13127),649.000 6.043,4 Zimmer,115 m²,356 m² Grundstuck,https://www.immowelt.de/expose/f94d88c4-72af-484f-a189-582091cfdab4,1219,"TiriotstraÃŸe 56B,  Berlin / FranzÃ¶sisch Buchholz (13127)",0
+WeiÃŸensee, Berlin (13088),967.600 8.148,4 Zimmer,"118,8 m²",45 m² Grundstuck,https://www.immowelt.de/expose/43d78032-bec2-4a1f-875c-83278df7ac4c,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),769.384 8.803,3 Zimmer,"87,4 m²",frei ab sofort,https://www.immowelt.de/expose/d9d12db9-5cfd-4e11-8cdd-2c4a36c062a3,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),769.384 8.803,3 Zimmer,"87,4 m²",45 m² Grundstuck,https://www.immowelt.de/expose/f9e4d8b1-f050-4a01-8485-5a002b737e86,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),769.384 8.803,3 Zimmer,"87,4 m²",45 m² Grundstuck,https://www.immowelt.de/expose/f4b9dd6e-4f7b-4340-884c-d8f47a8fb61f,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),734.412 8.403,3 Zimmer,"87,4 m²",45 m² Grundstuck,https://www.immowelt.de/expose/2006da73-d9a3-4e06-aca4-b76faf42304b,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),786.896 8.800,3 Zimmer,"89,4 m²",45 m² Grundstuck,https://www.immowelt.de/expose/8dfc3aba-8b31-4812-935f-8f23bf3593b8,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),646.800 8.800,3 Zimmer,"73,5 m²",45 m² Grundstuck,https://www.immowelt.de/expose/c5d49fd1-0d58-4689-bcee-e0b8a44b50a4,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),786.896 8.800,3 Zimmer,"89,4 m²",45 m² Grundstuck,https://www.immowelt.de/expose/fc53a088-24e3-46ed-ba1c-374b8390a9b0,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),742.186 8.300,3 Zimmer,"89,4 m²",45 m² Grundstuck,https://www.immowelt.de/expose/fbd53751-d30d-4f46-8a3c-245595bdbc0b,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),786.896 8.800,3 Zimmer,"89,4 m²",frei ab sofort,https://www.immowelt.de/expose/682517c8-df68-4c85-ab7d-622ffbd33cd9,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),186.150 8.500,1 Zimmer,"21,9 m²",frei ab sofort,https://www.immowelt.de/expose/b0b2a088-6a5b-44d0-bbc7-f295ef683845,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),212.960 8.800,2 Zimmer,"24,2 m²",frei ab sofort,https://www.immowelt.de/expose/5c1e44f3-290f-4db3-a71d-d1cb28565cc8,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),646.800 8.800,3 Zimmer,"73,5 m²",frei ab sofort,https://www.immowelt.de/expose/7b1c3890-7fe2-4f31-ab99-650e63b3a2d8,1219,"WeiÃŸensee,  Berlin (13088)",0
+WeiÃŸensee, Berlin (13088),212.960 8.800,2 Zimmer,"24,2 m²",frei ab sofort,https://www.immowelt.de/expose/cd50885f-d5e3-40ff-a10e-fd1a7092f3fd,1219,"WeiÃŸensee,  Berlin (13088)",0
+Sonnenallee 194, Berlin / NeukÃ¶lln (12059),229.000 5.262,"1,5 Zimmer","43,5 m²",1. Geschoss,https://www.immowelt.de/expose/5720f464-fc12-4ce4-a15e-63def9140197,1219,"Sonnenallee 194,  Berlin / NeukÃ¶lln (12059)",0
+AntonienstraÃŸe 2, Berlin (13403),581.000 6.835,3 Zimmer,85 m²,4. Geschoss,https://www.immowelt.de/expose/289f39fc-bc9b-4b41-a1d9-d7600ed8b3dc,1219,"AntonienstraÃŸe 2,  Berlin (13403)",0
+Oppelner StraÃŸe 10, Berlin (10997),499.000 4.386,4 Zimmer,"113,8 m²",EG,https://www.immowelt.de/expose/f91b7b09-4279-416c-b9de-8f2308c3de20,1219,"Oppelner StraÃŸe 10,  Berlin (10997)",0
+Westend, Berlin (14055),297.000 5.712,"1,5 Zimmer",52 m²,frei ab sofort,https://www.immowelt.de/expose/7c2bec76-946b-4281-bdb5-9e3869add0e9,1219,"Westend,  Berlin (14055)",439
+Wilmersdorf, Berlin (10719),1.050.000 6.364,3 Zimmer,165 m²,Unknown,https://www.immowelt.de/expose/13dfc9e9-d317-4631-a17c-046a706cbe9d,1219,"Wilmersdorf,  Berlin (10719)",720
+Schlesische StraÃŸe 16, Berlin (10997),398.000 4.777,3 Zimmer,"83,3 m²",4. Geschoss,https://www.immowelt.de/expose/843d2d51-7fb9-46ad-a5cf-237edf8aa103,1219,"Schlesische StraÃŸe 16,  Berlin (10997)",0
+CuvrystraÃŸe 49, Berlin (10997),425.000 4.271,4 Zimmer,"99,5 m²",1. Geschoss,https://www.immowelt.de/expose/117b85b6-63f4-4c48-8b9a-6c1751ae905a,1219,"CuvrystraÃŸe 49,  Berlin (10997)",0
+Lindenthaler Allee 36, Berlin (14163),525.000 5.296,3 Zimmer,"99,1 m²",2. Geschoss,https://www.immowelt.de/expose/237e7287-fe65-4f28-898e-5f110927d244,1219,"Lindenthaler Allee 36,  Berlin (14163)",131
+Lindenthaler Allee 36, Berlin (14163),545.000 5.489,3 Zimmer,"99,3 m²",2. Geschoss,https://www.immowelt.de/expose/15f859db-c6b4-4cab-8389-6895c78104c6,1219,"Lindenthaler Allee 36,  Berlin (14163)",131
+Wilmersdorf, Berlin (10777),769.000 7.324,4 Zimmer,105 m²,5. Geschoss,https://www.immowelt.de/expose/36e43b83-013d-4df1-9112-769f91b428fc,1219,"Wilmersdorf,  Berlin (10777)",720
+Prenzlauer Berg, Berlin / Prenzlauer Berg (10437),750.000 8.263,3 Zimmer,"90,8 m²",2. Geschoss,https://www.immowelt.de/expose/57211194-d723-4a1c-be66-b5ad815e4a7b,1219,"Prenzlauer Berg,  Berlin / Prenzlauer Berg (10437)",782
+Prenzlauer Berg, Berlin / Prenzlauer Berg (10437),538.000 7.437,3 Zimmer,"72,3 m²",EG,https://www.immowelt.de/expose/38bc6a50-d2d7-489f-93aa-0fd9297f63d4,1219,"Prenzlauer Berg,  Berlin / Prenzlauer Berg (10437)",782
+Lankwitz, Berlin (12249),950.000 3.654,6 Zimmer,260 m²,954 m² Grundstuck,https://www.immowelt.de/expose/1f55feea-5eb3-4550-9f0b-80ed02e6e1fb,1219,"Lankwitz,  Berlin (12249)",325
+Wilmersdorf, Berlin (14197),799.000 7.330,4 Zimmer,109 m²,Unknown,https://www.immowelt.de/expose/e55cd5b8-ac5b-4ea1-b4cb-1e4ba664a320,1219,"Wilmersdorf,  Berlin (14197)",720
+Lankwitz, Berlin (12249),950.000 3.654,7 Zimmer,260 m²,930 m² Grundstuck,https://www.immowelt.de/expose/4e4badcd-46cc-40d9-ab3b-cc783a54233b,1219,"Lankwitz,  Berlin (12249)",325
+NollendorfstraÃŸe 33, Berlin (10777),420.000 7.925,2 Zimmer,53 m²,1. Geschoss,https://www.immowelt.de/expose/03800bed-7d85-4de0-9b3c-8b2fdfd8b738,1219,"NollendorfstraÃŸe 33,  Berlin (10777)",0
+Alt-HohenschÃ¶nhausen, Berlin (10315),370.000 7.400,2 Zimmer,50 m²,3. Geschoss,https://www.immowelt.de/expose/a1a8abd5-01f6-4e8c-90e5-d1e1963ae5fe,1219,"Alt-HohenschÃ¶nhausen,  Berlin (10315)",0
+Alt-HohenschÃ¶nhausen, Berlin (10315),370.000 7.400,2 Zimmer,50 m²,3. Geschoss,https://www.immowelt.de/expose/cfeb6f83-7a72-4700-b628-771a1cd5454c,1219,"Alt-HohenschÃ¶nhausen,  Berlin (10315)",0
+Steglitz, Berlin (12165),1.290.000 7.011,5 Zimmer,184 m²,Unknown,https://www.immowelt.de/expose/7b0d29e0-f70f-45e6-8b15-63ea6c659337,1219,"Steglitz,  Berlin (12165)",1036
+TreskowstraÃŸe 22, Berlin (13089),490.000 7.327,3 Zimmer,"66,9 m²",5. Geschoss,https://www.immowelt.de/expose/982ae266-76df-46ca-a9c0-863a05f63527,1219,"TreskowstraÃŸe 22,  Berlin (13089)",0
+BrunnenstraÃŸe 171, Berlin (10119),258.000 7.074,"1,5 Zimmer","36,5 m²",1. Geschoss,https://www.immowelt.de/expose/9fe7a136-a6a0-4ec1-a943-a8e28aa8521f,1219,"BrunnenstraÃŸe 171,  Berlin (10119)",0
+BrunnenstraÃŸe 171, Berlin (10119),468.000 6.292,2 Zimmer,"74,4 m²",2. Geschoss,https://www.immowelt.de/expose/8cc39128-ca17-407e-95f9-16b22e90d945,1219,"BrunnenstraÃŸe 171,  Berlin (10119)",0
+BrunnenstraÃŸe 171, Berlin (10119),730.000 6.687,4 Zimmer,"109,2 m²",3. Geschoss,https://www.immowelt.de/expose/c5f62e31-a4f2-4a0c-b0bb-be6b726defc3,1219,"BrunnenstraÃŸe 171,  Berlin (10119)",0
+SedanstraÃŸe 3, Berlin / Steglitz (12167),379.000 4.480,2 Zimmer,"84,6 m²",EG,https://www.immowelt.de/expose/5ecb0907-fdfb-461c-9f1d-9f22f575d3e0,1219,"SedanstraÃŸe 3,  Berlin / Steglitz (12167)",0

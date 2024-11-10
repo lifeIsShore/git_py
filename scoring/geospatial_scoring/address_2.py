@@ -40,7 +40,7 @@ df["full_address"] = df.iloc[:, 0] + ", " + df.iloc[:, 1]
 
 # Set the batch size and the starting batch number
 batch_size = 1000
-start_batch = 6  # Start from batch 6
+start_batch = 13  # Start from batch 6
 num_batches = (len(df) + batch_size - 1) // batch_size  # Calculate total number of batches
 
 # Process from the specified starting batch
