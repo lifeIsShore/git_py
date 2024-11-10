@@ -1,0 +1,450 @@
+Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL;city_id
+Ballenstedter Straße, Magdeburg (39118),572.100 € 2.861 €/m²,6 Zimmer,200 m²,595 m² Grundstück,https://www.immowelt.de/expose/13dbd287-1d5b-4f74-8003-faf901f9cb6b;1428
+Ballenstedter Straße, Magdeburg (39118),540.400 € 4.323 €/m²,5 Zimmer,125 m²,650 m² Grundstück,https://www.immowelt.de/expose/70661408-4bbf-44da-8cb0-ed6955ddfdca;1428
+Puppendorf, Magdeburg (39114),502.199 € 3.693 €/m²,4 Zimmer,136 m²,655 m² Grundstück,https://www.immowelt.de/expose/aa497156-83e3-4665-bc93-d8ac45d30896;1428
+"Klosterwuhne, Magdeburg (39124),257.000 € 1.922 €/m²,4 Zimmer,""133,7 m²"",650 m² Grundstück,https://www.immowelt.de/expose/5378232a-1a75-429e-b153-326346c22778";1428
+"Lüttgen-Salbke, Magdeburg (39122),233.000 € 1.743 €/m²,4 Zimmer,""133,7 m²"",Unknown,https://www.immowelt.de/expose/8cefbe70-8516-42e9-b99b-21e6b62f1ff5";1428
+Falkensteiner Weg, Ballenstedter Straße, Magdeburg (39118),459.500 € 3.861 €/m²,4 Zimmer,119 m²,370 m² Grundstück,https://www.immowelt.de/expose/54c7c9be-a4f1-4780-a822-ed0b4bf421d0;1428
+Alt Lemsdorf, Magdeburg (39116),578.700 € 3.572 €/m²,5 Zimmer,162 m²,606 m² Grundstück,https://www.immowelt.de/expose/2d5dcac7-f80a-4148-8255-f82feafc97aa;1428
+Schellheimerplatz, Magdeburg (39108),147.000 € 2.333 €/m²,3 Zimmer,63 m²,3. Geschoss,https://www.immowelt.de/expose/8a2cb90e-da99-4d9d-bf85-d3002ea046c1;1428
+Gröperstraße / Nachtweide, Magdeburg (39124),489.800 € 3.711 €/m²,5 Zimmer,132 m²,500 m² Grundstück,https://www.immowelt.de/expose/06e587e7-e365-46cb-abd8-c914b795515c;1428
+Umspannwerk, Magdeburg (39110),534.700 € 4.278 €/m²,5 Zimmer,125 m²,750 m² Grundstück,https://www.immowelt.de/expose/235b12bc-e4c4-4d16-97f4-514c38a72f60;1428
+Damaschkeplatz, Magdeburg (39114),494.690 € 4.497 €/m²,4 Zimmer,110 m²,918 m² Grundstück,https://www.immowelt.de/expose/96516514-cad9-4cf4-ba4a-b059229dc9a9;1428
+Ballenstedter Straße, Magdeburg (39118),345.800 € 2.581 €/m²,5 Zimmer,134 m²,595 m² Grundstück,https://www.immowelt.de/expose/db2fee62-513d-437f-b242-9594701416af;1428
+Rathausviertel, Magdeburg (39104),82.752 € 2.364 €/m²,1 Zimmer,35 m²,Unknown,https://www.immowelt.de/expose/1ff54e52-1900-47e0-a30d-8499317cd3b8;1428
+"Arndtstr. 34, Adelheidring, Magdeburg / Stadtfeld Ost (39108),349.000 € 1.347 €/m²,""259,1 m²"",""101,7 m² Grundstück"",Unknown,https://www.immowelt.de/expose/181d754d-4086-4f67-9507-2986327fbe55";1428
+Engpaß, Magdeburg (39104),599.000 € 1.120 €/m²,535 m²,560 m² Grundstück,Unknown,https://www.immowelt.de/expose/c9442634-c1a2-40d3-a512-7699f5f9db1e;1428
+Ballenstedter Straße, Magdeburg (39118),443.700 € 3.550 €/m²,5 Zimmer,125 m²,350 m² Grundstück,https://www.immowelt.de/expose/1c981539-c2f2-40c4-95ac-c85c6ad987f8;1428
+"Gustav-Ricker-Straße 16, Fauler Grund, Magdeburg (39120),79.000 € 1.890 €/m²,1 Zimmer,""41,8 m²"",2. Geschoss,https://www.immowelt.de/expose/21c67b87-2fc6-4c7a-acea-1a933d0d6802";1428
+Sohlen, Magdeburg (39122),454.372 € 3.269 €/m²,4 Zimmer,139 m²,560 m² Grundstück,https://www.immowelt.de/expose/a3055a8e-834c-4373-aa41-05d3bf3fcb3d;1428
+Werder, Magdeburg (39114),160.000 € 1.975 €/m²,3 Zimmer,81 m²,2. Geschoss,https://www.immowelt.de/expose/f1f43906-bacb-44c5-bd5e-7ca67586535c;1428
+"Olvenstedter Platz, Magdeburg (39108),85.000 € 1.731 €/m²,2 Zimmer,""49,1 m²"",1. Geschoss,https://www.immowelt.de/expose/770b0c61-5b57-4319-b023-47333fd5a3ab";1428
+Sohlen, Magdeburg (39122),514.228 € 3.214 €/m²,4 Zimmer,160 m²,569 m² Grundstück,https://www.immowelt.de/expose/0147ff77-81a3-4594-ab9e-2e6cb93df2dd;1428
+Puppendorf, Magdeburg (39114),562.583 € 4.077 €/m²,4 Zimmer,138 m²,620 m² Grundstück,https://www.immowelt.de/expose/bc647497-296e-498e-a7f9-43a1cb0b5361;1428
+Marktbreite, Magdeburg (39130),442.283 € 3.402 €/m²,4 Zimmer,130 m²,565 m² Grundstück,https://www.immowelt.de/expose/b4559108-ecf8-4f35-a217-cf0f9721e87d;1428
+Weizengrund, Magdeburg (39130),449.800 € 3.408 €/m²,5 Zimmer,132 m²,600 m² Grundstück,https://www.immowelt.de/expose/fa018a6e-4d33-4d76-96d6-100feb1c001b;1428
+"Birkenweiler, Magdeburg (39128),200.000 € 1.747 €/m²,""5,5 Zimmer"",""114,5 m²"",1.000 m² Grundstück,https://www.immowelt.de/expose/5c56f51b-7375-4ca9-8fdf-c78da148c9b7";1428
+Alt Lemsdorf, Magdeburg (39118),374.187 € 2.712 €/m²,4 Zimmer,138 m²,810 m² Grundstück,https://www.immowelt.de/expose/b46b368d-55c7-4523-ada8-d692f978f365;1428
+"An der Enckekaserne 121, Beimssiedlung, Magdeburg (39110),105.000 € 1.408 €/m²,2 Zimmer,""74,6 m²"",Unknown,https://www.immowelt.de/expose/dd7960ec-73e5-453a-8f30-a08b7646873e";1428
+"Neugrüneberg, Magdeburg (39114),549.000 € 3.495 €/m²,4 Zimmer,""157,1 m²"",1.138 m² Grundstück,https://www.immowelt.de/expose/92c92a81-edf1-49ee-a111-3703cc52e817";1428
+"Sülldorfer Straße 34, Lüttgen-Salbke, Magdeburg (39122),250.000 € 2.615 €/m²,4 Zimmer,""95,6 m²"",961 m² Grundstück,https://www.immowelt.de/expose/c427115f-c803-4c99-9fe7-00d4d18b98cd";1428
+"Friedenshöhe, Magdeburg / Sudenburg (39116),750.000 € 4.110 €/m²,5 Zimmer,""182,5 m²"",750 m² Grundstück,https://www.immowelt.de/expose/05843a6e-5227-4fbd-a431-396d50823b5d";1428
+Johannes-Schlaf-Straße 27, Schroteanger, Magdeburg / Stadtfeld West (39110),449.000 € 2.705 €/m²,6 Zimmer,166 m²,514 m² Grundstück,https://www.immowelt.de/expose/90cdcd1e-57a6-4062-82ad-646d95773c45;1428
+Fichtestraße / Ambrosiusplatz, Magdeburg (39116),175.000 € 1.549 €/m²,4 Zimmer,113 m²,638 m² Grundstück,https://www.immowelt.de/expose/96a9bd15-56a8-48cc-888c-bede3b6a3fd6;1428
+Alt Cracau, Magdeburg (39114),640.000 € 3.765 €/m²,4 Zimmer,170 m²,1.130 m² Grundstück,https://www.immowelt.de/expose/090dc643-8581-400b-818b-1aca0682a710;1428
+Sternbogen, Magdeburg (39130),449.800 € 3.408 €/m²,5 Zimmer,132 m²,600 m² Grundstück,https://www.immowelt.de/expose/e5e4b6d8-95c1-44bf-a2c0-81ce22b28940;1428
+Ballenstedter Straße, Magdeburg (39118),544.400 € 4.355 €/m²,5 Zimmer,125 m²,660 m² Grundstück,https://www.immowelt.de/expose/19b538f6-7c2f-4034-8333-8e91103fb07a;1428
+Kleine Sternstraße 9, Weizengrund, Magdeburg (39130),590.000 € 1.590 €/m²,13 Zimmer,371 m²,1.722 m² Grundstück,https://www.immowelt.de/expose/31b7f7f1-24ff-4e92-b163-ea9677488c18;1428
+Beimssiedlung, Magdeburg (39110),82.000 € 1.608 €/m²,2 Zimmer,51 m²,Unknown,https://www.immowelt.de/expose/8a2bd562-f982-41d3-ba72-6b3e7d1ee661;1428
+Remkersleber Weg 21, Hohendodeleber Weg, Magdeburg / Diesdorf (39110),199.000 € 2.369 €/m²,4 Zimmer,84 m²,589 m² Grundstück,https://www.immowelt.de/expose/3acc9b8c-b8c1-4be5-9e5d-94dcdad23d74;1428
+"Nicolaiplatz, Magdeburg (39124),1.750.000 € 3.075 €/m²,""564,6 m²"",650 m² Grundstück,Unknown,https://www.immowelt.de/expose/a3c0af50-3943-4e81-a34b-bccc8b1c2fd9";1428
+Lindenhof, Magdeburg (39120),470.300 € 5.735 €/m²,2 Zimmer,82 m²,450 m² Grundstück,https://www.immowelt.de/expose/e3fafc63-a6b7-4773-b1ca-9733f64bfe57;1428
+Sternbogen, Magdeburg (39130),449.800 € 3.408 €/m²,5 Zimmer,132 m²,600 m² Grundstück,https://www.immowelt.de/expose/1c448180-6c71-44a9-ba0f-d26ccdbb115d;1428
+Gneisenauring, Magdeburg (39130),399.200 € 2.464 €/m²,6 Zimmer,162 m²,670 m² Grundstück,https://www.immowelt.de/expose/73d0919e-466b-438b-bef7-b03eed1e1ed7;1428
+Damaschkeplatz, Magdeburg (39114),478.050 € 5.312 €/m²,3 Zimmer,90 m²,918 m² Grundstück,https://www.immowelt.de/expose/e360669d-fb03-4949-8781-0d83bf9b7240;1428
+Steinwiese, Magdeburg (39114),435.750 € 2.533 €/m²,6 Zimmer,172 m²,689 m² Grundstück,https://www.immowelt.de/expose/7e6dd80d-524f-414f-842c-a7221e375bab;1428
+Marktbreite, Magdeburg (39130),425.748 € 3.154 €/m²,4 Zimmer,135 m²,500 m² Grundstück,https://www.immowelt.de/expose/b10671d0-8259-49d6-9afb-7b1a86c3e7da;1428
+Sternstraße 8, Sternviertel, Magdeburg (39104),2.170.000 € 1.088 €/m²,73 Zimmer,1.995 m²,521 m² Grundstück,https://www.immowelt.de/expose/cce194ef-76cc-4d2e-ac14-b4249d0fc68e;1428
+Halberstädter Straße 45, Am Glacis, Magdeburg (39112),960.000 € 1.296 €/m²,17 Zimmer,741 m²,560 m² Grundstück,https://www.immowelt.de/expose/723e06f2-84ce-4781-80b8-1e47a1dce610;1428
+Friedenstraße 10, Salzmannstraße, Magdeburg (39112),580.000 € 673 €/m²,31 Zimmer,862 m²,992 m² Grundstück,https://www.immowelt.de/expose/2c58b482-6323-4dec-ad5e-3d1058f75345;1428
+Damaschkeplatz, Magdeburg (39114),478.050 € 5.312 €/m²,3 Zimmer,90 m²,918 m² Grundstück,https://www.immowelt.de/expose/2d8b25d5-4b36-4165-9db0-a540abbc2194;1428
+Lüttgen-Salbke, Magdeburg (39122),929.900 € 4.189 €/m²,6 Zimmer,222 m²,1.900 m² Grundstück,https://www.immowelt.de/expose/9015f94b-fe1d-43d8-8154-f3f74a893027;1428
+Herweghstraße 23, Siedlung Cracau, Magdeburg (39114),99.000 € 1.980 €/m²,2 Zimmer,50 m²,1. Geschoss,https://www.immowelt.de/expose/2a3984a6-69ae-4492-ad33-21107600af03;1428
+Herweghstraße 23, Siedlung Cracau, Magdeburg (39114),89.000 € 1.978 €/m²,2 Zimmer,45 m²,1. Geschoss,https://www.immowelt.de/expose/d4ba4614-c495-466d-ab89-56cfb31858a5;1428
+"Arndtstr. 34, Adelheidring, Magdeburg / Stadtfeld Ost (39108),349.000 € 1.347 €/m²,""259,1 m²"",Unknown,Unknown,https://www.immowelt.de/expose/95c646a8-f841-4cce-bf73-0669b865c178";1428
+"Morgenstraße 11a, Nicolaiplatz, Magdeburg (39124),103.000 € 2.315 €/m²,2 Zimmer,""44,5 m²"",4. Geschoss,https://www.immowelt.de/expose/6dd36405-3089-4da9-acd1-7d3eb36e4ddd";1428
+Leibnitzstr. 28, Rathausviertel, Magdeburg (39104),199.000 € 2.211 €/m²,3 Zimmer,90 m²,Unknown,https://www.immowelt.de/expose/1d249d57-3475-4a1d-9903-0f38115a4a2e;1428
+"Morgenstraße 13, Nicolaiplatz, Magdeburg (39124),99.900 € 2.159 €/m²,2 Zimmer,""46,3 m²"",1. Geschoss,https://www.immowelt.de/expose/af1ee699-4770-4f19-8d59-98afc92403d3";1428
+"Insleber Straße / Münchenhofstraße, Magdeburg / Alte Neustadt (39106),105.000 € 1.919 €/m²,3 Zimmer,""54,7 m²"",Unknown,https://www.immowelt.de/expose/9566c842-02f8-46b7-8220-9e8e830bac6b";1428
+Ballenstedter Straße, Magdeburg (39118),3.600.000 € 563 €/m²,6.400 m²,14.000 m² Grundstück,Unknown,https://www.immowelt.de/expose/07d47eb8-1a07-4050-bbfa-e200be8762cd;1428
+Falkensteiner Weg, Ballenstedter Straße, Magdeburg (39118),379.000 € 3.867 €/m²,4 Zimmer,98 m²,205 m² Grundstück,https://www.immowelt.de/expose/e3798bc9-ebe8-4a19-ad89-8a3db21c8f5b;1428
+.., Hohendodeleber Weg, Magdeburg (39110),250.000 € 2.551 €/m²,2 Zimmer,98 m²,300 m² Grundstück,https://www.immowelt.de/expose/07ab49a7-1b36-4002-901b-001be9b928f1;1428
+"Heidestr. 30, Salzmannstraße, Magdeburg (39112),55.000 € 1.300 €/m²,""1,5 Zimmer"",""42,3 m²"",Unknown,https://www.immowelt.de/expose/6c88ef6b-1ffe-4d3f-8e9e-a0edb1251b96";1428
+"Alt Fermersleben, Magdeburg (39122),Preis auf Anfrage,1 Zimmer,""27,5 m²"",1. Geschoss,https://www.immowelt.de/expose/065b59e2-8d38-430d-821d-7eba5b6accf0";1428
+Nicolaiplatz, Magdeburg (39124),195.000 € 1.990 €/m²,2 Zimmer,98 m²,2. Geschoss,https://www.immowelt.de/expose/ae563596-688a-4812-9654-5c4ea60ed288;1428
+Karl-Schmidt-Straße, Engpaß, Magdeburg (39104),Preis auf Anfrage,3.143 m²,1.398 m² Grundstück,Unknown,https://www.immowelt.de/expose/91de1139-8038-4e59-9a90-cfedf31a5c56;1428
+Gewerbegebiet Buckau, Magdeburg (39104),Preis auf Anfrage,1.637 m²,2.989 m² Grundstück,Unknown,https://www.immowelt.de/expose/89b371f9-af25-46b9-adca-e899d8b3b927;1428
+"Alt Ottersleben, Magdeburg (39116),465.000 € 2.101 €/m²,6 Zimmer,""221,4 m²"",460 m² Grundstück,https://www.immowelt.de/expose/7ae64286-1886-4d12-8db8-1d98dc360e17";1428
+Große-Diesdorfer Straße 49, Pestalozzistraße, Magdeburg (39110),95.000 € 1.791 €/m²,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/59b4f983-6fc0-4788-94bf-6da24d647fd7;1428
+"Alexander-Puschkin-Straße 51, St. Pauli / Alexander-Puschkin-Straße, Magdeburg (39108),69.000 € 1.323 €/m²,2 Zimmer,""52,2 m²"",EG,https://www.immowelt.de/expose/5f5cfeb8-20b7-48a8-86af-446041f07d92";1428
+Goethestraße 42, St. Pauli / Alexander-Puschkin-Straße, Magdeburg (39108),115.000 € 2.300 €/m²,2 Zimmer,50 m²,EG,https://www.immowelt.de/expose/3d03d0d7-7778-4cf9-b09d-e6e3cd2e8326;1428
+"Alexander-Puschkin-Straße 51, St. Pauli / Alexander-Puschkin-Straße, Magdeburg (39108),89.000 € 1.707 €/m²,2 Zimmer,""52,2 m²"",EG,https://www.immowelt.de/expose/b5f9f44e-7a69-42a1-88b0-f9318a1b33ce";1428
+Siedlung Fermersleben, Magdeburg (39122),Preis auf Anfrage,51 Zimmer,1.500 m²,25.758 m² Grundstück,https://www.immowelt.de/expose/4cccea50-2682-47ce-bd0f-e753d0ab8655;1428
+Halberstädter Straße 167, Wormser Platz, Magdeburg (39112),450.000 €,1.171 m² Grundstück,Unknown,Unknown,https://www.immowelt.de/expose/8b3696e1-4003-449f-8cf5-02711fa56917;1428
+"Friedenstr. 3, Salzmannstraße, Magdeburg (39112),135.000 € 1.524 €/m²,3 Zimmer,""88,6 m²"",EG,https://www.immowelt.de/expose/d88f4623-04b7-48e0-a3d7-f4374db682f7";1428
+"Hohepfortestraße, Magdeburg (39106),148.500 € 2.461 €/m²,3 Zimmer,""60,4 m²"",4. Geschoss,https://www.immowelt.de/expose/0bcaac04-be8c-4f0c-8a95-f7874db47a96";1428
+"Gerwischer Straße 55, Wiesengrund / Zur Pappel, Magdeburg (39114),93.000 € 1.796 €/m²,2 Zimmer,""51,8 m²"",Unknown,https://www.immowelt.de/expose/ce71a45e-c316-4e8d-b406-46f67e6d6f80";1428
+Alt Salbke, Magdeburg (39122),648.900 € 2.738 €/m²,7 Zimmer,237 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/50343398-cd9c-42fd-8139-34fb25e93a8b;1428
+Alt Lemsdorf, Magdeburg (39118),576.900 € 4.889 €/m²,3 Zimmer,118 m²,610 m² Grundstück,https://www.immowelt.de/expose/09fe6a5d-4db1-485d-b808-8a9dd795c40e;1428
+Pechau, Magdeburg (39114),545.400 € 3.474 €/m²,6 Zimmer,157 m²,1.520 m² Grundstück,https://www.immowelt.de/expose/fa7f8573-1af3-45f9-883f-233c0d58f157;1428
+Alt Lemsdorf, Magdeburg (39118),532.900 € 3.947 €/m²,5 Zimmer,135 m²,610 m² Grundstück,https://www.immowelt.de/expose/dca17de5-a081-46e1-b0e7-f450e97cba9a;1428
+Hohendodeleber Weg, Magdeburg (39110),574.900 € 5.424 €/m²,5 Zimmer,106 m²,510 m² Grundstück,https://www.immowelt.de/expose/b1529715-bcfc-474c-8d1a-3aceda4b70e8;1428
+Hohendodeleber Weg, Magdeburg (39110),469.900 € 6.435 €/m²,1 Zimmer,73 m²,520 m² Grundstück,https://www.immowelt.de/expose/4c952a06-1576-4537-8766-32488fe1cee1;1428
+"Beyendorf, Magdeburg (39122),508.800 € 4.769 €/m²,4 Zimmer,""106,7 m²"",810 m² Grundstück,https://www.immowelt.de/expose/254c523b-b68f-4d85-91c2-5981a2b421c5";1428
+Alt Salbke, Magdeburg (39122),616.900 € 4.570 €/m²,5 Zimmer,135 m²,1.500 m² Grundstück,https://www.immowelt.de/expose/75994081-327e-45b6-a910-0b1885fdfd4f;1428
+Alt Salbke, Magdeburg (39122),635.900 € 5.435 €/m²,3 Zimmer,117 m²,1.500 m² Grundstück,https://www.immowelt.de/expose/2063957f-5fe0-4393-b549-0879bba09fa7;1428
+Gneisenauring, Magdeburg (39130),105.000 € 1.266 €/m²,4 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/72f95709-3017-4af1-abe2-87e9798c0341;1428
+"Neustädter Feld West, Magdeburg (39128),449.000 € 4.347 €/m²,3 Zimmer,""103,3 m²"",543 m² Grundstück,https://www.immowelt.de/expose/1db7bd6e-7e9e-457c-8896-1740becb37ce";1428
+Jordanstraße, Magdeburg (39112),125.000 € 1.838 €/m²,2 Zimmer,68 m²,4. Geschoss,https://www.immowelt.de/expose/77fe6b66-ad57-4f78-ba60-92e9854a44f7;1428
+"Osterweddinger Siedlung, Magdeburg (39116),145.000 € 1.368 €/m²,3 Zimmer,""106,2 m²"",""628,2 m² Grundstück"",https://www.immowelt.de/expose/7c5c9eee-c136-4dba-8cf2-963b30f8cd40";1428
+"Alt Cracau, Magdeburg (39114),850.000 € 1.018 €/m²,34 Zimmer,""835,3 m²"",""461,3 m² Grundstück"",https://www.immowelt.de/expose/f1c372fc-ab62-421d-9c7c-b7250e3f4488";1428
+Rotehorn, Magdeburg (39114),2.500.000 € 1.348 €/m²,1.854 m²,Unknown,Unknown,https://www.immowelt.de/expose/5b1446a8-d676-46aa-bc81-ae6be12f2a48;1428
+Werder, Magdeburg (39114),2.500.000 € 1.348 €/m²,1.854 m²,1.099 m² Grundstück,Unknown,https://www.immowelt.de/expose/7fac5924-e9ff-473c-8ea7-3b876774be5a;1428
+Werder, Magdeburg (39114),2.500.000 € 1.348 €/m²,1.854 m²,1.099 m² Grundstück,Unknown,https://www.immowelt.de/expose/ca1a4bbb-fba8-48fb-891d-cd13cbc5eb64;1428
+"Moritzplatz, Magdeburg (39124),70.000 € 1.679 €/m²,""1,5 Zimmer"",""41,7 m²"",1. Geschoss,https://www.immowelt.de/expose/c31ae157-a98e-4d28-a011-e73b17caefb4";1428
+Halberstädter Straße 76, Wormser Platz, Magdeburg (39112),Preis auf Anfrage,2 Zimmer,67 m²,Unknown,https://www.immowelt.de/expose/85e839a9-15dc-4997-acf8-43e07c4f23e5;1428
+Alt Cracau, Magdeburg (39114),1.200.000 € 1.105 €/m²,1.086 m²,3.419 m² Grundstück,Unknown,https://www.immowelt.de/expose/8022b191-4d36-4a17-a00b-5dcf5b68220c;1428
+Leipziger Straße 29, Semmelweisstraße, Magdeburg (39112),72.000 € 1.714 €/m²,1 Zimmer,42 m²,Unknown,https://www.immowelt.de/expose/457fe843-c630-4f84-8a62-81a790464bb1;1428
+"Damaschkeplatz, Magdeburg (39108),195.000 € 2.513 €/m²,3 Zimmer,""77,6 m²"",3. Geschoss,https://www.immowelt.de/expose/fac3d34a-9131-45b2-8383-d07aa953cc6f";1428
+Puppendorf, Magdeburg (39114),612.443 € 3.828 €/m²,4 Zimmer,160 m²,654 m² Grundstück,https://www.immowelt.de/expose/e4db010e-274a-4ec9-9321-3fdb1773bb4a;1428
+Schiffshebewerk, Magdeburg (39126),779.400 € 3.575 €/m²,7 Zimmer,218 m²,1.510 m² Grundstück,https://www.immowelt.de/expose/b0e0bd22-4b14-4ee8-954f-574740ec5313;1428
+"Schiffshebewerk, Magdeburg (39126),618.900 € 3.334 €/m²,5 Zimmer,""185,6 m²"",1.510 m² Grundstück,https://www.immowelt.de/expose/ec7adf2f-a7ac-4e6a-a7aa-696480eb5517";1428
+Siedlung Birkenallee, Magdeburg (39130),454.600 € 3.367 €/m²,5 Zimmer,135 m²,610 m² Grundstück,https://www.immowelt.de/expose/4014310e-356a-4233-9407-9630dd3e3f86;1428
+Siedlung Birkenallee, Magdeburg (39130),462.400 € 3.919 €/m²,3 Zimmer,118 m²,610 m² Grundstück,https://www.immowelt.de/expose/548c02ea-afca-41bb-81d8-a35e6a4639a4;1428
+Siedlung Birkenallee, Magdeburg (39130),481.600 € 3.321 €/m²,5 Zimmer,145 m²,610 m² Grundstück,https://www.immowelt.de/expose/63b5ee90-4700-4f16-b077-745b62f6bcb9;1428
+Gröperstraße / Nachtweide, Magdeburg (39124),489.800 € 3.711 €/m²,5 Zimmer,132 m²,500 m² Grundstück,https://www.immowelt.de/expose/a388941c-54cf-4b54-ae85-09ba4330aa14;1428
+Hasselbachplatzviertel, Magdeburg (39104),85.000 € 2.297 €/m²,1 Zimmer,37 m²,Unknown,https://www.immowelt.de/expose/0bbc8dfc-17ec-47d1-bdb9-0e44ecb897bc;1428
+Alt Salbke, Magdeburg (39122),119.000 € 492 €/m²,9 Zimmer,242 m²,194 m² Grundstück,https://www.immowelt.de/expose/35dba3fe-bddf-4153-8b57-b16c86fefed4;1428
+Alt Salbke, Magdeburg (39122),119.000 € 492 €/m²,9 Zimmer,242 m²,194 m² Grundstück,https://www.immowelt.de/expose/06f2be55-2025-4505-b050-6af88e3dac6d;1428
+Neustädter Feld Ost, Magdeburg / Neustädter Feld (39128),79.000 € 1.463 €/m²,2 Zimmer,54 m²,Unknown,https://www.immowelt.de/expose/a2a36deb-3d35-42eb-97b5-8968f3cc4f10;1428
+Alt Lemsdorf, Magdeburg (39118),439.557 € 2.632 €/m²,4 Zimmer,167 m²,820 m² Grundstück,https://www.immowelt.de/expose/1fdffd2a-9661-4bf8-a011-67f6ffd22864;1428
+Junkerssiedlung, Magdeburg (39128),514.270 € 3.781 €/m²,4 Zimmer,136 m²,825 m² Grundstück,https://www.immowelt.de/expose/00fef0cc-534a-4527-97cd-3e308c151e3a;1428
+Hohendodeleber Weg, Magdeburg (39110),852.522 € 5.396 €/m²,5 Zimmer,158 m²,1.205 m² Grundstück,https://www.immowelt.de/expose/640a3b1a-e5a3-4227-860b-e697fe2d2daf;1428
+Hohendodeleber Weg, Magdeburg (39110),816.261 € 5.748 €/m²,4 Zimmer,142 m²,1.140 m² Grundstück,https://www.immowelt.de/expose/61b004c5-4b36-4fb1-991c-d89411c41b75;1428
+"Alt Cracau, Magdeburg (39114),479.000 € 3.669 €/m²,5 Zimmer,""130,6 m²"",643 m² Grundstück,https://www.immowelt.de/expose/527ce9a7-a771-4a08-99d2-a841b8fa6993";1428
+"Sternviertel, Magdeburg (39104),1.100.000 € 5.580 €/m²,3 Zimmer,""197,1 m²"",Unknown,https://www.immowelt.de/expose/43945439-74f1-447b-a3e9-cec6d8446409";1428
+"Fichtestraße / Ambrosiusplatz, Magdeburg (39116),145.000 € 2.045 €/m²,2 Zimmer,""70,9 m²"",Unknown,https://www.immowelt.de/expose/d983e2d4-29c3-48c2-9f84-45f4b2852994";1428
+"Olvenstedter Platz, Magdeburg (39108),99.000 € 2.179 €/m²,2 Zimmer,""45,4 m²"",EG,https://www.immowelt.de/expose/30672526-a552-464a-8d52-67271f517eaa";1428
+Sohlen, Magdeburg (39122),428.172 € 3.425 €/m²,4 Zimmer,125 m²,545 m² Grundstück,https://www.immowelt.de/expose/b427917d-cf3f-447c-b374-fd6f9820dbe5;1428
+Werder, Magdeburg (39114),115.000 € 2.054 €/m²,2 Zimmer,56 m²,3. Geschoss,https://www.immowelt.de/expose/7773a3e6-17ce-4d50-89f0-35c9dfe7b777;1428
+"Friedenshöhe, Magdeburg (39116),195.000 € 2.167 €/m²,""3,5 Zimmer"",90 m²,540 m² Grundstück,https://www.immowelt.de/expose/67312d50-4b72-4d28-88c2-d5e980ec7ad0";1428
+Prester, Magdeburg (39114),677.000 € 4.128 €/m²,6 Zimmer,164 m²,699 m² Grundstück,https://www.immowelt.de/expose/0d2123a6-8e4d-4ebd-99b9-5646d990f68f;1428
+Sohlen, Magdeburg (39122),452.391 € 3.351 €/m²,4 Zimmer,135 m²,575 m² Grundstück,https://www.immowelt.de/expose/54106de3-7fc5-434e-b793-2d4d8304dbb3;1428
+Gröperstraße / Nachtweide, Magdeburg (39124),503.471 € 3.729 €/m²,4 Zimmer,135 m²,635 m² Grundstück,https://www.immowelt.de/expose/7f09bc54-00a9-44e9-9b1f-9222b6d925c1;1428
+Gröperstraße / Nachtweide, Magdeburg (39124),479.522 € 3.806 €/m²,4 Zimmer,126 m²,625 m² Grundstück,https://www.immowelt.de/expose/1d4d981f-309b-473c-9acc-ab2b43690232;1428
+Lindenhof, Magdeburg (39120),607.429 € 4.821 €/m²,4 Zimmer,126 m²,620 m² Grundstück,https://www.immowelt.de/expose/91a4feeb-d7de-487d-91b2-42edd9bfa94b;1428
+"Alt Ottersleben, Magdeburg / Ottersleben (39116),199.000 € 2.024 €/m²,3 Zimmer,""98,3 m²"",475 m² Grundstück,https://www.immowelt.de/expose/c3f94ca4-053c-47b6-a4b4-a66e791aa8cc";1428
+Steinkuhle, Magdeburg (39128),470.000 € 3.790 €/m²,4 Zimmer,124 m²,4.011 m² Grundstück,https://www.immowelt.de/expose/89d51f13-5e4b-42aa-9b32-11c5f58190bb;1428
+"Nordfront, Magdeburg (39106),419.000 € 3.166 €/m²,4 Zimmer,""132,3 m²"",Unknown,https://www.immowelt.de/expose/af8ba3b3-3653-429a-8af9-142be9a54e12";1428
+"Nordfront, Magdeburg (39106),419.000 € 3.166 €/m²,4 Zimmer,""132,3 m²"",220 m² Grundstück,https://www.immowelt.de/expose/8fe04938-1248-4593-8bba-4b49ec4e8425";1428
+"Nordfront, Magdeburg (39106),135.000 € 1.833 €/m²,3 Zimmer,""73,7 m²"",4. Geschoss,https://www.immowelt.de/expose/8e63b5a0-6c7c-4bad-bda1-05d5e18bca3d";1428
+Olvenstedter Platz, Magdeburg / Stadtfeld Ost (39108),149.000 € 1.753 €/m²,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/9a996651-c826-40cd-9f18-ea724e4a689f;1428
+"Wormser Platz, Magdeburg (39112),45.000 € 1.098 €/m²,""1,5 Zimmer"",41 m²,EG,https://www.immowelt.de/expose/5b9bf8db-8753-45cc-be60-7ebb153c2b84";1428
+"Ballenstedter Straße, Magdeburg (39118),358.990 € 5.263 €/m²,3 Zimmer,""68,2 m²"",715 m² Grundstück,https://www.immowelt.de/expose/1f95e102-5530-48ea-9f17-f8c766600979";1428
+Wohngebiet Welsleber Straße, Magdeburg (39122),334.290 € 2.958 €/m²,4 Zimmer,113 m²,950 m² Grundstück,https://www.immowelt.de/expose/73611e81-2fc8-43a6-bfe7-165181add475;1428
+"Friedenshöhe, Magdeburg (39116),425.589 € 2.944 €/m²,5 Zimmer,""144,6 m²"",575 m² Grundstück,https://www.immowelt.de/expose/912b4d65-e30e-4755-a337-b736079fe71c";1428
+"Lüttgen-Salbke, Alt Fermersleben (39122),249.000 € 2.140 €/m²,4 Zimmer,""116,4 m²"",600 m² Grundstück,https://www.immowelt.de/expose/9282481f-b3ae-4124-9b7e-110431e9e8f6";1428
+"Lüttgen-Salbke, Alt Fermersleben (39122),249.000 € 2.140 €/m²,4 Zimmer,""116,4 m²"",600 m² Grundstück,https://www.immowelt.de/expose/cc8b196a-b4fa-4130-9b2a-fe3c6ed5a28f";1428
+"Nordpark, Magdeburg (39106),249.000 € 2.140 €/m²,4 Zimmer,""116,4 m²"",600 m² Grundstück,https://www.immowelt.de/expose/383a2676-b02a-4484-a00a-e781790f4997";1428
+"Schäferbrunnen, Magdeburg (39128),259.000 € 1.937 €/m²,4 Zimmer,""133,7 m²"",Unknown,https://www.immowelt.de/expose/c126a014-db3f-489e-9c0e-a589b9fc3963";1428
+Sohlen, Sohlen (39122),272.000 € 1.915 €/m²,4 Zimmer,142 m²,Unknown,https://www.immowelt.de/expose/90b8a62a-d326-471b-8e80-17795d2e5a4a;1428
+Rathausviertel, Magdeburg (39104),2.199.000 € 2.291 €/m²,1 Zimmer,960 m²,393 m² Grundstück,https://www.immowelt.de/expose/579c6165-8d43-4dcd-ae55-6efa6a7cb257;1428
+Rathausviertel, Magdeburg (39104),2.199.000 € 2.291 €/m²,1 Zimmer,960 m²,393 m² Grundstück,https://www.immowelt.de/expose/04f6538c-8ee3-43ed-8c2d-dc9a7feb426b;1428
+Alt Diesdorf, Magdeburg (39110),535.000 € 1.068 €/m²,22 Zimmer,501 m²,460 m² Grundstück,https://www.immowelt.de/expose/e43bd36d-08a0-43dc-b2b0-92d1e5830170;1428
+Lindenweiler, Magdeburg / Stadtfeld West (39110),179.000 € 2.557 €/m²,3 Zimmer,70 m²,4. Geschoss,https://www.immowelt.de/expose/51140287-bead-49fe-96d3-4711224e9ff2;1428
+Ballenstedter Straße, Magdeburg (39118),540.400 € 4.323 €/m²,5 Zimmer,125 m²,650 m² Grundstück,https://www.immowelt.de/expose/4e41baf8-3ecc-467b-9298-2805012bd91e;1428
+Weizengrund, Magdeburg (39130),449.800 € 3.408 €/m²,5 Zimmer,132 m²,600 m² Grundstück,https://www.immowelt.de/expose/ae98e17d-cb89-458e-a1a3-094265b7fbc1;1428
+Gröperstraße / Nachtweide, Magdeburg (39124),489.800 € 3.711 €/m²,5 Zimmer,132 m²,500 m² Grundstück,https://www.immowelt.de/expose/ef7052b2-c8ff-45cd-a35c-a8c6d6b11366;1428
+Ballenstedter Straße, Magdeburg (39118),540.400 € 4.323 €/m²,5 Zimmer,125 m²,650 m² Grundstück,https://www.immowelt.de/expose/99873b9a-39f6-46bd-b915-b72be741b91f;1428
+Ballenstedter Straße, Magdeburg (39118),540.400 € 4.323 €/m²,5 Zimmer,125 m²,650 m² Grundstück,https://www.immowelt.de/expose/ce784818-cb83-471f-9a90-7d808c74335c;1428
+Ballenstedter Straße, Magdeburg (39118),540.400 € 4.323 €/m²,5 Zimmer,125 m²,650 m² Grundstück,https://www.immowelt.de/expose/e9ff94cd-8182-4298-88b4-271239567be4;1428
+Ballenstedter Straße, Magdeburg (39118),540.400 € 4.323 €/m²,5 Zimmer,125 m²,650 m² Grundstück,https://www.immowelt.de/expose/47d0b827-9788-46a9-afe3-d2e449fcfe39;1428
+Ballenstedter Straße, Magdeburg (39118),540.400 € 4.323 €/m²,5 Zimmer,125 m²,650 m² Grundstück,https://www.immowelt.de/expose/36b2dd0a-e62e-4472-bab3-763a466473e7;1428
+"Salbker Seen, Alt Fermersleben (39122),233.000 € 1.743 €/m²,4 Zimmer,""133,7 m²"",Unknown,https://www.immowelt.de/expose/20aea996-d365-4198-b7e1-0f85536a5fcf";1428
+Wormser Platz, Magdeburg (39112),120.000 € 1.666 €/m²,3 Zimmer,72 m²,1. Geschoss,https://www.immowelt.de/expose/3be007dc-daf2-41cf-827b-3de48e4cf508;1428
+"Alt Cracau, Magdeburg / Cracau (39114),1.250.000 € 2.851 €/m²,14 Zimmer,""438,5 m²"",1.041 m² Grundstück,https://www.immowelt.de/expose/5530ac8a-8962-4649-9270-34494cc59826";1428
+Westerhüsener Park, Magdeburg (39122),239.900 € 1.371 €/m²,6 Zimmer,207 m²,580 m² Grundstück,https://www.immowelt.de/expose/87332ac5-c30c-4514-9af8-79f9bcc69ae9;1428
+Wormser Platz, Magdeburg / Sudenburg (39112),1.500.000 € 1.656 €/m²,906 m²,Unknown,Unknown,https://www.immowelt.de/expose/31810098-ba97-488d-991b-ef8719c342d5;1428
+Alt Lemsdorf, Magdeburg (39116),588.700 € 3.951 €/m²,5 Zimmer,149 m²,606 m² Grundstück,https://www.immowelt.de/expose/f59492ad-faab-43d7-a543-8e85731e1433;1428
+Alt Lemsdorf, Magdeburg (39116),625.700 € 4.116 €/m²,4 Zimmer,152 m²,606 m² Grundstück,https://www.immowelt.de/expose/382cd7a9-0a61-41a1-93c0-71631391add1;1428
+Insleber Straße / Münchenhofstraße, Magdeburg (39128),688.900 € 4.388 €/m²,6 Zimmer,157 m²,700 m² Grundstück,https://www.immowelt.de/expose/41b202f2-4d83-4f9c-ad45-46125cdf1999;1428
+Schäferbrunnen, Magdeburg (39128),632.900 € 4.868 €/m²,4 Zimmer,130 m²,700 m² Grundstück,https://www.immowelt.de/expose/65fa5a8d-ed00-43fd-8515-403a82a61ded;1428
+Sohlen, Magdeburg (39122),437.900 € 3.106 €/m²,5 Zimmer,141 m²,529 m² Grundstück,https://www.immowelt.de/expose/0ad4ac0d-aaad-43c6-a251-38d69bcc0292;1428
+Sohlen, Magdeburg (39122),533.900 € 3.358 €/m²,6 Zimmer,159 m²,529 m² Grundstück,https://www.immowelt.de/expose/bab43e5a-e47c-4f89-9e41-bc3426c31514;1428
+"Alt Olvenstedt Dorf, Magdeburg (39130),249.000 € 1.329 €/m²,6 Zimmer,""187,3 m²"",994 m² Grundstück,https://www.immowelt.de/expose/718503c8-9ee9-4c12-a7a9-96e3cbf04ade";1428
+Danziger Dorf, Magdeburg (39128),167.000 € 1.796 €/m²,3 Zimmer,93 m²,675 m² Grundstück,https://www.immowelt.de/expose/a6a884a7-7d70-4d28-9e6b-cb31cfee60dd;1428
+"Schäferbrunnen, Magdeburg (39128),342.000 € 1.567 €/m²,7 Zimmer,""218,3 m²"",Unknown,https://www.immowelt.de/expose/d5d6847e-f13d-4eb4-b407-4ea790871093";1428
+"Werder, Magdeburg (39114),110.000 € 1.384 €/m²,3 Zimmer,""79,5 m²"",Unknown,https://www.immowelt.de/expose/ca882ce7-3c9d-4232-8592-2d18e804a86c";1428
+"Werder, Magdeburg (39114),80.000 € 1.192 €/m²,3 Zimmer,""67,1 m²"",Unknown,https://www.immowelt.de/expose/e1cd1d1f-5eec-4527-be8f-2da2e9d8969c";1428
+Westernplan, Magdeburg (39108),250.000 € 2.174 €/m²,4 Zimmer,115 m²,Unknown,https://www.immowelt.de/expose/0d38b564-44dd-40ea-b863-7e800d1419e9;1428
+"Engpaß, Magdeburg (39104),700.000 € 1.461 €/m²,18 Zimmer,""479,3 m²"",449 m² Grundstück,https://www.immowelt.de/expose/3648671d-0b5b-4484-a1d1-2f923adcb01b";1428
+"Hollehochstraße 34A, Niederndodeleber Straße, Magdeburg (39110),950.000 € 3.364 €/m²,8 Zimmer,""282,4 m²"",3.036 m² Grundstück,https://www.immowelt.de/expose/3b8b0860-1b06-4afc-98f6-d86696aaf869";1428
+"Benneckenbeck, Magdeburg (39116),329.000 € 2.581 €/m²,5 Zimmer,""127,5 m²"",1.001 m² Grundstück,https://www.immowelt.de/expose/9c10abe4-9aa4-4db3-8701-bf2d4982529e";1428
+"Wiesengrund / Zur Pappel, Magdeburg (39114),649.000 € 3.248 €/m²,5 Zimmer,""199,8 m²"",1.026 m² Grundstück,https://www.immowelt.de/expose/59ebac09-a33a-43e1-9d0c-f4bc69a4765a";1428
+"Niederndodeleber Straße, Magdeburg (39110),179.000 € 1.881 €/m²,4 Zimmer,""95,2 m²"",733 m² Grundstück,https://www.immowelt.de/expose/8e32f257-fefc-4c1f-8918-d0b4234c177e";1428
+Kristallpalast, Magdeburg (39112),895.000 € 1.326 €/m²,22 Zimmer,675 m²,1.032 m² Grundstück,https://www.immowelt.de/expose/5f7aef07-3089-456d-b272-b20c79f53fd6;1428
+Wormser Platz, Magdeburg (39112),96.000 € 1.574 €/m²,61 m²,EG,frei ab sofort,https://www.immowelt.de/expose/99778407-c2b3-471c-8b6a-54fe0d689f81;1428
+"Neugrüneberg, Magdeburg (39114),149.000 € 1.544 €/m²,3 Zimmer,""96,5 m²"",746 m² Grundstück,https://www.immowelt.de/expose/1c045aa6-210e-4129-b8f4-9a781f8a2829";1428
+Eichenweiler, Magdeburg (39126),360.000 € 3.214 €/m²,4 Zimmer,112 m²,681 m² Grundstück,https://www.immowelt.de/expose/e35b78aa-3916-47c4-9be5-5cf3b61fe66b;1428
+"Ebendorfer Straße 43, Olvenstedter Platz, Magdeburg / Stadtfeld Ost (39108),195.000 € 3.184 €/m²,3 Zimmer,""61,3 m²"",Unknown,https://www.immowelt.de/expose/5de8aa36-bdc4-4c45-92c5-12d058fca189";1428
+Alt Fermersleben, Magdeburg (39122),429.600 € 2.826 €/m²,5 Zimmer,152 m²,670 m² Grundstück,https://www.immowelt.de/expose/833833c8-b659-404b-853c-50fa7627ca1e;1428
+Eichenweiler, Magdeburg / Neustädter See (39126),157.000 € 1.331 €/m²,5 Zimmer,118 m²,806 m² Grundstück,https://www.immowelt.de/expose/c3b075a0-740a-4f10-8c15-994fe78dfeba;1428
+"Osterweddinger Siedlung, Magdeburg (39116),349.000 € 1.967 €/m²,5 Zimmer,""177,5 m²"",1.070 m² Grundstück,https://www.immowelt.de/expose/9ad372a7-99bf-4d4b-86f2-a95d3b6c20cb";1428
+Simonstraße 4, Alt Cracau, Magdeburg (39114),139.000 € 2.574 €/m²,2 Zimmer,54 m²,4. Geschoss,https://www.immowelt.de/expose/8a0b6156-52ef-4877-920c-e8feed0447a9;1428
+Schellheimerplatz, Magdeburg (39108),95.000 € 1.638 €/m²,2 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/304dc0d6-7561-44dc-b1cc-bfdae3b7e7c7;1428
+Schellheimerplatz, Magdeburg (39108),85.000 € 1.667 €/m²,2 Zimmer,51 m²,Unknown,https://www.immowelt.de/expose/cbbc2f0f-0722-43c4-8e6c-187f20155ae9;1428
+Schellheimerplatz, Magdeburg (39108),95.000 € 1.638 €/m²,2 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/64c43f8a-08e3-4d5b-a94b-3dfb2c1dba4e;1428
+Schellheimerplatz, Magdeburg (39108),75.000 € 1.630 €/m²,2 Zimmer,46 m²,Unknown,https://www.immowelt.de/expose/5f56ab94-763b-4acb-ac4a-42f95aa180b7;1428
+Schellheimerplatz, Magdeburg (39108),95.000 € 1.638 €/m²,2 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/a6f36111-bf2f-4624-8133-42fb9961fc0b;1428
+Schellheimerplatz, Magdeburg (39108),105.000 € 1.615 €/m²,2 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/763e015e-ca33-462f-ab04-baffa77459b3;1428
+"Schellheimerplatz, Magdeburg (39108),180.000 € 2.316 €/m²,3 Zimmer,""77,7 m²"",1. Geschoss,https://www.immowelt.de/expose/5e96880a-19cd-4378-b628-8cc59586dec0";1428
+Wormser Platz, Magdeburg (39112),90.000 € 1.582 €/m²,2 Zimmer,65 m²,1. Geschoss,https://www.immowelt.de/expose/f7f7d8af-2677-4876-8dba-c33c778cf69e;1428
+"Niederndodeleber Straße, Magdeburg (39110),108.000 € 1.490 €/m²,3 Zimmer,""72,5 m²"",3. Geschoss,https://www.immowelt.de/expose/bd828116-8d37-4c5e-afcb-70fc19579492";1428
+Nicolaiplatz, Magdeburg (39124),2.300.000 € 1.998 €/m²,36 Zimmer,1.151 m²,14.000 m² Grundstück,https://www.immowelt.de/expose/97ee17bf-c938-4bb9-91bd-4e3e48ac3dd9;1428
+"St. Pauli / Alexander-Puschkin-Straße, Magdeburg (39108),95.000 € 1.642 €/m²,2 Zimmer,""57,9 m²"",2. Geschoss,https://www.immowelt.de/expose/265b015b-95d4-433a-9c29-5a384c24cdb2";1428
+Goslarer Straße, Mageburg (39118),282.000 € 1.986 €/m²,4 Zimmer,142 m²,1.100 m² Grundstück,https://www.immowelt.de/expose/21d083b2-a652-4bde-967c-ee174e004433;1428
+"Thauberg, Magdeburg (39116),228.000 € 1.825 €/m²,4 Zimmer,""124,9 m²"",800 m² Grundstück,https://www.immowelt.de/expose/382d89cc-f664-40bf-b3bc-b3c549a46dab";1428
+"Schäferbrunnen, Magdeburg (39128),259.000 € 1.937 €/m²,4 Zimmer,""133,7 m²"",650 m² Grundstück,https://www.immowelt.de/expose/0d48c9a9-8694-48b4-a58a-ca5a462ed51f";1428
+Alt Fermersleben, Magdeburg (39122),429.600 € 2.826 €/m²,5 Zimmer,152 m²,670 m² Grundstück,https://www.immowelt.de/expose/8c30b43b-5f26-4f02-bfbc-e910a8cb2d7f;1428
+"Fichtestraße / Ambrosiusplatz, Magdeburg (39116),137.000 € 2.115 €/m²,2 Zimmer,""64,8 m²"",Unknown,https://www.immowelt.de/expose/d208aea8-8e86-4791-a297-4cc51277894a";1428
+"Fichtestraße / Ambrosiusplatz, Magdeburg (39116),99.000 € 1.824 €/m²,2 Zimmer,""54,3 m²"",4. Geschoss,https://www.immowelt.de/expose/f503f650-8a33-416e-a035-8cdbc01df81c";1428
+Fichtestraße / Ambrosiusplatz, Magdeburg / Sudenburg (39112),191.000 € 2.274 €/m²,3 Zimmer,84 m²,3. Geschoss,https://www.immowelt.de/expose/8d7da8a4-9fc1-40f4-bbeb-01c99087fb3d;1428
+Pestalozzistraße, Magdeburg / Stadtfeld West (39110),96.000 € 1.574 €/m²,3 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/78dd1588-8509-48ee-a7c5-305fb9283e80;1428
+"Alt Olvenstedt Dorf, Magdeburg (39130),340.000 € 1.697 €/m²,6 Zimmer,""200,4 m²"",385 m² Grundstück,https://www.immowelt.de/expose/b942ae87-0d77-4b14-98d0-b88af4c73cd3";1428
+Ohrestraße, Magdeburg (39124),410.000 € 1.830 €/m²,224 m²,2.442 m² Grundstück,Unknown,https://www.immowelt.de/expose/a57e05ff-1939-44d8-ae47-747899675da2;1428
+"Siedlung Birkenallee, Magdeburg / Alt Olvenstedt (39130),297.000 € 2.247 €/m²,5 Zimmer,""132,2 m²"",400 m² Grundstück,https://www.immowelt.de/expose/fc437885-ea04-47f6-a36a-f8557c864b1a";1428
+Lindenhof, Magdeburg (39120),585.000 € 3.095 €/m²,6 Zimmer,189 m²,224 m² Grundstück,https://www.immowelt.de/expose/9f4ed281-73fb-4d6b-b7fb-51467c6fd967;1428
+Friedenshöhe, Magdeburg / Ottersleben (39116),799.000 € 2.119 €/m²,14 Zimmer,377 m²,915 m² Grundstück,https://www.immowelt.de/expose/b781a979-46d5-42ea-ba24-3bd8b9cb5f12;1428
+"Fichtestraße / Ambrosiusplatz, Magdeburg (39116),99.900 € 1.711 €/m²,3 Zimmer,""58,4 m²"",Unknown,https://www.immowelt.de/expose/071090c6-44fa-4b6b-8a8b-cf404c11277b";1428
+Benneckenbeck, Magdeburg (39116),410.000 € 2.050 €/m²,7 Zimmer,200 m²,630 m² Grundstück,https://www.immowelt.de/expose/116011a3-d400-4e43-9937-fbefc60de618;1428
+"Meseberger Weg / Milchweg, Magdeburg (39128),220.000 € 2.086 €/m²,4 Zimmer,""105,5 m²"",504 m² Grundstück,https://www.immowelt.de/expose/c0179fed-a93a-4f64-94f1-78e95c1a99d2";1428
+Semmelweisstraße, Magdeburg (39112),440.000 € 2.973 €/m²,6 Zimmer,148 m²,752 m² Grundstück,https://www.immowelt.de/expose/8ad5e923-24c1-48f0-8614-42eb2eb0824d;1428
+Moritzplatz, Magdeburg (39124),270.000 €,7 Zimmer,Unknown,Unknown,https://www.immowelt.de/expose/149fbbeb-1521-4e87-9eed-9b835ec97d82;1428
+Schäferbrunnen, Magdeburg (39128),847.900 € 4.988 €/m²,5 Zimmer,170 m²,1.400 m² Grundstück,https://www.immowelt.de/expose/587915d4-3a02-43b6-b15c-98e344fad07e;1428
+Gröperstraße / Nachtweide, Magdeburg (39124),489.800 € 3.711 €/m²,5 Zimmer,132 m²,500 m² Grundstück,https://www.immowelt.de/expose/2bf69958-4b20-4b47-964a-aef04ff637e1;1428
+"Sternviertel, Magdeburg (39104),1.675.000 € 1.536 €/m²,24 Zimmer,""1.107,1 m²"",512 m² Grundstück,https://www.immowelt.de/expose/e8c7d290-3e59-462c-b830-7cb33814654a";1428
+Fichtestraße / Ambrosiusplatz, Magdeburg (39112),699.000 € 1.567 €/m²,42 Zimmer,446 m²,276 m² Grundstück,https://www.immowelt.de/expose/b72a639b-67aa-4b86-a5e5-c4fac43c3970;1428
+Fichtestraße / Ambrosiusplatz, Magdeburg (39112),699.000 € 1.567 €/m²,535 m²,276 m² Grundstück,Unknown,https://www.immowelt.de/expose/3e6e046d-58a2-4c55-98d0-1507e249e639;1428
+Alt Olvenstedt Dorf, Magdeburg (39130),310.000 € 2.627 €/m²,4 Zimmer,118 m²,562 m² Grundstück,https://www.immowelt.de/expose/0032abd8-b338-4e5d-aed2-463ae941d76e;1428
+"Nordpark, Magdeburg (39106),125.000 € 1.721 €/m²,2 Zimmer,""72,6 m²"",4. Geschoss,https://www.immowelt.de/expose/902e2cd5-194d-44f5-adfe-879f8c4ed1f3";1428
+"Olvenstedter Platz, Magdeburg (39108),140.000 € 1.483 €/m²,3 Zimmer,""94,4 m²"",Unknown,https://www.immowelt.de/expose/ff434427-15e6-49fe-bb9e-d2661a52de70";1428
+"Helmholtzstraße, Magdeburg (39112),295.000 € 4.922 €/m²,2 Zimmer,""59,9 m²"",EG,https://www.immowelt.de/expose/155c7e82-f029-4380-b532-7d99c269a4c2";1428
+"Helmholtzstraße, Magdeburg (39112),295.000 € 4.922 €/m²,2 Zimmer,""59,9 m²"",EG,https://www.immowelt.de/expose/b3d2e30a-880c-43ec-8a67-06ec126fbfe8";1428
+"Olvenstedter Platz, Magdeburg (39108),270.000 € 1.994 €/m²,5 Zimmer,""135,4 m²"",Unknown,https://www.immowelt.de/expose/f7e96aba-4f85-477e-9702-33f46aac6e09";1428
+"Bleckenburgstraße 13a, Bleckenburgstraße / Jahnring, Magdeburg (39104),349.000 € 3.921 €/m²,""3,5 Zimmer"",89 m²,1. Geschoss,https://www.immowelt.de/expose/35564221-1cae-4ecb-82a8-231743408da9";1428
+Alt Fermersleben, Magdeburg (39122),381.600 € 2.511 €/m²,5 Zimmer,152 m²,775 m² Grundstück,https://www.immowelt.de/expose/08e65445-939f-4137-ac42-48d6425386c8;1428
+Gneisenauring, Magdeburg (39130),396.600 € 3.251 €/m²,4 Zimmer,122 m²,575 m² Grundstück,https://www.immowelt.de/expose/5e02c26c-5f3e-4b18-9ab1-eb85824c1c37;1428
+Alt Fermersleben, Magdeburg (39122),385.200 € 3.157 €/m²,4 Zimmer,122 m²,585 m² Grundstück,https://www.immowelt.de/expose/da2835e3-bb71-4f20-9525-481ecac8df26;1428
+Ballenstedter Straße, Magdeburg (39118),572.100 € 2.861 €/m²,6 Zimmer,200 m²,595 m² Grundstück,https://www.immowelt.de/expose/9cbc8769-d150-49a4-8fb1-ef83f8960256;1428
+Fliedergrund, Düppler Mühle, Magdeburg (39130),990.000 € 4.304 €/m²,6 Zimmer,230 m²,600 m² Grundstück,https://www.immowelt.de/expose/45274685-6f46-432a-8751-c0bbfba588f4;1428
+Junkerssiedlung, Magdeburg (39128),660.900 € 5.901 €/m²,4 Zimmer,112 m²,450 m² Grundstück,https://www.immowelt.de/expose/aad96262-dbce-4bd7-992d-a0f9fc72d3bc;1428
+Junkerssiedlung, Magdeburg (39128),1.217.900 € 3.879 €/m²,11 Zimmer,314 m²,899 m² Grundstück,https://www.immowelt.de/expose/4832bf27-5793-4f3d-8242-90baf2d6b6e7;1428
+Junkerssiedlung, Magdeburg (39128),897.900 € 4.045 €/m²,6 Zimmer,222 m²,899 m² Grundstück,https://www.immowelt.de/expose/bd511c9f-019d-4c84-a435-a7f02fec6088;1428
+Wormser Platz, Magdeburg (39112),148.000 € 1.663 €/m²,3 Zimmer,89 m²,2. Geschoss,https://www.immowelt.de/expose/96fd1a61-736e-4b5c-8268-bed3ddf202a9;1428
+Hillersleber Straße, Magdeburg (39126),169.000 € 1.536 €/m²,5 Zimmer,110 m²,638 m² Grundstück,https://www.immowelt.de/expose/9941ef32-8609-4b5c-8926-cf0ab56c4f0d;1428
+Niederndodeleber Straße, Magdeburg (39110),599.900 € 5.262 €/m²,4 Zimmer,114 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/75922ea8-064b-4440-bb92-9d514b2bdc39;1428
+Niederndodeleber Straße, Magdeburg (39110),364.900 € 8.109 €/m²,2 Zimmer,45 m²,410 m² Grundstück,https://www.immowelt.de/expose/3d090410-b6ef-4a97-9a0b-572ec8648a3e;1428
+Ballenstedter Straße, Magdeburg (39118),222.980 € 1.991 €/m²,4 Zimmer,112 m²,609 m² Grundstück,https://www.immowelt.de/expose/9dae1354-eac7-491f-929d-40c394a11dc7;1428
+"Alt Lemsdorf, Magdeburg (39118),265.500 € 1.760 €/m²,5 Zimmer,""150,8 m²"",619 m² Grundstück,https://www.immowelt.de/expose/4b208ae0-3d21-44f7-8eb2-da9a2128bea0";1428
+Ballenstedter Straße, Magdeburg (39118),215.980 € 1.928 €/m²,4 Zimmer,112 m²,609 m² Grundstück,https://www.immowelt.de/expose/f434b36f-5977-4ab6-a8d4-6233351f5c68;1428
+"Neu Reform, Magdeburg (39118),211.090 € 1.947 €/m²,4 Zimmer,""108,4 m²"",610 m² Grundstück,https://www.immowelt.de/expose/7bf564dd-3395-4ae7-8b67-24c86cc277e5";1428
+"Sohlen, Magdeburg (39122),199.240 € 2.022 €/m²,4 Zimmer,""98,6 m²"",503 m² Grundstück,https://www.immowelt.de/expose/1ab9200d-3593-4619-ac3b-3c0b840b2d89";1428
+Ballenstedter Straße, Magdeburg (39118),192.650 € 2.094 €/m²,3 Zimmer,92 m²,610 m² Grundstück,https://www.immowelt.de/expose/c942d41f-22ca-4fd4-98a1-c24d11e28c31;1428
+"Fauler Grund, Magdeburg (39120),199.000 € 2.560 €/m²,3 Zimmer,""77,7 m²"",EG,https://www.immowelt.de/expose/2241adac-083f-4163-bc4d-b2d91488bf54";1428
+Klein Ottersleben, Magdeburg (39116),829.900 € 3.738 €/m²,6 Zimmer,222 m²,693 m² Grundstück,https://www.immowelt.de/expose/e5cfc5c3-c394-4fe9-9d53-ccee3ad96ecf;1428
+Klein Ottersleben, Magdeburg (39116),543.900 € 3.578 €/m²,5 Zimmer,152 m²,693 m² Grundstück,https://www.immowelt.de/expose/1295e62c-d2f1-4efb-801d-73c921d8baae;1428
+Klein Ottersleben, Magdeburg (39116),518.900 € 3.961 €/m²,4 Zimmer,131 m²,693 m² Grundstück,https://www.immowelt.de/expose/191caadb-6228-4b88-9d1f-63e754ed8fdc;1428
+Lüttgen-Salbke, Magdeburg (39122),449.900 € 3.688 €/m²,5 Zimmer,122 m²,950 m² Grundstück,https://www.immowelt.de/expose/b83e22ba-4cbc-4dd1-b5c0-bd708a7b747d;1428
+Umspannwerk, Magdeburg (30110),521.780 € 4.174 €/m²,5 Zimmer,125 m²,700 m² Grundstück,https://www.immowelt.de/expose/665a54b0-6d1c-4979-bf53-f90ec558ae9d;1428
+Halberstädter Str. 74, Wormser Platz, Magdeburg / Sudenburg (39112),85.000 € 1.700 €/m²,2 Zimmer,50 m²,1. Geschoss,https://www.immowelt.de/expose/2e62c2b1-7e00-4fb5-b336-b911b93ad1e0;1428
+Halberstädter Str. 74, Wormser Platz, Magdeburg / Sudenburg (39112),85.000 € 1.667 €/m²,2 Zimmer,51 m²,3. Geschoss,https://www.immowelt.de/expose/db8a778a-0cbc-4852-9f8c-02cddef0c4bf;1428
+Halberstädter Str. 74, Wormser Platz, Magdeburg / Sudenburg (39112),82.500 € 1.650 €/m²,2 Zimmer,50 m²,2. Geschoss,https://www.immowelt.de/expose/9cdfa047-abde-45e5-b744-c3ebbc545eb9;1428
+Halberstädter Str. 74, Wormser Platz, Magdeburg / Sudenburg (39112),69.900 € 1.664 €/m²,2 Zimmer,42 m²,3. Geschoss,https://www.immowelt.de/expose/90a5dd1b-127f-4dd4-8967-78c69757b21d;1428
+Neustädter See, Magdeburg (39126),470.000 € 5.054 €/m²,3 Zimmer,93 m²,1.147 m² Grundstück,https://www.immowelt.de/expose/e65ad3ea-cb63-4fe2-8911-53baa7050515;1428
+Helmholtzstraße, Magdeburg (39112),349.000 € 4.913 €/m²,2 Zimmer,71 m²,EG,https://www.immowelt.de/expose/923c9827-de0d-4ff1-bedf-918eb9e971da;1428
+"Hopfengarten, Magdeburg (39120),349.000 € 2.395 €/m²,5 Zimmer,""145,7 m²"",620 m² Grundstück,https://www.immowelt.de/expose/392c9226-8d29-4b6b-8faa-7e44d5742d0e";1428
+Am Sudenburger Tor 2,3,4,8, Sternviertel, Magdeburg (39104),9.500.000 €,5.567 m² Grundstück,Unknown,Unknown,https://www.immowelt.de/expose/211a5dbf-1f4c-460d-8e86-3375d204d44b;1428
+Hopfengarten, Magdeburg (39120),385.000 € 3.007 €/m²,4 Zimmer,128 m²,448 m² Grundstück,https://www.immowelt.de/expose/52670e82-5741-475d-8245-03f3513013d9;1428
+Sternbogen, Magdeburg (39130),358.266 € 2.913 €/m²,4 Zimmer,123 m²,Unknown,https://www.immowelt.de/expose/d4a209b5-0d40-4a43-a99b-29d0506dcf37;1428
+Sternbogen, Magdeburg (39130),189.486 € 2.915 €/m²,2 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/9488a05d-96b4-4328-b447-983ae0b33306;1428
+Sternbogen, Magdeburg (39130),258.651 € 2.906 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/3cf587c9-f1a4-4e01-b9ec-e39f2852c9ed;1428
+Sternbogen, Magdeburg (39130),224.605 € 2.917 €/m²,3 Zimmer,77 m²,Unknown,https://www.immowelt.de/expose/e2cd5d0f-3af6-430d-b641-83a0a7bbdef5;1428
+Klein Ottersleben, Magdeburg (39116),495.000 € 1.266 €/m²,391 m²,310 m² Grundstück,Unknown,https://www.immowelt.de/expose/8f61f6de-4537-4647-a882-9ee389055f96;1428
+Hopfengarten, Magdeburg (39120),239.000 € 2.779 €/m²,3 Zimmer,86 m²,1.012 m² Grundstück,https://www.immowelt.de/expose/2809e80f-791e-491a-b9eb-aef637bcb22f;1428
+"Umspannwerk, Magdeburg (39110),267.000 € 1.997 €/m²,4 Zimmer,""133,7 m²"",Unknown,https://www.immowelt.de/expose/b7a3a4c1-872c-44ba-9e53-fcb62f5ceb06";1428
+"Friedensweiler, Magdeburg (39114),659.000 € 3.997 €/m²,6 Zimmer,""164,9 m²"",627 m² Grundstück,https://www.immowelt.de/expose/f8b1e748-6567-4e63-aeb6-478996e3fd84";1428
+Umspannwerk, Magdeburg (30110),521.780 € 4.174 €/m²,5 Zimmer,125 m²,700 m² Grundstück,https://www.immowelt.de/expose/c8b0390a-94af-452e-bdfd-6cf6ba0077fd;1428
+Nicolaiplatz, Magdeburg (39124),1.200.000 € 1.098 €/m²,22 Zimmer,1.093 m²,1.038 m² Grundstück,https://www.immowelt.de/expose/b31b1606-1755-429d-994c-a85069873e11;1428
+Siedlung Birkenallee, Magdeburg / Alt Olvenstedt (39130),299.000 € 1.846 €/m²,6 Zimmer,162 m²,464 m² Grundstück,https://www.immowelt.de/expose/b04637f7-6ceb-471b-b56b-a2477b21fb12;1428
+"Nordfront, Magdeburg (39106),419.000 € 3.166 €/m²,4 Zimmer,""132,3 m²"",Unknown,https://www.immowelt.de/expose/c81c1848-6807-49b6-9172-09e95c4c45e3";1428
+Marktbreite, Magdeburg (39130),329.998 € 2.920 €/m²,4 Zimmer,113 m²,525 m² Grundstück,https://www.immowelt.de/expose/44adc33b-a81c-46d3-90d7-80efc0c6101f;1428
+Randau, Magdeburg (39114),319.998 € 2.832 €/m²,4 Zimmer,113 m²,790 m² Grundstück,https://www.immowelt.de/expose/272a572f-35a2-4247-a9ac-5c45259e287f;1428
+"Calenberge, Magdeburg (39114),348.900 € 1.486 €/m²,7 Zimmer,""234,7 m²"",1.043 m² Grundstück,https://www.immowelt.de/expose/2e61622d-a947-423e-89c8-c9072b909945";1428
+"Eichenweiler, Magdeburg (39126),449.000 € 2.091 €/m²,5 Zimmer,""214,8 m²"",785 m² Grundstück,https://www.immowelt.de/expose/c8365d91-acbf-493d-be7a-0e17642f9b7e";1428
+"Gewerbegebiet Buckau, Magdeburg (39104),129.000 € 2.381 €/m²,3 Zimmer,""54,2 m²"",Unknown,https://www.immowelt.de/expose/51433993-5b57-4663-822f-f719126d6716";1428
+Ganghofer Straße 18, Olvenstedter Platz, Magdeburg (39108),2.400.000 € 1.295 €/m²,1.854 m²,2.433 m² Grundstück,Unknown,https://www.immowelt.de/expose/09de3753-acdc-4202-bff3-8aedbd589c42;1428
+"Lüttgen-Salbke, Magdeburg / Salbke (39122),579.000 € 1.895 €/m²,12 Zimmer,""305,5 m²"",650 m² Grundstück,https://www.immowelt.de/expose/1d8a57f9-b76a-4956-b529-7dbc6ee686c1";1428
+Prester, Magdeburg (39114),1.200.000 € 1.105 €/m²,1.086 m²,Unknown,Unknown,https://www.immowelt.de/expose/38d1b161-740c-4ed4-b452-533806d2d382;1428
+Friedenshöhe, Magdeburg (39116),498.400 € 3.776 €/m²,5 Zimmer,132 m²,690 m² Grundstück,https://www.immowelt.de/expose/edc6375d-555e-4089-a8b7-0a5f0416c7b3;1428
+Weizengrund, Magdeburg (39130),449.800 € 3.408 €/m²,5 Zimmer,132 m²,600 m² Grundstück,https://www.immowelt.de/expose/f9769a98-21cc-4027-9191-c1dea7db24b4;1428
+Ballenstedter Straße, Magdeburg (39118),540.400 € 4.323 €/m²,5 Zimmer,125 m²,650 m² Grundstück,https://www.immowelt.de/expose/25cf08ff-23ab-485b-9999-f066fcdbdbf6;1428
+Sternviertel, Magdeburg (39104),1.600.000 € 1.439 €/m²,1.122 m²,512 m² Grundstück,Unknown,https://www.immowelt.de/expose/55f8132c-e1ad-4832-b3dd-fa1d38166b71;1428
+"Sternviertel, Magdeburg (39104),1.700.000 € 1.536 €/m²,24 Zimmer,""1.107,1 m²"",512 m² Grundstück,https://www.immowelt.de/expose/9ee5721f-a100-4432-a44c-4135f7053a69";1428
+Planeten- und SKL-Siedlung, Magdeburg (39120),314.190 € 2.856 €/m²,4 Zimmer,110 m²,450 m² Grundstück,https://www.immowelt.de/expose/294f1420-b462-476b-9c71-27b0e8226ea7;1428
+Damaschkeplatz, Magdeburg (39118),375.690 € 3.415 €/m²,4 Zimmer,110 m²,520 m² Grundstück,https://www.immowelt.de/expose/c665610f-c697-449f-b793-b2f0d84f35b1;1428
+Osterweddinger Siedlung, Magdeburg (39116),402.390 € 3.658 €/m²,4 Zimmer,110 m²,630 m² Grundstück,https://www.immowelt.de/expose/45a8da19-c84d-41ba-957e-1ac44bdfe549;1428
+Planeten- und SKL-Siedlung, Magdeburg (39120),339.950 € 2.742 €/m²,4 Zimmer,124 m²,450 m² Grundstück,https://www.immowelt.de/expose/f23972cd-693e-4693-a296-52cf691ba700;1428
+Damaschkeplatz, Magdeburg (39114),520.950 € 4.201 €/m²,4 Zimmer,124 m²,918 m² Grundstück,https://www.immowelt.de/expose/759f1303-3af7-4caa-b0f5-a8b63b2e062d;1428
+Damaschkeplatz, Magdeburg (39118),401.450 € 3.238 €/m²,4 Zimmer,124 m²,520 m² Grundstück,https://www.immowelt.de/expose/bef78b5a-6de9-416b-a3a7-138eff23d80a;1428
+Osterweddinger Siedlung, Magdeburg (39116),428.150 € 3.453 €/m²,4 Zimmer,124 m²,630 m² Grundstück,https://www.immowelt.de/expose/cd026323-0371-415e-807d-52401d619efa;1428
+Planeten- und SKL-Siedlung, Magdeburg (39120),297.150 € 3.302 €/m²,3 Zimmer,90 m²,450 m² Grundstück,https://www.immowelt.de/expose/890ddbdc-d593-43af-bc47-95e784cd2caa;1428
+Damaschkeplatz, Magdeburg (39118),358.650 € 3.985 €/m²,3 Zimmer,90 m²,520 m² Grundstück,https://www.immowelt.de/expose/5f81fb27-ea4a-49bb-8cae-feed9f8d5f8a;1428
+Osterweddinger Siedlung, Magdeburg (39116),385.350 € 4.282 €/m²,3 Zimmer,90 m²,630 m² Grundstück,https://www.immowelt.de/expose/f7fe2fd2-2c03-4ddb-8d84-f9a50c9b1964;1428
+Siedlung Birkenallee, Magdeburg (39130),Preis auf Anfrage,4 Zimmer,147 m²,706 m² Grundstück,https://www.immowelt.de/expose/f62be382-f9c8-46cc-8a21-0b97937229fe;1428
+Prester, Magdeburg (39114),1.200.000 € 1.105 €/m²,1.086 m²,3.419 m² Grundstück,Unknown,https://www.immowelt.de/expose/6a56645e-55fa-41a5-b2d4-401c4a2b6446;1428
+Planeten- und SKL-Siedlung, Magdeburg (39118),270.000 € 2.348 €/m²,6 Zimmer,115 m²,385 m² Grundstück,https://www.immowelt.de/expose/a5a9de95-f893-4187-821e-b8e3aa7128c4;1428
+Hillersleber Straße, Magdeburg (39126),1.100.000 € 1.519 €/m²,33 Zimmer,724 m²,2.331 m² Grundstück,https://www.immowelt.de/expose/dfcec66f-1d7a-4d41-b1c8-aac45be62eac;1428
+"Niederndodeleber Straße, Magdeburg (39110),525.000 € 2.699 €/m²,6 Zimmer,""194,5 m²"",864 m² Grundstück,https://www.immowelt.de/expose/6c91fc54-f459-4363-a93a-80ac38e060dd";1428
+"Engpaß, Magdeburg (39104),125.000 € 1.655 €/m²,3 Zimmer,""75,5 m²"",EG,https://www.immowelt.de/expose/f5e99b87-012d-4667-a0cc-303cff9424ca";1428
+"Engpaß, Magdeburg (39104),110.000 € 1.567 €/m²,2 Zimmer,""70,2 m²"",EG,https://www.immowelt.de/expose/bec9bf65-fbc3-4c9b-b8aa-8846221e26cc";1428
+"Hasselbachplatzviertel, Magdeburg (39104),385.000 € 2.662 €/m²,6 Zimmer,""144,6 m²"",Unknown,https://www.immowelt.de/expose/6f6eeb22-2160-4ebf-88f2-0aeccf62c6e7";1428
+Bleckenburgstraße / Jahnring, Magdeburg (39104),275.000 € 2.350 €/m²,4 Zimmer,117 m²,1. Geschoss,https://www.immowelt.de/expose/917a8c9a-dd1b-4b8a-ad6d-72ff9444c662;1428
+"Beyendorf, Beyendorf (39122),384.954 € 2.707 €/m²,4 Zimmer,""142,2 m²"",515 m² Grundstück,https://www.immowelt.de/expose/c7adb7db-2ae5-46f6-9d7b-35f4c251a1a6";1428
+"Westerhüsener Park, Beyendorf (39122),373.404 € 2.990 €/m²,4 Zimmer,""124,9 m²"",515 m² Grundstück,https://www.immowelt.de/expose/fbde2c44-aff3-416f-bed5-f2a6ec0fa03f";1428
+"Westerhüsener Park, Beyendorf (39122),286.047 € 2.181 €/m²,8 Zimmer,""131,2 m²"",515 m² Grundstück,https://www.immowelt.de/expose/eca57c19-1b8c-4d28-9138-2198c606406e";1428
+"Westerhüsener Park, Beyendorf (39122),646.227 € 1.947 €/m²,10 Zimmer,""331,9 m²"",515 m² Grundstück,https://www.immowelt.de/expose/7e6e069c-bb92-4b21-88a5-a4c1bb6d7e3f";1428
+"Barleber See I, Magdeburg / Barleber See (39126),119.700 € 3.612 €/m²,2 Zimmer,""33,1 m²"",746 m² Grundstück,https://www.immowelt.de/expose/e67c0f98-fa9d-46ce-9193-70d7e37f3edb";1428
+Planeten- und SKL-Siedlung, Magdeburg (39120),314.190 € 2.856 €/m²,4 Zimmer,110 m²,450 m² Grundstück,https://www.immowelt.de/expose/aa49af56-fac4-434d-b72e-e26e085edb68;1428
+Damaschkeplatz, Magdeburg (39114),494.690 € 4.497 €/m²,4 Zimmer,110 m²,918 m² Grundstück,https://www.immowelt.de/expose/6450dcf0-42f2-4acc-b790-4d6172c8f353;1428
+Damaschkeplatz, Magdeburg (39118),375.690 € 3.415 €/m²,4 Zimmer,110 m²,520 m² Grundstück,https://www.immowelt.de/expose/289adbb1-c6b6-44da-8cce-a179b78c7836;1428
+Osterweddinger Siedlung, Magdeburg (39116),402.390 € 3.658 €/m²,4 Zimmer,110 m²,630 m² Grundstück,https://www.immowelt.de/expose/9bf9d795-f972-4a6d-baa3-3d9b13fadff1;1428
+Planeten- und SKL-Siedlung, Magdeburg (39120),339.950 € 2.742 €/m²,4 Zimmer,124 m²,450 m² Grundstück,https://www.immowelt.de/expose/5604b39c-87e4-442a-af98-76d22078bc0e;1428
+Damaschkeplatz, Magdeburg (39114),520.950 € 4.201 €/m²,4 Zimmer,124 m²,918 m² Grundstück,https://www.immowelt.de/expose/db41268c-4ea9-48ad-a289-9827d7e2cb6a;1428
+Damaschkeplatz, Magdeburg (39118),401.450 € 3.238 €/m²,4 Zimmer,124 m²,520 m² Grundstück,https://www.immowelt.de/expose/0e7447ce-c5f2-4a10-b8d2-29deca4582aa;1428
+Osterweddinger Siedlung, Magdeburg (39116),428.150 € 3.453 €/m²,4 Zimmer,124 m²,630 m² Grundstück,https://www.immowelt.de/expose/e95d95ad-6cb5-4865-a9a0-39989e3eeb26;1428
+Planeten- und SKL-Siedlung, Magdeburg (39120),297.150 € 3.302 €/m²,3 Zimmer,90 m²,450 m² Grundstück,https://www.immowelt.de/expose/ad736300-6d64-47f0-848a-5b7ec52cc271;1428
+Damaschkeplatz, Magdeburg (39118),358.650 € 3.985 €/m²,3 Zimmer,90 m²,520 m² Grundstück,https://www.immowelt.de/expose/d5358db9-79a7-46dc-a36c-2b6f3c7b46a7;1428
+Osterweddinger Siedlung, Magdeburg (39116),385.350 € 4.282 €/m²,3 Zimmer,90 m²,630 m² Grundstück,https://www.immowelt.de/expose/4fd9b16f-e497-4e89-82f6-a0099e35c125;1428
+Wormser Platz, Magdeburg (39112),Preis auf Anfrage,2 Zimmer,67 m²,Unknown,https://www.immowelt.de/expose/8459aeb0-b3c5-41b9-bddd-5701ebd5834f;1428
+"Adolfstraße 1, Alt Fermersleben, Magdeburg / Fermersleben (39122),998.000 € 1.528 €/m²,20 Zimmer,""653,1 m²"",546 m² Grundstück,https://www.immowelt.de/expose/70693cdd-645d-4c0d-b1d1-2e10125f936f";1428
+Schifferstraße 24, Hohepfortestraße, Magdeburg / Alte Neustadt (39106),90.000 € 1.667 €/m²,2 Zimmer,54 m²,Unknown,https://www.immowelt.de/expose/9b49561b-7358-4743-b06a-17c787533b2f;1428
+Ballenstedter Straße, Magdeburg (39118),170.000 € 1.441 €/m²,5 Zimmer,118 m²,1.778 m² Grundstück,https://www.immowelt.de/expose/fb408130-aa6c-4f76-a2b8-0a233f9e0fc5;1428
+"St. Pauli / Alexander-Puschkin-Straße, Magdeburg (39108),82.000 € 1.802 €/m²,2 Zimmer,""45,5 m²"",Unknown,https://www.immowelt.de/expose/5263a322-e557-43ec-8288-cd19e326a8e3";1428
+Olvenstedter Platz, Magdeburg (39108),143.000 € 1.882 €/m²,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/06c4cd1a-6036-45d5-852c-33516e127985;1428
+"Pechau, Magdeburg (39114),219.000 € 829 €/m²,9 Zimmer,""264,3 m²"",462 m² Grundstück,https://www.immowelt.de/expose/6e6434c7-ecd9-444f-996d-19a0f5f00dfe";1428
+Fliedergrund 5, Düppler Mühle, Magdeburg (39130),499.000 € 3.992 €/m²,2 Zimmer,125 m²,1. Geschoss,https://www.immowelt.de/expose/cdd1790b-b461-4729-b057-9844715fe7b6;1428
+"Comeniusstr. 12, Alt Fermersleben, Magdeburg (39122),338.000 € 3.645 €/m²,""4,5 Zimmer"",""92,7 m²"",frei ab sofort,https://www.immowelt.de/expose/c5901ab4-5b7c-4097-8ea4-42d84fc77b8a";1428
+"Comeniusstr. 12, Alt Fermersleben, Magdeburg (39122),366.000 € 3.820 €/m²,3 Zimmer,""95,8 m²"",frei ab sofort,https://www.immowelt.de/expose/3a7f0656-e4d3-4b88-b27a-6d1e05b80609";1428
+"Comeniusstr. 12, Alt Fermersleben, Magdeburg (39122),388.000 € 4.184 €/m²,3 Zimmer,""92,7 m²"",frei ab sofort,https://www.immowelt.de/expose/59e34d09-7d41-4144-a831-e2e886c6ac26";1428
+"Comeniusstr. 12, Alt Fermersleben, Magdeburg (39122),149.000 € 3.053 €/m²,""1,5 Zimmer"",""48,8 m²"",frei ab sofort,https://www.immowelt.de/expose/e631d240-2224-4358-b213-2416b962e0cb";1428
+Lüttgen-Salbke, Magdeburg (39122),1.249.900 € 3.981 €/m²,11 Zimmer,314 m²,1.900 m² Grundstück,https://www.immowelt.de/expose/6cfea327-16c8-4fd7-be1b-71cd86febc80;1428
+"Comeniusstr. 12, Alt Fermersleben, Magdeburg (39122),248.000 € 3.540 €/m²,""2,5 Zimmer"",""70,1 m²"",frei ab sofort,https://www.immowelt.de/expose/fdb18e72-a9dd-4aca-b12b-801d7708cdbc";1428
+"Morgenstraße 15, Nicolaiplatz, Magdeburg (39124),100.000 € 2.301 €/m²,2 Zimmer,""43,5 m²"",3. Geschoss,https://www.immowelt.de/expose/883cd9f3-da1a-44f5-b094-5ff942548137";1428
+"Alt Westerhüsen, Magdeburg (39122),139.000 € 1.835 €/m²,5 Zimmer,""75,8 m²"",228 m² Grundstück,https://www.immowelt.de/expose/d94f4b6a-08ab-412a-996e-670d4fb1e6ea";1428
+"Nicolaiplatz, Magdeburg (39124),89.900 € 2.069 €/m²,2 Zimmer,""43,5 m²"",Unknown,https://www.immowelt.de/expose/f776ddf1-b73d-4e9b-af62-5d25e8c71d8d";1428
+Alt Fermersleben, Magdeburg (39122),500.000 € 1.244 €/m²,15 Zimmer,402 m²,316 m² Grundstück,https://www.immowelt.de/expose/3ce925f9-384f-40aa-90d7-a225899bc08a;1428
+Junkerssiedlung, Magdeburg (39128),550.000 € 2.657 €/m²,14 Zimmer,207 m²,823 m² Grundstück,https://www.immowelt.de/expose/06e5ee63-494e-46f5-b6c8-26b222bab679;1428
+Beimssiedlung, Magdeburg / Stadtfeld West (39110),130.000 € 1.646 €/m²,2 Zimmer,79 m²,Unknown,https://www.immowelt.de/expose/624d30c3-63be-42df-ab9d-2d0334ebe60e;1428
+"Steinwiese, Magdeburg (39114),179.000 € 2.642 €/m²,3 Zimmer,""67,7 m²"",544 m² Grundstück,https://www.immowelt.de/expose/93d3fecb-9f26-4cc8-bf10-19d2a21881ea";1428
+Alt Fermersleben, Magdeburg (39122),475.000 € 1.632 €/m²,13 Zimmer,291 m²,600 m² Grundstück,https://www.immowelt.de/expose/f4809344-c3d8-45f9-a7f5-4facf397d028;1428
+"Siedlung Birkenallee, Magdeburg (39130),270.000 € 1.996 €/m²,6 Zimmer,""135,2 m²"",722 m² Grundstück,https://www.immowelt.de/expose/0cc4e828-70a1-49e8-8d1e-6718f00dc1b9";1428
+"Fauler Grund, Magdeburg / Reform (39118),3.000.000 € 1.731 €/m²,67 Zimmer,""1.732,8 m²"",4.003 m² Grundstück,https://www.immowelt.de/expose/6f83a345-f3fa-4374-92f4-068cdf7e2398";1428
+Puppendorf, Magdeburg (39114),459.900 € 4.999 €/m²,3 Zimmer,92 m²,400 m² Grundstück,https://www.immowelt.de/expose/a6d0c12b-4b97-4fd3-9f61-e8b54a7fe0ac;1428
+Puppendorf, Magdeburg (39114),609.900 € 4.013 €/m²,5 Zimmer,152 m²,794 m² Grundstück,https://www.immowelt.de/expose/191e6323-baa5-438c-8544-a89b7d932838;1428
+"Schellheimerplatz, Magdeburg (39108),69.000 € 1.503 €/m²,2 Zimmer,""45,9 m²"",2. Geschoss,https://www.immowelt.de/expose/684fc436-f9b7-4409-a41a-99e8c5b4f942";1428
+Gewerbegebiet Buckau, Magdeburg (39104),219.000 € 3.982 €/m²,1 Zimmer,55 m²,1. Geschoss,https://www.immowelt.de/expose/d1c05ab7-a4b8-4de6-9251-9712f7f04f26;1428
+Rathausviertel, Magdeburg (39104),82.752 € 2.364 €/m²,1 Zimmer,35 m²,Unknown,https://www.immowelt.de/expose/4edf706f-05e8-4dfd-982f-fa09ae502ee2;1428
+Helmstedter Straße 59, Wormser Platz, Magdeburg (39112),Preis auf Anfrage,1 Zimmer,25 m²,Unknown,https://www.immowelt.de/expose/27c0d0e2-59c8-44dc-8638-a55937503ba1;1428
+"Schellheimerplatz, Magdeburg / Stadtfeld-Ost (39108),149.000 € 1.879 €/m²,4 Zimmer,""79,3 m²"",Unknown,https://www.immowelt.de/expose/8092b5c5-51fe-41fb-a120-35009221374b";1428
+Thauberg, Magdeburg (39116),Preis auf Anfrage,4 Zimmer,129 m²,222 m² Grundstück,https://www.immowelt.de/expose/3b4dcd33-209e-48ed-91ab-ba36f4297396;1428
+"Alt Cracau, Magdeburg (39114),330.000 € 3.139 €/m²,3 Zimmer,""105,1 m²"",1. Geschoss,https://www.immowelt.de/expose/d7069fcf-9712-46ea-8f46-b56dd56c873d";1428
+"Benneckenbeck, Magdeburg / Ottersleben (39116),229.000 € 2.340 €/m²,3 Zimmer,""97,9 m²"",930 m² Grundstück,https://www.immowelt.de/expose/0632c323-1f48-4659-8fa5-8dbd52ef2866";1428
+"Alt Westerhüsen, Magdeburg (39122),500.000 € 1.314 €/m²,17 Zimmer,""380,5 m²"",525 m² Grundstück,https://www.immowelt.de/expose/cbf1742b-c641-482f-a934-8f2bd4ba17cd";1428
+Alt Salbke, Magdeburg (39122),1.100.000 € 1.608 €/m²,25 Zimmer,684 m²,820 m² Grundstück,https://www.immowelt.de/expose/05c392e7-7469-4670-b230-e35767dc227e;1428
+"Salzmannstraße, Magdeburg (39112),62.900 € 1.516 €/m²,2 Zimmer,""41,5 m²"",2. Geschoss,https://www.immowelt.de/expose/57bbc706-8ce4-4760-a69f-41d8a1d619bb";1428
+Randau, Magdeburg (39114),280.000 € 2.979 €/m²,3 Zimmer,94 m²,574 m² Grundstück,https://www.immowelt.de/expose/7921fc86-2adc-420f-93bf-540044067add;1428
+"Alt Salbke, Magdeburg (39122),899.000 € 863 €/m²,""1.041,2 m²"",611 m² Grundstück,Unknown,https://www.immowelt.de/expose/b8b5722d-0588-4541-ad77-783dedd58c6e";1428
+Prester, Magdeburg (39114),89.500 € 2.238 €/m²,2 Zimmer,40 m²,Unknown,https://www.immowelt.de/expose/019133db-7e86-4594-b1f9-ca456995f01e;1428
+Rathausviertel, Magdeburg (39104),82.752 € 2.364 €/m²,1 Zimmer,35 m²,Unknown,https://www.immowelt.de/expose/4f8d4646-2966-4980-8295-0ade35bc1eed;1428
+Prester, Magdeburg (39114),89.500 € 2.238 €/m²,2 Zimmer,40 m²,Unknown,https://www.immowelt.de/expose/8446e4ba-cf72-4cbc-99c2-603b7dbef813;1428
+Rathausviertel, Magdeburg (39104),82.752 € 2.364 €/m²,1 Zimmer,35 m²,Unknown,https://www.immowelt.de/expose/abd5c84a-bd88-4739-85c7-7af0d05456e5;1428
+"Frankefelde, Magdeburg Ottersleben (39116),234.900 € 2.081 €/m²,3 Zimmer,""112,9 m²"",""228,5 m² Grundstück"",https://www.immowelt.de/expose/48b0f302-4fb1-455f-a1d1-e51e4a1fb2bd";1428
+Alt Fermersleben, Magdeburg / Fermersleben (39122),425.000 € 1.107 €/m²,384 m²,301 m² Grundstück,Unknown,https://www.immowelt.de/expose/96c90d36-b2d1-4488-ac0f-60e9fd7fa84e;1428
+"Werder, Magdeburg (39114),79.000 € 2.042 €/m²,1 Zimmer,""38,7 m²"",2. Geschoss,https://www.immowelt.de/expose/eb64f49f-bde4-4967-b51f-428754d03e5a";1428
+Alt Fermersleben, Magdeburg / Fermersleben (39122),1.200.000 € 1.469 €/m²,34 Zimmer,725 m²,430 m² Grundstück,https://www.immowelt.de/expose/50be5c09-0820-4246-936b-04ee464f841a;1428
+Westernplan, Magdeburg (39108),489.254 € 3.020 €/m²,5 Zimmer,162 m²,602 m² Grundstück,https://www.immowelt.de/expose/63b7acf1-cd99-4084-940b-ee24c68c6825;1428
+Engpaß, Magdeburg (39104),595.000 € 1.400 €/m²,10 Zimmer,325 m²,560 m² Grundstück,https://www.immowelt.de/expose/191f0bf9-acc7-4274-a75f-7f7323bd7475;1428
+Ballenstedter Straße, Magdeburg (39118),222.980 € 1.991 €/m²,4 Zimmer,112 m²,609 m² Grundstück,https://www.immowelt.de/expose/9dcbd010-cd71-4c69-8bab-2cf365458feb;1428
+"Hasselbachplatzviertel, Magdeburg (39104),250.000 € 4.167 €/m²,""1,5 Zimmer"",60 m²,frei ab sofort,https://www.immowelt.de/expose/c304fe3d-f58d-4550-9684-a102cadc78bc";1428
+"Ballenstedter Straße, Magdeburg (39118),218.090 € 2.012 €/m²,4 Zimmer,""108,4 m²"",610 m² Grundstück,https://www.immowelt.de/expose/7f64f2fe-82a4-4765-8802-5852f52aa186";1428
+Ballenstedter Straße, Magdeburg (39118),199.650 € 2.170 €/m²,3 Zimmer,92 m²,610 m² Grundstück,https://www.immowelt.de/expose/5d8df55c-0a1e-4510-8450-2ab71a4afb12;1428
+Moritzplatz, Magdeburg (39124),1.200.000 € 1.657 €/m²,24 Zimmer,724 m²,512 m² Grundstück,https://www.immowelt.de/expose/72c3ebd3-3d95-42ed-ab0a-d250ef93c0e1;1428
+"Ballenstedter Straße, Magdeburg (39118),229.080 € 2.113 €/m²,4 Zimmer,""108,4 m²"",610 m² Grundstück,https://www.immowelt.de/expose/1e6298ce-a5e8-49a6-b6be-0a12035ccd11";1428
+"Alt Fermersleben, Magdeburg (39122),206.240 € 2.093 €/m²,4 Zimmer,""98,6 m²"",503 m² Grundstück,https://www.immowelt.de/expose/245cd2e5-07f1-4bd1-836b-8c5087012661";1428
+Ballenstedter Straße, Magdeburg (39118),195.920 € 2.130 €/m²,3 Zimmer,92 m²,610 m² Grundstück,https://www.immowelt.de/expose/8436756c-28a7-4f29-81de-06d90a2edde2;1428
+Alt Fermersleben, Magdeburg / Fermersleben (39122),1.200.000 € 1.356 €/m²,885 m²,430 m² Grundstück,Unknown,https://www.immowelt.de/expose/0d514d2c-e16b-4863-a76d-ed4d1461fc29;1428
+Insel, Magdeburg (39112),1.500.000 € 1.131 €/m²,1.326 m²,714 m² Grundstück,Unknown,https://www.immowelt.de/expose/62c537ad-429a-4769-ae4a-d9fe581b91d1;1428
+"Kristallpalast, Magdeburg (39112),129.000 € 1.548 €/m²,4 Zimmer,""83,3 m²"",Unknown,https://www.immowelt.de/expose/a9498f74-b1ce-4831-aff6-ca8ae13ca371";1428
+St. Pauli / Alexander-Puschkin-Straße, Magdeburg (39108),519.000 € 4.806 €/m²,3 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/89c09eb8-f96b-44ea-804c-f1e5bcec03af;1428
+Wiesengrund / Zur Pappel, Magdeburg (39114),429.000 € 3.300 €/m²,5 Zimmer,130 m²,795 m² Grundstück,https://www.immowelt.de/expose/5482e153-5872-440d-9f43-17bae827fea2;1428
+Ballenstedter Straße, Magdeburg (39118),222.980 € 1.991 €/m²,4 Zimmer,112 m²,609 m² Grundstück,https://www.immowelt.de/expose/febbcf3b-b848-48fb-995f-250df4fda189;1428
+"Ballenstedter Straße, Magdeburg (39118),260.880 € 1.730 €/m²,5 Zimmer,""150,8 m²"",619 m² Grundstück,https://www.immowelt.de/expose/697e37ff-ed4f-44e4-a56e-8187b98e8349";1428
+Ballenstedter Straße, Magdeburg (39118),222.980 € 1.991 €/m²,4 Zimmer,112 m²,609 m² Grundstück,https://www.immowelt.de/expose/da1c5507-222d-4060-88e0-7114c32e9ceb;1428
+"Ballenstedter Straße, Magdeburg (39118),229.080 € 2.113 €/m²,4 Zimmer,""108,4 m²"",610 m² Grundstück,https://www.immowelt.de/expose/654a3547-debf-44ab-8788-6bd3539d76b3";1428
+"Alt Fermersleben, Magdeburg (39122),206.240 € 2.093 €/m²,4 Zimmer,""98,6 m²"",503 m² Grundstück,https://www.immowelt.de/expose/eb1f1c72-5cc3-4234-940b-3fca845da9bf";1428
+Ballenstedter Straße, Magdeburg (39118),195.930 € 2.130 €/m²,3 Zimmer,92 m²,610 m² Grundstück,https://www.immowelt.de/expose/e3547402-da64-41e2-b3ff-0bbfc3ff85ec;1428
+Insleber Straße / Münchenhofstraße, Magdeburg (39124),639.000 € 1.718 €/m²,372 m²,Unknown,Unknown,https://www.immowelt.de/expose/11b95cae-6331-44cc-bc52-e42b67d103fb;1428
+Prester, Magdeburg (39114),89.500 € 2.238 €/m²,2 Zimmer,40 m²,Unknown,https://www.immowelt.de/expose/f5971d3a-cabc-4193-8fa7-a0dd1175a914;1428
+"Alt Diesdorf, Magdeburg / Diesdorf (39110),129.500 € 1.223 €/m²,7 Zimmer,""105,9 m²"",479 m² Grundstück,https://www.immowelt.de/expose/9259d8ec-0e59-4bc1-a1c8-93963039203b";1428
+Hohepfortestraße, Magdeburg / Alte Neustadt (39106),995.000 € 1.895 €/m²,32 Zimmer,525 m²,Unknown,https://www.immowelt.de/expose/990418bf-dc58-4f32-a292-2f2d92d507c3;1428
+Ballenstedter Straße, Magdeburg (39118),222.980 € 1.991 €/m²,4 Zimmer,112 m²,609 m² Grundstück,https://www.immowelt.de/expose/2a5fd533-27f7-4921-af3a-df2cf005d7c4;1428
+"Ballenstedter Straße, Magdeburg (39118),260.880 € 1.730 €/m²,5 Zimmer,""150,8 m²"",619 m² Grundstück,https://www.immowelt.de/expose/00202aa0-b8d4-4d3d-a461-9fee9352a925";1428
+Ballenstedter Straße, Magdeburg (39118),222.980 € 1.991 €/m²,4 Zimmer,112 m²,609 m² Grundstück,https://www.immowelt.de/expose/648c3625-032b-4f04-b91d-d761282ec121;1428
+"Ballenstedter Straße, Magdeburg (39118),229.080 € 2.113 €/m²,4 Zimmer,""108,4 m²"",610 m² Grundstück,https://www.immowelt.de/expose/d74c7a2b-7141-489e-ae0e-a3a08084bbc5";1428
+"Alt Fermersleben, Magdeburg (39122),206.240 € 2.093 €/m²,4 Zimmer,""98,6 m²"",503 m² Grundstück,https://www.immowelt.de/expose/e490dcc4-d5d1-4cb9-8bc4-a94f48426693";1428
+Ballenstedter Straße, Magdeburg (39118),195.920 € 2.130 €/m²,3 Zimmer,92 m²,610 m² Grundstück,https://www.immowelt.de/expose/12dec3a9-5a47-48aa-9acc-99f2e0359b2b;1428
+Am Spionskopf, Magdeburg / Salbke (39122),699.000 € 1.854 €/m²,8 Zimmer,377 m²,1.178 m² Grundstück,https://www.immowelt.de/expose/9bb434ad-02fb-4ad4-bb19-b49de357adaf;1428
+Schellheimerplatz, Magdeburg (39108),183.000 € 2.952 €/m²,2 Zimmer,62 m²,Unknown,https://www.immowelt.de/expose/8ec3f7b7-72f4-41ef-9695-f1d89c7fabbf;1428
+"Schellheimerplatz, Magdeburg (39108),140.000 € 2.130 €/m²,2 Zimmer,""65,7 m²"",EG,https://www.immowelt.de/expose/a5cad06b-d6a4-4ddb-aa16-accc3b44aed5";1428
+Insleber Straße / Münchenhofstraße, Magdeburg (39124),639.000 € 1.718 €/m²,30 Zimmer,372 m²,450 m² Grundstück,https://www.immowelt.de/expose/c09a6395-cda6-4c1e-9ca4-626aad4adca5;1428
+"Sternviertel, Magdeburg (39104),4.420.000 € 2.207 €/m²,""2.002,7 m²"",826 m² Grundstück,Unknown,https://www.immowelt.de/expose/77db8380-a6e1-47a1-aa7f-9bd837d8c470";1428
+Alt Salbke, Magdeburg (39122),972.580 € 834 €/m²,1.166 m²,958 m² Grundstück,Unknown,https://www.immowelt.de/expose/890a4f6f-fedc-4c9b-af22-098437cd79e7;1428
+"Alt Fermersleben, Magdeburg (39122),206.230 € 2.093 €/m²,4 Zimmer,""98,6 m²"",503 m² Grundstück,https://www.immowelt.de/expose/e2855ad6-d438-4cc3-a28d-a12ff11be08a";1428
+Ballenstedter Straße, Magdeburg (39118),195.910 € 2.129 €/m²,3 Zimmer,92 m²,610 m² Grundstück,https://www.immowelt.de/expose/4c06a82a-645b-41af-9f93-f25a02d61830;1428
+Prester, Magdeburg (39114),89.500 € 2.238 €/m²,2 Zimmer,40 m²,Unknown,https://www.immowelt.de/expose/5e2b32ba-6693-45d8-ab84-2bb11ebef4d9;1428
+"Schönebecker Straße 101, Gewerbegebiet Buckau, Magdeburg / Buckau (39104),299.000 € 2.642 €/m²,2 Zimmer,""113,2 m²"",EG,https://www.immowelt.de/expose/82afb607-8571-49a7-9d9b-51bde955cad5";1428
+Wormser Platz, Magdeburg (39112),1.750.000 € 1.932 €/m²,906 m²,751 m² Grundstück,Unknown,https://www.immowelt.de/expose/1c097f6f-fa73-47c7-b2f3-21de8e867c96;1428
+Ballenstedter Straße, Magdeburg (39118),222.970 € 1.991 €/m²,4 Zimmer,112 m²,609 m² Grundstück,https://www.immowelt.de/expose/f91d7e59-0a59-44ee-9964-bc6a7da6b7e3;1428
+"Ballenstedter Straße, Magdeburg (39118),260.870 € 1.729 €/m²,5 Zimmer,""150,8 m²"",619 m² Grundstück,https://www.immowelt.de/expose/6a464336-dea2-4fcf-931a-105cf22b1aba";1428
+Ballenstedter Straße, Magdeburg (39118),222.970 € 1.991 €/m²,4 Zimmer,112 m²,609 m² Grundstück,https://www.immowelt.de/expose/e332c899-8361-4108-88e9-839106d6de06;1428
+"Ballenstedter Straße, Magdeburg (39118),229.090 € 2.113 €/m²,4 Zimmer,""108,4 m²"",610 m² Grundstück,https://www.immowelt.de/expose/30ce94cb-9162-42e1-8105-05ffab244fc2";1428
+"Alt Fermersleben, Magdeburg (39122),206.230 € 2.093 €/m²,4 Zimmer,""98,6 m²"",503 m² Grundstück,https://www.immowelt.de/expose/4ad10915-fa6d-4276-80f1-5c1e7c7a588a";1428
+Ballenstedter Straße, Magdeburg (39118),195.910 € 2.129 €/m²,3 Zimmer,92 m²,610 m² Grundstück,https://www.immowelt.de/expose/216b7d30-a886-452b-a3b9-74f0efa4f3b3;1428
+Hohepfortestraße, Magdeburg / Alte Neustadt (39106),480.000 € 1.897 €/m²,15 Zimmer,253 m²,Unknown,https://www.immowelt.de/expose/349d2789-cd99-4788-9453-103766846e01;1428
+Rathausviertel, Magdeburg (39104),82.752 € 2.364 €/m²,1 Zimmer,35 m²,Unknown,https://www.immowelt.de/expose/a76efe2a-abe6-4646-acfa-9f93d07a7673;1428
+"Bürgelstraße 2, Hasselbachplatzviertel, Magdeburg / Altstadt (39104),135.000 € 2.293 €/m²,2 Zimmer,""58,9 m²"",Unknown,https://www.immowelt.de/expose/99a46118-1f06-43eb-9b4f-bc859153b097";1428
+Sohlen, Magdeburg / Beyendorf (39122),249.000 € 1.556 €/m²,7 Zimmer,160 m²,600 m² Grundstück,https://www.immowelt.de/expose/61abe029-5047-45b4-afa4-568c02803236;1428
+Sternbogen, Magdeburg / Olvenstedt (39130),499.000 € 2.803 €/m²,6 Zimmer,178 m²,413 m² Grundstück,https://www.immowelt.de/expose/0b927052-4ed4-43c6-8ecd-83943a2a3e82;1428
+Lüttgen-Salbke, Magdeburg (39122),450.000 € 3.041 €/m²,4 Zimmer,148 m²,1.718 m² Grundstück,https://www.immowelt.de/expose/101b7098-17f3-4f98-b4d2-c48d73b2f804;1428
+Ballenstedter Straße, Magdeburg (39118),612.103 € 3.061 €/m²,6 Zimmer,200 m²,750 m² Grundstück,https://www.immowelt.de/expose/601fd688-a81b-4cf1-866e-25e94273b5e9;1428
+Alt Fermersleben, Magdeburg (39122),450.000 € 3.041 €/m²,4 Zimmer,148 m²,1.718 m² Grundstück,https://www.immowelt.de/expose/00aa7fc5-780a-4d76-92b9-931247da7517;1428
+Rathausviertel, Magdeburg / Altstadt (39104),3.900.000 € 1.670 €/m²,2.336 m²,1.722 m² Grundstück,Unknown,https://www.immowelt.de/expose/df6b1b04-3bd7-4549-8a28-111e1936d488;1428
+Schellheimerplatz, Magdeburg (39108),4.250.000 € 1.360 €/m²,3.125 m²,1.059 m² Grundstück,Unknown,https://www.immowelt.de/expose/3d1bc91b-fe8f-4d9f-8073-6f9284f21d57;1428
+"Schellheimerplatz, Magdeburg (39108),130.000 € 2.360 €/m²,2 Zimmer,""55,1 m²"",Unknown,https://www.immowelt.de/expose/8745ffd9-9d8e-498d-bd7e-0c5e0340be3d";1428
+Hohepfortestraße, Magdeburg / Alte Neustadt (39106),2.000.000 € 1.901 €/m²,38 Zimmer,1.052 m²,578 m² Grundstück,https://www.immowelt.de/expose/906da9e9-96bd-4409-8836-1bde93c862ed;1428
+Sohlen, Magdeburg (39122),445.791 € 3.302 €/m²,4 Zimmer,135 m²,548 m² Grundstück,https://www.immowelt.de/expose/ab31a8ba-3868-4570-9e2d-69ecfb76743c;1428
+Puppendorf, Magdeburg (39114),442.563 € 3.254 €/m²,4 Zimmer,136 m²,655 m² Grundstück,https://www.immowelt.de/expose/3b9f7ec5-11fa-4147-af02-0d260bfb52c4;1428
+Puppendorf, Magdeburg (39114),474.483 € 3.515 €/m²,4 Zimmer,135 m²,678 m² Grundstück,https://www.immowelt.de/expose/0d9ae4fb-63af-48e0-8792-1bf7b75d37f9;1428
+Insel, Magdeburg (39112),583.251 € 3.763 €/m²,4 Zimmer,155 m²,560 m² Grundstück,https://www.immowelt.de/expose/446f87d2-f477-43cd-8d4d-c7aa06024a36;1428
+"Klausenerstraße, Wormser Platz, Magdeburg (39112),300.000 € 1.967 €/m²,4 Zimmer,""152,5 m²"",frei ab sofort,https://www.immowelt.de/expose/c5eb3cbf-936d-4aff-8028-515081a4f066";1428
+Hohe Wiese, Niederndodeleber Straße, Magdeburg (39110),251.000 € 1.793 €/m²,4 Zimmer,140 m²,830 m² Grundstück,https://www.immowelt.de/expose/cd051ac4-df36-467c-b2f7-3fcc92bc4933;1428
+"Pechauer Platz, Alt Cracau, Magdeburg (39114),251.000 € 1.747 €/m²,""5,5 Zimmer"",""143,7 m²"",Unknown,https://www.immowelt.de/expose/3af9a75f-d994-4358-8ab2-d3d59060e1bf";1428
+"Sieverstorstr., Neustädter Bahnhof, Magdeburg (39106),150.000 € 1.298 €/m²,4 Zimmer,""115,5 m²"",frei ab sofort,https://www.immowelt.de/expose/5af4c7ca-c33b-42a1-85ea-f1772a6fc579";1428
+Zur Hubbrücke, Hasselbachplatzviertel, Magdeburg (39104),140.000 € 1.506 €/m²,3 Zimmer,93 m²,frei ab sofort,https://www.immowelt.de/expose/d4c04044-2c05-44eb-a98e-4e7299de2a77;1428
+"Schönebecker Straße, Engpaß, Magdeburg (39104),140.000 € 1.115 €/m²,4 Zimmer,""125,6 m²"",frei ab sofort,https://www.immowelt.de/expose/f5ab0ff1-95e3-455c-aaea-c76bc0296ead";1428
+"Alt Cracau, Magdeburg (39114),850.000 € 1.018 €/m²,34 Zimmer,835 m²,""461,3 m² Grundstück"",https://www.immowelt.de/expose/ec8d0b59-2e86-4469-aa3a-a1db99540b56";1428
+"Gübs, Biederitz (39175),242.089 € 1.845 €/m²,8 Zimmer,""131,2 m²"",505 m² Grundstück,https://www.immowelt.de/expose/aed8b2b1-54ac-4986-863a-5caead7d1356";1428
+"Gübs, Biederitz (39175),285.489 € 2.286 €/m²,4 Zimmer,""124,9 m²"",505 m² Grundstück,https://www.immowelt.de/expose/fb7f81e6-6e4f-41b6-b819-633c3d35189a";1428
+Biederitz, Biederitz (39175),499.506 € 3.902 €/m²,4 Zimmer,128 m²,740 m² Grundstück,https://www.immowelt.de/expose/2288f1b2-72e3-4fde-9e3a-aa64fdb08dba;1428
+Biederitz, Biederitz (39175),315.000 € 2.368 €/m²,133 m²,955 m² Grundstück,Unknown,https://www.immowelt.de/expose/d89e922c-6af2-4af8-9d62-239205eb61a5;1428
+Ruthenstr., Biederitz, Biederitz (39175),348.875 € 3.172 €/m²,4 Zimmer,110 m²,465 m² Grundstück,https://www.immowelt.de/expose/fca9d00d-a9b8-4476-8035-caecb43e1d0a;1428
+Gübs, Biederitz (39175),475.000 € 4.318 €/m²,4 Zimmer,110 m²,506 m² Grundstück,https://www.immowelt.de/expose/8a17dd1d-3026-495c-a20b-3383f7d01393;1428
+"Gübs, Biederitz (39175),297.039 € 2.088 €/m²,4 Zimmer,""142,2 m²"",505 m² Grundstück,https://www.immowelt.de/expose/401ec45c-8199-4eba-9033-aeadeacabf5f";1428
+"Heyrothsberge, Heyrothsberge (39175),249.000 € 2.140 €/m²,4 Zimmer,""116,4 m²"",600 m² Grundstück,https://www.immowelt.de/expose/e3593e27-d083-4ae9-8f8e-9ee82d8e0387";1428
+Biederitz, Biederitz (39175),365.998 € 3.239 €/m²,4 Zimmer,113 m²,540 m² Grundstück,https://www.immowelt.de/expose/004ccda5-3d1e-4876-bbc8-d8300e4f955d;1428
+"Weidenring 11b, Biederitz, Biederitz (39175),139.500 € 2.180 €/m²,""2,5 Zimmer"",64 m²,Unknown,https://www.immowelt.de/expose/8f463c71-ac70-4663-b498-ffca9bfec8a4";1428
+Gübs, Biederitz (39175),325.107 € 2.877 €/m²,4 Zimmer,113 m²,640 m² Grundstück,https://www.immowelt.de/expose/f261d74a-d9e1-4520-a2e6-ceb6bc7fef58;1428
+"Am Weidenring 11, Biederitz, Biederitz (39175),167.000 € 2.179 €/m²,3 Zimmer,""76,6 m²"",1. Geschoss,https://www.immowelt.de/expose/1331e31f-4c85-4351-ab86-31849145c1da";1428
+"Biederitz, Biedritz (39175),185.000 € 1.092 €/m²,7 Zimmer,""169,5 m²"",1.000 m² Grundstück,https://www.immowelt.de/expose/688bc1e7-6a2f-42bb-9841-0683a866dda3";1428
+Biederitz, Biederitz (39175),76.000 € 1.041 €/m²,2 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/84aa4111-2cee-4eea-ac65-b1ead5d26cc4;1428
+Heyrothsberge, Heyrothsberge (39175),455.150 € 3.371 €/m²,4 Zimmer,135 m²,790 m² Grundstück,https://www.immowelt.de/expose/a081a839-2262-46c5-9aaa-cbe26fe9576f;1428

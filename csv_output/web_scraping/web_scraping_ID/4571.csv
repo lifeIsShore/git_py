@@ -1,0 +1,421 @@
+Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL;city_id
+Talstraße 19, Andreasvorstadt, Erfurt (99089),765.000 € 2.102 €/m²,364 m²,246 m² Grundstück,Unknown,https://www.immowelt.de/expose/f349564a-7f0f-4242-af93-76544f4760bb;4571
+"Altstadt, Erfurt (99084),88.500 € 4.492 €/m²,1 Zimmer,""19,7 m²"",2. Geschoss,https://www.immowelt.de/expose/d076b199-e1f2-490b-8750-8fe4a074cb46";4571
+"Gispersleben, Erfurt (99091),237.429 € 1.669 €/m²,4 Zimmer,""142,2 m²"",507 m² Grundstück,https://www.immowelt.de/expose/515e0ef7-8e98-4c32-b576-7d40cc5245b7";4571
+"Bogenstraße 3, Ilversgehofen, Erfurt (99089),599.900 € 4.426 €/m²,5 Zimmer,""135,6 m²"",3. Geschoss,https://www.immowelt.de/expose/060ffa64-cdc1-4464-b706-5c5cca9d2cb2";4571
+Waltersleben, Erfurt (99097),327.800 € 4.257 €/m²,3 Zimmer,77 m²,500 m² Grundstück,https://www.immowelt.de/expose/25e52cc8-d92a-4f59-948e-ca2050e8cb0d;4571
+Bindersleben, Erfurt (99092),509.906 € 3.953 €/m²,4 Zimmer,129 m²,500 m² Grundstück,https://www.immowelt.de/expose/099b82d1-f8b4-42d0-a339-9c2c399b16e9;4571
+Schmira, Erfurt (99094),481.900 € 3.707 €/m²,4 Zimmer,130 m²,440 m² Grundstück,https://www.immowelt.de/expose/176869ca-ad39-44ab-9946-3643f452ca87;4571
+Krämpfervorstadt, Erfurt (99085),594.900 € 4.917 €/m²,4 Zimmer,121 m²,649 m² Grundstück,https://www.immowelt.de/expose/672252cd-d8ac-4a2d-9c24-5f15fa02f23f;4571
+Teichstraße 80, Ilversgehofen, Erfurt (99086),850.000 € 1.213 €/m²,32 Zimmer,701 m²,Unknown,https://www.immowelt.de/expose/4f2b1cd4-9de9-40e4-bba8-ccf9a7494b72;4571
+Boyneburgufer 8, Andreasvorstadt, Erfurt (99089),1.000.000 € 1.391 €/m²,27 Zimmer,719 m²,Unknown,https://www.immowelt.de/expose/a404e6bc-804f-4764-b6a5-525b08300832;4571
+Bogenstraße 3, Ilversgehofen, Erfurt (99089),399.900 € 4.762 €/m²,3 Zimmer,84 m²,2. Geschoss,https://www.immowelt.de/expose/fc20e297-61f9-4d0c-915a-7e664eb0dd03;4571
+Ilversgehofen, Erfurt (99089),565.800 € 3.408 €/m²,5 Zimmer,166 m²,106 m² Grundstück,https://www.immowelt.de/expose/7f0c677e-7c84-43b7-9cee-548cd2401b46;4571
+"Moskauer Platz 12-13, Moskauer Platz, Erfurt (99091),164.700 € 2.989 €/m²,2 Zimmer,""55,1 m²"",1. Geschoss,https://www.immowelt.de/expose/1a43b84b-272a-4fcd-9fed-ea0ce1853005";4571
+"Leopoldstraße 13, Andreasvorstadt, Erfurt (99089),180.000 € 2.459 €/m²,3 Zimmer,""73,2 m²"",Unknown,https://www.immowelt.de/expose/d4844903-ae5a-47cf-b77e-ba616dbe934c";4571
+"Albrechtstraße, Andreasvorstadt, Erfurt (99092),100.000 € 2.124 €/m²,2 Zimmer,""49,9 m²"",4. Geschoss,https://www.immowelt.de/expose/fc95a68a-fe41-4e0f-88cf-5bce99062c90";4571
+Löbervorstadt, Erfurt (99096),279.000 € 3.244 €/m²,3 Zimmer,86 m²,3. Geschoss,https://www.immowelt.de/expose/3aa1983b-810e-4a2c-a87c-0dd4992be64b;4571
+Melchendorf, Erfurt (99097),12.500 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/55afe560-6edc-4d31-98d9-2bec5ca1207b;4571
+Andreasvorstadt, Erfurt (99092),134.500 € 2.319 €/m²,2 Zimmer,58 m²,50. Geschoss,https://www.immowelt.de/expose/c1907849-83d2-4a76-af07-4cfe027fc3fd;4571
+Möbisburg-Rhoda, Erfurt (99094),520.000 € 4.031 €/m²,5 Zimmer,129 m²,522 m² Grundstück,https://www.immowelt.de/expose/0e915a93-cca9-4a74-9cdc-477cfc15ac86;4571
+Hochheim, Erfurt (99094),739.000 € 5.474 €/m²,5 Zimmer,135 m²,484 m² Grundstück,https://www.immowelt.de/expose/e842fea8-c758-4d89-9794-9e5c5cb3b8ce;4571
+"Schmira, Erfurt (99094),560.000 € 4.179 €/m²,""3,5 Zimmer"",134 m²,561 m² Grundstück,https://www.immowelt.de/expose/cc007d21-c6af-46e1-8273-a8115102db48";4571
+"Marbach, Erfurt (99092),266.139 € 3.013 €/m²,3 Zimmer,""88,3 m²"",605 m² Grundstück,https://www.immowelt.de/expose/94420b24-a508-46b5-bd6b-3f2a2a5d1d1c";4571
+"Dittelstedt, Erfurt (99099),294.219 € 2.356 €/m²,4 Zimmer,""124,9 m²"",596 m² Grundstück,https://www.immowelt.de/expose/8014f28b-6422-49c5-b403-ce5b5d6e0c53";4571
+Schwerborn, Erfurt (99095),698.800 € 2.393 €/m²,9 Zimmer,292 m²,767 m² Grundstück,https://www.immowelt.de/expose/2d3c0781-7a14-4ca3-b313-dc9666ae81f1;4571
+"Windischholzhausen, Erfurt (99099),196.000 € 2.672 €/m²,2 Zimmer,""73,3 m²"",2. Geschoss,https://www.immowelt.de/expose/ade613dd-a646-4a5d-82fb-170f704c3f87";4571
+"Andreasvorstadt, Erfurt (99086),1.495.000 € 2.522 €/m²,23 Zimmer,""592,8 m²"",245 m² Grundstück,https://www.immowelt.de/expose/deca013d-4d6d-4c83-8f37-59458af8647f";4571
+"Brühlervorstadt, Erfurt / Brühlervorstadt (99084),327.000 € 3.679 €/m²,2 Zimmer,""88,9 m²"",3. Geschoss,https://www.immowelt.de/expose/0b28e100-aa10-4059-90c6-69789f9d1e4f";4571
+Brühlervorstadt, Erfurt (99084),259.000 € 4.111 €/m²,3 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/f1beffcd-5cb1-44b0-928a-5cf98a9aeef7;4571
+Dittelstedt, Erfurt (99099),561.754 € 5.016 €/m²,4 Zimmer,112 m²,1.052 m² Grundstück,https://www.immowelt.de/expose/f93ef38d-62ff-464c-993c-f8d3e48ba944;4571
+Stotternheim, Erfurt (99095),519.900 € 3.636 €/m²,5 Zimmer,143 m²,715 m² Grundstück,https://www.immowelt.de/expose/0d4df08a-7073-4837-93d4-12b16f4d5f9d;4571
+Schwerborn, Erfurt (99095),870.900 € 5.184 €/m²,6 Zimmer,168 m²,1.900 m² Grundstück,https://www.immowelt.de/expose/8dd782c4-2197-4dbf-b261-0d96358f62c4;4571
+Bischleben-Stedten, Erfurt (99094),1.038.900 € 4.924 €/m²,6 Zimmer,211 m²,530 m² Grundstück,https://www.immowelt.de/expose/79f6befd-f45b-4dd8-803f-33188b04d872;4571
+Kerspleben, Erfurt (99098),549.000 € 3.389 €/m²,6 Zimmer,162 m²,339 m² Grundstück,https://www.immowelt.de/expose/69cbdcea-ec33-4474-ae08-89ba04720e38;4571
+Stotternheim, Erfurt (99095),452.900 € 3.235 €/m²,4 Zimmer,140 m²,445 m² Grundstück,https://www.immowelt.de/expose/21a5322d-72fd-476b-9688-bc7b17849af8;4571
+Alach, Erfurt (99090),582.900 € 4.519 €/m²,4 Zimmer,129 m²,600 m² Grundstück,https://www.immowelt.de/expose/e1450456-c181-4dcd-b54e-5f9a57c2ff8d;4571
+Melchendorf, Erfurt (99097),1.031.900 € 6.370 €/m²,5 Zimmer,162 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/c012592e-d7bb-4b0e-adaa-48f6ac309a05;4571
+Waltersleben, Erfurt (99097),358.560 € 3.290 €/m²,4 Zimmer,109 m²,500 m² Grundstück,https://www.immowelt.de/expose/f00f8575-43da-49e9-b135-0060f09c1ae3;4571
+Bindersleben, Erfurt (99092),673.906 € 6.240 €/m²,4 Zimmer,108 m²,500 m² Grundstück,https://www.immowelt.de/expose/3de2975b-1ddd-471a-8795-46e5b7a64ae7;4571
+Windischholzhausen, Erfurt (99099),587.643 € 4.857 €/m²,4 Zimmer,121 m²,740 m² Grundstück,https://www.immowelt.de/expose/c28ceba1-1b96-494c-ab49-1c6dd7d0232d;4571
+Stotternheim, Erfurt (99095),1.790.000 € 3.333 €/m²,537 m²,1.821 m² Grundstück,Unknown,https://www.immowelt.de/expose/4c4db2e9-1eee-46aa-863e-8fe3f879ca56;4571
+Waltersleben, Erfurt (99097),435.380 € 2.655 €/m²,6 Zimmer,164 m²,500 m² Grundstück,https://www.immowelt.de/expose/414328d8-056d-4733-9dec-8d57e923094a;4571
+Kerspleben, Erfurt OT Kerspleben (99098),328.000 € 2.523 €/m²,6 Zimmer,130 m²,725 m² Grundstück,https://www.immowelt.de/expose/1207cdd7-a70e-49c1-9bae-0cd6945aa38a;4571
+Ilversgehofen, Erfurt (99089),755.900 € 4.666 €/m²,5 Zimmer,162 m²,582 m² Grundstück,https://www.immowelt.de/expose/6e87e5a9-995c-4e06-a951-400199d717ac;4571
+Waltersleben, Waltersleben (99097),493.320 € 3.224 €/m²,4 Zimmer,153 m²,500 m² Grundstück,https://www.immowelt.de/expose/92e2a8ee-f631-47e6-b6af-28a524921540;4571
+Andreasvorstadt, Erfurt (99089),995.000 € 1.384 €/m²,27 Zimmer,719 m²,Unknown,https://www.immowelt.de/expose/ac6b1616-3959-42b1-9346-3f0f2515852f;4571
+Schmira, Schmira (99094),443.540 € 3.438 €/m²,4 Zimmer,129 m²,395 m² Grundstück,https://www.immowelt.de/expose/59d55bf7-3192-41f8-9e4e-f1a9903b415a;4571
+Möbisburg-Rhoda, Möbisburg (99094),430.000 € 3.333 €/m²,4 Zimmer,129 m²,352 m² Grundstück,https://www.immowelt.de/expose/e7074569-8c4e-41b1-b842-70ca6c2ec8b7;4571
+Andreasvorstadt, Erfurt (99089),155.000 € 2.818 €/m²,2 Zimmer,55 m²,4. Geschoss,https://www.immowelt.de/expose/97cd7f68-31e9-4b99-9ee1-53c1075d234a;4571
+Waltersleben, Erfurt-Waltersleben (99097),458.510 € 3.789 €/m²,4 Zimmer,121 m²,500 m² Grundstück,https://www.immowelt.de/expose/61300e0e-a4fe-4ce6-a46c-91297e7da220;4571
+Möbisburg-Rhoda, Erfurt (99094),525.000 € 4.070 €/m²,5 Zimmer,129 m²,522 m² Grundstück,https://www.immowelt.de/projekte/expose/k2q5632;4571
+Löbervorstadt, Erfurt (99096),369.500 € 3.695 €/m²,5 Zimmer,100 m²,690 m² Grundstück,https://www.immowelt.de/expose/80711e02-5f1f-4ec4-aed0-abe3de625020;4571
+"Europaplatz 8, Gispersleben, Erfurt (Gispersleben) (99091),362.000 € 4.748 €/m²,3 Zimmer,""76,3 m²"",7. Geschoss,https://www.immowelt.de/projekte/expose/k2pq532";4571
+"Auenstraße 14, Andreasvorstadt, Erfurt (99089),134.000 € 2.216 €/m²,2 Zimmer,""60,5 m²"",1. Geschoss,https://www.immowelt.de/expose/27d9a2a4-fd0a-439b-a633-cd896eef0344";4571
+Altstadt, Erfurt (99084),290.000 € 3.454 €/m²,3 Zimmer,84 m²,2. Geschoss,https://www.immowelt.de/expose/f36e7c44-2620-48a7-8dd9-a3dd79967ad7;4571
+Freiliggrathstraße 18a, Altstadt, Erfurt (99096),538.000 € 4.483 €/m²,6 Zimmer,120 m²,700 m² Grundstück,https://www.immowelt.de/expose/7a6ff2ac-958b-40d9-aa39-9596a01a3312;4571
+"Ernst Toller Straße 18, Johannesvorstadt, Erfurt (99086),394.310 € 4.300 €/m²,4 Zimmer,""91,7 m²"",Unknown,https://www.immowelt.de/expose/a4540201-23c8-4cd2-b065-52256d47b1bf";4571
+"Ernst Toller Straße 18, Johannesvorstadt, Erfurt (99086),281.645 € 4.155 €/m²,2 Zimmer,""67,8 m²"",Unknown,https://www.immowelt.de/expose/8eaf22b1-bffc-40a0-9ba1-b7b456ec1a81";4571
+An den Pappeln 1, Alach, Erfurt (99090),162.000 € 2.189 €/m²,3 Zimmer,74 m²,1. Geschoss,https://www.immowelt.de/expose/1861e690-e61e-498f-a3fe-c02b0518fd7d;4571
+Altstadt, Erfurt (99084),1.600.000 € 1.903 €/m²,841 m²,500 m² Grundstück,Unknown,https://www.immowelt.de/expose/49e8b6c8-dded-432b-a2ad-5e02b340da24;4571
+Günterstraße 20, Brühlervorstadt, Erfurt (99092),135.000 € 2.455 €/m²,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/469c51e7-ea00-4004-99b3-fdce56cb6ba2;4571
+Liebknechtstraße, Krämpfervorstadt, Erfurt (99085),198.000 € 2.200 €/m²,3 Zimmer,90 m²,EG,https://www.immowelt.de/expose/93c69e05-b32d-4881-ba13-615323667efc;4571
+Windischholzhausen, Erfurt (99099),598.000 € 2.600 €/m²,7 Zimmer,230 m²,350 m² Grundstück,https://www.immowelt.de/expose/27ed7d3f-f8f3-42d7-9967-9f27eb61f1ff;4571
+Johannesvorstadt, Erfurt (99085),205.000 € 2.204 €/m²,3 Zimmer,93 m²,2. Geschoss,https://www.immowelt.de/expose/b055ddd8-4b1c-4d8b-b42a-1281b0a04498;4571
+Johannesvorstadt, Erfurt (99085),1.450.000 € 2.300 €/m²,630 m²,475 m² Grundstück,Unknown,https://www.immowelt.de/expose/0a79ee76-ca90-4c97-8861-7fc551da433b;4571
+Erfurt (99096),500.000 € 4.348 €/m²,5 Zimmer,115 m²,500 m² Grundstück,https://www.immowelt.de/expose/87e73e5e-1c05-45d1-b167-f740badb997c;4571
+Puschkinstraße 4, Erfurt (99084),300.000 € 4.478 €/m²,2 Zimmer,67 m²,EG,https://www.immowelt.de/expose/66d075fa-212e-4b0d-9e5a-07e35b585226;4571
+"Brühlervorstadt, Erfurt (99092),560.000 € 3.220 €/m²,6 Zimmer,""173,9 m²"",398 m² Grundstück,https://www.immowelt.de/expose/0967aa87-6462-42bf-92a2-b11109dc6995";4571
+"Günterstraße 16, Brühlervorstadt, Erfurt (99092),183.000 € 3.094 €/m²,3 Zimmer,""59,2 m²"",Unknown,https://www.immowelt.de/expose/bbe13645-a352-475d-bf6a-63d7b45aecb0";4571
+"Nonnenrain 13, Daberstedt, Erfurt (99099),510.000 € 5.165 €/m²,3 Zimmer,""98,8 m²"",EG,https://www.immowelt.de/expose/dc06365a-a85d-4c13-8331-eade2a367150";4571
+"Nonnenrain 13, Daberstedt, Erfurt (99099),520.000 € 4.964 €/m²,3 Zimmer,""104,8 m²"",EG,https://www.immowelt.de/expose/1e552e81-7f3e-4c84-a911-03493e4109cb";4571
+Reichartstraße 1, Brühlervorstadt, Erfurt (99094),250.000 € 3.623 €/m²,2 Zimmer,69 m²,Unknown,https://www.immowelt.de/expose/c251a9c0-172b-490c-937d-c9a3df35fded;4571
+Gerberstraße 14, Andreasvorstadt, Erfurt (99089),115.000 € 1.769 €/m²,2 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/91f6ea0f-f883-47b4-9619-56641d7e959a;4571
+"Im Wiesengrund 1, Dittelstedt, Erfurt (99099),132.000 € 2.609 €/m²,1 Zimmer,""50,6 m²"",Unknown,https://www.immowelt.de/expose/faf1c7e4-eeb4-4f05-bff2-e8b1720677e7";4571
+Windischholzhausen, Erfurt (99099),545.000 € 2.946 €/m²,4 Zimmer,185 m²,844 m² Grundstück,https://www.immowelt.de/expose/731184eb-5db1-42e8-ba93-57c9122e0721;4571
+Hochheim, Erfurt (99094),649.000 € 4.356 €/m²,6 Zimmer,149 m²,563 m² Grundstück,https://www.immowelt.de/expose/acc930f4-acfb-48f4-be2c-17eeff6739f1;4571
+"Daberstedt, Erfurt (99099),190.000 €,3 Zimmer,""80,7 m²"",4. Geschoss,https://www.immowelt.de/expose/546c0fcc-57be-46a4-86ec-1847067f82f9";4571
+Löberwallgraben 17, Löbervorstadt, Erfurt (99096),260.000 € 2.476 €/m²,2 Zimmer,105 m²,2. Geschoss,https://www.immowelt.de/expose/5572608d-005a-4477-b643-ebdd47a1639a;4571
+"Nonnenrain 13, Daberstedt, Erfurt (99099),430.000 € 5.015 €/m²,3 Zimmer,""85,8 m²"",1. Geschoss,https://www.immowelt.de/expose/664be558-047e-4450-a57c-9ef56865df2f";4571
+"Nonnenrain 13, Daberstedt, Erfurt (99099),660.000 € 4.991 €/m²,4 Zimmer,""132,3 m²"",1. Geschoss,https://www.immowelt.de/expose/86c9a2eb-3e1c-43ca-98ec-0c9a533f4d78";4571
+Alter Stadtweg, Kühnhausen, Erfurt (99090),149.500 € 2.492 €/m²,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/552a76f3-15cb-4017-87ee-ef2ec1830d20;4571
+Ilversgehofen, Erfurt (99086),95.000 € 1.667 €/m²,2 Zimmer,57 m²,Unknown,https://www.immowelt.de/expose/302861e7-6616-460b-93f3-06e34e4f2e07;4571
+Brühlervorstadt, Erfurt (99094),600.000 € 3.529 €/m²,170 m²,500 m² Grundstück,Unknown,https://www.immowelt.de/expose/f94af888-4608-4bf5-b0f4-341ced62ec8e;4571
+Hermann-Schmidt-Straße 19, Brühlervorstadt, Erfurt (99094),446.250 € 4.250 €/m²,3 Zimmer,105 m²,EG,https://www.immowelt.de/expose/7f76911b-532c-4c8d-b704-74d7577e7ada;4571
+Hermann-Schmidt-Straße 19, Brühlervorstadt, Erfurt (99094),578.000 € 4.250 €/m²,3 Zimmer,136 m²,Unknown,https://www.immowelt.de/expose/fb299e9c-f93f-4093-98a5-c092d5f17cea;4571
+Hermann-Schmidt-Straße 19, Brühlervorstadt, Erfurt (99094),1.024.250 € 4.250 €/m²,6 Zimmer,241 m²,Unknown,https://www.immowelt.de/expose/b415d1ca-830e-4b9d-a3a3-de4cf66e937c;4571
+Ilversgehofen, Erfurt (99086),589.000 € 1.683 €/m²,350 m²,378 m² Grundstück,Unknown,https://www.immowelt.de/expose/dbf6678a-4822-4d51-b89e-8978f7de007e;4571
+Altstadt, Erfurt (99084),550.000 € 2.750 €/m²,4 Zimmer,200 m²,900 m² Grundstück,https://www.immowelt.de/expose/11ad601b-7b3b-46e7-9197-a379b0cff55e;4571
+"Albrechtstraße, Andreasvorstadt, Erfurt (99092),147.000 € 2.124 €/m²,3 Zimmer,""69,2 m²"",4. Geschoss,https://www.immowelt.de/expose/a1784491-9b1b-4592-b4e5-9cca78fa5de4";4571
+Altstadt, Erfurt (99084),384.000 € 2.977 €/m²,4 Zimmer,129 m²,Unknown,https://www.immowelt.de/expose/0560203b-5371-491f-8c18-0cd03cf7c9c1;4571
+"Urbicherweg 14, Niedernissa, Erfurt (99099),99.000 € 2.094 €/m²,2 Zimmer,""47,3 m²"",Unknown,https://www.immowelt.de/expose/187ada24-5fab-4258-b58a-bb5d52acaaa6";4571
+"Ritschlstraße, Andreasvorstadt, Erfurt (99089),246.000 € 3.550 €/m²,2 Zimmer,""69,3 m²"",Unknown,https://www.immowelt.de/expose/69575dec-b0d7-4161-a629-1095014600fe";4571
+Triftstraße, Ilversgehofen, Erfurt (99086),800.000 € 1.720 €/m²,465 m²,431 m² Grundstück,Unknown,https://www.immowelt.de/expose/3e54ed5b-7108-4a3f-9581-8fa09902ceb2;4571
+"Bogenstraße 3, Ilversgehofen, Erfurt (99089),579.900 € 4.322 €/m²,5 Zimmer,""134,2 m²"",3. Geschoss,https://www.immowelt.de/expose/91a05956-f92e-4c65-83f0-3b6eb8878c99";4571
+Ilversgehofen, Erfurt (99089),160.000 € 2.133 €/m²,2 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/c1b85f2f-d530-4313-82db-6bf7f3e72259;4571
+"Andreasvorstadt, Erfurt (99089),229.900 € 2.928 €/m²,3 Zimmer,""78,5 m²"",3. Geschoss,https://www.immowelt.de/expose/8f259b78-e161-452f-9133-cbc430a21fa0";4571
+Ilversgehofen, Erfurt (99086),429.000 € 4.248 €/m²,3 Zimmer,101 m²,4. Geschoss,https://www.immowelt.de/expose/6cb701a9-4030-4387-9dd7-22cf119ab457;4571
+Ilversgehofen, Erfurt (99086),327.000 € 4.247 €/m²,3 Zimmer,77 m²,4. Geschoss,https://www.immowelt.de/expose/0e5d3de7-25bb-48bc-bf38-d55ef3475008;4571
+"Ilversgehofen, Erfurt (99086),463.000 € 4.209 €/m²,""4,5 Zimmer"",110 m²,4. Geschoss,https://www.immowelt.de/expose/9c9b1210-0437-4dfd-9c71-01577ec48122";4571
+Johannes-Blochmann-Straße 15, Brühlervorstadt, Erfurt (99092),715.000 € 4.767 €/m²,5 Zimmer,150 m²,208 m² Grundstück,https://www.immowelt.de/expose/b1de67d7-50d0-4e1f-8972-1f80c88fc478;4571
+Ilversgehofen, Erfurt (99089),1.800.000 € 1.816 €/m²,991 m²,754 m² Grundstück,Unknown,https://www.immowelt.de/expose/c25df945-e274-4282-a988-3dc9cc56f66b;4571
+"Borntalweg 7, Andreasvorstadt, Erfurt/ Andreasvorstadt (99092),137.000 € 2.876 €/m²,2 Zimmer,""47,6 m²"",EG,https://www.immowelt.de/expose/b1a12a6b-efb1-43cf-92b8-221fd5be98ef";4571
+"Altstadt, Erfurt (99084),570.000 € 4.831 €/m²,""3,5 Zimmer"",118 m²,80 m² Grundstück,https://www.immowelt.de/expose/487196f8-102b-4b83-9cd6-0008b76ae916";4571
+Brühlervorstadt, Erfurt (99092),658.247 € 4.540 €/m²,4 Zimmer,145 m²,378 m² Grundstück,https://www.immowelt.de/expose/127a8c2e-e334-4050-9cc1-0c7efb867c5e;4571
+Brühlervorstadt, Erfurt (99092),220.000 € 2.750 €/m²,4 Zimmer,80 m²,137 m² Grundstück,https://www.immowelt.de/expose/18cb42c3-e26e-4627-ab0d-99cd549564ab;4571
+Krämpfervorstadt, Erfurt (99085),225.000 € 4.091 €/m²,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/bef0e783-9559-4943-b208-f6fc531173f9;4571
+"Brühlervorstadt, Erfurt (99084),385.000 € 4.342 €/m²,3 Zimmer,""88,7 m²"",Unknown,https://www.immowelt.de/expose/f3b67fee-ddf0-416e-be5a-0bc9d545be66";4571
+"Ilversgehofen, Erfurt (99089),645.000 € 1.925 €/m²,1 Zimmer,335 m²,""222,1 m² Grundstück"",https://www.immowelt.de/expose/4e7fbaa3-51b4-4219-8d1b-05bf79320081";4571
+Salomonsborn, Erfurt (99090),767.000 € 3.652 €/m²,5 Zimmer,210 m²,1.006 m² Grundstück,https://www.immowelt.de/expose/31e8636a-cb90-40b5-a86c-b63e569b70ae;4571
+Brühlervorstadt, Erfurt (99094),615.200 € 3.619 €/m²,7 Zimmer,170 m²,501 m² Grundstück,https://www.immowelt.de/expose/8bc95fa0-a55b-4e4a-9200-cd2c19117ba1;4571
+Bindersleben, Erfurt (99092),498.500 € 4.297 €/m²,5 Zimmer,116 m²,366 m² Grundstück,https://www.immowelt.de/expose/51c376a6-d8fb-4e6a-a923-dfbbcdef2ae1;4571
+Brühlervorstadt, Erfurt (99092),585.500 € 4.094 €/m²,4 Zimmer,143 m²,169 m² Grundstück,https://www.immowelt.de/expose/b7577215-05f9-4340-98de-34d63e4b06a8;4571
+Bischleben-Stedten, Erfurt (99094),579.000 € 4.707 €/m²,5 Zimmer,123 m²,515 m² Grundstück,https://www.immowelt.de/expose/45b9e0da-8699-4a98-afd3-0ce4c2ef6307;4571
+Altstadt, Erfurt (99084),650.000 € 4.483 €/m²,145 m²,85 m² Grundstück,frei ab sofort,https://www.immowelt.de/expose/adf5b48e-c43b-4ebb-b242-049989eb9280;4571
+Johannesvorstadt, Erfurt (99086),980.000 € 4.455 €/m²,7 Zimmer,220 m²,1.089 m² Grundstück,https://www.immowelt.de/expose/2298cde0-b3fd-41dc-9fd5-4922d5a8e7fe;4571
+Stotternheim, Erfurt (99095),249.000 € 1.346 €/m²,10 Zimmer,185 m²,375 m² Grundstück,https://www.immowelt.de/expose/74d6ab68-53c4-4127-8991-107c92990e54;4571
+"Johannesvorstadt, Erfurt (99086),1.400.000 € 1.685 €/m²,1 Zimmer,831 m²,""653,2 m² Grundstück"",https://www.immowelt.de/expose/6f932d69-549b-40e8-8663-e6558ef40e77";4571
+"Brühlervorstadt, Erfurt (99084),389.000 € 4.160 €/m²,4 Zimmer,""93,5 m²"",207 m² Grundstück,https://www.immowelt.de/expose/3aa79f8a-020c-450e-93f7-1cdc1075e737";4571
+Johannesvorstadt, Erfurt (99086),335.000 € 3.190 €/m²,3 Zimmer,105 m²,Unknown,https://www.immowelt.de/expose/2b2053b4-8caa-43a3-8235-676a7a5da12e;4571
+Altstadt, Erfurt (99084),365.000 € 3.925 €/m²,3 Zimmer,93 m²,1. Geschoss,https://www.immowelt.de/expose/c7568483-b6aa-4b9e-bfc3-390e02b37a58;4571
+Altstadt, Erfurt (99084),210.000 € 3.281 €/m²,2 Zimmer,64 m²,EG,https://www.immowelt.de/expose/d1a20d6d-a136-48f0-a131-f44255132f77;4571
+Altstadt, Erfurt (99084),340.000 € 3.542 €/m²,3 Zimmer,96 m²,2. Geschoss,https://www.immowelt.de/expose/fa2f5cab-184d-40a6-a59c-ca335ebe8f7d;4571
+Löbervorstadt, Erfurt (99096),489.000 € 4.445 €/m²,7 Zimmer,110 m²,378 m² Grundstück,https://www.immowelt.de/expose/a897ae14-d9c6-4dd8-ac25-a5a4279cfdff;4571
+Azmannsdorf, Erfurt (99098),349.000 € 1.670 €/m²,8 Zimmer,209 m²,664 m² Grundstück,https://www.immowelt.de/expose/a8883190-6345-4dde-a805-842ef9412c0a;4571
+"Löbervorstadt, Erfurt (99096),895.000 € 6.172 €/m²,""4,5 Zimmer"",145 m²,520 m² Grundstück,https://www.immowelt.de/expose/f7abd9f6-6781-4949-8901-da991f6a38f9";4571
+Andreasvorstadt, Erfurt (99089),335.000 € 2.577 €/m²,6 Zimmer,130 m²,Unknown,https://www.immowelt.de/expose/9c9c4f9d-2d17-4d4c-9598-9520627f3ad8;4571
+Daberstedt, Erfurt (99099),430.000 € 4.095 €/m²,4 Zimmer,105 m²,2. Geschoss,https://www.immowelt.de/expose/85255da3-ba22-4b7d-a701-bbbebd9560e3;4571
+Löbervorstadt, Erfurt (99096),220.000 € 3.014 €/m²,3 Zimmer,73 m²,2. Geschoss,https://www.immowelt.de/expose/c8b2ef79-c7f5-4ace-9185-13606214581c;4571
+Altstadt, Erfurt / Altstadt (99084),285.000 € 3.851 €/m²,2 Zimmer,74 m²,Unknown,https://www.immowelt.de/expose/0c5c404d-78e4-489d-ba4d-a082d35d6686;4571
+Kühnhausen, Erfurt (99090),235.390 € 1.978 €/m²,4 Zimmer,119 m²,420 m² Grundstück,https://www.immowelt.de/expose/def40c51-6725-4870-9b1f-92c320ac9ee2;4571
+Löbervorstadt, Erfurt / Löbervorstadt (99096),190.000 € 2.836 €/m²,2 Zimmer,67 m²,frei ab 01.01.2025,https://www.immowelt.de/expose/ef327b83-f4d9-42ef-9e2a-422005684e8c;4571
+Altstadt, Erfurt (99084),265.000 € 2.789 €/m²,3 Zimmer,95 m²,Unknown,https://www.immowelt.de/expose/79f7fbdf-8043-4dbf-8672-3b760fe1e738;4571
+"Krämpfervorstadt, Erfurt (99085),1.400.000 € 1.970 €/m²,1 Zimmer,""710,5 m²"",1.001 m² Grundstück,https://www.immowelt.de/expose/585e1038-c90e-428d-9772-7c4829de1bdd";4571
+"Krämpfervorstadt, Erfurt (99085),99.500 € 2.378 €/m²,2 Zimmer,""41,8 m²"",3. Geschoss,https://www.immowelt.de/expose/028a16cb-746e-43cf-9900-57470af67151";4571
+"Krämpfervorstadt, Erfurt (99085),99.500 € 2.375 €/m²,2 Zimmer,""41,9 m²"",1. Geschoss,https://www.immowelt.de/expose/eb43864d-8897-4e80-8c3a-52105bb75854";4571
+"Krämpfervorstadt, Erfurt (99085),85.600 € 2.461 €/m²,1 Zimmer,""34,8 m²"",1. Geschoss,https://www.immowelt.de/expose/e23215e9-7a1f-4b14-9646-2a7ce97b2b28";4571
+Krämpfervorstadt, Erfurt (99085),386.000 € 2.662 €/m²,4 Zimmer,145 m²,210 m² Grundstück,https://www.immowelt.de/expose/37a01867-8152-44fb-ad00-39d591fab364;4571
+Egstedt, Erfurt (99097),498.000 € 3.434 €/m²,7 Zimmer,145 m²,1.177 m² Grundstück,https://www.immowelt.de/expose/408ffb2b-38b2-4fbb-942e-3d4da561fc23;4571
+Sulzer Siedlung, Erfurt (99087),699.000 € 3.163 €/m²,5 Zimmer,221 m²,1.029 m² Grundstück,https://www.immowelt.de/expose/44a14618-04b9-40cb-a380-ae1a761d6f2c;4571
+"Melchendorf, Erfurt (99099),285.000 € 3.632 €/m²,3 Zimmer,""78,5 m²"",Unknown,https://www.immowelt.de/expose/6fa78691-b6c4-4ce9-bd94-f1ae9d3a2edd";4571
+"Melchendorf, Erfurt (99099),285.000 € 3.632 €/m²,3 Zimmer,""78,5 m²"",380 m² Grundstück,https://www.immowelt.de/expose/8cced8fe-72c1-474a-aa18-9c653282bfe7";4571
+"Ilversgehofen, Erfurt (99089),645.000 € 1.925 €/m²,1 Zimmer,""335,1 m²"",""222,1 m² Grundstück"",https://www.immowelt.de/expose/7c3ad14e-8758-4342-9df1-4fee5a04f4e2";4571
+"Johannesvorstadt, Erfurt (99086),1.400.000 € 1.685 €/m²,1 Zimmer,""831,2 m²"",""653,2 m² Grundstück"",https://www.immowelt.de/expose/a09e8098-713d-48e3-879f-3fd89b26226f";4571
+"Ilversgehofen, Erfurt (99086),1.599.000 € 1.846 €/m²,30 Zimmer,""866,5 m²"",""490,1 m² Grundstück"",https://www.immowelt.de/expose/54c731a9-6d65-4d69-88cb-f1107107762e";4571
+"Ilversgehofen, Erfurt (99086),1.599.000 € 1.846 €/m²,30 Zimmer,""866,2 m²"",""490,2 m² Grundstück"",https://www.immowelt.de/expose/b57a07fa-0907-4fdd-b0e2-a0525d63ac29";4571
+"Melchendorf, Erfurt (99097),99.000 € 2.051 €/m²,2 Zimmer,""48,5 m²"",3. Geschoss,https://www.immowelt.de/expose/1df024cf-0107-4a1c-a273-fc6ba288deb0";4571
+Mittelgasse, Stotternheim, Erfurt (99095),210.000 € 1.400 €/m²,7 Zimmer,150 m²,523 m² Grundstück,https://www.immowelt.de/expose/c6473111-e0a5-45ab-a2cf-d30af09f022a;4571
+Budapester Straße 4, Moskauer Platz, Erfurt (99091),125.000 € 1.953 €/m²,3 Zimmer,64 m²,3. Geschoss,https://www.immowelt.de/expose/ec3acd8e-4956-4836-963d-b201e6681dad;4571
+"Krämpfervorstadt, Erfurt (99085),1.400.000 € 1.970 €/m²,1 Zimmer,""710,5 m²"",""1.001,1 m² Grundstück"",https://www.immowelt.de/expose/39109bfe-fad8-4ede-b246-53740605e1ba";4571
+Dittelstedt, Erfurt (99099),299.500 € 2.496 €/m²,4 Zimmer,120 m²,1.050 m² Grundstück,https://www.immowelt.de/expose/81bdda98-92bd-49f4-adaf-e059de53dc95;4571
+Dittelstedt, Erfurt (99099),373.000 € 2.317 €/m²,5 Zimmer,161 m²,361 m² Grundstück,https://www.immowelt.de/expose/92fae466-e652-478b-b4f0-76113bdd8937;4571
+Stotternheim, Erfurt (99095),770.000 € 1.652 €/m²,466 m²,439 m² Grundstück,Unknown,https://www.immowelt.de/expose/3a240921-839b-4c8d-821d-0ce198054bb1;4571
+Möbisburg-Rhoda, Erfurt Möbisburg (99094),586.254 € 4.545 €/m²,4 Zimmer,129 m²,596 m² Grundstück,https://www.immowelt.de/expose/1d61cd6a-1420-4645-a689-1f7a02f7e6f3;4571
+Möbisburg-Rhoda, Erfurt Möbisburg (99094),588.254 € 3.654 €/m²,5 Zimmer,161 m²,596 m² Grundstück,https://www.immowelt.de/expose/675b199c-df3d-482b-9698-b42b56b8ca69;4571
+"Molsdorf, Molsdorf (99094),643.299 € 3.204 €/m²,5 Zimmer,""200,8 m²"",755 m² Grundstück,https://www.immowelt.de/expose/9a13cb10-6bec-4db1-bd09-523f142e85ac";4571
+"Molsdorf, Molsdorf (99094),677.199 € 2.762 €/m²,5 Zimmer,""245,2 m²"",740 m² Grundstück,https://www.immowelt.de/expose/1c39a21d-008e-4542-ace3-8ae6a4673d00";4571
+Schmira, Erfurt (99094),548.500 € 4.571 €/m²,6 Zimmer,120 m²,786 m² Grundstück,https://www.immowelt.de/expose/e7137af4-ad09-445f-8927-4f0b7e53c6cc;4571
+"Daberstedt, Erfurt (99099),237.649 € 1.557 €/m²,4 Zimmer,""152,7 m²"",612 m² Grundstück,https://www.immowelt.de/expose/0de5e05c-2681-433a-8ef3-15412ff85296";4571
+"Ilversgehofen, Erfurt (99089),228.999 € 1.713 €/m²,4 Zimmer,""133,7 m²"",430 m² Grundstück,https://www.immowelt.de/expose/52f4ccb0-ef59-4fe9-8140-b6aa4be24bf0";4571
+"Ilversgehofen, Erfurt (99089),228.999 € 1.713 €/m²,4 Zimmer,""133,7 m²"",400 m² Grundstück,https://www.immowelt.de/expose/15abb391-78f6-479b-9a7f-d44ae4099e50";4571
+"Krämpfervorstadt, Erfurt (99085),273.999 € 2.095 €/m²,4 Zimmer,""130,8 m²"",568 m² Grundstück,https://www.immowelt.de/expose/97343b3b-33fa-4058-984d-4282fc07b12c";4571
+"Krämpfervorstadt, Erfurt (99085),250.001 € 1.697 €/m²,5 Zimmer,""147,3 m²"",560 m² Grundstück,https://www.immowelt.de/expose/7ee36288-5df7-42db-a566-3fbc11f793f1";4571
+"Altstadt, Erfurt (99084),369.469 € 2.533 €/m²,5 Zimmer,""145,9 m²"",230 m² Grundstück,https://www.immowelt.de/expose/8ea760ae-071e-4a59-961b-c5af39944ca6";4571
+"Bindersleben, Erfurt (99092),402.429 € 2.829 €/m²,4 Zimmer,""142,2 m²"",361 m² Grundstück,https://www.immowelt.de/expose/e3757848-8abc-473f-81df-b32697a4c1ce";4571
+"Stotternheim, Erfurt (99095),412.739 € 3.851 €/m²,4 Zimmer,""107,2 m²"",492 m² Grundstück,https://www.immowelt.de/expose/c5de8f9c-7294-41ef-8994-dfbbd1baaf77";4571
+"Schmira, Erfurt (99094),369.429 € 2.571 €/m²,4 Zimmer,""143,7 m²"",389 m² Grundstück,https://www.immowelt.de/expose/53ec2efd-c42f-4e78-a017-31d297a81a4f";4571
+"Alach, Erfurt (99100),444.239 € 2.670 €/m²,5 Zimmer,""166,4 m²"",580 m² Grundstück,https://www.immowelt.de/expose/eb6f4715-beb3-4742-a8dd-c301c2f0b069";4571
+"Molsdorf, Erfurt (99094),492.129 € 2.707 €/m²,5 Zimmer,""181,8 m²"",732 m² Grundstück,https://www.immowelt.de/expose/4ab6ab17-7c7f-4b3d-a64a-a531c9c09fef";4571
+"Molsdorf, Erfurt (99094),450.169 € 3.291 €/m²,4 Zimmer,""136,8 m²"",730 m² Grundstück,https://www.immowelt.de/expose/59992ade-b8cc-46b9-8f78-9edfedf53976";4571
+"Vieselbach, Erfurt (99098),294.219 € 2.356 €/m²,4 Zimmer,""124,9 m²"",495 m² Grundstück,https://www.immowelt.de/expose/feeebcaf-9d05-491f-af92-45221b75af10";4571
+"Vieselbach, Erfurt (99098),308.109 € 2.197 €/m²,4 Zimmer,""140,3 m²"",468 m² Grundstück,https://www.immowelt.de/expose/00154227-1615-464c-b9ae-b92288dfc0bc";4571
+"Stotternheim, Erfurt (99095),400.879 € 3.210 €/m²,4 Zimmer,""124,9 m²"",493 m² Grundstück,https://www.immowelt.de/expose/01455926-9a10-4951-804e-aefe011e007a";4571
+"Brühlervorstadt, Erfurt (99092),408.009 € 3.506 €/m²,4 Zimmer,""116,4 m²"",429 m² Grundstück,https://www.immowelt.de/expose/1f4c9245-aed4-43e5-84c7-590a40d4243a";4571
+"Altstadt, Erfurt (99084),386.729 € 2.757 €/m²,4 Zimmer,""140,3 m²"",399 m² Grundstück,https://www.immowelt.de/expose/8c365b58-d6a9-4bb6-9275-5b0dfa986a88";4571
+"Andreasvorstadt, Erfurt (99089),139.000 € 2.181 €/m²,3 Zimmer,""63,7 m²"",Unknown,https://www.immowelt.de/expose/d497ec95-8b53-4b9b-bba7-187abacca0c3";4571
+Möbisburg-Rhoda, Erfurt (99094),740.900 € 5.927 €/m²,4 Zimmer,125 m²,1.200 m² Grundstück,https://www.immowelt.de/expose/86cecae3-9915-4d0a-b641-44f19345f769;4571
+Möbisburg-Rhoda, Erfurt (99094),819.900 € 3.923 €/m²,6 Zimmer,209 m²,1.200 m² Grundstück,https://www.immowelt.de/expose/8af2b9f4-a3b2-4388-97c0-dd67dffeb6b3;4571
+Alach, Erfurt (99090),775.000 € 1.938 €/m²,16 Zimmer,400 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/0e17924c-d877-4e14-b795-de09f0b1f944;4571
+"Löbervorstadt, Erfurt (99096),277.339 € 1.977 €/m²,4 Zimmer,""140,3 m²"",552 m² Grundstück,https://www.immowelt.de/expose/d2e763cc-1d78-4d24-a4e9-e033ebbf9139";4571
+"Bogenstraße 3, Ilversgehofen, Erfurt (99089),574.900 € 4.349 €/m²,5 Zimmer,""132,2 m²"",3. Geschoss,https://www.immowelt.de/expose/b6cf2555-a813-4d39-8d3b-293a5e6abbdb";4571
+Kerspleben, Erfurt (99098),299.000 € 2.670 €/m²,5 Zimmer,112 m²,265 m² Grundstück,https://www.immowelt.de/expose/9d2f5fc9-3a01-412b-88fe-eb7421d41446;4571
+"Melchendorf, Erfurt (99097),750.000 € 3.546 €/m²,9 Zimmer,""211,5 m²"",608 m² Grundstück,https://www.immowelt.de/expose/24f84197-9d71-4a4f-bbdb-ef7ea3ca3ae8";4571
+"Johannesvorstadt, Erfurt (99086),155.000 € 1.978 €/m²,3 Zimmer,""78,4 m²"",Unknown,https://www.immowelt.de/expose/f221333a-fd26-46bb-8cf7-e5baa13c555b";4571
+Alach, Erfurt (99090),434.900 € 4.727 €/m²,3 Zimmer,92 m²,600 m² Grundstück,https://www.immowelt.de/expose/18a9a382-a54a-4eed-ac8b-0bf1de7ceff6;4571
+Zittauer Straße 19, Gispersleben, Erfurt (99091),250.000 € 2.632 €/m²,4 Zimmer,95 m²,1.001 m² Grundstück,https://www.immowelt.de/expose/e2461d4a-e409-45c1-a682-8f6d95e94d73;4571
+Brühlervorstadt, Erfurt (99092),950.000 € 5.337 €/m²,5 Zimmer,178 m²,445 m² Grundstück,https://www.immowelt.de/expose/9183f21b-6e2e-41d7-94b6-dcfbbc9aada5;4571
+Hochheim, Erfurt / Hochheim (99094),2.800.000 € 8.485 €/m²,8 Zimmer,330 m²,6.000 m² Grundstück,https://www.immowelt.de/expose/41643073-1e6e-4fd3-955d-300929265029;4571
+"Holzheienstraße 13, Altstadt, Erfurt/ Altstadt (99084),136.000 € 3.469 €/m²,""1,5 Zimmer"",""39,2 m²"",1. Geschoss,https://www.immowelt.de/expose/75617f63-193d-417e-a2d1-20260532b82e";4571
+Krämpfervorstadt, Erfurt (99085),540.900 € 3.339 €/m²,5 Zimmer,162 m²,649 m² Grundstück,https://www.immowelt.de/expose/7d0d4edd-00db-4964-8479-1d7fd917f48f;4571
+Schmira, Erfurt (99094),495.000 € 4.057 €/m²,5 Zimmer,122 m²,1.162 m² Grundstück,https://www.immowelt.de/expose/a94d8b76-6590-44ac-ae0c-2883aa0e12c1;4571
+Hochheim, Erfurt (99094),Preis auf Anfrage,8 Zimmer,438 m²,1.002 m² Grundstück,https://www.immowelt.de/expose/ea011f0c-e075-4ce8-92f2-fafafd62ddeb;4571
+Löbervorstadt, Erfurt (99096),Preis auf Anfrage,6 Zimmer,224 m²,Unknown,https://www.immowelt.de/expose/794757f7-e7ce-4d71-8ae7-0bdef71e45e3;4571
+"Mittelmühlgasse 11, Brühlervorstadt, Erfurt (99084),249.000 € 4.208 €/m²,2 Zimmer,""59,2 m²"",Unknown,https://www.immowelt.de/expose/41811dda-af2a-4b07-907e-afa04a1d997e";4571
+Altstadt, Erfurt (99084),940.000 € 5.193 €/m²,8 Zimmer,181 m²,426 m² Grundstück,https://www.immowelt.de/expose/65ecd39e-a92c-4f7f-bf31-084cdaa2fcd2;4571
+"Marbach, Erfurt (99092),450.000 € 3.242 €/m²,6 Zimmer,""138,8 m²"",250 m² Grundstück,https://www.immowelt.de/expose/093e0578-4214-435e-903b-3870b2377074";4571
+Krämpfervorstadt, Erfurt (99085),103.400 € 2.462 €/m²,2 Zimmer,42 m²,EG,https://www.immowelt.de/expose/872136c0-daa6-4001-ba80-f71d967400da;4571
+Hochheim, Erfurt (99094),475.000 € 3.467 €/m²,6 Zimmer,137 m²,457 m² Grundstück,https://www.immowelt.de/expose/71f2d648-6e20-4aba-8ba1-90976e08bb38;4571
+Brühlervorstadt, Erfurt (99092),493.000 € 2.900 €/m²,6 Zimmer,170 m²,246 m² Grundstück,https://www.immowelt.de/expose/28a18833-5f55-452d-94de-ed919abe15b1;4571
+Linderbach, Erfurt (99098),549.000 € 3.050 €/m²,8 Zimmer,180 m²,473 m² Grundstück,https://www.immowelt.de/expose/55694416-9b3e-4401-bfcd-36a6819d799f;4571
+Brühlervorstadt, Erfurt / Brühlervorstadt (99094),1.150.000 € 1.659 €/m²,23 Zimmer,693 m²,336 m² Grundstück,https://www.immowelt.de/expose/77adf7d5-06e3-49c2-87fc-c5cb0f4830f5;4571
+"Clara-Zetkin-Straße 113, Daberstedt, Erfurt (99096),332.500 € 1.696 €/m²,""196,1 m²"",Unknown,Unknown,https://www.immowelt.de/expose/dda850c2-0370-4bb5-9d0a-adcaad5ca012";4571
+Stotternheim, Erfurt (99095),484.900 € 4.329 €/m²,4 Zimmer,112 m²,900 m² Grundstück,https://www.immowelt.de/expose/30802a8c-1516-4703-8988-a3b7b2460fb3;4571
+Stotternheim, Erfurt (99095),92.000 € 1.082 €/m²,4 Zimmer,85 m²,193 m² Grundstück,https://www.immowelt.de/expose/da18992e-2cb9-447a-b49c-f313086402d6;4571
+Bogenstraße 3, Ilversgehofen, Erfurt (99089),389.900 € 4.643 €/m²,3 Zimmer,84 m²,1. Geschoss,https://www.immowelt.de/expose/11287ff4-7c53-4e63-816c-d4712b95718e;4571
+Ilversgehofen, Erfurt (99089),674.900 € 4.720 €/m²,5 Zimmer,143 m²,582 m² Grundstück,https://www.immowelt.de/expose/dfbf2a2f-48c3-4d2a-8dd3-b6f7bf93e81d;4571
+Ilversgehofen, Erfurt (99089),617.900 € 7.445 €/m²,2 Zimmer,83 m²,582 m² Grundstück,https://www.immowelt.de/expose/f5bae022-69f6-4034-b596-acc8e5fa6409;4571
+Kerspleben, Erfurt (99095),92.000 € 836 €/m²,110 m²,Unknown,Unknown,https://www.immowelt.de/expose/1d1078f3-7d46-4615-8831-114bffc9df4b;4571
+Kühnhausen, Erfurt (99090),396.560 € 3.926 €/m²,5 Zimmer,101 m²,420 m² Grundstück,https://www.immowelt.de/expose/3a92f38e-24d3-4c2c-830a-b7ebe1c9095f;4571
+Stotternheim, Erfurt (99095),92.000 € 836 €/m²,110 m²,193 m² Grundstück,Unknown,https://www.immowelt.de/expose/561f5f9c-ce9b-408b-8fa9-467d28fc5c0f;4571
+Vieselbach, Erfurt (99098),190.000 € 1.118 €/m²,170 m²,1.751 m² Grundstück,Unknown,https://www.immowelt.de/expose/47322a70-03e4-4d5d-8d0b-1d7b4175ed42;4571
+Altstadt, Erfurt (99084),2.200.000 € 655 €/m²,4.000 m²,Unknown,Unknown,https://www.immowelt.de/expose/87c2be96-7afa-49f2-8fa7-a1e51ed1434e;4571
+Altstadt, Erfurt (99084),1.590.000 € 2.928 €/m²,19 Zimmer,543 m²,374 m² Grundstück,https://www.immowelt.de/expose/ae008e50-3c1f-4298-8480-99ab5f891fd1;4571
+"Krämpfervorstadt, Erfurt (99085),103.100 € 2.461 €/m²,2 Zimmer,""41,9 m²"",2. Geschoss,https://www.immowelt.de/expose/21584f78-9310-4f05-8342-264de22397e3";4571
+Stotternheim, Stotternheim (99095),340.000 € 2.429 €/m²,6 Zimmer,140 m²,506 m² Grundstück,https://www.immowelt.de/expose/a672595b-0903-4706-9bae-46c5580bf529;4571
+Salomonsborn, Erfurt, OT Salomonsborn (99090),645.000 € 4.448 €/m²,6 Zimmer,145 m²,629 m² Grundstück,https://www.immowelt.de/expose/3bc430c4-3f90-4f7f-9808-0c1aad1b5994;4571
+Windischholzhausen, Erfurt (99099),625.000 € 4.085 €/m²,6 Zimmer,153 m²,510 m² Grundstück,https://www.immowelt.de/expose/5edfcbcc-1753-4b97-b3d2-9972990e0017;4571
+Borntalweg 2, Andreasvorstadt, Erfurt (99092),169.950 € 2.023 €/m²,2 Zimmer,84 m²,4. Geschoss,https://www.immowelt.de/expose/4895dd27-5453-4683-bf62-cc0bfc64b5cb;4571
+"Niedernissa, Erfurt (99099),150.000 € 2.246 €/m²,2 Zimmer,""66,8 m²"",2. Geschoss,https://www.immowelt.de/expose/c0eb4700-8863-4b5d-966d-afee1ac8faf3";4571
+Daberstedt, Erfurt (99099),346.000 € 2.163 €/m²,9 Zimmer,160 m²,404 m² Grundstück,https://www.immowelt.de/expose/9956cfd7-1f2c-4bf6-a19c-9e1c059dcbee;4571
+"Dittelstedt, Erfurt (99099),217.999 € 1.760 €/m²,3 Zimmer,""123,8 m²"",520 m² Grundstück,https://www.immowelt.de/expose/e7240e9f-fcb4-4d8a-bd5f-5348b622f3a7";4571
+"Ilversgehofen, Erfurt (99089),386.999 € 2.559 €/m²,5 Zimmer,""151,2 m²"",410 m² Grundstück,https://www.immowelt.de/expose/50ddb4da-28cc-4a53-8bf2-2a0d46c15936";4571
+Bischleben-Stedten, Erfurt (99094),1.279.900 € 7.950 €/m²,4 Zimmer,161 m²,530 m² Grundstück,https://www.immowelt.de/expose/fd3ab2eb-bd86-43db-8b1c-a8931ea6e06e;4571
+Bischleben-Stedten, Erfurt (99094),1.106.900 € 5.101 €/m²,4 Zimmer,217 m²,530 m² Grundstück,https://www.immowelt.de/expose/e6e06ffd-3862-4538-9069-168d62818a20;4571
+Bischleben-Stedten, Erfurt (99094),1.149.900 € 5.373 €/m²,5 Zimmer,214 m²,530 m² Grundstück,https://www.immowelt.de/expose/d72e2a51-7432-47ff-9a50-8e21704ae990;4571
+"Alte Schmiede 18, Hochstedt, Erfurt / OT Hochstedt (99098),399.000 € 2.961 €/m²,6 Zimmer,""134,7 m²"",4.226 m² Grundstück,https://www.immowelt.de/expose/d9b14de3-2f03-41d2-abce-069500590a49";4571
+"Krämpfervorstadt, Erfurt (99085),170.000 € 1.067 €/m²,5 Zimmer,""159,3 m²"",Unknown,https://www.immowelt.de/expose/d4cb334f-f187-4428-9982-8c913c654f7b";4571
+"Krämpfervorstadt, Erfurt (99085),559.000 € 2.458 €/m²,9 Zimmer,""227,4 m²"",Unknown,https://www.immowelt.de/expose/dbe3e0e8-9a4d-4a79-8135-bad3a93952ce";4571
+"Krämpfervorstadt, Erfurt (99085),328.000 € 2.457 €/m²,5 Zimmer,""133,5 m²"",Unknown,https://www.immowelt.de/expose/1112193c-3227-4bf9-8d11-1fc49216a5d9";4571
+Brühlervorstadt, Erfurt / Brühlervorstadt (99092),1.040.000 € 1.912 €/m²,24 Zimmer,544 m²,441 m² Grundstück,https://www.immowelt.de/expose/f3938fc7-b677-4681-a2ef-d7de464d7b6c;4571
+"Andreasvorstadt, Erfurt (99089),679.000 € 2.281 €/m²,1 Zimmer,""297,6 m²"",387 m² Grundstück,https://www.immowelt.de/expose/a01c5bf4-f53e-4ea3-acc2-c8a7853fa880";4571
+Andreasvorstadt, Erfurt (99089),89.000 € 2.023 €/m²,2 Zimmer,44 m²,2. Geschoss,https://www.immowelt.de/expose/b16ea5d8-0380-4e72-90cd-31047509085c;4571
+"Andreasvorstadt, Erfurt (99089),679.000 € 2.281 €/m²,""297,6 m²"",387 m² Grundstück,Unknown,https://www.immowelt.de/expose/ed5be154-7fb0-4bcd-b35c-fa2589d67d4a";4571
+"Krämpfervorstadt, Erfurt (99085),67.700 € 2.462 €/m²,1 Zimmer,""27,5 m²"",1. Geschoss,https://www.immowelt.de/expose/1e5089de-7588-4924-856b-20be0f80f962";4571
+"Krämpfervorstadt, Erfurt (99085),86.800 € 2.462 €/m²,1 Zimmer,""35,3 m²"",EG,https://www.immowelt.de/expose/969de8a0-43fd-4d23-b36b-09b33b2af67c";4571
+Krämpfervorstadt, Erfurt (99085),68.900 € 2.461 €/m²,1 Zimmer,28 m²,3. Geschoss,https://www.immowelt.de/expose/16e5873c-a07c-42d1-aa65-2a46b3a2ca07;4571
+"Krämpfervorstadt, Erfurt (99085),99.500 € 2.375 €/m²,2 Zimmer,""41,9 m²"",1. Geschoss,https://www.immowelt.de/expose/f7e737b8-ca66-4609-ab73-b664fcf9f83a";4571
+"Krämpfervorstadt, Erfurt (99085),67.800 € 2.463 €/m²,1 Zimmer,""27,5 m²"",1. Geschoss,https://www.immowelt.de/expose/d29f9321-5958-4fd0-86e7-08556accb2f0";4571
+"Krämpfervorstadt, Erfurt (99085),121.500 € 2.462 €/m²,2 Zimmer,""49,4 m²"",EG,https://www.immowelt.de/expose/b0a5bd3b-4334-41a6-a78b-ec63e2f92691";4571
+"Krämpfervorstadt, Erfurt (99085),85.600 € 2.460 €/m²,1 Zimmer,""34,8 m²"",3. Geschoss,https://www.immowelt.de/expose/376e04f6-b4f2-4c1c-b6f5-fa8fb3072b79";4571
+"Andreasvorstadt, Erfurt (99195),336.049 € 2.691 €/m²,4 Zimmer,""124,9 m²"",560 m² Grundstück,https://www.immowelt.de/expose/33cc73d2-32ee-4115-ae94-05870ce60978";4571
+Hochheim, Erfurt (99094),305.000 € 2.480 €/m²,5 Zimmer,123 m²,Unknown,https://www.immowelt.de/expose/a5f06b58-20e2-4a14-86f5-07bbe8100adc;4571
+Gottstedt, Erfurt (99090),555.728 € 4.446 €/m²,4 Zimmer,125 m²,460 m² Grundstück,https://www.immowelt.de/expose/ea8010c6-71f8-41b2-a678-1fc6435bc0a3;4571
+Brühlervorstadt, Erfurt (99092),850.000 € 5.414 €/m²,5 Zimmer,157 m²,frei ab 01.07.2025,https://www.immowelt.de/expose/c6d9e0b6-766e-4d3f-8810-c740e66110a2;4571
+Kühnhausen, Erfurt (99090),259.540 € 1.966 €/m²,4 Zimmer,132 m²,420 m² Grundstück,https://www.immowelt.de/expose/84ce7e97-64ca-4781-9cc7-ea4b9960c58e;4571
+Stotternheim, Erfurt (99095),335.000 € 2.792 €/m²,4 Zimmer,120 m²,700 m² Grundstück,https://www.immowelt.de/expose/b79ee3c9-8063-4399-baea-002466b03a47;4571
+Gispersleben, Erfurt (99091),180.000 € 1.500 €/m²,5 Zimmer,120 m²,382 m² Grundstück,https://www.immowelt.de/expose/9ad84cb1-d5eb-4b86-999a-7e151b11b08a;4571
+Goethestr.61, Löbervorstadt, Erfurt (99096),540.000 € 3.176 €/m²,8 Zimmer,170 m²,2. Geschoss,https://www.immowelt.de/expose/2a1787ec-215a-4b31-a465-f04172685cce;4571
+Pilse 4, Altstadt, Erfurt (99084),469.000 € 3.350 €/m²,140 m²,75 m² Grundstück,Unknown,https://www.immowelt.de/expose/90949c13-cb85-4a89-8e3e-3aff96793a24;4571
+Brühlervorstadt, Erfurt (99094),449.000 € 2.755 €/m²,6 Zimmer,163 m²,744 m² Grundstück,https://www.immowelt.de/expose/76702104-0ae9-4f78-8c60-40a7d0b8ad7a;4571
+"Stotternheim, Erfurt (99095),397.919 € 2.189 €/m²,6 Zimmer,""181,8 m²"",614 m² Grundstück,https://www.immowelt.de/expose/6c230ddb-3092-4c5c-ba5f-e372c64fd1fc";4571
+"Kerspleben, Erfurt (99098),364.249 € 2.597 €/m²,4 Zimmer,""140,3 m²"",489 m² Grundstück,https://www.immowelt.de/expose/e03a80c1-1320-451b-8e9d-588efd8a0bba";4571
+"Vieselbach, Erfurt (99098),344.699 € 2.578 €/m²,4 Zimmer,""133,7 m²"",523 m² Grundstück,https://www.immowelt.de/expose/d8dbe401-b6d7-4287-95a8-dcc034c54195";4571
+"Vieselbach, Erfurt (99098),317.999 € 2.546 €/m²,4 Zimmer,""124,9 m²"",421 m² Grundstück,https://www.immowelt.de/expose/587532e5-8a1f-4788-b1ed-926e06c048a0";4571
+"Vieselbach, Erfurt (99098),310.599 € 2.184 €/m²,4 Zimmer,""142,2 m²"",524 m² Grundstück,https://www.immowelt.de/expose/28b5fffe-092a-46fc-b7ab-ed00a2fb7457";4571
+Johannesvorstadt, Erfurt (99086),1.050.000 € 4.773 €/m²,7 Zimmer,220 m²,1.089 m² Grundstück,https://www.immowelt.de/expose/a64eb07b-3108-4b04-b908-f4bc04eedddb;4571
+Gispersleben, Erfurt (99091),299.000 € 1.533 €/m²,4 Zimmer,195 m²,127 m² Grundstück,https://www.immowelt.de/expose/cef41c5e-d69a-4204-ba30-e0ca8e4212dd;4571
+Gottstedt, Erfurt (99090),468.138 € 3.100 €/m²,5 Zimmer,151 m²,460 m² Grundstück,https://www.immowelt.de/expose/62fe6a7e-ce6d-4e1a-bb8c-bd2341c79ce3;4571
+Gottstedt, Erfurt (99090),426.928 € 3.558 €/m²,4 Zimmer,120 m²,460 m² Grundstück,https://www.immowelt.de/expose/a9f2abcc-cf40-462b-a59e-7339c6e6c774;4571
+Möbisburg-Rhoda, Erfurt (99094),389.000 € 3.536 €/m²,5 Zimmer,110 m²,5.162 m² Grundstück,https://www.immowelt.de/expose/63fe58d4-2d50-4521-8135-3caa6a6f89bd;4571
+"Zittauer Straße 10, Gispersleben, Erfurt (99091),350.000 € 2.913 €/m²,5 Zimmer,""120,2 m²"",270 m² Grundstück,https://www.immowelt.de/expose/e489075b-3e5c-4822-aaca-09fc50435cee";4571
+Bischleben-Stedten, Erfurt (99094),825.900 € 6.028 €/m²,4 Zimmer,137 m²,530 m² Grundstück,https://www.immowelt.de/expose/1f445ce4-86e9-4252-8b0d-6e00ecf8f56e;4571
+Bischleben-Stedten, Erfurt (99094),586.900 € 4.515 €/m²,4 Zimmer,130 m²,530 m² Grundstück,https://www.immowelt.de/expose/226e00b0-04b8-4cc7-953d-c92062bfe2c8;4571
+Brühlervorstadt, Erfurt (99092),760.000 € 2.857 €/m²,12 Zimmer,266 m²,300 m² Grundstück,https://www.immowelt.de/expose/1e2ed96b-f4f7-4aba-a01e-ba4f7ad8cde3;4571
+Schwerborn, Erfurt (99095),723.900 € 4.763 €/m²,5 Zimmer,152 m²,1.900 m² Grundstück,https://www.immowelt.de/expose/f1847573-31ea-4cc4-a6f9-dda353cfc47a;4571
+Goethestr.61, Löbervorstadt, Erfurt (99096),910.000 € 4.044 €/m²,7 Zimmer,225 m²,EG,https://www.immowelt.de/expose/de52b9d2-8929-4aec-9117-cfec37223d05;4571
+Erfurt (99096),499.000 € 4.339 €/m²,5 Zimmer,115 m²,500 m² Grundstück,https://www.immowelt.de/expose/beaf5fc9-ecee-46e3-a6ae-9fa74dba4195;4571
+Schweriner Str. 17, Andreasvorstadt, Erfurt (99089),810.000 € 2.832 €/m²,12 Zimmer,286 m²,360 m² Grundstück,https://www.immowelt.de/expose/e3f13123-fc9a-45c7-8d7d-81efbbc734dd;4571
+Schweriner Str. 17, Andreasvorstadt, Erfurt (99089),810.000 € 2.765 €/m²,12 Zimmer,293 m²,360 m² Grundstück,https://www.immowelt.de/expose/59d1c349-3cf4-45e2-adb2-a14b5dfa72ee;4571
+Stotternheim, Stotternheim (99095),290.000 € 2.417 €/m²,5 Zimmer,120 m²,270 m² Grundstück,https://www.immowelt.de/expose/49d89d5b-e875-4ffa-9ceb-b20b6237276a;4571
+"Möbisburg-Rhoda, Erfurt (99092),464.100 € 3.097 €/m²,5 Zimmer,""149,9 m²"",700 m² Grundstück,https://www.immowelt.de/expose/11d32eb9-9dd5-46f1-adc5-51d124a8b5cb";4571
+Azmannsdorf, Erfurt (99098),419.900 € 2.709 €/m²,5 Zimmer,155 m²,620 m² Grundstück,https://www.immowelt.de/expose/4fc3a8de-8422-4e58-af2c-6c2b8d308b3c;4571
+Azmannsdorf, Erfurt (99098),366.900 € 2.718 €/m²,5 Zimmer,135 m²,610 m² Grundstück,https://www.immowelt.de/expose/a36525f9-c610-4a62-afa5-53fb6d1933bf;4571
+Andreasvorstadt, Erfurt (99089),130.000 € 2.031 €/m²,2 Zimmer,64 m²,4. Geschoss,https://www.immowelt.de/expose/0987e711-3516-4693-ad9c-b9870ab7f0ac;4571
+Ilversgehofen, Erfurt (99086),900.000 € 1.833 €/m²,491 m²,205 m² Grundstück,Unknown,https://www.immowelt.de/expose/1cb47c45-cbc8-4fa8-aa1b-91d4fe832765;4571
+Bindersleben, Erfurt (99092),615.906 € 4.666 €/m²,5 Zimmer,132 m²,500 m² Grundstück,https://www.immowelt.de/expose/0e338d5c-3cb1-47ff-97c1-402b0a76ef84;4571
+"Stotternheim, Stotternheim (99095),410.599 € 2.492 €/m²,5 Zimmer,""164,8 m²"",710 m² Grundstück,https://www.immowelt.de/expose/5929dbab-f9c8-4deb-a5af-57e4fdc19b4e";4571
+"Krämpfervorstadt, Erfurt (99085),399.999 € 1.794 €/m²,5 Zimmer,""222,9 m²"",584 m² Grundstück,https://www.immowelt.de/expose/b47eb143-2571-4102-a4f1-fcba9c729d36";4571
+Stotternheim, Erfurt (99095),477.900 € 3.124 €/m²,5 Zimmer,153 m²,445 m² Grundstück,https://www.immowelt.de/expose/0eae32c4-c373-4c62-bcc3-0b1d124c6fd4;4571
+"Ilversgehofen, Erfurt (99086),340.000 € 1.300 €/m²,9 Zimmer,""261,5 m²"",219 m² Grundstück,https://www.immowelt.de/expose/0742e45e-ce79-48cd-9a80-c3a8e1213a9f";4571
+Gottstedt, Erfurt (99090),629.291 € 5.158 €/m²,4 Zimmer,122 m²,460 m² Grundstück,https://www.immowelt.de/expose/bb5516ae-d135-48ee-abe3-b8e23aee0c09;4571
+Alach, Erfurt (99090),530.900 € 5.771 €/m²,3 Zimmer,92 m²,600 m² Grundstück,https://www.immowelt.de/expose/ff473f99-bb9d-4f67-b469-2ba2c2362bf5;4571
+Ilversgehofen, Erfurt (99086),169.500 € 3.459 €/m²,2 Zimmer,49 m²,3. Geschoss,https://www.immowelt.de/expose/9a7e62d5-8e32-4f95-bbb0-b3267b6510ff;4571
+Urbich, Erfurt-Urbich (99098),508.900 € 3.141 €/m²,5 Zimmer,162 m²,905 m² Grundstück,https://www.immowelt.de/expose/2fba0a2f-4db0-4c16-892b-c2ce4d068561;4571
+Urbich, Erfurt-Urbich (99098),557.900 € 4.981 €/m²,4 Zimmer,112 m²,905 m² Grundstück,https://www.immowelt.de/expose/624f4d21-318d-4b4d-a98f-0008615c11c3;4571
+Melchendorf, Erfurt (99097),931.900 € 6.051 €/m²,5 Zimmer,154 m²,1.000 m² Grundstück,https://www.immowelt.de/expose/5eefeb28-aec6-4a1a-9e12-93df3223e68a;4571
+Schmira, Erfurt (99094),497.900 € 4.292 €/m²,4 Zimmer,116 m²,440 m² Grundstück,https://www.immowelt.de/expose/6a5a69b4-a925-4baf-b31b-f825c8f8d17d;4571
+"Vieselbach, Erfurt (99098),380.089 € 1.971 €/m²,5 Zimmer,""192,8 m²"",573 m² Grundstück,https://www.immowelt.de/expose/57463eb9-38df-44e9-843f-8226df7f0038";4571
+"Brühlervorstadt, Erfurt (99084),408.199 € 3.053 €/m²,4 Zimmer,""133,7 m²"",476 m² Grundstück,https://www.immowelt.de/expose/6adb02f5-8651-4f03-ab9b-6da84485838a";4571
+"Altstadt, Erfurt (99084),311.809 € 2.170 €/m²,4 Zimmer,""143,7 m²"",524 m² Grundstück,https://www.immowelt.de/expose/e9a4efc2-9365-4afd-bc7f-f7dccd3cdfd4";4571
+Marbach, Erfurt (99092),599.000 € 3.993 €/m²,5 Zimmer,150 m²,305 m² Grundstück,https://www.immowelt.de/expose/06b14ca5-9134-4053-b7c0-1032ff62a6ff;4571
+"Salomonsborn, Erfurt (99100),""15.000 € 78,95 €/m²"",190 m²,Unknown,Unknown,https://www.immowelt.de/expose/30d99abe-6fc5-4852-8f21-86f7c91bc5e8";4571
+Johannesstraße, Altstadt, Erfurt (99084),1.750.000 € 2.692 €/m²,650 m²,510 m² Grundstück,Unknown,https://www.immowelt.de/expose/d542facb-28bd-4995-9a98-01403afb8301;4571
+Bindersleben, Erfurt (99092),509.906 € 3.953 €/m²,4 Zimmer,129 m²,500 m² Grundstück,https://www.immowelt.de/expose/044b8698-6aaf-476b-8bb7-14ed936a9038;4571
+Sulzer Siedlung, Erfurt (99087),192.000 € 1.536 €/m²,6 Zimmer,125 m²,795 m² Grundstück,https://www.immowelt.de/expose/75ae4b60-84e6-4f32-a478-39d225e84edf;4571
+Klausener Straße 2, Daberstedt, Erfurt (99099),1.558.000 € 2.055 €/m²,758 m²,433 m² Grundstück,frei ab sofort,https://www.immowelt.de/expose/c004b718-b18f-45f3-9c42-22586699faa1;4571
+Altstadt, Erfurt (99084),290.000 € 3.766 €/m²,3 Zimmer,77 m²,2. Geschoss,https://www.immowelt.de/expose/63b82b9c-54ac-4610-9145-e284e3cce8ac;4571
+Daberstedt, Erfurt (99096),895.000 € 3.960 €/m²,7 Zimmer,226 m²,1.344 m² Grundstück,https://www.immowelt.de/expose/414eed6e-cf3c-4cdd-9382-9bfb45c68b41;4571
+"Mittelhausen, Erfurt (99090),29.400 € 2.341 €/m²,1 Zimmer,""12,6 m²"",Unknown,https://www.immowelt.de/expose/c2fcaa99-dc42-4786-b752-652ee8014b36";4571
+"Andreasvorstadt, Erfurt (99089),150.000 € 2.000 €/m²,""2,5 Zimmer"",75 m²,Unknown,https://www.immowelt.de/expose/f41bdf58-e7d4-4531-a6a3-176c297d0d1c";4571
+"Andreasvorstadt, Erfurt (99089),170.000 € 2.394 €/m²,""2,5 Zimmer"",71 m²,EG,https://www.immowelt.de/expose/4b0c2875-028c-43f4-b036-67e1eb11f9e7";4571
+Andreasvorstadt, Erfurt (99092),380.000 € 3.762 €/m²,3 Zimmer,101 m²,Unknown,https://www.immowelt.de/expose/cc34046b-5cc9-4733-a0d0-f0f258f3495c;4571
+Windischholzhausen, Erfurt (99099),565.000 € 1.976 €/m²,9 Zimmer,286 m²,855 m² Grundstück,https://www.immowelt.de/expose/998f03f2-ac51-442c-89f1-5b0183c1e039;4571
+Brühlervorstadt, Erfurt (99094),495.000 € 3.960 €/m²,5 Zimmer,125 m²,Unknown,https://www.immowelt.de/expose/52c1967d-15cd-4c19-8f69-8fe1505d2041;4571
+Erfurt (99096),144.500 € 2.779 €/m²,2 Zimmer,52 m²,Unknown,https://www.immowelt.de/expose/f2515d66-eb99-4f92-8a72-9669bbf0a95d;4571
+Waltersleben, Erfurt (99097),428.940 € 3.000 €/m²,4 Zimmer,143 m²,500 m² Grundstück,https://www.immowelt.de/expose/e1ae03b0-9b85-42c8-afe2-e6e20a1e2b18;4571
+"Urbich, Erfurt (99098),220.000 € 2.207 €/m²,4 Zimmer,""99,7 m²"",Unknown,https://www.immowelt.de/expose/9710add7-37e3-438b-a9d3-515a010b8a7e";4571
+Gottstedt, Erfurt (99090),539.431 € 4.315 €/m²,4 Zimmer,125 m²,460 m² Grundstück,https://www.immowelt.de/expose/09ae38a6-e04a-461d-a33d-e110bba36f1b;4571
+Schlüterstraße 4, Altstadt, Erfurt / Altstadt (99084),1.900.000 € 2.209 €/m²,860 m²,398 m² Grundstück,Unknown,https://www.immowelt.de/expose/8273c2b6-4927-4b71-b9a2-513d62d1ec10;4571
+Egstedt, Erfurt (99097),498.000 € 3.434 €/m²,7 Zimmer,145 m²,1.177 m² Grundstück,https://www.immowelt.de/expose/43708b85-aa6e-4bd3-9fb5-eb7a5a2014ea;4571
+Altstadt, Erfurt (99084),369.000 € 3.727 €/m²,3 Zimmer,99 m²,Unknown,https://www.immowelt.de/expose/d1190c35-ad29-40b5-80da-072351796349;4571
+Brühlervorstadt, Erfurt (99084),179.000 € 2.841 €/m²,2 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/0d0e05da-f27b-4a35-85af-8116f1deb089;4571
+Waltersleben, Erfurt (99097),400.930 € 2.784 €/m²,4 Zimmer,144 m²,500 m² Grundstück,https://www.immowelt.de/expose/1e2c57f2-51c6-4ae4-802c-faf22653d277;4571
+Löbervorstadt, Erfurt (99096),790.000 € 3.038 €/m²,7 Zimmer,260 m²,370 m² Grundstück,https://www.immowelt.de/expose/04daff47-85ba-42cf-a11e-bd417257274e;4571
+Schaderode, Erfurt (99090),320.000 € 825 €/m²,12 Zimmer,388 m²,7.770 m² Grundstück,https://www.immowelt.de/expose/b2e2f1d2-c3ba-4221-b370-a6d2564588d7;4571
+Berliner Platz, Erfurt (99091),95.000 € 1.792 €/m²,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/9cda4267-7530-44a0-97f7-8861c3743d06;4571
+Altstadt, Erfurt (99084),155.000 € 3.523 €/m²,2 Zimmer,44 m²,1. Geschoss,https://www.immowelt.de/expose/c112a54c-3cfe-44ea-9fc8-7b1433ee2c9f;4571
+Waltersleben, Erfurt (99097),394.000 € 3.615 €/m²,4 Zimmer,109 m²,500 m² Grundstück,https://www.immowelt.de/expose/edf9a9fc-d733-42a2-8ba9-73e40a549415;4571
+Gispersleben, Erfurt / Gispersleben (99091),160.000 € 1.720 €/m²,4 Zimmer,93 m²,Unknown,https://www.immowelt.de/expose/0d263349-1a93-4c71-a784-4811ea2978e9;4571
+"Friedrich_ Engels- Straße 67, Johannesvorstadt, Erfurt/ Johannesvorstadt (99086),112.000 € 1.814 €/m²,3 Zimmer,""61,7 m²"",3. Geschoss,https://www.immowelt.de/expose/5051073d-af8a-42c9-a0c1-1f012d3a2c70";4571
+Ilversgehofen, Erfurt (99086),130.000 € 1.857 €/m²,3 Zimmer,70 m²,frei ab sofort,https://www.immowelt.de/expose/66a8ffc8-2e1a-471d-8f9b-46c44de04268;4571
+Brühlervorstadt, Erfurt (99094),650.000 € 4.333 €/m²,4 Zimmer,150 m²,1. Geschoss,https://www.immowelt.de/expose/65c33a82-3a0e-4cb3-a721-060d6289b0f3;4571
+Löbervorstadt, Erfurt (99096),590.000 € 4.504 €/m²,5 Zimmer,131 m²,315 m² Grundstück,https://www.immowelt.de/expose/527beb39-d9bf-42cf-853b-f30076ad7d85;4571
+Waidmühlenweg 11, Andreasvorstadt, Erfurt (99089),123.000 € 2.510 €/m²,2 Zimmer,49 m²,EG,https://www.immowelt.de/expose/e0894727-9f7f-4365-a2f8-e2780acb319e;4571
+"Johannesvorstadt, Erfurt (99086),175.000 € 2.201 €/m²,3 Zimmer,""79,5 m²"",2. Geschoss,https://www.immowelt.de/expose/a3fad981-7b59-4181-8ec8-b4d44ba18d97";4571
+Altstadt, Erfurt (99084),1.400.000 € 3.889 €/m²,6 Zimmer,360 m²,EG,https://www.immowelt.de/expose/21176dd3-1de9-457f-970d-c4cc1fdd987d;4571
+Krämpfervorstadt, Erfurt (99085),900.000 € 2.184 €/m²,412 m²,345 m² Grundstück,Unknown,https://www.immowelt.de/expose/47dbd71b-dcf6-4e05-a9f4-718a610e3b37;4571
+Daberstedt, Erfurt (99099),320.000 € 2.667 €/m²,7 Zimmer,120 m²,160 m² Grundstück,https://www.immowelt.de/expose/7d42226e-c9aa-4252-bd22-31f08e176512;4571
+Daberstedt, Erfurt (99096),849.000 € 3.356 €/m²,9 Zimmer,253 m²,392 m² Grundstück,https://www.immowelt.de/expose/3ea972d5-1e50-4730-b6bc-3bb8aa102724;4571
+"Daberstedt, Erfurt (99096),296.000 € 3.297 €/m²,3 Zimmer,""89,8 m²"",EG,https://www.immowelt.de/expose/27cf0533-e64d-4721-b164-004d83dce982";4571
+Daberstedt, Erfurt (99096),279.000 € 3.822 €/m²,3 Zimmer,73 m²,2. Geschoss,https://www.immowelt.de/expose/71416e8e-4d22-4bd5-96b9-2345c9f25b6d;4571
+Erfurt (99096),805.000 € 1.450 €/m²,555 m²,557 m² Grundstück,Unknown,https://www.immowelt.de/expose/aea63167-12f6-4efd-88a7-8ec906386ec6;4571
+"Gispersleben, Erfurt (99091),890.000 € 2.120 €/m²,20 Zimmer,""419,8 m²"",658 m² Grundstück,https://www.immowelt.de/expose/2c1fbfae-a051-455e-aed8-317003a5b8bb";4571
+"Altstadt, Erfurt (99084),295.000 € 3.471 €/m²,""2,5 Zimmer"",85 m²,2. Geschoss,https://www.immowelt.de/expose/7e2b9000-333a-407a-933b-edf52987d43d";4571
+"Altstadt, Erfurt / Altstadt (99084),2.200.000 € 7.571 €/m²,""290,6 m²"",266 m² Grundstück,Unknown,https://www.immowelt.de/expose/a61aea71-58fa-45f3-8223-3d4d9d52a6ff";4571
+"Johannesvorstadt, Erfurt (99085),4.980.000 € 2.550 €/m²,""1.953,1 m²"",1.221 m² Grundstück,Unknown,https://www.immowelt.de/expose/d8653aed-c451-4aa0-b895-f31e25f581e4";4571
+"Bei den Froschäckern 25, Büßleben, Erfurt / OT Büßleben (99098),339.000 € 2.268 €/m²,5 Zimmer,""149,5 m²"",621 m² Grundstück,https://www.immowelt.de/expose/e4dbe84a-8a4c-4122-9e80-99c671ec727f";4571
+Schmira, Schmira (99094),482.830 € 3.524 €/m²,4 Zimmer,137 m²,395 m² Grundstück,https://www.immowelt.de/expose/d6ba691c-e5d6-40d8-9d3c-19fdd955e7da;4571
+Brühlervorstadt, Erfurt (99084),285.000 € 4.130 €/m²,2 Zimmer,69 m²,Unknown,https://www.immowelt.de/expose/2fb37c66-6abf-44ab-9fd3-d0ba852fd676;4571
+"Krämpfervorstadt, Erfurt (99086),394.310 € 4.300 €/m²,4 Zimmer,""91,7 m²"",2. Geschoss,https://www.immowelt.de/expose/bf91d6ce-7a66-4251-9f7a-bf2def6d3b38";4571
+XXX (Hochheim), Bischleben-Stedten, Erfurt (99094),152.500 € 2.500 €/m²,3 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/762369dd-cd7a-450a-af51-178cdc18646e;4571
+"Altstadt, Erfurt (99084),185.000 € 3.936 €/m²,""1,5 Zimmer"",47 m²,1. Geschoss,https://www.immowelt.de/expose/bd644a2a-ab5a-4fb0-81ff-40ac1abf1a2f";4571
+Schlüterstraße 4, Altstadt, Erfurt / Altstadt (99084),1.900.000 € 2.209 €/m²,860 m²,398 m² Grundstück,Unknown,https://www.immowelt.de/expose/4e128dca-3287-4436-a150-6168cd2a2131;4571
+Meyfartstraße 16, Altstadt, Erfurt / Altstadt (99084),2.950.000 € 1.690 €/m²,1.746 m²,700 m² Grundstück,Unknown,https://www.immowelt.de/expose/7e634637-e077-4af9-9de9-3892f1c6b0db;4571
+Meyfartstraße 16, Altstadt, Erfurt / Altstadt (99084),2.950.000 € 1.690 €/m²,1.746 m²,Unknown,Unknown,https://www.immowelt.de/expose/44745324-5a06-49cd-9b90-bedab1b8f798;4571
+"Pfeiffersgasse 8-8a, Altstadt, Erfurt (99084),1.890.000 € 2.364 €/m²,""799,5 m²"",697 m² Grundstück,Unknown,https://www.immowelt.de/expose/4b41fe9d-a272-477e-ad65-da595601452a";4571
+"Pfeiffersgasse 8-8a, Altstadt, Erfurt (99084),1.890.000 € 2.364 €/m²,""799,5 m²"",697 m² Grundstück,Unknown,https://www.immowelt.de/expose/029056f0-6487-4e81-af6f-c16a847adb94";4571
+Johannesvorstadt, Erfurt (99086),394.310 € 4.286 €/m²,4 Zimmer,92 m²,Unknown,https://www.immowelt.de/expose/829367ff-07ed-43eb-b463-eccbe3c75990;4571
+Johannesvorstadt, Erfurt (99086),281.645 € 4.142 €/m²,2 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/d23118cd-7caa-42c1-aa50-d47efb2f2192;4571
+"Krämpfervorstadt, Erfurt (99085),99.500 € 2.378 €/m²,2 Zimmer,""41,8 m²"",EG,https://www.immowelt.de/expose/16413bd6-dfec-4ce1-a862-074bdffce698";4571
+"Krämpfervorstadt, Erfurt (99085),99.500 € 2.378 €/m²,2 Zimmer,""41,8 m²"",4. Geschoss,https://www.immowelt.de/expose/3cbedc10-0274-438e-a392-138f526a2d9d";4571
+Bindersleben, Erfurt (99092),Preis auf Anfrage,116 m²,366 m² Grundstück,frei ab sofort,https://www.immowelt.de/expose/1e65e5ce-6c33-49d9-b101-e34e5b19689b;4571
+Unknown,Unknown,5 Zimmer,129 m²,522 m² Grundstück,https://www.immowelt.de/projekte/expose/k2q5632;4571
+"Unknown,Unknown,3 Zimmer,""126,1 m²"",EG,https://www.immowelt.de/projekte/expose/k2f7832";4571
+Bindersleben, Erfurt (99092),515.000 € 4.440 €/m²,5 Zimmer,116 m²,366 m² Grundstück,https://www.immowelt.de/expose/32c04525-598f-4c32-8906-fb915bf14a4c;4571
+"Unknown,Unknown,5 Zimmer,""134,3 m²"",frei ab sofort,https://www.immowelt.de/projekte/expose/k2l5832";4571
+"Unknown,Unknown,5 Zimmer,""134,3 m²"",frei ab sofort,https://www.immowelt.de/projekte/expose/k2l5832";4571
+Unknown,Unknown,3 Zimmer,112 m²,frei ab sofort,https://www.immowelt.de/projekte/expose/k2kw632;4571
+"Unknown,Unknown,3 Zimmer,""79,4 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2l5832";4571
+Unknown,Unknown,3 Zimmer,88 m²,1. Geschoss,https://www.immowelt.de/projekte/expose/k2f7832;4571
+"Krämpfervorstadt, Erfurt (99086),281.645 € 4.155 €/m²,2 Zimmer,""67,8 m²"",1. Geschoss,https://www.immowelt.de/expose/462de079-bfc5-4499-a249-e4b0b427828b";4571
+"Ilversgehofen, Erfurt / Ilversgehofen (99086),1.050.000 € 1.736 €/m²,26 Zimmer,""604,8 m²"",528 m² Grundstück,https://www.immowelt.de/expose/d14fa79d-95d9-4902-a637-e6ee0013480a";4571
+"Wellerhofweg 15, Molsdorf, Erfurt (99094),149.000 € 1.345 €/m²,""4,5 Zimmer"",""110,8 m²"",260 m² Grundstück,https://www.immowelt.de/expose/370126d8-417d-44d0-a113-449935612afe";4571
+"Altstadt, Erfurt (99084),2.825.000 € 2.734 €/m²,""1.033,3 m²"",704 m² Grundstück,Unknown,https://www.immowelt.de/expose/1ea06a08-e2d0-4a01-99fb-28754e7ed9b4";4571
+"Krämpfervorstadt, Erfurt (99085),237.000 € 2.461 €/m²,4 Zimmer,""96,3 m²"",5. Geschoss,https://www.immowelt.de/expose/7ca4d3dc-af69-42f8-ab86-884fb58cb248";4571
+"Daberstedt, Erfurt (99096),298.000 € 3.318 €/m²,3 Zimmer,""89,8 m²"",1. Geschoss,https://www.immowelt.de/expose/ce18fa62-a75e-4907-80df-ae499e03fcf3";4571
+Frienstedt, Erfurt (99092),99.000 € 1.868 €/m²,2 Zimmer,53 m²,1. Geschoss,https://www.immowelt.de/expose/cccabfe0-ff58-4655-9fb3-64650d855970;4571
+"Unknown,Unknown,2 Zimmer,""75,3 m²"",EG,https://www.immowelt.de/projekte/expose/k2f7832";4571
+Unknown,Unknown,3 Zimmer,88 m²,1. Geschoss,https://www.immowelt.de/projekte/expose/k2f7832;4571
+"Unknown,Unknown,3 Zimmer,""126,1 m²"",EG,https://www.immowelt.de/projekte/expose/k2f7832";4571
+"Krämpfervorstadt, Erfurt (99085),121.500 € 2.462 €/m²,2 Zimmer,""49,4 m²"",4. Geschoss,https://www.immowelt.de/expose/b5a735e4-1aea-478b-a34f-f3be1deb9c71";4571
+"Krämpfervorstadt, Erfurt (99085),121.500 € 2.462 €/m²,2 Zimmer,""49,4 m²"",3. Geschoss,https://www.immowelt.de/expose/1f04f20f-6ab6-4aa2-ae7f-ef6adf4ac68f";4571
+Krämpfervorstadt, Erfurt (99085),68.900 € 2.461 €/m²,1 Zimmer,28 m²,EG,https://www.immowelt.de/expose/a5ddf42d-973b-41b4-83b6-8850a89a2c4f;4571
+"Krämpfervorstadt, Erfurt (99085),85.600 € 2.460 €/m²,1 Zimmer,""34,8 m²"",4. Geschoss,https://www.immowelt.de/expose/aecc5f2f-2218-4205-b5cf-d591a9bf58bb";4571
+"Krämpfervorstadt, Erfurt (99085),109.700 € 2.461 €/m²,2 Zimmer,""44,6 m²"",5. Geschoss,https://www.immowelt.de/expose/f79be000-1f6a-44e2-af5b-52d4b761c203";4571
+Gispersleben, Erfurt (99091),332.000 € 3.223 €/m²,3 Zimmer,103 m²,1. Geschoss,https://www.immowelt.de/expose/f50f5acd-9a1e-4b24-85b2-f7ea2d3fa3a9;4571
+"Unknown,Unknown,4 Zimmer,""114,7 m²"",frei ab sofort,https://www.immowelt.de/projekte/expose/k2kw632";4571
+Vieselbach, Erfurt (99098),625.000 € 2.854 €/m²,9 Zimmer,219 m²,798 m² Grundstück,https://www.immowelt.de/expose/88bc2e90-0cd9-44bb-9161-f87599a44bc7;4571
+"Krämpfervorstadt, Erfurt (99085),86.800 € 2.462 €/m²,1 Zimmer,""35,3 m²"",3. Geschoss,https://www.immowelt.de/expose/934e7371-1635-48dc-bba9-e7eeff232d58";4571
+Andreasvorstadt, Erfurt (99086),1.395.000 € 1.531 €/m²,1 Zimmer,911 m²,923 m² Grundstück,https://www.immowelt.de/expose/02d25678-79d2-4b0a-8836-d409fce34220;4571
+Waidmühlenweg 11, Andreasvorstadt, Erfurt (99089),125.000 € 2.358 €/m²,2 Zimmer,53 m²,EG,https://www.immowelt.de/expose/aeefd959-129a-421f-910e-f538f481ba84;4571
+"Unknown,Unknown,3 Zimmer,""76,2 m²"",7. Geschoss,https://www.immowelt.de/projekte/expose/k2pq532";4571
+"Krämpfervorstadt, Erfurt (99085),125.000 € 953 €/m²,4 Zimmer,""131,2 m²"",6. Geschoss,https://www.immowelt.de/expose/e822a172-08fb-45c7-a45f-f259a74b5184";4571
+Ilversgehofen, Erfurt (99089),675.000 € 3.792 €/m²,5 Zimmer,178 m²,430 m² Grundstück,https://www.immowelt.de/expose/d9c47840-c092-4aec-9b89-299d28521e4e;4571
+Ilversgehofen, Erfurt (99089),675.000 € 3.792 €/m²,5 Zimmer,178 m²,430 m² Grundstück,https://www.immowelt.de/expose/bc8d6115-d231-4e12-9ffd-79dec61057f4;4571
+Altstadt, Erfurt (99084),3.150.000 € 4.500 €/m²,11 Zimmer,700 m²,762 m² Grundstück,https://www.immowelt.de/expose/0e45a719-2275-49a6-8302-72fd4eee7fca;4571
+Unknown,Unknown,3 Zimmer,112 m²,frei ab sofort,https://www.immowelt.de/projekte/expose/k2kw632;4571
+"Frienstedt, Erfurt (99092),150.600 € 2.100 €/m²,2 Zimmer,""71,7 m²"",3. Geschoss,https://www.immowelt.de/expose/4554496f-b50f-496b-bb31-e57affde22bb";4571
+"Unknown,Unknown,3 Zimmer,""85,7 m²"",EG,https://www.immowelt.de/projekte/expose/k2l5832";4571
+Unknown,Unknown,3 Zimmer,74 m²,frei ab sofort,https://www.immowelt.de/projekte/expose/k2kw632;4571
+Brühlervorstadt, Erfurt (99094),610.000 € 5.545 €/m²,3 Zimmer,110 m²,1.104 m² Grundstück,https://www.immowelt.de/expose/acdce5f7-7a5c-4fd1-826b-daa927b46d8f;4571
+"Altstadt, Erfurt (99084),2.500.000 € 3.833 €/m²,""652,2 m²"",Unknown,Unknown,https://www.immowelt.de/expose/afe4b2b6-e158-42b3-aa2d-518193d7dae6";4571
+Krämpfervorstadt, Erfurt (99085),4.500.000 € 1.036 €/m²,6.059 m² Grundstück,Unknown,Unknown,https://www.immowelt.de/expose/042a86b7-8cb5-48a7-9a79-8752dc13f164;4571
+"Ilversgehofen, Erfurt (99086),1.350.000 € 1.397 €/m²,""712,2 m²"",666 m² Grundstück,Unknown,https://www.immowelt.de/expose/1a5cedd0-3345-4669-839a-60911c37d817";4571
+Sulzer Siedlung, Erfurt (99087),220.000 € 2.316 €/m²,3 Zimmer,95 m²,1.338 m² Grundstück,https://www.immowelt.de/expose/9d907715-fd22-4aa9-817b-788b94c21ee2;4571
+"Krämpfervorstadt, Erfurt (99085),554.791 € 5.645 €/m²,2 Zimmer,""98,3 m²"",Unknown,https://www.immowelt.de/expose/db65b711-f672-416f-9269-ab7f97f1b3f4";4571
+"Krämpfervorstadt, Erfurt (99085),519.210 € 5.138 €/m²,3 Zimmer,""101,1 m²"",Unknown,https://www.immowelt.de/expose/b884b64e-dd0e-4eb8-a659-d2d277406389";4571
+"Spittelgartenstraße 4, Ilversgehofen, Erfurt (99086),232.785 € 3.500 €/m²,4 Zimmer,""66,5 m²"",Unknown,https://www.immowelt.de/expose/bf7f58ba-6973-4642-abe5-3c140b6e494b";4571
+"Krämpfervorstadt, Erfurt (99085),649.136 € 5.109 €/m²,3 Zimmer,""127,1 m²"",Unknown,https://www.immowelt.de/expose/cdfdc29b-7402-4855-9dfb-7290fa5fbe22";4571
+Andreasvorstadt, Erfurt (99086),1.395.000 € 1.531 €/m²,1 Zimmer,911 m²,923 m² Grundstück,https://www.immowelt.de/expose/c7fe5158-afde-4547-975b-eddcdd5d56a2;4571
+"Kersplebener Chaussee 24, Kerspleben, Erfurt (99098),299.750 €,4 Zimmer,""119,5 m²"",Unknown,https://www.immowelt.de/expose/31139b2d-7946-422b-b929-b72c84fd80e9";4571
+"Breitscheidstraße 1, Johannesvorstadt, Erfurt (99086),190.000 € 2.272 €/m²,4 Zimmer,""83,6 m²"",3. Geschoss,https://www.immowelt.de/expose/771c706c-e482-4c2f-a564-41e808ace09a";4571
+Johannesvorstadt, Erfurt (99086),5.060.000 € 1.307 €/m²,3.870 m²,Unknown,Unknown,https://www.immowelt.de/expose/e0c33dfd-ac6b-4f5d-a21c-c095780de044;4571
+"Bergstraße 9, Andreasvorstadt, Erfurt (99089),121.000 € 2.255 €/m²,""1,5 Zimmer"",""53,7 m²"",2. Geschoss,https://www.immowelt.de/expose/fa9f4122-9e5d-4604-b2d7-17d123260767";4571
+"Spittelgartenstraße 4, Ilversgehofen, Erfurt (99086),189.550 € 3.451 €/m²,2 Zimmer,""54,9 m²"",Unknown,https://www.immowelt.de/expose/bc88187c-6426-4823-8f4e-bc934709e011";4571
+"Krämpfervorstadt, Erfurt (99085),2.000.000 € 1.673 €/m²,""1.195,8 m²"",1.015 m² Grundstück,Unknown,https://www.immowelt.de/expose/8d0cb31c-9447-457c-895e-665d11a452dc";4571
+"Azmannsdorf, Erfurt * (99098),279.800 € 2.303 €/m²,4 Zimmer,""121,5 m²"",300 m² Grundstück,https://www.immowelt.de/expose/b0493632-6b9d-4f5e-80f4-a75102d77226";4571
+Andreasvorstadt, Erfurt (99089),2.230.000 € 2.877 €/m²,775 m²,350 m² Grundstück,Unknown,https://www.immowelt.de/expose/5d2b3e35-8400-43f4-adb2-f075e67cc9cd;4571
+"Bogenstraße 3, Ilversgehofen, Erfurt (99089),579.900 € 4.322 €/m²,5 Zimmer,""134,2 m²"",3. Geschoss,https://www.immowelt.de/expose/8050b70a-9d43-4cf8-aad5-b5f7f367bb9d";4571
+"Weimarische Straße 6, Linderbach, Erfurt (99099),225.000 € 1.928 €/m²,4 Zimmer,""116,7 m²"",640 m² Grundstück,https://www.immowelt.de/expose/fe5513c7-bdb1-4641-a33a-13c853f6c468";4571
+Leipziger Straße 41, Krämpfervorstadt, Erfurt (99085),175.000 €,3 Zimmer,77 m²,2. Geschoss,https://www.immowelt.de/expose/5a11c2d3-be5c-4ad9-8b9a-8825564457b4;4571
+Altstadt, Erfurt + (99084),269.800 €,4 Zimmer,frei ab sofort,Unknown,https://www.immowelt.de/expose/3b23e241-ebf6-4abe-9bc3-5fc46c1c1e8d;4571
+Scharnhorststr. 50, Herrenberg, Erfurt (99099),145.000 € 1.933 €/m²,3 Zimmer,75 m²,4. Geschoss,https://www.immowelt.de/expose/2582ee94-ef42-4b0a-a5c0-b0f18545c9ed;4571
+Elxleben (99189),220.000 € 2.588 €/m²,4 Zimmer,85 m²,540 m² Grundstück,https://www.immowelt.de/expose/12d96404-abdb-478b-b988-cc5bd02f5323;4571
+"Sömmerda (99189),420.889 € 2.657 €/m²,5 Zimmer,""158,4 m²"",637 m² Grundstück,https://www.immowelt.de/expose/f03e80c0-e31c-4f31-a477-abfba0112f28";4571
+Erfurt (99198),190.000 € 1.118 €/m²,170 m²,1.751 m² Grundstück,Unknown,https://www.immowelt.de/expose/ad578519-4d3f-4dc5-913d-3241f41cc95e;4571
+Erfurterstraße 21, Mönchenholzhausen, Mönchenholzhausen (99198),140.000 € 1.443 €/m²,5 Zimmer,97 m²,Unknown,https://www.immowelt.de/expose/be2820d9-9df8-4d1c-b35d-d961bedb7678;4571
+Erfurterstraße 21, Mönchenholzhausen, Mönchenholzhausen (99198),90.000 € 947 €/m²,5 Zimmer,95 m²,Unknown,https://www.immowelt.de/expose/6b89cedc-9c89-430c-993c-2449e0aea2a8;4571
+"Erfurterstraße 8, Mönchenholzhausen, Mönchenholzhausen (99198),45.000 € 1.384 €/m²,1 Zimmer,""32,5 m²"",Unknown,https://www.immowelt.de/expose/7993998a-b11f-4830-bd40-10d7987b9983";4571
+Ingersleben, Nesse-Apfelstädt (99192),320.000 € 2.560 €/m²,4 Zimmer,125 m²,870 m² Grundstück,https://www.immowelt.de/expose/fa89d2b8-b040-4bb7-a59c-a71745c04f97;4571
+Obernissa, Mönchenholzhausen (99198),259.000 € 1.199 €/m²,7 Zimmer,216 m²,1.509 m² Grundstück,https://www.immowelt.de/expose/8f5a00e5-6024-4ae8-8ea5-1d3f1652c292;4571
+Mönchenholzhausen, Grammetal (99428),68.000 € 1.172 €/m²,3 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/3e873c93-c66a-4fdc-96e9-ed115fcf5042;4571

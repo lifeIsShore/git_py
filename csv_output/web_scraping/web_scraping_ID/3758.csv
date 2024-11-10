@@ -1,0 +1,870 @@
+Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL;city_id
+"Karlshöhe, Stuttgart (70178),236.000 € 3.893 €/m²,2 Zimmer,""60,6 m²"",Unknown,https://www.immowelt.de/expose/d6f77794-b815-4435-9bbd-b85db97dee4b";3758
+"Lemberg / Föhrich, Stuttgart / Feuerbach (70469),549.000 € 4.470 €/m²,6 Zimmer,""122,8 m²"",433 m² Grundstück,https://www.immowelt.de/expose/71cd6de2-b526-4838-9072-874cc8a78d7e";3758
+Espan, Stuttgart (70374),259.000 € 4.111 €/m²,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/fac67540-a763-4e6d-9ed7-0e1f8d374c3e;3758
+Heumaden, Stuttgart-Heumaden (70619),1.635.000 € 7.140 €/m²,7 Zimmer,229 m²,774 m² Grundstück,https://www.immowelt.de/expose/a68a245a-f8a7-4b99-8269-88282e4c14fe;3758
+Rohr, Stuttgart (70563),599.000 € 9.359 €/m²,3 Zimmer,64 m²,Unknown,https://www.immowelt.de/projekte/expose/k2j5732;3758
+Rohr, Stuttgart (70565),1.295.000 € 8.094 €/m²,6 Zimmer,160 m²,1.496 m² Grundstück,https://www.immowelt.de/expose/ee418893-21c7-4cc1-8d54-6dd46fb6dfa6;3758
+"Lenzhalde, Stuttgart (70192),679.000 € 6.790 €/m²,""3,5 Zimmer"",100 m²,1. Geschoss,https://www.immowelt.de/expose/994518f4-55ee-44cb-a7bd-1db05c8dac44";3758
+"Glemsgaustrasse 3, Weilimdorf, Stuttgart (70499),643.000 € 6.693 €/m²,3 Zimmer,""96,1 m²"",Unknown,https://www.immowelt.de/projekte/expose/k2ta532";3758
+Zuffenhausen - Mitte, Stuttgart (70437),970.000 € 7.462 €/m²,5 Zimmer,130 m²,137 m² Grundstück,https://www.immowelt.de/expose/a255136f-e138-4577-8df0-b226600d4872;3758
+Schmidener Vorstadt, Stuttgart (70374),199.500 € 3.325 €/m²,3 Zimmer,60 m²,EG,https://www.immowelt.de/expose/6850666b-28ea-4f28-8577-e8bb20223fc6;3758
+"Stammheim - Mitte, Stuttgart-Stammheim (70439),1.570.000 € 6.274 €/m²,8 Zimmer,""250,2 m²"",700 m² Grundstück,https://www.immowelt.de/expose/3bf892b8-18c7-4459-9fc6-ad6d810a4d60";3758
+Stöckach, Stuttgart (70190),229.000 € 5.326 €/m²,2 Zimmer,43 m²,EG,https://www.immowelt.de/expose/b0c84d15-6aa1-46b7-a713-da7fd5e81d7d;3758
+"Weilimdorf, Stuttgart (70499),290.000 € 3.519 €/m²,3 Zimmer,""82,4 m²"",Unknown,https://www.immowelt.de/expose/f92d7c8d-e7ae-4c23-86cc-991043814740";3758
+Ostheim, Stuttgart / Stuttgart-Ost (70188),398.000 € 5.606 €/m²,3 Zimmer,71 m²,3. Geschoss,https://www.immowelt.de/expose/48271cc3-00c4-4b64-961c-31aadeef1f83;3758
+"Obertürkheim, Stuttgart (70329),949.000 € 2.953 €/m²,12 Zimmer,""321,4 m²"",362 m² Grundstück,https://www.immowelt.de/expose/de69915f-85d8-4789-998b-4e8c51ebac4d";3758
+"Brückenstraße 44, Neckarvorstadt, Stuttgart (70376),199.000 € 5.378 €/m²,""2,5 Zimmer"",37 m²,EG,https://www.immowelt.de/expose/c13bbbb0-a3fb-48f6-81be-47a6f1d2bc23";3758
+Riedenberg, Stuttgart (70619),497.000 € 5.847 €/m²,3 Zimmer,85 m²,3. Geschoss,https://www.immowelt.de/expose/88a1a133-845e-4acf-898a-ce6f6d6d05d3;3758
+Wildunger Str. 90, Seelberg, Stuttgart (70372),409.000 € 7.717 €/m²,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/projekte/expose/k233632;3758
+"Seelberg, Stuttgart (70372),1.190.000 € 3.162 €/m²,15 Zimmer,""376,3 m²"",183 m² Grundstück,https://www.immowelt.de/expose/80ab4351-caf0-4aa0-91df-763598a5d95c";3758
+"Bahnhof Feuerbach, Stuttgart (70469),349.000 € 3.921 €/m²,""3,5 Zimmer"",89 m²,3. Geschoss,https://www.immowelt.de/expose/bfb5f61d-6301-4768-ae3a-b5cd06089825";3758
+"Heumaden, Stuttgart (70619),598.000 € 3.934 €/m²,""4,5 Zimmer"",152 m²,6. Geschoss,https://www.immowelt.de/expose/3d0fd62e-3657-4e0c-8000-1c74b0468c45";3758
+Heslach, Stuttgart (70199),1.890.000 € 5.447 €/m²,7 Zimmer,347 m²,688 m² Grundstück,https://www.immowelt.de/expose/0b6eed84-1e88-43a7-b4ea-12ec968e5337;3758
+Heslach, Stuttgart (70199),1.890.000 € 5.447 €/m²,7 Zimmer,347 m²,688 m² Grundstück,https://www.immowelt.de/expose/52ead024-b4d3-4983-ba0b-46b030e6117e;3758
+"Veielbrunnen, Stuttgart (70372),798.000 € 4.866 €/m²,""4,5 Zimmer"",164 m²,2. Geschoss,https://www.immowelt.de/expose/ecdf60e9-f45c-4358-8428-28b15fba182c";3758
+Sonnenberg, Stuttgart (70597),Preis auf Anfrage,8 Zimmer,376 m²,818 m² Grundstück,https://www.immowelt.de/expose/78640e1c-3f41-400e-b388-01d56db5c12b;3758
+Rohr, Stuttgart (70565),1.070.000 € 7.133 €/m²,5 Zimmer,150 m²,923 m² Grundstück,https://www.immowelt.de/expose/aec23cac-e107-4d84-905f-4e1ca1ab7b92;3758
+"Veielbrunnen, Stuttgart (70372),Preis auf Anfrage,2 Zimmer,""45,7 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k23r532";3758
+Veielbrunnen, Stuttgart (70372),Preis auf Anfrage,3 Zimmer,76 m²,2. Geschoss,https://www.immowelt.de/projekte/expose/k23r532;3758
+Wangen, Stuttgart (70327),209.000 € 3.074 €/m²,3 Zimmer,68 m²,3. Geschoss,https://www.immowelt.de/expose/a0712956-a822-4cab-a065-5659f7561877;3758
+"Fleckenwaldweg 16, Botnang - Ost, Stuttgart (70195),905.000 € 5.157 €/m²,""8,5 Zimmer"",""175,5 m²"",455 m² Grundstück,https://www.immowelt.de/expose/2d008275-faf9-4a86-88f3-ff40b95ee90d";3758
+Feuerbacher Tal, Stuttgart (70469),285.000 € 3.434 €/m²,3 Zimmer,83 m²,EG,https://www.immowelt.de/expose/e30b7e0b-fbaa-4f99-83bd-df06d0a1261e;3758
+"Neugereut, Stuttgart (70378),339.000 € 3.433 €/m²,""4,5 Zimmer"",""98,7 m²"",2. Geschoss,https://www.immowelt.de/expose/db267bf9-6cbc-41c1-8fe3-4183094bf117";3758
+"Diemershalde, Stuttgart (70184),3.950.000 € 8.635 €/m²,21 Zimmer,""457,4 m²"",1.069 m² Grundstück,https://www.immowelt.de/expose/416d6acf-726d-429f-821a-4a8cf9459537";3758
+"Auf der Prag, Stuttgart (70191),385.000 € 11.380 €/m²,1 Zimmer,""33,8 m²"",9. Geschoss,https://www.immowelt.de/expose/35ac989d-f840-4f5c-a8d8-70801457fa3f";3758
+"Weilstetterweg, Möhringen - Mitte, Stuttgart (70567),398.000 € 4.882 €/m²,""3,5 Zimmer"",""81,5 m²"",3. Geschoss,https://www.immowelt.de/expose/4a33fc91-7794-48b6-8b7e-3275223303a0";3758
+"Heilbronner Straße, Stuttgart (70191),375.000 € 11.571 €/m²,1 Zimmer,""32,4 m²"",9. Geschoss,https://www.immowelt.de/expose/05330b22-8ef9-4688-8910-9d8e39967ca3";3758
+"Mönchfeld, Stuttgart / Mönchfeld (70378),179.000 € 3.346 €/m²,2 Zimmer,""53,5 m²"",Unknown,https://www.immowelt.de/expose/2698edc9-c785-4414-abba-5bb6fb0cf8a7";3758
+Wangen, Stuttgart (70327),129.000 € 3.909 €/m²,1 Zimmer,33 m²,3. Geschoss,https://www.immowelt.de/expose/d70b85e4-2676-406e-a399-90c3fd16677c;3758
+Im Wolfer 17, Plieningen, Stuttgart (70599),1.090.000 € 5.533 €/m²,9 Zimmer,196 m²,697 m² Grundstück,https://www.immowelt.de/expose/b0a0489e-a9eb-4225-b6ff-0c7e9d792cea;3758
+Hofen, Stuttgart (70378),195.000 € 4.062 €/m²,2 Zimmer,48 m²,2. Geschoss,https://www.immowelt.de/expose/ff5a8502-7309-4360-94a8-89dc68c8a9d0;3758
+Ostheim, Stuttgart / Stuttgart-Ost (70188),369.000 € 7.234 €/m²,2 Zimmer,51 m²,Unknown,https://www.immowelt.de/expose/09410ab8-d123-4a07-8805-75ec57611c19;3758
+Espan, Stuttgart (70374),299.000 € 3.691 €/m²,4 Zimmer,81 m²,3. Geschoss,https://www.immowelt.de/expose/65e59188-a6c1-411e-95c3-2ebfe1069e13;3758
+"Oberer Schlossgarten, Stuttgart / Heumaden (70619),289.000 € 7.059 €/m²,1 Zimmer,""40,9 m²"",1. Geschoss,https://www.immowelt.de/expose/32835d31-5b42-4f5c-afb7-7562c8b7a496";3758
+"Hölderlinstr. 50 c, Hölderlinplatz, Stuttgart (70193),599.000 € 7.200 €/m²,3 Zimmer,""83,2 m²"",EG,https://www.immowelt.de/expose/de18ad9a-c3c1-442f-8f06-1f2dd00fd8e6";3758
+Feuerbach - Mitte, Stuttgart / Feuerbach (70469),395.000 € 4.158 €/m²,4 Zimmer,95 m²,EG,https://www.immowelt.de/expose/b51179f5-e611-4f51-a75a-13ef69af3b93;3758
+Südheim, Stuttgart (70199),349.000 € 4.205 €/m²,4 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/474b7d61-49f1-4a1d-b525-c9325d1e9e08;3758
+Rohr, Stuttgart (70565),1.690.000 € 6.706 €/m²,9 Zimmer,252 m²,729 m² Grundstück,https://www.immowelt.de/expose/a26d332e-a139-4766-ac97-7a6ec6ce94a5;3758
+Lindenschulviertel, Stuttgart (70327),119.000 € 3.967 €/m²,1 Zimmer,30 m²,1. Geschoss,https://www.immowelt.de/expose/bf3f403e-39d7-4a63-9268-a78e56d80f88;3758
+"Rohr, Stuttgart (70565),198.000 € 3.389 €/m²,2 Zimmer,""58,4 m²"",6. Geschoss,https://www.immowelt.de/expose/7c3404d0-cb3c-4127-83f3-c143d9b1f822";3758
+"Gablenberg, Stuttgart (70184),1.580.000 € 4.740 €/m²,11 Zimmer,""333,3 m²"",466 m² Grundstück,https://www.immowelt.de/expose/3c9a22cd-833f-4b15-83fa-f0385a2ec617";3758
+Stammheim - Süd, Stuttgart / Stammheim (70439),299.000 € 4.153 €/m²,3 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/91224b2c-cb66-4c2e-9f53-fbdccd1ea947;3758
+"Rot, Stuttgart / Rot (70437),279.000 € 3.787 €/m²,3 Zimmer,""73,7 m²"",frei ab 01.12.2024,https://www.immowelt.de/expose/3e07db6b-7e37-48ce-a773-a9b994b00397";3758
+Heumaden, Stuttgart-Heumaden (70619),1.582.000 € 6.537 €/m²,12 Zimmer,242 m²,774 m² Grundstück,https://www.immowelt.de/expose/8bb6df60-e145-4445-ae95-1d3b012161a3;3758
+Heumaden, Stuttgart-Heumaden (70619),1.455.000 € 7.951 €/m²,7 Zimmer,183 m²,774 m² Grundstück,https://www.immowelt.de/expose/2a374724-03ca-4afd-8f3c-9533fa44d406;3758
+Heumaden, Stuttgart-Heumaden (70619),892.000 € 7.194 €/m²,6 Zimmer,124 m²,774 m² Grundstück,https://www.immowelt.de/expose/710df44d-f8fb-4baf-a40a-37c818e25b96;3758
+Stammheim - Mitte, S-Stammheim (70439),1.062.000 € 4.388 €/m²,14 Zimmer,242 m²,375 m² Grundstück,https://www.immowelt.de/expose/43a5833a-126a-4c02-bd8e-4230d12ced16;3758
+Stammheim - Mitte, S-Stammheim (70439),793.000 € 6.100 €/m²,5 Zimmer,130 m²,375 m² Grundstück,https://www.immowelt.de/expose/78ea7265-a4c4-4f24-99ea-a2edcb304acd;3758
+Stammheim - Mitte, S-Stammheim (70439),913.000 € 5.929 €/m²,5 Zimmer,154 m²,375 m² Grundstück,https://www.immowelt.de/expose/ef4f4023-98dd-402d-ae52-7a9d1ce6b1b0;3758
+Rathaus, Manacor-Porto Cristo (07680),260.000 € 2.653 €/m²,5 Zimmer,98 m²,3. Geschoss,https://www.immowelt.de/expose/7843b754-bac0-4a92-b4ad-3c1e90e08485;3758
+"Bopser, Stuttgart (70184),1.290.000 € 7.371 €/m²,""4,5 Zimmer"",175 m²,287 m² Grundstück,https://www.immowelt.de/expose/068e2789-66d9-48e1-8274-94fa4d45c8a7";3758
+Rotebühl, Stuttgart-West (70176),340.000 € 5.152 €/m²,2 Zimmer,66 m²,3. Geschoss,https://www.immowelt.de/expose/5fe93ee3-4d86-4f6e-aea3-ca0065334155;3758
+Gänsheide, Stuttgart (70186),2.500.000 € 11.628 €/m²,7 Zimmer,215 m²,945 m² Grundstück,https://www.immowelt.de/expose/6fbef6d7-27e2-4047-8304-7dcac2c0054a;3758
+Botnang - Ost, Stuttgart (70195),Preis auf Anfrage,14 Zimmer,287 m²,151 m² Grundstück,https://www.immowelt.de/expose/6e69688c-907a-49cc-b74f-567256a2e5b5;3758
+Botnang - Ost, Stuttgart (70195),Preis auf Anfrage,14 Zimmer,287 m²,151 m² Grundstück,https://www.immowelt.de/expose/f6fe0db1-3cd9-4886-997a-969c22ed1d22;3758
+Rosenberg, Stuttgart (70176),979.000 € 4.707 €/m²,4 Zimmer,208 m²,1. Geschoss,https://www.immowelt.de/expose/59608a1d-e3c6-4de3-8654-289e9a279750;3758
+"Asemwald, Stuttgart (70599),329.000 € 3.357 €/m²,""3,5 Zimmer"",98 m²,20. Geschoss,https://www.immowelt.de/expose/a19c7cc9-0411-401e-b13a-e01c2fd28081";3758
+Stöckach, Stuttgart (70190),319.000 € 4.908 €/m²,3 Zimmer,65 m²,3. Geschoss,https://www.immowelt.de/expose/7b84672e-1878-474b-a273-b92ba1b3f28f;3758
+"Triebweg 125, Hohe Warte, Stuttgart (70469),420.000 € 4.300 €/m²,""4,5 Zimmer"",""91,7 m²"",1. Geschoss,https://www.immowelt.de/expose/bfc75a22-5091-40d6-9cc9-4d4b0f0116e9";3758
+"Bahnhof Feuerbach, Stuttgart / Feuerbach (70469),424.000 € 4.769 €/m²,4 Zimmer,""88,9 m²"",1. Geschoss,https://www.immowelt.de/expose/899d25f0-bd57-46fb-b485-2f832e7dc006";3758
+Feuerbacher Tal, Stuttgart (70469),339.000 € 4.520 €/m²,3 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/9e4c640d-19e8-4889-95e4-90c0448571c5;3758
+Feuerbach - Mitte, Stuttgart / Feuerbach (70469),699.000 € 3.758 €/m²,9 Zimmer,186 m²,236 m² Grundstück,https://www.immowelt.de/expose/ce57015f-4898-4450-b92f-1404aa5d1403;3758
+"Gehrenwald, Stuttgart (70327),395.000 € 4.468 €/m²,4 Zimmer,""88,4 m²"",1. Geschoss,https://www.immowelt.de/expose/e4195448-90ce-4bbe-b594-ad46b4276d47";3758
+Lemberg / Föhrich, Stuttgart (70469),1.850.000 € 10.571 €/m²,7 Zimmer,175 m²,710 m² Grundstück,https://www.immowelt.de/expose/82a0c376-a807-4030-9c59-46c13793edd8;3758
+Lemberg / Föhrich, Stuttgart (70469),2.100.000 € 7.500 €/m²,8 Zimmer,280 m²,710 m² Grundstück,https://www.immowelt.de/expose/7808cd81-98e8-48b2-9e90-7532d11e7c14;3758
+Mönchfeldstraße 110, Mönchfeld, Stuttgart (70378),280.000 € 3.600 €/m²,3 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/ecb56803-3f62-492b-9c61-f59d73360208;3758
+Wildunger Str. 90, Seelberg, Stuttgart (70372),278.000 € 7.733 €/m²,2 Zimmer,36 m²,Unknown,https://www.immowelt.de/projekte/expose/k233632;3758
+Birkach - Nord, Stuttgart (70599),430.000 € 6.825 €/m²,2 Zimmer,63 m²,EG,https://www.immowelt.de/expose/4fdc3af3-4626-400c-a4c0-05ba345ea447;3758
+Gehrenwald, Stuttgart / Untertürkheim (70327),349.000 € 4.309 €/m²,3 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/45ce93eb-ce44-41e7-a074-63229a651a3d;3758
+Lemberg / Föhrich, Stuttgart (70469),2.200.000 € 8.800 €/m²,7 Zimmer,250 m²,710 m² Grundstück,https://www.immowelt.de/expose/9a8a1dee-2689-4d3f-9bea-1e77968615ef;3758
+Lemberg / Föhrich, Stuttgart (70469),1.240.000 € 6.526 €/m²,7 Zimmer,190 m²,350 m² Grundstück,https://www.immowelt.de/expose/0060c1c7-b290-4413-8c92-9018126df026;3758
+Gänsheide, Stuttgart (70184),590.000 € 5.900 €/m²,4 Zimmer,100 m²,4. Geschoss,https://www.immowelt.de/expose/0c722168-bd8b-4a7c-9498-d7bb0b59ca72;3758
+"Lehen, Stuttgart (70180),625.000 € 5.682 €/m²,""3,5 Zimmer"",110 m²,1. Geschoss,https://www.immowelt.de/expose/dd23b04c-c32e-454e-9706-af00a797819e";3758
+Grefstr. 21 A, Weilimdorf, Stuttgart (70499),1.390.000 € 8.854 €/m²,5 Zimmer,157 m²,327 m² Grundstück,https://www.immowelt.de/projekte/expose/k2cp832;3758
+Zuffenhausen - Mitte, Stuttgart-Zuffenhausen (70435),920.000 € 8.364 €/m²,5 Zimmer,110 m²,798 m² Grundstück,https://www.immowelt.de/expose/05e6f15f-a574-49dc-a4a1-49c05cbc8b30;3758
+Ostheim, Stuttgart (70186),550.000 € 4.400 €/m²,4 Zimmer,125 m²,Unknown,https://www.immowelt.de/expose/3dab68a1-9bdf-4bc3-bd93-339cc0ad0d02;3758
+"Feuerbach - Mitte, Stuttgart / Feuerbach (70469),1.295.000 € 4.288 €/m²,""9,5 Zimmer"",302 m²,249 m² Grundstück,https://www.immowelt.de/expose/5bb09278-a267-4c09-82c1-8abe81549c3d";3758
+Gänsheide, Stuttgart (70184),1.375.000 € 9.167 €/m²,5 Zimmer,150 m²,3. Geschoss,https://www.immowelt.de/expose/19cc2cd4-d1b8-455b-b495-7be348854561;3758
+Ostheim, Stuttgart (70190),335.000 € 4.926 €/m²,3 Zimmer,68 m²,EG,https://www.immowelt.de/expose/9c87ae2f-7573-48f4-9da7-6031d38cd7fc;3758
+"Wangen, Stuttgart (70327),465.000 € 3.496 €/m²,""4,5 Zimmer"",133 m²,EG,https://www.immowelt.de/expose/46d5fa47-3aa0-4f4b-8a75-305b59c63a4a";3758
+"Stammheim - Süd, Stuttgart (70439),659.000 € 6.937 €/m²,""3,5 Zimmer"",95 m²,238 m² Grundstück,https://www.immowelt.de/expose/e87230bb-41cc-445f-823b-7ee275bca989";3758
+"Ostheim, Stuttgart (70190),288.000 € 5.071 €/m²,""2,5 Zimmer"",""56,8 m²"",Unknown,https://www.immowelt.de/expose/013bed46-bd97-4740-87e8-9d7410fe8981";3758
+Paderborn - Kernstadt, Stuttgart Stuttgart-Nord (70191),660.000 € 7.021 €/m²,4 Zimmer,94 m²,171 m² Grundstück,https://www.immowelt.de/expose/10716624-4ebb-4fed-87b0-daf12369c7bc;3758
+"Brückenstraße 44, Neckarvorstadt, Stuttgart (70376),379.000 € 5.465 €/m²,""3,5 Zimmer"",73 m²,EG,https://www.immowelt.de/expose/2b1651be-9afc-4e09-9b60-bfa5de1a7967";3758
+Im Geiger, Stuttgart (70374),1.099.000 € 4.579 €/m²,10 Zimmer,240 m²,596 m² Grundstück,https://www.immowelt.de/expose/0bde667e-9271-4938-b73b-7e3ecb8c0d2a;3758
+"Botnang - Süd, Stuttgart (70195),315.000 € 3.656 €/m²,""2,5 Zimmer"",""86,2 m²"",EG,https://www.immowelt.de/expose/cf4acd79-381a-4909-bd62-729ebd1762d0";3758
+Sillenbuch, Stuttgart (70619),465.000 € 7.045 €/m²,2 Zimmer,66 m²,Unknown,https://www.immowelt.de/expose/b5a9c631-29d3-42d4-b955-d86f818407ee;3758
+Heusteigviertel, Stuttgart (70182),455.000 € 9.100 €/m²,2 Zimmer,50 m²,5. Geschoss,https://www.immowelt.de/expose/8fc64281-1b71-4fc8-8c41-a977cc6605f1;3758
+Sillenbuch, Stuttgart (70619),380.000 € 4.872 €/m²,3 Zimmer,78 m²,Unknown,https://www.immowelt.de/expose/0d65a1d8-00bd-4a7b-9cc8-65b5f249e804;3758
+"Rohr, Stuttgart (70565),649.000 € 5.454 €/m²,""4,5 Zimmer"",119 m²,212 m² Grundstück,https://www.immowelt.de/expose/1cfe4757-7bac-4bd0-bd35-e106cd49c310";3758
+Riedenberg, Stuttgart (70619),335.000 € 4.241 €/m²,3 Zimmer,79 m²,2. Geschoss,https://www.immowelt.de/expose/928378d5-1075-4c0a-a254-75bcbd06901f;3758
+Wangen, Stuttgart (70327),199.000 € 3.554 €/m²,3 Zimmer,56 m²,2. Geschoss,https://www.immowelt.de/expose/85337791-d0b9-48b4-a333-e38e5c6de648;3758
+Rotebühl, Stuttgart / Stuttgart-West (70197),465.000 € 4.745 €/m²,3 Zimmer,98 m²,2. Geschoss,https://www.immowelt.de/expose/30603814-a3be-477d-a8b1-fe9794a403aa;3758
+Untertürkheim, Stuttgart (70327),449.000 € 3.973 €/m²,5 Zimmer,113 m²,100 m² Grundstück,https://www.immowelt.de/expose/9c371dda-caf8-477c-ba57-1cb5d2697518;3758
+Heusteigstraße 9, Heusteigviertel, Stuttgart (70182),655.000 € 8.188 €/m²,3 Zimmer,80 m²,EG,https://www.immowelt.de/expose/5cf393ab-976a-4bb5-9c62-33b90380f283;3758
+Falkertstraße 91, Hölderlinplatz, Stuttgart (70176),350.000 € 5.224 €/m²,3 Zimmer,67 m²,Unknown,https://www.immowelt.de/expose/3a42534c-0fa3-4a2e-a28a-329b1854fefe;3758
+Wangen, Stuttgart-Wangen (70327),259.000 € 3.597 €/m²,3 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/125b8cfa-597d-4344-8204-74c886328f2d;3758
+"Hölderlinplatz, Stuttgart - West (70176),350.000 € 5.902 €/m²,3 Zimmer,""59,3 m²"",Unknown,https://www.immowelt.de/expose/b6b05b44-4bbc-49a1-916d-136d2a81c903";3758
+"Sonnenberg, Stuttgart (70597),1.825.000 € 10.735 €/m²,""3,5 Zimmer"",170 m²,EG,https://www.immowelt.de/projekte/expose/k2dr832";3758
+"Sonnenberg, Stuttgart (70597),1.320.000 € 11.000 €/m²,""3,5 Zimmer"",120 m²,2. Geschoss,https://www.immowelt.de/projekte/expose/k2dr832";3758
+"Veielbrunnen, Stuttgart (70372),Preis auf Anfrage,3 Zimmer,""76,3 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k23r532";3758
+Veielbrunnen, Stuttgart (70372),Preis auf Anfrage,4 Zimmer,134 m²,2. Geschoss,https://www.immowelt.de/projekte/expose/k23r532;3758
+"Veielbrunnen, Stuttgart (70372),Preis auf Anfrage,2 Zimmer,""50,2 m²"",Unknown,https://www.immowelt.de/projekte/expose/k23r532";3758
+"Veielbrunnen, Stuttgart (70372),Preis auf Anfrage,3 Zimmer,""84,3 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k23r532";3758
+Neugereut, Stuttgart (70378),415.000 € 4.109 €/m²,3 Zimmer,101 m²,4. Geschoss,https://www.immowelt.de/expose/b4a82669-9b67-4d84-8a8c-6aa518d55051;3758
+Wangen, Stuttgart (70327),469.000 € 5.043 €/m²,4 Zimmer,93 m²,1. Geschoss,https://www.immowelt.de/expose/8fc0bd4b-827b-4fcb-a798-28f5c4ea76d7;3758
+Lauchäcker, Stuttgart (70569),385.000 € 6.016 €/m²,2 Zimmer,64 m²,frei ab sofort,https://www.immowelt.de/expose/b36ab37b-90cb-4f0a-b39a-14a56367db5e;3758
+"Plieningen, Stuttgart (70599),420.000 € 4.497 €/m²,4 Zimmer,""93,4 m²"",148 m² Grundstück,https://www.immowelt.de/expose/4e2ea908-e06f-40fc-95af-845f1277cf06";3758
+Rotebühl, Stuttgart (70197),450.000 € 4.891 €/m²,4 Zimmer,92 m²,4. Geschoss,https://www.immowelt.de/expose/54d8286e-e903-4bda-949a-a612d9609f16;3758
+"Hofen, Stuttgart (70378),289.000 € 3.452 €/m²,""3,5 Zimmer"",""83,7 m²"",2. Geschoss,https://www.immowelt.de/expose/241d10c1-dcf3-4093-87fc-2bed607efda7";3758
+Feuerbach - Mitte, Stuttgart (70469),260.000 € 2.857 €/m²,4 Zimmer,91 m²,3. Geschoss,https://www.immowelt.de/expose/3857b7b3-e206-4a9f-9144-b93dc980b6eb;3758
+"Triebweg, Hohe Warte, Stuttgart (70469),299.000 € 3.883 €/m²,""3,5 Zimmer"",77 m²,2. Geschoss,https://www.immowelt.de/expose/36216771-0b7a-4d9f-ad60-779987da9e4a";3758
+Plieningen, Stuttgart (70599),525.000 € 4.303 €/m²,5 Zimmer,122 m²,130 m² Grundstück,https://www.immowelt.de/expose/04b0cc5d-08f0-49bc-9bef-e847b6c7af9b;3758
+"Neugereut, Stuttgart (70378),197.000 € 2.549 €/m²,2 Zimmer,""77,3 m²"",2. Geschoss,https://www.immowelt.de/expose/a0dc9e68-55f8-4725-82c5-d7e8502ea8df";3758
+"Luginsland, Stuttgart (70327),620.000 € 4.627 €/m²,""7,5 Zimmer"",134 m²,331 m² Grundstück,https://www.immowelt.de/expose/9181b4bd-e979-4e10-b538-98bf3c83f697";3758
+Uhlandshöhe, Stuttgart (70188),390.000 € 3.900 €/m²,5 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/bb467608-b0f4-4fdc-b43b-c4eacc38c263;3758
+Feuerbach - Mitte, Stuttgart (70469),598.000 € 2.848 €/m²,9 Zimmer,210 m²,183 m² Grundstück,https://www.immowelt.de/expose/f9df49d9-ef4f-435c-98f1-9ddfc4f70177;3758
+"Drackensteinstr.4, Gaisburg, Stuttgart (70186),1.650.000 € 5.205 €/m²,""13,5 Zimmer"",317 m²,732 m² Grundstück,https://www.immowelt.de/expose/e847135b-47e5-4b0d-943c-2b6ef36d7809";3758
+Auf der Prag, Stuttgart (70191),648.000 € 6.612 €/m²,4 Zimmer,98 m²,6. Geschoss,https://www.immowelt.de/expose/d8bf3319-a0ac-4a32-beb1-9815e317899c;3758
+In der Schranne, Dachswald, Stuttgart (70563),695.000 € 7.316 €/m²,6 Zimmer,95 m²,400 m² Grundstück,https://www.immowelt.de/expose/0a82c9a6-35c6-4947-a3d5-cd498f619859;3758
+Hohe Warte, Stuttgart (70192),Preis auf Anfrage,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/469cfbab-1c2e-4534-980c-2587f085e763;3758
+"Fasanenhof, Stuttgart (70565),390.000 € 2.955 €/m²,""5,5 Zimmer"",132 m²,Unknown,https://www.immowelt.de/expose/4d3409be-bd86-4320-9d29-9a395313aff9";3758
+Rotebühl, Stuttgart (70197),3.150.000 € 5.769 €/m²,546 m²,Unknown,Unknown,https://www.immowelt.de/expose/343c64f9-ce4b-4382-8d0e-f933c912be7c;3758
+Wangen, Stuttgart (70327),819.000 € 3.150 €/m²,11 Zimmer,260 m²,156 m² Grundstück,https://www.immowelt.de/expose/94c8dcd9-a659-4b6b-9375-9d35e57baa26;3758
+"Markelsheimerstraße 73, Zuffenhausen - Mönchsberg, Stuttgart (70435),215.000 € 3.737 €/m²,2 Zimmer,""57,5 m²"",2. Geschoss,https://www.immowelt.de/expose/1da29c02-1516-4f38-9b86-ca4926434538";3758
+-, Oberer Schlossgarten, Stuttgart (70174),1.299.000 € 8.119 €/m²,6 Zimmer,160 m²,230 m² Grundstück,https://www.immowelt.de/expose/985fa904-9b65-4241-8525-20e732081a98;3758
+Obertürkheim, Stuttgart / Obertürkheim (70329),399.000 € 4.030 €/m²,5 Zimmer,99 m²,2. Geschoss,https://www.immowelt.de/expose/fee139b5-bda2-45e9-b28e-fd15c4bda75a;3758
+"Haigst, Stuttgart (70597),519.000 € 7.985 €/m²,""2,5 Zimmer"",65 m²,4. Geschoss,https://www.immowelt.de/expose/7c6b0e20-0db1-4b4e-8abd-9c3dc4f49ec7";3758
+"Dachswald, Stuttgart (70569),2.690.000 € 13.450 €/m²,""7,5 Zimmer"",200 m²,658 m² Grundstück,https://www.immowelt.de/expose/e24a393d-4be0-4591-9b2d-808aaa1bff76";3758
+"Seelberg, Stuttgart Bad Cannstatt (70372),329.000 € 4.759 €/m²,4 Zimmer,""69,1 m²"",1. Geschoss,https://www.immowelt.de/expose/f8135daa-f3da-471d-a635-1d9e2526eac1";3758
+Rot, Stuttgart (70437),180.000 € 3.462 €/m²,2 Zimmer,52 m²,12. Geschoss,https://www.immowelt.de/expose/77902a98-e96f-4676-824d-e3a638f94b0d;3758
+Im Geiger, Stuttgart (70374),Preis auf Anfrage,9 Zimmer,298 m²,493 m² Grundstück,https://www.immowelt.de/expose/9ab59123-9275-4bf9-b199-996342584416;3758
+Lehen, Stuttgart (70180),890.000 € 8.900 €/m²,3 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/4f55fb86-b869-45fb-9da8-4571bac33017;3758
+"Möhringen - Nord, Stuttgart/Möhringen (70567),260.000 € 4.015 €/m²,2 Zimmer,""64,8 m²"",EG,https://www.immowelt.de/expose/fbde73e7-1bd3-4b51-befd-2b819e5244a0";3758
+"Neue Vorstadt, Stuttgart (70174),399.000 € 6.150 €/m²,2 Zimmer,""64,9 m²"",3. Geschoss,https://www.immowelt.de/expose/5ed1ee60-487b-4a4d-8b60-85c7cbb3eb7f";3758
+Zuffenhausen - Mitte, Stuttgart Zuffenhausen (70437),380.000 € 2.815 €/m²,5 Zimmer,135 m²,Unknown,https://www.immowelt.de/expose/5ee86daf-fe22-4f1d-bffb-ee898e677aea;3758
+Heslach, Stuttgart (70199),265.000 € 4.818 €/m²,2 Zimmer,55 m²,EG,https://www.immowelt.de/expose/867d24e9-743a-4ddf-9773-de1f4b7d2283;3758
+Lehen, Stuttgart-Süd (70180),350.000 € 4.070 €/m²,3 Zimmer,86 m²,1. Geschoss,https://www.immowelt.de/expose/fdfd6e44-8171-427d-88ff-6826df9f4a1c;3758
+"Gablenberg, Stuttgart (70186),265.000 € 3.321 €/m²,3 Zimmer,""79,8 m²"",1. Geschoss,https://www.immowelt.de/expose/ba7f3a2d-6566-43b0-99c9-29e650720fdf";3758
+"Möhringen - Süd, Stuttgart (70567),299.000 € 4.573 €/m²,3 Zimmer,""65,6 m²"",2. Geschoss,https://www.immowelt.de/expose/7b1ab3ee-9b72-44c2-9ce9-ced893c543f8";3758
+Heerstraße, Stuttgart / Vaihingen (70563),699.000 € 11.459 €/m²,5 Zimmer,61 m²,456 m² Grundstück,https://www.immowelt.de/expose/1e7e0805-50a5-44ee-98aa-f3d238abb860;3758
+Rotebühl, Stuttgart Stuttgart-West (70178),589.000 € 5.890 €/m²,3 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/532e99f5-5316-42e3-ad03-5fec19d8c49e;3758
+Münster, Stuttgart (70376),Preis auf Anfrage,16 Zimmer,441 m²,470 m² Grundstück,https://www.immowelt.de/expose/153544db-7e49-42b7-9307-a4c9d1089268;3758
+Wolfbusch, Stuttgart (70499),665.000 € 4.650 €/m²,5 Zimmer,143 m²,243 m² Grundstück,https://www.immowelt.de/expose/532987e5-d9d0-4b8a-9464-e87276b25c29;3758
+"Hausen, Stuttgart (70499),695.000 € 5.761 €/m²,""4,5 Zimmer"",""120,7 m²"",Unknown,https://www.immowelt.de/expose/9afb0166-8327-4d1a-8f3d-43a44182de41";3758
+Sommerrain, Stuttgart (70374),199.000 € 4.523 €/m²,2 Zimmer,44 m²,2. Geschoss,https://www.immowelt.de/expose/c77d24aa-0bea-405c-a358-ea9ab55f566a;3758
+Relenberg, Stuttgart (70174),398.000 € 4.061 €/m²,4 Zimmer,98 m²,1. Geschoss,https://www.immowelt.de/expose/b9fd147d-e9ab-42d8-9b12-f189fd476a01;3758
+"Gaisburg, Stuttgart (70186),245.000 € 3.758 €/m²,3 Zimmer,""65,2 m²"",Unknown,https://www.immowelt.de/expose/02bb3530-8507-43b0-a661-1254024678b0";3758
+"Rohracker, Stuttgart (70329),335.000 € 3.932 €/m²,2 Zimmer,""85,4 m²"",3. Geschoss,https://www.immowelt.de/expose/fa4366cc-aae5-4e7f-b2bc-0d41e4fcf70e";3758
+"Sillenbuch, Stuttgart (70619),650.000 € 4.104 €/m²,4 Zimmer,""158,4 m²"",""271,1 m² Grundstück"",https://www.immowelt.de/expose/83f49bab-d4cf-4878-b8e0-62bcd68a243a";3758
+"Kirchheimer Str. 109, Sillenbuch, Stuttgart (70619),795.000 € 7.588 €/m²,4 Zimmer,""104,8 m²"",1. Geschoss,https://www.immowelt.de/expose/f3e099a8-86ea-4d14-aa98-214d26d52cdd";3758
+"Im Geiger, Stuttgart (70374),475.000 € 4.544 €/m²,6 Zimmer,""104,5 m²"",657 m² Grundstück,https://www.immowelt.de/expose/0cad8427-17d6-40cb-bd5e-d07a5948608e";3758
+"Schönberg, Stuttgart (70599),1.395.000 € 7.154 €/m²,""7,5 Zimmer"",195 m²,2. Geschoss,https://www.immowelt.de/expose/5e794a8f-ca52-4c37-a5b4-6e878bc66c1b";3758
+"Dobel, Stuttgart (70184),512.000 € 6.564 €/m²,""2,5 Zimmer"",78 m²,EG,https://www.immowelt.de/expose/d473d2bb-2455-4edb-a5c3-1dc00bc13036";3758
+"Gustav-Mahler-Straße 47, Botnang - Süd, Stuttgart (70195),350.000 € 4.333 €/m²,""2,5 Zimmer"",75 m²,5. Geschoss,https://www.immowelt.de/expose/e2145523-aa2f-4933-af01-73d5cf280243";3758
+"Dachswald, Stuttgart (70569),549.000 € 5.382 €/m²,""3,5 Zimmer"",102 m²,1. Geschoss,https://www.immowelt.de/expose/7101c117-8e72-4d92-aca1-a2bbb94c650c";3758
+Rosental, Stuttgart (70563),995.000 € 8.089 €/m²,4 Zimmer,123 m²,Unknown,https://www.immowelt.de/expose/e89b51d7-944f-44a1-9495-1a99e513e2a1;3758
+Ostheim, Stuttgart (70186),285.000 € 3.958 €/m²,3 Zimmer,72 m²,3. Geschoss,https://www.immowelt.de/expose/e627f752-ce4c-4708-8771-10afd94a283f;3758
+Zuffenhausen - Mönchsberg, Stuttgart (70435),765.000 € 3.255 €/m²,10 Zimmer,235 m²,258 m² Grundstück,https://www.immowelt.de/expose/ec16d8cf-281a-4db5-a5e6-2d2c9d46f4e8;3758
+Rohr, Stuttgart (70565),879.000 € 4.994 €/m²,9 Zimmer,176 m²,482 m² Grundstück,https://www.immowelt.de/expose/e655ed77-9214-4518-8605-b7cf0716ad08;3758
+"Hohe Warte, Stuttgart (70469),149.000 € 3.104 €/m²,""2,5 Zimmer"",48 m²,EG,https://www.immowelt.de/expose/624f3c19-4bcb-4510-aee8-491dd08ab206";3758
+"Möhringen - Nord, Stuttgart / Möhringen (70567),350.000 € 4.023 €/m²,""3,5 Zimmer"",87 m²,2. Geschoss,https://www.immowelt.de/expose/30343a3c-d7d7-472e-9996-0a57aec2f479";3758
+Birkenäcker, Stuttgart (70376),1.295.000 € 4.727 €/m²,8 Zimmer,274 m²,818 m² Grundstück,https://www.immowelt.de/expose/21e4ea95-ecde-4de6-bdb3-7b15a9b530e1;3758
+Plieningen, Stuttgart (70599),1.200.000 € 6.218 €/m²,9 Zimmer,193 m²,Unknown,https://www.immowelt.de/expose/0a06b6b8-4865-47bc-ac68-2e81a84cb4b9;3758
+Seelberg, Stuttgart (70372),359.000 € 4.488 €/m²,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/7ab89d10-0786-42d7-9924-850a405dd520;3758
+Rosenberg, Stuttgart (70178),547.000 € 6.590 €/m²,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/7820f629-5508-452c-a751-576ee87d3641;3758
+"Münster, Stuttgart (70376),220.000 € 3.320 €/m²,3 Zimmer,""66,3 m²"",1. Geschoss,https://www.immowelt.de/expose/e0b821dd-fb93-40f3-aaa6-4da2c48a1df7";3758
+"Weilimdorf, Stuttgart (70499),205.000 € 4.964 €/m²,2 Zimmer,""41,3 m²"",EG,https://www.immowelt.de/expose/b3eb4b47-d5a1-4ef9-aba3-2c430309e65f";3758
+"Feuerbacher Tal, Stuttgart / Feuerbach (70469),755.800 € 7.150 €/m²,""4,5 Zimmer"",""105,7 m²"",Unknown,https://www.immowelt.de/expose/05a1b697-527e-4161-aab0-f36bec69ec4e";3758
+"Nobileweg 27, Stammheim - Süd, Stuttgart (70439),470.000 € 4.651 €/m²,3 Zimmer,""101,1 m²"",2. Geschoss,https://www.immowelt.de/expose/b5c2c173-36a3-43b0-8ccc-1eeb246955b2";3758
+"Hohe Warte, Stuttgart (70469),187.000 € 3.979 €/m²,""2,5 Zimmer"",47 m²,2. Geschoss,https://www.immowelt.de/expose/62a8fd9c-2e4c-4a90-99f5-1ea1bb229fc1";3758
+"Wangen, Stuttgart (70327),328.500 € 3.911 €/m²,3 Zimmer,""84,2 m²"",3. Geschoss,https://www.immowelt.de/expose/7e479634-f2cf-4f2d-93c1-f0f72428e24b";3758
+"Hohe Warte, Stuttgart / Feuerbach (70469),400.000 € 4.405 €/m²,""4,5 Zimmer"",""90,8 m²"",11. Geschoss,https://www.immowelt.de/expose/7c73811f-629a-4adc-bd70-f127be0f54f3";3758
+Kaltental, Stuttgart (70569),187.000 € 3.979 €/m²,3 Zimmer,47 m²,Unknown,https://www.immowelt.de/expose/6202a307-bc2c-4ac4-aa0a-1674ceb3bf56;3758
+Rotenbergstraße, Ostheim, Stuttgart (70190),2.600.000 € 6.176 €/m²,22 Zimmer,421 m²,236 m² Grundstück,https://www.immowelt.de/expose/862ddcfb-9911-4f46-92ef-53d64aef9dfa;3758
+"Sillenbuch, Stuttgart (70619),650.000 € 4.104 €/m²,4 Zimmer,""158,4 m²"",271 m² Grundstück,https://www.immowelt.de/expose/572ffe40-4f18-4e60-b15a-dade8ea70835";3758
+Dachswald, Stuttgart (70569),359.000 € 5.609 €/m²,2 Zimmer,64 m²,Unknown,https://www.immowelt.de/expose/cfd5e0f7-d7c9-445b-98e0-e541ad3425ff;3758
+Heslach, Stuttgart (70199),1.850.000 € 6.167 €/m²,11 Zimmer,300 m²,1.049 m² Grundstück,https://www.immowelt.de/expose/8040be89-1cdf-4efb-ae32-0bb5c06a6f41;3758
+"Neugereut, Stuttgart (70378),320.000 € 3.239 €/m²,""4,5 Zimmer"",99 m²,8. Geschoss,https://www.immowelt.de/expose/18d46d61-85e0-4d6b-ab1d-ba49084fdf78";3758
+Gablenberg, Stuttgart (70186),170.000 € 4.359 €/m²,2 Zimmer,39 m²,Unknown,https://www.immowelt.de/expose/361b8cc6-c871-417c-842a-4653d5a2e8ef;3758
+"Kaltental, Stuttgart / Kaltental (70569),330.000 € 4.374 €/m²,3 Zimmer,""75,5 m²"",3. Geschoss,https://www.immowelt.de/expose/c3009bf8-625c-404a-bee7-612cf5f010f3";3758
+"Gablenberg, Stuttgart (70186),575.000 € 7.951 €/m²,4 Zimmer,""72,3 m²"",Unknown,https://www.immowelt.de/expose/459578c2-cf2a-4cee-b539-4099e6903298";3758
+Kernerviertel, Stuttgart (70190),430.000 € 5.059 €/m²,3 Zimmer,85 m²,2. Geschoss,https://www.immowelt.de/expose/fba16725-b0c3-4d10-8215-21adb9dc7aa5;3758
+"Zuffenhausen - Elbelen, Stuttgart (70439),920.000 € 5.947 €/m²,5 Zimmer,""154,7 m²"",243 m² Grundstück,https://www.immowelt.de/expose/1c57a979-4f02-4538-900f-94725baf16be";3758
+"Hedelfingen, Stuttgart / Hedelfingen (70329),2.000.000 € 6.339 €/m²,13 Zimmer,""315,5 m²"",1.200 m² Grundstück,https://www.immowelt.de/expose/4e567974-361a-49c2-af47-e8562220acc2";3758
+Zuffenhausen - Hohenstein, Stuttgart / Zuffenhausen (70435),920.000 € 4.381 €/m²,12 Zimmer,210 m²,266 m² Grundstück,https://www.immowelt.de/expose/85482875-c688-4a5d-b63c-d11c7555aeab;3758
+Heusteigviertel, Stuttgart (70180),187.000 € 6.448 €/m²,1 Zimmer,29 m²,Unknown,https://www.immowelt.de/expose/cc50b0ac-5f7f-4789-9c4c-062314eba4d9;3758
+"Gehrenwald, Stuttgart (70327),429.000 € 4.498 €/m²,4 Zimmer,""95,4 m²"",1. Geschoss,https://www.immowelt.de/expose/f5665552-5f9c-4232-817f-c4273c5a923d";3758
+Kaltental, Stuttgart (70569),780.000 € 3.436 €/m²,13 Zimmer,227 m²,427 m² Grundstück,https://www.immowelt.de/expose/c36ae256-8f8f-448c-a1d9-7ca8f55a6229;3758
+"Schmidener Vorstadt, Stuttgart (70374),210.000 € 3.908 €/m²,2 Zimmer,""53,7 m²"",Unknown,https://www.immowelt.de/expose/cde7f36e-33c7-4158-96f5-4c15ea8176fc";3758
+"Birkenäcker, Stuttgart (70376),319.000 €,""3,5 Zimmer"",88 m²,Unknown,https://www.immowelt.de/expose/8f8803dc-2832-4605-b1c0-0c8ee4248be4";3758
+"Heumaden, Stuttgart (70619),898.000 € 7.578 €/m²,4 Zimmer,""118,5 m²"",4. Geschoss,https://www.immowelt.de/expose/0d78266c-f84f-43a3-98ca-1f312b68207e";3758
+Freiberg, Stuttgart (70437),Preis auf Anfrage,11 Zimmer,248 m²,432 m² Grundstück,https://www.immowelt.de/expose/621fc06d-af82-45c8-bfa9-d630e2920ff8;3758
+"Kurpark, Stuttgart (70372),399.000 € 3.531 €/m²,5 Zimmer,""113,2 m²"",2. Geschoss,https://www.immowelt.de/expose/2e981c93-3933-425b-a2f8-9b709aea40ef";3758
+Antwerpener Str. 8, Im Geiger, Stuttgart (70374),313.000 € 4.013 €/m²,4 Zimmer,78 m²,Unknown,https://www.immowelt.de/expose/9b2a0d74-df98-496e-a45d-0ba676d0f0a8;3758
+Augsburgerstr. 749, Obertürkheim, Stuttgart Obertürkheim (70329),229.900 € 3.592 €/m²,3 Zimmer,64 m²,3. Geschoss,https://www.immowelt.de/expose/27b178ac-1695-4d11-aa08-8034b15e1033;3758
+Seelberg, Stuttgart (70372),3.200.000 € 2.719 €/m²,39 Zimmer,1.177 m²,434 m² Grundstück,https://www.immowelt.de/expose/9ff247d0-25f8-4ebb-8c14-c170873ced1e;3758
+"Untertürkheim, Stuttgart / Untertürkheim (70327),399.000 € 1.804 €/m²,""191,1 m²"",99 m² Grundstück,Unknown,https://www.immowelt.de/expose/63fea4d0-affb-4029-b98e-47e50504eba1";3758
+Seelberg, Stuttgart (70372),397.000 € 2.647 €/m²,6 Zimmer,150 m²,4. Geschoss,https://www.immowelt.de/expose/e92edc1b-2c47-4050-aa4b-f03c586cb3e8;3758
+Feuerbach - Mitte, Stuttgart / Feuerbach (70469),645.000 € 4.674 €/m²,7 Zimmer,138 m²,168 m² Grundstück,https://www.immowelt.de/expose/9adcf52f-6681-4063-9b8e-96bb4b09a1be;3758
+Dachswald, Stuttgart (70569),1.249.000 € 5.161 €/m²,10 Zimmer,242 m²,581 m² Grundstück,https://www.immowelt.de/expose/9382e06e-d418-4cac-9709-840d57f0c744;3758
+Galileistr 30, Dürrlewang, Stuttgart (70565),175.000 € 3.889 €/m²,1 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/b8e3bb7c-6838-480b-b9db-a353d41f0ea8;3758
+Rohracker, Stuttgart / Rohracker (70329),950.000 € 3.800 €/m²,9 Zimmer,250 m²,139 m² Grundstück,https://www.immowelt.de/expose/4dca25a4-e37f-4e0c-a2d3-9102c4f9fb4b;3758
+Rosenberg, Stuttgart Stuttgart-West (70176),450.000 € 5.625 €/m²,3 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/6583f416-c559-49c9-8910-632c759ac57c;3758
+"Altenburg, Stuttgart (70376),499.000 € 3.838 €/m²,8 Zimmer,""130,3 m²"",""197,3 m² Grundstück"",https://www.immowelt.de/expose/976abbdd-07c5-4b2f-bc88-61492f5987e4";3758
+Vaihingen - Mitte, Stuttgart (70563),286.000 € 5.500 €/m²,2 Zimmer,52 m²,EG,https://www.immowelt.de/expose/66d931c7-b2bf-453c-9c24-ea9b836e7859;3758
+"Degerloch, Stuttgart (70597),527.000 €,3 Zimmer,""128,3 m²"",3. Geschoss,https://www.immowelt.de/expose/a8c7f60d-2661-4ccb-932e-f5a5ad264251";3758
+"Birkach - Nord, Stuttgart (70599),325.000 € 3.632 €/m²,3 Zimmer,""89,5 m²"",1. Geschoss,https://www.immowelt.de/expose/5013a860-3811-4a0d-a5b1-513b884148f0";3758
+Gablenberg, Stuttgart (70186),998.000 € 4.377 €/m²,10 Zimmer,228 m²,331 m² Grundstück,https://www.immowelt.de/expose/5e584d5e-2723-4eba-ba37-caf60eced690;3758
+Gablenberg, Stuttgart (70186),998.000 € 4.377 €/m²,10 Zimmer,228 m²,331 m² Grundstück,https://www.immowelt.de/expose/cebd1bb1-8e09-45a8-b6f1-505f3d399918;3758
+"Neugereut, Stuttgart (70378),450.000 € 3.488 €/m²,4 Zimmer,""129,3 m²"",1. Geschoss,https://www.immowelt.de/expose/44244ddb-b88f-4973-afae-828274a22e71";3758
+"Feuerbacher Tal, Stuttgart (70469),579.000 € 3.379 €/m²,""8,5 Zimmer"",""171,3 m²"",138 m² Grundstück,https://www.immowelt.de/expose/0ae2e023-5828-44fe-8341-446b9b936634";3758
+"Ostheim, Stuttgart (70186),429.000 € 4.516 €/m²,""3,5 Zimmer"",95 m²,Unknown,https://www.immowelt.de/expose/088a0bac-f4b2-464d-82bb-c1038e95430e";3758
+Uhlandshöhe, Stuttgart (70188),349.000 € 4.986 €/m²,1 Zimmer,70 m²,1. Geschoss,https://www.immowelt.de/expose/b9964f02-25cb-4ca0-bd4a-97a46ad2ac3e;3758
+Ostheim, Stuttgart (70186),1.190.000 € 6.364 €/m²,10 Zimmer,187 m²,172 m² Grundstück,https://www.immowelt.de/expose/bf7c5a6f-10a1-4080-a44f-d5f4d9e4cfb6;3758
+Ostheim, Stuttgart (70186),1.190.000 € 6.364 €/m²,10 Zimmer,187 m²,172 m² Grundstück,https://www.immowelt.de/expose/1bc82a38-60e1-44c9-8fe0-ccd9faba509f;3758
+Gablenberg, Stuttgart (70186),1.930.000 € 8.391 €/m²,10 Zimmer,230 m²,227 m² Grundstück,https://www.immowelt.de/expose/9d46e0e7-bdaa-4636-a862-aad898eb7ea8;3758
+"Möhringerstrasse 165, Heslach, Stuttgart (70199),309.000 € 5.211 €/m²,2 Zimmer,""59,3 m²"",2. Geschoss,https://www.immowelt.de/expose/4eef72d4-64bd-4c18-a920-264fd894204e";3758
+"Zuffenhausen - Mönchsberg, Stuttgart (70435),470.000 € 6.953 €/m²,""2,5 Zimmer"",""67,6 m²"",3. Geschoss,https://www.immowelt.de/expose/3f9c73e6-436a-46fa-8118-42ff8c4e834c";3758
+"Gablenberg, Stuttgart (70186),178.400 € 2.695 €/m²,6 Zimmer,""66,2 m²"",4. Geschoss,https://www.immowelt.de/expose/cc477e97-960f-4ae9-9e15-4e03df5c3322";3758
+Feuerbach - Mitte, Stuttgart (70469),749.900 € 8.241 €/m²,4 Zimmer,91 m²,EG,https://www.immowelt.de/expose/fec1703d-8ddf-45c6-801e-7e92d592b603;3758
+"Im Geiger, Stuttgart (70374),2.690.000 € 6.642 €/m²,""6,5 Zimmer"",405 m²,542 m² Grundstück,https://www.immowelt.de/expose/3eed57c3-63b1-499d-b71a-dd1e4aa2a7fb";3758
+"Kaltental, Stuttgart (70569),3.300.000 € 7.304 €/m²,15 Zimmer,""451,8 m²"",531 m² Grundstück,https://www.immowelt.de/expose/86437aa6-0140-4013-b76e-0a0873beae60";3758
+Unknown,Unknown,3 Zimmer,70 m²,Unknown,https://www.immowelt.de/projekte/expose/k2j5732;3758
+Ostheim, Stuttgart (70188),350.000 € 4.667 €/m²,4 Zimmer,75 m²,4. Geschoss,https://www.immowelt.de/expose/6fe00d0d-2ae1-400e-b063-6a2b93e6f681;3758
+Schmidener Vorstadt, Stuttgart (70374),290.000 € 4.833 €/m²,3 Zimmer,60 m²,1. Geschoss,https://www.immowelt.de/expose/068dd76a-5220-4abf-860c-79819f01d3de;3758
+Freiberg, Stuttgart (70437),Preis auf Anfrage,7 Zimmer,287 m²,496 m² Grundstück,https://www.immowelt.de/expose/b59ece63-2396-4927-b92f-8e9540083ed8;3758
+Espan, Stuttgart (70374),284.000 € 5.071 €/m²,2 Zimmer,56 m²,1. Geschoss,https://www.immowelt.de/expose/5c4163f9-08d3-4fed-9c3a-71d0ba8ca280;3758
+Rosental, Stuttgart (70563),300.000 € 4.110 €/m²,3 Zimmer,73 m²,frei ab sofort,https://www.immowelt.de/expose/da25d857-eab6-4e30-96a2-810c74467533;3758
+Rotebühl, Stuttgart (70197),528.000 € 5.933 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/5f1aa92a-cab9-4366-ad55-a30fa587cd4e;3758
+Rotebühl, Stuttgart (70197),528.000 € 5.933 €/m²,3 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/93eff701-f2bf-4036-a340-27944900556b;3758
+Rathaus, Stuttgart (70178),480.000 € 2.892 €/m²,6 Zimmer,166 m²,Unknown,https://www.immowelt.de/expose/0bb2682d-4693-40a4-a364-a94d7fd1abda;3758
+Relenberg, Stuttgart Stuttgart-Nord (70174),330.000 € 4.400 €/m²,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/962ddf54-6dde-4872-b9d3-7363538c9a2f;3758
+Hedelfingen, Stuttgart (70329),549.000 € 4.575 €/m²,6 Zimmer,120 m²,291 m² Grundstück,https://www.immowelt.de/expose/f068e4ce-cdab-4038-b690-8fbbc708165e;3758
+Heusteigviertel, Stuttgart (70182),229.000 € 5.326 €/m²,2 Zimmer,43 m²,Unknown,https://www.immowelt.de/expose/04f545b2-b346-4ba4-bd7f-c2a966a261b7;3758
+Plieningen, Stuttgart (70599),185.000 € 4.205 €/m²,2 Zimmer,44 m²,Unknown,https://www.immowelt.de/expose/0a24bbb9-8f64-4aeb-9d51-2fec77fc043b;3758
+Lemberg / Föhrich, Stuttgart (70469),1.266.940 € 7.409 €/m²,6 Zimmer,171 m²,500 m² Grundstück,https://www.immowelt.de/expose/fac8d473-d756-490c-8d3a-6172031363d3;3758
+Taubenheimstr., Seelberg, Stuttgart (70372),270.000 € 5.625 €/m²,3 Zimmer,48 m²,5. Geschoss,https://www.immowelt.de/expose/30a05189-a54e-41b0-af81-baa2a25e1764;3758
+Wangen, Stuttgart (70327),189.000 € 3.316 €/m²,2 Zimmer,57 m²,Unknown,https://www.immowelt.de/expose/7c0ed5c0-6ee5-401e-8023-cdda5e3138e0;3758
+"Kräherwald, Stuttgart (70193),250.000 € 5.102 €/m²,""2,5 Zimmer"",49 m²,Unknown,https://www.immowelt.de/expose/54ed6a8d-6a5d-444b-bcdf-7cbc36df29b2";3758
+Stöckach, Stuttgart (70190),175.000 € 6.250 €/m²,1 Zimmer,28 m²,4. Geschoss,https://www.immowelt.de/expose/212b5fc8-cee1-4d8a-b61d-ff8c7e72fa46;3758
+Mönchfeld, Stuttgart (70378),190.000 € 3.455 €/m²,2 Zimmer,55 m²,2. Geschoss,https://www.immowelt.de/expose/0a85904f-1bb0-4a01-b41a-9536e467a38b;3758
+"Bergheim, Stuttgart (70499),229.000 € 3.271 €/m²,3 Zimmer,""70,3 m²"",2. Geschoss,https://www.immowelt.de/expose/7faa1b32-f45e-4b5f-9005-78153c4b6330";3758
+"Universität, Stuttgart (70176),869.000 € 2.180 €/m²,6 Zimmer,""148,5 m²"",194 m² Grundstück,https://www.immowelt.de/expose/7674e2be-3d36-4333-9b65-799e09e7b7b7";3758
+"Vogelsang, Stuttgart (70193),198.000 € 3.771 €/m²,3 Zimmer,""52,5 m²"",frei ab sofort,https://www.immowelt.de/expose/dac62b45-5102-47c1-97d4-c183585eb976";3758
+Heusteigviertel, Stuttgart (70180),348.000 € 4.143 €/m²,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/f4dd0889-ef12-463d-85c1-a0d3d6a1b192;3758
+Münster, Stuttgart (70376),625.000 € 4.167 €/m²,7 Zimmer,150 m²,155 m² Grundstück,https://www.immowelt.de/expose/ad91fdb4-95f4-4fb3-aee3-35909423ce5c;3758
+Bahnhof Feuerbach, Stuttgart (70469),1.295.000 € 7.194 €/m²,6 Zimmer,180 m²,506 m² Grundstück,https://www.immowelt.de/expose/726826f3-41eb-42c8-a84f-4a77a07c14ca;3758
+"Möhringen - Ost, Stuttgart (70567),908.553 € 5.684 €/m²,""5,5 Zimmer"",""159,9 m²"",306 m² Grundstück,https://www.immowelt.de/expose/97aba4a6-cfe9-4839-a9ac-295e43cfbb9f";3758
+"Möhringen - Ost, Stuttgart (70567),903.553 € 5.639 €/m²,""5,5 Zimmer"",""160,2 m²"",302 m² Grundstück,https://www.immowelt.de/expose/ca5fb79c-ed6c-41d9-9d81-332069ceafe4";3758
+Gänsheide, Stuttgart (70184),949.000 € 8.042 €/m²,5 Zimmer,118 m²,227 m² Grundstück,https://www.immowelt.de/expose/54240901-d8a4-451e-929e-c35e8f485c5c;3758
+Lehen, Stuttgart (70180),330.000 € 4.125 €/m²,3 Zimmer,80 m²,2. Geschoss,https://www.immowelt.de/expose/bc293b4a-4893-4e13-b2eb-11720e101859;3758
+Österfeld, Stuttgart / Vaihingen (70563),1.100.000 € 5.556 €/m²,8 Zimmer,198 m²,460 m² Grundstück,https://www.immowelt.de/expose/4af8ba3b-f203-449a-9575-3885e035562c;3758
+Galileistr. 30, Dürrlewang, Stuttgart (70565),179.800 € 4.181 €/m²,1 Zimmer,43 m²,8. Geschoss,https://www.immowelt.de/expose/9ac64206-0937-42a0-9b9f-7469db328a91;3758
+"Hedelfingen, Stuttgart-Hedelfingen (70329),950.000 € 1.899 €/m²,11 Zimmer,""42,6 m²"",Unknown,https://www.immowelt.de/expose/38df0fae-a897-4656-bf31-7edd886917e0";3758
+Bahnhof Feuerbach, Stuttgart (70469),287.000 € 2.899 €/m²,4 Zimmer,99 m²,2. Geschoss,https://www.immowelt.de/expose/779c1157-a711-425a-88a7-be0b307c2b90;3758
+"Riedenberg, Stuttgart (70619),349.000 € 4.781 €/m²,""2,5 Zimmer"",73 m²,EG,https://www.immowelt.de/expose/e008e146-3bbb-4be1-8330-a80369046a60";3758
+Vaihingen - Mitte, Stuttgart (70563),850.000 € 4.570 €/m²,9 Zimmer,186 m²,428 m² Grundstück,https://www.immowelt.de/expose/3d245b67-9e74-4d42-bb45-f1a37cf4919b;3758
+"Zuffenhausen - Mönchsberg, Stuttgart / Zuffenhausen (70435),1.495.000 € 5.417 €/m²,""5,5 Zimmer"",276 m²,794 m² Grundstück,https://www.immowelt.de/expose/3ffcceed-9924-4dd0-88a8-f4d64de49bce";3758
+Degerloch, Stuttgart (70597),360.000 € 4.286 €/m²,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/1291f63a-1651-4d92-887a-69a39fcb75af;3758
+"Neugereut, Stuttgart / Neugereut (70378),329.000 € 3.970 €/m²,""3,5 Zimmer"",""82,9 m²"",3. Geschoss,https://www.immowelt.de/expose/07f99034-d105-4e06-badb-5b18503b4363";3758
+"Gablenberg, Stuttgart (70186),555.000 € 5.139 €/m²,""4,5 Zimmer"",108 m²,1. Geschoss,https://www.immowelt.de/expose/c5eda827-9ca1-4f74-ac5b-e253c1333417";3758
+Mühlhausen, Stuttgart (70378),359.000 € 4.224 €/m²,4 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/3f3ba54b-2b37-4eee-8ae8-957be1a9d0bf;3758
+"Birkach - Nord, Stuttgart (70599),499.000 € 5.509 €/m²,3 Zimmer,""90,6 m²"",1. Geschoss,https://www.immowelt.de/expose/7e81d05c-be80-4186-8a73-bb79815ff5fc";3758
+"Rohr, Stuttgart (70565),389.000 € 4.322 €/m²,""2,5 Zimmer"",90 m²,4. Geschoss,https://www.immowelt.de/expose/df95393c-2e4c-4f88-9e6c-43368c6e42e6";3758
+"Gehrenwald, Stuttgart (70327),195.000 € 3.574 €/m²,2 Zimmer,""54,6 m²"",1. Geschoss,https://www.immowelt.de/expose/a41086b5-bb13-43f7-8cff-1b5f41abe350";3758
+"Uhlbach, Stuttgart (70597),449.000 € 4.599 €/m²,3 Zimmer,""97,6 m²"",Unknown,https://www.immowelt.de/expose/e3742493-1afe-427a-b7d4-d818aa25b07a";3758
+"Gablenberg, Stuttgart (70186),385.000 € 5.447 €/m²,3 Zimmer,""70,7 m²"",2. Geschoss,https://www.immowelt.de/expose/b617fc76-ba93-4110-ae10-d34853607472";3758
+Hedelfingen, Stuttgart / Hedelfingen (70329),2.150.000 € 6.575 €/m²,12 Zimmer,327 m²,2.128 m² Grundstück,https://www.immowelt.de/expose/1d5877a1-4703-442a-bcbf-11dde170138f;3758
+"Hedelfingen, Stuttgart / Hedelfingen (70329),2.000.000 € 6.339 €/m²,13 Zimmer,""315,5 m²"",1.200 m² Grundstück,https://www.immowelt.de/expose/3936f7c1-1577-47cc-963d-bc1303d8b85f";3758
+"Gablenberg, Stuttgart (70186),385.000 € 5.447 €/m²,3 Zimmer,""70,7 m²"",1. Geschoss,https://www.immowelt.de/expose/630bc5d0-abe5-4f1c-81f8-a53523bbd28c";3758
+"Giebel, Stuttgart (70499),299.000 € 3.602 €/m²,""3,5 Zimmer"",83 m²,7. Geschoss,https://www.immowelt.de/expose/46fd72ba-7892-4e0b-b7db-a9f11e9eba4f";3758
+Degerloch, Stuttgart / Degerloch (70597),359.000 € 4.918 €/m²,3 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/446ccf81-2768-4e97-877e-07a8d984cc05;3758
+Kräherwald, Stuttgart (70197),2.700.000 € 12.273 €/m²,4 Zimmer,220 m²,2. Geschoss,https://www.immowelt.de/expose/beda0f69-0a16-4b3a-bb53-184fdd50c672;3758
+Bopser, Stuttgart (70184),1.495.000 € 6.444 €/m²,4 Zimmer,232 m²,EG,https://www.immowelt.de/expose/d86f1cce-8a16-4566-bd3e-09cbbc37ef5b;3758
+"Walter-Flex-Str. 2, Sillenbuch, Stuttgart (70619),1.865.000 € 11.235 €/m²,""4,5 Zimmer"",166 m²,Unknown,https://www.immowelt.de/expose/29e7932d-6b7e-42d1-b7f1-202e4e7684db";3758
+Hausen, Stuttgart-Hausen (70499),595.000 € 5.721 €/m²,4 Zimmer,104 m²,EG,https://www.immowelt.de/expose/0e8b6e37-7a61-4728-98c7-c359e4737a35;3758
+"Rosental, Stuttgart / Vaihingen (70563),1.180.000 € 7.375 €/m²,""7,5 Zimmer"",160 m²,680 m² Grundstück,https://www.immowelt.de/expose/27500176-25b1-4f0f-bddc-90950b25b961";3758
+Winterhalde, Stuttgart (70374),249.000 € 3.952 €/m²,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/81b03cba-0d3b-4e44-9e54-2959db005bc5;3758
+Karlshöhe, Stuttgart (70199),449.000 € 5.756 €/m²,3 Zimmer,78 m²,2. Geschoss,https://www.immowelt.de/expose/d0ea78aa-4949-4b6f-9067-a6a2fcea9324;3758
+"Winterhalde, Stuttgart - Untertürkheim (70327),885.689 € 6.163 €/m²,4 Zimmer,""143,7 m²"",414 m² Grundstück,https://www.immowelt.de/expose/f563a17d-0d8f-4a55-832f-71e2e14f52cb";3758
+Walter-Flex-Str. 2, Sillenbuch, Stuttgart (70619),1.580.000 € 11.367 €/m²,5 Zimmer,139 m²,Unknown,https://www.immowelt.de/expose/86f71ac0-20ba-4034-b0f3-6092d9dd9280;3758
+"Mühlhausen, Stuttgart - Mönchfeld (70378),888.749 € 6.544 €/m²,4 Zimmer,""135,8 m²"",420 m² Grundstück,https://www.immowelt.de/expose/04963419-bab3-41c4-a2d4-01c3b8dcf671";3758
+"Feuerbach - Ost, Stuttgart - Feuerbach (70469),842.719 € 6.303 €/m²,4 Zimmer,""133,7 m²"",369 m² Grundstück,https://www.immowelt.de/expose/23aa6281-6e07-4034-94e6-89f09073ba26";3758
+"Hedelfingen, Stuttgart - Hedelfingen (70329),814.399 € 6.520 €/m²,4 Zimmer,""124,9 m²"",343 m² Grundstück,https://www.immowelt.de/expose/7b9a676b-0767-4a53-9500-56f1a4ca3326";3758
+Hohe Warte, Stuttgart / Feuerbach (70469),289.000 € 4.014 €/m²,3 Zimmer,72 m²,2. Geschoss,https://www.immowelt.de/expose/3a2f9fa1-7a74-44ad-97c5-a258d111aa82;3758
+Walter-Flex-Str. 2, Sillenbuch, Stuttgart (70619),1.950.000 € 9.512 €/m²,5 Zimmer,205 m²,Unknown,https://www.immowelt.de/expose/bdcb49e4-7220-45ed-8f76-44c5c4f7da78;3758
+Hedelfingen, Stuttgart (70329),275.000 € 4.741 €/m²,2 Zimmer,58 m²,1. Geschoss,https://www.immowelt.de/expose/c8be7e6a-98c2-4b99-aa87-f40226afbc45;3758
+"Luginsland, Stuttgart (70327),545.000 € 4.411 €/m²,5 Zimmer,""123,6 m²"",350 m² Grundstück,https://www.immowelt.de/expose/78e516d8-341f-40a6-9c40-b64c7df7defb";3758
+Schönberg, Stuttgart (70599),1.150.000 € 8.156 €/m²,5 Zimmer,141 m²,1. Geschoss,https://www.immowelt.de/expose/e2df0d06-a666-4338-8d26-e25be962227b;3758
+"Heumaden, Stuttgart (70619),2.450.000 € 6.649 €/m²,11 Zimmer,""368,5 m²"",538 m² Grundstück,https://www.immowelt.de/expose/c0a5f644-f6b6-49a2-a708-021d982755f5";3758
+"Heumaden, Stuttgart (70619),2.450.000 € 6.649 €/m²,11 Zimmer,""368,5 m²"",538 m² Grundstück,https://www.immowelt.de/expose/2bde25e9-2b5e-44c2-b0ea-c62c0f64b2ed";3758
+Heerstraße, Stuttgart (70563),365.000 € 3.763 €/m²,4 Zimmer,97 m²,2. Geschoss,https://www.immowelt.de/expose/cca0cdda-eacb-410f-959d-7a89ac466779;3758
+"Stammheim - Mitte, Stuttgart (70439),1.680.000 € 6.930 €/m²,8 Zimmer,""242,4 m²"",382 m² Grundstück,https://www.immowelt.de/expose/890f517a-96ca-4b26-b184-2700c23cda24";3758
+Feuerbach - Mitte, Stuttgart (70469),349.000 € 4.363 €/m²,4 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/66d3ca87-f900-457f-ae8e-6226a3dcba6a;3758
+Karlshöhe, Stuttgart (70178),480.000 € 2.874 €/m²,6 Zimmer,167 m²,Unknown,https://www.immowelt.de/expose/30e0c571-b183-43f4-991a-3df7cddac828;3758
+Heslach, Stuttgart (70199),930.000 € 5.962 €/m²,4 Zimmer,156 m²,Unknown,https://www.immowelt.de/expose/b2501a93-8e4d-44b1-9f2e-fe64d4f40ab9;3758
+Vogelsang, Stuttgart (70193),475.000 € 4.897 €/m²,4 Zimmer,97 m²,1. Geschoss,https://www.immowelt.de/expose/b8aef4e5-704d-42ae-9bf2-6df75c4e425a;3758
+Killesberg, Stuttgart (70192),998.000 € 9.689 €/m²,3 Zimmer,103 m²,4. Geschoss,https://www.immowelt.de/expose/b5cc4109-4a08-45d3-aafd-bc08e8eb6c09;3758
+Gehrenwald, Stuttgart (70327),385.000 € 4.529 €/m²,3 Zimmer,85 m²,1. Geschoss,https://www.immowelt.de/expose/82558917-085c-4c78-a1d8-1d94e1cefbea;3758
+Zuffenhausen - Hohenstein, Stuttgart (70435),620.000 € 2.460 €/m²,10 Zimmer,252 m²,Unknown,https://www.immowelt.de/expose/5f138a8f-aec3-46f9-91bb-7f728a023a5d;3758
+"Untertürkheim, Stuttgart / Untertürkheim (70327),295.000 € 4.139 €/m²,3 Zimmer,""71,3 m²"",EG,https://www.immowelt.de/expose/d31af967-fc02-4c00-be54-a927b9ffde71";3758
+Botnang - West, Stuttgart (70195),1.780.000 € 7.607 €/m²,8 Zimmer,234 m²,586 m² Grundstück,https://www.immowelt.de/expose/e1050d77-1f04-4c57-9dc1-c5e58c50231b;3758
+"Feuerbacher-Tal-Straße 16, Feuerbach - Mitte, Stuttgart (70469),499.000 € 6.617 €/m²,""3,5 Zimmer"",""75,4 m²"",Unknown,https://www.immowelt.de/expose/1529ea5a-8480-4444-8da6-7662c9b72818";3758
+Weilimdorf, Stuttgart (70499),309.000 € 4.478 €/m²,2 Zimmer,69 m²,1. Geschoss,https://www.immowelt.de/expose/427ead90-71c2-46a5-8d00-f4b5abb08796;3758
+Heumaden, Stuttgart (70619),399.000 € 9.975 €/m²,2 Zimmer,40 m²,Unknown,https://www.immowelt.de/expose/f83f72f4-1ddc-47b4-82bd-bf5ebcc9a05c;3758
+Hedelfingen, Stuttgart (70329),370.000 € 4.512 €/m²,4 Zimmer,82 m²,EG,https://www.immowelt.de/expose/751ba784-0049-4fc6-a300-81736d01c84e;3758
+"Münster, Stuttgart / Münster (70376),319.000 € 3.358 €/m²,""4,5 Zimmer"",95 m²,2. Geschoss,https://www.immowelt.de/expose/f619b48a-4f14-42b1-a34c-d98af5e875fd";3758
+Wangen, Stuttgart (70327),449.000 € 2.993 €/m²,5 Zimmer,150 m²,220 m² Grundstück,https://www.immowelt.de/expose/663703a0-cead-4a86-86d3-6a277a704b99;3758
+"Sillenbuch, Stuttgart Sillenbuch (70619),699.000 € 6.230 €/m²,6 Zimmer,""112,2 m²"",271 m² Grundstück,https://www.immowelt.de/expose/ed807505-1c92-43af-ac6a-b3b9fc8609f0";3758
+Rohr, Stuttgart (70565),799.000 € 6.242 €/m²,4 Zimmer,128 m²,2. Geschoss,https://www.immowelt.de/expose/e4894efa-59b6-4510-ba64-6c33ea8b0c43;3758
+Asemwald, Stuttgart (70599),298.000 € 3.975 €/m²,2 Zimmer,75 m²,22. Geschoss,https://www.immowelt.de/expose/057c035e-2397-4a8a-bf94-3eb6817d3875;3758
+Schmidener Vorstadt, Stuttgart (70374),210.000 € 3.889 €/m²,3 Zimmer,54 m²,EG,https://www.immowelt.de/expose/5ab1d8b1-37f2-45ec-a834-d9ad18fa6884;3758
+"Stammheim - Mitte, Stuttgart (70439),500.000 € 3.914 €/m²,5 Zimmer,""127,8 m²"",197 m² Grundstück,https://www.immowelt.de/expose/ea07ddf9-9e73-4bbf-a44b-425a30b8fb7d";3758
+"Asemwald, Stuttgart (70599),255.000 € 3.170 €/m²,""3,5 Zimmer"",""80,4 m²"",15. Geschoss,https://www.immowelt.de/expose/e760d819-8576-46e6-a266-70f4fd4536bf";3758
+"Hedelfingen, Stuttgart (70329),215.000 € 3.613 €/m²,""2,5 Zimmer"",""59,5 m²"",1. Geschoss,https://www.immowelt.de/expose/073f6052-8e9c-47c1-9cd4-903fbf182f80";3758
+Botnang - Süd, Stuttgart/ Botnang (70195),395.000 € 5.267 €/m²,2 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/701ad297-249a-4e6e-b98c-6aa405c88caa;3758
+Rathaus, Stuttgart (70178),480.000 € 2.892 €/m²,166 m²,Unknown,Unknown,https://www.immowelt.de/expose/d2a7d4ea-d81a-4414-8ba0-0108d450b3cd;3758
+"Pelikanstr. 32, Neugereut, Stuttgart (70378),338.900 € 4.060 €/m²,3 Zimmer,""83,5 m²"",2. Geschoss,https://www.immowelt.de/expose/b6f0233e-221d-4465-9f78-53157fb2b617";3758
+"Unknown,Unknown,5 Zimmer,""116,6 m²"",Unknown,https://www.immowelt.de/projekte/expose/k2ta532";3758
+"Unknown,Unknown,3 Zimmer,""96,1 m²"",Unknown,https://www.immowelt.de/projekte/expose/k2ta532";3758
+"Unknown,Unknown,""4,5 Zimmer"",80 m²,Unknown,https://www.immowelt.de/projekte/expose/k233632";3758
+"Unknown,Unknown,2 Zimmer,""44,2 m²"",Unknown,https://www.immowelt.de/projekte/expose/k233632";3758
+"Heslach, Stuttgart (70199),930.000 € 5.962 €/m²,""4,5 Zimmer"",156 m²,Unknown,https://www.immowelt.de/expose/1fb149be-c295-435b-9048-1ebe810dc4d8";3758
+"Schmidener Vorstadt, Stuttgart Bad Cannstatt (70374),739.000 € 6.718 €/m²,""4,5 Zimmer"",110 m²,Unknown,https://www.immowelt.de/expose/ff457d83-7c8b-435e-8550-86ca6047504a";3758
+"Ostheim, Stuttgart (70190),279.000 € 4.795 €/m²,2 Zimmer,""58,2 m²"",Unknown,https://www.immowelt.de/expose/9e1d37de-b925-4b41-86aa-edeea4a5ba2d";3758
+Schildkrötenweg 2, Bergheim, Stuttgart (70499),193.600 € 3.024 €/m²,2 Zimmer,64 m²,10. Geschoss,https://www.immowelt.de/expose/b7d26b8c-614d-4eb3-a3a8-00f95f94953c;3758
+"Schildkrötenweg 2, Bergheim, Stuttgart (70499),234.000 € 2.953 €/m²,3 Zimmer,""79,2 m²"",4. Geschoss,https://www.immowelt.de/expose/ade20415-a34c-4af2-83ee-1bb285913277";3758
+Schildkrötenweg 2, Bergheim, Stuttgart (70499),194.000 € 3.030 €/m²,2 Zimmer,64 m²,3. Geschoss,https://www.immowelt.de/expose/c6573a5d-bcca-435c-aec0-19ef4b3472d1;3758
+"Krokodilweg 40, Bergheim, Stuttgart (70499),208.000 € 3.221 €/m²,2 Zimmer,""64,6 m²"",Unknown,https://www.immowelt.de/expose/77b2054d-9cc3-4943-a211-28d584384f06";3758
+"Filderhauptstraße 217, Chausseefeld, Stuttgart (70599),275.000 € 3.708 €/m²,3 Zimmer,""74,2 m²"",Unknown,https://www.immowelt.de/expose/0f3e61ef-8fbb-48bd-aca3-155d72eca5e3";3758
+"Filderhauptstraße 215, Chausseefeld, Stuttgart (70599),234.000 € 3.843 €/m²,2 Zimmer,""60,9 m²"",Unknown,https://www.immowelt.de/expose/7bb98867-dab7-49d1-bfc5-f2791f285104";3758
+"Stammheim - Mitte, Stuttgart (70439),321.000 € 3.038 €/m²,4 Zimmer,""105,7 m²"",Unknown,https://www.immowelt.de/expose/8053f89f-8fb6-4056-b9b2-bbc3ca39185d";3758
+"Pflugfelder Straße 14, Stammheim - Mitte, Stuttgart (70439),349.000 € 3.026 €/m²,4 Zimmer,""115,4 m²"",Unknown,https://www.immowelt.de/expose/e0b81fce-cf12-4bbb-aaed-ab23a465f7c9";3758
+"Mönchhaldenstraße 52, Mönchhalde, Stuttgart (70191),299.000 € 3.945 €/m²,3 Zimmer,""75,8 m²"",1. Geschoss,https://www.immowelt.de/expose/aaef1fad-9759-4717-9a0f-a146bae5e36f";3758
+Heslach, Stuttgart (70199),930.000 € 5.962 €/m²,156 m²,Unknown,Unknown,https://www.immowelt.de/expose/35145af2-121e-4690-9c14-d5eee9542589;3758
+Heslach, Stuttgart (70199),930.000 € 5.962 €/m²,156 m²,Unknown,Unknown,https://www.immowelt.de/expose/f169e766-b66d-4bbc-a4a4-5b87abf6c3a1;3758
+"Seelberg, Stuttgart / Bad Cannstatt (70372),314.000 € 4.389 €/m²,3 Zimmer,""71,5 m²"",Unknown,https://www.immowelt.de/expose/dffc5428-34c8-4998-82a0-ac7e80e78467";3758
+"Heslach, Stuttgart / Stuttgart-West (70197),4.750.000 € 11.069 €/m²,14 Zimmer,""429,1 m²"",752 m² Grundstück,https://www.immowelt.de/expose/7e58e73b-df8a-42e1-8339-236e309bb81d";3758
+"Rohr, Stuttgart (70565),679.000 € 4.903 €/m²,""5,5 Zimmer"",""138,5 m²"",334 m² Grundstück,https://www.immowelt.de/expose/b79a438a-0d15-4222-9379-b6b1b6876b53";3758
+"Bergheim, Stuttgart (70499),349.000 € 3.857 €/m²,3 Zimmer,""90,5 m²"",2. Geschoss,https://www.immowelt.de/expose/8e62ccb1-7946-4c56-948a-2c2b1fb2764d";3758
+"Ostheim, Stuttgart (70190),469.000 € 3.700 €/m²,""4,5 Zimmer"",""126,7 m²"",2. Geschoss,https://www.immowelt.de/expose/6b33e84f-d1e1-4bc8-b53b-09d841b07241";3758
+Cannstatt - Mitte, Stuttgart (70372),329.000 € 3.964 €/m²,3 Zimmer,83 m²,3. Geschoss,https://www.immowelt.de/expose/2ea49dcb-4cb0-4d44-a83d-713c4c8c1998;3758
+"Untertürkheim, Stuttgart (70327),349.000 € 4.233 €/m²,3 Zimmer,""82,4 m²"",Unknown,https://www.immowelt.de/expose/3b654dda-9a34-4615-aeb9-00382bff4f31";3758
+Bergheim, Stuttgart (70499),335.000 € 3.722 €/m²,3 Zimmer,90 m²,2. Geschoss,https://www.immowelt.de/expose/c060395d-6607-40b5-a122-0ebc7d046f10;3758
+"Lemberg / Föhrich, Stuttgart (70469),774.500 € 7.041 €/m²,""3,5 Zimmer"",110 m²,frei ab 01.02.2025,https://www.immowelt.de/expose/a613250d-b9bc-4859-8a0e-092c1c5b2539";3758
+Feuerbach - Mitte, Stuttgart (70469),990.000 € 4.583 €/m²,9 Zimmer,216 m²,322 m² Grundstück,https://www.immowelt.de/expose/db6536fc-655e-4a80-9e08-fd7679b28ea9;3758
+Obertürkheim, Stuttgart (70329),329.000 € 4.910 €/m²,3 Zimmer,67 m²,3. Geschoss,https://www.immowelt.de/expose/68a35594-4020-4f1a-9ca0-c7d290e5e489;3758
+"Rosental, Stuttgart (70563),1.391.000 € 10.080 €/m²,""5,5 Zimmer"",138 m²,680 m² Grundstück,https://www.immowelt.de/expose/7201e0fb-7ba3-4f0a-a76e-9b00c519038f";3758
+"Dobel, Stuttgart (70182),330.000 € 4.006 €/m²,4 Zimmer,""82,4 m²"",5. Geschoss,https://www.immowelt.de/expose/cf9b3932-8b03-4aa5-a78e-0672a9e57877";3758
+"Kräherwald, Stuttgart Stuttgart-West (70193),349.000 € 4.947 €/m²,3 Zimmer,""70,6 m²"",Unknown,https://www.immowelt.de/expose/18b8c302-7e5b-40c2-8adc-b39a2499ace0";3758
+"Karlshöhe, Stuttgart/Süd (70178),390.000 € 4.550 €/m²,3 Zimmer,""85,7 m²"",4. Geschoss,https://www.immowelt.de/expose/1d985cd2-5961-4002-85d6-2d6ef7cb407c";3758
+Heumaden, Stuttgart (70329),200.000 € 3.125 €/m²,3 Zimmer,64 m²,1. Geschoss,https://www.immowelt.de/expose/e27a08f0-a87e-46a8-a117-58a474aace58;3758
+Schweitzerstr. 39, Sillenbuch, Stuttgart (70619),1.330.000 € 11.176 €/m²,4 Zimmer,119 m²,Unknown,https://www.immowelt.de/expose/a72a2fcf-45e1-4e54-a119-2bab7c94692f;3758
+"Im Geiger, Stuttgart (70374),815.000 € 6.920 €/m²,""3,5 Zimmer"",""117,8 m²"",2. Geschoss,https://www.immowelt.de/expose/78d36aa3-88b0-4db8-ad82-0fe78a5613a9";3758
+"Rohracker, Stuttgart (70329),555.000 € 7.401 €/m²,""3,5 Zimmer"",75 m²,frei ab sofort,https://www.immowelt.de/expose/0be0cffd-9b8c-426f-8b00-64c2d998dc69";3758
+"Rohracker, Stuttgart (70329),570.000 € 7.601 €/m²,""3,5 Zimmer"",75 m²,frei ab sofort,https://www.immowelt.de/expose/37bc51e1-8fee-4c13-9fbf-c6f1c6e83fc7";3758
+"Haigst, Stuttgart / Degerloch (70597),529.000 € 4.853 €/m²,""3,5 Zimmer"",109 m²,EG,https://www.immowelt.de/expose/1146a27f-c28d-44d8-a446-1a24f03fbddc";3758
+Stammheim - Mitte, Stuttgart (70439),349.000 € 4.592 €/m²,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/3e0707ac-4ebf-4a36-88a9-6d56b4b92ffa;3758
+Schwarenbergstr. 188, Gablenberg, Stuttgart (70184),169.000 € 4.333 €/m²,2 Zimmer,39 m²,4. Geschoss,https://www.immowelt.de/expose/fb46d1ed-9fa0-4ff7-989a-b48bccf86c29;3758
+"Asemwald, Stuttgart (70599),250.000 € 3.108 €/m²,""3,5 Zimmer"",""80,4 m²"",18. Geschoss,https://www.immowelt.de/expose/8541c330-fef5-4ecb-a6fa-014f3dfac0aa";3758
+"Kräherwald, Stuttgart (70193),Preis auf Anfrage,""7,5 Zimmer"",442 m²,4. Geschoss,https://www.immowelt.de/expose/8cb91801-f226-412d-95ab-10240bab2b98";3758
+"Kräherwald, Stuttgart (70193),2.950.000 € 12.190 €/m²,""4,5 Zimmer"",242 m²,1. Geschoss,https://www.immowelt.de/expose/c80c1afc-1851-4f58-8e4e-a2a5483aa21c";3758
+"Schweitzerstr. 39, Sillenbuch, Stuttgart (70619),1.330.000 € 10.795 €/m²,5 Zimmer,""123,2 m²"",Unknown,https://www.immowelt.de/expose/05780c7d-721a-4990-858a-cc7ee8f857fe";3758
+"Bergheim, Stuttgart-Weilimdorf (70499),269.000 € 4.094 €/m²,4 Zimmer,""65,7 m²"",Unknown,https://www.immowelt.de/expose/b159556c-611a-4103-90c3-53255e6b5b57";3758
+"Obertürkheim, Stuttgart (70329),399.000 € 3.563 €/m²,""4,5 Zimmer"",112 m²,5. Geschoss,https://www.immowelt.de/expose/fb5892c0-c64b-4292-83b8-22857fd5ebb0";3758
+Schweitzerstr. 39, Sillenbuch, Stuttgart (70619),790.000 € 11.286 €/m²,3 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/044e4730-9f1f-4b8b-bf43-75a5a9f36420;3758
+Wolfbusch, Stuttgart (70499),259.000 € 4.544 €/m²,3 Zimmer,57 m²,Unknown,https://www.immowelt.de/expose/a1206367-512e-44d4-b0ec-b9496be0ed81;3758
+Heusteigviertel, Stuttgart (70182),540.000 € 4.060 €/m²,5 Zimmer,133 m²,Unknown,https://www.immowelt.de/expose/cee2c71f-ee02-43ee-9481-684917733376;3758
+Birkach - Süd, Stuttgart (70599),173.000 € 3.844 €/m²,2 Zimmer,45 m²,EG,https://www.immowelt.de/expose/4f8a60a3-e43c-4537-9e7c-4a950d7e18f1;3758
+Gaisburg, Stuttgart (70186),1.002.000 € 3.976 €/m²,8 Zimmer,252 m²,252 m² Grundstück,https://www.immowelt.de/expose/e0b78f11-a5f0-40b0-83b0-14944aecdffb;3758
+Sillenbuch, Stuttgart (70619),1.030.000 € 7.803 €/m²,7 Zimmer,132 m²,414 m² Grundstück,https://www.immowelt.de/expose/00283989-906c-4735-bb39-d8a26161c59a;3758
+Wangen, Stuttgart (70327),670.000 € 2.638 €/m²,11 Zimmer,254 m²,354 m² Grundstück,https://www.immowelt.de/expose/78804817-471c-4bbe-964f-5de5c5e8eca8;3758
+Vaihingen - Mitte, Stuttgart (70563),1.850.000 € 3.426 €/m²,540 m²,631 m² Grundstück,Unknown,https://www.immowelt.de/expose/b4c7fc23-3ab8-4e9b-9500-f264ee7650c4;3758
+Gaisburg, Stuttgart (70186),1.002.000 € 3.976 €/m²,252 m²,Unknown,Unknown,https://www.immowelt.de/expose/7d5c0e6b-a9d1-4bd5-919d-67620fdb370c;3758
+Kernerviertel, Stuttgart (70190),699.000 € 6.078 €/m²,5 Zimmer,115 m²,90 m² Grundstück,https://www.immowelt.de/expose/61afe8ee-36c4-433c-afd5-ae9e94f602d7;3758
+Hohe Warte, Stuttgart (70469),399.000 € 3.800 €/m²,4 Zimmer,105 m²,1. Geschoss,https://www.immowelt.de/expose/0e084bb1-4d5a-4f1f-995e-92e8de157adc;3758
+"Heslach, Stuttgart (70199),349.000 € 3.561 €/m²,5 Zimmer,""98,2 m²"",1. Geschoss,https://www.immowelt.de/expose/0a52b0ee-1b29-4746-9366-62ae6b7a461c";3758
+Österfeld, Stuttgart (70563),210.000 € 4.038 €/m²,2 Zimmer,52 m²,Unknown,https://www.immowelt.de/expose/9375d5bb-44b5-475c-bc63-c87c41079db1;3758
+"Steckfeld, Stuttgart/Plieningen (70599),395.000 € 4.505 €/m²,4 Zimmer,""84,8 m²"",2. Geschoss,https://www.immowelt.de/expose/17d86200-a48f-4a04-bbbc-8199d7d8a082";3758
+Hasenberg, Stuttgart-West (70197),799.000 € 3.073 €/m²,8 Zimmer,260 m²,293 m² Grundstück,https://www.immowelt.de/expose/cea4338c-b959-4518-a275-cf71c4b95d5c;3758
+Espan, Stuttgart (70374),1.340.000 € 4.309 €/m²,12 Zimmer,311 m²,588 m² Grundstück,https://www.immowelt.de/expose/a2d3cce5-b45f-4cf5-a884-dfcf0c3a3028;3758
+"Sillenbuch, Stuttgart (70619),299.000 € 3.160 €/m²,4 Zimmer,""94,6 m²"",1. Geschoss,https://www.immowelt.de/expose/1ae21d8b-183a-4712-963e-62ea1b46b8e0";3758
+Gaisburg, Stuttgart (70186),1.002.000 € 4.960 €/m²,202 m²,252 m² Grundstück,Unknown,https://www.immowelt.de/expose/7c046b25-fd6d-4b7f-b7a0-ae1ea8b47faf;3758
+Feuersee, Stuttgart (70176),830.000 € 6.385 €/m²,4 Zimmer,130 m²,EG,https://www.immowelt.de/expose/4bd313eb-30d0-4d2b-9331-6063f676c53d;3758
+Stammheim - Süd, Stuttgart (70439),590.000 € 4.470 €/m²,6 Zimmer,132 m²,143 m² Grundstück,https://www.immowelt.de/expose/c9b10bf0-d366-4b33-9e3e-febc28a4df76;3758
+"Heumaden, Stuttgart (70619),2.450.000 € 6.649 €/m²,11 Zimmer,""368,5 m²"",538 m² Grundstück,https://www.immowelt.de/expose/8ff16096-cd32-43ab-a7d4-0b30d0417c0c";3758
+Im Geiger, Stuttgart (70188),Preis auf Anfrage,7 Zimmer,168 m²,324 m² Grundstück,https://www.immowelt.de/expose/cb38521b-d044-4f78-84fa-6f353de58a54;3758
+Unknown,Unknown,5 Zimmer,180 m²,327 m² Grundstück,https://www.immowelt.de/projekte/expose/k2cp832;3758
+Unknown,Unknown,7 Zimmer,200 m²,340 m² Grundstück,https://www.immowelt.de/projekte/expose/k2kc432;3758
+Grefstr. 19 A, Weilimdorf, Stuttgart (70499),1.635.000 € 7.640 €/m²,7 Zimmer,214 m²,1.146 m² Grundstück,https://www.immowelt.de/projekte/expose/k2cp832;3758
+Gaisburg, Stuttgart (70188),549.000 € 3.453 €/m²,6 Zimmer,159 m²,130 m² Grundstück,https://www.immowelt.de/expose/149e31f2-7b2d-4386-8f05-1369d7afd6ba;3758
+Weinsteige, Stuttgart-Süd (70180),549.000 € 5.382 €/m²,3 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/af9eeac5-b3be-4227-baff-d7954c6ccbae;3758
+Sillenbuch, Stuttgart (70619),1.030.000 € 14.306 €/m²,72 m²,Unknown,Unknown,https://www.immowelt.de/expose/89682f30-ebe9-432c-9ae2-d013f3bd5e19;3758
+Lehen, Stuttgart (70180),890.000 € 7.946 €/m²,4 Zimmer,112 m²,1. Geschoss,https://www.immowelt.de/expose/914a5e33-d183-423d-a8de-fae1efc8164b;3758
+Dachswald, Stuttgart (70569),1.299.000 € 6.156 €/m²,7 Zimmer,211 m²,540 m² Grundstück,https://www.immowelt.de/expose/0b878661-3d58-4eb0-bd13-ef7cbc683839;3758
+Sillenbuch, Stuttgart (70619),1.030.000 € 7.803 €/m²,132 m²,414 m² Grundstück,Unknown,https://www.immowelt.de/expose/6bc08514-ddd3-4943-85f6-b93ab5fa466a;3758
+Münster, Stuttgart (70376),225.000 € 3.214 €/m²,3 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/7ff6aa67-75cd-4034-bd2b-160a1b2d295d;3758
+Gaisburg, Stuttgart (70190),275.000 € 5.000 €/m²,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/fccf52b7-61d7-4bad-837b-870053de8c83;3758
+Gaisburg, Stuttgart (70190),400.000 € 5.128 €/m²,3 Zimmer,78 m²,6. Geschoss,https://www.immowelt.de/expose/8f1b3b37-636d-45ef-ba84-2c6f58250525;3758
+"Stöckach, Stuttgart (70190),400.000 € 5.188 €/m²,3 Zimmer,""77,1 m²"",3. Geschoss,https://www.immowelt.de/expose/13ac94c5-497c-457d-9539-655f8203d5a3";3758
+"Stöckach, Stuttgart (70190),400.000 € 4.587 €/m²,3 Zimmer,""87,2 m²"",Unknown,https://www.immowelt.de/expose/8a52d47b-9400-49f9-a45e-69683ed80507";3758
+"Dachswald, Stuttgart (70569),1.385.925 € 7.875 €/m²,""5,5 Zimmer"",176 m²,297 m² Grundstück,https://www.immowelt.de/expose/7f337f17-ccbb-4113-8ef6-98892c3d0165";3758
+Neugereut, Stuttgart (70378),220.000 € 3.929 €/m²,2 Zimmer,56 m²,8. Geschoss,https://www.immowelt.de/expose/167f4117-0090-413a-88f5-c6a5428db6b5;3758
+Kaltental, Stuttgart (70569),549.000 € 5.545 €/m²,4 Zimmer,99 m²,EG,https://www.immowelt.de/expose/2a0fd960-6ee1-4490-864e-45b53ab577d1;3758
+Scharnhäuserstraße 9, Plieningen, Plieningen (70599),395.000 € 2.616 €/m²,7 Zimmer,151 m²,240 m² Grundstück,https://www.immowelt.de/expose/31fd1bed-71d0-47dd-9bdb-bc2b14b4d2d6;3758
+Giebel, Stuttgart-Weilimdorf (70499),340.000 € 3.542 €/m²,96 m²,Unknown,Unknown,https://www.immowelt.de/expose/1cc19520-a06c-4c81-8e2d-f750714c8164;3758
+Kurpark, Stuttgart (70372),249.500 € 3.465 €/m²,3 Zimmer,72 m²,3. Geschoss,https://www.immowelt.de/expose/1cc9319d-e273-4fbe-b387-2ead97098822;3758
+"Neugereut, Stuttgart / Neugereut (70378),340.000 € 3.441 €/m²,""4,5 Zimmer"",""98,8 m²"",Unknown,https://www.immowelt.de/expose/d1113641-926b-475c-b688-f773a6897c3f";3758
+"Rohracker, Stuttgart (70329),645.000 € 7.281 €/m²,3 Zimmer,""88,6 m²"",frei ab sofort,https://www.immowelt.de/expose/7ec57d1d-1bb2-4ae7-8258-bc0a24eb5fe4";3758
+"Heerstraße, Stuttgart (70563),300.000 € 4.317 €/m²,3 Zimmer,""69,5 m²"",Unknown,https://www.immowelt.de/expose/e810730d-897e-4b56-8ba8-2904c6862283";3758
+Giebel, Stuttgart (70499),340.000 € 3.542 €/m²,3 Zimmer,96 m²,Unknown,https://www.immowelt.de/expose/a49512a5-03e9-45c4-8854-a7f6ccb5ccff;3758
+Sillenbuch, Stuttgart (70619),1.390.000 € 6.150 €/m²,9 Zimmer,226 m²,735 m² Grundstück,https://www.immowelt.de/expose/457697ec-ebe4-485c-82d5-00c5c271e060;3758
+"Vaihingen - Mitte, Stuttgart (70563),2.190.000 € 5.198 €/m²,14 Zimmer,""421,3 m²"",444 m² Grundstück,https://www.immowelt.de/expose/877a69f9-177e-4af6-b27c-dd856668178b";3758
+Giebel, Stuttgart (70499),340.000 € 3.542 €/m²,3 Zimmer,96 m²,Unknown,https://www.immowelt.de/expose/39fca52e-7609-4fa1-9c37-8a7cdbe7c01a;3758
+"Botnang - Süd, Stuttgart (70195),1.450.000 € 7.108 €/m²,9 Zimmer,204 m²,""1.033,2 m² Grundstück"",https://www.immowelt.de/expose/a2599532-16dd-44bb-b776-71041633ae3e";3758
+"Obertürkheim, Stuttgart (70329),295.000 € 3.352 €/m²,""3,5 Zimmer"",88 m²,Unknown,https://www.immowelt.de/expose/089f4a0c-5321-457d-b3eb-ff1814b255b1";3758
+Gablenberg, Stuttgart (70186),270.000 € 3.750 €/m²,3 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/ff9695a6-1ce4-49e1-9e6e-fa0b6c61801a;3758
+Rot, Stuttgart (70437),255.000 € 3.355 €/m²,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/6aad06f9-0e53-47ee-a529-ca33f072d609;3758
+"Botnang - Süd, Stuttgart (70195),1.450.000 € 7.108 €/m²,9 Zimmer,""204,2 m²"",""1.033,2 m² Grundstück"",https://www.immowelt.de/expose/da13d0d2-b0a6-40fe-9df7-2537a5e3cc26";3758
+Plieningen, Plieningen (70599),1.033.000 € 7.174 €/m²,6 Zimmer,144 m²,675 m² Grundstück,https://www.immowelt.de/expose/155509a5-2303-4e59-85d0-77d4c1763fa0;3758
+Plieningen, Plieningen (70599),1.051.000 € 5.005 €/m²,6 Zimmer,210 m²,675 m² Grundstück,https://www.immowelt.de/expose/ef8044b4-2228-4765-a906-d2b49c8a3055;3758
+Plieningen, Plieningen (70599),1.207.000 € 4.988 €/m²,12 Zimmer,242 m²,675 m² Grundstück,https://www.immowelt.de/expose/856afbd5-677f-425f-a613-e1b8fc03732e;3758
+"Heumaden, Stuttgart / Heumaden (70619),139.000 € 4.139 €/m²,2 Zimmer,""33,6 m²"",Unknown,https://www.immowelt.de/expose/268aea57-4af6-4d33-909d-40baa2ebf7bc";3758
+Wangen, Stuttgart (70327),229.000 € 3.271 €/m²,3 Zimmer,70 m²,2. Geschoss,https://www.immowelt.de/expose/7c85f0b5-8a63-47b5-9812-c289ddd53e0f;3758
+Kernerviertel, Stuttgart (70190),380.000 € 5.067 €/m²,3 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/f9e80504-6a91-4dbb-9dc6-d58fc925ebdb;3758
+Möhringen - Süd, Stuttgart (70567),179.000 € 5.424 €/m²,1 Zimmer,33 m²,Unknown,https://www.immowelt.de/expose/a906291d-3288-4d8e-b826-91d4baf137b4;3758
+Heusteigviertel, Stuttgart (70180),499.000 € 4.057 €/m²,5 Zimmer,123 m²,Unknown,https://www.immowelt.de/expose/4f288d19-cff7-453f-ad7f-b5ab96f07222;3758
+Freiberg, Stuttgart (70437),499.000 € 4.124 €/m²,4 Zimmer,121 m²,frei ab sofort,https://www.immowelt.de/expose/f3b11ea4-69a8-4e8c-8418-341cd6946a10;3758
+"Sillenbuch, Stuttgart (70619),395.000 € 6.270 €/m²,""2,5 Zimmer"",63 m²,3. Geschoss,https://www.immowelt.de/expose/2aca2fcf-5f3f-49b9-bc3e-e0646f08070a";3758
+Hedelfingen, Stuttgart (70329),750.000 € 3.125 €/m²,11 Zimmer,240 m²,580 m² Grundstück,https://www.immowelt.de/expose/981e26a2-b1b5-4275-b903-2976075083ae;3758
+"Lemberg / Föhrich, Stuttgart/ Feuerbach (70469),349.000 € 4.811 €/m²,3 Zimmer,""72,5 m²"",Unknown,https://www.immowelt.de/expose/583e2d82-236f-4878-871c-54cedbd17615";3758
+Rot, Stuttgart (70437),249.000 € 3.831 €/m²,3 Zimmer,65 m²,EG,https://www.immowelt.de/expose/d7bb2a91-3402-487a-8e67-ea50066c75a8;3758
+"Freiberg, Stuttgart (70437),289.000 € 3.341 €/m²,4 Zimmer,""86,5 m²"",Unknown,https://www.immowelt.de/expose/e463f9ee-7bdc-47f8-9e6a-9b64b86cbcec";3758
+Espan, Stuttgart Bad Cannstatt (70374),429.000 € 4.290 €/m²,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/5bd49179-50e7-42fd-9841-5ae3779f3d44;3758
+Rot, Stuttgart (70437),115.000 € 3.194 €/m²,1 Zimmer,36 m²,Unknown,https://www.immowelt.de/expose/14c35ecd-f871-473d-873c-10837a532629;3758
+"Hohe Warte, Stuttgart (70469),230.000 € 4.178 €/m²,3 Zimmer,""55,1 m²"",3. Geschoss,https://www.immowelt.de/expose/c84dc35b-a2ba-4840-acb1-3ed9f1b17e82";3758
+"Obertürkheim, Stuttgart (70329),490.000 € 4.849 €/m²,""4,5 Zimmer"",""101,1 m²"",2. Geschoss,https://www.immowelt.de/expose/99c7ceb6-ef67-416c-836a-355bed8ee072";3758
+Hoffeld, Stuttgart (70597),184.000 € 4.089 €/m²,1 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/8030f044-89b2-4b8b-9805-47b7fe66cc3e;3758
+Stöckach, Stuttgart (70190),4.500.000 € 4.934 €/m²,36 Zimmer,912 m²,302 m² Grundstück,https://www.immowelt.de/expose/c83337e9-29f0-4e9a-9230-0127033d0e00;3758
+Kräherwald, Stuttgart (70193),699.000 € 6.472 €/m²,4 Zimmer,108 m²,398 m² Grundstück,https://www.immowelt.de/expose/bfd4b9b9-c775-40c6-831c-288a44ef971e;3758
+"Degerloch, Stuttgart (70597),156.000 € 5.512 €/m²,""1,5 Zimmer"",""28,3 m²"",1. Geschoss,https://www.immowelt.de/expose/d2eeb67e-c7b0-471c-ba5b-296d4fcaec3d";3758
+Lindenschulviertel, Stuttgart (70327),115.000 € 4.259 €/m²,1 Zimmer,27 m²,3. Geschoss,https://www.immowelt.de/expose/b0deceee-7837-4f4e-9867-651cc374d8e2;3758
+Relenberg, Stuttgart (70174),425.000 € 4.885 €/m²,3 Zimmer,87 m²,1. Geschoss,https://www.immowelt.de/expose/26d45bcf-5420-4935-be6c-b63e52c3778a;3758
+Hofen, Stuttgart (70378),345.000 € 3.520 €/m²,3 Zimmer,98 m²,2. Geschoss,https://www.immowelt.de/expose/3df98836-6b75-48e4-89ea-4a5f5b811b46;3758
+"Asemwald, Stuttgart (70599),239.000 € 2.972 €/m²,""3,5 Zimmer"",""80,4 m²"",7. Geschoss,https://www.immowelt.de/expose/da945747-f155-4f4c-93d5-127aac95db0f";3758
+"Asemwald, Stuttgart (70599),265.000 € 3.295 €/m²,""3,5 Zimmer"",""80,4 m²"",19. Geschoss,https://www.immowelt.de/expose/e445fff3-0692-44f8-b393-4a042356e154";3758
+Feuerbacher Tal, Stuttgart (70469),750.000 € 4.098 €/m²,8 Zimmer,183 m²,140 m² Grundstück,https://www.immowelt.de/expose/73335b0c-ab5f-4338-823e-799d4dca4cc1;3758
+Schmidener Vorstadt, Stuttgart (70374),799.000 € 3.261 €/m²,8 Zimmer,245 m²,119 m² Grundstück,https://www.immowelt.de/expose/ae471509-61ed-426a-ba05-31593541cc0e;3758
+"Rosenberg, Stuttgart (70176),450.000 € 5.294 €/m²,""3,5 Zimmer"",85 m²,1. Geschoss,https://www.immowelt.de/expose/4fe2d403-666f-4b42-a336-a72f5810ddf5";3758
+Altenburg, Stuttgart (70376),450.000 € 4.545 €/m²,4 Zimmer,99 m²,209 m² Grundstück,https://www.immowelt.de/expose/761dbc4d-2388-41ed-8746-c23defa327ab;3758
+"Möhringen - Ost, Stuttgart-Möhringen (70567),399.000 € 4.290 €/m²,""4,5 Zimmer"",93 m²,2. Geschoss,https://www.immowelt.de/expose/aaad32d5-0138-431d-ba9e-d20c1c489eda";3758
+"Kernerviertel, Stuttgart (70182),689.000 € 5.858 €/m²,""4,5 Zimmer"",""117,6 m²"",3. Geschoss,https://www.immowelt.de/expose/cae3a82c-ad5d-4b9e-99c7-6288bfa8b8c6";3758
+Birkenäcker, Stuttgart (70376),295.000 € 4.403 €/m²,2 Zimmer,67 m²,1. Geschoss,https://www.immowelt.de/expose/aa5f7ca6-b2d4-4eb1-ba07-eeb91cf82267;3758
+Heumaden, Stuttgart (70619),680.000 € 6.800 €/m²,3 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/e0bef431-d813-4021-8ff5-8d1f810cb5a8;3758
+Heumaden, Stuttgart (70619),1.650.000 € 3.235 €/m²,21 Zimmer,510 m²,735 m² Grundstück,https://www.immowelt.de/expose/4e0dfd3d-4cee-4ef1-8584-d7263cba7a38;3758
+Lemberg / Föhrich, Stuttgart (70469),795.000 € 5.761 €/m²,5 Zimmer,138 m²,206 m² Grundstück,https://www.immowelt.de/expose/ae3003d1-f226-418d-8d88-b84e754dbe47;3758
+Feuerbach - Mitte, Stuttgart (70469),579.900 € 8.786 €/m²,3 Zimmer,66 m²,2. Geschoss,https://www.immowelt.de/expose/bff6da98-4d4c-4b66-993c-f1be1e8eeed3;3758
+Wangen, Stuttgart (70327),749.000 € 4.071 €/m²,10 Zimmer,184 m²,613 m² Grundstück,https://www.immowelt.de/expose/91c7a943-ba3d-448a-8e1b-0b60dbb1ac4d;3758
+"Heusteigstraße 76, Lehen, Stuttgart (70180),399.000 € 5.165 €/m²,3 Zimmer,""77,3 m²"",5. Geschoss,https://www.immowelt.de/expose/55ced291-08bf-4957-91b7-15e3fb704597";3758
+Hallschlag, Stuttgart (70376),249.000 € 4.788 €/m²,3 Zimmer,52 m²,3. Geschoss,https://www.immowelt.de/expose/63aa2308-eb54-473b-a81e-e014a471c9e1;3758
+Feuerbach - Mitte, Stuttgart (70469),338.900 € 9.683 €/m²,2 Zimmer,35 m²,2. Geschoss,https://www.immowelt.de/expose/0f43d3a0-d1f5-4b74-a5d1-577c737a6599;3758
+Münster, Stuttgart (70376),145.000 € 4.391 €/m²,1 Zimmer,33 m²,Unknown,https://www.immowelt.de/expose/c9a4d325-1bd9-44cc-9a84-839f365f60f7;3758
+Kaltental, Stuttgart (70569),495.000 € 4.806 €/m²,4 Zimmer,103 m²,1. Geschoss,https://www.immowelt.de/expose/34ff92a8-c8e9-413c-9f1c-9bca932be042;3758
+Rohr, Stuttgart / Dürrlewang (70565),1.200.000 € 5.405 €/m²,10 Zimmer,222 m²,732 m² Grundstück,https://www.immowelt.de/expose/3bc209c0-594c-4ac8-8328-f52389e38419;3758
+"Zazenhausen, Stuttgart (70437),679.000 € 2.990 €/m²,9 Zimmer,""227,1 m²"",408 m² Grundstück,https://www.immowelt.de/expose/599a8533-382b-49db-9a86-306c64134bc0";3758
+Seelberg, Stuttgart / Bad Cannstatt (70372),499.000 € 5.198 €/m²,4 Zimmer,96 m²,Unknown,https://www.immowelt.de/expose/8db7fcaa-3c10-4293-9f2c-a2a96c07ef1a;3758
+Plieningen, Stuttgart (70599),359.000 € 4.325 €/m²,4 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/748e406e-95df-40a9-913d-729e63b77d36;3758
+"Lehen, Stuttgart (70180),339.965 € 4.598 €/m²,3 Zimmer,""73,9 m²"",Unknown,https://www.immowelt.de/expose/554a834b-3c02-4387-bc8f-00aea2522b99";3758
+"Kräherwald, Stuttgart (70193),295.000 € 4.741 €/m²,""2,5 Zimmer"",""62,2 m²"",1. Geschoss,https://www.immowelt.de/expose/51e97cff-f28d-47b8-a39f-8ebd17e75ec7";3758
+Sillenbuch, Stuttgart (70619),679.000 € 3.651 €/m²,10 Zimmer,186 m²,235 m² Grundstück,https://www.immowelt.de/expose/e72a32f7-5acc-4351-926e-88a30f6fa7c5;3758
+Zuffenhausen - Mönchsberg, Stuttgart (70435),504.800 € 6.556 €/m²,3 Zimmer,77 m²,EG,https://www.immowelt.de/expose/7c32c777-4cac-4a38-847d-cda92f59f3bf;3758
+"Bahnhof Feuerbach, Stuttgart (70469),1.449.000 € 11.192 €/m²,5 Zimmer,""129,5 m²"",Unknown,https://www.immowelt.de/expose/baf4692a-b125-4d12-a875-4c90d92c7d10";3758
+Seelberg, Stuttgart (70372),599.000 € 4.309 €/m²,7 Zimmer,139 m²,4. Geschoss,https://www.immowelt.de/expose/100409cd-8085-42d3-a8c0-96195b340a3a;3758
+Vaihingen - Mitte, Stuttgart (70563),649.000 € 5.500 €/m²,4 Zimmer,118 m²,2. Geschoss,https://www.immowelt.de/expose/1616f82e-afe4-4b5e-b9d6-e75add8c7dd4;3758
+"Neuwirtshaus, Stuttgart (70439),540.000 € 3.452 €/m²,4 Zimmer,""133,3 m²"",370 m² Grundstück,https://www.immowelt.de/expose/e3676b5d-6b03-4444-93bc-978c03f6b3ab";3758
+"Friedhofstraße 4, Am Pragfriedhof, Stuttgart (70191),354.000 € 7.511 €/m²,2 Zimmer,""47,1 m²"",EG,https://www.immowelt.de/expose/bfb1dbe2-ea95-4f96-aa38-a56718e7ec33";3758
+Friedhofstraße 4, Am Pragfriedhof, Stuttgart (70191),425.000 € 8.509 €/m²,2 Zimmer,50 m²,5. Geschoss,https://www.immowelt.de/expose/d794ce38-602d-454c-80b7-29f397ba6081;3758
+"Friedhofstraße 4, Am Pragfriedhof, Stuttgart (70191),745.000 € 7.865 €/m²,4 Zimmer,""94,7 m²"",3. Geschoss,https://www.immowelt.de/expose/fc1f8320-984f-4fcd-89d0-4d820b30ced3";3758
+"Friedhofstraße 4, Am Pragfriedhof, Stuttgart (70191),715.000 € 7.911 €/m²,4 Zimmer,""90,4 m²"",3. Geschoss,https://www.immowelt.de/expose/e8430226-0e6f-4d6f-9b00-3704797d54ef";3758
+"Friedhofstraße 4, Am Pragfriedhof, Stuttgart (70191),725.000 € 7.654 €/m²,4 Zimmer,""94,7 m²"",2. Geschoss,https://www.immowelt.de/expose/bf333e29-b8dc-4804-ae2d-388fd5130fdf";3758
+Friedhofstraße 12, Am Pragfriedhof, Stuttgart (70191),448.000 € 7.857 €/m²,2 Zimmer,57 m²,4. Geschoss,https://www.immowelt.de/expose/e20681dd-2976-47b3-8041-d2e615f2e7f5;3758
+"Friedhofstraße 12, Am Pragfriedhof, Stuttgart (70191),565.000 € 7.873 €/m²,3 Zimmer,""71,8 m²"",3. Geschoss,https://www.immowelt.de/expose/ccb298e1-ca92-46be-be4f-14993ee06f96";3758
+"Friedhofstraße 12, Am Pragfriedhof, Stuttgart (70191),749.000 € 7.980 €/m²,4 Zimmer,""93,9 m²"",2. Geschoss,https://www.immowelt.de/expose/f1ee8d02-b3e1-4ecb-916d-b3f89351aa67";3758
+"Friedhofstraße 14, Am Pragfriedhof, Stuttgart (70191),694.000 € 7.993 €/m²,4 Zimmer,""86,8 m²"",2. Geschoss,https://www.immowelt.de/expose/ebbc51a1-ae7f-4abc-9c6c-3fdf56de7481";3758
+"Friedhofstraße 14, Am Pragfriedhof, Stuttgart (70191),595.000 € 7.783 €/m²,3 Zimmer,""76,5 m²"",EG,https://www.immowelt.de/expose/8b80a6e7-8a60-4ef2-8c30-7f35f2866722";3758
+"Friedhofstraße 16, Am Pragfriedhof, Stuttgart (70191),745.000 € 8.323 €/m²,4 Zimmer,""89,5 m²"",4. Geschoss,https://www.immowelt.de/expose/e2ade8df-1fc8-460a-b589-c91a429a9022";3758
+"Friedhofstraße 16, Am Pragfriedhof, Stuttgart (70191),575.000 € 8.045 €/m²,3 Zimmer,""71,5 m²"",3. Geschoss,https://www.immowelt.de/expose/a44b1f04-be33-4d40-a201-fec328855843";3758
+"Friedhofstraße 16, Am Pragfriedhof, Stuttgart (70191),370.000 € 7.439 €/m²,2 Zimmer,""49,7 m²"",1. Geschoss,https://www.immowelt.de/expose/aceb8735-4224-4720-ad5b-650b81d7f106";3758
+Sillenbuch, Stuttgart (70619),1.230.000 € 11.182 €/m²,4 Zimmer,110 m²,1. Geschoss,https://www.immowelt.de/expose/9f6ee869-074e-49cc-9274-de0ae1954a8e;3758
+Rohr, Stuttgart (70565),245.000 € 3.828 €/m²,3 Zimmer,64 m²,Unknown,https://www.immowelt.de/expose/67583fea-2dbc-4058-aded-636ee0cd4afd;3758
+Wangen, Stuttgart (70327),995.000 € 3.317 €/m²,9 Zimmer,300 m²,581 m² Grundstück,https://www.immowelt.de/expose/89472ae1-53cd-44bb-a7da-c47ebba5f64e;3758
+"Vaihingen - Mitte, Stuttgart (70563),240.000 € 4.138 €/m²,""2,5 Zimmer"",58 m²,Unknown,https://www.immowelt.de/expose/d79c0d83-0a29-4244-b9fe-b4feecc0b238";3758
+Gehrenwald, Stuttgart / Wangen (70327),385.000 € 4.053 €/m²,4 Zimmer,95 m²,Unknown,https://www.immowelt.de/expose/82085c64-d480-4d68-a0b8-f44087e84264;3758
+"Möhringen - Ost, Stuttgart (70567),349.000 € 4.750 €/m²,3 Zimmer,""73,5 m²"",2. Geschoss,https://www.immowelt.de/expose/84805a79-ff74-4955-b087-2a81a4b5cf36";3758
+Plieningen, Stuttgart (70599),1.100.000 € 7.333 €/m²,5 Zimmer,150 m²,944 m² Grundstück,https://www.immowelt.de/expose/7025d60f-6c3b-4c34-b668-81eb90a4cb28;3758
+"Bönnigheimer Straße 32, Zuffenhausen - Mitte, Stuttgart (70435),699.900 € 6.340 €/m²,4 Zimmer,""110,4 m²"",4. Geschoss,https://www.immowelt.de/expose/abc0e11b-0392-4971-b189-368bbf0d5f3b";3758
+"Lauffener Straße 34, Zuffenhausen - Mitte, Stuttgart (70435),589.900 € 6.357 €/m²,4 Zimmer,""92,8 m²"",EG,https://www.immowelt.de/expose/0d34376f-ce05-44a6-a200-59731cfea31e";3758
+"Lauffener Straße 34, Zuffenhausen - Mitte, Stuttgart (70435),619.900 € 6.694 €/m²,4 Zimmer,""92,6 m²"",3. Geschoss,https://www.immowelt.de/expose/f69468c8-11ad-4c62-9ff1-637d5b51c605";3758
+"Bönnigheimer Straße 32, Zuffenhausen - Mitte, Stuttgart (70435),485.500 € 6.273 €/m²,3 Zimmer,""77,4 m²"",EG,https://www.immowelt.de/expose/94399e4c-35b1-497b-bdde-749551fd7ac5";3758
+"Lauffener Straße 34, Zuffenhausen - Mitte, Stuttgart (70435),579.900 € 6.920 €/m²,3 Zimmer,""83,8 m²"",2. Geschoss,https://www.immowelt.de/expose/8c5b80a6-b01e-4141-a6a7-e057ae471dd2";3758
+Feuersee, Stuttgart (70178),790.000 € 4.907 €/m²,6 Zimmer,161 m²,3. Geschoss,https://www.immowelt.de/expose/504cf759-2c7e-48de-bbcc-f62f97726304;3758
+Heumaden, Stuttgart (70619),580.000 € 5.631 €/m²,103 m²,Unknown,Unknown,https://www.immowelt.de/expose/714880d2-d7af-48f9-b94f-776af74ba957;3758
+"Schmidener Vorstadt, Stuttgart (70374),850.000 € 2.764 €/m²,3 Zimmer,""307,6 m²"",371 m² Grundstück,https://www.immowelt.de/expose/27d0654e-41c2-4900-becb-2eaedb29dc17";3758
+Heumaden, Stuttgart (70619),606.000 € 5.884 €/m²,4 Zimmer,103 m²,Unknown,https://www.immowelt.de/expose/0ca9c884-f6ef-4d4d-a7f4-24ee84541c39;3758
+"Stammheim - Mitte, Stuttgart (70439),1.361.900 € 5.624 €/m²,6 Zimmer,""242,2 m²"",650 m² Grundstück,https://www.immowelt.de/expose/3818eaae-bacf-4893-86ae-5bdbb6510c95";3758
+Heumaden, Stuttgart (70619),606.000 € 5.884 €/m²,4 Zimmer,103 m²,Unknown,https://www.immowelt.de/expose/705f3aeb-4f27-44c4-af2f-038b4d02d9b3;3758
+Stammheim - Mitte, Stuttgart (70439),209.000 € 3.667 €/m²,2 Zimmer,60 m²,EG,https://www.immowelt.de/expose/ebdc0118-f6d1-464b-9348-b87d8d8c41ac;3758
+Benzviertel, Stuttgart (70327),279.000 € 3.488 €/m²,3 Zimmer,80 m²,2. Geschoss,https://www.immowelt.de/expose/b0902ebd-608d-466c-944a-8915b9b4db74;3758
+"Dachswald, Stuttgart (70569),597.000 € 4.592 €/m²,""3,5 Zimmer"",130 m²,Unknown,https://www.immowelt.de/expose/6b631945-b50d-43e3-8083-f5de732915a9";3758
+Schmidener Vorstadt, Stuttgart (70374),319.000 € 3.988 €/m²,3 Zimmer,80 m²,2. Geschoss,https://www.immowelt.de/expose/7b466477-5d5a-48e8-8ff2-d1502bed7867;3758
+Neckarvorstadt, Stuttgart (70376),290.000 € 3.973 €/m²,3 Zimmer,73 m²,1. Geschoss,https://www.immowelt.de/expose/131baaf0-205f-41bf-9a3c-17e0451f0768;3758
+Gablenberg, Stuttgart (70184),385.000 € 4.529 €/m²,4 Zimmer,85 m²,frei ab sofort,https://www.immowelt.de/expose/2614b858-b55e-431f-a8ba-7404bb5e27a7;3758
+Bopser, Stuttgart Stuttgart-Mitte (70180),998.000 € 5.607 €/m²,6 Zimmer,178 m²,516 m² Grundstück,https://www.immowelt.de/expose/8cc1f3ed-e593-4df1-b0e4-5e9040513a32;3758
+Zuffenhausen - Hohenstein, Stuttgart / Zuffenhausen (70435),1.550.000 € 4.697 €/m²,18 Zimmer,330 m²,311 m² Grundstück,https://www.immowelt.de/expose/85fbf40d-2185-4d5b-a8ab-db65b4e65d53;3758
+Zuffenhausen - Hohenstein, Stuttgart / Zuffenhausen (70435),1.550.000 € 4.697 €/m²,18 Zimmer,330 m²,311 m² Grundstück,https://www.immowelt.de/expose/c35f02bc-0c46-4bea-a4d4-43d5e72cde0d;3758
+Neuwirtshaus, Stuttgart Neuwirtshaus (70439),2.400.000 € 13.873 €/m²,21 Zimmer,173 m²,533 m² Grundstück,https://www.immowelt.de/expose/80bbda67-1a86-43e2-aed4-4a3c654312b4;3758
+Riedenberg, Stuttgart (70619),295.000 € 3.831 €/m²,3 Zimmer,77 m²,4. Geschoss,https://www.immowelt.de/expose/ee4a4e33-64ee-44f9-b515-c7e45b23c83e;3758
+Rohracker, Stuttgart (70329),199.000 € 3.685 €/m²,3 Zimmer,54 m²,2. Geschoss,https://www.immowelt.de/expose/909b3430-2388-47a3-a215-a2c2fe713f41;3758
+Freiberg, Stuttgart (70437),690.000 € 4.233 €/m²,5 Zimmer,163 m²,703 m² Grundstück,https://www.immowelt.de/expose/56ca58a2-ba8c-416f-99f5-8cb95650e5f3;3758
+Heslach, Stuttgart (70199),3.850.000 € 5.687 €/m²,28 Zimmer,677 m²,260 m² Grundstück,https://www.immowelt.de/expose/e6d8d556-f0d3-40d4-b26c-2265d3f01e54;3758
+Rosental, Stuttgart / Vaihingen (70563),1.682.687 € 8.248 €/m²,7 Zimmer,204 m²,461 m² Grundstück,https://www.immowelt.de/expose/4111beec-9133-4eb6-a5bc-f1ec3157c8b1;3758
+Heslach, Stuttgart (70199),3.850.000 € 5.687 €/m²,28 Zimmer,677 m²,260 m² Grundstück,https://www.immowelt.de/expose/c1e22cf3-1524-4b77-ad1a-dce8908faf89;3758
+Birkach - Süd, Stuttgart (70599),185.000 € 4.205 €/m²,2 Zimmer,44 m²,Unknown,https://www.immowelt.de/expose/391d7d97-14dc-4678-b9a1-327c25d16722;3758
+"Plieningen, Stuttgart (70599),220.000 € 4.151 €/m²,""2,5 Zimmer"",53 m²,2. Geschoss,https://www.immowelt.de/expose/638e2c48-d42d-489c-8f52-bfae7b63c77a";3758
+Gaisburg, Stuttgart (70188),297.000 € 4.125 €/m²,3 Zimmer,72 m²,frei ab sofort,https://www.immowelt.de/expose/cddd553e-3724-4f7a-a797-fe60d8d9c828;3758
+Zuffenhausen - Mitte, Stuttgart (70435),920.000 € 8.364 €/m²,5 Zimmer,110 m²,798 m² Grundstück,https://www.immowelt.de/expose/395ccfc0-4c60-4ff1-a2dd-f451c42ea93e;3758
+Riedenberg, Stuttgart (70619),2.300.000 € 9.020 €/m²,7 Zimmer,255 m²,895 m² Grundstück,https://www.immowelt.de/expose/9ecd1e76-3260-4451-92b0-68d78ce9ee1d;3758
+"Schönberg, Stuttgart (70599),475.000 € 5.278 €/m²,""3,5 Zimmer"",90 m²,Unknown,https://www.immowelt.de/expose/c30685d9-fba1-43cc-be99-9a541d8b3644";3758
+Haigst, Stuttgart (70597),824.000 € 6.488 €/m²,4 Zimmer,127 m²,1. Geschoss,https://www.immowelt.de/expose/4e7026db-aa4f-4c12-a9a2-c37b47ea7e7d;3758
+"Südheim, Stuttgart-Süd (70199),Preis auf Anfrage,10 Zimmer,""183,5 m²"",568 m² Grundstück,https://www.immowelt.de/expose/5cf20e36-435d-4c46-8b37-8925f23e19f9";3758
+Muckensturm, Stuttgart (70374),760.000 € 3.619 €/m²,8 Zimmer,210 m²,461 m² Grundstück,https://www.immowelt.de/expose/a67fc7f5-5471-4399-a6f6-8de7228ff5d9;3758
+"Vaihingen - Mitte, Stuttgart / Vaihingen (70563),700.000 € 3.770 €/m²,6 Zimmer,""185,7 m²"",""433,8 m² Grundstück"",https://www.immowelt.de/expose/7c1ab42f-4dbe-4369-b5ca-7db9e7c12d84";3758
+Degerloch, Stuttgart (70597),840.000 € 2.701 €/m²,9 Zimmer,398 m²,199 m² Grundstück,https://www.immowelt.de/expose/bf58d66f-4903-4b85-9619-9414095e55b9;3758
+Degerloch, Stuttgart (70597),840.000 € 3.429 €/m²,9 Zimmer,245 m²,199 m² Grundstück,https://www.immowelt.de/expose/3fe1cb7a-55b9-462d-81fa-0dbd967af67d;3758
+Rosental, Stuttgart / Vaihingen (70563),995.000 € 6.815 €/m²,7 Zimmer,146 m²,252 m² Grundstück,https://www.immowelt.de/expose/1aa87149-4151-42d4-98e1-cdb68615c70b;3758
+Hohe Warte, Stuttgart (70469),1.195.000 € 3.944 €/m²,9 Zimmer,303 m²,685 m² Grundstück,https://www.immowelt.de/expose/638df457-f1a2-4398-ad0d-d64497b04683;3758
+Mühlhausen, Stuttgart (70378),279.000 € 2.790 €/m²,4 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/2635969b-89cb-4fa4-b62b-1558097614bc;3758
+"Seelberg, Stuttgart / Bad Cannstatt (70372),280.000 € 3.750 €/m²,3 Zimmer,""74,7 m²"",EG,https://www.immowelt.de/expose/3e37de29-da73-4d2e-b105-2312a9c53686";3758
+Heusteigviertel, Stuttgart (70180),599.000 € 5.873 €/m²,4 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/25810828-b202-4bfa-b014-791274ea69df;3758
+"Vaihingen - Mitte, Stuttgart / Vaihingen (70563),1.300.000 € 7.002 €/m²,6 Zimmer,""185,7 m²"",""433,8 m² Grundstück"",https://www.immowelt.de/expose/84d35ea3-dd4f-43f4-9a5a-54ce0c87a6e8";3758
+Stöckach, Stuttgart Stuttgart-Ost (70190),380.000 € 4.750 €/m²,3 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/6f419975-9aec-4d08-8a93-9440a324c666;3758
+Gänsheide, Stuttgart (70184),460.000 € 5.412 €/m²,2 Zimmer,85 m²,3. Geschoss,https://www.immowelt.de/expose/1c404cca-f52a-4309-b670-8c1fe0598b07;3758
+"Münster, Stuttgart (70376),240.000 € 3.842 €/m²,""3,5 Zimmer"",""62,5 m²"",3. Geschoss,https://www.immowelt.de/expose/f82a399d-edbb-45ef-81c8-6820e7d0e924";3758
+Zuffenhausen - Mitte, Stuttgart (70435),945.000 € 4.922 €/m²,7 Zimmer,192 m²,318 m² Grundstück,https://www.immowelt.de/expose/c3930e0c-7d24-4ab2-99be-1e083bd686b4;3758
+Seelberg, Stuttgart / Bad Cannstatt (70372),239.000 € 4.596 €/m²,2 Zimmer,52 m²,Unknown,https://www.immowelt.de/expose/79720d03-090d-4e24-bfa2-8a9f0055dd7c;3758
+Lehen, Stuttgart (70180),990.000 € 5.294 €/m²,6 Zimmer,187 m²,Unknown,https://www.immowelt.de/expose/c106a036-c156-4523-9a74-769e04336bfd;3758
+"Degerloch, Stuttgart (70597),1.049.000 € 5.021 €/m²,5 Zimmer,""208,9 m²"",3. Geschoss,https://www.immowelt.de/expose/782a31f6-cf7c-4e37-a0bf-b5802d35f164";3758
+Degerloch, Stuttgart (70597),2.990.000 € 10.755 €/m²,10 Zimmer,278 m²,1.523 m² Grundstück,https://www.immowelt.de/expose/889b66ab-6b89-4be4-ae54-1a137c121b3e;3758
+"Hedelfingen, Stuttgart / Hedelfingen (70329),175.000 € 3.166 €/m²,""2,5 Zimmer"",""55,3 m²"",Unknown,https://www.immowelt.de/expose/069285a3-6f00-4b70-b93a-94c238601eae";3758
+Dachswald, Stuttgart (70569),1.195.000 € 8.185 €/m²,5 Zimmer,146 m²,EG,https://www.immowelt.de/expose/007e527d-6170-4502-9ff8-865172cd4116;3758
+Heumaden, Stuttgart (70619),Preis auf Anfrage,2 Zimmer,67 m²,1. Geschoss,https://www.immowelt.de/expose/a4d2707d-e27f-46e0-bac9-a054fb39f593;3758
+"Weilimdorf, Stuttgart (70499),697.000 € 7.159 €/m²,""4,5 Zimmer"",""91,8 m²"",413 m² Grundstück,https://www.immowelt.de/expose/47989f84-36fc-40e1-8dd6-5866dd7a28e9";3758
+Zuffenhausen - Hohenstein, Stuttgart (70435),475.000 € 4.060 €/m²,5 Zimmer,117 m²,Unknown,https://www.immowelt.de/expose/49b6cf6f-a4b0-4fca-8181-1bff34ae14e7;3758
+Zuffenhausen - Hohenstein, Stuttgart (70435),475.000 € 4.060 €/m²,5 Zimmer,117 m²,Unknown,https://www.immowelt.de/expose/50924e7e-f4b1-403e-9af7-1a64ae2035e8;3758
+"Seeadlerstr. 17, Neugereut, Stuttgart (70378),190.000 € 3.450 €/m²,2 Zimmer,""46,5 m²"",Unknown,https://www.immowelt.de/expose/88524bfd-3780-458e-9f54-8175793be2ca";3758
+"Kräherwald, Stuttgart (70193),519.650 € 4.472 €/m²,4 Zimmer,""116,2 m²"",EG,https://www.immowelt.de/expose/b592249e-6914-4169-aa60-b899d06d0663";3758
+Cannstatt - Mitte, Stuttgart (70372),420.000 € 3.590 €/m²,5 Zimmer,117 m²,Unknown,https://www.immowelt.de/expose/2d1137df-e589-4e4d-bb46-ff57ad6b81b0;3758
+"Waldau, Stuttgart (70597),409.000 € 4.096 €/m²,3 Zimmer,""99,9 m²"",Unknown,https://www.immowelt.de/expose/543ba450-2eed-4280-9c57-eb151e7a3ede";3758
+Winterhalde, Stuttgart (70374),497.000 € 3.794 €/m²,4 Zimmer,131 m²,frei ab sofort,https://www.immowelt.de/expose/d77f032a-1210-43d5-b596-76b198ed0379;3758
+Cannstatt - Mitte, Stuttgart (70372),369.000 € 6.254 €/m²,3 Zimmer,59 m²,1. Geschoss,https://www.immowelt.de/expose/0799c37b-7239-4aca-a75e-e26199a55abd;3758
+Rohracker, Stuttgart (70329),318.500 € 4.247 €/m²,3 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/4782bb5e-cdc0-497b-8b74-5e616bbc6a03;3758
+"Kräherwald, Stuttgart (70193),399.000 € 4.156 €/m²,""4,5 Zimmer"",96 m²,Unknown,https://www.immowelt.de/expose/59674d1f-194e-4ff2-929a-fb3d72663b12";3758
+"Stammheim - Süd, Stuttgart / Stammheim (70439),1.280.000 € 4.523 €/m²,11 Zimmer,""274,8 m²"",755 m² Grundstück,https://www.immowelt.de/expose/18e93baf-5dc9-43ec-820b-0d8b4496daf6";3758
+"Möhringen - Nord, Stuttgart (70567),349.000 € 4.251 €/m²,""3,5 Zimmer"",""82,1 m²"",5. Geschoss,https://www.immowelt.de/expose/8e4bf7df-4526-4b9e-aab6-68af9c8b2ab1";3758
+Plieningen, Plieningen (70599),1.169.000 € 5.083 €/m²,6 Zimmer,230 m²,675 m² Grundstück,https://www.immowelt.de/expose/3e7d4952-1884-4c36-8d52-3b734ae185ac;3758
+Gehrenwald, Stuttgart / Untertürkheim (70327),449.000 € 2.494 €/m²,6 Zimmer,180 m²,Unknown,https://www.immowelt.de/expose/e28cde2c-485d-43ed-b1bb-0c3ecae9152c;3758
+"Rohr, Stuttgart (70565),259.000 € 4.433 €/m²,""2,5 Zimmer"",""58,4 m²"",2. Geschoss,https://www.immowelt.de/expose/9d8f958b-615b-4079-ac38-42629143706c";3758
+"Fasanenhof, Stuttgart (70565),750.000 € 5.172 €/m²,""4,5 Zimmer"",145 m²,232 m² Grundstück,https://www.immowelt.de/expose/544ac9e5-53a1-45ad-95db-2bba6f8bc3e2";3758
+Dobel, Stuttgart (70184),875.000 € 4.834 €/m²,6 Zimmer,181 m²,4. Geschoss,https://www.immowelt.de/expose/243e8404-b609-470d-8f6c-3c0860cca4e9;3758
+Weilimdorf, Stuttgart / Weilimdorf (70499),1.475.000 € 5.287 €/m²,279 m²,533 m² Grundstück,Unknown,https://www.immowelt.de/expose/83d46e72-2b0d-4cc8-ae9c-7a709fb9af72;3758
+Altenburg, Stuttgart (70376),238.000 € 4.667 €/m²,2 Zimmer,51 m²,2. Geschoss,https://www.immowelt.de/expose/3c909501-77f0-4dd1-befe-ffd0609d827a;3758
+"Schönberg, Stuttgart (70599),1.250.000 € 8.170 €/m²,""5,5 Zimmer"",153 m²,212 m² Grundstück,https://www.immowelt.de/expose/6502e54b-f0bb-45de-a657-7ca080b15b17";3758
+Plieningen, Stuttgart (70599),185.000 € 4.205 €/m²,44 m²,Unknown,Unknown,https://www.immowelt.de/expose/760322dc-4dcd-4ddb-84b8-b3234c287fbf;3758
+Möhringen - Mitte, Stuttgart / Möhringen (70567),1.260.073 € 6.563 €/m²,7 Zimmer,192 m²,293 m² Grundstück,https://www.immowelt.de/expose/7fa5172b-fc3f-49e3-a55f-c2fbde976b72;3758
+Obertürkheim, Stuttgart (70329),195.000 € 3.611 €/m²,2 Zimmer,55 m²,1. Geschoss,https://www.immowelt.de/expose/daab049f-5722-4aed-9e05-54122dc30eb6;3758
+Münster, Stuttgart (70376),1.599.000 € 4.153 €/m²,14 Zimmer,385 m²,545 m² Grundstück,https://www.immowelt.de/expose/c0a7032e-539b-41ad-8ab4-72c962476b4b;3758
+"Stammheim - Süd, Stuttgart (70439),230.000 € 3.502 €/m²,3 Zimmer,""65,7 m²"",frei ab 01.04.2025,https://www.immowelt.de/expose/a08fb575-f226-4695-b5c3-9ec20c20b1ca";3758
+"Möhringen - Nord, Stuttgart (70567),279.000 € 3.826 €/m²,3 Zimmer,""72,9 m²"",1. Geschoss,https://www.immowelt.de/expose/7a9e948a-ddcd-4fdc-9c7b-36bb02a79827";3758
+Bahnhof Feuerbach, Stuttgart (70469),239.680 € 3.196 €/m²,3 Zimmer,75 m²,3. Geschoss,https://www.immowelt.de/expose/57220ef6-9ad0-42af-b6fa-317d313a4505;3758
+"Stammheim - Mitte, Stuttgart / Stammheim (70439),954.000 € 6.432 €/m²,5 Zimmer,""148,3 m²"",183 m² Grundstück,https://www.immowelt.de/expose/7397a918-ea92-4a85-a93b-9af8b2bb4b0b";3758
+Killesberg, Stuttgart (709191),1.895.900 € 9.203 €/m²,6 Zimmer,206 m²,1.012 m² Grundstück,https://www.immowelt.de/expose/bad2f87a-ac3a-4091-a15d-faf5a0eab6e3;3758
+Fasanenhof, Stuttgart (70565),180.000 € 3.051 €/m²,2 Zimmer,59 m²,5. Geschoss,https://www.immowelt.de/expose/202b302f-ee1f-402b-8e7a-e844fb48b363;3758
+Obertürkheim, Stuttgart / Obertürkheim (70329),1.200.000 € 3.261 €/m²,12 Zimmer,368 m²,377 m² Grundstück,https://www.immowelt.de/expose/c2e31f59-1592-4ad1-ae60-aabdc35d9357;3758
+"Rotebühl, Stuttgart (70197),522.000 € 4.314 €/m²,""3,5 Zimmer"",121 m²,Unknown,https://www.immowelt.de/expose/7ab78a52-a663-46ca-a8a1-b1c5da22a241";3758
+Heerstraße, Stuttgart (70569),990.000 € 5.025 €/m²,9 Zimmer,197 m²,439 m² Grundstück,https://www.immowelt.de/expose/49d96214-48e1-4414-ac31-423d5349c11c;3758
+Wolfbusch, Stuttgart (70499),660.000 € 6.168 €/m²,4 Zimmer,107 m²,166 m² Grundstück,https://www.immowelt.de/expose/53b4abf0-37cb-45e1-bb9a-6646819c87f3;3758
+"Asemwald, Stuttgart (70599),287.000 € 3.568 €/m²,3 Zimmer,""80,4 m²"",Unknown,https://www.immowelt.de/expose/b3a6f7f8-eb45-48cb-947d-282b21ea1455";3758
+"Zazenhausen, Stuttgart (70437),745.000 € 5.596 €/m²,5 Zimmer,""133,1 m²"",177 m² Grundstück,https://www.immowelt.de/expose/4511b3ea-ec09-47bd-95fc-73c979a800e2";3758
+Feuerbacher Tal, Stuttgart (70469),2.399.000 € 5.452 €/m²,12 Zimmer,440 m²,718 m² Grundstück,https://www.immowelt.de/expose/bda21c92-d77a-4105-ad71-371386765001;3758
+Zuffenhausen - Mitte, Stuttgart (70435),849.000 € 4.770 €/m²,8 Zimmer,178 m²,452 m² Grundstück,https://www.immowelt.de/expose/70a60713-6d1b-46ff-9775-de102ad93396;3758
+Bopser, Stuttgart (70184),1.790.000 € 7.306 €/m²,11 Zimmer,245 m²,421 m² Grundstück,https://www.immowelt.de/expose/af20cb71-6e93-4991-861b-6c24123946f0;3758
+Stammheim - Mitte, Stuttgart / Stammheim (70439),689.000 € 5.839 €/m²,7 Zimmer,118 m²,247 m² Grundstück,https://www.immowelt.de/expose/4a085d4a-8ee2-4e11-832f-5e7587ed0696;3758
+Rohracker, Stuttgart (70329),800.000 € 3.226 €/m²,11 Zimmer,248 m²,593 m² Grundstück,https://www.immowelt.de/expose/8432118a-14e5-424d-8796-b98e1ee10d67;3758
+Degerloch, Stuttgart (70597),2.790.000 € 7.209 €/m²,9 Zimmer,387 m²,582 m² Grundstück,https://www.immowelt.de/expose/3f40f46f-e980-4f8f-9824-ffa6f6118f97;3758
+Waldau, Stuttgart (70597),380.000 € 4.270 €/m²,3 Zimmer,89 m²,1. Geschoss,https://www.immowelt.de/expose/670e5243-5c08-4489-8d08-af7e926d058a;3758
+"Weilimdorf, Stuttgart (70499),420.000 € 4.853 €/m²,3 Zimmer,""86,6 m²"",2. Geschoss,https://www.immowelt.de/expose/e6c3a0d4-61e5-4dc5-96c5-3b5ee56d9362";3758
+Heumaden, Stuttgart (70619),975.000 € 7.738 €/m²,4 Zimmer,126 m²,700 m² Grundstück,https://www.immowelt.de/expose/4798fc5e-826a-419d-95e3-77ebe027b39f;3758
+Wangen, Stuttgart (70327),2.700.000 € 2.413 €/m²,28 Zimmer,1.119 m²,1.566 m² Grundstück,https://www.immowelt.de/expose/a63a22dc-72a2-4eec-961b-93dda7891d24;3758
+Wangen, Stuttgart (70327),2.700.000 € 2.413 €/m²,28 Zimmer,1.119 m²,1.566 m² Grundstück,https://www.immowelt.de/expose/8dfec5e7-09c6-416f-a4c6-64864ddcd54e;3758
+Unknown,Unknown,4 Zimmer,113 m²,Unknown,https://www.immowelt.de/projekte/expose/k2qr832;3758
+Unknown,Unknown,3 Zimmer,90 m²,Unknown,https://www.immowelt.de/projekte/expose/k2qr832;3758
+Unknown,Unknown,2 Zimmer,62 m²,Unknown,https://www.immowelt.de/projekte/expose/k2qr832;3758
+Unknown,Unknown,4 Zimmer,111 m²,Unknown,https://www.immowelt.de/projekte/expose/k2qr832;3758
+Unknown,Unknown,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/projekte/expose/k2qr832;3758
+Unknown,Unknown,4 Zimmer,110 m²,Unknown,https://www.immowelt.de/projekte/expose/k2qr832;3758
+Unknown,Unknown,3 Zimmer,82 m²,Unknown,https://www.immowelt.de/projekte/expose/k2qr832;3758
+Unknown,Unknown,4 Zimmer,120 m²,Unknown,https://www.immowelt.de/projekte/expose/k2qr832;3758
+Unknown,Unknown,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/projekte/expose/k2qr832;3758
+Unknown,Unknown,4 Zimmer,111 m²,Unknown,https://www.immowelt.de/projekte/expose/k2qr832;3758
+Unknown,Unknown,3 Zimmer,77 m²,Unknown,https://www.immowelt.de/projekte/expose/k2qr832;3758
+"Feuerbacher Tal, Stuttgart / Feuerbach (70469),299.000 € 4.153 €/m²,""2,5 Zimmer"",72 m²,Unknown,https://www.immowelt.de/expose/1f8bf645-1ecd-4e96-affd-2f4a2915b909";3758
+"Ostheim, Stuttgart (70188),235.000 € 4.196 €/m²,3 Zimmer,""54,6 m²"",1. Geschoss,https://www.immowelt.de/expose/94e4e24a-5b80-4a9c-9e4b-c664784beff3";3758
+"Feuerbach - Mitte, Stuttgart / Feuerbach (70469),790.000 € 4.435 €/m²,10 Zimmer,""190,5 m²"",215 m² Grundstück,https://www.immowelt.de/expose/65f7ed96-b905-48a6-8792-8d061566e67f";3758
+Lehen, Stuttgart (70180),349.000 € 5.540 €/m²,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/0ceac792-db2c-4e0e-ba49-f479d3ebeb03;3758
+"Wangen, Stuttgart (70327),270.000 € 3.649 €/m²,""3,5 Zimmer"",74 m²,Unknown,https://www.immowelt.de/expose/3a15541b-a7b4-4eca-a8f2-788e9cb7d8ff";3758
+Stammheim - Süd, Stuttgart (70439),750.000 € 4.286 €/m²,5 Zimmer,175 m²,527 m² Grundstück,https://www.immowelt.de/expose/29effa75-d8d0-4afc-8df0-0bbb040cfa3d;3758
+"Vaihinger Landstraße 111, Botnang - Süd, Stuttgart / Botnang (70195),867.000 € 7.982 €/m²,4 Zimmer,""108,6 m²"",Unknown,https://www.immowelt.de/expose/4993d93a-b291-44f7-8357-7fe5d2a91b76";3758
+"Vaihinger Landstraße 111, Botnang - Süd, Stuttgart / Botnang (70195),765.000 € 8.034 €/m²,3 Zimmer,""95,2 m²"",Unknown,https://www.immowelt.de/expose/11e1f371-8b78-47c1-9ade-e16ee4ed1dc2";3758
+"Vaihinger Landstraße 111, Botnang - Süd, Stuttgart / Botnang (70195),867.000 € 7.982 €/m²,4 Zimmer,""108,6 m²"",Unknown,https://www.immowelt.de/expose/7ac9b004-44ef-4553-8129-b38492eb2e7d";3758
+"Lemberg / Föhrich, Stuttgart (70469),449.000 € 4.794 €/m²,5 Zimmer,""93,7 m²"",271 m² Grundstück,https://www.immowelt.de/expose/362b242d-f904-479a-83cd-9e0f387932de";3758
+"Stammheim - Mitte, Stuttgart / Stammheim (70439),964.000 € 7.008 €/m²,6 Zimmer,""137,6 m²"",246 m² Grundstück,https://www.immowelt.de/expose/7ea4b0fc-be4f-4f49-9ca1-aa3db8a5f6af";3758
+Rosenberg, Stuttgart (70176),480.000 € 5.854 €/m²,4 Zimmer,82 m²,EG,https://www.immowelt.de/expose/0adedeaf-e01d-4a00-a7a3-867c58be9333;3758
+"Lemberg / Föhrich, Stuttgart (70469),Preis auf Anfrage,""3,5 Zimmer"",""130,9 m²"",frei ab sofort,https://www.immowelt.de/expose/e2192cfd-b3fe-43be-9247-aba68e002a10";3758
+Entringer Straße 16, Degerloch, Stuttgart (70597),1.849.000 € 8.039 €/m²,6 Zimmer,230 m²,873 m² Grundstück,https://www.immowelt.de/expose/e8313b20-28d0-436c-8036-0a870111e1ec;3758
+Mönchfeld, Stuttgart (70378),260.000 € 3.611 €/m²,3 Zimmer,72 m²,9. Geschoss,https://www.immowelt.de/expose/bbe75d1c-8e0a-4898-a0d5-bf6ebb0b5aa5;3758
+Obertürkheim, Stuttgart (70329),195.000 € 3.980 €/m²,2 Zimmer,49 m²,Unknown,https://www.immowelt.de/expose/ed192a3a-fdef-473c-88e4-c16cc08f4073;3758
+Karlshöhe, Stuttgart (70178),600.000 € 6.383 €/m²,4 Zimmer,94 m²,6. Geschoss,https://www.immowelt.de/expose/85394589-6521-4cc8-82e9-25d1240c1882;3758
+Lehen, Stuttgart (70180),930.000 € 4.133 €/m²,8 Zimmer,225 m²,461 m² Grundstück,https://www.immowelt.de/expose/c8bbc207-6709-4b75-8840-71f98f92bd7c;3758
+"Weinsteige, Stuttgart (70180),499.000 € 4.990 €/m²,""2,5 Zimmer"",100 m²,3. Geschoss,https://www.immowelt.de/expose/74bdeae7-afb3-4467-bedf-d881460be2c7";3758
+Heinestr. 21, Degerloch, Stuttgart (70597),1.690.000 € 6.306 €/m²,10 Zimmer,268 m²,329 m² Grundstück,https://www.immowelt.de/expose/0c8bda3b-8f0c-4820-98ce-38f1f46533f1;3758
+Bergheim, Stuttgart (70499),249.000 € 3.557 €/m²,3 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/2e467074-44f1-4c1e-8ee3-e4da1602bc7b;3758
+"Entenweg 20, Zazenhausen, Stuttgart (70437),553.000 € 6.102 €/m²,4 Zimmer,""90,6 m²"",EG,https://www.immowelt.de/expose/fed6dd0a-4f8d-46a9-8afd-7d5abb6f0bb6";3758
+"Riedenberg, Stuttgart (70619),298.000 € 3.465 €/m²,""3,5 Zimmer"",86 m²,1. Geschoss,https://www.immowelt.de/expose/3fe7ba41-5e22-4f5d-a133-a474421e10ef";3758
+"Rathaus, Stuttgart (70182),269.000 € 5.173 €/m²,""2,5 Zimmer"",52 m²,2. Geschoss,https://www.immowelt.de/expose/f190a5f3-7fa1-4aab-8f5e-e5de9df2283c";3758
+"Degerloch, Stuttgart (70597),410.000 € 4.059 €/m²,""3,5 Zimmer"",101 m²,1. Geschoss,https://www.immowelt.de/expose/97efbc36-93cc-41fa-9737-4d4a0a538cea";3758
+"Gehrenwald, Stuttgart-Untertürkheim (70327),869.900 € 3.443 €/m²,""11,5 Zimmer"",""252,6 m²"",138 m² Grundstück,https://www.immowelt.de/expose/d18ede58-c077-4a27-93ed-395adf243818";3758
+"Franklinstraße 77, Zuffenhausen - Am Stadtpark, Stuttgart (70435),250.000 € 3.600 €/m²,2 Zimmer,""61,6 m²"",Unknown,https://www.immowelt.de/expose/316858b2-bf20-461b-ba94-00a5fcc62afc";3758
+"Möhringen - Mitte, Stuttgart (70567),519.000 € 6.768 €/m²,""2,5 Zimmer"",""76,7 m²"",1. Geschoss,https://www.immowelt.de/expose/cac28e84-bbbe-4149-bcff-1b3ebdd0f224";3758
+Lemberg / Föhrich, Stuttgart (70469),380.000 € 6.032 €/m²,3 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/ac8d80aa-9d67-4665-a1d4-8291fe50b6aa;3758
+Hausen, Stuttgart (70499),629.000 € 5.286 €/m²,4 Zimmer,119 m²,Unknown,https://www.immowelt.de/expose/4a795c61-fac7-4754-9c2a-c1955b537d49;3758
+Plieningen, Stuttgart / Plieningen (70599),1.995.000 € 5.182 €/m²,11 Zimmer,385 m²,929 m² Grundstück,https://www.immowelt.de/expose/729828f0-98d7-4a25-99e6-3e740230706b;3758
+Rohracker, Stuttgart (70329),2.590.000 € 5.139 €/m²,504 m²,1.880 m² Grundstück,Unknown,https://www.immowelt.de/expose/4a5a75c4-c25e-49a4-9348-82b5f9dbfdca;3758
+"Lemberg / Föhrich, Stuttgart (70469),499.000 € 5.440 €/m²,""3,5 Zimmer"",""91,7 m²"",3. Geschoss,https://www.immowelt.de/expose/f7547469-0cd9-4511-bc5c-66f280d9066f";3758
+"Weilimdorf, Stuttgart (70499),269.000 € 3.516 €/m²,3 Zimmer,""76,5 m²"",1. Geschoss,https://www.immowelt.de/expose/349a3259-f0dc-458e-9e21-81ed7b7cea22";3758
+Rotebühl, Stuttgart (70197),575.000 € 4.792 €/m²,5 Zimmer,120 m²,Unknown,https://www.immowelt.de/expose/7b6a10ea-eb27-4d20-aab1-d569f04b58b3;3758
+Rohracker, Stuttgart (70329),1.295.000 € 2.755 €/m²,15 Zimmer,470 m²,705 m² Grundstück,https://www.immowelt.de/expose/1e15a9b4-cbd5-4b55-847d-1eaaa84558f0;3758
+Weilimdorf, Stuttgart (70499),289.000 € 4.817 €/m²,3 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/9baae2f2-b2d9-40af-8631-c4a74f0443ff;3758
+"Lemberg / Föhrich, Stuttgart (70469),675.000 € 5.916 €/m²,""4,5 Zimmer"",""114,1 m²"",""138,6 m² Grundstück"",https://www.immowelt.de/expose/30e83120-287e-4800-82da-6f68d9b89ee2";3758
+Bopser, Stuttgart (70184),275.000 € 3.986 €/m²,3 Zimmer,69 m²,Unknown,https://www.immowelt.de/expose/ca7c8b08-dd84-4bdc-9866-d97166894286;3758
+"Hasenberg, Stuttgart (70197),695.000 € 6.027 €/m²,3 Zimmer,""115,3 m²"",Unknown,https://www.immowelt.de/expose/d73e967d-ea99-4feb-94a1-dc4650d53158";3758
+Höhenrand, Stuttgart (70563),895.000 € 4.613 €/m²,9 Zimmer,194 m²,602 m² Grundstück,https://www.immowelt.de/expose/6e4854e1-3cef-43bb-bef9-f3d3dde165e3;3758
+"Heslach, Stuttgart (70199),215.000 € 5.289 €/m²,2 Zimmer,""40,7 m²"",1. Geschoss,https://www.immowelt.de/expose/520bc396-d651-49af-bc25-6f3daca8417c";3758
+Killesberg, Stuttgart (70192),2.276.525 € 9.446 €/m²,7 Zimmer,241 m²,569 m² Grundstück,https://www.immowelt.de/expose/10f1bbed-b153-462e-b60c-2cb2e84df4b5;3758
+"Vaihingen - Mitte, Stuttgart / Vaihingen (70563),549.000 € 5.919 €/m²,3 Zimmer,""92,8 m²"",EG,https://www.immowelt.de/expose/050946f8-8094-47e2-b63e-4a81c3f72609";3758
+"Vaihingen - Mitte, Stuttgart / Vaihingen (70563),349.000 € 6.701 €/m²,""1,5 Zimmer"",""52,1 m²"",EG,https://www.immowelt.de/expose/da85dc06-b170-4e81-bd6a-95b1137402f6";3758
+"Vaihingen - Mitte, Stuttgart / Vaihingen (70563),390.000 € 7.323 €/m²,2 Zimmer,""53,3 m²"",EG,https://www.immowelt.de/expose/852e11df-7fe2-4dcb-ab5b-8993f5e63d8d";3758
+"Vaihingen - Mitte, Stuttgart / Vaihingen (70563),998.000 € 7.341 €/m²,""4,5 Zimmer"",""135,9 m²"",EG,https://www.immowelt.de/expose/12c2c347-f92e-4954-8fc7-4a00f8b06542";3758
+"Vaihingen - Mitte, Stuttgart / Vaihingen (70563),897.000 € 6.193 €/m²,""5,5 Zimmer"",""144,8 m²"",EG,https://www.immowelt.de/expose/6b393eea-0671-4e2b-8c85-3ccee7d442ad";3758
+"Rotebühl, Stuttgart (70178),3.570.000 € 13.583 €/m²,8 Zimmer,""262,8 m²"",4. Geschoss,https://www.immowelt.de/expose/fc700ea7-b4c2-4b8e-ae69-9b42444f4548";3758
+Degerloch, Stuttgart (70597),380.000 € 4.290 €/m²,3 Zimmer,93 m²,Unknown,https://www.immowelt.de/expose/ab25daa7-4261-4684-8a08-165f62935321;3758
+Degerloch, Stuttgart (70597),380.000 € 4.086 €/m²,3 Zimmer,93 m²,2. Geschoss,https://www.immowelt.de/expose/5b289514-6ad9-4ee0-a5e2-be7585cb6dbe;3758
+"Rotebühl, Stuttgart (70178),2.100.000 € 13.604 €/m²,6 Zimmer,""154,4 m²"",3. Geschoss,https://www.immowelt.de/expose/96db7faf-dee6-4939-bb93-d0f63fd0ab65";3758
+"Rotebühl, Stuttgart (70178),2.800.000 € 14.539 €/m²,7 Zimmer,""192,6 m²"",4. Geschoss,https://www.immowelt.de/expose/c4f6a8f0-e07e-40e0-866e-6b2293077ca3";3758
+"Rotebühl, Stuttgart (70178),770.000 € 10.962 €/m²,3 Zimmer,""70,2 m²"",1. Geschoss,https://www.immowelt.de/expose/651812a4-77cb-4adc-9bb5-63e8b8783627";3758
+"Rotebühl, Stuttgart (70178),790.000 € 11.257 €/m²,3 Zimmer,""70,2 m²"",2. Geschoss,https://www.immowelt.de/expose/be57bd78-9f55-489b-8aff-dcab2857b375";3758
+"Augustenstraße 68, Rotebühl, Stuttgart (70178),830.000 € 11.027 €/m²,""3,5 Zimmer"",""75,3 m²"",EG,https://www.immowelt.de/expose/4c37fc12-a27a-428d-ac4f-5bd238d910e1";3758
+"Augustenstraße 68, Rotebühl, Stuttgart (70178),910.000 € 12.961 €/m²,3 Zimmer,""70,2 m²"",3. Geschoss,https://www.immowelt.de/expose/70ad519e-dc33-478f-9f28-692f1ad2679a";3758
+"Augustenstraße 68, Rotebühl, Stuttgart (70178),880.000 € 13.810 €/m²,2 Zimmer,""63,7 m²"",4. Geschoss,https://www.immowelt.de/expose/19c533c1-bc8a-4dd8-9fbc-e1b403eebc3e";3758
+Lenzhalde, Stuttgart (70192),Preis auf Anfrage,5 Zimmer,175 m²,Unknown,https://www.immowelt.de/expose/a12b352a-ab47-4ff6-aaba-aa4d2ef22c28;3758
+"Lenzhalde, Stuttgart (70192),Preis auf Anfrage,2 Zimmer,""114,8 m²"",Unknown,https://www.immowelt.de/expose/8dccf3fb-7590-4b15-ac71-f36fbebf8b53";3758
+Lindenschulviertel, Stuttgart Untertürkheim Uhlbach (70327),225.000 € 2.922 €/m²,3 Zimmer,77 m²,1. Geschoss,https://www.immowelt.de/expose/53d799b2-682b-4e41-860e-8e7ef3888d00;3758
+Sommerrain, Stuttgart (70374),199.000 € 3.554 €/m²,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/96e07ab1-4d66-4ed7-8c31-0aa712a31d8d;3758
+Rot, Stuttgart / Zuffenhausen (70435),339.000 € 4.913 €/m²,3 Zimmer,69 m²,3. Geschoss,https://www.immowelt.de/expose/5c792651-1945-46ac-a8e3-09f9e345cf8a;3758
+Rathaus, Deutschland (70173),4.000.000 €,7.000 m² Grundstück,Unknown,Unknown,https://www.immowelt.de/expose/89a6ccb4-d85b-4e39-95ba-2130b912e71e;3758
+"Zazenhausen, Stuttgart (70437),365.000 € 5.034 €/m²,3 Zimmer,""72,5 m²"",Unknown,https://www.immowelt.de/expose/1339ad01-975e-44a5-82a2-23bcb8b70937";3758
+"Asemwald, Stuttgart (70599),Preis auf Anfrage,""3,5 Zimmer"",89 m²,14. Geschoss,https://www.immowelt.de/expose/6ab196ed-049a-4de9-b85b-f1b3b2189749";3758
+"Lenzhalde, Stuttgart (70192),Preis auf Anfrage,3 Zimmer,""113,9 m²"",Unknown,https://www.immowelt.de/expose/c58d61a0-ca6e-47da-af1d-75aa7776a60a";3758
+Uhlbach, Stuttgart (70329),1.153.552 € 8.181 €/m²,5 Zimmer,141 m²,464 m² Grundstück,https://www.immowelt.de/expose/5d5175f2-c969-4489-b66f-378b44d328c2;3758
+"Cannstatt - Mitte, Stuttgart (70372),650.000 € 4.004 €/m²,8 Zimmer,""162,3 m²"",Unknown,https://www.immowelt.de/expose/fa041db9-8447-4aee-9aa7-bbba1e630c2f";3758
+"Auf der Prag, Stuttgart (70191),605.000 € 6.017 €/m²,""4,5 Zimmer"",""100,6 m²"",1. Geschoss,https://www.immowelt.de/expose/5bce3180-e715-4979-acbe-3a7341589b26";3758
+"An der Burg, Stuttgart (70192),3.800.000 € 14.286 €/m²,""6,5 Zimmer"",266 m²,Unknown,https://www.immowelt.de/expose/317a4a49-4511-436c-8637-5fd0bf64e22d";3758
+"Heumaden, Stuttgart (70619),249.000 € 3.908 €/m²,3 Zimmer,""63,7 m²"",2. Geschoss,https://www.immowelt.de/expose/b5c96fe5-ed50-44ff-8509-4bc4449932f0";3758
+"Rohr, Stuttgart (70565),170.000 € 3.825 €/m²,2 Zimmer,""44,4 m²"",Unknown,https://www.immowelt.de/expose/e8d65aee-e2c5-4a80-8d08-f8d46d17c09e";3758
+Heslach, Stuttgart (70199),315.000 € 5.081 €/m²,3 Zimmer,62 m²,4. Geschoss,https://www.immowelt.de/expose/68a35f98-580f-4430-a29a-3336c9a596e6;3758
+Rotebühl, Stuttgart (70197),1.600.000 € 5.212 €/m²,12 Zimmer,307 m²,234 m² Grundstück,https://www.immowelt.de/expose/d7f9c63f-67dc-46e2-a25c-dbb88ca9a59d;3758
+Rotebühl, Stuttgart (70197),1.600.000 € 5.212 €/m²,12 Zimmer,307 m²,6. Geschoss,https://www.immowelt.de/expose/0e7158d7-ab49-47a4-beb7-d2b1260fcd28;3758
+Lehen, Stuttgart-Süd (70180),369.000 € 4.556 €/m²,3 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/2048749d-afa8-429f-a53e-5cf7fea5c0b0;3758
+"Lehen, Stuttgart (70180),549.000 € 7.320 €/m²,""3,5 Zimmer"",75 m²,1. Geschoss,https://www.immowelt.de/expose/b972e13f-c6d1-4422-8233-95ae7d5ffef4";3758
+Göppingerstrasse 23, Obertürkheim, Stuttgart (70329),295.000 €,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/3dfbe867-8f27-4a5e-972f-30f81896269c;3758
+Höhenrand, Stuttgart (70563),989.000 € 4.053 €/m²,10 Zimmer,244 m²,444 m² Grundstück,https://www.immowelt.de/expose/590ccab4-eb6f-4322-abd6-935d16c3876a;3758
+"Zuffenhausen - Mönchsberg, Stuttgart (70435),1.495.000 € 8.494 €/m²,""5,5 Zimmer"",176 m²,481 m² Grundstück,https://www.immowelt.de/expose/1d572e94-d140-4ddd-8d61-9ca98727dd5d";3758
+"Dachswald, Stuttgart (70569),645.000 € 5.864 €/m²,""4,5 Zimmer"",110 m²,Unknown,https://www.immowelt.de/expose/e7e36a1f-cec0-43fa-9dfe-97ed88000fd8";3758
+"Stammheim - Süd, Stuttgart (70439),649.000 € 4.251 €/m²,""5,5 Zimmer"",""152,7 m²"",EG,https://www.immowelt.de/expose/72035d50-f50d-49ec-b7b9-307dc1075e05";3758
+Ostheim, Stuttgart (70188),220.000 € 4.583 €/m²,2 Zimmer,48 m²,2. Geschoss,https://www.immowelt.de/expose/5e83e5b1-af68-4a44-8f6e-fd4f5278b948;3758
+Haeckerstr. 3, Rohr, Stuttgart / Rohr (70565),949.000 € 4.498 €/m²,8 Zimmer,211 m²,461 m² Grundstück,https://www.immowelt.de/expose/24e6c1d0-1749-4e7d-8691-c76c9a4c5625;3758
+Haeckerstr. 5, Rohr, Stuttgart / Rohr (70565),598.500 € 4.713 €/m²,5 Zimmer,127 m²,478 m² Grundstück,https://www.immowelt.de/expose/96a35781-4533-4ae9-baf8-f3c352158719;3758
+"Stammheim - Süd, Stuttgart (70439),335.000 € 3.412 €/m²,""3,5 Zimmer"",""98,2 m²"",frei ab 01.04.2025,https://www.immowelt.de/expose/20e3c80c-5a9f-4e8a-abb9-fe7759d3409b";3758
+Plieningen, Plieningen (70599),158.000 € 4.270 €/m²,1 Zimmer,37 m²,Unknown,https://www.immowelt.de/expose/c303faf1-6b95-4b6b-a669-7d62964886c9;3758
+Zuffenhausen - Frauensteg, Stuttgart (70435),998.000 € 7.028 €/m²,5 Zimmer,142 m²,frei ab sofort,https://www.immowelt.de/expose/b94313e5-ea67-48d2-a34e-6f77a9fec2cb;3758
+"Schönberg, Stuttgart (70599),1.250.000 € 8.170 €/m²,""5,5 Zimmer"",153 m²,212 m² Grundstück,https://www.immowelt.de/expose/644b63a7-085a-4f1f-8e0e-7373ace3c92f";3758
+"Schönberg, Stuttgart (70599),1.270.000 € 8.301 €/m²,""5,5 Zimmer"",153 m²,217 m² Grundstück,https://www.immowelt.de/expose/76c2ca33-acc8-4d4e-a2f2-7693710f0237";3758
+"Möhringen - Nord, Stuttgart (70567),219.000 € 3.955 €/m²,2 Zimmer,""55,4 m²"",4. Geschoss,https://www.immowelt.de/expose/d5c1b2ef-bbaf-42e2-8e56-ad4c4e58015d";3758
+Veielbrunnen, Stuttgart / Bad Cannstatt (70372),Preis auf Anfrage,5 Zimmer,150 m²,414 m² Grundstück,https://www.immowelt.de/expose/3f160ec8-72fd-4f31-9850-7a60bf2dd2f5;3758
+Untertürkheim, Stuttgart / Untertürkheim (70327),219.000 € 3.982 €/m²,2 Zimmer,55 m²,1. Geschoss,https://www.immowelt.de/expose/bd475ab4-917e-4149-97b9-65fda00037d8;3758
+"Im Geiger, Stuttgart (70374),449.000 € 3.481 €/m²,""5,5 Zimmer"",129 m²,1. Geschoss,https://www.immowelt.de/expose/446d6cc6-a695-44fc-bc76-2f0d86f27e03";3758
+Münster, Stuttgart (70376),785.000 € 4.220 €/m²,7 Zimmer,186 m²,226 m² Grundstück,https://www.immowelt.de/expose/ad378759-ae10-4a51-a606-1971acd0e4e8;3758
+Stuttgarter Straße 51/1, Feuerbacher Tal, Stuttgart / Feuerbach (70469),Preis auf Anfrage,7 Zimmer,198 m²,361 m² Grundstück,https://www.immowelt.de/expose/8a472e59-5ce2-42a3-9a76-d683d8a8a933;3758
+Stammheim - Süd, Stuttgart (70439),750.000 € 6.148 €/m²,5 Zimmer,122 m²,379 m² Grundstück,https://www.immowelt.de/expose/45f3a9ed-17dc-4ee6-b144-8ac7b7e9ead8;3758
+Rosenberg, Stuttgart (70176),365.000 € 4.932 €/m²,3 Zimmer,74 m²,3. Geschoss,https://www.immowelt.de/expose/1dab0818-6859-48cf-9d61-34a1f09e1229;3758
+Kräherwald, Stuttgart (70193),1.698.000 € 5.979 €/m²,11 Zimmer,284 m²,Unknown,https://www.immowelt.de/expose/5cfbc9f2-b4e9-4e17-b3ea-379bff3cca46;3758
+Zuffenhausen - Hohenstein, Stuttgart / Zuffenhausen (70435),920.000 € 4.381 €/m²,12 Zimmer,210 m²,266 m² Grundstück,https://www.immowelt.de/expose/dbc8e255-26f4-4511-b040-cd6b6638f683;3758
+Sillenbuch, Stuttgart (70619),1.230.000 € 11.182 €/m²,4 Zimmer,110 m²,1. Geschoss,https://www.immowelt.de/expose/132a256c-8bd9-4d55-87d8-72c58154f450;3758
+Stammheim - Mitte, Stuttgart (70435),490.000 € 5.444 €/m²,3 Zimmer,90 m²,Unknown,https://www.immowelt.de/expose/d9ae5d3a-ede6-4598-904c-b8c3ffa3bd1a;3758
+"Am Pragfriedhof, Stuttgart (70191),333.000 € 3.784 €/m²,""3,5 Zimmer"",88 m²,4. Geschoss,https://www.immowelt.de/expose/30cf8845-0c0c-42b7-b1e5-97caebea016f";3758
+Fasanenhof, Stuttgart / Fasanenhof (70565),199.000 € 3.827 €/m²,2 Zimmer,52 m²,Unknown,https://www.immowelt.de/expose/d33f2e6f-eac8-44c9-baa9-e89756a92608;3758
+Möhringen - Mitte, Stuttgart (70567),600.000 € 4.286 €/m²,7 Zimmer,140 m²,Unknown,https://www.immowelt.de/expose/e25ff524-9c9a-4111-a611-b7e8d7329e1a;3758
+Oberer Schlossgarten, Stuttgart (70173),299.900 € 7.498 €/m²,3 Zimmer,40 m²,Unknown,https://www.immowelt.de/expose/3b2caf2b-7c11-4893-94a2-ee5274db4781;3758
+Weilimdorf, Stuttgart (70499),8.000.000 € 17.778 €/m²,8 Zimmer,450 m²,2.300 m² Grundstück,https://www.immowelt.de/expose/aee37e22-acc9-4a9a-b788-f1363f9b5e95;3758
+"Unknown,Unknown,""3,5 Zimmer"",75 m²,frei ab sofort,https://www.immowelt.de/projekte/expose/k294832";3758
+Feuerbacher Tal, Stuttgart (70469),799.000 € 3.429 €/m²,11 Zimmer,233 m²,254 m² Grundstück,https://www.immowelt.de/expose/3a51a1d1-35f7-4de5-8bb4-f0f19a2991aa;3758
+Stuttgarter Straße 57, Feuerbacher Tal, Stuttgart (70469),1.900.000 € 5.638 €/m²,15 Zimmer,337 m²,158 m² Grundstück,https://www.immowelt.de/expose/c5b018a8-d8ee-4682-82a9-04e86ac8ec51;3758
+Zuffenhausen - Mitte, Stuttgart (70435),Preis auf Anfrage,9 Zimmer,202 m²,201 m² Grundstück,https://www.immowelt.de/expose/a791156a-91b9-415a-ad1a-5506c6e8506b;3758
+"Lemberg / Föhrich, Stuttgart (70469),445.000 € 6.069 €/m²,3 Zimmer,""73,3 m²"",EG,https://www.immowelt.de/expose/8d53e71f-ed19-45eb-9451-ffb30544ef0f";3758
+Fasanenhof, Stuttgart (70565),230.000 € 2.738 €/m²,4 Zimmer,84 m²,12. Geschoss,https://www.immowelt.de/expose/0e48e0a1-6dea-4d48-b295-e727a6661db8;3758
+"Fasanenhof, Stuttgart (70565),249.000 € 3.354 €/m²,3 Zimmer,""74,2 m²"",15. Geschoss,https://www.immowelt.de/expose/07c38281-a84f-48c6-9f35-c918f9ed4145";3758
+Neckarvorstadt, Stuttgart (70376),229.000 € 4.580 €/m²,2 Zimmer,50 m²,1. Geschoss,https://www.immowelt.de/expose/cc4399f9-165a-457a-a2fa-e2715f6b7adb;3758
+"Feuerbach - Mitte, Stuttgart (70469),749.000 € 4.074 €/m²,8 Zimmer,""183,8 m²"",266 m² Grundstück,https://www.immowelt.de/expose/fffd4ee5-f64a-4b70-8f22-c07abd130a1b";3758
+"Tuttlinger Straße 31, Sillenbuch, Stuttgart / Sillenbuch (70619),954.700 € 11.461 €/m²,3 Zimmer,""83,3 m²"",Unknown,https://www.immowelt.de/expose/472c78d9-68d4-4d5b-8b4a-9c9b5e48a7b6";3758
+Tuttlinger Straße 31, Sillenbuch, Stuttgart / Sillenbuch (70619),898.400 € 9.762 €/m²,3 Zimmer,92 m²,Unknown,https://www.immowelt.de/expose/357b67d5-4e7d-4fca-9574-002ad2bc01d4;3758
+"Tuttlinger Straße 31, Sillenbuch, Stuttgart / Sillenbuch (70619),798.600 € 9.350 €/m²,3 Zimmer,""85,4 m²"",Unknown,https://www.immowelt.de/expose/146c1c6a-d62e-4c8a-b1d0-175f73851d12";3758
+"Schönberg, Stuttgart (70599),1.999.000 € 5.889 €/m²,8 Zimmer,""339,5 m²"",1.032 m² Grundstück,https://www.immowelt.de/expose/45bffbed-b3fb-4457-932d-f33a446c207a";3758
+Cannstatt - Mitte, Stuttgart (70173),22.000.000 € 1.690 €/m²,13.035 m²,Unknown,Unknown,https://www.immowelt.de/expose/050b05aa-fbae-48cf-bb84-85be47f44bba;3758
+Degerloch, Stuttgart (70597),895.000 € 4.838 €/m²,8 Zimmer,185 m²,587 m² Grundstück,https://www.immowelt.de/expose/1a7b5565-6f7d-4077-a73d-4a87faaac693;3758
+"Cannstatt - Mitte, Stuttgart (70372),474.000 € 5.423 €/m²,""3,5 Zimmer"",""87,4 m²"",1. Geschoss,https://www.immowelt.de/expose/86159e59-963e-4766-a9fb-676d1805b741";3758
+"Dachswald, Stuttgart (70569),2.600.000 € 11.504 €/m²,""5,5 Zimmer"",226 m²,Unknown,https://www.immowelt.de/expose/5aed3211-ef43-4128-9fd6-76c1cd9ebd59";3758
+"Ostheim, Stuttgart (70188),4.975.000 € 9.094 €/m²,21 Zimmer,""547,1 m²"",1.315 m² Grundstück,https://www.immowelt.de/expose/73a11f14-c496-4113-8c17-31f4fe1e9e8b";3758
+Unknown,Unknown,4 Zimmer,144 m²,Unknown,https://www.immowelt.de/projekte/expose/k2j5732;3758
+"Münster, Stuttgart (70376),290.000 € 3.625 €/m²,""3,5 Zimmer"",80 m²,5. Geschoss,https://www.immowelt.de/expose/4e7c3e37-c125-4ac1-b019-8d1ca4b3a4a4";3758
+"Unknown,Unknown,""3,5 Zimmer"",""75,7 m²"",frei ab sofort,https://www.immowelt.de/projekte/expose/k294832";3758
+"Unknown,Unknown,""4,5 Zimmer"",114 m²,frei ab sofort,https://www.immowelt.de/projekte/expose/k294832";3758
+"Unknown,Unknown,""3,5 Zimmer"",75 m²,frei ab sofort,https://www.immowelt.de/projekte/expose/k294832";3758
+Muckensturm, Stuttgart (70374),1.850.000 € 4.805 €/m²,15 Zimmer,385 m²,504 m² Grundstück,https://www.immowelt.de/expose/67fe1166-e1d5-4f9c-bcd8-d66b2eb164eb;3758
+Möhringen - Mitte, Stuttgart (70567),597.000 € 2.653 €/m²,12 Zimmer,225 m²,256 m² Grundstück,https://www.immowelt.de/expose/27da0b28-b256-4466-ac09-2025911647ef;3758
+"Zuffenhausen - Hohenstein, Stuttgart / Zuffenhausen (70435),624.000 € 7.231 €/m²,3 Zimmer,""86,3 m²"",2. Geschoss,https://www.immowelt.de/expose/1e9156fd-120b-4b84-8cb4-332e3bdd2c8c";3758
+Kurpark, Stuttgart Bad-Cannstatt (70372),1.500.000 € 4.545 €/m²,14 Zimmer,330 m²,449 m² Grundstück,https://www.immowelt.de/expose/484cd773-1f5b-48d4-b029-1d491a33a579;3758
+Gänsheide, Stuttgart (70184),639.000 € 5.071 €/m²,4 Zimmer,126 m²,4. Geschoss,https://www.immowelt.de/expose/7e5e7919-a066-4ac9-9371-0a2cadb1a8fa;3758
+"Heumaden, Stuttgart (70619),649.000 € 4.507 €/m²,""3,5 Zimmer"",144 m²,4. Geschoss,https://www.immowelt.de/expose/8564568e-bfc1-429c-974d-e16830df750f";3758
+"Stöckach, Stuttgart (70190),339.000 € 4.149 €/m²,3 Zimmer,""81,7 m²"",3. Geschoss,https://www.immowelt.de/expose/a7af9415-21d7-4740-8212-88f1a79cb02d";3758
+"Österfeld, Stuttgart (70563),1.040.000 € 7.352 €/m²,""5,5 Zimmer"",""141,5 m²"",267 m² Grundstück,https://www.immowelt.de/expose/80c86f6f-4ac9-49be-ab3b-3e8c653c7cb9";3758
+"Dachswald, Stuttgart (70569),798.000 € 3.202 €/m²,""8,5 Zimmer"",""249,2 m²"",408 m² Grundstück,https://www.immowelt.de/expose/a221551b-3cb9-40ce-9288-8e6e67dfc973";3758
+"Lehen, Stuttgart (70180),880.000 € 4.422 €/m²,""6,5 Zimmer"",199 m²,5. Geschoss,https://www.immowelt.de/expose/16102054-0979-424a-b071-a992f7916c91";3758
+Rotebühl, Stuttgart (70197),3.200.000 € 5.479 €/m²,35 Zimmer,584 m²,234 m² Grundstück,https://www.immowelt.de/expose/6c5dd4dd-e0cf-4adf-aa03-4936cfd0ded5;3758
+"Stammheim - Mitte, Stuttgart / Stammheim (70439),964.000 € 6.851 €/m²,5 Zimmer,""140,7 m²"",246 m² Grundstück,https://www.immowelt.de/expose/3f74b2db-2196-495f-a49b-ba85faa71f65";3758
+"Kräherwald, Stuttgart-West (70193),419.900 € 9.229 €/m²,""45,5 m²"",Unknown,Unknown,https://www.immowelt.de/expose/3af02cf9-0df7-46e3-bc03-c6b7b3359307";3758
+"Kräherwald, Stuttgart-West (70193),347.900 € 8.898 €/m²,""39,1 m²"",Unknown,Unknown,https://www.immowelt.de/expose/6eea126a-65ae-42b8-ac2f-633fbedf7089";3758
+"Kräherwald, Stuttgart-West (70193),409.900 € 9.009 €/m²,""45,5 m²"",Unknown,Unknown,https://www.immowelt.de/expose/602f66ae-b1fd-43d8-befb-41ee2101562e";3758
+Kräherwald, Stuttgart-West (70193),327.900 € 8.862 €/m²,37 m²,Unknown,Unknown,https://www.immowelt.de/expose/8b9a38da-1564-40e2-968e-8dcdd3187e67;3758
+"Kräherwald, Stuttgart-West (70193),469.900 € 9.851 €/m²,""47,7 m²"",Unknown,Unknown,https://www.immowelt.de/expose/b3b19e51-ad45-4cbc-b85c-c12397b413ae";3758
+"Kräherwald, Stuttgart-West (70193),499.900 € 9.745 €/m²,""51,3 m²"",Unknown,Unknown,https://www.immowelt.de/expose/f6d54b15-6158-4ce9-abd0-00ce094a16a8";3758
+"Kräherwald, Stuttgart-West (70193),327.900 € 8.910 €/m²,""36,8 m²"",Unknown,Unknown,https://www.immowelt.de/expose/65484aab-3f2b-4c04-a8d6-1d1964fb66e5";3758
+"Kräherwald, Stuttgart-West (70193),370.900 € 9.486 €/m²,""39,1 m²"",Unknown,Unknown,https://www.immowelt.de/expose/a2c70d1d-4c0f-4b7a-af1f-37f7ba1b86d0";3758
+Stöckach, Stuttgart (70190),336.000 € 4.200 €/m²,3 Zimmer,80 m²,4. Geschoss,https://www.immowelt.de/expose/adacc535-dc8a-4047-a1ae-860516904acc;3758
+Stöckach, Stuttgart (70190),324.000 € 4.154 €/m²,3 Zimmer,78 m²,2. Geschoss,https://www.immowelt.de/expose/7e842b5f-c8f7-4c13-a86d-11370af65e7c;3758
+Rotebühl, Stuttgart (70197),3.200.000 € 5.479 €/m²,35 Zimmer,584 m²,234 m² Grundstück,https://www.immowelt.de/expose/e674e70d-3bcd-484a-b060-06f6feb90ff1;3758
+Zuffenhausen - Im Raiser, Stuttgart (70376),780.000 € 3.000 €/m²,9 Zimmer,260 m²,Unknown,https://www.immowelt.de/expose/6f103c19-a289-4830-9405-76df5659c710;3758
+"Dachswald, Stuttgart Vaihingen (70569),895.000 € 7.716 €/m²,""3,5 Zimmer"",116 m²,Unknown,https://www.immowelt.de/expose/9b03f107-f945-4839-b268-f7024dae8717";3758
+"Unknown,Unknown,""4,5 Zimmer"",140 m²,1. Geschoss,https://www.immowelt.de/projekte/expose/k2dr832";3758
+"Oberer Schlossgarten, Stuttgart (70173),895.000 € 3.062 €/m²,8 Zimmer,""292,3 m²"",1.700 m² Grundstück,https://www.immowelt.de/expose/242c4fbe-1d48-41d7-bb74-284da8f8f63a";3758
+Unknown,Unknown,3 Zimmer,82 m²,EG,https://www.immowelt.de/projekte/expose/k2wg532;3758
+"Unknown,Unknown,""1,5 Zimmer"",""41,1 m²"",EG,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""42,2 m²"",EG,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""42,2 m²"",EG,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""84,3 m²"",EG,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""42,2 m²"",EG,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""66,1 m²"",EG,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,3 Zimmer,""83,4 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""42,4 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""43,1 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""43,1 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""89,4 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""41,3 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""56,6 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""69,7 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,""1,5 Zimmer"",""38,4 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,3 Zimmer,""83,6 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""42,3 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""43,1 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""43,1 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""89,3 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""43,2 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""58,7 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""72,5 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,""1,5 Zimmer"",""38,4 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,3 Zimmer,""83,6 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""42,3 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""43,1 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""43,1 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""89,3 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""43,2 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""58,7 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""72,5 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,""1,5 Zimmer"",""38,4 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""82,5 m²"",4. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""36,1 m²"",4. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""34,4 m²"",4. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""36,5 m²"",4. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""67,9 m²"",4. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""38,3 m²"",4. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,1 Zimmer,""44,3 m²"",4. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,""1,5 Zimmer"",""69,2 m²"",4. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""101,7 m²"",5. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""71,8 m²"",5. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,2 Zimmer,""73,9 m²"",5. Geschoss,https://www.immowelt.de/projekte/expose/k2wg532";3758
+"Unknown,Unknown,""4,5 Zimmer"",135 m²,2. Geschoss,https://www.immowelt.de/projekte/expose/k2dr832";3758
+"Unknown,Unknown,""3,5 Zimmer"",130 m²,1. Geschoss,https://www.immowelt.de/projekte/expose/k2dr832";3758
+Sonnenberg, Stuttgart (70597),409.000 € 5.453 €/m²,3 Zimmer,75 m²,EG,https://www.immowelt.de/expose/89392f15-5702-4786-aa28-d50a0526859c;3758
+Stammheim - Mitte, Stuttgart (70435),1.550.000 € 4.683 €/m²,19 Zimmer,331 m²,311 m² Grundstück,https://www.immowelt.de/expose/2616f9b7-d33f-4336-9475-5890915b00a0;3758
+Kräherwald, Stuttgart-West (70193),737.800 € 8.783 €/m²,3 Zimmer,84 m²,1. Geschoss,https://www.immowelt.de/expose/c71080e7-2c21-4b12-aa5e-178bc5c680ff;3758
+Unknown,Unknown,3 Zimmer,84 m²,2. Geschoss,https://www.immowelt.de/projekte/expose/k25p432;3758
+"Unknown,Unknown,""1,5 Zimmer"",""39,1 m²"",3. Geschoss,https://www.immowelt.de/projekte/expose/k25p432";3758
+"Unknown,Unknown,3 Zimmer,""100,6 m²"",EG,https://www.immowelt.de/projekte/expose/k25p432";3758
+Unknown,Unknown,4 Zimmer,93 m²,Unknown,https://www.immowelt.de/projekte/expose/k2j5732;3758
+"Unknown,Unknown,""4,5 Zimmer"",144 m²,4. Geschoss,https://www.immowelt.de/projekte/expose/k25p432";3758
+"Unknown,Unknown,2 Zimmer,""36,8 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k25p432";3758
+"Unknown,Unknown,2 Zimmer,""45,5 m²"",2. Geschoss,https://www.immowelt.de/projekte/expose/k25p432";3758
+Unknown,Unknown,2 Zimmer,37 m²,1. Geschoss,https://www.immowelt.de/projekte/expose/k25p432;3758
+"Unknown,Unknown,2 Zimmer,""45,5 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k25p432";3758
+"Unknown,Unknown,""1,5 Zimmer"",""39,1 m²"",1. Geschoss,https://www.immowelt.de/projekte/expose/k25p432";3758
+"Unknown,Unknown,2 Zimmer,""51,3 m²"",EG,https://www.immowelt.de/projekte/expose/k25p432";3758
+"Unknown,Unknown,2 Zimmer,""47,7 m²"",EG,https://www.immowelt.de/projekte/expose/k25p432";3758
+Dobel, Stuttgart (70182),655.000 € 2.481 €/m²,6 Zimmer,264 m²,Unknown,https://www.immowelt.de/expose/18314b60-674e-4ba9-9831-b5c411985eec;3758
+"Lindenstraße 6, Vaihingen - Mitte, Stuttgart / Vaihingen (70563),599.000 € 7.306 €/m²,""3,5 Zimmer"",82 m²,EG,https://www.immowelt.de/expose/66269dbb-7d54-4f0f-95d1-845692744042";3758
+"Lindenstraße 6, Vaihingen - Mitte, Stuttgart / Vaihingen (70563),695.000 € 7.485 €/m²,""4,5 Zimmer"",""92,9 m²"",2. Geschoss,https://www.immowelt.de/expose/701b8338-8ac5-45c1-bddb-9987be2ea678";3758
+"Lindenstraße 6, Vaihingen - Mitte, Stuttgart / Vaihingen (70563),699.000 € 7.447 €/m²,""4,5 Zimmer"",""93,9 m²"",2. Geschoss,https://www.immowelt.de/expose/ddd0a060-7bf0-40bb-a4a1-ce275160497c";3758
+Neckarvorstadt, Stuttgart (70376),340.000 € 3.908 €/m²,3 Zimmer,87 m²,2. Geschoss,https://www.immowelt.de/expose/44d90838-e027-458f-8405-519c0754d533;3758
+Münster, Stuttgart / Münster (70376),320.000 € 4.211 €/m²,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/5b68e669-a6c9-4505-b106-e77aa1a45f4e;3758
+"Steinwaldstraße 53, Steckfeld, Stuttgart (70599),445.000 € 7.596 €/m²,2 Zimmer,""58,6 m²"",3. Geschoss,https://www.immowelt.de/expose/884a1989-5e21-4502-9235-4e3d1c8cc66c";3758
+Schmidener Vorstadt, Stuttgart (70374),285.000 € 4.750 €/m²,3 Zimmer,60 m²,2. Geschoss,https://www.immowelt.de/expose/8943fb80-dc07-40f4-9f47-745fb6df3580;3758
+Schmidener Vorstadt, Stuttgart (70374),285.000 € 4.750 €/m²,3 Zimmer,60 m²,1. Geschoss,https://www.immowelt.de/expose/435a2d14-05ea-4e4a-9f90-ba46799334c3;3758
+Schmidener Vorstadt, Stuttgart (70374),285.000 € 4.750 €/m²,3 Zimmer,60 m²,1. Geschoss,https://www.immowelt.de/expose/e28aa3d6-f50a-451b-8f27-11be1c73dde9;3758
+Bahnhof Feuerbach, Stuttgart (70469),349.000 € 4.653 €/m²,2 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/8b706cbb-83e6-42b8-8db0-a236a3ab7e71;3758
+Dachswald, Stuttgart (70569),570.000 €,2 Zimmer,Unknown,Unknown,https://www.immowelt.de/expose/1717f20e-382a-4114-b960-342a0b2daf7c;3758
+Talstraße 40, Gaisburg, Stuttgart (70188),1.180.000 € 5.244 €/m²,4 Zimmer,225 m²,EG,https://www.immowelt.de/expose/ee3fe9e1-d8b4-4c71-8f88-43a53475c6af;3758
+"Ernst-Kachel-Str. 10 A, Vaihingen - Mitte, Stuttgart (70563),906.000 € 8.646 €/m²,""4,5 Zimmer"",""104,8 m²"",Unknown,https://www.immowelt.de/expose/c870ccba-2c42-46ac-81cc-821793a93b89";3758
+"Neugereut, Stuttgart (70378),330.000 € 3.671 €/m²,""3,5 Zimmer"",""90,2 m²"",2. Geschoss,https://www.immowelt.de/expose/d74aa434-3166-43f9-921f-a724e00ad3fa";3758
+Muckensturm, Stuttgart Bad Cannstatt / Sommerrain (70374),238.000 € 5.289 €/m²,2 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/39874463-86df-4c54-aff6-ea79003226bc;3758
+Heslach, Stuttgart (70199),1.150.000 € 7.099 €/m²,6 Zimmer,162 m²,480 m² Grundstück,https://www.immowelt.de/expose/35c57870-6b1b-44a1-82fe-9c566db7c16d;3758
+Kleemannstr., Veielbrunnen, Stuttgart (70372),150.000 € 1.351 €/m²,4 Zimmer,111 m²,frei ab sofort,https://www.immowelt.de/expose/7adbda9e-2f25-406a-be68-917a27992923;3758
+Werfmershalde, Kernerviertel, Stuttgart (70190),230.000 € 1.127 €/m²,6 Zimmer,204 m²,frei ab sofort,https://www.immowelt.de/expose/e68be17d-e358-4ca1-b9da-20534360a2a2;3758
+Fritz-Elsas-Straße, Neue Vorstadt, Stuttgart (70174),200.000 € 1.163 €/m²,7 Zimmer,172 m²,frei ab sofort,https://www.immowelt.de/expose/9e6b9c1a-bba9-4e1d-b4ee-4d8a7b284c24;3758
+Dürrbachstraße, Rohracker, Stuttgart (70329),321.000 € 1.911 €/m²,8 Zimmer,168 m²,625 m² Grundstück,https://www.immowelt.de/expose/fce92220-8002-4bbc-ac90-df93b0452b26;3758
+"Nordbahnhof, Stuttgart (70191),400.000 € 5.070 €/m²,3 Zimmer,""78,9 m²"",3. Geschoss,https://www.immowelt.de/expose/4fcc2018-eb67-47c6-8f55-ad734b7b7127";3758
+Weißenburgstr., Lehen, Stuttgart (70180),150.000 € 1.596 €/m²,3 Zimmer,94 m²,frei ab sofort,https://www.immowelt.de/expose/ba37931b-1677-473d-9f2d-e62b723c084a;3758
+Sonnenbergstraße, Bopser, Stuttgart (70184),150.000 € 1.852 €/m²,3 Zimmer,81 m²,frei ab sofort,https://www.immowelt.de/expose/db2a44fa-8b46-4cca-86ad-8176f69a76c6;3758
+Neckarvorstadt, Stuttgart (70376),299.000 € 5.436 €/m²,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/fedb0eea-fecd-468e-9516-ab44bed980b7;3758
+"Heumaden, Stuttgart / Heumaden (70619),389.000 € 5.003 €/m²,3 Zimmer,""77,8 m²"",EG,https://www.immowelt.de/expose/d15f83ce-80d6-4dc1-9fe8-df0cf4bcff91";3758
+Asemwald, Stuttgart (70599),295.000 € 2.837 €/m²,4 Zimmer,102 m²,11. Geschoss,https://www.immowelt.de/expose/780a2176-a316-43c1-878f-4e93c721ed5b;3758
+Gerlingen (70839),945.000 € 7.214 €/m²,6 Zimmer,131 m²,351 m² Grundstück,https://www.immowelt.de/expose/93a6765a-dca2-4e32-84a1-726129cdbafe;3758
+"Gerlingen (70839),178.300 € 3.090 €/m²,2 Zimmer,""57,7 m²"",4. Geschoss,https://www.immowelt.de/expose/122fcd93-89a2-4d51-8239-df6bc23e7e43";3758
