@@ -1,0 +1,1001 @@
+﻿Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL,city_id,full_address,score
+Sonderriet, Wertheim (97877),270.000 428,4 Zimmer,135 m²,631 m² Grundstuck,https://www.immowelt.de/expose/e6adb295-3c7b-4653-8360-23003628eb0c,4082,"Sonderriet,  Wertheim (97877)",0
+Rauenberg, Freudenberg (97896),250.000 422,5 Zimmer,160 m²,592 m² Grundstuck,https://www.immowelt.de/expose/dc934493-c730-4aba-8fb3-20fa944246fc,4082,"Rauenberg,  Freudenberg (97896)",0
+Rauenberg, Freudenberg-Rauenberg (97896),179.000 1.006,7 Zimmer,178 m²,805 m² Grundstuck,https://www.immowelt.de/expose/a4e9933e-e390-41ba-b347-cde8ca1db14a,4082,"Rauenberg,  Freudenberg-Rauenberg (97896)",0
+Wessental, Freudenberg (97896),387.000 2.706,4 Zimmer,143 m²,606 m² Grundstuck,https://www.immowelt.de/expose/6f41f2b7-f19c-448f-9389-da711ca949aa,4082,"Wessental,  Freudenberg (97896)",10
+Heppdiel, Eichenbuhl / Heppdiel (63928),568.000 1.973,11 Zimmer,"287,9 m²",3.408 m² Grundstuck,https://www.immowelt.de/expose/261bc195-0646-41fa-8baf-5dfc5de86900,4082,"Heppdiel,  Eichenbuhl / Heppdiel (63928)",10
+Eichenbuhl, Eichenbuhl (63928),499.000 454,37 Zimmer,1.100 m²,795 m² Grundstuck,https://www.immowelt.de/expose/3d9cdc9a-15f6-4c9f-be75-96a68a42297f,4082,"Eichenbuhl,  Eichenbuhl (63928)",19
+Heppdiel, Eichenbuhl / Heppdiel (63928),568.000 575,11 Zimmer,988 m²,3.408 m² Grundstuck,https://www.immowelt.de/expose/c531103a-6725-4063-9237-c9f7da1cb267,4082,"Heppdiel,  Eichenbuhl / Heppdiel (63928)",10
+Rauenberg, Freudenberg (97896),437.000 2.698,5 Zimmer,162 m²,542 m² Grundstuck,https://www.immowelt.de/expose/43ff0cca-62a2-4eb3-92a8-724a4eb1cc6f,4082,"Rauenberg,  Freudenberg (97896)",0
+Rauenberg, Freudenberg (97896),230.000 369,5 Zimmer,140 m²,623 m² Grundstuck,https://www.immowelt.de/expose/33e6b09f-ddc3-4c1f-8317-7ce4590b9b4e,4082,"Rauenberg,  Freudenberg (97896)",0
+Rauenberg, Freudenberg (97896),225.000 371,3 Zimmer,101 m²,606 m² Grundstuck,https://www.immowelt.de/expose/a0f92e64-b832-4442-aba7-974207780378,4082,"Rauenberg,  Freudenberg (97896)",0
+Steinbach, Kulsheim (97900),370.000 2.219,8 Zimmer,"166,7 m²",373 m² Grundstuck,https://www.immowelt.de/expose/2278d4d5-48df-4e4f-8c91-052d027dbfab,4082,"Steinbach,  Kulsheim (97900)",0
+Eichenbuhl, Eichenbuhl (63928),199.900 1.960,4 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/51482fe3-2b3e-4498-bc31-1f1fe3267071,4082,"Eichenbuhl,  Eichenbuhl (63928)",19
+Rauenberg, Freudenberg (97896),432.000 2.734,5 Zimmer,158 m²,552 m² Grundstuck,https://www.immowelt.de/expose/3268cc02-b81d-4840-86f2-e918604b2c0a,4082,"Rauenberg,  Freudenberg (97896)",0
+Nassig, Wertheim (97877),399.000 2.912,"6,5 Zimmer",170 m²,397 m² Grundstuck,https://www.immowelt.de/expose/65a0ac20-edbc-4c31-86d4-22ef37e2bd87,4082,"Nassig,  Wertheim (97877)",16
+Rauenberg, Freudenberg (97896),512.000 3.048,8 Zimmer,168 m²,909 m² Grundstuck,https://www.immowelt.de/expose/78082330-5a04-4e8f-8cba-607590f8f8ac,4082,"Rauenberg,  Freudenberg (97896)",0
+Freudenberg, Freudenberg (97896),595.000 4.044,5 Zimmer,"147,1 m²",688 m² Grundstuck,https://www.immowelt.de/expose/eabed42b-20b3-453f-be28-8e2265bde0e8,4082,"Freudenberg,  Freudenberg (97896)",6
+Rinelen, Villingen-Schwenningen (78056),684.963 3.805,"5,5 Zimmer",180 m²,700 m² Grundstuck,https://www.immowelt.de/expose/65d29c70-d93f-4bd9-8529-892daeefc163,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Rinelen, Villingen-Schwenningen (78056),743.488 3.872,7 Zimmer,192 m²,700 m² Grundstuck,https://www.immowelt.de/expose/a252848b-bfc5-4ee1-975c-45013f200fc2,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Rinelen, Villingen Schwenningen (78056),975.375 3.547,"7,5 Zimmer",275 m²,700 m² Grundstuck,https://www.immowelt.de/expose/ebca2546-726e-42b7-8044-1ae5716a3322,4083,"Rinelen,  Villingen Schwenningen (78056)",96
+Rinelen, Villingen Schwenningen (78056),852.925 3.090,"7,5 Zimmer",276 m²,700 m² Grundstuck,https://www.immowelt.de/expose/72ed9090-3e4d-4fea-99a3-6440177432aa,4083,"Rinelen,  Villingen Schwenningen (78056)",96
+Gemeindewaldstr. 10, Villingen-Schwenningen (78052),255.000 4.193,2 Zimmer,"60,8 m²",EG,https://www.immowelt.de/projekte/expose/k24w832,4083,"Gemeindewaldstr. 10,  Villingen-Schwenningen (78052)",55
+Kopsbuhl, Villingen-Schwenningen (78048),254.000 2.431,"4,5 Zimmer","104,5 m²",7. Geschoss,https://www.immowelt.de/expose/c570c0f9-741e-475c-a765-3a9ec1570204,4083,"Kopsbuhl,  Villingen-Schwenningen (78048)",12
+Ob dem Dorf 3, Villingen-Schwenningen (78052),302.000 4.198,2 Zimmer,"71,9 m²",EG,https://www.immowelt.de/projekte/expose/k2du732,4083,"Ob dem Dorf 3,  Villingen-Schwenningen (78052)",19
+VÃ¶hrenbacher StraÃŸe 49, Villingen-Schwenningen (78050),422.300 5.163,3 Zimmer,"81,8 m²",Unknown,https://www.immowelt.de/projekte/expose/k2ug232,4083,"VÃ¶hrenbacher StraÃŸe 49,  Villingen-Schwenningen (78050)",0
+VÃ¶hrenbacher StraÃŸe 49, Villingen-Schwenningen (78050),352.300 5.166,2 Zimmer,"68,2 m²",Unknown,https://www.immowelt.de/projekte/expose/k2ug232,4083,"VÃ¶hrenbacher StraÃŸe 49,  Villingen-Schwenningen (78050)",0
+VÃ¶hrenbacher StraÃŸe 49, Villingen-Schwenningen (78050),315.100 5.375,2 Zimmer,"58,6 m²",Unknown,https://www.immowelt.de/projekte/expose/k2ug232,4083,"VÃ¶hrenbacher StraÃŸe 49,  Villingen-Schwenningen (78050)",0
+VÃ¶hrenbacher StraÃŸe 49, Villingen-Schwenningen (78050),290.950 5.066,2 Zimmer,"57,4 m²",Unknown,https://www.immowelt.de/projekte/expose/k2ug232,4083,"VÃ¶hrenbacher StraÃŸe 49,  Villingen-Schwenningen (78050)",0
+Hammerhalde, Villingen-Schwenningen (78050),249.000 2.621,4 Zimmer,95 m²,2. Geschoss,https://www.immowelt.de/expose/49f101f2-96d1-4d20-bed8-a188dd716f84,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78054),460.000 2.805,7 Zimmer,164 m²,358 m² Grundstuck,https://www.immowelt.de/expose/042116f6-a86a-4067-810b-9eb2c4fc8b3e,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78054)",0
+Neckarstadtteil, Villingen-Schwenningen (78056),169.000 2.414,3 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/503377de-6432-403b-a9b0-bb83823e3dfa,4083,"Neckarstadtteil,  Villingen-Schwenningen (78056)",0
+Muhlhauser StraÃŸe 19, Weigheim (78056),130.000 1.008,4 Zimmer,129 m²,611 m² Grundstuck,https://www.immowelt.de/expose/a6f4743f-e0fc-4dfa-b626-f96dc79fb9ce,4083,"Muhlhauser StraÃŸe 19,  Weigheim (78056)",0
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),499.000 3.024,4 Zimmer,165 m²,Unknown,https://www.immowelt.de/expose/d341164b-0cf3-454c-983d-b99ea5ff46f3,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),150.000 2.632,2 Zimmer,57 m²,Unknown,https://www.immowelt.de/expose/e315d430-23d8-4497-bd62-e34b20c247ca,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+Weilersbach, Weilersbach (78078),368.104 3.120,4 Zimmer,118 m²,Unknown,https://www.immowelt.de/expose/f58e57c5-7c08-4946-8eb8-9a20eae597c4,4083,"Weilersbach,  Weilersbach (78078)",15
+Kurgebiet, Villingen-Schwenningen (78048),80.000 1.096,3 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/5bfbae66-a69c-4b6a-b925-ad98911c8948,4083,"Kurgebiet,  Villingen-Schwenningen (78048)",8
+Muhlhausen, Villingen-Schwenningen (78056),349.000 3.440,5 Zimmer,"101,5 m²",693 m² Grundstuck,https://www.immowelt.de/expose/650bd806-3f94-451f-9973-de1b362ffbd7,4083,"Muhlhausen,  Villingen-Schwenningen (78056)",15
+Rinelen, Villingen-Schwenningen (78056),500.239 2.779,"5,5 Zimmer",180 m²,700 m² Grundstuck,https://www.immowelt.de/expose/8cfd30f8-90fa-4292-879a-e15c4435a7ce,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Rinelen, Villingen-Schwenningen (78056),572.188 4.335,5 Zimmer,132 m²,700 m² Grundstuck,https://www.immowelt.de/expose/d09b3101-3195-4b30-aade-7ac939895599,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Rinelen, Villingen-Schwenningen (78056),622.994 4.756,5 Zimmer,131 m²,700 m² Grundstuck,https://www.immowelt.de/expose/6cf9a279-d2f6-43e5-b2cb-bf46fe997b36,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Rinelen, Villingen-Schwenningen (78056),658.260 3.428,7 Zimmer,192 m²,700 m² Grundstuck,https://www.immowelt.de/expose/0a7c3833-5654-4f09-bd74-9eb9850774dc,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78056),681.746 3.326,7 Zimmer,205 m²,699 m² Grundstuck,https://www.immowelt.de/expose/c298ea71-ad97-4e16-8675-21388f59ab10,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78056)",0
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (7856),948.207 4.625,7 Zimmer,205 m²,699 m² Grundstuck,https://www.immowelt.de/expose/6cfe7cf0-33e9-4190-bcf9-f8e10ec1fb94,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (7856)",0
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78056),724.126 4.310,"6,5 Zimmer",168 m²,699 m² Grundstuck,https://www.immowelt.de/expose/90b4a805-21d3-4f7e-9e43-6cd5a6555c5c,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78056)",0
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78056),637.469 4.942,4 Zimmer,129 m²,699 m² Grundstuck,https://www.immowelt.de/expose/673455d3-5bbf-483a-aca3-8b7897529c8b,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78056)",0
+Heilbronner Str., Villingen-Schwenningen (78054),249.000 2.767,4 Zimmer,90 m²,1. Geschoss,https://www.immowelt.de/expose/6ebfc04f-8206-4a88-986d-0844e99d2440,4083,"Heilbronner Str.,  Villingen-Schwenningen (78054)",197
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78056),159.000 2.839,3 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/e62a9889-6f95-4239-a58b-2d517472f35e,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Kopsbuhl, Villingen-Schwenningen (78048),1.200.000 3.053,9 Zimmer,"393,1 m²",934 m² Grundstuck,https://www.immowelt.de/expose/2b55f692-ed42-4006-a4af-d570442a48d1,4083,"Kopsbuhl,  Villingen-Schwenningen (78048)",12
+Rietgasse 5, Villingen-Schwenningen (78050),340.000 3.505,"3,5 Zimmer",97 m²,Unknown,https://www.immowelt.de/expose/3c8ea466-f4dd-4a80-af73-d80d4cd7ec42,4083,"Rietgasse 5,  Villingen-Schwenningen (78050)",285
+Marbach, Villingen-Schwenningen (78052),328.000 3.952,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/6271e8c2-4dda-4ac3-9eb5-d89dca3900aa,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78054),1.350.000 2.280,28 Zimmer,592 m²,750 m² Grundstuck,https://www.immowelt.de/expose/0dcd96e0-ea1b-4c81-9716-e9707a68a21c,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78054)",0
+Hubenloch, Villingen-Schwenningen (78048),420.000 4.349,"3,5 Zimmer","96,6 m²",3. Geschoss,https://www.immowelt.de/expose/fd7aec3e-ace6-48b7-819b-d20cd9c7824f,4083,"Hubenloch,  Villingen-Schwenningen (78048)",208
+Burkstr. 64, Villingen-Schwenningen (78054),89000,1 Zimmer,50. Geschoss,Unknown,https://www.immowelt.de/expose/c34983a9-87b2-4b12-b10f-bb9b09725911,4083,"Burkstr. 64,  Villingen-Schwenningen (78054)",341
+Burkstr. 64, Villingen-Schwenningen (78054),89000,1 Zimmer,Unknown,Unknown,https://www.immowelt.de/expose/3a1cc8d6-e724-453f-b699-837f9acdc37e,4083,"Burkstr. 64,  Villingen-Schwenningen (78054)",341
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),415.000 3.144,8 Zimmer,132 m²,405 m² Grundstuck,https://www.immowelt.de/expose/162cb8e2-2cd2-455d-b325-d11645e2019e,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Sudstadt, Villingen-Schwenningen (78050),189.000 2.974,2 Zimmer,"63,6 m²",Unknown,https://www.immowelt.de/expose/2c3bcc85-65d0-45cd-82f6-9ca9afa70656,4083,"Sudstadt,  Villingen-Schwenningen (78050)",100
+Hirzwaldweg 7, Villingen-Schwenningen (78054),495.000 3.257,5 Zimmer,152 m²,6. Geschoss,https://www.immowelt.de/expose/bd13dfed-d57d-4a0a-8344-d34419d60d2c,4083,"Hirzwaldweg 7,  Villingen-Schwenningen (78054)",137
+Ob dem Dorf 3, Villingen-Schwenningen (78052),365.800 4.295,3 Zimmer,"85,2 m²",1. Geschoss,https://www.immowelt.de/expose/8c35021c-bd65-4381-9ab8-bfaf59d24945,4083,"Ob dem Dorf 3,  Villingen-Schwenningen (78052)",19
+Nunnensteig 10, Villingen-Schwenningen (78052),2.990.000 4.365,685 m²,5.500 m² Grundstuck,Unknown,https://www.immowelt.de/expose/abe4810f-cc8b-4865-9396-c97e6d40d73e,4083,"Nunnensteig 10,  Villingen-Schwenningen (78052)",26
+Neckarstadtteil, Villingen-Schwenningen (78056),284700,3 Zimmer,Unknown,Unknown,https://www.immowelt.de/expose/0bb62a14-5c44-4d4d-95ab-0589f66521fa,4083,"Neckarstadtteil,  Villingen-Schwenningen (78056)",0
+Hammerhalde, Villingen-Schwenningen (78050),229.000 2.416,4 Zimmer,"94,8 m²",1. Geschoss,https://www.immowelt.de/expose/ed890221-1bc6-4a41-9130-8ed2cca0ecaa,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Marbach, Marbach (78052),240.000 2.541,3 Zimmer,"94,4 m²",EG,https://www.immowelt.de/expose/728b90ba-4c80-416e-a5e9-19b2a9df38af,4083,"Marbach,  Marbach (78052)",15
+Kopsbuhl, Villingen-Schwenningen (78048),435.000 2.719,"5,5 Zimmer",160 m²,211 m² Grundstuck,https://www.immowelt.de/expose/6f616dea-cfdb-4c04-9d9b-52572520c160,4083,"Kopsbuhl,  Villingen-Schwenningen (78048)",12
+Viktoria-von-Baden-StraÃŸe 18, Villingen-Schwenningen (78050),999.000 5.400,"4,5 Zimmer",185 m²,frei ab sofort,https://www.immowelt.de/expose/e92913e3-661e-4d5b-960c-7677dc7f385c,4083,"Viktoria-von-Baden-StraÃŸe 18,  Villingen-Schwenningen (78050)",0
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),529.000 1.775,298 m²,531 m² Grundstuck,Unknown,https://www.immowelt.de/expose/a0d6802a-7169-4f37-b090-c16faba1a265,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+SchilterhÃ¤usle, Villingen-Schwenningen (78052),279.000 4.333,"2,5 Zimmer","64,4 m²",2. Geschoss,https://www.immowelt.de/expose/b35fbf0d-a537-4b2e-9f22-20f89469d308,4083,"SchilterhÃ¤usle,  Villingen-Schwenningen (78052)",0
+Kurgebiet, Villingen-Schwenningen (78048),1250000,6 Zimmer,180 m²,1.057 m² Grundstuck,https://www.immowelt.de/expose/894959a4-3112-40d3-a8b0-b811ff2205c4,4083,"Kurgebiet,  Villingen-Schwenningen (78048)",8
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78056),455.000 3.396,"4,5 Zimmer",134 m²,Unknown,https://www.immowelt.de/expose/9038e7d1-4b75-491f-9d28-db8f54329ac6,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),899.000 3.367,267 m²,521 m² Grundstuck,frei ab sofort,https://www.immowelt.de/expose/c2ee86e3-093e-45ff-91e5-820feb3397da,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+Harzerstr. 26, Villingen-Schwenningen (78054),235.000 3.406,3 Zimmer,69 m²,1. Geschoss,https://www.immowelt.de/expose/b01bf195-3522-4f74-897c-5623417e793d,4083,"Harzerstr. 26,  Villingen-Schwenningen (78054)",398
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78054),504.900 3.740,"5,5 Zimmer",135 m²,271 m² Grundstuck,https://www.immowelt.de/expose/e97a22e0-5ca5-49c0-9a97-7ee80a2f5f48,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78054)",0
+Hubenloch, Villingen-Schwenningen (78048),420.000 4.478,"3,5 Zimmer","93,8 m²",Unknown,https://www.immowelt.de/expose/91862f69-6d66-4763-a9b9-9fae88841b86,4083,"Hubenloch,  Villingen-Schwenningen (78048)",208
+WÃ¶schhalde 12, Villingen-Schwenningen (78052),225.900 2.196,"4,5 Zimmer","102,9 m²",EG,https://www.immowelt.de/expose/9efabb0c-029c-4d22-9e59-989f92660b1f,4083,"WÃ¶schhalde 12,  Villingen-Schwenningen (78052)",0
+Weigheim, Villingen-Schwenningen (78056),99.900 1.959,3 Zimmer,51 m²,2. Geschoss,https://www.immowelt.de/expose/986614e4-c735-4254-bd79-99f760ff8c0d,4083,"Weigheim,  Villingen-Schwenningen (78056)",20
+Hammerstatt - Rammelswiesen, Villingen-Schwenningen (78056),235.000 2.350,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/3e583a6a-40a9-43cc-af5f-68697a8e670a,4083,"Hammerstatt - Rammelswiesen,  Villingen-Schwenningen (78056)",125
+Goldenbuhl, Villingen-Schwenningen (78048),390.000 4.045,"3,5 Zimmer","96,4 m²",frei ab 01.12.2024,https://www.immowelt.de/expose/33235168-d704-4083-a562-573b575674e0,4083,"Goldenbuhl,  Villingen-Schwenningen (78048)",49
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78054),395.000 3.160,125 m²,414 m² Grundstuck,Unknown,https://www.immowelt.de/expose/c3580d90-c689-4269-a257-30efbd9ae244,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78054)",0
+Neckarstadtteil, Villingen-Schwenningen (78054),329.000 3.002,5 Zimmer,"109,6 m²",189 m² Grundstuck,https://www.immowelt.de/expose/4a49302b-fe5f-4868-a5f3-2aaa9009fc29,4083,"Neckarstadtteil,  Villingen-Schwenningen (78054)",0
+Krankenhaus - Alter Friedhof, Villingen-Schwenningen (78054),225.000 3.816,2 Zimmer,59 m²,frei ab sofort,https://www.immowelt.de/expose/7e0cd821-7b72-4390-ad31-3a9495a748c7,4083,"Krankenhaus - Alter Friedhof,  Villingen-Schwenningen (78054)",0
+Bickeberg, Villingen-Schwenningen (78050),675.000 2.744,5 Zimmer,246 m²,Unknown,https://www.immowelt.de/expose/af074f3d-cb4e-480f-b2a4-10db7120cc54,4083,"Bickeberg,  Villingen-Schwenningen (78050)",176
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),449.000 1.142,10 Zimmer,393 m²,382 m² Grundstuck,https://www.immowelt.de/expose/a3d911fa-6bed-46aa-b24c-b21515647b45,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+Hubenloch, Villingen-Schwenningen (78048),530.000 4.712,4 Zimmer,"112,5 m²",Unknown,https://www.immowelt.de/expose/94feee45-7dbb-4d56-96f1-e8641f29f850,4083,"Hubenloch,  Villingen-Schwenningen (78048)",208
+Hammerstatt - Rammelswiesen, Villingen-Schwenningen (78056),249.000 3.354,2 Zimmer,"74,2 m²",UG,https://www.immowelt.de/expose/8b64cfeb-e3ee-4334-afbf-93226d8414d6,4083,"Hammerstatt - Rammelswiesen,  Villingen-Schwenningen (78056)",125
+Christian-Link-Str. 6, Villingen-Schwenningen (78056),479.000 4.094,"3,5 Zimmer",117 m²,1. Geschoss,https://www.immowelt.de/expose/7ad9ffef-8943-4925-bbe4-c8c4197ff721,4083,"Christian-Link-Str. 6,  Villingen-Schwenningen (78056)",129
+LandhausstraÃŸe 11, Villingen-Schwenningen (78056),499.000 4.017,"3,5 Zimmer","124,2 m²",4. Geschoss,https://www.immowelt.de/expose/081fba32-4e06-4b86-a4a8-ab437cb13101,4083,"LandhausstraÃŸe 11,  Villingen-Schwenningen (78056)",0
+Christian-Link-StraÃŸe 6, Villingen-Schwenningen (78056),189.000 3.720,2 Zimmer,"50,8 m²",EG,https://www.immowelt.de/expose/b081ff44-56d0-4b66-b301-a2450db70716,4083,"Christian-Link-StraÃŸe 6,  Villingen-Schwenningen (78056)",0
+Krankenhaus - Alter Friedhof, Villingen-Schwenningen (78054),529.000 2.955,7 Zimmer,179 m²,734 m² Grundstuck,https://www.immowelt.de/expose/566321fe-5a5e-4312-a33e-08a90db02113,4083,"Krankenhaus - Alter Friedhof,  Villingen-Schwenningen (78054)",0
+Neckarstadtteil, Villingen-Schwenningen (78056),378.000 2.908,130 m²,682 m² Grundstuck,Unknown,https://www.immowelt.de/expose/3bfc9c6e-5466-4d08-8eb0-0097baea8149,4083,"Neckarstadtteil,  Villingen-Schwenningen (78056)",0
+Pfaffenweiler, Villingen-Schwenningen (78052),329.000 3.225,4 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/5c7fe8f8-527a-419a-a7eb-e6d992f0bd6f,4083,"Pfaffenweiler,  Villingen-Schwenningen (78052)",47
+Rinelen, Villingen-Schwenningen (78056),395.000 3.292,5 Zimmer,120 m²,686 m² Grundstuck,https://www.immowelt.de/expose/24beba0f-0094-40aa-9f6b-c460077bc3cf,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78052),159.000 4.076,2 Zimmer,39 m²,Unknown,https://www.immowelt.de/expose/8f3acb6d-7531-4bc5-86c3-6df22686e7fa,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78052)",0
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78056),219.000 2.425,"3,5 Zimmer","90,3 m²",Unknown,https://www.immowelt.de/expose/c1707dda-c04f-4457-90f6-5466c06465c2,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),648.000 2.160,11 Zimmer,300 m²,534 m² Grundstuck,https://www.immowelt.de/expose/864b570b-a5c0-4ce0-a661-606d9f72e573,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Weilersbach, Villingen-Schwenningen (78052),375.000 3.643,4 Zimmer,"102,9 m²",Unknown,https://www.immowelt.de/expose/dbbb34ae-44f6-4e1a-8584-827a0c578374,4083,"Weilersbach,  Villingen-Schwenningen (78052)",0
+Innenstadt - Villingen, Villingen-Schwenningen (78050),398.000 2.843,5 Zimmer,140 m²,51 m² Grundstuck,https://www.immowelt.de/expose/d422b5ac-fbde-45c7-aa4d-452c5b2b7e3c,4083,"Innenstadt - Villingen,  Villingen-Schwenningen (78050)",0
+Hammerhalde, Villingen-Schwenningen (78050),795.000 2.880,8 Zimmer,276 m²,1.386 m² Grundstuck,https://www.immowelt.de/expose/fc4ada73-37cd-428d-895b-7b6fdb33c01d,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Obereschach, Villingen-Schwenningen (78052),360.000 4.500,"3,5 Zimmer",80 m²,1. Geschoss,https://www.immowelt.de/expose/430ef6a0-b13a-4c87-ad52-373ab41feac0,4083,"Obereschach,  Villingen-Schwenningen (78052)",0
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78056),690000,479 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/6215b6c0-7786-4c76-8281-b3e1121de41c,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),869.000 2.897,8 Zimmer,300 m²,391 m² Grundstuck,https://www.immowelt.de/expose/a0b11e43-73e3-4965-a366-a3c45ebd2795,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+Obereschach, Villingen-Schwenningen (78052),995.000 3.344,9 Zimmer,"297,6 m²",732 m² Grundstuck,https://www.immowelt.de/expose/e707453e-3eff-4cd2-8d3e-eb7fc8ff111e,4083,"Obereschach,  Villingen-Schwenningen (78052)",0
+Hubenloch, Villingen-Schwenningen (78048),516.910 5.327,"3,5 Zimmer",97 m²,1. Geschoss,https://www.immowelt.de/expose/76bbaea2-d2fb-42ff-a930-7990d599d74b,4083,"Hubenloch,  Villingen-Schwenningen (78048)",208
+Innenstadt - Villingen, Villingen-Schwenningen (78050),595.000 2.452,11 Zimmer,"242,6 m²",140 m² Grundstuck,https://www.immowelt.de/expose/1db9ddc0-5928-4e84-b0e5-70dd60e6c230,4083,"Innenstadt - Villingen,  Villingen-Schwenningen (78050)",0
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),Preis auf Anfrage,12 Zimmer,337 m²,595 m² Grundstuck,https://www.immowelt.de/expose/f673850b-6aa9-4763-bfa4-d5b462c8a2fa,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),349.000 2.585,4 Zimmer,135 m²,200 m² Grundstuck,https://www.immowelt.de/expose/a79407d6-32ff-4d85-8b01-7eab578112f6,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+Hubenloch, Villingen-Schwenningen (78048),342.800 5.112,"2,5 Zimmer","67,1 m²",EG,https://www.immowelt.de/expose/ef09c416-c3bd-4a51-bfba-7a9f7eadd548,4083,"Hubenloch,  Villingen-Schwenningen (78048)",208
+Rinelen, Villingen-Schwenningen (78056),395.000 3.950,5 Zimmer,100 m²,270 m² Grundstuck,https://www.immowelt.de/expose/f8acc706-ba1c-4fd3-a2e5-ff49a3c7c078,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),420.000 2.360,178 m²,Unknown,Unknown,https://www.immowelt.de/expose/908d341d-d2f0-48c9-a5aa-379563ac3d55,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Rinelen, Villingen-Schwenningen (78056),449.000 2.993,5 Zimmer,150 m²,2. Geschoss,https://www.immowelt.de/expose/50502ddd-dd85-4b77-803c-5dd7d1cac3af,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Sudstadt, Villingen-Schwenningen (78050),639.000 4.915,3 Zimmer,130 m²,2. Geschoss,https://www.immowelt.de/expose/7f461ada-3ac2-4aed-a6fd-4b559782a1e3,4083,"Sudstadt,  Villingen-Schwenningen (78050)",100
+Hammerhalde, Villingen-Schwenningen (78050),270.000 2.660,4 Zimmer,"101,5 m²",Unknown,https://www.immowelt.de/expose/fdd9152f-7af8-4d12-99c2-52f7c2f1d747,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78056),470.000 2.117,9 Zimmer,222 m²,210 m² Grundstuck,https://www.immowelt.de/expose/d78c819f-377e-4283-bacb-95dbdd3d1dcc,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Herzogenweiler, Herzogenweiler (78052),368.104 3.120,4 Zimmer,118 m²,Unknown,https://www.immowelt.de/expose/98c7cb41-3812-40dc-8c8a-1d1f6b29e2ef,4083,"Herzogenweiler,  Herzogenweiler (78052)",15
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78054),368.104 3.120,4 Zimmer,118 m²,Unknown,https://www.immowelt.de/expose/bf7f3d6f-d65d-4c2f-83b1-35c34ddada05,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78054)",0
+Hammerstatt - Rammelswiesen, Villingen-Schwenningen (78056),345.000 2.614,7 Zimmer,132 m²,348 m² Grundstuck,https://www.immowelt.de/expose/b42bca21-3351-4f24-b32e-b50f17e5d725,4083,"Hammerstatt - Rammelswiesen,  Villingen-Schwenningen (78056)",125
+Marbach, Villingen-Schwenningen (78052),378.000 2.779,"5,5 Zimmer",136 m²,206 m² Grundstuck,https://www.immowelt.de/expose/c4d989f6-e402-4b8e-8d1b-7b1c9a2f2ac4,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Hammerhalde, Villingen-Schwenningen (78050),429.000 2.480,5 Zimmer,173 m²,369 m² Grundstuck,https://www.immowelt.de/expose/e9d0014a-61e9-4904-a184-922dd061c64a,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),238.000 2.183,4 Zimmer,109 m²,frei ab sofort,https://www.immowelt.de/expose/a5240cf9-7829-4ce2-b285-d8c91b76b894,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Bickeberg, Villingen-Schwenningen (78048),134.000 2.500,3 Zimmer,54 m²,1. Geschoss,https://www.immowelt.de/expose/56022105-b567-4f93-972c-97efc00e8cda,4083,"Bickeberg,  Villingen-Schwenningen (78048)",176
+Innenstadt - Villingen, Villingen-Schwenningen (78050),479.000 1.349,"4,5 Zimmer",355 m²,251 m² Grundstuck,https://www.immowelt.de/expose/a19b6b61-ebfa-4303-a646-8c550426d40a,4083,"Innenstadt - Villingen,  Villingen-Schwenningen (78050)",0
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78056),795.450 4.735,"6,5 Zimmer",168 m²,699 m² Grundstuck,https://www.immowelt.de/expose/71ade08a-87f5-4cda-9513-e72ff1b893d6,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78056)",0
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78056),688.148 5.334,4 Zimmer,129 m²,699 m² Grundstuck,https://www.immowelt.de/expose/93b67e5f-18a1-41af-b982-6ab355eb3058,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78056)",0
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78056),617.336 7.349,"3,5 Zimmer",84 m²,699 m² Grundstuck,https://www.immowelt.de/expose/291074ac-8751-4c02-b136-45af694ed465,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78056)",0
+Krankenhaus - Alter Friedhof, VS-Schwenningen (78056),430.783 2.931,6 Zimmer,147 m²,401 m² Grundstuck,https://www.immowelt.de/expose/9ba48c2b-e249-4615-84bd-edcd3fd0933b,4083,"Krankenhaus - Alter Friedhof,  VS-Schwenningen (78056)",0
+Krankenhaus - Alter Friedhof, VS-Schwenningen (78056),516.913 4.237,5 Zimmer,122 m²,400 m² Grundstuck,https://www.immowelt.de/expose/b12bca9c-3386-414f-b7fd-0f7691d2ca28,4083,"Krankenhaus - Alter Friedhof,  VS-Schwenningen (78056)",0
+Sturmbuhl - FH Polizei, VS-Schwenningen (78054),804.968 4.193,7 Zimmer,192 m²,501 m² Grundstuck,https://www.immowelt.de/expose/581d251f-cf42-43a0-b3da-53b0a41967db,4083,"Sturmbuhl - FH Polizei,  VS-Schwenningen (78054)",0
+Rinelen, Villingen-Schwenningen (78056),319.900 2.711,5 Zimmer,118 m²,Unknown,https://www.immowelt.de/expose/7908d251-8642-44e8-b024-cd4f39494b3e,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Hammerhalde, Villingen-Schwenningen (78050),659.000 3.994,"4,5 Zimmer",165 m²,1.049 m² Grundstuck,https://www.immowelt.de/expose/7e631696-10e9-491e-89b8-d569ae79a09c,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Weigheim, Villingen-Schwenningen - Weigheim (78056),580.000 2.408,10 Zimmer,"240,8 m²",2.000 m² Grundstuck,https://www.immowelt.de/expose/a3a40c25-eed6-41fd-a203-6ce5a8f143cc,4083,"Weigheim,  Villingen-Schwenningen - Weigheim (78056)",16
+Weigheim, Villingen-Schwenningen (78056),410.000 2.715,8 Zimmer,151 m²,862 m² Grundstuck,https://www.immowelt.de/expose/9a46869d-05d9-4b61-9805-a5e4055016b9,4083,"Weigheim,  Villingen-Schwenningen (78056)",20
+Weilersbach, Villingen-Schwenningen Weilersbach (78052),649.000 3.245,8 Zimmer,200 m²,2.098 m² Grundstuck,https://www.immowelt.de/expose/42581f56-225c-4774-86d1-a6c6fbcc9260,4083,"Weilersbach,  Villingen-Schwenningen Weilersbach (78052)",0
+Steppach, Villingen-Schwenningen (78048),280.000 2.593,5 Zimmer,108 m²,500 m² Grundstuck,https://www.immowelt.de/expose/53581837-a2cf-4973-900d-245ac50b374d,4083,"Steppach,  Villingen-Schwenningen (78048)",78
+Hammerstatt - Rammelswiesen, Villingen-Schwenningen (78056),219.000 2.918,3 Zimmer,"75,1 m²",2. Geschoss,https://www.immowelt.de/expose/557d57ab-d2e5-44dc-b219-9f69cf211b3d,4083,"Hammerstatt - Rammelswiesen,  Villingen-Schwenningen (78056)",125
+Krankenhaus - Alter Friedhof, Villingen-Schwenningen (78054),219.000 2.808,3 Zimmer,78 m²,1. Geschoss,https://www.immowelt.de/expose/c0a0a8fa-879a-40ad-a096-2d28dc5d0f62,4083,"Krankenhaus - Alter Friedhof,  Villingen-Schwenningen (78054)",0
+Marbach, Villingen-Schwenningen (78052),529.550 4.236,4 Zimmer,125 m²,Unknown,https://www.immowelt.de/expose/dbc06da5-963b-4eee-b636-1a9707313f82,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Marbach, Villingen-Schwenningen (78052),351.550 4.185,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/4f4950dc-70a2-4653-bcbd-2cb40a83f5a5,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Marbach, Villingen-Schwenningen (78052),359.450 4.279,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/190e9c89-36f1-416d-bdd1-468dcfd16a07,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Marbach, Villingen-Schwenningen (78052),505.750 4.046,4 Zimmer,125 m²,Unknown,https://www.immowelt.de/expose/ed5bb46e-cdd8-4e8e-9537-0f896c1c4793,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Marbach, Villingen-Schwenningen (78052),320.000 3.855,3 Zimmer,83 m²,EG,https://www.immowelt.de/expose/4a77be5b-7239-4808-99cd-16867c7864d3,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Marbach, Villingen-Schwenningen (78052),343.650 4.091,3 Zimmer,84 m²,EG,https://www.immowelt.de/expose/540c6db4-186c-4e05-a049-df25aa3cb6bc,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Marbach, Villingen-Schwenningen (78052),541.450 4.332,4 Zimmer,125 m²,3. Geschoss,https://www.immowelt.de/expose/1a87cd64-7d0f-48f8-9a00-f7135f6fde89,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Marbach, Villingen-Schwenningen (78052),336.000 4.048,3 Zimmer,83 m²,2. Geschoss,https://www.immowelt.de/expose/927a9597-9f64-452a-af8f-f253192ddc58,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Marbach, Villingen-Schwenningen (78052),344.000 4.145,3 Zimmer,83 m²,3. Geschoss,https://www.immowelt.de/expose/fd241f31-8521-43f6-b8ae-79d2d85c8f10,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Marbach, Villingen-Schwenningen (78052),517.650 4.141,4 Zimmer,125 m²,1. Geschoss,https://www.immowelt.de/expose/15e9f259-8f8c-42f0-b8eb-c2a672de541a,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),470.000 1.661,"9,5 Zimmer",283 m²,298 m² Grundstuck,https://www.immowelt.de/expose/6318ed9c-03b5-49f0-abc5-d09737bc9b56,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+Krankenhaus - Alter Friedhof, Villingen-Schwenningen (78054),139.000 2.356,2 Zimmer,59 m²,1. Geschoss,https://www.immowelt.de/expose/49422fd7-84e1-4c39-b300-da7d013b8969,4083,"Krankenhaus - Alter Friedhof,  Villingen-Schwenningen (78054)",0
+Dauchinger StraÃŸe, Villingen-Schwenningen (78056),478.200 3.826,5 Zimmer,125 m²,644 m² Grundstuck,https://www.immowelt.de/expose/4cfc8eb7-741d-4b3f-ba4b-68ac13fd6ccb,4083,"Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Dauchinger StraÃŸe, Villingen-Schwenningen (78056),439.890 3.928,5 Zimmer,112 m²,644 m² Grundstuck,https://www.immowelt.de/expose/197de491-a608-44f8-b0f9-8b683c92626d,4083,"Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Dauchinger  StraÃŸe, Villingen-Schwenningen (78056),498.790 3.588,5 Zimmer,139 m²,644 m² Grundstuck,https://www.immowelt.de/expose/5101408a-2577-49cd-859e-a5613363b005,4083,"Dauchinger  StraÃŸe,  Villingen-Schwenningen (78056)",0
+HÃ¶lderlinstraÃŸe, Villingen-Schwenningen (78056),494.400 3.893,5 Zimmer,127 m²,644 m² Grundstuck,https://www.immowelt.de/expose/921cb7be-6437-4552-978a-c7a46fcd150f,4083,"HÃ¶lderlinstraÃŸe,  Villingen-Schwenningen (78056)",0
+Steppach, Villingen-Schwenningen (78048),495.000 2.705,9 Zimmer,183 m²,651 m² Grundstuck,https://www.immowelt.de/expose/63a47582-c7c1-4cc5-b278-d3921886f058,4083,"Steppach,  Villingen-Schwenningen (78048)",78
+Hardtstrasse 33, Villingen-Schwenningen (78054),310.000 2.981,3 Zimmer,104 m²,3. Geschoss,https://www.immowelt.de/expose/55d2121d-b764-4be4-acfd-ec02c0ac0862,4083,"Hardtstrasse 33,  Villingen-Schwenningen (78054)",178
+Kopsbuhl, Villingen-Schwenningen (78048),297.000 3.228,"3,5 Zimmer",92 m²,Unknown,https://www.immowelt.de/expose/f345ce4e-3e6b-4c80-a820-e06e183b1b26,4083,"Kopsbuhl,  Villingen-Schwenningen (78048)",12
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),281.500 3.871,3 Zimmer,"72,7 m²",3. Geschoss,https://www.immowelt.de/expose/9f773447-e52e-4a2a-9e1b-22a9a9c0f871,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+Pfaffenweiler, Villingen-Schwenningen (78052),315.000 2.669,"4,5 Zimmer",118 m²,1. Geschoss,https://www.immowelt.de/expose/c4b400b3-540d-480f-b012-925b9f7d992d,4083,"Pfaffenweiler,  Villingen-Schwenningen (78052)",47
+Muhlhausen, Villingen-Schwenningen (78056),240.000 2.353,4 Zimmer,102 m²,1. Geschoss,https://www.immowelt.de/expose/6389d49f-6ef9-47a1-b8ee-48d9548dd37d,4083,"Muhlhausen,  Villingen-Schwenningen (78056)",15
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),129.000 2.915,1 Zimmer,"44,3 m²",3. Geschoss,https://www.immowelt.de/expose/a898e5f7-32e6-440a-9e7c-710a13fd1ba9,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+WÃ¶schhalde, Villingen-Schwenningen (78052),206.000 2.264,"3,5 Zimmer",91 m²,3. Geschoss,https://www.immowelt.de/expose/7a7a6c21-a811-442f-afd3-ec83716c1c77,4083,"WÃ¶schhalde,  Villingen-Schwenningen (78052)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),185.000 2.637,3 Zimmer,"70,2 m²",3. Geschoss,https://www.immowelt.de/expose/f1d8cc3a-a0ef-47d0-b256-9a9587f9ff50,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),269.000 2.637,"3,5 Zimmer",102 m²,4. Geschoss,https://www.immowelt.de/expose/34b3695c-f24b-4649-b97d-ef1d6793246a,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Hammerhalde, Villingen-Schwenningen (78050),501.999 3.137,5 Zimmer,160 m²,475 m² Grundstuck,https://www.immowelt.de/expose/ef62ff5d-427d-4bd6-87ba-f140ea52919f,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Rinelen, Villingen-Schwenningen (78056),549.448 3.371,5 Zimmer,163 m²,520 m² Grundstuck,https://www.immowelt.de/expose/aa41f98e-36cb-44a9-bfa2-b1b53ab5cd84,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Rinelen, Villingen-Schwenningen (78056),413.428 3.307,4 Zimmer,125 m²,375 m² Grundstuck,https://www.immowelt.de/expose/63fd97cc-3937-4e8b-b753-76eb0a79d591,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Hammerhalde, Villingen-Schwenningen (78050),388.398 3.468,4 Zimmer,112 m²,340 m² Grundstuck,https://www.immowelt.de/expose/6c09581a-564d-4497-bed4-a7e1398378ce,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78056),617.337 7.263,"3,5 Zimmer",85 m²,700 m² Grundstuck,https://www.immowelt.de/expose/fe3ca344-ebdf-404a-8cff-047cbcc46cb8,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78056)",0
+Kurgebiet, Villingen-Schwenningen (78048),380.000 3.901,"3,5 Zimmer","97,4 m²",Unknown,https://www.immowelt.de/expose/6b748f05-ca8c-43e2-913d-9e66d5b0925f,4083,"Kurgebiet,  Villingen-Schwenningen (78048)",8
+Hammerstatt - Rammelswiesen, Villingen-Schwenningen (78054),229.000 2.462,5 Zimmer,93 m²,81 m² Grundstuck,https://www.immowelt.de/expose/ab7b767b-96d5-4859-b0cc-9050a83599c8,4083,"Hammerstatt - Rammelswiesen,  Villingen-Schwenningen (78054)",125
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),249.000 1.872,"3,5 Zimmer",133 m²,4. Geschoss,https://www.immowelt.de/expose/ffec6b23-7e49-41ba-ad86-1195be01407f,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Innenstadt - Villingen, Villingen-Schwenningen (78050),220.000 1.457,6 Zimmer,151 m²,73 m² Grundstuck,https://www.immowelt.de/expose/e675e764-2428-410c-8a9f-04f13134c764,4083,"Innenstadt - Villingen,  Villingen-Schwenningen (78050)",0
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78056),479.000 4.241,4 Zimmer,"112,9 m²",Unknown,https://www.immowelt.de/expose/b00c9ce4-6f7e-4858-b11c-2edd05ad1901,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Steppach, Villingen-Schwenningen (78048),599.000 2.435,7 Zimmer,246 m²,589 m² Grundstuck,https://www.immowelt.de/expose/0fe4ea6f-4124-4993-9b8f-e9bea305093c,4083,"Steppach,  Villingen-Schwenningen (78048)",78
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),280.000 2.717,"5,5 Zimmer","104,9 m²",249 m² Grundstuck,https://www.immowelt.de/expose/1f688bab-f90c-4b66-9b1a-f23fb8f8f361,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Rinelen, Villingen-Schwenningen (78056),179.000 2.073,3 Zimmer,"86,4 m²",7. Geschoss,https://www.immowelt.de/expose/333af703-cc60-42de-bf9e-839f95ab0052,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Krankenhaus - Alter Friedhof, VS-Schwenningen (78056),466.235 3.791,5 Zimmer,123 m²,401 m² Grundstuck,https://www.immowelt.de/expose/ed684191-1c8b-471f-9d22-b41095527d08,4083,"Krankenhaus - Alter Friedhof,  VS-Schwenningen (78056)",0
+Sturmbuhl - FH Polizei, VS-Schwenningen (78054),850.665 4.752,4 Zimmer,179 m²,501 m² Grundstuck,https://www.immowelt.de/expose/314dded0-d276-421f-9a17-9f120d36926f,4083,"Sturmbuhl - FH Polizei,  VS-Schwenningen (78054)",0
+Weilersbach, Villingen-Schwenningen (78052),545.000 3.343,6 Zimmer,"163,1 m²",616 m² Grundstuck,https://www.immowelt.de/expose/4e323a4d-c1f1-4a48-b8aa-7f395aceb17f,4083,"Weilersbach,  Villingen-Schwenningen (78052)",0
+WÃ¶schhalde 6 - 24, Villingen-Schwenning (78052),732.100 1.882,"14,5 Zimmer",389 m²,Unknown,https://www.immowelt.de/expose/8f76bfdb-10e2-415f-88f8-01cb8dc7bb80,4083,"WÃ¶schhalde 6 - 24,  Villingen-Schwenning (78052)",0
+Hammerstatt - Rammelswiesen, Villingen-Schwenningen (78056),445.000 4.363,"4,5 Zimmer",102 m²,2. Geschoss,https://www.immowelt.de/expose/e2f4dcdc-3c6c-4a60-9a4d-083a34fd3a69,4083,"Hammerstatt - Rammelswiesen,  Villingen-Schwenningen (78056)",125
+WÃ¶schhalde 6, Villingen-Schwenning (78052),167.000 1.832,3 Zimmer,"91,2 m²",3. Geschoss,https://www.immowelt.de/expose/076bc5d4-94e1-4307-859f-f9959cc9a241,4083,"WÃ¶schhalde 6,  Villingen-Schwenning (78052)",0
+WÃ¶schhalde 22, Villingen-Schwenning (78052),188.500 1.831,"4,5 Zimmer","102,9 m²",1. Geschoss,https://www.immowelt.de/expose/5db70701-8be7-49d6-9658-2bffe05e86f3,4083,"WÃ¶schhalde 22,  Villingen-Schwenning (78052)",0
+WÃ¶schhalde, Villingen-Schwenning (78052),192.300 1.832,"4,5 Zimmer",105 m²,2. Geschoss,https://www.immowelt.de/expose/b193b4cf-ac9f-4ea9-9cbf-7328ba172eb6,4083,"WÃ¶schhalde,  Villingen-Schwenning (78052)",0
+Erbsenlachen 32, Villingen (78050),139.500 2.159,"3,5 Zimmer","64,6 m²",1. Geschoss,https://www.immowelt.de/expose/09a36b3c-5465-4474-a372-bf3ed4aa441b,4083,"Erbsenlachen 32,  Villingen (78050)",55
+Erbsenlachen 28, Villingen (78050),139.500 2.159,3 Zimmer,"64,6 m²",1. Geschoss,https://www.immowelt.de/expose/12381d0d-c46a-4637-966e-a446a5b16b0f,4083,"Erbsenlachen 28,  Villingen (78050)",52
+An Der Schelmengass 36, Villingen-Schwenning (78048),141.100 2.009,3 Zimmer,"70,2 m²",2. Geschoss,https://www.immowelt.de/expose/2a25f81c-1b13-4d0b-ab90-506de4bb2dab,4083,"An Der Schelmengass 36,  Villingen-Schwenning (78048)",0
+UhlandstraÃŸee 3, Villingen-Schwenningen (78054),2.700.000 1.893,1.426 m²,506 m² Grundstuck,frei ab sofort,https://www.immowelt.de/expose/21711fed-98b8-463d-bb24-801a5d469612,4083,"UhlandstraÃŸee 3,  Villingen-Schwenningen (78054)",0
+UhlandstraÃŸee 3, Villingen-Schwenningen (78054),2.700.000 1.893,1.426 m²,506 m² Grundstuck,Unknown,https://www.immowelt.de/expose/a909eda4-e272-4e0c-892b-77eff8fcc6e8,4083,"UhlandstraÃŸee 3,  Villingen-Schwenningen (78054)",0
+Viktoria-von-Baden-StraÃŸe 18, Villingen-Schwenningen (78050),999.000 5.400,"4,5 Zimmer",185 m²,frei ab sofort,https://www.immowelt.de/expose/06dde9c1-89f5-4e2a-b803-73104989c3c8,4083,"Viktoria-von-Baden-StraÃŸe 18,  Villingen-Schwenningen (78050)",0
+Krankenhaus - Alter Friedhof, VS-Schwenningen (78056),589.646 3.984,6 Zimmer,148 m²,401 m² Grundstuck,https://www.immowelt.de/expose/8b3f47b8-4eb1-4a3b-977f-30b075b88597,4083,"Krankenhaus - Alter Friedhof,  VS-Schwenningen (78056)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),106.200 1.517,3 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/3c67643b-9ac7-4172-a2a8-b6f68e5ee2d9,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),79.000 1.436,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/7a198b57-60f4-40ce-9432-89fd74bffcfa,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+Weigheim, Villingen-Schwenningen (78056),245.000 2.634,1 Zimmer,93 m²,247 m² Grundstuck,https://www.immowelt.de/expose/ad92396b-547c-449e-ab54-4386bd68c7a9,4083,"Weigheim,  Villingen-Schwenningen (78056)",20
+Hammerstatt - Rammelswiesen, Villingen-Schwenningen (78056),775.000 1.938,15 Zimmer,400 m²,473 m² Grundstuck,https://www.immowelt.de/expose/0cdc0a31-efde-4ce2-abc6-761442c2d7ee,4083,"Hammerstatt - Rammelswiesen,  Villingen-Schwenningen (78056)",125
+WÃ¶schhalde 16, Villingen-Schwenning (78052),176.000 1.936,"3,5 Zimmer","90,9 m²",1. Geschoss,https://www.immowelt.de/expose/e36be84f-db28-443f-adfa-28d774501e2c,4083,"WÃ¶schhalde 16,  Villingen-Schwenning (78052)",0
+Neckarstadtteil, Villingen-Schwenningen (78056),485.000 1.497,9 Zimmer,324 m²,232 m² Grundstuck,https://www.immowelt.de/expose/5f60b4d5-c22e-4745-8201-d0fba889279d,4083,"Neckarstadtteil,  Villingen-Schwenningen (78056)",0
+WÃ¶schhalde, Villingen-Schwenningen (78052),178.000 2.472,2 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/e8881567-89be-411f-9860-c48954129312,4083,"WÃ¶schhalde,  Villingen-Schwenningen (78052)",0
+Weilersbacher StraÃŸe, Villingen-Schwenningen (78056),479.300 3.774,5 Zimmer,127 m²,401 m² Grundstuck,https://www.immowelt.de/expose/a669bbf0-9fc4-4c33-865f-ef23469ec282,4083,"Weilersbacher StraÃŸe,  Villingen-Schwenningen (78056)",0
+Weilersbacher StraÃŸe, Villingen-Schwenningen (78056),469.200 3.376,5 Zimmer,139 m²,401 m² Grundstuck,https://www.immowelt.de/expose/1777552f-4869-4f3f-9b7d-551e1ce62737,4083,"Weilersbacher StraÃŸe,  Villingen-Schwenningen (78056)",0
+Weilersbacher StraÃŸe, Villingen-Schwenningen (78056),442.300 3.538,5 Zimmer,125 m²,401 m² Grundstuck,https://www.immowelt.de/expose/15727da6-4da1-435e-b273-5565d4d0562f,4083,"Weilersbacher StraÃŸe,  Villingen-Schwenningen (78056)",0
+Weilersbacher StraÃŸe, Villingen-Schwenningen (78056),414.400 3.700,5 Zimmer,112 m²,401 m² Grundstuck,https://www.immowelt.de/expose/6f9a7c6d-48e7-4dae-aa74-5589bbf97fa0,4083,"Weilersbacher StraÃŸe,  Villingen-Schwenningen (78056)",0
+Weigheim, Villingen-Schwenningen (78056),245.000 2.634,93 m²,247 m² Grundstuck,Unknown,https://www.immowelt.de/expose/279fa13a-8805-45dc-8afa-6dfb706b385b,4083,"Weigheim,  Villingen-Schwenningen (78056)",20
+Goldenbuhl, Villingen-Schwenningen (78048),80.000 1.096,3 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/3aae740f-0344-4048-9849-43558736ccb5,4083,"Goldenbuhl,  Villingen-Schwenningen (78048)",49
+Krankenhaus - Alter Friedhof, Villingen-Schwenningen (78056),136.000 3.163,2 Zimmer,43 m²,Unknown,https://www.immowelt.de/expose/6d6b8d1b-8023-44b6-ad23-a5c6a5c74df6,4083,"Krankenhaus - Alter Friedhof,  Villingen-Schwenningen (78056)",0
+Kopsbuhl, Villingen-Schwenningen (78048),447.000 3.239,"5,5 Zimmer",138 m²,125 m² Grundstuck,https://www.immowelt.de/expose/0d858772-e3bc-428d-9bbd-0ad082b6d5d2,4083,"Kopsbuhl,  Villingen-Schwenningen (78048)",12
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),106.200 1.517,3 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/4f55247e-5b11-426e-977b-2e138311ac3a,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),79.000 1.436,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/fb052176-f7a9-4a21-8a42-ac7a58fd5363,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+WÃ¶schhalde, Villingen-Schwenningen (78052),349.000 3.262,"4,5 Zimmer",107 m²,309 m² Grundstuck,https://www.immowelt.de/expose/20dd5242-b0c6-4793-850b-d0bf4cdde13b,4083,"WÃ¶schhalde,  Villingen-Schwenningen (78052)",0
+Vogelsangweg, Villingen-Schwenningen (78052),579.100 3.387,5 Zimmer,171 m²,691 m² Grundstuck,https://www.immowelt.de/expose/9230d86c-2cdf-4711-81c8-721430cacddf,4083,"Vogelsangweg,  Villingen-Schwenningen (78052)",45
+Vogelsangweg, Villingen-Schwenningen (78052),523.200 3.904,5 Zimmer,134 m²,691 m² Grundstuck,https://www.immowelt.de/expose/edc168e5-16c3-427c-83fb-4f59ed49d8c8,4083,"Vogelsangweg,  Villingen-Schwenningen (78052)",45
+Vogelsangweg, Villingen-Schwenningen (78052),443.200 3.957,5 Zimmer,112 m²,691 m² Grundstuck,https://www.immowelt.de/expose/8bc9814f-d959-48d5-9fbc-f6848ebb8b63,4083,"Vogelsangweg,  Villingen-Schwenningen (78052)",45
+Vogelsangweg, Villingen-Schwenningen (78052),497.300 3.578,5 Zimmer,139 m²,691 m² Grundstuck,https://www.immowelt.de/expose/7c983a17-25d4-4b94-a3e2-93638af29af6,4083,"Vogelsangweg,  Villingen-Schwenningen (78052)",45
+Vogelsangweg, Villingen-Schwenningen (78052),475.000 3.800,5 Zimmer,125 m²,691 m² Grundstuck,https://www.immowelt.de/expose/2c3746f5-753e-4274-af73-a6651ebe7934,4083,"Vogelsangweg,  Villingen-Schwenningen (78052)",45
+Vogelsangweg, Villingen-Schwenningen (78052),494.400 3.893,5 Zimmer,127 m²,691 m² Grundstuck,https://www.immowelt.de/expose/3847c7b6-d954-4bc1-be03-a1f705308dcc,4083,"Vogelsangweg,  Villingen-Schwenningen (78052)",45
+Marbach, Villingen-Schwenningen (78052),269.000 2.402,"4,5 Zimmer",112 m²,3. Geschoss,https://www.immowelt.de/expose/859755b2-c20b-4ef0-b279-f8dd0fac1ca9,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Sudstadt, Villingen-Schwenningen (78050),184.000 2.592,3 Zimmer,71 m²,Unknown,https://www.immowelt.de/expose/0c31d2bc-2b1b-474e-a990-7d1e0a452f42,4083,"Sudstadt,  Villingen-Schwenningen (78050)",100
+Sudstadt, Villingen-Schwenningen (78050),585.000 2.671,8 Zimmer,219 m²,628 m² Grundstuck,https://www.immowelt.de/expose/6280f030-2d47-48da-b52c-f371bf816c4c,4083,"Sudstadt,  Villingen-Schwenningen (78050)",100
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78056),244.800 4.149,2 Zimmer,59 m²,frei ab sofort,https://www.immowelt.de/expose/391de96b-d48d-41d6-bcc7-15b57ffba3c6,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),248.500 2.740,"3,5 Zimmer","90,7 m²",Unknown,https://www.immowelt.de/expose/016fb343-6a1d-4de2-a288-05ab73c01ad4,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),265.000 2.059,"4,5 Zimmer","128,7 m²",Unknown,https://www.immowelt.de/expose/db0771dd-8824-420d-a679-9c02967070f5,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+Goldenbuhl, Villingen-Schwenningen (78048),80.000 1.096,3 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/07765051-5c8a-40d0-b559-6cd0f5a24d68,4083,"Goldenbuhl,  Villingen-Schwenningen (78048)",49
+Neckarstadtteil, Villingen-Schwenningen (78056),229.000 2.805,3 Zimmer,"81,7 m²",EG,https://www.immowelt.de/expose/d4342518-fb0b-443b-be35-5141a82ea12d,4083,"Neckarstadtteil,  Villingen-Schwenningen (78056)",0
+Sudstadt, Villingen-Schwenningen (78050),465.000 2.784,8 Zimmer,167 m²,661 m² Grundstuck,https://www.immowelt.de/expose/b2e378ea-95d1-43bb-ace6-c2964c64d9e0,4083,"Sudstadt,  Villingen-Schwenningen (78050)",100
+Gemeindewaldstr. 10, Villingen-Schwenningen (78052),262.000 4.308,2 Zimmer,"60,8 m²",1. Geschoss,https://www.immowelt.de/expose/1de6a5a0-bef1-4bca-b8a2-461c577e3d0c,4083,"Gemeindewaldstr. 10,  Villingen-Schwenningen (78052)",55
+Goldenbuhl, Villingen-Schwenningen (78048),147.500 3.278,2 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/29087904-bbbd-4c6d-bb2d-1c0582dbf880,4083,"Goldenbuhl,  Villingen-Schwenningen (78048)",49
+Kopsbuhl 80, Villingen-Schwenningen (78050),220.000 2.529,"3,5 Zimmer",87 m²,Unknown,https://www.immowelt.de/expose/cdbd7484-3981-45ee-a324-6817624ba9dd,4083,"Kopsbuhl 80,  Villingen-Schwenningen (78050)",6
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),195.000 2.423,4 Zimmer,"80,5 m²",167 m² Grundstuck,https://www.immowelt.de/expose/5996405a-903a-469f-acc8-1d77a28e8911,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Karl-Marz-StraÃŸe, Villingen-Schwenningen (78054),399.200 3.564,5 Zimmer,112 m²,278 m² Grundstuck,https://www.immowelt.de/expose/b9f5ca13-36ee-4c4a-8a95-a45c77e61132,4083,"Karl-Marz-StraÃŸe,  Villingen-Schwenningen (78054)",0
+Karl-Marx-StraÃŸe, Villingen-Schwenningen (78054),458.900 3.301,5 Zimmer,139 m²,278 m² Grundstuck,https://www.immowelt.de/expose/08a195fb-50f8-4b64-a4c4-6dc896e561ae,4083,"Karl-Marx-StraÃŸe,  Villingen-Schwenningen (78054)",0
+Karl-Marx-StraÃŸe, Villingen-Schwenningen (78054),434.100 3.473,5 Zimmer,125 m²,278 m² Grundstuck,https://www.immowelt.de/expose/ba8a9cb0-9a86-4f4b-b948-11ae350a9b33,4083,"Karl-Marx-StraÃŸe,  Villingen-Schwenningen (78054)",0
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),350.000 2.160,8 Zimmer,162 m²,188 m² Grundstuck,https://www.immowelt.de/expose/907e0c0d-e92d-40ea-9557-750bcb7de5d7,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+Hammerhalde, Villingen-Schwenningen (78050),798.000 4.833,6 Zimmer,"165,1 m²",448 m² Grundstuck,https://www.immowelt.de/expose/16ab621e-9269-4fcc-9106-01a496f3d70d,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Sudstadt, Villingen-Schwenningen (78050),149.000 3.068,2 Zimmer,"48,6 m²",Unknown,https://www.immowelt.de/expose/2ca63784-0fe9-4087-8c72-ea7ed663289f,4083,"Sudstadt,  Villingen-Schwenningen (78050)",100
+Sudstadt, Villingen-Schwenningen (78050),149.000 3.068,2 Zimmer,"48,6 m²",Unknown,https://www.immowelt.de/expose/a4a27e45-7e4a-423a-b8de-a756f7163c85,4083,"Sudstadt,  Villingen-Schwenningen (78050)",100
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),269.000 2.451,"4,5 Zimmer","109,8 m²",Unknown,https://www.immowelt.de/expose/7fd094a9-c568-4057-9be6-419ccf7a2e64,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),379.900 2.898,"4,5 Zimmer","131,1 m²",Unknown,https://www.immowelt.de/expose/044d2008-0c0f-46b2-b831-0aa851986e30,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+Rinelen, Villingen-Schwenningen (78056),175.000 2.000,3 Zimmer,"87,5 m²",8. Geschoss,https://www.immowelt.de/expose/f62810fc-5d98-49fe-8e7a-e24afe898c67,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Am Schwalbenhaag 1, Villingen-Schwenningen (78048),239.000 2.516,"3,5 Zimmer",95 m²,Unknown,https://www.immowelt.de/expose/ea9c599d-5d69-42c3-a9b5-f3da1e478073,4083,"Am Schwalbenhaag 1,  Villingen-Schwenningen (78048)",37
+Hammerhalde, Villingen-Schwenningen (78050),228.500 2.539,"3,5 Zimmer",90 m²,frei ab sofort,https://www.immowelt.de/expose/e23c5fd2-49b8-4f53-ab5f-9ad1c1f3023b,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Goldenbuhl, Villingen-Schwenningen (78048),179.900 2.726,3 Zimmer,66 m²,Unknown,https://www.immowelt.de/expose/44636040-d359-4420-8633-90b5c149ec1f,4083,"Goldenbuhl,  Villingen-Schwenningen (78048)",49
+Hubenloch, Villingen-Schwenningen (78050),690.000 3.812,7 Zimmer,181 m²,155 m² Grundstuck,https://www.immowelt.de/expose/5cfff002-da80-4228-94ad-b3bb898ce3b7,4083,"Hubenloch,  Villingen-Schwenningen (78050)",164
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78056),435.000 2.900,5 Zimmer,150 m²,483 m² Grundstuck,https://www.immowelt.de/expose/3d8122fd-734a-4274-90e8-7a9579478bdb,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78056),199.000 1.932,4 Zimmer,103 m²,1. Geschoss,https://www.immowelt.de/expose/8227b2af-acdb-445d-b4ee-dfc416d07cd7,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78056)",0
+Kopsbuhl, Villingen-Schwenningen (78048),239.000 2.516,3 Zimmer,95 m²,3. Geschoss,https://www.immowelt.de/expose/3917102b-fbff-44d4-b8cb-c6967246c4c5,4083,"Kopsbuhl,  Villingen-Schwenningen (78048)",12
+Hammerstatt - Rammelswiesen, Villingen-Schwenningen (78054),668.000 2.094,10 Zimmer,319 m²,311 m² Grundstuck,https://www.immowelt.de/expose/dc3b7cf8-9321-4313-b8df-f679deb275fc,4083,"Hammerstatt - Rammelswiesen,  Villingen-Schwenningen (78054)",125
+Hammerhalde, Villingen-Schwenningen (78050),520.000 2.244,8 Zimmer,"231,8 m²",662 m² Grundstuck,https://www.immowelt.de/expose/4e611621-87f2-4c9b-92e3-0e4692261fac,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Weigheim, Villingen-Schwenningen Weigheim (78056),359.900 1.633,"9,5 Zimmer","220,4 m²",352 m² Grundstuck,https://www.immowelt.de/expose/085391f1-ec91-4f9b-a4f9-eb4fab10d53c,4083,"Weigheim,  Villingen-Schwenningen Weigheim (78056)",16
+Kurgebiet, Villingen (78048),600.000 4.286,6 Zimmer,140 m²,1.057 m² Grundstuck,https://www.immowelt.de/expose/5d99cac0-5af4-4ef6-85f0-daf95e21d4f1,4083,"Kurgebiet,  Villingen (78048)",8
+Goldenbuhl, Villingen-Schwenningen (78048),Preis auf Anfrage,"3,5 Zimmer",120 m²,Unknown,https://www.immowelt.de/expose/4c9f345d-c4ac-43c7-94fd-5c1a819ae91c,4083,"Goldenbuhl,  Villingen-Schwenningen (78048)",49
+Rinelen, Villingen-Schwenningen (78056),769.000 2.708,284 m²,400 m² Grundstuck,Unknown,https://www.immowelt.de/expose/6c11c12f-8ea0-487c-9e15-8921e3e880c2,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+WÃ¶schhalde, Villingen-Schwenningen (78052),239.000 2.255,"3,5 Zimmer",106 m²,Unknown,https://www.immowelt.de/expose/4d5a28f2-daa5-4710-b211-e7ab72bca88d,4083,"WÃ¶schhalde,  Villingen-Schwenningen (78052)",0
+Hammerhalde, Villingen-Schwenningen (78050),517.000 4.366,4 Zimmer,"118,4 m²",Unknown,https://www.immowelt.de/expose/bdb3b79e-a5fe-4ea0-bcb3-637fcc9acca6,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),200.000 2.188,"3,5 Zimmer","91,4 m²",Unknown,https://www.immowelt.de/expose/4636a2cb-a2d7-4487-89e9-87b116dd3f79,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+WÃ¶schhalde, Villingen-Schwenningen (78052),184700,"3,5 Zimmer",Unknown,Unknown,https://www.immowelt.de/expose/bf0c7ffa-1ef9-45e3-b6ad-49aaa348bab1,4083,"WÃ¶schhalde,  Villingen-Schwenningen (78052)",0
+Weilersbach, Villingen-Schwenningen (78052),465.000 2.214,5 Zimmer,210 m²,959 m² Grundstuck,https://www.immowelt.de/expose/db229206-4811-4a80-bc33-f85579a30017,4083,"Weilersbach,  Villingen-Schwenningen (78052)",0
+Sudstadt, Villingen-Schwenningen (78050),167.000 2.669,2 Zimmer,"62,6 m²",Unknown,https://www.immowelt.de/expose/5842533c-d196-4bca-8cb4-3bdfa7ca5664,4083,"Sudstadt,  Villingen-Schwenningen (78050)",100
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),229.000 2.385,"4,5 Zimmer",96 m²,5. Geschoss,https://www.immowelt.de/expose/8c30ca73-c437-476e-97e4-fb12e98e8090,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),329.000 2.679,5 Zimmer,"122,8 m²",3. Geschoss,https://www.immowelt.de/expose/7cb15d25-f250-4a5d-ae09-bf6b9f6a88fd,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Neckarstadtteil, Villingen-Schwenningen (78056),749.900 2.613,"7,5 Zimmer",287 m²,1.141 m² Grundstuck,https://www.immowelt.de/expose/a0653194-5f40-4f1b-b146-7b9a5705d618,4083,"Neckarstadtteil,  Villingen-Schwenningen (78056)",0
+Marbach, Villingen-Schwenningen (78052),539.000 1.902,9 Zimmer,"283,4 m²",755 m² Grundstuck,https://www.immowelt.de/expose/f6a34959-fc79-4b19-a79f-bffd529057b7,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78056),695.000 3.510,6 Zimmer,198 m²,726 m² Grundstuck,https://www.immowelt.de/expose/aae5ccd6-f41f-45c1-b97d-bbdb113b872d,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Steppach, Villingen-Schwenningen (78048),215.000 2.768,3 Zimmer,"77,7 m²",4. Geschoss,https://www.immowelt.de/expose/f727e906-3086-45f2-aa10-ca9917e39660,4083,"Steppach,  Villingen-Schwenningen (78048)",78
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),180.000 2.315,3 Zimmer,"77,8 m²",Unknown,https://www.immowelt.de/expose/bdfb16e5-8787-49cd-9237-1a87137430c7,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+VÃ¶hrenbacher StraÃŸe 49, Villingen-Schwenningen (78050),864.150 5.577,4 Zimmer,155 m²,Unknown,https://www.immowelt.de/expose/b54a6f08-f2b9-4960-baff-de98e1ef7e39,4083,"VÃ¶hrenbacher StraÃŸe 49,  Villingen-Schwenningen (78050)",0
+Hammerhalde, Villingen-Schwenningen (78050),475.000 4.750,"3,5 Zimmer",100 m²,Unknown,https://www.immowelt.de/expose/b0810360-f309-419f-b1e9-550525f947e4,4083,"Hammerhalde,  Villingen-Schwenningen (78050)",52
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),274.000 2.366,4 Zimmer,"115,8 m²",Unknown,https://www.immowelt.de/expose/f92a2b0c-61fc-4fea-9fad-2e19a3bc84f4,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+Sudstadt, Villingen-Schwenningen (78050),195.000 1.990,3 Zimmer,98 m²,1. Geschoss,https://www.immowelt.de/expose/e80269ac-6a38-42ff-8837-f0483d21f349,4083,"Sudstadt,  Villingen-Schwenningen (78050)",100
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),595.000 1.913,15 Zimmer,311 m²,558 m² Grundstuck,https://www.immowelt.de/expose/cd05388e-2ba5-4b06-a3d9-f2c4fb773234,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+WÃ¶schhalde, Villingen-Schwenningen (78052),357.500 3.353,"4,5 Zimmer","106,6 m²",274 m² Grundstuck,https://www.immowelt.de/expose/1d5d491f-7e20-454f-b3fa-15d86dcf7550,4083,"WÃ¶schhalde,  Villingen-Schwenningen (78052)",0
+Marbach, Villingen-Schwenningen / Marbach (78052),424.000 1.893,224 m²,432 m² Grundstuck,Unknown,https://www.immowelt.de/expose/b245c1a1-fa2e-4458-a16a-9754eb1b7a5d,4083,"Marbach,  Villingen-Schwenningen / Marbach (78052)",15
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),149.000 1.987,"3,5 Zimmer",75 m²,Unknown,https://www.immowelt.de/expose/6f03a7c4-603a-46fd-95e6-06a9c2b853c1,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Rinelen, Villingen-Schwenningen (78056),430.000 2.946,5 Zimmer,146 m²,1.181 m² Grundstuck,https://www.immowelt.de/expose/fdf69b11-678d-45d1-998b-7b0be9009f4a,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Kurgebiet, Villingen-Schwenningen (78048),1.195.000 5.598,7 Zimmer,"213,5 m²",1.219 m² Grundstuck,https://www.immowelt.de/expose/b657b3ac-4148-4d52-810c-908b80f68b79,4083,"Kurgebiet,  Villingen-Schwenningen (78048)",8
+Goldenbuhl, Villingen-Schwenningen (78048),164.000 2.553,3 Zimmer,"64,3 m²",EG,https://www.immowelt.de/expose/ef147f7d-d78e-4077-ac50-21698d715e4c,4083,"Goldenbuhl,  Villingen-Schwenningen (78048)",49
+Hammerstatt - Rammelswiesen, Villingen-Schwenningen (78056),180.000 2.284,"3,5 Zimmer","78,8 m²",2. Geschoss,https://www.immowelt.de/expose/f38c06f8-b48d-4527-bf62-925b522a1475,4083,"Hammerstatt - Rammelswiesen,  Villingen-Schwenningen (78056)",125
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),390.954 4.599,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/c4455e06-f729-4e2a-920e-34ab2b11761f,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),431.190 4.492,4 Zimmer,96 m²,Unknown,https://www.immowelt.de/expose/5298f4d6-232e-40bd-9d8f-dd6b190555c1,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),431.190 4.492,4 Zimmer,96 m²,Unknown,https://www.immowelt.de/expose/07061a9a-d88f-45df-b818-10a23115ca29,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),372.462 4.598,3 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/6d6cec95-cae2-4b0b-ab6e-c2620030c3f2,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),409.995 4.500,4 Zimmer,"91,1 m²",Unknown,https://www.immowelt.de/expose/3aa3472d-8552-470e-a1af-7be037b72302,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),406.260 4.500,4 Zimmer,"90,3 m²",Unknown,https://www.immowelt.de/expose/48af5b26-9275-4457-8bbd-146d92546673,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),409.995 4.500,4 Zimmer,"91,1 m²",Unknown,https://www.immowelt.de/expose/502e3d7d-a40e-44f2-81b8-4966b006e9ac,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),406.260 4.500,4 Zimmer,"90,3 m²",Unknown,https://www.immowelt.de/expose/2da1566d-0850-40f8-8685-f6030437a5ff,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Goldenbuhl, Villingen-Schwenningen (78048),189.900 2.429,4 Zimmer,"78,2 m²",Unknown,https://www.immowelt.de/expose/89460b24-3645-42ff-b79a-00dc749b1136,4083,"Goldenbuhl,  Villingen-Schwenningen (78048)",49
+Sturmbuhl - FH Polizei, Villingen Schwenningen (78054),349.900 3.997,"4,5 Zimmer","87,5 m²",366 m² Grundstuck,https://www.immowelt.de/expose/fb688891-b049-45d3-9e30-cddf628d97da,4083,"Sturmbuhl - FH Polizei,  Villingen Schwenningen (78054)",0
+Krankenhaus - Alter Friedhof, Villingen-Schwenningen (78054),169.000 2.466,3 Zimmer,"68,5 m²",Unknown,https://www.immowelt.de/expose/bb59b01a-2641-4389-bcc6-ae11c2dafba8,4083,"Krankenhaus - Alter Friedhof,  Villingen-Schwenningen (78054)",0
+Sudstadt, Villingen-Schwenningen (78050),259.000 1.622,10 Zimmer,"159,7 m²",318 m² Grundstuck,https://www.immowelt.de/expose/35a998dd-2442-4c46-9e1f-9d2c72587aeb,4083,"Sudstadt,  Villingen-Schwenningen (78050)",100
+Marbach, Villingen-Schwenningen (78052),351.550 4.185,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/84c02a93-b14e-4afd-8f7c-41d323f1013b,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Marbach, Villingen-Schwenningen (78052),529.550 4.236,4 Zimmer,125 m²,Unknown,https://www.immowelt.de/expose/63409465-34bc-4ffa-b736-69787b9141d8,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Marbach, Villingen-Schwenningen (78052),328.000 3.952,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/8a1b173a-b2c8-4d1f-bdfa-45360ed0d6cb,4083,"Marbach,  Villingen-Schwenningen (78052)",18
+Pfaffenweiler, Villingen-Schwenningen (78052),750.000 3.409,9 Zimmer,220 m²,1.900 m² Grundstuck,https://www.immowelt.de/expose/2a2ba949-349c-49b3-9589-17d24ce86080,4083,"Pfaffenweiler,  Villingen-Schwenningen (78052)",47
+Innenstadt - Villingen, Villingen-Schwenningen (78050),549.000 2.385,10 Zimmer,"230,2 m²",114 m² Grundstuck,https://www.immowelt.de/expose/fe560a3c-eafd-49d8-9837-0edb7a268cc3,4083,"Innenstadt - Villingen,  Villingen-Schwenningen (78050)",0
+WÃ¶schhalde, Villingen-Schwenningen (78052),395.000 2.782,5 Zimmer,142 m²,546 m² Grundstuck,https://www.immowelt.de/expose/5b345147-ef56-481c-a062-7408703590c7,4083,"WÃ¶schhalde,  Villingen-Schwenningen (78052)",0
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78054),619.900 4.428,"5,5 Zimmer",140 m²,425 m² Grundstuck,https://www.immowelt.de/expose/fdcb4fe9-33c8-422b-ad96-b3876c6411b5,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78054)",0
+Uhlandstr. 6, Villingen-Schwenningen (78054),890.000 1.309,12 Zimmer,680 m²,339 m² Grundstuck,https://www.immowelt.de/expose/bf50af32-3b37-43f9-879b-a6f7936673cb,4083,"Uhlandstr. 6,  Villingen-Schwenningen (78054)",416
+Kopsbuhl, Villingen (78048),229.000 2.436,3 Zimmer,94 m²,Unknown,https://www.immowelt.de/expose/6e7c0690-ac73-46e7-b948-342927c4e620,4083,"Kopsbuhl,  Villingen (78048)",12
+Pfaffenweiler, Villingen-Schwenningen (78052),880.000 2.604,11 Zimmer,338 m²,711 m² Grundstuck,https://www.immowelt.de/expose/bc6a4bfd-bcd7-4b97-80ba-970fd03da1f2,4083,"Pfaffenweiler,  Villingen-Schwenningen (78052)",47
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),338.000 2.561,4 Zimmer,132 m²,Unknown,https://www.immowelt.de/expose/cbe89205-84d1-4e6f-866e-fe4b2edc4dc3,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+UhlandstraÃŸee 3, Villingen-Schwenningen (78054),2.700.000 1.893,1.426 m²,506 m² Grundstuck,frei ab sofort,https://www.immowelt.de/expose/263207bb-f9d5-44da-b041-fb6b253e3f52,4083,"UhlandstraÃŸee 3,  Villingen-Schwenningen (78054)",0
+Deutenberg - Dauchinger StraÃŸe, Villingen-Schwenningen (78056),395.000 3.546,"4,5 Zimmer","111,4 m²",EG,https://www.immowelt.de/expose/384a98c9-5494-451c-9239-c15f71f0508c,4083,"Deutenberg - Dauchinger StraÃŸe,  Villingen-Schwenningen (78056)",0
+Rinelen, Villingen-Schwenningen (78056),224.900 2.141,"4,5 Zimmer","105,1 m²",Unknown,https://www.immowelt.de/expose/39b52295-20d3-4230-8fef-1939668ffc13,4083,"Rinelen,  Villingen-Schwenningen (78056)",96
+Harzerstr. 26, Villingen-Schwenningen (78054),225.000 3.462,2 Zimmer,65 m²,1. Geschoss,https://www.immowelt.de/expose/afe15a65-e3d9-4578-8c72-d0a82a870b73,4083,"Harzerstr. 26,  Villingen-Schwenningen (78054)",398
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),349.900 2.464,6 Zimmer,142 m²,359 m² Grundstuck,https://www.immowelt.de/expose/3b2fa005-3984-40c0-bf2a-7530c4fafa9b,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+Steppach, Villingen-Schwenningen (78048),260.000 2.967,4 Zimmer,"87,6 m²",Unknown,https://www.immowelt.de/expose/5e48cd49-10fe-4c86-82a5-3aa0f5bb7e98,4083,"Steppach,  Villingen-Schwenningen (78048)",78
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),250.000 1.665,6 Zimmer,"150,2 m²",Unknown,https://www.immowelt.de/expose/dd123a4e-f545-4c57-84bf-114fa1de4cc6,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),224700,4 Zimmer,Unknown,Unknown,https://www.immowelt.de/expose/1afbcdfd-1975-4c61-8be6-feb8c99602ed,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),285.000 4.071,2 Zimmer,70 m²,2. Geschoss,https://www.immowelt.de/expose/6c386d73-d4ad-43f0-9502-0181dcd59ac5,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+Pfaffenweiler, Villingen-Schwenningen (78052),Preis auf Anfrage,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/558c9706-944a-42aa-aa86-e50740693ca3,4083,"Pfaffenweiler,  Villingen-Schwenningen (78052)",47
+Steppach, Villingen-Schwenningen (78048),179.000 2.325,"2,5 Zimmer",77 m²,EG,https://www.immowelt.de/expose/53d6d370-518a-45ed-a032-5b42685bc806,4083,"Steppach,  Villingen-Schwenningen (78048)",78
+Kopsbuhl, Villingen-Schwenningen (78048),239.000 2.747,3 Zimmer,87 m²,5. Geschoss,https://www.immowelt.de/expose/a89907d3-fbf8-456c-8d60-9afe4710dcb8,4083,"Kopsbuhl,  Villingen-Schwenningen (78048)",12
+Krankenhaus - Alter Friedhof, Villingen-Schwenningen (78054),495.000 2.765,8 Zimmer,179 m²,307 m² Grundstuck,https://www.immowelt.de/expose/915435bb-d0e2-493c-99ad-52b11f44d792,4083,"Krankenhaus - Alter Friedhof,  Villingen-Schwenningen (78054)",0
+VÃ¶hrenbacher StraÃŸe 49, Villingen-Schwenningen (78050),449.500 5.162,3 Zimmer,"87,1 m²",Unknown,https://www.immowelt.de/expose/8b222b27-3fde-4b48-beb9-62402235151a,4083,"VÃ¶hrenbacher StraÃŸe 49,  Villingen-Schwenningen (78050)",0
+Innenstadt Sud - Schwenningen, Villingen-Schwenningen (78054),239.000 2.464,4 Zimmer,97 m²,Unknown,https://www.immowelt.de/expose/8dd379e9-3a87-4fc5-bcc6-e68cafabb98c,4083,"Innenstadt Sud - Schwenningen,  Villingen-Schwenningen (78054)",0
+Tannheim, Villingen-Schwenningen (78052),435.000 3.411,5 Zimmer,"127,5 m²",639 m² Grundstuck,https://www.immowelt.de/expose/40322c45-7c78-4458-8e4c-af015b7d0975,4083,"Tannheim,  Villingen-Schwenningen (78052)",56
+Sudstadt, Villingen-Schwenningen (78050),199.000 1.746,4 Zimmer,114 m²,303 m² Grundstuck,https://www.immowelt.de/expose/ef52840e-9fda-4202-815b-9d55ace6def2,4083,"Sudstadt,  Villingen-Schwenningen (78050)",100
+Saurer Wasen - Dickenhardt, Villingen-Schwenningen (78054),250.000 2.595,"4,5 Zimmer","96,4 m²",Unknown,https://www.immowelt.de/expose/c8b130f7-1520-467b-bc0c-4aca08df65b9,4083,"Saurer Wasen - Dickenhardt,  Villingen-Schwenningen (78054)",0
+Sturmbuhl - FH Polizei, Villingen-Schwenningen (78054),459.900 3.407,"5,5 Zimmer",135 m²,206 m² Grundstuck,https://www.immowelt.de/expose/c989ef56-e240-470e-8cf2-a3fca68ca743,4083,"Sturmbuhl - FH Polizei,  Villingen-Schwenningen (78054)",0
+WÃ¶schhalde, Villingen-Schwenningen (78052),298.000 2.292,4 Zimmer,130 m²,3. Geschoss,https://www.immowelt.de/expose/d633cec9-f96d-4f07-a941-fdb8731d8a9d,4083,"WÃ¶schhalde,  Villingen-Schwenningen (78052)",0
+Innenstadt Nord - Schwenningen, Villingen-Schwenningen (78054),174.000 2.384,3 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/3d878a23-8307-491e-9683-c543e9aa53a5,4083,"Innenstadt Nord - Schwenningen,  Villingen-Schwenningen (78054)",0
+Uhlandstr. 6, Villingen-Schwenningen (78054),890.000 1.309,12 Zimmer,680 m²,339 m² Grundstuck,https://www.immowelt.de/expose/b94c1569-dfa1-49bf-85cd-18d7db89be90,4083,"Uhlandstr. 6,  Villingen-Schwenningen (78054)",416
+Pfaffenweiler, Villingen-Schwenningen (78052),629.000 2.069,9 Zimmer,304 m²,851 m² Grundstuck,https://www.immowelt.de/expose/84b599f2-8854-4478-aedb-1b7288505962,4083,"Pfaffenweiler,  Villingen-Schwenningen (78052)",47
+Bad Durrheim, Bad Durrheim (78073),378.238 3.377,4 Zimmer,112 m²,340 m² Grundstuck,https://www.immowelt.de/expose/625f0cf3-6aff-4499-acfe-f24bb692bd4a,4083,"Bad Durrheim,  Bad Durrheim (78073)",110
+Kappel, Niedereschach / Kappel (78078),399.900 1.860,9 Zimmer,215 m²,739 m² Grundstuck,https://www.immowelt.de/expose/a0b733ec-dc4c-4b4d-a4bf-d1b940c759b1,4083,"Kappel,  Niedereschach / Kappel (78078)",3
+Bad Durrheim, Bad Durrheim (78073),580.400 5.450,"3,5 Zimmer","106,5 m²",EG,https://www.immowelt.de/expose/e52cc339-7ad6-43bb-a4ef-1ef77751a789,4083,"Bad Durrheim,  Bad Durrheim (78073)",110
+Bad Durrheim, Bad Durrheim (78073),545.000 3.123,"6,5 Zimmer","174,5 m²",788 m² Grundstuck,https://www.immowelt.de/expose/74be3961-8dba-4a83-b356-42e82d2602d6,4083,"Bad Durrheim,  Bad Durrheim (78073)",110
+Am Salzstadel 3, Rosenheim (83022),799.000 1.858,14 Zimmer,430 m²,182 m² Grundstuck,https://www.immowelt.de/expose/ce5da8ad-92c9-46f2-a9e9-4efdc270e0ab,4095,"Am Salzstadel 3,  Rosenheim (83022)",497
+LeitzachstraÃŸe 78, Rosenheim (83026),969.000 6.845,3 Zimmer,"146,2 m²",3. Geschoss,https://www.immowelt.de/expose/61d6441b-ede1-4f30-8596-73b057365724,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+Muhlbachbogen 1, Rosenheim (83022),1.530.000 10.268,149 m²,1. Geschoss,Unknown,https://www.immowelt.de/expose/d59bdc99-a46d-4043-a90c-8bed5aef0f9b,4095,"Muhlbachbogen 1,  Rosenheim (83022)",389
+IsarstraÃŸe 2c, Rosenheim (83026),318.000 4.746,2 Zimmer,67 m²,EG,https://www.immowelt.de/expose/a69f3d06-0190-4a42-a0ee-e76a5fd8e247,4095,"IsarstraÃŸe 2c,  Rosenheim (83026)",0
+LeitzachstraÃŸe 78, Rosenheim (83026),370.000 6.900,2 Zimmer,"53,6 m²",1. Geschoss,https://www.immowelt.de/expose/db3e9559-4589-4270-b4b4-38f12cfb659a,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+LeitzachstraÃŸe 78, Rosenheim (83026),374.000 6.923,2 Zimmer,54 m²,2. Geschoss,https://www.immowelt.de/expose/5be64dd9-7abf-40a4-9081-472b5e894e55,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+HochfellnstraÃŸe 32, Rosenheim (83026),145.000 3.656,1 Zimmer,"39,7 m²",EG,https://www.immowelt.de/expose/7e2b495b-ab6f-4943-bfc4-70db3ce78ec6,4095,"HochfellnstraÃŸe 32,  Rosenheim (83026)",0
+Kleiststr. 17, Rosenheim (83026),202.000 4.936,1 Zimmer,"40,9 m²",Unknown,https://www.immowelt.de/expose/0e7eb6d9-1022-49da-a94d-2209ed7e0fab,4095,"Kleiststr. 17,  Rosenheim (83026)",116
+BayerstraÃŸe 6, Rosenheim (83022),355.000 7.818,1 Zimmer,"45,4 m²",3. Geschoss,https://www.immowelt.de/expose/91acaed5-8a29-45c8-a9b4-cdcd5a2378c6,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+Leitzachstr. 64, Rosenheim (83026),579.000 5.264,4 Zimmer,110 m²,220 m² Grundstuck,https://www.immowelt.de/expose/d0b395ae-8784-4649-bd1d-278b5c557f7a,4095,"Leitzachstr. 64,  Rosenheim (83026)",200
+HerderstraÃŸe 4, Rosenheim (83024),720.000 7.059,3 Zimmer,102 m²,EG,https://www.immowelt.de/expose/4ac87c78-5c1c-4722-8d40-0f18fec14c9f,4095,"HerderstraÃŸe 4,  Rosenheim (83024)",0
+Grunfeldstrasse 26, Rosenheim (83026),569.000 4.589,4 Zimmer,124 m²,1. Geschoss,https://www.immowelt.de/expose/112791f3-6504-4d6a-9a3e-18945d375275,4095,"Grunfeldstrasse 26,  Rosenheim (83026)",71
+Forststr. 24, Rosenheim (83026),649.000 5.031,4 Zimmer,129 m²,1. Geschoss,https://www.immowelt.de/expose/ef94b52b-29dc-4e97-8dde-887e02362fe7,4095,"Forststr. 24,  Rosenheim (83026)",176
+HochplattenstraÃŸe xxx, Rosenheim (83026),730.000 5.328,137 m²,422 m² Grundstuck,Unknown,https://www.immowelt.de/expose/c751a4a9-96a6-49a6-bfa3-3e616d114fb3,4095,"HochplattenstraÃŸe xxx,  Rosenheim (83026)",0
+MayerbachstraÃŸe 16a, Rosenheim (83022),245.000 4.375,2 Zimmer,56 m²,2. Geschoss,https://www.immowelt.de/expose/8bdaf915-353d-4a97-89a1-7a1b9d31dfe9,4095,"MayerbachstraÃŸe 16a,  Rosenheim (83022)",0
+HerderstraÃŸe 4, Rosenheim (83024),570.000 7.808,2 Zimmer,73 m²,3. Geschoss,https://www.immowelt.de/expose/7dfc5096-5ead-4396-9368-d494c8bab845,4095,"HerderstraÃŸe 4,  Rosenheim (83024)",0
+HerderstraÃŸe 4, Rosenheim (83024),840.000 8.235,3 Zimmer,102 m²,3. Geschoss,https://www.immowelt.de/expose/1c4bf9f8-805e-47c3-9736-74f48c530554,4095,"HerderstraÃŸe 4,  Rosenheim (83024)",0
+HerderstraÃŸe 4, Rosenheim (83024),945.000 7.383,4 Zimmer,128 m²,EG,https://www.immowelt.de/expose/ad5afd00-b080-4190-bc69-67da6b5645de,4095,"HerderstraÃŸe 4,  Rosenheim (83024)",0
+HerderstraÃŸe 4, Rosenheim (83024),755.000 7.947,2 Zimmer,95 m²,3. Geschoss,https://www.immowelt.de/expose/67523fb5-3c5a-4c53-a0ce-6700b8e0b04d,4095,"HerderstraÃŸe 4,  Rosenheim (83024)",0
+BayerstraÃŸe 6, Rosenheim (83022),1.360.000 9.512,3 Zimmer,143 m²,6. Geschoss,https://www.immowelt.de/expose/abed21ed-ae8a-438b-8fa7-45f823e27c4d,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),1.480.000 9.022,4 Zimmer,"164,1 m²",6. Geschoss,https://www.immowelt.de/expose/f702a9a4-2caf-466d-9472-f6edabd237d8,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+Rosenheim , Oberbay (83022),299.900 7.498,3 Zimmer,40 m²,Unknown,https://www.immowelt.de/expose/ab1d25c2-699f-4fe3-9792-f066519b0d01,4095,"Rosenheim ,  Oberbay (83022)",0
+Rechenauerstr. 28, Rosenheim (83022),470.000 4.815,4 Zimmer,"93,5 m²",Unknown,https://www.immowelt.de/expose/f57feca4-6092-4a4d-b8d1-698ba35960ef,4095,"Rechenauerstr. 28,  Rosenheim (83022)",193
+LeitzachstraÃŸe 78, Rosenheim (83026),Preis auf Anfrage,frei ab sofort,Unknown,Unknown,https://www.immowelt.de/expose/1695818c-950d-4849-88fb-0f0931b7d4f6,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+HerderstraÃŸe 4, Rosenheim (83024),480.000 7.273,2 Zimmer,66 m²,3. Geschoss,https://www.immowelt.de/expose/e28eb6c9-68c3-40bd-ba36-0716a5fbf161,4095,"HerderstraÃŸe 4,  Rosenheim (83024)",0
+BayerstraÃŸe 6, Rosenheim (83022),503.000 6.850,3 Zimmer,"73,4 m²",1. Geschoss,https://www.immowelt.de/expose/2110f309-40be-45a4-b245-20828efea174,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),659.000 6.457,3 Zimmer,"102,1 m²",1. Geschoss,https://www.immowelt.de/expose/7d04930c-cfe1-4074-8208-1f19be9eea52,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),535.000 6.886,3 Zimmer,"77,7 m²",1. Geschoss,https://www.immowelt.de/expose/ac0e9198-29d5-46fc-9447-9f1820208429,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),710.000 7.005,3 Zimmer,"101,4 m²",EG,https://www.immowelt.de/expose/03a21d09-cd7d-40b5-a3ff-374899e0a7b4,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),509.000 7.064,2 Zimmer,"72,1 m²",EG,https://www.immowelt.de/expose/a8e6678c-1078-40b2-8078-28309f4b750b,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),855.000 6.239,5 Zimmer,"137,1 m²",1. Geschoss,https://www.immowelt.de/expose/e291d07f-5990-44a8-8bf7-0348bcdf0997,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),788.000 7.173,4 Zimmer,"109,9 m²",2. Geschoss,https://www.immowelt.de/expose/7be73a8f-f80b-42df-ad83-6bc4c5e389fa,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),748.000 7.896,3 Zimmer,"94,7 m²",2. Geschoss,https://www.immowelt.de/expose/90b0d3a7-6599-443a-b68e-4b945b24fb9f,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),629.000 6.431,3 Zimmer,"97,8 m²",2. Geschoss,https://www.immowelt.de/expose/7fbb637e-8650-403d-a823-a7018ba4df69,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),890.000 6.852,4 Zimmer,"129,9 m²",3. Geschoss,https://www.immowelt.de/expose/bd0deb34-08b0-484e-9d87-6f94f2e39f0a,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),728.000 7.836,3 Zimmer,"92,9 m²",3. Geschoss,https://www.immowelt.de/expose/6fe0aa2a-1a47-4395-bfc1-326d9c7def2a,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),545.000 7.649,3 Zimmer,"71,3 m²",2. Geschoss,https://www.immowelt.de/expose/223e5296-6b84-41da-b16c-b51bfc401cc0,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+BayerstraÃŸe 6, Rosenheim (83022),593.000 7.643,3 Zimmer,"77,6 m²",2. Geschoss,https://www.immowelt.de/expose/0f3caa52-938b-44ad-a42b-b8c6c9f7198f,4095,"BayerstraÃŸe 6,  Rosenheim (83022)",0
+Grunfeldstrasse 49, Rosenheim (83026),979.000 6.081,7 Zimmer,161 m²,286 m² Grundstuck,https://www.immowelt.de/expose/ceb5a9a6-14bf-46ac-86d9-7ae713f1f398,4095,"Grunfeldstrasse 49,  Rosenheim (83026)",47
+LeitzachstraÃŸe 78, Rosenheim (83026),560.000 6.980,2 Zimmer,"84,3 m²",3. Geschoss,https://www.immowelt.de/expose/3804e579-69b0-4d00-ac01-f808f53b9d5c,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+LeitzachstraÃŸe 78, Rosenheim (83026),530.000 6.944,2 Zimmer,"80,2 m²",3. Geschoss,https://www.immowelt.de/expose/74524ab7-6ab0-494e-9bd7-7048c8e05619,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+LeitzachstraÃŸe 78, Rosenheim (83026),596.000 6.904,3 Zimmer,"90,7 m²",EG,https://www.immowelt.de/expose/015f6802-0563-4e2d-86c4-67a41371828b,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+LeitzachstraÃŸe 78, Rosenheim (83026),599.000 6.761,3 Zimmer,"88,6 m²",1. Geschoss,https://www.immowelt.de/expose/64385cb5-1436-4353-8652-a214f15908cb,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+LeitzachstraÃŸe 78, Rosenheim (83026),385.000 6.466,2 Zimmer,"59,5 m²",EG,https://www.immowelt.de/expose/8d1a5f99-1f8b-4e11-a639-cc7cc166db5f,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+LeitzachstraÃŸe 78, Rosenheim (83026),384.000 7.009,2 Zimmer,"54,8 m²",EG,https://www.immowelt.de/expose/18aa92ab-add8-4c7f-8057-3d995f2bfaed,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+LeitzachstraÃŸe 78, Rosenheim (83026),410.000 7.073,2 Zimmer,58 m²,EG,https://www.immowelt.de/expose/86fcad20-dbba-4e7a-a1d1-edfd2d14999f,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+LeitzachstraÃŸe 78, Rosenheim (83026),371.000 6.722,2 Zimmer,"55,2 m²",EG,https://www.immowelt.de/expose/e37e31ef-6fa0-4594-89fe-2d23f11fb48e,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+LeitzachstraÃŸe 78, Rosenheim (83026),398.000 7.007,2 Zimmer,"56,8 m²",1. Geschoss,https://www.immowelt.de/expose/ccf861e7-324b-4bf2-976c-05890f5bef44,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+LeitzachstraÃŸe 78, Rosenheim (83026),370.000 6.900,2 Zimmer,"53,6 m²",2. Geschoss,https://www.immowelt.de/expose/8e6d5108-2804-4808-a936-75965a407361,4095,"LeitzachstraÃŸe 78,  Rosenheim (83026)",0
+HerderstraÃŸe 4, Rosenheim (83024),495.000 7.857,2 Zimmer,63 m²,4. Geschoss,https://www.immowelt.de/expose/195f91c1-41e0-44ac-a3eb-275e4800cd1b,4095,"HerderstraÃŸe 4,  Rosenheim (83024)",0
+InnstraÃŸe, Rosenheim (83022),400.000 3.993,2 Zimmer,"100,2 m²",frei ab sofort,https://www.immowelt.de/expose/74299c9e-e76b-4c3e-ac7e-fbe069ddc4ef,4095,"InnstraÃŸe,  Rosenheim (83022)",0
+GoethestraÃŸe, Rosenheim (83024),210.000 3.281,2 Zimmer,64 m²,frei ab sofort,https://www.immowelt.de/expose/dec8a198-70a5-4005-9c8f-7ba81093f0e5,4095,"GoethestraÃŸe,  Rosenheim (83024)",0
+StifterstraÃŸe, Rosenheim (83026),200.000 2.608,3 Zimmer,"76,7 m²",frei ab sofort,https://www.immowelt.de/expose/1cc8fc24-ec75-48eb-b92e-0b7f06f4f0c3,4095,"StifterstraÃŸe,  Rosenheim (83026)",0
+Rubensstrasse, Rosenheim (83026),200.000 2.857,2 Zimmer,70 m²,frei ab sofort,https://www.immowelt.de/expose/eb8e4e09-8682-432c-81a7-4f1f5e0794d3,4095,"Rubensstrasse,  Rosenheim (83026)",166
+Stephanskirchen , Simssee (83071),1.150.000 4.694,8 Zimmer,245 m²,683 m² Grundstuck,https://www.immowelt.de/expose/57bfbe6c-f536-4e1b-90b7-442ef1dd5da2,4095,"Stephanskirchen ,  Simssee (83071)",50
+Rumeln - Kaldershausen, Duisburg (47239),196.000 2.000,3 Zimmer,98 m²,1. Geschoss,https://www.immowelt.de/expose/8615b42e-1891-496e-8aba-2e87d8702102,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+AakerfÃ¤hrstraÃŸe 43, Duisburg (47058),99.500 1.792,3 Zimmer,"55,5 m²",2. Geschoss,https://www.immowelt.de/expose/8eeae7d1-fc94-48ec-a162-684de263a31c,4131,"AakerfÃ¤hrstraÃŸe 43,  Duisburg (47058)",0
+Buchholz, Duisburg (47249),249.000 4.293,2 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/f1143aa5-616a-414c-aae4-6d57b4fc5c0f,4131,"Buchholz,  Duisburg (47249)",177
+Melanchthonplatz 29, Duisburg (47055),102.500 1.602,3 Zimmer,64 m²,1. Geschoss,https://www.immowelt.de/expose/57547c89-7e36-4560-b3f0-a139f83c3047,4131,"Melanchthonplatz 29,  Duisburg (47055)",109
+WildstraÃŸe 26, Duisburg (47057),107.500 1.683,2 Zimmer,"63,9 m²",3. Geschoss,https://www.immowelt.de/expose/e4e4679e-3efe-4357-a2a6-1e942c937918,4131,"WildstraÃŸe 26,  Duisburg (47057)",0
+Buchholz, Duisburg Huckingen (47259),297.900 1.934,5 Zimmer,154 m²,Unknown,https://www.immowelt.de/expose/42d4cab0-929f-4d99-a10c-40f0a7f3e643,4131,"Buchholz,  Duisburg Huckingen (47259)",0
+AakerfÃ¤hrstraÃŸe 35, Duisburg (47058),69.000 1.890,2 Zimmer,"36,5 m²",3. Geschoss,https://www.immowelt.de/expose/3737a263-7105-49a5-8235-36b1b2a89564,4131,"AakerfÃ¤hrstraÃŸe 35,  Duisburg (47058)",0
+Buchholz, Duisburg Huckingen (47259),297.900 1.934,5 Zimmer,154 m²,Unknown,https://www.immowelt.de/expose/2740f9c6-8495-4de0-a690-7d98af7c3600,4131,"Buchholz,  Duisburg Huckingen (47259)",0
+Laar, Duisburg Huckingen (47259),266.900 2.152,5 Zimmer,124 m²,Unknown,https://www.immowelt.de/expose/f4280835-b0ac-4bff-92b7-65962fd2076a,4131,"Laar,  Duisburg Huckingen (47259)",0
+Hochfeld, Duisburg (50802),615.999 4.344,5 Zimmer,"141,8 m²",580 m² Grundstuck,https://www.immowelt.de/expose/93d6d9dd-cf93-4001-be0f-a590fc9e5586,4131,"Hochfeld,  Duisburg (50802)",108
+Hochfeld, Duisburg (50802),579.999 3.718,5 Zimmer,156 m²,580 m² Grundstuck,https://www.immowelt.de/expose/5cb6ddbe-db5c-4349-97ce-23be4e36a08c,4131,"Hochfeld,  Duisburg (50802)",108
+Hochfeld, Duisburg (50802),595.999 3.848,4 Zimmer,"154,9 m²",580 m² Grundstuck,https://www.immowelt.de/expose/d66e351b-a7e7-4486-8ed6-df055293b61b,4131,"Hochfeld,  Duisburg (50802)",108
+Hochfeld, Duisburg (50802),625.999 4.140,5 Zimmer,"151,2 m²",580 m² Grundstuck,https://www.immowelt.de/expose/b8f7afc4-3217-4a91-9cb1-f6f9dd88b61b,4131,"Hochfeld,  Duisburg (50802)",108
+Hochfeld, Duisburg (50802),555.999 4.456,4 Zimmer,"124,8 m²",580 m² Grundstuck,https://www.immowelt.de/expose/0106ea65-a2b2-4061-80b0-d604b69ff6ca,4131,"Hochfeld,  Duisburg (50802)",108
+Mittelmeiderich, Duisburg (47137),189.000 1.909,"2,5 Zimmer",99 m²,Unknown,https://www.immowelt.de/expose/4b2748ab-1e9e-4c01-855c-4136980f3bce,4131,"Mittelmeiderich,  Duisburg (47137)",246
+Baerl, Duisburg (47199),488.379 4.607,4 Zimmer,106 m²,490 m² Grundstuck,https://www.immowelt.de/expose/e7a425a1-e967-445d-b296-9fc8ed6585a3,4131,"Baerl,  Duisburg (47199)",73
+Baerl, Duisburg (47199),488.379 4.607,4 Zimmer,106 m²,490 m² Grundstuck,https://www.immowelt.de/expose/0b926d45-d6d7-4b00-a94a-02e313b48d92,4131,"Baerl,  Duisburg (47199)",73
+Alt-Hamborn, Duisburg (47166),355.000 1.179,13 Zimmer,301 m²,183 m² Grundstuck,https://www.immowelt.de/expose/e561707c-f52c-48e1-a765-e5e2342c3861,4131,"Alt-Hamborn,  Duisburg (47166)",176
+Dirschauer Weg 41, Duisburg (47279),105.000 1.563,3 Zimmer,"67,2 m²",1. Geschoss,https://www.immowelt.de/expose/82dce98f-4e80-4146-8b25-bfbcdc39bdc5,4131,"Dirschauer Weg 41,  Duisburg (47279)",86
+Baerl, Duisburg-Baerl (47199),559.638 4.176,4 Zimmer,134 m²,490 m² Grundstuck,https://www.immowelt.de/expose/7212c940-5edd-4586-847a-fda738e67bf7,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Baerl, Duisburg (47199),488.379 4.607,4 Zimmer,106 m²,490 m² Grundstuck,https://www.immowelt.de/expose/a8b2aa8e-b281-4d77-9ca0-5521443a0b8c,4131,"Baerl,  Duisburg (47199)",73
+Dirschauer Weg 5, Duisburg (47279),180.000 1.200,2 Zimmer,150 m²,Unknown,https://www.immowelt.de/expose/76b95f02-b69c-45b2-8b11-a5e68ef9b93a,4131,"Dirschauer Weg 5,  Duisburg (47279)",117
+Am Hochheider Busch 21, Duisburg (47198),385.000 2.153,"6,5 Zimmer","178,9 m²",181 m² Grundstuck,https://www.immowelt.de/expose/bbb82b35-f55e-49de-8ae3-d9d72de6d612,4131,"Am Hochheider Busch 21,  Duisburg (47198)",95
+GroÃŸenbaum, Duisburg (47269),219.000 3.422,2 Zimmer,64 m²,1. Geschoss,https://www.immowelt.de/expose/26f7e224-87ac-4706-95a3-92305fb4213b,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+Duissern, Duisburg (47058),249.000 4.527,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/22666f42-a6b5-4f4d-96da-02b62ca7cc3a,4131,"Duissern,  Duisburg (47058)",227
+Hochemmerich, Duisburg (47226),290.000 3.816,"3,5 Zimmer",76 m²,147 m² Grundstuck,https://www.immowelt.de/expose/e2cbd6db-8f2e-446c-82b2-424200b105d1,4131,"Hochemmerich,  Duisburg (47226)",233
+Dr.-Wilhelm-Roelen-StraÃŸe 385, Duisburg (47179),Preis auf Anfrage,9 Zimmer,"269,3 m²",578 m² Grundstuck,https://www.immowelt.de/expose/0a4f22e6-687d-4161-805e-f3acdcae2de4,4131,"Dr.-Wilhelm-Roelen-StraÃŸe 385,  Duisburg (47179)",0
+Neumuhl, Duisburg (47167),185.000 2.284,3 Zimmer,81 m²,2. Geschoss,https://www.immowelt.de/expose/f8a7847a-b523-4bbd-b604-e2698ecd2bdc,4131,"Neumuhl,  Duisburg (47167)",131
+Marxloh, Duisburg (47169),18.000 486,37 m²,Unknown,Unknown,https://www.immowelt.de/expose/8791bd77-71aa-47ad-b153-fdbcd58ce3f0,4131,"Marxloh,  Duisburg (47169)",170
+Beeck, Duisburg (47139),198.000 753,263 m²,Unknown,Unknown,https://www.immowelt.de/expose/2ee04dea-4b93-44ad-b62b-64c75dc5fd87,4131,"Beeck,  Duisburg (47139)",141
+Bergheim, Duisburg (47228),169.000 2.965,2 Zimmer,57 m²,2. Geschoss,https://www.immowelt.de/expose/272e261a-bfe7-4e10-b055-7646c2b46326,4131,"Bergheim,  Duisburg (47228)",116
+Baerl, Duisburg (47199),362.000 3.204,4 Zimmer,113 m²,371 m² Grundstuck,https://www.immowelt.de/expose/ae441df6-d18f-4bb2-8bbc-7dd2998fb6e9,4131,"Baerl,  Duisburg (47199)",73
+Bruckhausen, Duisburg (47166),20.200 20.200,1 Zimmer,1 m²,117 m² Grundstuck,https://www.immowelt.de/expose/e06691ba-5640-4547-833b-b60f0b1ab8ca,4131,"Bruckhausen,  Duisburg (47166)",115
+Hochfeld, Duisburg (47053),252.000 694,363 m²,Unknown,Unknown,https://www.immowelt.de/expose/91e70351-a720-498e-b888-1e0378767049,4131,"Hochfeld,  Duisburg (47053)",200
+Dellviertel, Duisburg (47051),175.000 2.333,"3,5 Zimmer",75 m²,Unknown,https://www.immowelt.de/expose/ec39c031-99ed-4b17-ae2c-5d3c33344afa,4131,"Dellviertel,  Duisburg (47051)",329
+GroÃŸenbaum, Duisburg / GroÃŸenbaum (47269),125.000 1.866,2 Zimmer,67 m²,3. Geschoss,https://www.immowelt.de/expose/a2fa7f49-dd49-4dff-a0ca-d8a19b041761,4131,"GroÃŸenbaum,  Duisburg / GroÃŸenbaum (47269)",0
+Hochemmerich, Duisburg (47228),289.000 2.890,5 Zimmer,100 m²,650 m² Grundstuck,https://www.immowelt.de/expose/e1eb31e1-e1c1-43da-9ea1-7d9f05676eab,4131,"Hochemmerich,  Duisburg (47228)",233
+Neumuhl, Duisburg (47167),518.777 4.320,"6,5 Zimmer","120,1 m²",477 m² Grundstuck,https://www.immowelt.de/expose/f9f0599b-e3ab-4462-b059-3ff95cde4ed7,4131,"Neumuhl,  Duisburg (47167)",131
+Buchholz, Duisburg (47249),285.000 4.279,2 Zimmer,"66,6 m²",Unknown,https://www.immowelt.de/projekte/expose/k27c732,4131,"Buchholz,  Duisburg (47249)",177
+WeselerstraÃŸe 79a, Duisburg (47169),455.000 1.396,326 m²,238 m² Grundstuck,Unknown,https://www.immowelt.de/expose/7e420c08-ccc3-44b7-acf7-4452463960e6,4131,"WeselerstraÃŸe 79a,  Duisburg (47169)",0
+WeselerstraÃŸe 79a, Duisburg (47169),455.000 1.396,326 m²,238 m² Grundstuck,Unknown,https://www.immowelt.de/expose/89fd441c-0faf-4436-8c26-9f8ce18a0795,4131,"WeselerstraÃŸe 79a,  Duisburg (47169)",0
+Baerl, Duisburg (47199),450.000 3.689,3 Zimmer,122 m²,549 m² Grundstuck,https://www.immowelt.de/expose/96d1894f-62dd-4221-8e6f-bcc0c2461b09,4131,"Baerl,  Duisburg (47199)",73
+Rumeln - Kaldershausen, Duisburg (47239),365.000 2.724,6 Zimmer,134 m²,683 m² Grundstuck,https://www.immowelt.de/expose/77712b21-9f96-402d-922d-1f1e7d05a9b9,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Rumeln - Kaldershausen, Duisburg (47239),398.000 2.863,5 Zimmer,139 m²,292 m² Grundstuck,https://www.immowelt.de/expose/b55a05ad-4ac3-403d-bedf-155cefad31dc,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Buchholz, Duisburg (47249),285.000 4.063,4 Zimmer,80 m²,290 m² Grundstuck,https://www.immowelt.de/expose/3bf18e31-2d6d-492a-8ea4-643faf5ded6b,4131,"Buchholz,  Duisburg (47249)",177
+Neudorf - Sud, Duisburg (47057),179.000 2.034,3 Zimmer,88 m²,4. Geschoss,https://www.immowelt.de/expose/edb7e8a0-e21b-4c7b-8478-f4a794890a4d,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Baerl, Duisburg / Baerl (47199),149.000 2.365,"2,5 Zimmer",63 m²,Unknown,https://www.immowelt.de/expose/fbcd27ce-8afd-49c9-b29d-1bd8f244a85d,4131,"Baerl,  Duisburg / Baerl (47199)",39
+Neudorf - Sud, Duisburg (47057),105.000 1.694,3 Zimmer,62 m²,3. Geschoss,https://www.immowelt.de/expose/09480d0f-0742-490e-a13a-78236fefbc18,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Rumeln - Kaldershausen, Duisburg / Rumeln-Kaldenhausen (47239),119.000 2.125,"2,5 Zimmer",56 m²,Unknown,https://www.immowelt.de/expose/eadcc31a-ae5b-4453-93ab-23c0bf45d20d,4131,"Rumeln - Kaldershausen,  Duisburg / Rumeln-Kaldenhausen (47239)",0
+Untermeiderich, Duisburg (47137),65.000 1.275,2 Zimmer,51 m²,Unknown,https://www.immowelt.de/expose/cd985012-5885-4ead-8c4a-6321f79da0a0,4131,"Untermeiderich,  Duisburg (47137)",87
+Buchholz, Duisburg / Buchholz (47249),499.000 3.669,5 Zimmer,136 m²,213 m² Grundstuck,https://www.immowelt.de/expose/c873cae1-1f74-4700-8e10-af62f16925dd,4131,"Buchholz,  Duisburg / Buchholz (47249)",148
+Bergheim, Duisburg (47228),698.000 3.324,7 Zimmer,210 m²,907 m² Grundstuck,https://www.immowelt.de/expose/91b72b7e-db2f-49a1-849d-26339d681fb0,4131,"Bergheim,  Duisburg (47228)",116
+Bergheim, Duisburg (47228),698.000 3.324,7 Zimmer,210 m²,907 m² Grundstuck,https://www.immowelt.de/expose/d36afe58-858d-44e8-8a1b-1f77cc976cdd,4131,"Bergheim,  Duisburg (47228)",116
+Neumuhl, Duisburg (47167),499.000 2.508,8 Zimmer,199 m²,539 m² Grundstuck,https://www.immowelt.de/expose/7ba23e35-8280-422b-87d5-bd83487e6a89,4131,"Neumuhl,  Duisburg (47167)",131
+Mundelheim, Duisburg / Serm (47259),420.000 2.234,7 Zimmer,188 m²,3.373 m² Grundstuck,https://www.immowelt.de/expose/4c87fba4-c7cd-4917-b114-45e2946111b5,4131,"Mundelheim,  Duisburg / Serm (47259)",24
+Mundelheim, Duisburg (47259),279.000 2.661,4 Zimmer,"104,8 m²",1. Geschoss,https://www.immowelt.de/expose/4fc5d7a0-6414-4400-8fc7-3fb86ef05b3b,4131,"Mundelheim,  Duisburg (47259)",54
+Hochheide, Duisburg (47198),195.000 1.623,5 Zimmer,114 m²,Unknown,https://www.immowelt.de/expose/30ee7d93-bcae-4982-80e5-4d35802eba04,4131,"Hochheide,  Duisburg (47198)",137
+Claubergstr. 34, Duisburg (47051),339.000 2.291,"4,5 Zimmer",148 m²,1. Geschoss,https://www.immowelt.de/expose/d53a6ede-a3ba-4344-9389-7b8a74b9780e,4131,"Claubergstr. 34,  Duisburg (47051)",728
+Huttenheim, Duisburg-Suden (47259),341.900 2.124,5 Zimmer,161 m²,Unknown,https://www.immowelt.de/expose/0fddb49c-44b8-478d-b7e5-e2d9a4614294,4131,"Huttenheim,  Duisburg-Suden (47259)",0
+GroÃŸenbaum, Duisburg (47269),195.000 2.089,"3,5 Zimmer","93,3 m²",10. Geschoss,https://www.immowelt.de/expose/51296f3a-00d1-4ce8-baac-d5df298f3591,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+Alt-Homberg, Duisburg (47198),975.000 1.702,14 Zimmer,"572,7 m²",1.278 m² Grundstuck,https://www.immowelt.de/expose/6c6d1f7f-037b-470a-8e39-21eec9bebe42,4131,"Alt-Homberg,  Duisburg (47198)",156
+Buchholz, Duisburg (47249),285.000 4.286,2 Zimmer,"66,5 m²",Unknown,https://www.immowelt.de/projekte/expose/k27c732,4131,"Buchholz,  Duisburg (47249)",177
+Hochemmerich, Duisburg (47226),55.000 1.375,1 Zimmer,40 m²,7. Geschoss,https://www.immowelt.de/expose/b7647872-46e7-4517-b76a-5c4980393824,4131,"Hochemmerich,  Duisburg (47226)",233
+Obermarxloh, Duisburg / Neumuhl (47167),449.000 3.097,5 Zimmer,145 m²,180 m² Grundstuck,https://www.immowelt.de/expose/a1d484fd-d2ec-4258-9e43-e1788ce2051f,4131,"Obermarxloh,  Duisburg / Neumuhl (47167)",0
+Duissern, Duisburg (47058),99.000 1.767,3 Zimmer,56 m²,1. Geschoss,https://www.immowelt.de/expose/af34dede-6e6b-4c46-840f-6437f84bb741,4131,"Duissern,  Duisburg (47058)",227
+RÃ¶ttgersbach, Duisburg (47169),10.000.000 567,17.645 m²,25.400 m² Grundstuck,Unknown,https://www.immowelt.de/expose/d4921b10-0b5b-4355-bda5-901128018582,4131,"RÃ¶ttgersbach,  Duisburg (47169)",0
+Lauenburger Allee 18, Duisburg (47269),890.000 1.405,"633,5 m²",602 m² Grundstuck,Unknown,https://www.immowelt.de/expose/1cc3e31b-cfa2-4537-8044-9a2df09fea88,4131,"Lauenburger Allee 18,  Duisburg (47269)",117
+DeichstraÃŸe 12, Duisburg (47119),449.000 2.842,5 Zimmer,158 m²,165 m² Grundstuck,https://www.immowelt.de/expose/853f5eb4-2e63-4788-a87f-cfbf761d181f,4131,"DeichstraÃŸe 12,  Duisburg (47119)",0
+DeichstraÃŸe 12, Duisburg (47119),449.000 2.842,5 Zimmer,158 m²,165 m² Grundstuck,https://www.immowelt.de/expose/b84cc749-b95c-4994-bc9e-f089eaefaef0,4131,"DeichstraÃŸe 12,  Duisburg (47119)",0
+Schelmenweg 23, Duisburg (47229),545.000 1.214,449 m²,220 m² Grundstuck,Unknown,https://www.immowelt.de/expose/bd2343c4-5908-4014-9ef3-8b0d9efcdfaf,4131,"Schelmenweg 23,  Duisburg (47229)",177
+Gerokstr. 2, Duisburg (47053),435.000 775,561 m²,Unknown,Unknown,https://www.immowelt.de/expose/58d888a5-f28e-40c9-b693-529f2e001b94,4131,"Gerokstr. 2,  Duisburg (47053)",195
+SchleiermacherstraÃŸe 5, Duisburg (47139),420.000 1.373,306 m²,211 m² Grundstuck,Unknown,https://www.immowelt.de/expose/4fd1a721-c365-46f7-8036-1734aef44176,4131,"SchleiermacherstraÃŸe 5,  Duisburg (47139)",0
+Im Wohndorf 4, Duisburg (47119),89.000 2.278,2 Zimmer,"39,1 m²",2. Geschoss,https://www.immowelt.de/expose/7a3e2a37-e204-4769-bbde-e1e5244333d2,4131,"Im Wohndorf 4,  Duisburg (47119)",31
+Greifswalder Str. 26, Duisburg (47269),231.000 2.817,"3,5 Zimmer",82 m²,EG,https://www.immowelt.de/expose/83e6b8b3-d139-432e-89bc-e66e7c05bf26,4131,"Greifswalder Str. 26,  Duisburg (47269)",73
+Worringer Weg 10, Duisburg (47279),104.000 1.677,"3,5 Zimmer",62 m²,EG,https://www.immowelt.de/expose/ce7bc428-a7a6-4aa7-90f1-cd1b0dfcbeaa,4131,"Worringer Weg 10,  Duisburg (47279)",85
+Moerser Str. 15, Duisburg (47198),345.000 1.327,260 m²,595 m² Grundstuck,Unknown,https://www.immowelt.de/expose/bc261249-d36d-4cd8-a47d-26eaa1700dad,4131,"Moerser Str. 15,  Duisburg (47198)",159
+Karl - Albert - Str. 32, Duisburg (47139),245.000 1.065,230 m²,139 m² Grundstuck,Unknown,https://www.immowelt.de/expose/c559f8c3-a307-4177-8b02-66566bd4c397,4131,"Karl - Albert - Str. 32,  Duisburg (47139)",136
+Hermann Grothe Str. 49, Duisburg (47279),127.000 2.106,"3,5 Zimmer","60,3 m²",1. Geschoss,https://www.immowelt.de/expose/e5469629-83fa-4089-a9c4-233b4d69bee8,4131,"Hermann Grothe Str. 49,  Duisburg (47279)",66
+Untermeiderich, Duisburg (47137),408.000 1.200,13 Zimmer,340 m²,728 m² Grundstuck,https://www.immowelt.de/expose/ec0571fb-1c5b-45f0-9183-93ac6cf4dc40,4131,"Untermeiderich,  Duisburg (47137)",87
+-, Duisburg (47119),899.000 5.619,6 Zimmer,160 m²,230 m² Grundstuck,https://www.immowelt.de/expose/1f0d5f2e-4de3-4c9c-9092-77953220c5b2,4131,"-,  Duisburg (47119)",497
+Wedau, Duisburg (47279),595.000 2.633,226 m²,517 m² Grundstuck,Unknown,https://www.immowelt.de/expose/2563c6ec-7da2-4ba1-b915-c211baa6c8ac,4131,"Wedau,  Duisburg (47279)",115
+Marxloh, Duisburg (47169),8.710 105,83 m²,Unknown,Unknown,https://www.immowelt.de/expose/328f96e1-9fe3-4330-b06f-08e6d89b4b3d,4131,"Marxloh,  Duisburg (47169)",170
+Hochemmerich, Duisburg-Rheinhausen (47226),Preis auf Anfrage,224 m²,359 m² Grundstuck,Unknown,https://www.immowelt.de/expose/df38045a-8492-4c04-9364-0f06f5c3f774,4131,"Hochemmerich,  Duisburg-Rheinhausen (47226)",233
+Hochemmerich, Duisburg (47226),429.000 1.860,8 Zimmer,"230,6 m²",467 m² Grundstuck,https://www.immowelt.de/expose/8fd6d439-44f1-43be-b2a2-94fc99c62724,4131,"Hochemmerich,  Duisburg (47226)",233
+Marxloh, Duisburg (47169),109.300 679,161 m²,Unknown,Unknown,https://www.immowelt.de/expose/f4699083-d44d-4e62-a6f5-f5cb6aa457a0,4131,"Marxloh,  Duisburg (47169)",170
+Friemersheim, Duisburg (47229),180.000 1.837,3 Zimmer,98 m²,3. Geschoss,https://www.immowelt.de/expose/f366228b-ccd9-49f4-9aa3-3f7e907a3164,4131,"Friemersheim,  Duisburg (47229)",120
+Fahrn, Duisburg (47169),46.300 702,3 Zimmer,66 m²,Unknown,https://www.immowelt.de/expose/2668c042-11a5-48a8-8b8d-373bad1774d5,4131,"Fahrn,  Duisburg (47169)",37
+Hochemmerich, Duisburg (47226),616.300 3.177,194 m²,1.026 m² Grundstuck,Unknown,https://www.immowelt.de/expose/16733ade-62b2-4957-89b8-b5024ab4b633,4131,"Hochemmerich,  Duisburg (47226)",233
+Marxloh, Duisburg (47169),109.300 679,6 Zimmer,161 m²,Unknown,https://www.immowelt.de/expose/a3f71980-5ee2-4e49-9d69-b6fea16fb237,4131,"Marxloh,  Duisburg (47169)",170
+Marxloh, Duisburg (47169),38.600 689,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/expose/4c94d177-b134-4aa2-bc1e-00d3262091a7,4131,"Marxloh,  Duisburg (47169)",170
+Marxloh, Duisburg (47169),35.500 683,2 Zimmer,52 m²,Unknown,https://www.immowelt.de/expose/867e729f-6c19-4c6a-b0f2-31e2c0c61811,4131,"Marxloh,  Duisburg (47169)",170
+Marxloh, Duisburg (47169),352.000 6.642,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/a1a4d397-a70e-4687-bf4e-f0f9dc79ff40,4131,"Marxloh,  Duisburg (47169)",170
+GroÃŸenbaum, Duisburg (47269),207.000 2.724,2 Zimmer,"76,2 m²",EG,https://www.immowelt.de/expose/da18103b-beef-4287-a729-94547b1227df,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+Hochemmerich, Duisburg (47226),616.300 3.177,5 Zimmer,194 m²,1.026 m² Grundstuck,https://www.immowelt.de/expose/98d7b5f7-6c41-4db1-8fbd-7e5a2588ea52,4131,"Hochemmerich,  Duisburg (47226)",233
+Vierlinden, Duisburg (47178),99.000 1.800,3 Zimmer,55 m²,EG,https://www.immowelt.de/expose/7cfd0492-5676-4625-a680-0688dea92804,4131,"Vierlinden,  Duisburg (47178)",73
+Fahrn, Duisburg (47169),46.300 702,66 m²,Unknown,Unknown,https://www.immowelt.de/expose/c927af8a-31c0-41dd-a8ae-1fdc5d851cbd,4131,"Fahrn,  Duisburg (47169)",37
+Mundelheim, Duisburg (47259),780.000 2.108,"369,9 m²",1.719 m² Grundstuck,Unknown,https://www.immowelt.de/expose/2e7705d0-81a3-448e-9d62-e6e739cc9146,4131,"Mundelheim,  Duisburg (47259)",54
+BÃœGELSTR. 1, Duisburg (47138),119.900 1.665,"3,5 Zimmer",72 m²,1. Geschoss,https://www.immowelt.de/expose/53f10362-1c5d-4e71-8a90-fc02c853ebab,4131,"BÃœGELSTR. 1,  Duisburg (47138)",0
+Fahrn, Duisburg (47169),46.300 702,3 Zimmer,66 m²,Unknown,https://www.immowelt.de/expose/39aacbf0-b0a6-4ab5-84b3-c0a8cc58d7a6,4131,"Fahrn,  Duisburg (47169)",37
+Mittelmeiderich, Duisburg (47137),129.000 1.541,3 Zimmer,"83,7 m²",EG,https://www.immowelt.de/expose/a5a5b309-06f2-4471-a24f-849c5acd297f,4131,"Mittelmeiderich,  Duisburg (47137)",246
+Bergheim, Duisburg / Bergheim (47228),259.000 1.877,4 Zimmer,138 m²,516 m² Grundstuck,https://www.immowelt.de/expose/35538b9a-7a1c-4402-bdb8-6de75a3688f4,4131,"Bergheim,  Duisburg / Bergheim (47228)",83
+Am Hauweg 23, Duisburg (47249),190000,3 Zimmer,80 m²,208 m² Grundstuck,https://www.immowelt.de/expose/109f7af8-96ca-47b6-a85a-a82ff1b1e21c,4131,"Am Hauweg 23,  Duisburg (47249)",122
+Duissern, Duisburg (47058),1.290.000 2.945,10 Zimmer,438 m²,3.054 m² Grundstuck,https://www.immowelt.de/expose/4ff7ee1a-8836-48b4-81a1-5523c9bc1d46,4131,"Duissern,  Duisburg (47058)",227
+Rumeln - Kaldershausen, Duisburg (47239),149.000 2.169,3 Zimmer,"68,7 m²",2. Geschoss,https://www.immowelt.de/expose/62a66a4d-0dd4-45b0-b568-a99ab5271c87,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Wedau, Duisburg / Wedau (47279),210.000 3.231,3 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/1c496b43-4609-4568-a332-80580ecb993d,4131,"Wedau,  Duisburg / Wedau (47279)",79
+Hochemmerich, Duisburg (47226),75.000 1.462,2 Zimmer,"51,3 m²",Unknown,https://www.immowelt.de/expose/36ce06c8-066c-4bb9-b45a-27d3328cfda3,4131,"Hochemmerich,  Duisburg (47226)",233
+Neumuhl, Duisburg (47167),399.000 2.217,6 Zimmer,"180,3 m²","296,3 m² Grundstuck",https://www.immowelt.de/expose/c637ec10-147b-4503-98eb-36972801f108,4131,"Neumuhl,  Duisburg (47167)",131
+GroÃŸenbaum, Duisburg (47269),145.000 2.302,2 Zimmer,63 m²,11. Geschoss,https://www.immowelt.de/expose/5de0337d-413a-484c-abfb-01d2b0e151b7,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+BeekstraÃŸe 36, Duisburg (47051),175000,682 m²,201 m² Grundstuck,Unknown,https://www.immowelt.de/expose/19f85994-753e-4a94-92a0-65f060fd007c,4131,"BeekstraÃŸe 36,  Duisburg (47051)",0
+Beeck, Duisburg (47139),198.000 753,263 m²,159 m² Grundstuck,Unknown,https://www.immowelt.de/expose/caac201f-b3b3-48cd-a983-a4ec37fa147a,4131,"Beeck,  Duisburg (47139)",141
+Marxloh, Duisburg (47169),18.000 486,1 Zimmer,37 m²,Unknown,https://www.immowelt.de/expose/c3945285-cf8a-4740-9f5e-f2f81ba4cc93,4131,"Marxloh,  Duisburg (47169)",170
+Beeck, Duisburg (47139),198000,159 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/ca0a2616-68d4-4dd1-ae4b-77c24471fb20,4131,"Beeck,  Duisburg (47139)",141
+Marxloh, Duisburg (47169),18.000 486,1 Zimmer,37 m²,Unknown,https://www.immowelt.de/expose/d16e8ed7-c100-41e8-805c-bc0813458e1f,4131,"Marxloh,  Duisburg (47169)",170
+Fahrn, Duisburg (47179),319.000 2.246,5 Zimmer,142 m²,346 m² Grundstuck,https://www.immowelt.de/expose/81a6ae97-6045-4777-b51f-3d7a07118aa0,4131,"Fahrn,  Duisburg (47179)",37
+Fahrn, Duisburg (47179),319.000 2.246,5 Zimmer,142 m²,346 m² Grundstuck,https://www.immowelt.de/expose/7087f573-6b2a-470f-a4a6-87cfbfe64bdf,4131,"Fahrn,  Duisburg (47179)",37
+Hochfeld, Duisburg (47053),252.000 694,363 m²,236 m² Grundstuck,Unknown,https://www.immowelt.de/expose/f403832e-f28c-4ba8-b032-646c9377d464,4131,"Hochfeld,  Duisburg (47053)",200
+Rumeln - Kaldershausen, Duisburg (47239),249.000 2.992,3 Zimmer,"83,2 m²",Unknown,https://www.immowelt.de/expose/12ec931c-8967-4e02-8249-1834180241cd,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Hochfeld, Duisburg (47053),419.900 873,16 Zimmer,481 m²,500 m² Grundstuck,https://www.immowelt.de/expose/d5052b6c-d7ee-4f42-8b9a-5f9d926510aa,4131,"Hochfeld,  Duisburg (47053)",200
+Rheinhausen - Mitte, Duisburg (47226),175.000 1.606,4 Zimmer,109 m²,167 m² Grundstuck,https://www.immowelt.de/expose/2d171cef-5179-46f9-bef9-c6d7560745c2,4131,"Rheinhausen - Mitte,  Duisburg (47226)",0
+Rahm, Duisburg (47269),1.249.000 3.786,9 Zimmer,"329,9 m²",1.731 m² Grundstuck,https://www.immowelt.de/expose/a5a93860-589a-453a-9e65-bc866dfbb7c7,4131,"Rahm,  Duisburg (47269)",61
+Wanheimerort, Duisburg (47055),309.000 1.052,9 Zimmer,"293,7 m²","234,2 m² Grundstuck",https://www.immowelt.de/expose/5e4f0091-2a40-487b-ba4a-9f03cc014e7f,4131,"Wanheimerort,  Duisburg (47055)",152
+Hochfeld, Duisburg (47053),252000,236 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/5ab8b5ab-bda4-48af-a0c9-f518fd60c886,4131,"Hochfeld,  Duisburg (47053)",200
+Fahrn, Duisburg (47169),42.200 728,3 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/dce627b1-ab62-4d95-b905-3f3fdb84a0e9,4131,"Fahrn,  Duisburg (47169)",37
+Hausstattstr., Duisburg (47259),530.000 4.077,6 Zimmer,130 m²,1.000 m² Grundstuck,https://www.immowelt.de/expose/02eb48e3-6497-4a17-ae06-d075ece3243c,4131,"Hausstattstr.,  Duisburg (47259)",37
+Bregenzerstr. 31, Duisburg (47249),299000,2 Zimmer,98 m²,Unknown,https://www.immowelt.de/expose/f95a4ef0-df8b-45d0-9b63-57e848608e31,4131,"Bregenzerstr. 31,  Duisburg (47249)",164
+Fahrn, Duisburg (47169),42.200 728,3 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/13ba5249-729c-4ecb-b7ce-b9ee1a500dfe,4131,"Fahrn,  Duisburg (47169)",37
+Hochheide, Duisburg (47198),513.000 2.644,5 Zimmer,194 m²,1.068 m² Grundstuck,https://www.immowelt.de/expose/1380c0e1-7b5e-4874-80c4-55da4bd5b35e,4131,"Hochheide,  Duisburg (47198)",137
+Hochheide, Duisburg (47198),31.800 776,2 Zimmer,41 m²,Unknown,https://www.immowelt.de/expose/b97c4352-b929-4fb2-81f5-defd9e248fb2,4131,"Hochheide,  Duisburg (47198)",137
+Hochheide, Duisburg (47198),14.600 174,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/12e1a727-5900-403c-a030-1cf5985ad081,4131,"Hochheide,  Duisburg (47198)",137
+Hasendong 11, Duisburg (47259),121.000 1.471,4 Zimmer,"82,3 m²",EG,https://www.immowelt.de/expose/fb38c84f-5674-4a87-999f-5ab9ab03dd1c,4131,"Hasendong 11,  Duisburg (47259)",27
+Am Nordgraben 8, Duisburg (47279),92.000 1.558,3 Zimmer,"59,1 m²",2. Geschoss,https://www.immowelt.de/expose/00329780-458d-4962-8c76-f184e0b3241f,4131,"Am Nordgraben 8,  Duisburg (47279)",67
+Hochemmerich, Duisburg (47228),679.000 2.212,8 Zimmer,307 m²,525 m² Grundstuck,https://www.immowelt.de/expose/c7766f26-437f-47e5-ac08-7afc1ab64d62,4131,"Hochemmerich,  Duisburg (47228)",233
+Wanheimerort, Duisburg (47055),309.000 1.052,9 Zimmer,"293,9 m²","234,2 m² Grundstuck",https://www.immowelt.de/expose/568d6a41-9728-4571-95df-6fe7ad46c756,4131,"Wanheimerort,  Duisburg (47055)",152
+Am Himgesberg 11, Duisburg (47259),88.400 1.467,"2,5 Zimmer","60,3 m²",1. Geschoss,https://www.immowelt.de/expose/d4fd421f-858e-4636-8774-234329feb498,4131,"Am Himgesberg 11,  Duisburg (47259)",24
+Am Himgesberg 9, Duisburg (47259),86.900 1.523,"2,5 Zimmer","57,1 m²",1. Geschoss,https://www.immowelt.de/expose/45ddbbda-8085-4744-b137-8ed9f94e45e4,4131,"Am Himgesberg 9,  Duisburg (47259)",24
+Am Himgesberg 1, Duisburg (47259),83.600 1.507,"2,5 Zimmer","55,5 m²",1. Geschoss,https://www.immowelt.de/expose/08f041ae-00f2-4cec-9f91-c1091b480f69,4131,"Am Himgesberg 1,  Duisburg (47259)",19
+Seitenhorst 17, Duisburg (47279),100.000 1.543,3 Zimmer,"64,8 m²",EG,https://www.immowelt.de/expose/f7f93d71-40e9-488d-b854-8e9b0cdb18bf,4131,"Seitenhorst 17,  Duisburg (47279)",32
+Neudorf - Nord, Duisburg (47057),510.000 1.409,362 m²,Unknown,Unknown,https://www.immowelt.de/expose/19ed006c-6aa7-43a2-8ae6-586a81c497dd,4131,"Neudorf - Nord,  Duisburg (47057)",229
+Untermeiderich, Duisburg (47137),110.000 1.710,2 Zimmer,"72,5 m²",3. Geschoss,https://www.immowelt.de/expose/120f5539-4f85-42c7-b3f4-8884a62eb018,4131,"Untermeiderich,  Duisburg (47137)",87
+Fahrn, Duisburg (47169),42.200 715,59 m²,Unknown,Unknown,https://www.immowelt.de/expose/8d091775-093f-4091-adc5-234f2d1d5a71,4131,"Fahrn,  Duisburg (47169)",37
+Wehofen, Duisburg (47169),159.000 2.338,2 Zimmer,68 m²,1. Geschoss,https://www.immowelt.de/expose/bb87614c-212f-4a17-bdb5-f519df7bd30d,4131,"Wehofen,  Duisburg (47169)",42
+Wehofen, Duisburg (47169),199.000 2.314,3 Zimmer,86 m²,1. Geschoss,https://www.immowelt.de/expose/725b0153-4f34-48c4-ba68-f84ed517b005,4131,"Wehofen,  Duisburg (47169)",42
+Beeck, Duisburg (47139),89.000 1.890,2 Zimmer,"47,1 m²",EG,https://www.immowelt.de/expose/7520407d-cc9e-45bd-9d9b-83fef6829fe5,4131,"Beeck,  Duisburg (47139)",141
+Hermann-Grothe-StraÃŸe 105, Duisburg (47279),79.000 1.548,2 Zimmer,"51,1 m²",EG,https://www.immowelt.de/expose/37e046fc-009b-4200-8e5d-be38fad43b3b,4131,"Hermann-Grothe-StraÃŸe 105,  Duisburg (47279)",0
+Am Nordgraben 24, Duisburg (47279),89.000 1.591,2 Zimmer,"55,9 m²",2. Geschoss,https://www.immowelt.de/expose/eaee5548-dc4c-428f-ab0a-c89d14f2d795,4131,"Am Nordgraben 24,  Duisburg (47279)",60
+Alt-Walsum, Duisburg (47178),249.000 2.306,"3,5 Zimmer",108 m²,Unknown,https://www.immowelt.de/expose/bd46b385-1953-411e-9365-a853dc62d937,4131,"Alt-Walsum,  Duisburg (47178)",0
+Neumuhl, Duisburg (47167),549.655 4.509,"6,5 Zimmer","121,9 m²",504 m² Grundstuck,https://www.immowelt.de/expose/41fb8ef1-588b-4ba6-bd77-5735db3a02c7,4131,"Neumuhl,  Duisburg (47167)",131
+Neumuhl, Duisburg (47167),518.777 4.252,"6,5 Zimmer",122 m²,504 m² Grundstuck,https://www.immowelt.de/expose/8d3562bc-729b-4ad4-ab1d-cc61f5f9a8ab,4131,"Neumuhl,  Duisburg (47167)",131
+Beeck, Duisburg (47139),299.000 937,11 Zimmer,319 m²,210 m² Grundstuck,https://www.immowelt.de/expose/07cc0d08-8799-44c2-8238-0aabd333622e,4131,"Beeck,  Duisburg (47139)",141
+Hochheide, Duisburg (47198),14.600 174,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/9f76a79a-0547-4965-b0d3-177cf7ec5e70,4131,"Hochheide,  Duisburg (47198)",137
+Bruckhausen, Duisburg (47166),20200,117 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/5d9d6587-ace2-4c71-b378-46b005355043,4131,"Bruckhausen,  Duisburg (47166)",115
+Hochheide, Duisburg (47198),31.800 776,2 Zimmer,41 m²,Unknown,https://www.immowelt.de/expose/e38610cb-34aa-4704-941e-87ed569ebc4e,4131,"Hochheide,  Duisburg (47198)",137
+Hochheide, Duisburg (47198),13.300 196,2 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/130e3539-78fb-46ed-82b8-5acb05d1a96c,4131,"Hochheide,  Duisburg (47198)",137
+BeekstraÃŸe 36, Duisburg (47051),175000,682 m²,201 m² Grundstuck,Unknown,https://www.immowelt.de/expose/2ae903b9-5132-4b2b-a486-c4801846f86f,4131,"BeekstraÃŸe 36,  Duisburg (47051)",0
+Dellviertel, Duisburg (47051),620.000 1.316,471 m²,273 m² Grundstuck,Unknown,https://www.immowelt.de/expose/f50641e3-c817-44e8-942d-da3af5a1eb3f,4131,"Dellviertel,  Duisburg (47051)",329
+Dellviertel, Duisburg (47051),620.000 1.316,471 m²,273 m² Grundstuck,Unknown,https://www.immowelt.de/expose/6b013ee3-c85b-4762-8544-533500d4154d,4131,"Dellviertel,  Duisburg (47051)",329
+Alt-Hamborn, Duisburg (47166),100.000 1.346,2 Zimmer,"74,4 m²",3. Geschoss,https://www.immowelt.de/expose/9776bbfd-6c56-40c7-a402-bb15a848defb,4131,"Alt-Hamborn,  Duisburg (47166)",176
+Hochheide, Duisburg (47198),13.300 196,2 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/1d741c8b-513b-4d3a-94b4-1db6f156e87a,4131,"Hochheide,  Duisburg (47198)",137
+Beeck, Duisburg (47139),44.500 742,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/2867fda4-652f-42ea-9344-8d0fd3c4e967,4131,"Beeck,  Duisburg (47139)",141
+Kaiser-Friedrich-Str. 255a, Duisburg (47167),91.000 1.517,3 Zimmer,60 m²,3. Geschoss,https://www.immowelt.de/expose/99a5c2cc-6a1d-46d3-b7c8-ccd881708c5f,4131,"Kaiser-Friedrich-Str. 255a,  Duisburg (47167)",110
+Wanheimerort, Duisburg (47055),85.000 1.735,2 Zimmer,"49,1 m²",3. Geschoss,https://www.immowelt.de/expose/f13c2e2b-c07e-44c1-ae84-65b10d7bd3ff,4131,"Wanheimerort,  Duisburg (47055)",152
+Ungelsheim, Duisburg (47259),590.000 2.634,9 Zimmer,224 m²,468 m² Grundstuck,https://www.immowelt.de/expose/20e92c4f-4e21-4652-8891-eb3aee94965f,4131,"Ungelsheim,  Duisburg (47259)",123
+Hochheide, Duisburg (47198),799.000 2.231,13 Zimmer,357 m²,"329,3 m² Grundstuck",https://www.immowelt.de/expose/2553473f-eb78-4972-81d8-5e268218c2ef,4131,"Hochheide,  Duisburg (47198)",137
+Hochfeld, Duisburg (47053),398.500 1.009,15 Zimmer,395 m²,642 m² Grundstuck,https://www.immowelt.de/expose/f3d9b9be-770d-42d0-9565-56169a3ac5db,4131,"Hochfeld,  Duisburg (47053)",200
+Rumeln - Kaldershausen, Duisburg (47239),120.000 1.690,3 Zimmer,"71,1 m²",3. Geschoss,https://www.immowelt.de/expose/2ed76d56-0ee6-4834-9289-337f3ad2905e,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Hochfeld, Duisburg (47053),339.500 899,10 Zimmer,"377,8 m²",216 m² Grundstuck,https://www.immowelt.de/expose/a01efa96-8ecd-4cc4-8f16-826c50ad1580,4131,"Hochfeld,  Duisburg (47053)",200
+Rumeln - Kaldershausen, Duisburg (47239),479.000 3.992,4 Zimmer,120 m²,400 m² Grundstuck,https://www.immowelt.de/expose/271094f8-d057-4fb8-8526-f1045643f049,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Ruhrort, Duisburg (47119),299.000 2.048,3 Zimmer,146 m²,Unknown,https://www.immowelt.de/expose/d6be4839-cc9e-4e1b-81b8-b3d97a02609f,4131,"Ruhrort,  Duisburg (47119)",188
+Hochfeld, Duisburg (47053),399.500 982,16 Zimmer,407 m²,282 m² Grundstuck,https://www.immowelt.de/expose/36dda738-e56d-4d5d-970c-bc35cd739112,4131,"Hochfeld,  Duisburg (47053)",200
+Alt-Hamborn, Duisburg (47169),358.000 2.754,5 Zimmer,130 m²,277 m² Grundstuck,https://www.immowelt.de/expose/40526f25-7ee7-4306-a5fd-6d431b70e7b6,4131,"Alt-Hamborn,  Duisburg (47169)",256
+Hochheide, Duisburg (47198),799.000 2.231,13 Zimmer,"358,5 m²","329,3 m² Grundstuck",https://www.immowelt.de/expose/7fab8743-f207-4479-89a1-5921342b6994,4131,"Hochheide,  Duisburg (47198)",137
+GroÃŸenbaum, Duisburg (47269),175.000 2.412,3 Zimmer,"72,6 m²",1. Geschoss,https://www.immowelt.de/expose/3c66cb04-21fc-485a-89ed-b5ca9e6f05a3,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+Aldenrade, Duisburg (47179),150.000 1.875,3 Zimmer,80 m²,2. Geschoss,https://www.immowelt.de/expose/b572853c-ba54-4802-9fe8-da913438f9d5,4131,"Aldenrade,  Duisburg (47179)",127
+Beeck, Duisburg (47139),44.500 742,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/fc5f2051-dc2c-4c06-9606-06499d3a3908,4131,"Beeck,  Duisburg (47139)",141
+Baerl, Duisburg (47199),362.000 3.204,113 m²,371 m² Grundstuck,Unknown,https://www.immowelt.de/expose/af7f86cb-579a-4f14-9f6a-fc13964f792b,4131,"Baerl,  Duisburg (47199)",73
+Hochfeld, Duisburg (47053),32.000 533,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/f6e44212-f689-490c-ae2a-df685167d359,4131,"Hochfeld,  Duisburg (47053)",200
+Buchholz, Duisburg (47249),890.000 2.380,374 m²,819 m² Grundstuck,Unknown,https://www.immowelt.de/expose/02ecf087-1b64-43be-8d63-96b3f283b600,4131,"Buchholz,  Duisburg (47249)",177
+Neudorf - Nord, Duisburg (47057),130.000 1.667,3 Zimmer,78 m²,4. Geschoss,https://www.immowelt.de/expose/0661ea7a-2081-48fc-941e-e115220197bf,4131,"Neudorf - Nord,  Duisburg (47057)",229
+Duissern, Duisburg (47058),169.000 2.167,3 Zimmer,78 m²,Unknown,https://www.immowelt.de/expose/09705c38-f1f3-4b30-a4f1-7caa5fb20d41,4131,"Duissern,  Duisburg (47058)",227
+MargarethenstraÃŸe 14, Duisburg (47198),239.000 2.193,4 Zimmer,109 m²,EG,https://www.immowelt.de/expose/e3a8c096-c824-4194-83f4-558b8990777c,4131,"MargarethenstraÃŸe 14,  Duisburg (47198)",0
+Hochfeld, Duisburg (47053),321.500 1.034,16 Zimmer,311 m²,208 m² Grundstuck,https://www.immowelt.de/expose/b3800f34-188d-4368-b8f5-ca5e4a066a1e,4131,"Hochfeld,  Duisburg (47053)",200
+Alt-Hamborn, Duisburg (47166),537.000 1.960,11 Zimmer,274 m²,721 m² Grundstuck,https://www.immowelt.de/expose/abffa06e-c180-4ad5-9c39-ac385fd92b40,4131,"Alt-Hamborn,  Duisburg (47166)",176
+Bergheim, Duisburg (47228),845.000 3.130,9 Zimmer,270 m²,685 m² Grundstuck,https://www.immowelt.de/expose/8e67a010-a3c3-48c0-b2c5-72334239150e,4131,"Bergheim,  Duisburg (47228)",116
+Mittelmeiderich, Duisburg (47138),339.500 2.572,5 Zimmer,132 m²,650 m² Grundstuck,https://www.immowelt.de/expose/b6d84cd5-f06c-4aa6-b6a6-af1bde7c0319,4131,"Mittelmeiderich,  Duisburg (47138)",246
+Alt-Hamborn, Duisburg (47166),950.000 1.462,650 m²,Unknown,Unknown,https://www.immowelt.de/expose/e82186ab-c80a-4d81-b464-b1ff3a0f2b8f,4131,"Alt-Hamborn,  Duisburg (47166)",176
+Alt-Homberg, Duisburg (47198),225.000 2.239,3 Zimmer,"100,5 m²",1. Geschoss,https://www.immowelt.de/expose/eb6b01f9-a050-41d9-8caf-840600e72b98,4131,"Alt-Homberg,  Duisburg (47198)",156
+RÃ¶ttgersbach, Duisburg (47169),960.000 1.231,33 Zimmer,780 m²,2.000 m² Grundstuck,https://www.immowelt.de/expose/6abbd72c-bb36-412b-ad32-a3d2f7af1848,4131,"RÃ¶ttgersbach,  Duisburg (47169)",0
+Marxloh, Duisburg (47169),8.700 105,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/8534ca9e-124f-4980-9a82-82a397d83006,4131,"Marxloh,  Duisburg (47169)",170
+Wanheimerort, Duisburg (47053),2.540.000 4.425,1 Zimmer,574 m²,4.232 m² Grundstuck,https://www.immowelt.de/expose/cd7b7d3f-6fa0-4fea-956c-47c7ba9ac90f,4131,"Wanheimerort,  Duisburg (47053)",152
+Wanheimerort, Duisburg (47055),110.800 1.629,3 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/d84f5324-e1e4-4cac-95ce-4e4337eda588,4131,"Wanheimerort,  Duisburg (47055)",152
+Neumuhl, Duisburg (47167),84.000 1.313,3 Zimmer,64 m²,Unknown,https://www.immowelt.de/expose/3e5fc40d-cb52-4826-bff5-85b85b738232,4131,"Neumuhl,  Duisburg (47167)",131
+Marxloh, Duisburg (47169),49.800 457,5 Zimmer,109 m²,Unknown,https://www.immowelt.de/expose/eff45a66-f9d6-4598-8f9b-312cd0d60c60,4131,"Marxloh,  Duisburg (47169)",170
+Obermarxloh, Duisburg (47166),191.000 796,7 Zimmer,240 m²,270 m² Grundstuck,https://www.immowelt.de/expose/f02b5977-a6ed-4085-aa57-1ad417388ea1,4131,"Obermarxloh,  Duisburg (47166)",99
+Hochheide, Duisburg (47198),20.000 238,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/62963781-b9ec-4fac-8205-a95c305a62d1,4131,"Hochheide,  Duisburg (47198)",137
+Friemersheim, Duisburg (47229),147.000 593,1 Zimmer,248 m²,303 m² Grundstuck,https://www.immowelt.de/expose/1b250d42-87a5-497f-ae31-4522933b5a88,4131,"Friemersheim,  Duisburg (47229)",120
+Beeck, Duisburg (47139),364.000 1.536,7 Zimmer,237 m²,604 m² Grundstuck,https://www.immowelt.de/expose/425d7bef-f2ce-4305-9acb-3c18b0c58b4c,4131,"Beeck,  Duisburg (47139)",141
+Marxloh, Duisburg (47169),8.710 105,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/d9d79f11-f61b-415b-a9e6-8aa47f529f66,4131,"Marxloh,  Duisburg (47169)",170
+Dellviertel, Duisburg (47051),279.000 2.790,3 Zimmer,100 m²,3. Geschoss,https://www.immowelt.de/expose/627c8f78-76e5-458a-8ebd-741d963dfc65,4131,"Dellviertel,  Duisburg (47051)",329
+Hochfeld, Duisburg (47053),349.000 1.269,275 m²,159 m² Grundstuck,Unknown,https://www.immowelt.de/expose/05f82d77-ddd4-42bc-a623-0336e903fc72,4131,"Hochfeld,  Duisburg (47053)",200
+Alt-Homberg, Duisburg (47198),225.000 2.239,3 Zimmer,"100,5 m²",1. Geschoss,https://www.immowelt.de/expose/e14753bc-ae75-484e-9110-fb084ebdb31b,4131,"Alt-Homberg,  Duisburg (47198)",156
+Hochfeld, Duisburg (47053),349.000 1.269,13 Zimmer,275 m²,159 m² Grundstuck,https://www.immowelt.de/expose/72743565-ca53-42bd-85fe-1dec442a3e3b,4131,"Hochfeld,  Duisburg (47053)",200
+Obermeiderich, Duisburg (47138),548.410 3.862,5 Zimmer,142 m²,"570,5 m² Grundstuck",https://www.immowelt.de/expose/9c27720b-5a37-44dc-bcc8-a56c41e25cc6,4131,"Obermeiderich,  Duisburg (47138)",107
+Aldenrade, Duisburg (47179),439.000 2.582,6 Zimmer,170 m²,630 m² Grundstuck,https://www.immowelt.de/expose/a40660b8-3e90-4f7b-94f8-7eaeaf3a7645,4131,"Aldenrade,  Duisburg (47179)",127
+Alt-Homberg, Duisburg (47198),235.000 1.808,6 Zimmer,130 m²,374 m² Grundstuck,https://www.immowelt.de/expose/9ffec0f6-20db-478e-ab72-a6425058cfd9,4131,"Alt-Homberg,  Duisburg (47198)",156
+Rumeln - Kaldershausen, Duisburg (47239),182.000 2.364,"2,5 Zimmer",77 m²,Unknown,https://www.immowelt.de/expose/60248de9-e453-4f45-a0cb-286b4ad6c666,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Baerl, Duisburg (47199),362.000 3.232,112 m²,Unknown,Unknown,https://www.immowelt.de/expose/f51dad63-1298-460e-8aed-c42c9475e50b,4131,"Baerl,  Duisburg (47199)",73
+Mittelmeiderich, Duisburg (47137),99.000 1.320,"2,5 Zimmer",75 m²,frei ab sofort,https://www.immowelt.de/expose/5d77d832-572a-409e-af4a-81d63eb431d2,4131,"Mittelmeiderich,  Duisburg (47137)",246
+GroÃŸenbaum, Duisburg (47269),90.000 1.479,2 Zimmer,"60,9 m²",Unknown,https://www.immowelt.de/expose/73694e74-fadd-4322-bb26-1276240e44f9,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+Neumuhl, Duisburg (47167),84.000 1.313,3 Zimmer,64 m²,Unknown,https://www.immowelt.de/expose/447fb9a7-916c-4221-bf1c-a6c2289682f7,4131,"Neumuhl,  Duisburg (47167)",131
+Marxloh, Duisburg (47169),49.800 457,5 Zimmer,109 m²,Unknown,https://www.immowelt.de/expose/30a66780-4f7f-4989-a0e0-e57b561bd617,4131,"Marxloh,  Duisburg (47169)",170
+Hochheide, Duisburg (47198),13.300 196,2 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/9903082e-bd24-42e9-99d6-9d8e600c5853,4131,"Hochheide,  Duisburg (47198)",137
+Alt-Hamborn, Duisburg (47166),537.000 1.960,274 m²,721 m² Grundstuck,Unknown,https://www.immowelt.de/expose/25287de2-fa4b-4e7f-9647-e210b3c38629,4131,"Alt-Hamborn,  Duisburg (47166)",176
+Hochheide, Duisburg (47198),13.300 196,2 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/55762adc-8fc0-4c1c-b3b2-1ca6fc99e6c9,4131,"Hochheide,  Duisburg (47198)",137
+Hochheide, Duisburg (47198),149.800 1.628,6 Zimmer,92 m²,2. Geschoss,https://www.immowelt.de/expose/89012e73-e933-434a-af62-534086ad9f4d,4131,"Hochheide,  Duisburg (47198)",137
+Hochemmerich, Duisburg (47226),119.000 1.641,4 Zimmer,"72,5 m²",Unknown,https://www.immowelt.de/expose/a32dbbab-c6cd-4b97-abe1-a0225165f953,4131,"Hochemmerich,  Duisburg (47226)",233
+Fahrn, Duisburg (47179),449.000 2.376,"6,5 Zimmer",189 m²,480 m² Grundstuck,https://www.immowelt.de/expose/4ff18f0b-ec06-4b5a-95e3-9a4143589676,4131,"Fahrn,  Duisburg (47179)",37
+Dellviertel, Duisburg (47053),269.000 1.394,6 Zimmer,193 m²,1. Geschoss,https://www.immowelt.de/expose/499f2d71-f0a0-403b-81e6-5b745210a22c,4131,"Dellviertel,  Duisburg (47053)",329
+Marxloh, Duisburg (47169),8.700 105,83 m²,Unknown,Unknown,https://www.immowelt.de/expose/0aff6778-d7df-4bd4-af70-c28bcc4f8b80,4131,"Marxloh,  Duisburg (47169)",170
+Hochheide, Duisburg (47198),13.300 196,68 m²,Unknown,Unknown,https://www.immowelt.de/expose/39c0f707-2b65-479d-9b1b-e911bc3e082c,4131,"Hochheide,  Duisburg (47198)",137
+Bruckhausen, Duisburg (47166),20200,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/82eca5af-553e-42dd-badb-62cc617afc34,4131,"Bruckhausen,  Duisburg (47166)",115
+Alt-Hamborn, Duisburg (47166),537.000 1.960,274 m²,Unknown,Unknown,https://www.immowelt.de/expose/b0f60472-a110-4d72-9175-3397dc34d833,4131,"Alt-Hamborn,  Duisburg (47166)",176
+Neuenkamp, Duisburg (47059),259.000 2.878,3 Zimmer,90 m²,Unknown,https://www.immowelt.de/expose/c5254621-99d7-4cb3-a113-334d13618622,4131,"Neuenkamp,  Duisburg (47059)",44
+Buchholz, Duisburg / Buchholz (47249),499.000 4.229,4 Zimmer,118 m²,"382,3 m² Grundstuck",https://www.immowelt.de/expose/71c53b39-44bd-44d4-888e-d11285730402,4131,"Buchholz,  Duisburg / Buchholz (47249)",148
+Bruckhausen, Duisburg (47166),20.200 20.200,1 Zimmer,1 m²,117 m² Grundstuck,https://www.immowelt.de/expose/03109b64-928f-4f1f-bb2c-1f4e73b61f89,4131,"Bruckhausen,  Duisburg (47166)",115
+Obermarxloh, Duisburg (47166),3.200.000 1.497,79 Zimmer,"2.137,9 m²",2.075 m² Grundstuck,https://www.immowelt.de/expose/a4b6881c-1578-49a1-8516-d60408fc0528,4131,"Obermarxloh,  Duisburg (47166)",99
+Ruhrort, Duisburg (47119),381.300 2.243,1 Zimmer,170 m²,310 m² Grundstuck,https://www.immowelt.de/expose/872074b4-73ea-44a8-b3b9-c58fb3539d07,4131,"Ruhrort,  Duisburg (47119)",188
+Sittardsberger Allee 228, Duisburg (47249),469.000 4.009,4 Zimmer,117 m²,190 m² Grundstuck,https://www.immowelt.de/expose/2d53f2d5-7059-4895-96d3-69ddf5ed6f9d,4131,"Sittardsberger Allee 228,  Duisburg (47249)",132
+Friemersheim, Duisburg (47229),269.000 1.281,7 Zimmer,210 m²,355 m² Grundstuck,https://www.immowelt.de/expose/3456e708-5eef-4440-b177-7ddad5942632,4131,"Friemersheim,  Duisburg (47229)",120
+Hochfeld, Duisburg (47053),32.000 533,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/afa967ca-71b5-4d6f-afc4-c6bc7387eae4,4131,"Hochfeld,  Duisburg (47053)",200
+Duissern, Duisburg (47058),720.000 5.173,"4,5 Zimmer","139,2 m²",EG,https://www.immowelt.de/expose/929a08b4-1044-4b70-9cfb-7574cdb9021f,4131,"Duissern,  Duisburg (47058)",227
+Dellviertel, Duisburg Dellviertel (47053),470.000 5.222,4 Zimmer,90 m²,404 m² Grundstuck,https://www.immowelt.de/expose/7fa27d07-843f-421c-b2c5-55fce609ebf3,4131,"Dellviertel,  Duisburg Dellviertel (47053)",124
+Ruhrort, Duisburg (47119),381.300 2.243,170 m²,Unknown,Unknown,https://www.immowelt.de/expose/7318d7a8-f9e1-4817-b845-eac64ef16180,4131,"Ruhrort,  Duisburg (47119)",188
+Ruhrort, Duisburg (47119),299.500 1.134,12 Zimmer,264 m²,164 m² Grundstuck,https://www.immowelt.de/expose/fffca3e6-4f1b-44ea-89f2-8ecee5a6a952,4131,"Ruhrort,  Duisburg (47119)",188
+Laar, Duisburg (47119),130.000 765,12 Zimmer,170 m²,171 m² Grundstuck,https://www.immowelt.de/expose/332ee24a-c012-4836-ba53-c47a36313347,4131,"Laar,  Duisburg (47119)",85
+Bruckhausen, Duisburg (47166),279.500 2.134,6 Zimmer,131 m²,374 m² Grundstuck,https://www.immowelt.de/expose/b5bef4ba-77b5-4d9d-875d-255fd67ef6c3,4131,"Bruckhausen,  Duisburg (47166)",115
+Bruckhausen, Duisburg (47166),279.500 2.134,6 Zimmer,131 m²,230 m² Grundstuck,https://www.immowelt.de/expose/7ba9af86-794f-40c3-89f8-a75b2cf05843,4131,"Bruckhausen,  Duisburg (47166)",115
+Untermeiderich, Duisburg (47137),99.900 1.604,3 Zimmer,"62,3 m²",2. Geschoss,https://www.immowelt.de/expose/edceef32-6274-4cd8-b38b-2949e1a7e48e,4131,"Untermeiderich,  Duisburg (47137)",87
+Hasendong 5, Duisburg (47259),124.000 1.452,"4,5 Zimmer","85,4 m²",2. Geschoss,https://www.immowelt.de/expose/fbbb00ee-d274-4707-acb9-54f6fb9d6254,4131,"Hasendong 5,  Duisburg (47259)",36
+Friemersheim, Duisburg (47229),147.000 590,249 m²,303 m² Grundstuck,Unknown,https://www.immowelt.de/expose/2d9f1287-0afd-423e-9638-a77b6d51ea2a,4131,"Friemersheim,  Duisburg (47229)",120
+Hochheide, Duisburg (47198),20.000 238,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/fea3811e-9ecc-4d7a-8e8d-23e3ca65afc2,4131,"Hochheide,  Duisburg (47198)",137
+Marxloh, Duisburg (47169),6.950 109,3 Zimmer,64 m²,Unknown,https://www.immowelt.de/expose/3d415b31-b900-4152-934d-8f25c5133485,4131,"Marxloh,  Duisburg (47169)",170
+Beeck, Duisburg (47139),364.000 1.536,237 m²,604 m² Grundstuck,Unknown,https://www.immowelt.de/expose/f7dd1ba9-c09e-49a7-a047-9251e12f3a69,4131,"Beeck,  Duisburg (47139)",141
+Hochheide, Duisburg (47198),14.600 174,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/88066b88-41c3-4e4d-bf3a-dc19352bfafc,4131,"Hochheide,  Duisburg (47198)",137
+Buchholz, Duisburg (47249),91.000 1.358,3 Zimmer,67 m²,Unknown,https://www.immowelt.de/expose/4b2f6513-3e45-4880-999e-7859a7382817,4131,"Buchholz,  Duisburg (47249)",177
+Altstadt, Duisburg (47053),54.500 182,300 m²,259 m² Grundstuck,Unknown,https://www.immowelt.de/expose/9bc79e12-7307-40ee-ab91-024754ff49de,4131,"Altstadt,  Duisburg (47053)",537
+Obermarxloh, Duisburg (47166),191.000 796,240 m²,270 m² Grundstuck,Unknown,https://www.immowelt.de/expose/3867152d-9e79-48aa-b3be-585dbc3d2dec,4131,"Obermarxloh,  Duisburg (47166)",99
+Wanheimerort, Duisburg (47055),110.800 1.629,3 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/fb6837ad-56f5-4b07-a4cd-fd3d92755ad2,4131,"Wanheimerort,  Duisburg (47055)",152
+Overbruch, Duisburg (47178),335.000 2.310,145 m²,423 m² Grundstuck,Unknown,https://www.immowelt.de/expose/0679b663-62a4-443f-b1f6-ec742dd5d668,4131,"Overbruch,  Duisburg (47178)",29
+Marxloh, Duisburg (47169),34.400 491,3 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/66683ece-901d-4586-b41f-eb53d101a094,4131,"Marxloh,  Duisburg (47169)",170
+Marxloh, Duisburg (47169),5.580 119,2 Zimmer,47 m²,Unknown,https://www.immowelt.de/expose/205427e5-a7ab-4b96-b2c8-636f1ce87edb,4131,"Marxloh,  Duisburg (47169)",170
+Altstadt, Duisburg (47053),68.000 143,475 m²,305 m² Grundstuck,Unknown,https://www.immowelt.de/expose/57a04690-d742-43b0-9dd2-c1852423d99b,4131,"Altstadt,  Duisburg (47053)",537
+Neumuhl, Duisburg (47167),97.400 946,4 Zimmer,103 m²,Unknown,https://www.immowelt.de/expose/920613e0-7428-46b2-9dec-7d67e5fb9eff,4131,"Neumuhl,  Duisburg (47167)",131
+Neudorf - Nord, Duisburg (47057),187.000 2.338,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/eb82de9f-b75d-4dcc-9dc2-35523df11c5d,4131,"Neudorf - Nord,  Duisburg (47057)",229
+Rahm, Duisburg (47269),569.000 4.552,5 Zimmer,125 m²,755 m² Grundstuck,https://www.immowelt.de/expose/0f9d8a13-2e58-41d4-8f9b-371266f6c322,4131,"Rahm,  Duisburg (47269)",61
+Friemersheim, Duisburg (47229),172.000 1.830,3 Zimmer,94 m²,3. Geschoss,https://www.immowelt.de/expose/7d11232e-5458-4492-a69b-d78055258d80,4131,"Friemersheim,  Duisburg (47229)",120
+Friemersheim, Duisburg (47229),129.700 1.540,3 Zimmer,"84,2 m²",3. Geschoss,https://www.immowelt.de/expose/4f87e74d-efe5-4e26-acb2-9651a7ba0345,4131,"Friemersheim,  Duisburg (47229)",120
+Neudorf - Sud, Duisburg-Mitte (47057),169.000 2.641,3 Zimmer,64 m²,3. Geschoss,https://www.immowelt.de/expose/56d0a2d8-cf95-4028-8370-42a5e7467e79,4131,"Neudorf - Sud,  Duisburg-Mitte (47057)",354
+Friemersheim, Duisburg (47229),269.000 747,360 m²,Unknown,Unknown,https://www.immowelt.de/expose/a0244862-1211-4a7d-8283-6ca272f267ea,4131,"Friemersheim,  Duisburg (47229)",120
+FÃ¶rkelstraÃŸe 6, Duisburg (47259),86.500 1.562,2 Zimmer,"55,4 m²",EG,https://www.immowelt.de/expose/19289259-e319-45d6-8b1a-2a7af4cc391a,4131,"FÃ¶rkelstraÃŸe 6,  Duisburg (47259)",0
+RosenbergstraÃŸe 16, Duisburg (47259),94.400 1.461,"2,5 Zimmer","64,6 m²",1. Geschoss,https://www.immowelt.de/expose/5711b237-a58c-4190-925a-d64c53a51452,4131,"RosenbergstraÃŸe 16,  Duisburg (47259)",0
+RosenbergstraÃŸe 10, Duisburg (47259),96.200 1.421,"2,5 Zimmer","67,7 m²",2. Geschoss,https://www.immowelt.de/expose/2e217f92-ff2c-4532-b1dd-e7558c8d402f,4131,"RosenbergstraÃŸe 10,  Duisburg (47259)",0
+RosenbergstraÃŸe 10, Duisburg (47259),84.400 1.399,"2,5 Zimmer","60,3 m²",EG,https://www.immowelt.de/expose/281e0ef9-5e74-48dc-a27d-3c286080fa40,4131,"RosenbergstraÃŸe 10,  Duisburg (47259)",0
+Am Himgesberg 11, Duisburg (47259),81.300 1.408,"2,5 Zimmer","57,8 m²",1. Geschoss,https://www.immowelt.de/expose/d9c1c5ac-d6d9-42ff-a84b-8d8b89706275,4131,"Am Himgesberg 11,  Duisburg (47259)",24
+Am Himgesberg 3, Duisburg (47259),83.800 1.500,"2,5 Zimmer","55,9 m²",1. Geschoss,https://www.immowelt.de/expose/2f6a6ce1-a9f9-46fe-8ea9-24b9ec05f027,4131,"Am Himgesberg 3,  Duisburg (47259)",22
+Am Himgesberg 1, Duisburg (47259),92.500 1.390,"2,5 Zimmer","66,5 m²",EG,https://www.immowelt.de/expose/62d6345c-068c-47c2-95c3-7a31ef511dcd,4131,"Am Himgesberg 1,  Duisburg (47259)",19
+Hermann-Grothe-StraÃŸe 15, Duisburg (47279),85.000 1.519,2 Zimmer,"55,9 m²",EG,https://www.immowelt.de/expose/609d7985-b6a5-4031-89d4-19095ff1cf1f,4131,"Hermann-Grothe-StraÃŸe 15,  Duisburg (47279)",0
+Am Nordgraben 22, Duisburg (47279),82.000 1.466,2 Zimmer,"55,9 m²",1. Geschoss,https://www.immowelt.de/expose/cf912ecc-591e-40e6-a155-92873aeb22b7,4131,"Am Nordgraben 22,  Duisburg (47279)",60
+Am Nordgraben 18, Duisburg (47279),82.000 1.466,2 Zimmer,"55,9 m²",2. Geschoss,https://www.immowelt.de/expose/d15e3bfe-1e93-4842-a337-cae175a46655,4131,"Am Nordgraben 18,  Duisburg (47279)",64
+Seitenhorst 21, Duisburg (47279),109.000 1.682,3 Zimmer,"64,8 m²",3. Geschoss,https://www.immowelt.de/expose/dabb2b07-64f0-462b-9154-e20440de7d3f,4131,"Seitenhorst 21,  Duisburg (47279)",34
+Seitenhorst 1, Duisburg (47279),99.000 1.528,3 Zimmer,"64,8 m²",1. Geschoss,https://www.immowelt.de/expose/c3c3dc9e-3d4f-42e9-b9a0-fb345063153f,4131,"Seitenhorst 1,  Duisburg (47279)",29
+Am Brunnen 11, Duisburg (47279),99.900 1.534,3 Zimmer,"65,1 m²",2. Geschoss,https://www.immowelt.de/expose/406b5dd5-5167-40b0-bff5-f2423c324762,4131,"Am Brunnen 11,  Duisburg (47279)",51
+Mulheimer StraÃŸe 93, Duisburg (47058),69.500 1.467,2 Zimmer,"47,4 m²",4. Geschoss,https://www.immowelt.de/expose/50f5fec0-ab99-46e8-a91a-54e15a14521e,4131,"Mulheimer StraÃŸe 93,  Duisburg (47058)",0
+Zum Muhlkotten 9, Duisburg (47259),78.000 2.108,2 Zimmer,37 m²,2. Geschoss,https://www.immowelt.de/expose/4cb15335-4c6d-4079-9c5b-fc1c2331b5b5,4131,"Zum Muhlkotten 9,  Duisburg (47259)",92
+Untermeiderich, Duisburg (47137),49.990 1.562,2 Zimmer,32 m²,2. Geschoss,https://www.immowelt.de/expose/4a8535ea-baf5-4c30-80d7-a26b31903b1e,4131,"Untermeiderich,  Duisburg (47137)",87
+Hochemmerich, Duisburg (47226),439.000 1.327,11 Zimmer,"330,9 m²",389 m² Grundstuck,https://www.immowelt.de/expose/3f35c3f5-3bef-4f22-a190-6a0930945a6f,4131,"Hochemmerich,  Duisburg (47226)",233
+Hermann-Grothe-StraÃŸe 105, Duisburg (47279),85.000 1.644,2 Zimmer,"51,7 m²",3. Geschoss,https://www.immowelt.de/expose/efaf7a8e-42cc-47f4-bb07-3b351c4b6d58,4131,"Hermann-Grothe-StraÃŸe 105,  Duisburg (47279)",0
+Hermann-Grothe-StraÃŸe 105, Duisburg (47279),99.000 1.541,3 Zimmer,"64,3 m²",3. Geschoss,https://www.immowelt.de/expose/52fb0056-5dfa-40c4-b801-d9cac01ea1cf,4131,"Hermann-Grothe-StraÃŸe 105,  Duisburg (47279)",0
+Finkenschlag 74, Duisburg (47279),95.000 1.466,3 Zimmer,"64,8 m²",2. Geschoss,https://www.immowelt.de/expose/af0c6dcf-c775-4305-bc68-a60dca45e963,4131,"Finkenschlag 74,  Duisburg (47279)",34
+Seitenhorst 23, Duisburg (47279),109.000 1.681,3 Zimmer,"64,9 m²",2. Geschoss,https://www.immowelt.de/expose/dd134ae7-0ec1-4d91-94bf-57a1bdc9e666,4131,"Seitenhorst 23,  Duisburg (47279)",34
+Seitenhorst 7, Duisburg (47279),95.000 1.465,3 Zimmer,"64,9 m²",1. Geschoss,https://www.immowelt.de/expose/b5e21993-9082-47e6-9043-93beb9e38c5a,4131,"Seitenhorst 7,  Duisburg (47279)",32
+Hochemmerich, Duisburg (47226),18.500 272,68 m²,Unknown,Unknown,https://www.immowelt.de/expose/2dab1b5b-e4f7-4327-9c74-be282c810809,4131,"Hochemmerich,  Duisburg (47226)",233
+Hochfeld, Duisburg (47053),32.000 533,60 m²,Unknown,Unknown,https://www.immowelt.de/expose/82aa2a61-8958-46dc-8857-fef01c88c859,4131,"Hochfeld,  Duisburg (47053)",200
+Hochemmerich, Duisburg (47226),18.500 272,68 m²,Unknown,Unknown,https://www.immowelt.de/expose/fadc980f-fbcb-4788-b771-e404abccf84c,4131,"Hochemmerich,  Duisburg (47226)",233
+Hochfeld, Duisburg (47053),32.000 533,60 m²,Unknown,Unknown,https://www.immowelt.de/expose/72bef4a9-9766-4eb1-9bfc-c828ab8ad5aa,4131,"Hochfeld,  Duisburg (47053)",200
+Hochemmerich, Duisburg (47226),18.500 272,68 m²,Unknown,Unknown,https://www.immowelt.de/expose/e9638a3c-c6dc-470d-9c00-baf9d4dcbfba,4131,"Hochemmerich,  Duisburg (47226)",233
+Bergheim, Duisburg / Bergheim (47228),159.000 2.208,3 Zimmer,72 m²,2. Geschoss,https://www.immowelt.de/expose/7941b17a-e256-4317-a651-06adae4cec3f,4131,"Bergheim,  Duisburg / Bergheim (47228)",83
+Hochheide, Duisburg (47198),125.000 1.786,3 Zimmer,70 m²,1. Geschoss,https://www.immowelt.de/expose/c667e45b-dbd8-4bad-8fff-0b57db165f71,4131,"Hochheide,  Duisburg (47198)",137
+Friemersheim, Duisburg (47229),198.000 2.200,3 Zimmer,90 m²,Unknown,https://www.immowelt.de/expose/cd2e6a5a-088a-43f7-8cc6-bd7e6f3544fc,4131,"Friemersheim,  Duisburg (47229)",120
+Hochemmerich, Duisburg (47226),115.000 1.541,4 Zimmer,"74,6 m²",Unknown,https://www.immowelt.de/expose/09a57e8a-0286-49db-8882-1b27e2af7ea0,4131,"Hochemmerich,  Duisburg (47226)",233
+Altstadt, Duisburg (47053),68.000 143,1 Zimmer,475 m²,305 m² Grundstuck,https://www.immowelt.de/expose/7561e91c-1c17-4308-9e02-418ad9342a64,4131,"Altstadt,  Duisburg (47053)",537
+Altstadt, Duisburg (47053),54.500 182,1 Zimmer,300 m²,259 m² Grundstuck,https://www.immowelt.de/expose/e94adb24-0c81-4d3a-b7f3-45738aa8051f,4131,"Altstadt,  Duisburg (47053)",537
+Obermarxloh, Duisburg (47166),580.000 1.257,15 Zimmer,"461,5 m²",437 m² Grundstuck,https://www.immowelt.de/expose/d5dd9f1f-4a85-404e-85be-5fb3371bd168,4131,"Obermarxloh,  Duisburg (47166)",99
+Hochemmerich, Duisburg (47226),399.500 1.166,11 Zimmer,"342,5 m²",442 m² Grundstuck,https://www.immowelt.de/expose/ee672b47-b669-43be-9d0a-369aef39d9d1,4131,"Hochemmerich,  Duisburg (47226)",233
+Neudorf - Nord, Duisburg (47057),555.555 4.073,4 Zimmer,"136,4 m²",273 m² Grundstuck,https://www.immowelt.de/expose/5a170cf9-9b02-458a-a00f-59b1ac52c380,4131,"Neudorf - Nord,  Duisburg (47057)",229
+Neumuhl, Duisburg (47167),79.000 1.295,"2,5 Zimmer",61 m²,Unknown,https://www.immowelt.de/expose/fb9a1289-105e-45fa-9cc2-cbad1d40be3f,4131,"Neumuhl,  Duisburg (47167)",131
+Alt-Homberg, Duisburg (47198),138.000 603,229 m²,163 m² Grundstuck,Unknown,https://www.immowelt.de/expose/bef847f9-5a05-4792-9b78-4ab03c36ddb0,4131,"Alt-Homberg,  Duisburg (47198)",156
+Hochheide, Duisburg (47198),128.000 674,5 Zimmer,190 m²,163 m² Grundstuck,https://www.immowelt.de/expose/7d020972-5bba-40b3-9960-d0d213b5fdf5,4131,"Hochheide,  Duisburg (47198)",137
+Alt-Homberg, Duisburg (47198),158.000 756,6 Zimmer,209 m²,186 m² Grundstuck,https://www.immowelt.de/expose/1c4b8c3e-61e4-49b2-8954-be0c80c4dffe,4131,"Alt-Homberg,  Duisburg (47198)",156
+Wedau, Duisburg / Wedau (47279),210.000 3.231,3 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/9d4c3074-c6c0-4b6b-afaf-03025082b7b1,4131,"Wedau,  Duisburg / Wedau (47279)",79
+Obermarxloh, Duisburg (47166),265.000 898,"18,5 Zimmer",295 m²,374 m² Grundstuck,https://www.immowelt.de/expose/ea68ae46-924a-4e7e-8064-df57e812c89b,4131,"Obermarxloh,  Duisburg (47166)",99
+Marxloh, Duisburg (47169),34.400 491,3 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/f21bbe2a-1df0-4fc1-a348-0596c797801a,4131,"Marxloh,  Duisburg (47169)",170
+Hochheide, Duisburg (47198),13.300 196,68 m²,Unknown,Unknown,https://www.immowelt.de/expose/f99bd3f6-32aa-4ffd-b227-bf9d5495349d,4131,"Hochheide,  Duisburg (47198)",137
+Hochfeld, Duisburg / Hochfeld (47053),149.000 1.863,3 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/4bed8495-1afc-4bd3-b53e-ca568039f034,4131,"Hochfeld,  Duisburg / Hochfeld (47053)",61
+Marxloh, Duisburg (47169),549.339 4.537,"5,5 Zimmer","121,1 m²",291 m² Grundstuck,https://www.immowelt.de/expose/a7d70cf8-f554-4e84-98fd-2ae7c6f96756,4131,"Marxloh,  Duisburg (47169)",170
+Holten, Duisburg (47167),549.655 4.503,"6,5 Zimmer","122,1 m²",504 m² Grundstuck,https://www.immowelt.de/expose/e763f089-97f2-43c4-a5fb-9561c2113d6b,4131,"Holten,  Duisburg (47167)",0
+Alt-Homberg, Duisburg (47198),398.000 634,628 m²,546 m² Grundstuck,Unknown,https://www.immowelt.de/expose/50eb633e-fa7c-44f3-9884-901276a0f8c3,4131,"Alt-Homberg,  Duisburg (47198)",156
+Huttenheim, Duisburg-Suden (47259),237.900 2.309,3 Zimmer,103 m²,Unknown,https://www.immowelt.de/expose/bb552556-686d-4d63-b1c3-2133524ac849,4131,"Huttenheim,  Duisburg-Suden (47259)",0
+RÃ¶ttgersbach, Duisburg (47169),459.000 4.590,3 Zimmer,100 m²,500 m² Grundstuck,https://www.immowelt.de/expose/83877e45-54af-4509-95bf-a0ab05831b01,4131,"RÃ¶ttgersbach,  Duisburg (47169)",0
+Altstadt, Duisburg (47051),1.524.369 5.919,8 Zimmer,"257,5 m²",600 m² Grundstuck,https://www.immowelt.de/expose/1e803934-b416-42d6-b587-9868f3176f7a,4131,"Altstadt,  Duisburg (47051)",537
+Buchholz, Duisburg Huckingen - (47259),476.900 3.846,5 Zimmer,124 m²,400 m² Grundstuck,https://www.immowelt.de/expose/11c48b93-6082-429c-83ec-f216f0572f87,4131,"Buchholz,  Duisburg Huckingen - (47259)",0
+Altstadt, Duisburg (47051),235.000 2.901,3 Zimmer,81 m²,3. Geschoss,https://www.immowelt.de/expose/d7e1439e-fc5e-45d9-84e2-41f787528648,4131,"Altstadt,  Duisburg (47051)",537
+Wedau, Duisburg (47279),691.534 5.224,4 Zimmer,"132,4 m²",400 m² Grundstuck,https://www.immowelt.de/expose/afd12b8c-ef20-496b-bdd3-98ce67efff32,4131,"Wedau,  Duisburg (47279)",115
+GroÃŸenbaum, Duisburg (47269),665.362 5.027,4 Zimmer,"132,4 m²",400 m² Grundstuck,https://www.immowelt.de/expose/170dfde3-59b4-4206-ac62-fdf9e724f632,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+Huckingen, Duisburg (47259),664.869 5.023,4 Zimmer,"132,4 m²",400 m² Grundstuck,https://www.immowelt.de/expose/43d84564-8cbc-4ea5-a517-22a0814b0a37,4131,"Huckingen,  Duisburg (47259)",123
+GroÃŸenbaum, Duisburg (47269),878.365 4.697,6 Zimmer,187 m²,550 m² Grundstuck,https://www.immowelt.de/expose/8db985ff-f423-41ad-816c-6e1b9cd853dc,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+GroÃŸenbaum, Duisburg (47269),764.252 5.278,6 Zimmer,"144,8 m²",500 m² Grundstuck,https://www.immowelt.de/expose/a8977aab-4bd5-4e2e-a1ab-81a3a1facc04,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+GroÃŸenbaum, Duisburg (47269),936.554 4.659,5 Zimmer,201 m²,600 m² Grundstuck,https://www.immowelt.de/expose/b39dba7e-d3a3-4e6e-a00b-36c854eb22b6,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+GroÃŸenbaum, Duisburg (47269),659.365 4.884,5 Zimmer,135 m²,400 m² Grundstuck,https://www.immowelt.de/expose/177d564c-9755-4ac4-9636-db60cbb2d0d4,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+Huckingen, Duisburg (47259),743.586 4.892,5 Zimmer,152 m²,450 m² Grundstuck,https://www.immowelt.de/expose/172c8df5-0c09-469d-84e6-28edd05b93b6,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),809.356 5.225,4 Zimmer,"154,9 m²",5.500 m² Grundstuck,https://www.immowelt.de/expose/32300508-66e1-4d5c-b637-1c3b8f9098d7,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),953.178 5.355,5 Zimmer,178 m²,600 m² Grundstuck,https://www.immowelt.de/expose/eb282b0e-17dd-42c3-9dd2-fc75a1146276,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),775.345 4.798,5 Zimmer,"161,6 m²",500 m² Grundstuck,https://www.immowelt.de/expose/0ba03da4-b377-4829-a510-21f7dccd622a,4131,"Huckingen,  Duisburg (47259)",123
+Buchholz, Duisburg (47249),359.000 3.264,4 Zimmer,110 m²,499 m² Grundstuck,https://www.immowelt.de/expose/f398d9a1-0aaf-48b2-aa95-cf7d11ff006c,4131,"Buchholz,  Duisburg (47249)",177
+Baerl, Duisburg-Baerl (47199),688.687 4.472,5 Zimmer,154 m²,490 m² Grundstuck,https://www.immowelt.de/expose/71a4c14f-7b98-4990-be30-6a0c61bd8a23,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Mittelmeiderich, Duisburg (47137),545.000 1.250,15 Zimmer,436 m²,230 m² Grundstuck,https://www.immowelt.de/expose/ced4d883-e231-4b09-8006-ff0a9d338ec7,4131,"Mittelmeiderich,  Duisburg (47137)",246
+Mittelmeiderich, Duisburg (47137),545.000 1.250,15 Zimmer,436 m²,230 m² Grundstuck,https://www.immowelt.de/expose/ddbe0e76-d0a6-4778-af5e-a1c8e08d2f59,4131,"Mittelmeiderich,  Duisburg (47137)",246
+Baerl, Duisburg-Baerl (47199),544.856 4.394,5 Zimmer,124 m²,490 m² Grundstuck,https://www.immowelt.de/expose/51c29c4b-9019-48af-9035-5f20a14efe25,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Overbruch, Duisburg (47178),150.000 1.500,5 Zimmer,100 m²,569 m² Grundstuck,https://www.immowelt.de/expose/0841fbec-0047-4349-98ee-531d3a741197,4131,"Overbruch,  Duisburg (47178)",29
+Baerl, Duisburg (47199),605.783 4.885,4 Zimmer,124 m²,490 m² Grundstuck,https://www.immowelt.de/expose/3f861faf-46ad-4ec5-9dd6-935903a03942,4131,"Baerl,  Duisburg (47199)",73
+Baerl, Duisburg (47199),625.783 3.887,5 Zimmer,161 m²,490 m² Grundstuck,https://www.immowelt.de/expose/8a6bc57a-a11f-474b-b68a-d6bc85e10715,4131,"Baerl,  Duisburg (47199)",73
+Baerl, Duisburg (47199),488.379 4.607,4 Zimmer,106 m²,490 m² Grundstuck,https://www.immowelt.de/expose/9b4acd80-9871-4d71-90f0-30e2fa061c7c,4131,"Baerl,  Duisburg (47199)",73
+Mittelmeiderich, Duisburg (47137),99.000 1.540,2 Zimmer,"64,3 m²",1. Geschoss,https://www.immowelt.de/expose/b4016c0b-3588-4bbd-a42c-b7259e072ae1,4131,"Mittelmeiderich,  Duisburg (47137)",246
+Vierlinden, Duisburg (47178),349.000 2.976,4 Zimmer,"117,3 m²",329 m² Grundstuck,https://www.immowelt.de/expose/9a7dea05-21a6-4bf6-9f14-0e9d0e353c17,4131,"Vierlinden,  Duisburg (47178)",73
+Neumuhl, Duisburg (47167),97.400 946,4 Zimmer,103 m²,Unknown,https://www.immowelt.de/expose/c05726e9-a77d-401b-a89b-123a49a799a4,4131,"Neumuhl,  Duisburg (47167)",131
+Overbruch, Duisburg (47178),335.000 2.310,7 Zimmer,145 m²,423 m² Grundstuck,https://www.immowelt.de/expose/353e4320-9c93-4be3-8270-250e5de35123,4131,"Overbruch,  Duisburg (47178)",29
+Hochheide, Duisburg (47198),396.000 2.250,1 Zimmer,176 m²,7.080 m² Grundstuck,https://www.immowelt.de/expose/74dfc955-d099-41d8-b394-c0d2aad18dc8,4131,"Hochheide,  Duisburg (47198)",137
+Overbruch, Duisburg (47178),129.000 1.955,2 Zimmer,66 m²,frei ab sofort,https://www.immowelt.de/expose/51417c27-7447-4809-bfc2-2dd4c57a5407,4131,"Overbruch,  Duisburg (47178)",29
+Bergheim, Duisburg (47228),130.000 1.831,3 Zimmer,75 m²,3. Geschoss,https://www.immowelt.de/expose/f486bd16-0101-4e93-82b7-29196e7111f1,4131,"Bergheim,  Duisburg (47228)",116
+Huckingen, Duisburg (47259),739.999 5.218,5 Zimmer,"141,8 m²",800 m² Grundstuck,https://www.immowelt.de/expose/b95e3396-d9b1-4de4-8fb3-b7ee88169e0e,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),999.999 3.236,5 Zimmer,309 m²,800 m² Grundstuck,https://www.immowelt.de/expose/5db715d0-8159-4a4f-b178-224a26353357,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),975.999 4.396,7 Zimmer,222 m²,800 m² Grundstuck,https://www.immowelt.de/expose/1b49c4de-469b-4681-a869-e837fa65f167,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),890.999 3.536,6 Zimmer,252 m²,800 m² Grundstuck,https://www.immowelt.de/expose/70f92dca-fee5-44b4-8ccb-24933452679f,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),699.999 4.487,5 Zimmer,156 m²,800 m² Grundstuck,https://www.immowelt.de/expose/a1798129-0916-4f92-9fde-2ee07af947b4,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),716.999 4.629,4 Zimmer,"154,9 m²",800 m² Grundstuck,https://www.immowelt.de/expose/e9d4fca0-e0cd-42e6-8af9-e5134c0a2016,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),749.999 4.960,5 Zimmer,"151,2 m²",800 m² Grundstuck,https://www.immowelt.de/expose/8e07f629-719a-4313-9326-0059b58f870f,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),665.999 4.933,5 Zimmer,135 m²,800 m² Grundstuck,https://www.immowelt.de/expose/908d4c62-5fa6-42c3-9516-3625e58b194d,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),679.999 4.390,4 Zimmer,"154,9 m²",800 m² Grundstuck,https://www.immowelt.de/expose/ed75a197-ae00-44e3-b178-0163d62befd1,4131,"Huckingen,  Duisburg (47259)",123
+Huckingen, Duisburg (47259),590.999 8.094,1 Zimmer,73 m²,800 m² Grundstuck,https://www.immowelt.de/expose/6f7eac3a-49b9-4f19-ae85-5be2e24f337e,4131,"Huckingen,  Duisburg (47259)",123
+Baerl, Duisburg (47199),469.000 4.114,"4,5 Zimmer",114 m²,515 m² Grundstuck,https://www.immowelt.de/expose/4ffd9a7f-b88a-4725-a96c-6382f62aec97,4131,"Baerl,  Duisburg (47199)",73
+RÃ¶ttgersbach, Duisburg (47169),329.000 1.581,8 Zimmer,"208,1 m²",372 m² Grundstuck,https://www.immowelt.de/expose/e92505cb-4ce3-4f6d-a4e1-6711b0526f68,4131,"RÃ¶ttgersbach,  Duisburg (47169)",0
+Rumeln - Kaldershausen, Duisburg / Rumeln (47239),129.000 1.697,3 Zimmer,76 m²,3. Geschoss,https://www.immowelt.de/expose/184858eb-fcf7-42ae-b3d8-87a0dda39c0a,4131,"Rumeln - Kaldershausen,  Duisburg / Rumeln (47239)",0
+Buchholz, Duisburg Huckingen - (47259),466.900 3.765,5 Zimmer,124 m²,400 m² Grundstuck,https://www.immowelt.de/expose/a6e4fa8c-8a45-46aa-be93-73324ef18c5a,4131,"Buchholz,  Duisburg Huckingen - (47259)",0
+Altstadt, Duisburg (47051),838.000 2.993,9 Zimmer,280 m²,243 m² Grundstuck,https://www.immowelt.de/expose/2551dada-3913-4e67-9413-ffb77e46812e,4131,"Altstadt,  Duisburg (47051)",537
+Obermarxloh, Duisburg (47166),148.990 1.842,"3,5 Zimmer",82 m²,2. Geschoss,https://www.immowelt.de/expose/ec309e2b-ba3c-45e8-b600-bfa9c48bfed2,4131,"Obermarxloh,  Duisburg (47166)",99
+KlÃ¶cknerstr. 23, Duisburg (47057),106.000 1.325,5 Zimmer,80 m²,EG,https://www.immowelt.de/expose/6a44ddd6-c5e0-477d-8976-dda3314626b3,4131,"KlÃ¶cknerstr. 23,  Duisburg (47057)",0
+Neuenkamp, Duisburg (47059),199.000 2.551,3 Zimmer,78 m²,Unknown,https://www.immowelt.de/expose/7d0b229a-9e97-417a-9bfb-9c1b59530f5b,4131,"Neuenkamp,  Duisburg (47059)",44
+Alt-Homberg, Duisburg (47198),469.000 3.169,6 Zimmer,148 m²,304 m² Grundstuck,https://www.immowelt.de/expose/ba64564f-54e6-43d3-9b21-65a2da43e8b7,4131,"Alt-Homberg,  Duisburg (47198)",156
+Alt-Homberg, Duisburg (47198),479.000 2.886,6 Zimmer,166 m²,216 m² Grundstuck,https://www.immowelt.de/expose/9324b86b-f7eb-4ccf-b461-9edbe72e3381,4131,"Alt-Homberg,  Duisburg (47198)",156
+Friemersheim, Duisburg (47229),250.000 2.500,4 Zimmer,100 m²,412 m² Grundstuck,https://www.immowelt.de/expose/db8ee087-90f5-4823-9a1a-03548b03c687,4131,"Friemersheim,  Duisburg (47229)",120
+Wanheimerort, Duisburg (47055),119.000 2.519,1 Zimmer,"47,2 m²",1. Geschoss,https://www.immowelt.de/expose/4185bf96-2716-4102-a9f9-be18f453d68e,4131,"Wanheimerort,  Duisburg (47055)",152
+Rumeln - Kaldershausen, Duisburg (47239),159.000 2.239,2 Zimmer,71 m²,5. Geschoss,https://www.immowelt.de/expose/2d11d1c3-915c-41a7-9ccb-9459f499526f,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Rumeln - Kaldershausen, Duisburg (47239),210.000 2.100,3 Zimmer,100 m²,142 m² Grundstuck,https://www.immowelt.de/expose/497d5034-516a-4782-b0c2-ca0192d1e41b,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Hochheide, Duisburg (47198),390.000 2.216,5 Zimmer,176 m²,708 m² Grundstuck,https://www.immowelt.de/expose/44298596-cc0e-42c2-b995-e6316a01d0bb,4131,"Hochheide,  Duisburg (47198)",137
+Hochheide, Duisburg (47198),397.000 2.046,5 Zimmer,194 m²,1.068 m² Grundstuck,https://www.immowelt.de/expose/1d0e44ba-5faa-4de8-bd1d-cc49e5ecd8f2,4131,"Hochheide,  Duisburg (47198)",137
+Huckingen, Duisburg (47259),395.000 1.837,7 Zimmer,215 m²,377 m² Grundstuck,https://www.immowelt.de/expose/2d6bbfac-97fa-4dc6-8d27-a0d82cbe601e,4131,"Huckingen,  Duisburg (47259)",123
+Neudorf - Nord, Duisburg (47057),449.000 1.641,12 Zimmer,"273,6 m²",156 m² Grundstuck,https://www.immowelt.de/expose/b6e0ba57-b1b8-417d-9162-c0d8af19e603,4131,"Neudorf - Nord,  Duisburg (47057)",229
+Baerl, Duisburg-Baerl (47199),688.687 4.472,5 Zimmer,154 m²,490 m² Grundstuck,https://www.immowelt.de/expose/5c4762e8-830f-4f51-ba9e-572a16bcb7e6,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Baerl, Duisburg-Baerl (47199),688.687 4.472,5 Zimmer,154 m²,490 m² Grundstuck,https://www.immowelt.de/expose/6b80139f-a244-4a89-a689-ef312b01d1ad,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Buchholz, Duisburg (47249),91.000 1.358,3 Zimmer,67 m²,Unknown,https://www.immowelt.de/expose/fd1ffc37-85b3-4eb1-bc42-ad6498ad03d8,4131,"Buchholz,  Duisburg (47249)",177
+Marxloh, Duisburg (47169),6.950 109,3 Zimmer,64 m²,Unknown,https://www.immowelt.de/expose/c7b5bae2-21b9-4bfe-ae78-6043eaaa667b,4131,"Marxloh,  Duisburg (47169)",170
+Marxloh, Duisburg (47169),5.580 119,2 Zimmer,47 m²,Unknown,https://www.immowelt.de/expose/9c2bfc4e-3147-444e-9616-888f5cd571f3,4131,"Marxloh,  Duisburg (47169)",170
+Marxloh, Duisburg (47169),103.000 294,12 Zimmer,350 m²,377 m² Grundstuck,https://www.immowelt.de/expose/e80b3f28-e2c4-48c5-be64-357c7b64fb48,4131,"Marxloh,  Duisburg (47169)",170
+Laar, Duisburg (47119),92.400 1.400,2 Zimmer,66 m²,1. Geschoss,https://www.immowelt.de/expose/238c7604-e58e-4c00-bfa8-11268b3da153,4131,"Laar,  Duisburg (47119)",85
+Hochheide, Duisburg (47198),92.500 1.303,3 Zimmer,71 m²,Unknown,https://www.immowelt.de/expose/c7f82e9d-2cc1-4389-ae74-d542785c3e06,4131,"Hochheide,  Duisburg (47198)",137
+Rumeln - Kaldershausen, Duisburg (47239),266.000 2.771,4 Zimmer,96 m²,142 m² Grundstuck,https://www.immowelt.de/expose/13f522eb-fa7a-46b6-9844-2294426c16d1,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Neudorf - Nord, Duisburg (47057),187.000 2.338,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/790b5013-3396-4c8e-bba7-78bc98591c18,4131,"Neudorf - Nord,  Duisburg (47057)",229
+Hochfeld, Duisburg (50802),879.999 2.848,5 Zimmer,309 m²,580 m² Grundstuck,https://www.immowelt.de/expose/ed22e9ab-919c-48d7-ba1e-3922c7a516b8,4131,"Hochfeld,  Duisburg (50802)",108
+Hochfeld, Duisburg (50802),845.999 3.811,7 Zimmer,222 m²,580 m² Grundstuck,https://www.immowelt.de/expose/42ec9ff0-e200-4dee-8158-491b36212db8,4131,"Hochfeld,  Duisburg (50802)",108
+Hochfeld, Duisburg (50802),765.999 3.040,6 Zimmer,252 m²,580 m² Grundstuck,https://www.immowelt.de/expose/4991bcea-c320-4a0d-95c3-b8d13f3b2b98,4131,"Hochfeld,  Duisburg (50802)",108
+Dellviertel, Duisburg (50802),469.999 6.437,1 Zimmer,73 m²,580 m² Grundstuck,https://www.immowelt.de/expose/5cb3b900-59bf-4a49-ba8b-73d1797b328b,4131,"Dellviertel,  Duisburg (50802)",329
+Rahm, Duisburg / Rahm (47269),449.000 2.860,5 Zimmer,157 m²,189 m² Grundstuck,https://www.immowelt.de/expose/618ffd3f-8534-4922-b3e6-3e4d1a12ea86,4131,"Rahm,  Duisburg / Rahm (47269)",48
+Hochheide, Duisburg (47198),159.000 1.928,3 Zimmer,"82,5 m²",frei ab sofort,https://www.immowelt.de/expose/4f454431-a83b-4d56-9af0-392ea53c7718,4131,"Hochheide,  Duisburg (47198)",137
+Hochheide, Duisburg (47198),396.000 2.250,176 m²,708 m² Grundstuck,Unknown,https://www.immowelt.de/expose/206bae50-4181-4e2c-9194-958be33411f8,4131,"Hochheide,  Duisburg (47198)",137
+Hochheide, Duisburg (47198),92.500 1.303,3 Zimmer,71 m²,Unknown,https://www.immowelt.de/expose/9d252f3a-bd1f-4d1d-8be8-a321160bd5d6,4131,"Hochheide,  Duisburg (47198)",137
+Rumeln - Kaldershausen, Duisburg (47239),266.000 2.660,100 m²,142 m² Grundstuck,Unknown,https://www.immowelt.de/expose/8a7fed3e-ea5b-4798-9d41-4e6cea7b046d,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+HusemannstraÃŸe 9, Duisburg (47198),69.900 1.205,"2,5 Zimmer",58 m²,1. Geschoss,https://www.immowelt.de/expose/43d8b0fb-2b20-4ce7-9db5-60220d5a8b15,4131,"HusemannstraÃŸe 9,  Duisburg (47198)",0
+Friemersheim, Duisburg (47229),369.000 2.050,6 Zimmer,180 m²,570 m² Grundstuck,https://www.immowelt.de/expose/857b37c8-ffde-4df6-82bf-d3a0602bed14,4131,"Friemersheim,  Duisburg (47229)",120
+Am Nordgraben 6, Duisburg (47279),87.500 1.366,3 Zimmer,"64,1 m²",2. Geschoss,https://www.immowelt.de/expose/15bf7228-9fb5-4281-95b7-8a4564a66433,4131,"Am Nordgraben 6,  Duisburg (47279)",64
+Marxloh, Duisburg (47169),34.400 491,70 m²,Unknown,Unknown,https://www.immowelt.de/expose/d4439f45-fae0-4a03-ac46-ec95424fc374,4131,"Marxloh,  Duisburg (47169)",170
+Neumuhl, Duisburg (47167),84.000 1.313,64 m²,Unknown,Unknown,https://www.immowelt.de/expose/a65032b7-2a2e-482a-870d-a608bc225c5d,4131,"Neumuhl,  Duisburg (47167)",131
+Hochheide, Duisburg (47198),92.500 1.303,71 m²,Unknown,Unknown,https://www.immowelt.de/expose/83da3b1c-d42a-4882-a6a6-a2efb36b79c4,4131,"Hochheide,  Duisburg (47198)",137
+Rumeln - Kaldershausen, Duisburg (47239),266000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/924efe4a-59cf-4c24-8e40-520565a0a1e6,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Ungelsheim, Duisburg / Ungelsheim (47259),229.000 2.385,3 Zimmer,96 m²,3. Geschoss,https://www.immowelt.de/expose/f5e3f6c7-c0e7-4be2-8198-b3a158d544f1,4131,"Ungelsheim,  Duisburg / Ungelsheim (47259)",115
+Baerl, Duisburg (47199),379.000 2.850,6 Zimmer,133 m²,1.718 m² Grundstuck,https://www.immowelt.de/expose/a78d217e-6c19-46d6-9653-a384d4a86edb,4131,"Baerl,  Duisburg (47199)",73
+Friemersheim, Duisburg (47229),320.000 3.938,3 Zimmer,"81,3 m²",1. Geschoss,https://www.immowelt.de/expose/546514f1-cc41-4445-9eda-088bd91f7b9b,4131,"Friemersheim,  Duisburg (47229)",120
+Friemersheim, Duisburg (47229),329.000 3.918,3 Zimmer,84 m²,EG,https://www.immowelt.de/expose/03db0164-6217-4920-90b4-546c7c6d054f,4131,"Friemersheim,  Duisburg (47229)",120
+Friemersheim, Duisburg (47229),324.000 3.913,3 Zimmer,"82,8 m²",EG,https://www.immowelt.de/expose/0d35e651-9bcc-4b4c-8c59-0effe8755bd5,4131,"Friemersheim,  Duisburg (47229)",120
+Bruckhausen, Duisburg (47166),"35.900 89,75",400 m²,170 m² Grundstuck,Unknown,https://www.immowelt.de/expose/72b18ade-03eb-479d-b0c4-43ac2a9b13ae,4131,"Bruckhausen,  Duisburg (47166)",115
+Am Siepenkothen 42, Duisburg (47269),96.000 1.431,3 Zimmer,"67,1 m²",1. Geschoss,https://www.immowelt.de/expose/73302c0f-e345-4bb4-b8d3-27e0845044d4,4131,"Am Siepenkothen 42,  Duisburg (47269)",104
+GroÃŸenbaum, Duisburg (47269),560.000 4.242,4 Zimmer,132 m²,270 m² Grundstuck,https://www.immowelt.de/expose/6b58fc05-a970-4ce1-beb1-e14f2a24b849,4131,"GroÃŸenbaum,  Duisburg (47269)",0
+Obermeiderich, Duisburg (47137),315.000 3.247,4 Zimmer,97 m²,219 m² Grundstuck,https://www.immowelt.de/expose/b03cddd8-10ce-42f5-8465-0d4e8b605270,4131,"Obermeiderich,  Duisburg (47137)",107
+Rumeln - Kaldershausen, Duisburg (47239),265.000 2.789,4 Zimmer,95 m²,359 m² Grundstuck,https://www.immowelt.de/expose/b33a8e1e-97d2-4be5-b3a7-4ed7c072d4b1,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Duisburgerstr., Duisburg (47198),485.000 1.644,15 Zimmer,295 m²,309 m² Grundstuck,https://www.immowelt.de/expose/cf2eda82-2977-46cd-9b6a-70d51e5bd38e,4131,"Duisburgerstr.,  Duisburg (47198)",62
+Alt-Walsum, Duisburg (47178),499.000 2.000,10 Zimmer,250 m²,808 m² Grundstuck,https://www.immowelt.de/expose/1dd32408-fc8a-4c49-b06a-cd1600b3a76b,4131,"Alt-Walsum,  Duisburg (47178)",0
+Alt-Walsum, Duisburg (47178),499.000 2.000,10 Zimmer,250 m²,808 m² Grundstuck,https://www.immowelt.de/expose/bc242c50-dac5-49d9-83b2-eb77b2257906,4131,"Alt-Walsum,  Duisburg (47178)",0
+Finkenschlag 70, Duisburg (47279),99.000 1.528,3 Zimmer,"64,8 m²",EG,https://www.immowelt.de/expose/53085c6f-7f00-4153-ae3c-70e015bf680a,4131,"Finkenschlag 70,  Duisburg (47279)",34
+Hochheide, Duisburg (47198),14.600 174,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/73eea1c1-b3b9-4f7e-9499-12daff3fccec,4131,"Hochheide,  Duisburg (47198)",137
+Alt-Hamborn, Duisburg (47169),368.000 2.831,5 Zimmer,130 m²,248 m² Grundstuck,https://www.immowelt.de/expose/a9efbb1c-04c4-41e5-896b-94df22dd1ec4,4131,"Alt-Hamborn,  Duisburg (47169)",256
+Friemersheim, Duisburg / Friemersheim (47229),989.000 3.690,6 Zimmer,268 m²,466 m² Grundstuck,https://www.immowelt.de/expose/0e716489-92ac-48ed-b88d-f822ba588e3a,4131,"Friemersheim,  Duisburg / Friemersheim (47229)",209
+Wehofen, Duisburg (47169),479.000 2.903,5 Zimmer,165 m²,776 m² Grundstuck,https://www.immowelt.de/expose/008411b7-4700-485f-8a83-8411635472ff,4131,"Wehofen,  Duisburg (47169)",42
+Alt-Hamborn, Duisburg (47169),378.000 2.908,5 Zimmer,130 m²,312 m² Grundstuck,https://www.immowelt.de/expose/c4d04759-6ccd-48a5-9e36-9356cc484dde,4131,"Alt-Hamborn,  Duisburg (47169)",256
+Dellviertel, Duisburg (47051),785.000 1.304,602 m²,297 m² Grundstuck,Unknown,https://www.immowelt.de/expose/aedc97e8-9991-4bc2-9dd9-1ffe10e7c525,4131,"Dellviertel,  Duisburg (47051)",329
+Neuenkamp, Duisburg (47059),795.000 3.732,10 Zimmer,213 m²,1.329 m² Grundstuck,https://www.immowelt.de/expose/0aa11ac0-218f-410c-9c3c-4bdb668afd57,4131,"Neuenkamp,  Duisburg (47059)",44
+FÃ¶rkelstr. 16, Duisburg (47259),701.519 1.425,10 Zimmer,"492,4 m²",Unknown,https://www.immowelt.de/expose/3ce1be34-aeab-404e-8b54-f9ceb32df141,4131,"FÃ¶rkelstr. 16,  Duisburg (47259)",0
+Hochemmerich, Duisburg (47226),91.999 1.572,3 Zimmer,"58,5 m²",1. Geschoss,https://www.immowelt.de/expose/79a42cad-94ad-44d2-86c5-f4c0c86375fb,4131,"Hochemmerich,  Duisburg (47226)",233
+Hochemmerich, Duisburg (47226),109.999 1.880,3 Zimmer,"58,5 m²",Unknown,https://www.immowelt.de/expose/c03a3680-612a-435f-ba3e-f4b88c644d59,4131,"Hochemmerich,  Duisburg (47226)",233
+Neumuhl, Duisburg (47167),335.000 2.724,5 Zimmer,123 m²,583 m² Grundstuck,https://www.immowelt.de/expose/12f47d5e-f39f-4c63-be64-f6a4fa2fd4c5,4131,"Neumuhl,  Duisburg (47167)",131
+Obermarxloh, Duisburg (47166),229.000 2.120,6 Zimmer,108 m²,241 m² Grundstuck,https://www.immowelt.de/expose/0eeab93a-c452-457a-997b-cfe94886c913,4131,"Obermarxloh,  Duisburg (47166)",99
+Neudorf - Nord, Duisburg / Neudorf-Nord (47057),129.000 2.389,2 Zimmer,54 m²,3. Geschoss,https://www.immowelt.de/expose/f0b521e6-e823-44fb-9334-7f6fe6892a18,4131,"Neudorf - Nord,  Duisburg / Neudorf-Nord (47057)",434
+An der Batterie 15, Duisburg (47259),86.400 1.505,"2,5 Zimmer","57,4 m²",1. Geschoss,https://www.immowelt.de/expose/383a80bb-0f6b-4c7f-a6b7-29625529ad3d,4131,"An der Batterie 15,  Duisburg (47259)",19
+Bissingheim, Duisburg (47279),249.000 2.767,3 Zimmer,90 m²,Unknown,https://www.immowelt.de/expose/b0bf9940-dd34-4dfc-bccf-c19025d3164b,4131,"Bissingheim,  Duisburg (47279)",52
+Hochheide, Duisburg (47198),198.000 2.152,4 Zimmer,92 m²,2. Geschoss,https://www.immowelt.de/expose/a28e526e-b66d-48bd-833d-5ddf91c5a7d2,4131,"Hochheide,  Duisburg (47198)",137
+Neumuhl, Duisburg (47167),1.443.000 1.443.000,1 Zimmer,1 m²,7.773 m² Grundstuck,https://www.immowelt.de/expose/11d7d19a-0d9d-4cc0-975d-973a8a6069ef,4131,"Neumuhl,  Duisburg (47167)",131
+Baerl, Duisburg-Baerl (47199),615.213 4.069,5 Zimmer,"151,2 m²",490 m² Grundstuck,https://www.immowelt.de/expose/fc837ad4-04c7-42da-b1e4-2ade720285fb,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Baerl, Duisburg-Baerl (47199),618.687 4.017,5 Zimmer,154 m²,490 m² Grundstuck,https://www.immowelt.de/expose/c873fc23-29a3-426f-9488-aaf434fabfba,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Baerl, Duisburg-Baerl (47199),565.456 3.672,5 Zimmer,154 m²,490 m² Grundstuck,https://www.immowelt.de/expose/4e48b954-a5ce-47ef-a0f0-70463e30d19e,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Baerl, Duisburg-Baerl (47199),559.638 4.176,4 Zimmer,134 m²,490 m² Grundstuck,https://www.immowelt.de/expose/f4f0bf5b-949b-424b-a6c7-150b30516f89,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Baerl, Duisburg (47199),605.783 4.885,4 Zimmer,124 m²,490 m² Grundstuck,https://www.immowelt.de/expose/6599e0a8-38b5-4731-a0e0-d6fc7ddd68d7,4131,"Baerl,  Duisburg (47199)",73
+Baerl, Duisburg (47199),625.783 3.887,5 Zimmer,161 m²,490 m² Grundstuck,https://www.immowelt.de/expose/e516cfe3-0862-40d1-8c94-362ac923e8eb,4131,"Baerl,  Duisburg (47199)",73
+Mundelheim, Duisburg (47259),290.150 2.015,4 Zimmer,144 m²,Unknown,https://www.immowelt.de/expose/7c34b513-3bc8-4890-a53a-461fccae9cbe,4131,"Mundelheim,  Duisburg (47259)",54
+Buchholz, Duisburg (47259),260.650 2.102,4 Zimmer,124 m²,1 m² Grundstuck,https://www.immowelt.de/expose/c16ab191-401e-494b-a60f-c14919ccb09e,4131,"Buchholz,  Duisburg (47259)",177
+Marxloh, Duisburg (47169),8.710 105,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/4fea4187-d8f3-4797-a990-9a9dda8d8c65,4131,"Marxloh,  Duisburg (47169)",170
+Marxloh, Duisburg (47169),8.700 105,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/491b163b-28ca-471f-8a66-873c12198760,4131,"Marxloh,  Duisburg (47169)",170
+Bruckhausen, Duisburg (47166),70.333 175,1 Zimmer,401 m²,276 m² Grundstuck,https://www.immowelt.de/expose/e2744f50-800e-4eed-83ff-1572897555b0,4131,"Bruckhausen,  Duisburg (47166)",115
+Hochemmerich, Duisburg (47226),18.500 272,2 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/4edf25c6-f7ff-4bc5-a29a-d55a66203e66,4131,"Hochemmerich,  Duisburg (47226)",233
+Baerl, Duisburg (47199),362.000 3.204,4 Zimmer,113 m²,371 m² Grundstuck,https://www.immowelt.de/expose/23c79b38-bb63-43e0-93d3-696f9441d7aa,4131,"Baerl,  Duisburg (47199)",73
+Huckingen, Duisburg Sud (47259),680.000 5.913,3 Zimmer,115 m²,323 m² Grundstuck,https://www.immowelt.de/expose/feb6c2e8-3d1a-4d29-9cc8-86783530b17b,4131,"Huckingen,  Duisburg Sud (47259)",123
+Hochemmerich, Duisburg (47226),298.000 1.192,7 Zimmer,250 m²,511 m² Grundstuck,https://www.immowelt.de/expose/ec716fa1-2edb-4bc7-9ee9-ad8873722f20,4131,"Hochemmerich,  Duisburg (47226)",233
+FÃ¶rkelstraÃŸe 16, Duisburg (47259),134.643 1.844,"3,5 Zimmer",73 m²,2. Geschoss,https://www.immowelt.de/expose/01267228-8434-4993-bd93-b2bf0b3b28d1,4131,"FÃ¶rkelstraÃŸe 16,  Duisburg (47259)",0
+Finkenschlag 74, Duisburg (47279),95.000 1.462,3 Zimmer,65 m²,1. Geschoss,https://www.immowelt.de/expose/0480fedb-15a5-4e95-b8f9-1b9afcca1b59,4131,"Finkenschlag 74,  Duisburg (47279)",34
+Seitenhorst 19, Duisburg (47279),109.000 1.682,3 Zimmer,"64,8 m²",1. Geschoss,https://www.immowelt.de/expose/d3100663-55c8-4665-82dd-03a1d4d536ba,4131,"Seitenhorst 19,  Duisburg (47279)",32
+Beeck, Duisburg (47139),70.000 1.284,2 Zimmer,"54,5 m²",Unknown,https://www.immowelt.de/expose/77e808a8-657a-4ae4-b042-d3129ed858a3,4131,"Beeck,  Duisburg (47139)",141
+Beeck, Duisburg (47139),66.000 1.307,2 Zimmer,"50,5 m²",Unknown,https://www.immowelt.de/expose/e4d587f6-c971-433f-a6df-1c97581686b3,4131,"Beeck,  Duisburg (47139)",141
+Beeck, Duisburg (47139),99.900 1.297,3 Zimmer,77 m²,Unknown,https://www.immowelt.de/expose/6ffbe22c-78a7-434f-861b-a8f77f24f38b,4131,"Beeck,  Duisburg (47139)",141
+Beeck, Duisburg (47139),73.900 1.296,2 Zimmer,57 m²,Unknown,https://www.immowelt.de/expose/208c55a1-44c6-4b46-9427-7c456edc68c7,4131,"Beeck,  Duisburg (47139)",141
+Beeck, Duisburg (47139),69.900 1.294,2 Zimmer,54 m²,Unknown,https://www.immowelt.de/expose/2d9530ed-62d8-4570-a055-ed1930fb7a8a,4131,"Beeck,  Duisburg (47139)",141
+Beeck, Duisburg (47139),83.000 1.297,2 Zimmer,64 m²,Unknown,https://www.immowelt.de/expose/fb22c0dc-948f-4349-ba22-75a62f915976,4131,"Beeck,  Duisburg (47139)",141
+Beeck, Duisburg (47139),152.000 1.299,4 Zimmer,117 m²,Unknown,https://www.immowelt.de/expose/6bd8598e-08f7-4726-998f-45cc3851a6cf,4131,"Beeck,  Duisburg (47139)",141
+Beeck, Duisburg (47139),167.000 1.295,5 Zimmer,129 m²,Unknown,https://www.immowelt.de/expose/5c65d72d-6994-455f-91aa-05194a41c5d5,4131,"Beeck,  Duisburg (47139)",141
+Dellviertel, Duisburg / Dellviertel (47053),229.000 2.899,2 Zimmer,79 m²,3. Geschoss,https://www.immowelt.de/expose/630f879c-6c22-46ec-bba7-7c956587f69b,4131,"Dellviertel,  Duisburg / Dellviertel (47053)",124
+Rahm, Duisburg / Rahm (47269),279.000 3.207,3 Zimmer,87 m²,1. Geschoss,https://www.immowelt.de/expose/1d84b8ec-85e0-41b0-9221-22288e11d133,4131,"Rahm,  Duisburg / Rahm (47269)",48
+Duissern, Duisburg (47058),379.000 1.458,8 Zimmer,260 m²,156 m² Grundstuck,https://www.immowelt.de/expose/fbeca200-a4d5-481e-affa-4272c7aadae9,4131,"Duissern,  Duisburg (47058)",227
+Am Himgesberg 1, Duisburg (47259),84.800 1.493,"2,5 Zimmer","56,8 m²",2. Geschoss,https://www.immowelt.de/expose/208eb3ed-43d7-4e1f-828b-9ca833a84e5f,4131,"Am Himgesberg 1,  Duisburg (47259)",19
+Neudorf - Nord, Duisburg (47057),289.000 1.841,"6,5 Zimmer",157 m²,227 m² Grundstuck,https://www.immowelt.de/expose/165c2671-acbd-4a7b-bbd6-6d77486ab8c0,4131,"Neudorf - Nord,  Duisburg (47057)",229
+Hochheide, Duisburg (47198),513.000 2.644,194 m²,1.068 m² Grundstuck,Unknown,https://www.immowelt.de/expose/ae24d476-65fa-4cce-94f5-6e96be5bd4f1,4131,"Hochheide,  Duisburg (47198)",137
+Hochheide, Duisburg (47198),513000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/b186b0fe-ff3c-46d2-806b-f66624414a4f,4131,"Hochheide,  Duisburg (47198)",137
+Rumeln - Kaldershausen, Duisburg (47239),598.000 4.862,4 Zimmer,123 m²,820 m² Grundstuck,https://www.immowelt.de/expose/344e5dbc-bb79-45cd-a261-9701695b590f,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Untermeiderich, Duisburg / Untermeiderich (47137),615.000 1.154,17 Zimmer,533 m²,664 m² Grundstuck,https://www.immowelt.de/expose/74185137-b9cc-45bb-8da1-ef72f648cb39,4131,"Untermeiderich,  Duisburg / Untermeiderich (47137)",0
+Hochheide, Duisburg (47198),31.800 776,41 m²,Unknown,Unknown,https://www.immowelt.de/expose/49dd6af5-0ce5-4797-b2e9-22c9d66034c4,4131,"Hochheide,  Duisburg (47198)",137
+Obermarxloh, Duisburg (47166),399.000 2.250,4 Zimmer,"177,4 m²",761 m² Grundstuck,https://www.immowelt.de/expose/17244aba-aa75-4b5d-8216-00fae5a59744,4131,"Obermarxloh,  Duisburg (47166)",99
+Bruckhausen, Duisburg (47166),"35.900 89,75",400 m²,Unknown,Unknown,https://www.immowelt.de/expose/c53d5796-a456-4b98-bae3-80ccfa02111c,4131,"Bruckhausen,  Duisburg (47166)",115
+Bruckhausen, Duisburg (47166),70.333 137,514 m²,Unknown,Unknown,https://www.immowelt.de/expose/96edfd89-7423-46c1-82ee-3be04c6be8e2,4131,"Bruckhausen,  Duisburg (47166)",115
+Mittelmeiderich, Duisburg (47137),707.000 886,798 m²,679 m² Grundstuck,Unknown,https://www.immowelt.de/expose/a0f085e1-74b6-44ef-bea9-caba0f5aeb51,4131,"Mittelmeiderich,  Duisburg (47137)",246
+Baerl, Duisburg-Baerl (47199),645.213 4.267,5 Zimmer,"151,2 m²",490 m² Grundstuck,https://www.immowelt.de/expose/796754bd-0730-4c46-939d-1ab55554cfac,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Baerl, Duisburg-Baerl (47199),618.687 4.017,5 Zimmer,154 m²,490 m² Grundstuck,https://www.immowelt.de/expose/040f0fdf-25bb-44fe-91d2-756334985e03,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Baerl, Duisburg-Baerl (47199),595.456 3.867,5 Zimmer,154 m²,490 m² Grundstuck,https://www.immowelt.de/expose/5e3bf921-d574-41c5-ad54-6867f498ea08,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Bergheim, Duisburg (47228),410.000 4.100,5 Zimmer,100 m²,297 m² Grundstuck,https://www.immowelt.de/expose/c1e67b11-d2f2-4927-95f1-a9bff980561e,4131,"Bergheim,  Duisburg (47228)",116
+Buchholz, Duisburg (47249),269.000 2.069,"5,5 Zimmer",130 m²,Unknown,https://www.immowelt.de/expose/d89f2baa-63dd-42bc-afaf-1b6ae91adba0,4131,"Buchholz,  Duisburg (47249)",177
+Beeck, Duisburg (47139),44.500 742,60 m²,Unknown,Unknown,https://www.immowelt.de/expose/03d37c03-1f06-40b3-8838-470def0673ee,4131,"Beeck,  Duisburg (47139)",141
+Baerl, Duisburg-Baerl (47199),574.856 4.636,5 Zimmer,124 m²,419 m² Grundstuck,https://www.immowelt.de/expose/5eeea747-f78d-4b59-ab0e-1d046a3be1ec,4131,"Baerl,  Duisburg-Baerl (47199)",39
+Mittelmeiderich, Duisburg (47137),230.000 1.595,"5,5 Zimmer","144,2 m²",Unknown,https://www.immowelt.de/expose/256613df-a330-4b67-ac91-06a7df9629a9,4131,"Mittelmeiderich,  Duisburg (47137)",246
+Ungelsheim, Duisburg (47259),349.000 3.173,5 Zimmer,110 m²,287 m² Grundstuck,https://www.immowelt.de/expose/6d2afac0-34a4-479d-81ad-baf73ce9b663,4131,"Ungelsheim,  Duisburg (47259)",123
+Rahm, Duisburg (47269),469.000 3.975,3 Zimmer,118 m²,501 m² Grundstuck,https://www.immowelt.de/expose/43239246-140e-47d0-af54-77575d0c2494,4131,"Rahm,  Duisburg (47269)",61
+Alt-Homberg, Duisburg / Alt-Homberg (47198),65.000 1.182,2 Zimmer,55 m²,2. Geschoss,https://www.immowelt.de/expose/52862034-4e00-4468-b00a-27fc9b2ed91c,4131,"Alt-Homberg,  Duisburg / Alt-Homberg (47198)",0
+Wanheim - Angerhausen, Duisburg (47249),488.000 3.437,4 Zimmer,142 m²,360 m² Grundstuck,https://www.immowelt.de/expose/3b0cc27a-356d-4693-8c79-3776670bd27a,4131,"Wanheim - Angerhausen,  Duisburg (47249)",73
+Baerl, Duisbu (47199),499.000 3.816,4 Zimmer,"130,8 m²",500 m² Grundstuck,https://www.immowelt.de/expose/64b8dd36-122c-4d21-ae17-9807a7026cbb,4131,"Baerl,  Duisbu (47199)",0
+Marxloh, Duisburg (47169),49.800 457,109 m²,Unknown,Unknown,https://www.immowelt.de/expose/cf291e32-f63b-4b8e-8274-5ed1fbf65eb4,4131,"Marxloh,  Duisburg (47169)",170
+Rumeln - Kaldershausen, Duisburg (47239),469.000 4.114,4 Zimmer,114 m²,466 m² Grundstuck,https://www.immowelt.de/expose/a8d13125-21d1-4ecd-b78b-95d75974fd15,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Obermarxloh, Duisburg (47166),191.000 796,240 m²,Unknown,Unknown,https://www.immowelt.de/expose/223cb209-9588-4b70-974e-6c4d1fdcebb6,4131,"Obermarxloh,  Duisburg (47166)",99
+Wanheimerort, Duisburg (47055),345.000 1.259,10 Zimmer,274 m²,326 m² Grundstuck,https://www.immowelt.de/expose/b936d89b-bca9-4f5e-bf9b-5ad055449146,4131,"Wanheimerort,  Duisburg (47055)",152
+Laaker Str. 61, Duisburg (47137),590.000 1.681,351 m²,958 m² Grundstuck,Unknown,https://www.immowelt.de/expose/77142475-3be0-4f2d-a5fa-dcde24780c11,4131,"Laaker Str. 61,  Duisburg (47137)",216
+Hochheide, Duisburg (47198),96.000 1.218,3 Zimmer,"78,8 m²",Unknown,https://www.immowelt.de/expose/cd180864-f2e3-4548-b6b2-64ab13a3e96a,4131,"Hochheide,  Duisburg (47198)",137
+Neudorf - Sud, Duisburg (47057),125.000 1.838,3 Zimmer,68 m²,3. Geschoss,https://www.immowelt.de/expose/2756997f-f110-4fd1-8cf2-3de3a0e86108,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Neudorf - Sud, Duisburg (47057),74.000 1.805,2 Zimmer,41 m²,Unknown,https://www.immowelt.de/expose/ac052d08-290b-4d07-be84-07d6f5e64f05,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Altstadt, Duisburg / Altstadt (47051),1.340.000 2.393,560 m²,315 m² Grundstuck,Unknown,https://www.immowelt.de/expose/7c49364b-8aca-46e3-860e-211736af5b30,4131,"Altstadt,  Duisburg / Altstadt (47051)",486
+Wanheimerort, Duisburg (47055),849.000 3.032,7 Zimmer,280 m²,703 m² Grundstuck,https://www.immowelt.de/expose/969dfff2-d33d-4638-ba53-0abc4f8ba6f4,4131,"Wanheimerort,  Duisburg (47055)",152
+Bergheim, Duisburg (47228),389.000 2.005,6 Zimmer,194 m²,296 m² Grundstuck,https://www.immowelt.de/expose/dbef4265-5a7f-48da-9c73-e3c3bd6c6c95,4131,"Bergheim,  Duisburg (47228)",116
+Ungelsheim, Duisburg (47259),510.000 4.113,4 Zimmer,124 m²,420 m² Grundstuck,https://www.immowelt.de/expose/b232aa9b-1dc7-430c-910d-454e881892e2,4131,"Ungelsheim,  Duisburg (47259)",123
+Ungelsheim, Duisburg (47259),510.000 4.113,4 Zimmer,124 m²,420 m² Grundstuck,https://www.immowelt.de/expose/72f65fe3-87d2-433d-8cde-94c4653ca377,4131,"Ungelsheim,  Duisburg (47259)",123
+Bergheim, Duisburg / Bergheim (47228),419.000 3.036,4 Zimmer,138 m²,1.040 m² Grundstuck,https://www.immowelt.de/expose/52c2dc69-7fa4-468f-a1a8-0c84880a8860,4131,"Bergheim,  Duisburg / Bergheim (47228)",108
+Hochfeld, Duisburg (47053),75.000 647,5 Zimmer,116 m²,Unknown,https://www.immowelt.de/expose/c99aba1b-9e2f-4fd3-b9b2-27a583eecb59,4131,"Hochfeld,  Duisburg (47053)",200
+Fahrn, Duisburg (47179),89.000 1.171,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/6ce1468f-4d95-4a6c-9ded-c842a4f95a57,4131,"Fahrn,  Duisburg (47179)",37
+Baerl, Duisburg (47199),605.783 4.885,4 Zimmer,124 m²,490 m² Grundstuck,https://www.immowelt.de/expose/9681a548-48aa-43fe-a0f9-c86c82805ddf,4131,"Baerl,  Duisburg (47199)",73
+Baerl, Duisburg (47199),625.783 3.887,5 Zimmer,161 m²,490 m² Grundstuck,https://www.immowelt.de/expose/8d0f1245-5df1-47ba-b651-2dbee4a8c68e,4131,"Baerl,  Duisburg (47199)",73
+Baerl, Duisburg (47199),488.379 4.607,4 Zimmer,106 m²,490 m² Grundstuck,https://www.immowelt.de/expose/4df66f7e-4ea9-42ea-a4c3-ec5d0a560bbb,4131,"Baerl,  Duisburg (47199)",73
+Schulstr. 6, Duisburg (47226),100.000 1.235,3 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/e8446a4b-de7a-405b-87af-e40c7a10e8b8,4131,"Schulstr. 6,  Duisburg (47226)",298
+Schulstr. 6, Duisburg (47226),105.000 1.280,3 Zimmer,82 m²,frei ab sofort,https://www.immowelt.de/expose/16145e61-e25d-4e47-a475-2173063820f0,4131,"Schulstr. 6,  Duisburg (47226)",298
+Wedau, Duisburg (47279),269.000 2.690,4 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/9a1a22b7-90bf-4e79-8d5c-9c7ee8e59191,4131,"Wedau,  Duisburg (47279)",115
+Huttenheim, Duisburg-Suden (47259),435.900 2.382,5 Zimmer,183 m²,Unknown,https://www.immowelt.de/expose/1570a807-e84e-4f43-93b8-742767b16557,4131,"Huttenheim,  Duisburg-Suden (47259)",0
+Huttenheim, Duisburg-Suden (47259),484.900 2.999,6 Zimmer,"161,7 m²",Unknown,https://www.immowelt.de/expose/9470f14e-ee57-4794-925b-91ab54337e35,4131,"Huttenheim,  Duisburg-Suden (47259)",0
+Huttenheim, Duisburg-Suden (47259),400.800 2.690,4 Zimmer,149 m²,Unknown,https://www.immowelt.de/expose/dff920df-eaaf-4f51-b5a4-38b274abd9d1,4131,"Huttenheim,  Duisburg-Suden (47259)",0
+Huttenheim, Duisburg-Suden (47259),326.400 3.079,4 Zimmer,106 m²,Unknown,https://www.immowelt.de/expose/efdf99f6-548a-4c03-a4b7-ef8ee04287cf,4131,"Huttenheim,  Duisburg-Suden (47259)",0
+Neudorf - Sud, Duisburg (47057),145.000 2.266,2 Zimmer,64 m²,EG,https://www.immowelt.de/expose/4970a4ab-061a-4fc2-b5f7-eeb46030a90a,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Neumuhl, Duisburg (47167),97.400 946,103 m²,Unknown,Unknown,https://www.immowelt.de/expose/91993bcf-6739-4f87-9be7-8aeb3a916c4d,4131,"Neumuhl,  Duisburg (47167)",131
+Hochheide, Duisburg (47198),498.000 3.741,3 Zimmer,"133,1 m²",Unknown,https://www.immowelt.de/expose/7ee75785-9622-497c-ac5c-2b59978265c6,4131,"Hochheide,  Duisburg (47198)",137
+Rumeln - Kaldershausen, Duisburg (47239),349.000 3.144,4 Zimmer,111 m²,227 m² Grundstuck,https://www.immowelt.de/expose/acbeac86-0095-4ccc-b007-d3a472dbee3c,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Hochemmerich, Duisburg / Rheinhausen (47226),1.100.000 995,44 Zimmer,"1.105,7 m²",1.601 m² Grundstuck,https://www.immowelt.de/expose/ec4d59f0-2706-4346-a24a-c49fb0cee443,4131,"Hochemmerich,  Duisburg / Rheinhausen (47226)",233
+Overbruch, Duisburg (47178),335.000 2.310,145 m²,Unknown,Unknown,https://www.immowelt.de/expose/4d1591c4-63db-4a11-8383-97fd9cd3d468,4131,"Overbruch,  Duisburg (47178)",29
+Ruhrort, Duisburg (47119),184.900 2.150,4 Zimmer,86 m²,3. Geschoss,https://www.immowelt.de/expose/4e84efe0-2d80-401d-8d64-840386c02c11,4131,"Ruhrort,  Duisburg (47119)",188
+Wanheim - Angerhausen, Duisburg (47249),145.000 1.436,4 Zimmer,101 m²,2. Geschoss,https://www.immowelt.de/expose/d833bf14-fc45-406f-84ba-9f3801d7f10d,4131,"Wanheim - Angerhausen,  Duisburg (47249)",73
+Hochheide, Duisburg (47198),20000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/ad257c33-f6aa-4174-98ee-72ee026b5ab9,4131,"Hochheide,  Duisburg (47198)",137
+Buchholz, Duisburg (47249),91.000 1.358,67 m²,Unknown,Unknown,https://www.immowelt.de/expose/8331ab27-b1a0-4b3c-8888-2a99bc595e76,4131,"Buchholz,  Duisburg (47249)",177
+Neudorf - Nord, Duisburg (47057),180.000 2.000,5 Zimmer,90 m²,3. Geschoss,https://www.immowelt.de/expose/43b93343-2ca8-4395-83cb-5e3c021042fb,4131,"Neudorf - Nord,  Duisburg (47057)",229
+Dellviertel, Duisburg (47051),125.000 2.119,"2,5 Zimmer",59 m²,Unknown,https://www.immowelt.de/expose/710716dc-db48-47e7-9da3-71615b4b1ad4,4131,"Dellviertel,  Duisburg (47051)",329
+Mittelmeiderich, Duisburg (47137),155.000 1.107,5 Zimmer,140 m²,3. Geschoss,https://www.immowelt.de/expose/600a6f0b-7d4b-4437-a7c2-91271eff4cac,4131,"Mittelmeiderich,  Duisburg (47137)",246
+Rumeln - Kaldershausen, Duisburg (47239),735.000 4.900,4 Zimmer,150 m²,1.300 m² Grundstuck,https://www.immowelt.de/expose/9766c608-caf4-4e82-8e1f-cc0c03c76d49,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Neudorf - Sud, Duisburg (47057),519.600 3.984,4 Zimmer,"130,4 m²",264 m² Grundstuck,https://www.immowelt.de/expose/6eefdcc0-6e90-4415-8945-4e4165fd2544,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Neudorf - Nord, Duisburg (47057),187.000 2.338,80 m²,Unknown,Unknown,https://www.immowelt.de/expose/1da2aabb-f322-4a97-9793-2faaae8db4fc,4131,"Neudorf - Nord,  Duisburg (47057)",229
+Hochheide, Duisburg (47198),396000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/e88e4eaa-26b2-4039-a154-b9ce7758e751,4131,"Hochheide,  Duisburg (47198)",137
+Obermarxloh, Duisburg (47167),890.000 1.188,1 Zimmer,749 m²,935 m² Grundstuck,https://www.immowelt.de/expose/b419b920-4cc8-4cbd-9782-19cd339d73c5,4131,"Obermarxloh,  Duisburg (47167)",99
+Obermarxloh, Duisburg (47166),710.000 1.095,1 Zimmer,"648,4 m²",867 m² Grundstuck,https://www.immowelt.de/expose/3d667df5-95b7-492c-a43c-1ac0fdfd12c6,4131,"Obermarxloh,  Duisburg (47166)",99
+Aldenrade, Duisburg (47179),1.750.000 1.113,9 Zimmer,1.572 m²,1.926 m² Grundstuck,https://www.immowelt.de/expose/72898898-ec74-4f46-bf4c-3f2e5ce45401,4131,"Aldenrade,  Duisburg (47179)",127
+Buchholz, Duisburg (47249),349.000 3.588,"3,5 Zimmer","97,3 m²",409 m² Grundstuck,https://www.immowelt.de/expose/868eb8a0-35bb-4e8b-90ce-2f5f21e6c7e9,4131,"Buchholz,  Duisburg (47249)",177
+Untermeiderich, Duisburg (47137),750.000 1.011,1.300 m²,390 m² Grundstuck,Unknown,https://www.immowelt.de/expose/98cc46b6-4bfd-409c-953c-e7f7fa97c219,4131,"Untermeiderich,  Duisburg (47137)",87
+Aldenrade, Duisburg (47169),445.800 3.327,5 Zimmer,134 m²,270 m² Grundstuck,https://www.immowelt.de/expose/cec8bf75-f290-4de5-a1de-85d9730f6555,4131,"Aldenrade,  Duisburg (47169)",127
+Neudorf - Sud, Duisburg (47057),511.000 3.918,4 Zimmer,"130,4 m²",264 m² Grundstuck,https://www.immowelt.de/expose/97bc717c-4413-4958-b5a3-07621d0100c1,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Neudorf - Sud, Duisburg (47057),563.800 4.323,4 Zimmer,"130,4 m²",264 m² Grundstuck,https://www.immowelt.de/expose/fb3f9a32-9bca-42cd-a7db-b1b89f2bfe78,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Neudorf - Sud, Duisburg (47057),566.023 4.340,4 Zimmer,"130,4 m²",264 m² Grundstuck,https://www.immowelt.de/expose/c842577f-723f-4088-a365-2319936a01fd,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Neudorf - Sud, Duisburg (47057),518.700 3.977,4 Zimmer,"130,4 m²",264 m² Grundstuck,https://www.immowelt.de/expose/9bb40e32-7252-4303-a845-f96a98eb4259,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Neudorf - Sud, Duisburg (47057),570.900 4.377,4 Zimmer,"130,4 m²",264 m² Grundstuck,https://www.immowelt.de/expose/18b0f175-c35b-405f-9ae3-5ceccbe71d31,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Neudorf - Sud, Duisburg (47057),568.950 4.362,4 Zimmer,"130,4 m²",264 m² Grundstuck,https://www.immowelt.de/expose/c2f27b69-1e1e-4054-8a7b-2fbe77b70963,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Neudorf - Sud, Duisburg (47057),524.900 4.024,4 Zimmer,"130,4 m²",310 m² Grundstuck,https://www.immowelt.de/expose/8782c23e-66b7-436c-878c-b32363471268,4131,"Neudorf - Sud,  Duisburg (47057)",354
+Wanheimerort, Duisburg (47055),339.000 1.614,210 m²,240 m² Grundstuck,Unknown,https://www.immowelt.de/expose/b2502a85-678c-44de-aa6f-7392e10d69cf,4131,"Wanheimerort,  Duisburg (47055)",152
+Wanheimerort, Duisburg (47055),339.000 1.614,"10,5 Zimmer",210 m²,240 m² Grundstuck,https://www.immowelt.de/expose/52aea08b-ccf6-4445-b077-4f223ce41c63,4131,"Wanheimerort,  Duisburg (47055)",152
+Ruhrort, Duisburg (47119),219.000 2.147,4 Zimmer,102 m²,2. Geschoss,https://www.immowelt.de/expose/e62fa0db-5739-4028-a15b-a46598b6c8a7,4131,"Ruhrort,  Duisburg (47119)",188
+Ruhrort, Duisburg (47119),259.000 2.123,4 Zimmer,122 m²,1. Geschoss,https://www.immowelt.de/expose/c8ff5ca5-c039-4cd8-aae2-2fb08fdb25f2,4131,"Ruhrort,  Duisburg (47119)",188
+Ruhrort, Duisburg (47119),189.000 2.277,4 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/12a6eb0f-708d-457f-a78b-3ff9021fb124,4131,"Ruhrort,  Duisburg (47119)",188
+Baerl, Duisburg (47199),339.000 2.669,4 Zimmer,127 m²,500 m² Grundstuck,https://www.immowelt.de/expose/8443b223-955b-4b11-a8b2-4f50c935ba31,4131,"Baerl,  Duisburg (47199)",73
+Rumeln - Kaldershausen, Duisburg (47239),495.000 3.808,6 Zimmer,130 m²,763 m² Grundstuck,https://www.immowelt.de/expose/4469bd5f-0d47-49bf-a6ff-908817295279,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Laar, Duisburg (47119),89.000 1.459,2 Zimmer,61 m²,3. Geschoss,https://www.immowelt.de/expose/bd2d4036-6dd8-43da-991a-d1682ee87383,4131,"Laar,  Duisburg (47119)",85
+Wehofen, Duisburg (47169),499.000 4.708,3 Zimmer,106 m²,781 m² Grundstuck,https://www.immowelt.de/expose/80ee5ece-cabb-439b-b1d7-e902a1e6054c,4131,"Wehofen,  Duisburg (47169)",42
+Alt-Homberg, Duisburg (47198),471.565 2.911,5 Zimmer,162 m²,397 m² Grundstuck,https://www.immowelt.de/expose/e24e756f-d0a5-4fdf-9e4f-fa612b5fe447,4131,"Alt-Homberg,  Duisburg (47198)",156
+Schwarzer Weg 33, Duisburg (47198),544.900 3.786,5 Zimmer,"143,9 m²",288 m² Grundstuck,https://www.immowelt.de/expose/e328669f-737f-4f2f-befd-27f6f5b65a7a,4131,"Schwarzer Weg 33,  Duisburg (47198)",110
+Hochfeld, Duisburg / Hochfeld (47053),1.800.000 9.045,15 Zimmer,199 m²,327 m² Grundstuck,https://www.immowelt.de/expose/ed2a8168-fd41-4f0b-9575-b91cb0c68655,4131,"Hochfeld,  Duisburg / Hochfeld (47053)",61
+Hochfeld, Duisburg / Hochfeld (47053),1.300.000 6.533,15 Zimmer,199 m²,327 m² Grundstuck,https://www.immowelt.de/expose/0a5eb395-b33b-4470-95fe-2f65b237eda0,4131,"Hochfeld,  Duisburg / Hochfeld (47053)",61
+Kasslerfeld, Duisburg / KaÃŸlerfeld (47059),1.199.000 4.796,250 m²,3.034 m² Grundstuck,Unknown,https://www.immowelt.de/expose/7fa6512a-ecff-4033-bb73-ab7bdc7a9c79,4131,"Kasslerfeld,  Duisburg / KaÃŸlerfeld (47059)",0
+Duissern, Duisburg (47058),1.082.450 2.622,1 Zimmer,"412,9 m²",299 m² Grundstuck,https://www.immowelt.de/expose/e5b65725-e9e2-4334-9cde-d505953f4f1b,4131,"Duissern,  Duisburg (47058)",227
+Huckingen, Duisburg (47259),985.000 4.425,5 Zimmer,"222,6 m²",650 m² Grundstuck,https://www.immowelt.de/expose/d37ce643-b8b8-42fa-b2b0-deb12e71f663,4131,"Huckingen,  Duisburg (47259)",123
+Hochheide, Duisburg (47198),674.900 3.970,5 Zimmer,170 m²,388 m² Grundstuck,https://www.immowelt.de/expose/16d68d60-2b8b-456f-89a5-032611518a05,4131,"Hochheide,  Duisburg (47198)",137
+Hochheide, Duisburg (47198),527.060 3.712,5 Zimmer,142 m²,214 m² Grundstuck,https://www.immowelt.de/expose/e0be22c9-1c63-44f6-80f1-53e61901213d,4131,"Hochheide,  Duisburg (47198)",137
+Alt-Homberg, Duisburg (47198),275.000 1.554,7 Zimmer,177 m²,322 m² Grundstuck,https://www.immowelt.de/expose/f324dad2-e66d-4120-9b6d-9fdfd3cd79e3,4131,"Alt-Homberg,  Duisburg (47198)",156
+Beeckerwerth, Duisburg (47139),398.000 2.584,5 Zimmer,154 m²,437 m² Grundstuck,https://www.immowelt.de/expose/77fccf64-63cc-4cc6-81bd-9afde34d2a1d,4131,"Beeckerwerth,  Duisburg (47139)",48
+Fahrn, Duisburg (47179),199.000 1.895,5 Zimmer,105 m²,Unknown,https://www.immowelt.de/expose/9ab24ce2-b3f5-4ea8-b2a2-100992b96d8f,4131,"Fahrn,  Duisburg (47179)",37
+Obermarxloh, Duisburg (47167),890.000 1.188,1 Zimmer,749 m²,935 m² Grundstuck,https://www.immowelt.de/expose/a89e59df-d5aa-46c8-a58d-2db9939cf97c,4131,"Obermarxloh,  Duisburg (47167)",99
+Friemersheim, Duisburg (47229),147000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/83deb7b8-51c0-49e3-9241-d4cb6dbdf4dd,4131,"Friemersheim,  Duisburg (47229)",120
+Obermarxloh, Duisburg (47166),710.000 1.095,1 Zimmer,"648,4 m²",867 m² Grundstuck,https://www.immowelt.de/expose/86ef24a4-139b-4f4e-ba30-bc4944190125,4131,"Obermarxloh,  Duisburg (47166)",99
+Vierlinden, Duisburg (47178),2.100.000 2.885,20 Zimmer,728 m²,1.223 m² Grundstuck,https://www.immowelt.de/expose/6b48e588-408d-462b-a568-3eae2205ef81,4131,"Vierlinden,  Duisburg (47178)",73
+Altstadt, Duisburg (47051),290.000 3.686,3 Zimmer,"78,7 m²",2. Geschoss,https://www.immowelt.de/expose/2ea60ad4-717e-4137-b6ce-805146e9418e,4131,"Altstadt,  Duisburg (47051)",537
+Mittelmeiderich, Duisburg (47137),389.000 1.355,12 Zimmer,"287,2 m²",287 m² Grundstuck,https://www.immowelt.de/expose/2de1b55e-e0a7-42a0-8b36-0d4b89889275,4131,"Mittelmeiderich,  Duisburg (47137)",0
+Wanheim - Angerhausen, Duisburg (47249),420.000 2.258,7 Zimmer,186 m²,300 m² Grundstuck,https://www.immowelt.de/expose/e3347311-fc52-45d2-88ed-c6229a4191a4,4131,"Wanheim - Angerhausen,  Duisburg (47249)",73
+Beeck, Duisburg (47139),364.000 1.536,237 m²,Unknown,Unknown,https://www.immowelt.de/expose/3bd210d7-8c47-49f0-aebd-9db88a0f6d62,4131,"Beeck,  Duisburg (47139)",141
+Ruhrort, Duisburg (47119),488.100 2.551,6 Zimmer,"191,3 m²",2. Geschoss,https://www.immowelt.de/expose/7e32df35-72e2-4d6f-bfca-676d2cad4cb6,4131,"Ruhrort,  Duisburg (47119)",188
+Hochheide, Duisburg (47198),14.600 174,84 m²,Unknown,Unknown,https://www.immowelt.de/expose/31af6cdf-2db7-4600-85d2-9f49f6c6e9fe,4131,"Hochheide,  Duisburg (47198)",137
+Hochheide, Duisburg (47198),14.600 174,84 m²,Unknown,Unknown,https://www.immowelt.de/expose/b834eb81-d71f-4ba0-b27a-146aa2b209e8,4131,"Hochheide,  Duisburg (47198)",137
+Altstadt, Duisburg (47053),54500,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/a782203b-33da-44f0-bcf1-297fcee5ce05,4131,"Altstadt,  Duisburg (47053)",537
+Altstadt, Duisburg (47053),68000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/212bb10e-9909-40d8-aa99-088ef254ec96,4131,"Altstadt,  Duisburg (47053)",537
+Obermarxloh, Duisburg (47167),585.000 1.470,1 Zimmer,398 m²,367 m² Grundstuck,https://www.immowelt.de/expose/cfadee2e-9d77-4bff-8d46-6886b8a7f6bf,4131,"Obermarxloh,  Duisburg (47167)",99
+Obermarxloh, Duisburg (47167),585.000 1.470,1 Zimmer,398 m²,367 m² Grundstuck,https://www.immowelt.de/expose/6f5398c7-312d-4f4c-821f-de7d769b582b,4131,"Obermarxloh,  Duisburg (47167)",99
+Rahm, Duisburg (47269),250.000 2.632,4 Zimmer,95 m²,305 m² Grundstuck,https://www.immowelt.de/expose/52dce67a-59b7-4c86-b332-5bfe976d774c,4131,"Rahm,  Duisburg (47269)",61
+Rumeln - Kaldershausen, Duisburg (47239),439.000 4.972,6 Zimmer,"88,3 m²",780 m² Grundstuck,https://www.immowelt.de/expose/15dee3d9-f01d-41c7-8f0b-89df828e1064,4131,"Rumeln - Kaldershausen,  Duisburg (47239)",0
+Aldenrade, Duisburg (47179),1.495.000 824,13 Zimmer,1.815 m²,1.443 m² Grundstuck,https://www.immowelt.de/expose/da6a36e1-6aaa-4975-bb05-a86623394dba,4131,"Aldenrade,  Duisburg (47179)",127
+Marxloh, Duisburg (47169),5.580 119,47 m²,Unknown,Unknown,https://www.immowelt.de/expose/15805efa-929b-4b2f-b4ef-9c9dd2372cac,4131,"Marxloh,  Duisburg (47169)",170
+Marxloh, Duisburg (47169),6.950 109,64 m²,Unknown,Unknown,https://www.immowelt.de/expose/0bacc303-29f7-45c9-bf48-342b4931b041,4131,"Marxloh,  Duisburg (47169)",170
+Marxloh, Duisburg (47169),103.000 229,450 m²,Unknown,Unknown,https://www.immowelt.de/expose/5d51f48e-1765-40be-8575-da6ddf1553e8,4131,"Marxloh,  Duisburg (47169)",170
+Hochheide, Duisburg (47198),449.000 1.633,9 Zimmer,275 m²,1.399 m² Grundstuck,https://www.immowelt.de/expose/2db7d2c9-66ca-4a7d-80a1-3f5bc26d5d8b,4131,"Hochheide,  Duisburg (47198)",137
+Altstadt, Duisburg (47051),350.000 3.933,2 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/930bb0f1-1685-4492-a298-26ddf1c0ea6c,4131,"Altstadt,  Duisburg (47051)",537
+Neumuhl, Duisburg (47167),199.000 2.073,4 Zimmer,96 m²,Unknown,https://www.immowelt.de/expose/84cadd2a-9044-4116-a056-c38552175d1b,4131,"Neumuhl,  Duisburg (47167)",131
+Hochheide, Duisburg (47198),96.000 1.218,"78,8 m²",Unknown,Unknown,https://www.immowelt.de/expose/239ed383-3518-4998-964a-77222c284acd,4131,"Hochheide,  Duisburg (47198)",137
+Neudorf - Nord, Duisburg (47057),159.999 2.129,3 Zimmer,"75,2 m²",EG,https://www.immowelt.de/expose/8c5d622e-8502-41bf-aa57-4b6ddac192d1,4131,"Neudorf - Nord,  Duisburg (47057)",229
+Baerl, Duisburg (47199),329.000 2.844,5 Zimmer,"115,7 m²",212 m² Grundstuck,https://www.immowelt.de/expose/f75e8928-8646-4de0-953f-ed8eacb12c83,4131,"Baerl,  Duisburg (47199)",73
+Alt-Homberg, Duisburg (47198),279.000 1.824,6 Zimmer,153 m²,477 m² Grundstuck,https://www.immowelt.de/expose/7e5d8553-ca31-4438-b7db-ce0115f9c213,4131,"Alt-Homberg,  Duisburg (47198)",156
+Dellviertel, Duisburg (47051),190.000 3.800,"1,5 Zimmer",50 m²,frei ab sofort,https://www.immowelt.de/expose/98393d1b-ba8f-44aa-986a-74d87d17aaff,4131,"Dellviertel,  Duisburg (47051)",329
+Grillostr. 2, Duisburg (47169),1250000,466 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/d6c92563-4bef-4f91-9ae6-04c086525ded,4131,"Grillostr. 2,  Duisburg (47169)",175
+Fahrn, Duisburg (47179),434.000 1.878,12 Zimmer,"220,4 m²",665 m² Grundstuck,https://www.immowelt.de/expose/1ed52a06-2887-4ba8-a219-3806ae879d57,4131,"Fahrn,  Duisburg (47179)",37
+Fahrn, Duisburg (47179),399.000 1.900,12 Zimmer,210 m²,691 m² Grundstuck,https://www.immowelt.de/expose/f7492dd9-577c-4b06-8365-fa292355cd62,4131,"Fahrn,  Duisburg (47179)",37
+Hochemmerich, Duisburg (47226),55.000 1.375,1 Zimmer,40 m²,7. Geschoss,https://www.immowelt.de/expose/5721da03-a46e-4820-b8f0-2b8054d4038e,4131,"Hochemmerich,  Duisburg (47226)",233
+Wedau, Duisburg (47279),269.000 2.690,4 Zimmer,100 m²,1. Geschoss,https://www.immowelt.de/expose/1d1e8b71-c0ed-4c34-897b-0ab711b58d47,4131,"Wedau,  Duisburg (47279)",115
+Bergheim, Duisburg / Hochemmerich (47228),475.590 4.336,4 Zimmer,"109,7 m²",800 m² Grundstuck,https://www.immowelt.de/expose/bfaf82eb-0e52-49b2-9e40-1fde54a89e07,4131,"Bergheim,  Duisburg / Hochemmerich (47228)",83
+Ruhrort, Duisburg (47119),221.444 2.827,2 Zimmer,"78,3 m²",2. Geschoss,https://www.immowelt.de/expose/c7557293-9922-43f2-88ad-eddd453b6487,4131,"Ruhrort,  Duisburg (47119)",188
+Ruhrort, Duisburg (47119),221.444 2.970,2 Zimmer,"74,6 m²",2. Geschoss,https://www.immowelt.de/expose/fbf25251-4961-440b-803b-71fde1066600,4131,"Ruhrort,  Duisburg (47119)",188
+Ruhrort, Duisburg (47119),286.665 2.908,3 Zimmer,"98,6 m²",frei ab sofort,https://www.immowelt.de/expose/b7dd2508-e9ec-47b9-aef9-f869ca0464b1,4131,"Ruhrort,  Duisburg (47119)",188
+Hochemmerich, Duisburg / Hochemmerich (47228),2.200.000 1.143,"1.925,5 m²",2.944 m² Grundstuck,Unknown,https://www.immowelt.de/expose/a727618a-7d25-4eb0-b207-c79aa7dc234c,4131,"Hochemmerich,  Duisburg / Hochemmerich (47228)",248
+Ruhrort, Duisburg (47119),355.545 3.149,3 Zimmer,"112,9 m²",Unknown,https://www.immowelt.de/expose/25e1039f-312f-4c0a-817d-af865755b58e,4131,"Ruhrort,  Duisburg (47119)",188
+Ruhrort, Duisburg (47119),344.255 3.050,3 Zimmer,"112,9 m²",1. Geschoss,https://www.immowelt.de/expose/792503e6-50fc-46d6-bfec-0b370b0bb483,4131,"Ruhrort,  Duisburg (47119)",188
+Untermeiderich, Duisburg / Untermeiderich (47137),449.990 1.154,390 m²,309 m² Grundstuck,Unknown,https://www.immowelt.de/expose/e6608050-cad3-41a9-81f6-3ac512118118,4131,"Untermeiderich,  Duisburg / Untermeiderich (47137)",0
+Untermeiderich, Duisburg (47137),630.000 1.628,14 Zimmer,387 m²,546 m² Grundstuck,https://www.immowelt.de/expose/cce5122b-3c6a-4cb4-9dcb-f393852b2e18,4131,"Untermeiderich,  Duisburg (47137)",87
+Kasslerfeld, Duisburg (47059),450.000 10.889,3 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/f19d0766-a580-4bb1-8a8d-b0698de6333d,4131,"Kasslerfeld,  Duisburg (47059)",131
+Kasslerfeld, Duisburg (47059),450.000 10.889,3 Zimmer,45 m²,Unknown,https://www.immowelt.de/expose/6d03a8fe-0bed-480f-aa59-29f581012fef,4131,"Kasslerfeld,  Duisburg (47059)",131
+Ruhrort, Duisburg (47119),299.000 2.300,6 Zimmer,130 m²,208 m² Grundstuck,https://www.immowelt.de/expose/ce4c0541-f000-4a1c-a7d1-d870fe17bc2e,4131,"Ruhrort,  Duisburg (47119)",188
+Flottenstr. 38, Duisburg (47139),421.000 411.000,"372,3 m²",Unknown,Unknown,https://www.immowelt.de/expose/cb096457-8f07-4682-a731-ffe63bfb9ca5,4131,"Flottenstr. 38,  Duisburg (47139)",125
+Kasslerfeld, Duisburg (47059),450.000 10.889,3 Zimmer,45 m²,120 m² Grundstuck,https://www.immowelt.de/expose/958d6657-d8a0-41e0-9c5b-ae001a8a3fc4,4131,"Kasslerfeld,  Duisburg (47059)",131
+Friemersheim, Duisburg (47229),149.000 1.192,3 Zimmer,125 m²,1. Geschoss,https://www.immowelt.de/expose/4ae21e60-be4c-45ae-b006-fe69ccec30f7,4131,"Friemersheim,  Duisburg (47229)",120
+Friemersheim, Duisburg (47229),139.000 1.324,3 Zimmer,105 m²,Unknown,https://www.immowelt.de/expose/0c77bc89-4536-41a1-a913-84495b4bd607,4131,"Friemersheim,  Duisburg (47229)",120
+AakerfÃ¤hrstraÃŸe 43, Duisburg (47058),89.000 1.835,2 Zimmer,"48,5 m²",1. Geschoss,https://www.immowelt.de/expose/370fff8e-8ada-404d-9547-a8f8193fed49,4131,"AakerfÃ¤hrstraÃŸe 43,  Duisburg (47058)",0
+Altstadt, Duisburg (47051),Preis auf Anfrage,496 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/0e070250-ff79-4be5-9be8-95310343dca6,4131,"Altstadt,  Duisburg (47051)",537
+Gunterstr. 14, Duisburg (47226),345.000 1.120,308 m²,157 m² Grundstuck,Unknown,https://www.immowelt.de/expose/0a0f9edf-e239-42bf-96db-21035050257d,4131,"Gunterstr. 14,  Duisburg (47226)",230
+Neudorf - Nord, Duisburg (47057),1.107.990 1.417,27 Zimmer,782 m²,221 m² Grundstuck,https://www.immowelt.de/expose/65e9dfe1-e733-4d4d-a4ef-b251e8c46019,4131,"Neudorf - Nord,  Duisburg (47057)",229
+Albert-Einstein-Str. 23, Duisburg (47167),68.000 1.115,2 Zimmer,61 m²,5. Geschoss,https://www.immowelt.de/expose/0988cb63-1ad5-4971-9f7e-194d4b75b9e2,4131,"Albert-Einstein-Str. 23,  Duisburg (47167)",135
+Neuenkamp, Duisburg (47059),475.000 1.779,11 Zimmer,267 m²,451 m² Grundstuck,https://www.immowelt.de/expose/35131326-59e9-45a7-a5fa-52ba57e6ae2b,4131,"Neuenkamp,  Duisburg (47059)",44
+Bruckhausen, Duisburg (47166),576.000 800,720 m²,Unknown,Unknown,https://www.immowelt.de/expose/779c2e54-817f-4d3b-8ca5-ae52f3879251,4131,"Bruckhausen,  Duisburg (47166)",115
+SudstraÃŸe, Duisburg (47249),320.000 2.000,9 Zimmer,160 m²,1.168 m² Grundstuck,https://www.immowelt.de/expose/56375802-0f1a-435d-aed9-39ee1d36b158,4131,"SudstraÃŸe,  Duisburg (47249)",0
+Dellviertel, Duisburg (47053),105.000 2.500,"1,5 Zimmer",42 m²,1. Geschoss,https://www.immowelt.de/expose/9c68a01e-f4ef-45f8-be6f-04554fab5168,4131,"Dellviertel,  Duisburg (47053)",329
+Dellviertel, Duisburg (47053),105.000 2.500,"1,5 Zimmer",42 m²,1. Geschoss,https://www.immowelt.de/expose/9da7502f-b5b8-4846-bb88-df748c189c69,4131,"Dellviertel,  Duisburg (47053)",329
+Mittelmeiderich, Duisburg (47138),469.500 2.653,4 Zimmer,177 m²,650 m² Grundstuck,https://www.immowelt.de/expose/28a76b54-081d-4162-9638-372858dc3108,4131,"Mittelmeiderich,  Duisburg (47138)",246
+Ruhrort, Duisburg (47119),184.900 2.150,4 Zimmer,86 m²,3. Geschoss,https://www.immowelt.de/expose/35aa412a-1f7b-4bd2-b118-055338d4829c,4131,"Ruhrort,  Duisburg (47119)",188
+Kasslerfeld, Duisburg (47059),140.000 2.222,2 Zimmer,63 m²,2. Geschoss,https://www.immowelt.de/expose/226ad48b-7ad1-4942-a1a0-7c9af29e861c,4131,"Kasslerfeld,  Duisburg (47059)",131
+Sternbuschweg, Duisburg (47057),120.000 938,"3,5 Zimmer",128 m²,frei ab sofort,https://www.immowelt.de/expose/3d5878f8-950b-49b6-b58e-2361223054ea,4131,"Sternbuschweg,  Duisburg (47057)",501
+JakobstraÃŸe, Duisburg (47137),120.000 896,5 Zimmer,134 m²,frei ab sofort,https://www.immowelt.de/expose/21c9c7bf-a4b7-49dc-b053-8b8bd1447faa,4131,"JakobstraÃŸe,  Duisburg (47137)",0
+Speichergracht, Duisburg (47051),"1.452 12,31",4 Zimmer,118 m²,frei ab sofort,https://www.immowelt.de/expose/df04322b-94d4-4f5d-9b40-a0a46af91951,4131,"Speichergracht,  Duisburg (47051)",357
+Muhlenstr 24v, Duisburg (47199),230.000 1.870,5 Zimmer,123 m²,207 m² Grundstuck,https://www.immowelt.de/expose/94084fae-fa32-470f-96b5-2545871a6aaf,4131,"Muhlenstr 24v,  Duisburg (47199)",10
+Am Heidberg, Duisburg (47259),377.000 3.065,3 Zimmer,123 m²,Unknown,https://www.immowelt.de/expose/4d422fae-0322-46b4-9f10-833d922dd1ce,4131,"Am Heidberg,  Duisburg (47259)",103
+Walther-Rathenau-StraÃŸe, Duisburg (47229),120.000 1.143,"2,5 Zimmer",105 m²,frei ab sofort,https://www.immowelt.de/expose/d2d9f98b-59e6-4ec8-90f7-cab913393f31,4131,"Walther-Rathenau-StraÃŸe,  Duisburg (47229)",0
+Buchholz, Duisburg / Buchholz (47249),539.000 4.312,5 Zimmer,125 m²,224 m² Grundstuck,https://www.immowelt.de/expose/b15a60f4-b4ff-4906-b1fb-11f679246f40,4131,"Buchholz,  Duisburg / Buchholz (47249)",148
+Marxloh, Duisburg (47169),109.300 679,161 m²,Unknown,Unknown,https://www.immowelt.de/expose/8fb5e106-972e-4058-bdf1-6cb012f60fd9,4131,"Marxloh,  Duisburg (47169)",170

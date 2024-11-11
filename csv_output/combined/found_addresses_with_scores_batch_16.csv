@@ -1,0 +1,1001 @@
+﻿Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL,city_id,full_address,score
+Homburg, Homburg (66424),295.000 1.766,8 Zimmer,167 m²,486 m² Grundstuck,https://www.immowelt.de/expose/a838fdde-060f-492f-b25d-b29cfe60c49c,2750,"Homburg,  Homburg (66424)",259
+Homburg, Homburg (66424),235.000 1.958,5 Zimmer,120 m²,614 m² Grundstuck,https://www.immowelt.de/expose/e6937870-e4d5-4fa2-8d71-c2cdcc45d7b6,2750,"Homburg,  Homburg (66424)",259
+Homburg, Homburg (66424),360.000 4.091,88 m²,520 m² Grundstuck,Unknown,https://www.immowelt.de/expose/9a54ac93-6dc7-4709-9828-bc76e897773a,2750,"Homburg,  Homburg (66424)",259
+Homburg, Saar (66424),600000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/d6c3042d-c7dd-4ddf-b21f-d5abb29195b8,2750,"Homburg,  Saar (66424)",259
+Erbach, Homburg (66424),359.000 619,18 Zimmer,580 m²,630 m² Grundstuck,https://www.immowelt.de/expose/acf21293-b400-4f23-976c-fa75d7397c29,2750,"Erbach,  Homburg (66424)",101
+Altstadt, Kirkel (66459),164.999 1.320,5 Zimmer,125 m²,550 m² Grundstuck,https://www.immowelt.de/expose/f85e4521-6e63-41cb-8fd4-7531c8cfedc6,2750,"Altstadt,  Kirkel (66459)",0
+Altstadt, Kirkel (66459),418.000 1.344,9 Zimmer,311 m²,1.491 m² Grundstuck,https://www.immowelt.de/expose/b7ce633f-2bb9-4314-b46d-abcca4c777ee,2750,"Altstadt,  Kirkel (66459)",0
+Limbach, Kirkel-Limbach (66459),557.443 4.255,5 Zimmer,131 m²,602 m² Grundstuck,https://www.immowelt.de/expose/ae86f910-ca40-47ef-995f-4b4a5f512587,2750,"Limbach,  Kirkel-Limbach (66459)",46
+Limbach, Kirkel (66459),832.939 3.529,10 Zimmer,236 m²,1.050 m² Grundstuck,https://www.immowelt.de/expose/1ef21fe0-094c-4a29-83c2-d0b5ff1b7e2e,2750,"Limbach,  Kirkel (66459)",55
+Kastanienweg 9, Bechhofen (66894),169.500 1.883,4 Zimmer,90 m²,2. Geschoss,https://www.immowelt.de/expose/00da6f65-1115-48e2-bd9d-1ab1dd2f8b0d,2750,"Kastanienweg 9,  Bechhofen (66894)",0
+Limbach, Kirkel-Limbach (66459),558.589 3.365,5 Zimmer,166 m²,1.050 m² Grundstuck,https://www.immowelt.de/expose/e4ed63ee-1a07-416d-affb-6a036cdbedda,2750,"Limbach,  Kirkel-Limbach (66459)",46
+Bexbach, Bexbach (66450),504.313 3.821,4 Zimmer,132 m²,"887,5 m² Grundstuck",https://www.immowelt.de/expose/17b1f7cd-4399-42ac-9b35-2cefb0ab08b5,2750,"Bexbach,  Bexbach (66450)",91
+Bexbach, Bexbach (66450),275.000 1.833,9 Zimmer,150 m²,Unknown,https://www.immowelt.de/expose/c5b0f524-c8e5-4190-bd17-e1e404baf4b5,2750,"Bexbach,  Bexbach (66450)",91
+Limbach, Kirkel-Limbach (66459),512.239 4.493,4 Zimmer,114 m²,1.050 m² Grundstuck,https://www.immowelt.de/expose/df244180-7649-4a95-bc44-27c1628cc651,2750,"Limbach,  Kirkel-Limbach (66459)",46
+Bexbach, Bexbach (66450),517.013 3.947,5 Zimmer,131 m²,"887,5 m² Grundstuck",https://www.immowelt.de/expose/d9efecdc-4007-4771-ba11-694f076c665c,2750,"Bexbach,  Bexbach (66450)",91
+Bexbach, Bexbach (66450),275.000 1.618,8 Zimmer,170 m²,600 m² Grundstuck,https://www.immowelt.de/expose/dc982364-3b55-4b56-881f-105492e97a61,2750,"Bexbach,  Bexbach (66450)",91
+Bexbach, Bexbach (66450),534.573 4.019,4 Zimmer,133 m²,"887,5 m² Grundstuck",https://www.immowelt.de/expose/6c6de33d-c6c7-41be-b36a-8e88b6679286,2750,"Bexbach,  Bexbach (66450)",91
+Erbland, Gummersbach (51645),356.000 1.780,4 Zimmer,200 m²,500 m² Grundstuck,https://www.immowelt.de/expose/335ea8cd-32a2-4ea1-9129-a8b2ce533742,2756,"Erbland,  Gummersbach (51645)",17
+Steinenbruck, Gummersbach (51643),487.000 3.102,5 Zimmer,157 m²,502 m² Grundstuck,https://www.immowelt.de/expose/bed490e6-dcf6-45ec-8ba8-85e0e17dfd70,2756,"Steinenbruck,  Gummersbach (51643)",169
+Steinenbruck, Gummersbach (51643),374.000 2.382,5 Zimmer,157 m²,502 m² Grundstuck,https://www.immowelt.de/expose/bbaba419-d81d-47e8-bb9e-42cab370774b,2756,"Steinenbruck,  Gummersbach (51643)",169
+NiederseÃŸmar, Gummersbach (51645),599.000 2.723,8 Zimmer,220 m²,927 m² Grundstuck,https://www.immowelt.de/expose/5a456da2-60d2-4931-8f3c-411731e8d3a6,2756,"NiederseÃŸmar,  Gummersbach (51645)",0
+StraÃŸe, Brilon (59919),381.290 4.494,4 Zimmer,"84,8 m²",1.390 m² Grundstuck,https://www.immowelt.de/expose/02e0be52-3b56-42d1-a678-f62724ce45b3,2756,"StraÃŸe,  Brilon (59919)",0
+Hulsenbusch, Gummersbach (51647),89.500 1.728,1 Zimmer,"51,8 m²",Unknown,https://www.immowelt.de/expose/31726811-d382-43a3-bee5-849ffae929ac,2756,"Hulsenbusch,  Gummersbach (51647)",48
+Unnenberg, Gummersbach (51647),369.000 1.942,6 Zimmer,190 m²,896 m² Grundstuck,https://www.immowelt.de/expose/34177429-3d57-4bd5-92e2-1c188c8507d0,2756,"Unnenberg,  Gummersbach (51647)",3
+Bernberg, Gummersbach (51647),1.360.000 2.012,676 m²,1.067 m² Grundstuck,Unknown,https://www.immowelt.de/expose/8caf98b0-daa0-4149-8d85-8ce735c439cb,2756,"Bernberg,  Gummersbach (51647)",126
+Bernberg, Gummersbach (51647),1.360.000 2.012,676 m²,1.067 m² Grundstuck,Unknown,https://www.immowelt.de/expose/12822209-caa7-42aa-867d-560dee38291c,2756,"Bernberg,  Gummersbach (51647)",126
+Gummersbach, Gummersbach (51643),759.000 4.264,7 Zimmer,178 m²,199 m² Grundstuck,https://www.immowelt.de/expose/e0a1caf5-ebd9-4d27-a9df-9afe89724560,2756,"Gummersbach,  Gummersbach (51643)",322
+Brunohl, Gummersbach (51645),285.000 4.033,3 Zimmer,"70,7 m²",Unknown,https://www.immowelt.de/expose/7706de83-6cf4-4347-9edd-bf112c2af953,2756,"Brunohl,  Gummersbach (51645)",13
+Gummersbach, Gummersbach (51643),319.000 3.709,3 Zimmer,86 m²,2. Geschoss,https://www.immowelt.de/expose/626c8b09-45c7-459a-a47a-a93a22fb3d1e,2756,"Gummersbach,  Gummersbach (51643)",322
+Gummersbach, Gummersbach (51643),319.000 3.467,2 Zimmer,92 m²,1. Geschoss,https://www.immowelt.de/expose/01a7380c-e950-45b3-84f7-2176ccaf3ae5,2756,"Gummersbach,  Gummersbach (51643)",322
+Strombach, Gummersbach (51643),179.000 1.444,124 m²,687 m² Grundstuck,Unknown,https://www.immowelt.de/expose/4a931bc4-b9e4-47cd-affc-91b726a3cb6d,2756,"Strombach,  Gummersbach (51643)",65
+Strombach, Gummersbach (51643),179.000 1.444,6 Zimmer,124 m²,687 m² Grundstuck,https://www.immowelt.de/expose/329b82d0-7d3c-43b2-9d4a-d931cae3c4df,2756,"Strombach,  Gummersbach (51643)",65
+Hesselbach, Gummersbach (51647),429.000 1.202,15 Zimmer,357 m²,924 m² Grundstuck,https://www.immowelt.de/expose/15904b8f-d1e8-45a4-be2f-2ece3eccb577,2756,"Hesselbach,  Gummersbach (51647)",98
+Bernberg, Gummersbach (51647),79.000 929,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/acd6ee35-64a0-4313-971c-6be8bfbc278e,2756,"Bernberg,  Gummersbach (51647)",126
+Derschlag, Gummersbach (51645),319.000 2.848,4 Zimmer,112 m²,661 m² Grundstuck,https://www.immowelt.de/expose/a3857742-e7c9-49d9-ae9b-a4e2b2ce8124,2756,"Derschlag,  Gummersbach (51645)",81
+Gummersbach, Gummersbach (51643),870.000 3.021,10 Zimmer,288 m²,351 m² Grundstuck,https://www.immowelt.de/expose/39323e38-c1a0-4e04-943d-701f022be537,2756,"Gummersbach,  Gummersbach (51643)",322
+Gummersbach, Gummersbach (51643),98.000 2.432,1 Zimmer,"40,3 m²",3. Geschoss,https://www.immowelt.de/expose/0e4bdf32-103f-4e9b-adae-653788481662,2756,"Gummersbach,  Gummersbach (51643)",322
+Gummersbach, Gummersbach (51643),260.000 2.374,4 Zimmer,"109,5 m²",4. Geschoss,https://www.immowelt.de/expose/cc896fb3-ab66-439e-815c-c31a60329cc8,2756,"Gummersbach,  Gummersbach (51643)",322
+Gummersbach, Gummersbach (51643),130.000 2.374,2 Zimmer,"54,8 m²",4. Geschoss,https://www.immowelt.de/expose/86ccea31-4111-4545-8422-cf4dbfb0dc56,2756,"Gummersbach,  Gummersbach (51643)",322
+Dieringhausen, Gummersbach / Dieringhausen (51645),840.000 3.818,10 Zimmer,220 m²,814 m² Grundstuck,https://www.immowelt.de/expose/25df5926-faad-4fdc-b0a1-f5e9ac4ef671,2756,"Dieringhausen,  Gummersbach / Dieringhausen (51645)",132
+Piene, Gummersbach (51647),395.000 2.015,6 Zimmer,196 m²,3.302 m² Grundstuck,https://www.immowelt.de/expose/70ae93ba-2463-471c-adc1-4352806413da,2756,"Piene,  Gummersbach (51647)",25
+Dieringhausen, Gummersbach (51645),147.000 1.815,3 Zimmer,81 m²,338 m² Grundstuck,https://www.immowelt.de/expose/9415bd37-463e-4c03-8248-5137df0d021f,2756,"Dieringhausen,  Gummersbach (51645)",96
+Derschlag, Gummersbach (51645),160.000 1.143,9 Zimmer,140 m²,175 m² Grundstuck,https://www.immowelt.de/expose/6bf2cf21-7f25-4297-8bb1-4cd4c6dc3bc7,2756,"Derschlag,  Gummersbach (51645)",81
+Lieberhausen, Gummersbach (51647),510.479 2.285,6 Zimmer,"223,4 m²",500 m² Grundstuck,https://www.immowelt.de/expose/ca45e9e6-205f-492c-a40d-ab4c2f9bac78,2756,"Lieberhausen,  Gummersbach (51647)",37
+Gummersbach, Gummersbach (51643),624.029 3.046,5 Zimmer,"204,9 m²",510 m² Grundstuck,https://www.immowelt.de/expose/6245e2be-cb26-481e-a725-3d256ffea611,2756,"Gummersbach,  Gummersbach (51643)",322
+Bernberg, Gummersbach (51647),287.000 1.888,4 Zimmer,152 m²,Unknown,https://www.immowelt.de/expose/94ed399c-0e70-4a42-9470-c8dfe8e88d65,2756,"Bernberg,  Gummersbach (51647)",126
+Bernberg, Gummersbach (51647),210.000 1.875,4 Zimmer,112 m²,2. Geschoss,https://www.immowelt.de/expose/0e119655-4342-4e24-9a5c-8888dccc031e,2756,"Bernberg,  Gummersbach (51647)",126
+Niedergelpe, Gummersbach (51647),363.935 2.206,5 Zimmer,165 m²,695 m² Grundstuck,https://www.immowelt.de/expose/65a48ee5-51d1-434c-86ab-1adc08800457,2756,"Niedergelpe,  Gummersbach (51647)",29
+Dieringhausen, Gummersbach (51645),530.400 4.348,5 Zimmer,122 m²,590 m² Grundstuck,https://www.immowelt.de/expose/4361af85-7f9b-4a9d-b2c2-bc7eef67a802,2756,"Dieringhausen,  Gummersbach (51645)",96
+Dieringhausen, Gummersbach (51645),469.900 3.286,5 Zimmer,143 m²,590 m² Grundstuck,https://www.immowelt.de/expose/76d3be0e-65c1-433f-9ca7-1fae41c20775,2756,"Dieringhausen,  Gummersbach (51645)",96
+Gummersbach, Gummersbachn (51647),287.000 1.888,152 m²,Unknown,Unknown,https://www.immowelt.de/expose/484f5dc2-bad0-41c4-a22e-c5a50b5e230e,2756,"Gummersbach,  Gummersbachn (51647)",0
+Bernberg, Gummersbach (51647),287.000 1.888,4 Zimmer,152 m²,Unknown,https://www.immowelt.de/expose/cb376a49-a07a-4afa-a3db-6c1aac3bbc17,2756,"Bernberg,  Gummersbach (51647)",126
+Derschlag, Gummersbach (51645),76.000 288,1 Zimmer,264 m²,1.428 m² Grundstuck,https://www.immowelt.de/expose/64c06e80-6f64-4d27-9295-25641dc3c43b,2756,"Derschlag,  Gummersbach (51645)",81
+Bernberg, Gummersbach (51647),158.000 1.736,91 m²,Unknown,Unknown,https://www.immowelt.de/expose/3c75f9a6-6243-431d-801b-e852af430efa,2756,"Bernberg,  Gummersbach (51647)",126
+Hulsenbusch, Gummersbach (51643),429.000 3.064,5 Zimmer,140 m²,1.200 m² Grundstuck,https://www.immowelt.de/expose/36980bf6-2c05-4e00-9b19-f09f314cc7fa,2756,"Hulsenbusch,  Gummersbach (51643)",48
+Lieberhausen, Gummersbach (51647),341.199 2.855,4 Zimmer,"119,5 m²",500 m² Grundstuck,https://www.immowelt.de/expose/99d3e04e-bca9-42fb-91f8-8577fd3dcc24,2756,"Lieberhausen,  Gummersbach (51647)",37
+Gummersbach, Gummersbach (51643),379.429 4.263,3 Zimmer,89 m²,510 m² Grundstuck,https://www.immowelt.de/expose/ed8a378d-4990-4479-a4e7-e350382345f2,2756,"Gummersbach,  Gummersbach (51643)",322
+Bernberg, Gummersbach (51647),158.000 1.736,3 Zimmer,91 m²,Unknown,https://www.immowelt.de/expose/85636995-7de4-4a2e-8578-361266882155,2756,"Bernberg,  Gummersbach (51647)",126
+Bernberg, Gummersbach (51647),158.000 1.736,3 Zimmer,91 m²,Unknown,https://www.immowelt.de/expose/27ae0e40-8006-496d-b246-8c688987dd3e,2756,"Bernberg,  Gummersbach (51647)",126
+Strombach, Gummersbach (51643),379.000 2.442,8 Zimmer,"155,2 m²",1.051 m² Grundstuck,https://www.immowelt.de/expose/1b078a70-3e35-461d-b453-8065161dd706,2756,"Strombach,  Gummersbach (51643)",65
+Derschlag, Gummersbach (51645),406.200 1.202,8 Zimmer,338 m²,995 m² Grundstuck,https://www.immowelt.de/expose/0e77b0ec-6e39-4d25-8298-879aeaf33109,2756,"Derschlag,  Gummersbach (51645)",81
+Remmelsohl, Gummersbach (51645),90.000 1.071,5 Zimmer,84 m²,239 m² Grundstuck,https://www.immowelt.de/expose/736134a8-ae52-4887-bf84-09fae46ae223,2756,"Remmelsohl,  Gummersbach (51645)",50
+Dieringhausen, Gummersbach (51645),422.000 3.338,3 Zimmer,"126,4 m²",EG,https://www.immowelt.de/expose/339edd4d-c2d3-4847-9879-aab10b49ec79,2756,"Dieringhausen,  Gummersbach (51645)",96
+Dieringhausen, Gummersbach (51645),292.000 3.341,3 Zimmer,"87,4 m²",EG,https://www.immowelt.de/expose/f8fbd7de-2516-4034-8c51-ebddd6cf8c8f,2756,"Dieringhausen,  Gummersbach (51645)",96
+Lantenbach, Gummersbach / Lantenbach (51647),199.000 2.215,3 Zimmer,"89,9 m²",1.513 m² Grundstuck,https://www.immowelt.de/expose/5182292b-179c-4b59-a1ad-1a69d052d450,2756,"Lantenbach,  Gummersbach / Lantenbach (51647)",36
+Derschlag, Gummersbach (51645),76000,1.428 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/2ca62640-f76d-41db-946c-5807baae606c,2756,"Derschlag,  Gummersbach (51645)",81
+Bernberg, Gummersbach (51647),139.000 1.782,3 Zimmer,78 m²,5. Geschoss,https://www.immowelt.de/expose/c9cd1bfd-09e2-49b0-be30-e39723958e7f,2756,"Bernberg,  Gummersbach (51647)",126
+Bernberg, Gummersbach (51647),473.000 2.832,5 Zimmer,167 m²,1.350 m² Grundstuck,https://www.immowelt.de/expose/d181e391-6919-452a-8924-a9ccc020d66c,2756,"Bernberg,  Gummersbach (51647)",126
+Gummersbach, Gummersbach (51643),479.000 1.550,10 Zimmer,309 m²,867 m² Grundstuck,https://www.immowelt.de/expose/b458e859-da0d-4dc8-a63a-560ed509412a,2756,"Gummersbach,  Gummersbach (51643)",322
+Dieringhausen, Gummersbach (51645),195.000 1.714,5 Zimmer,"113,7 m²",225 m² Grundstuck,https://www.immowelt.de/expose/2a3e2819-8730-49f3-9abe-cb5a73db78c2,2756,"Dieringhausen,  Gummersbach (51645)",96
+Dieringhausen, Gummersbach (51645),479.000 2.549,8 Zimmer,205 m²,3.279 m² Grundstuck,https://www.immowelt.de/expose/1f5c7840-4ba0-494d-96c7-71c1b9fd8175,2756,"Dieringhausen,  Gummersbach (51645)",96
+Dummlinghausen, Gummersbach (51645),289.000 2.249,4 Zimmer,"128,5 m²",471 m² Grundstuck,https://www.immowelt.de/expose/cfacdefa-0e77-4c64-ba79-54900fac51c4,2756,"Dummlinghausen,  Gummersbach (51645)",84
+Berghausen, Gummersbach / Berghausen (51647),360.000 2.069,7 Zimmer,174 m²,517 m² Grundstuck,https://www.immowelt.de/expose/a04d4e22-a303-471b-b42b-6647b366ae5c,2756,"Berghausen,  Gummersbach / Berghausen (51647)",47
+Berghausen, Gummersbach (51647),498.000 4.185,7 Zimmer,119 m²,4.364 m² Grundstuck,https://www.immowelt.de/expose/e039e140-13a7-4924-bfb9-9006742f82c9,2756,"Berghausen,  Gummersbach (51647)",47
+Derschlag, Gummersbach (51645),406.200 1.021,398 m²,Unknown,Unknown,https://www.immowelt.de/expose/71780d2f-219a-4816-926e-d4868947ca74,2756,"Derschlag,  Gummersbach (51645)",81
+Derschlag, Gummersbach (51645),355.000 1.929,7 Zimmer,184 m²,551 m² Grundstuck,https://www.immowelt.de/expose/60dfa956-9892-4955-8562-07d446942bba,2756,"Derschlag,  Gummersbach (51645)",81
+Hulsenbusch, Gummersbach / Hulsenbusch (51647),290.000 2.311,6 Zimmer,"125,5 m²",1.761 m² Grundstuck,https://www.immowelt.de/expose/a2276413-5c24-47d4-a7cc-f721a616a027,2756,"Hulsenbusch,  Gummersbach / Hulsenbusch (51647)",41
+Derschlag, Gummersbach (51643),286.000 2.600,5 Zimmer,110 m²,569 m² Grundstuck,https://www.immowelt.de/expose/92180217-25c8-4ad2-93f6-f7eed9f88a97,2756,"Derschlag,  Gummersbach (51643)",81
+Hulsenbusch, Gummersbach / Hulsenbusch (51647),521.000 4.652,5 Zimmer,112 m²,400 m² Grundstuck,https://www.immowelt.de/expose/6b650cc1-409e-4d5f-8855-5e2af9499a98,2756,"Hulsenbusch,  Gummersbach / Hulsenbusch (51647)",41
+Hulsenbusch, Gummersbach / Hulsenbusch (51647),545.000 4.658,5 Zimmer,117 m²,469 m² Grundstuck,https://www.immowelt.de/expose/066227c0-b0aa-4072-9252-f7bd8a8c0145,2756,"Hulsenbusch,  Gummersbach / Hulsenbusch (51647)",41
+Dieringhausen, Gummersbach / Dieringhausen (51645),520.000 1.857,8 Zimmer,280 m²,790 m² Grundstuck,https://www.immowelt.de/expose/eb5ee2a6-5853-4e1e-a88e-674e6ebb103b,2756,"Dieringhausen,  Gummersbach / Dieringhausen (51645)",132
+Gummersbach, Gummersbach (51643),175.000 1.786,4 Zimmer,98 m²,1. Geschoss,https://www.immowelt.de/expose/2f250483-6d55-4b71-9430-ca762a56927f,2756,"Gummersbach,  Gummersbach (51643)",322
+Flaberg, Gummersbach (51647),535.000 1.259,14 Zimmer,548 m²,950 m² Grundstuck,https://www.immowelt.de/expose/fd0ebb60-6bb3-480d-aab7-2bdc06b9775e,2756,"Flaberg,  Gummersbach (51647)",55
+Gummersbach, Gummersbach (51643),399.000 1.684,8 Zimmer,237 m²,1.797 m² Grundstuck,https://www.immowelt.de/expose/f075a80a-cd09-4729-bde6-533908a5ebdd,2756,"Gummersbach,  Gummersbach (51643)",322
+Derschlag, Gummersbach (51645),450.000 1.233,8 Zimmer,365 m²,835 m² Grundstuck,https://www.immowelt.de/expose/567cd6cc-d49a-4aba-a932-faa75f05f835,2756,"Derschlag,  Gummersbach (51645)",81
+Strombach, Gummersbach (51643),280.000 2.545,4 Zimmer,110 m²,264 m² Grundstuck,https://www.immowelt.de/expose/223df62c-2e42-4c3a-a28f-c3ab71c015e7,2756,"Strombach,  Gummersbach (51643)",65
+Gummersbach, Gummersbach (51643),490.000 2.722,6 Zimmer,180 m²,Unknown,https://www.immowelt.de/expose/9e3ab66d-74fc-4747-a5a3-dd13ea5b889a,2756,"Gummersbach,  Gummersbach (51643)",322
+Gummersbach, Gummersbach (51643),385.000 3.565,4 Zimmer,108 m²,Unknown,https://www.immowelt.de/expose/463e912c-dd0f-452f-be5a-01a2ed2b8e54,2756,"Gummersbach,  Gummersbach (51643)",322
+Helberg, Gummersbach (51647),559.000 2.070,5 Zimmer,270 m²,4.000 m² Grundstuck,https://www.immowelt.de/expose/2168647d-26ea-4162-af45-24c5d1851980,2756,"Helberg,  Gummersbach (51647)",0
+Lobscheid, Gummersbach / Lobscheid (51645),589.000 3.614,7 Zimmer,163 m²,1.194 m² Grundstuck,https://www.immowelt.de/expose/86afdbd8-4e0a-40d9-a502-791cf19be305,2756,"Lobscheid,  Gummersbach / Lobscheid (51645)",34
+Vollmerhausen, Gummersbach (51645),243.000 1.519,5 Zimmer,160 m²,577 m² Grundstuck,https://www.immowelt.de/expose/25b457a3-d58d-4e7f-affe-094ea555de2b,2756,"Vollmerhausen,  Gummersbach (51645)",61
+Gummersbach, Gummersbach (51643),720.000 1.093,659 m²,362 m² Grundstuck,Unknown,https://www.immowelt.de/expose/491e3801-68b8-471e-a20d-556971cff73a,2756,"Gummersbach,  Gummersbach (51643)",322
+Derschlag, Gummersbach / Derschlag (51645),195.000 1.393,8 Zimmer,140 m²,175 m² Grundstuck,https://www.immowelt.de/expose/d02000c3-cc44-4e92-9fd3-a8005d4f4c38,2756,"Derschlag,  Gummersbach / Derschlag (51645)",81
+FrÃ¶mmersbach, Gummersbach (51647),295.000 1.553,8 Zimmer,190 m²,922 m² Grundstuck,https://www.immowelt.de/expose/be0b9df6-4f8e-4eab-ab3c-b7e0bf4fb656,2756,"FrÃ¶mmersbach,  Gummersbach (51647)",0
+Gummersbach, Gummersbach (51643),118.000 2.928,1 Zimmer,"40,3 m²",4. Geschoss,https://www.immowelt.de/expose/c5c71c84-0036-477a-89ed-8624a0aa082f,2756,"Gummersbach,  Gummersbach (51643)",322
+Gummersbach, Gummersbach (51643),329.500 2.554,4 Zimmer,129 m²,451 m² Grundstuck,https://www.immowelt.de/expose/ea1a68ce-276b-4738-8194-e0a04da40013,2756,"Gummersbach,  Gummersbach (51643)",322
+Lindlar, Lindlar (51789),391.424 2.752,5 Zimmer,"142,2 m²",435 m² Grundstuck,https://www.immowelt.de/expose/0029340c-388c-4cad-b78d-155f37077553,2756,"Lindlar,  Lindlar (51789)",0
+Vollmerhausen, Gummersbach (51645),245.000 942,10 Zimmer,260 m²,750 m² Grundstuck,https://www.immowelt.de/expose/a4c42653-1d26-4f6a-a4be-327ae9304d8b,2756,"Vollmerhausen,  Gummersbach (51645)",61
+Flaberg, Gummersbach (51647),535.000 1.259,14 Zimmer,548 m²,950 m² Grundstuck,https://www.immowelt.de/expose/b60bf9f9-a432-41b1-9dc7-f39bf3c7a1b6,2756,"Flaberg,  Gummersbach (51647)",55
+Gummersbach, Gummersbach (51643),334.999 3.190,5 Zimmer,105 m²,1.722 m² Grundstuck,https://www.immowelt.de/expose/72a64a85-a70b-40f3-8c47-a2d756db46ad,2756,"Gummersbach,  Gummersbach (51643)",322
+Wurgendorf, Burbach (57299),323.739 3.021,4 Zimmer,"107,2 m²",670 m² Grundstuck,https://www.immowelt.de/expose/97acc59c-9d22-4ecf-9062-945fdbf516e5,2756,"Wurgendorf,  Burbach (57299)",5
+Erndtebruck, Erndtebruck (57339),304.429 2.140,5 Zimmer,"142,2 m²",512 m² Grundstuck,https://www.immowelt.de/expose/4f2c43c2-7726-4648-852f-2248c4b0a61e,2756,"Erndtebruck,  Erndtebruck (57339)",54
+Schameder, Erndtebruck (57339),301.699 2.256,4 Zimmer,"133,7 m²",846 m² Grundstuck,https://www.immowelt.de/expose/c7068e61-1c93-42a8-a13b-2d897b5ca89c,2756,"Schameder,  Erndtebruck (57339)",0
+Bad Laasphe, Bad Laasphe (57334),296.429 2.084,5 Zimmer,"142,2 m²",970 m² Grundstuck,https://www.immowelt.de/expose/656f38f3-ef65-427d-b597-5af72a6c2a7c,2756,"Bad Laasphe,  Bad Laasphe (57334)",79
+Gummersbach, Gummersbach (51643),695.000 2.044,10 Zimmer,340 m²,788 m² Grundstuck,https://www.immowelt.de/expose/8edf9619-35a8-455d-8e01-78ea32c29111,2756,"Gummersbach,  Gummersbach (51643)",322
+Gummersbach, Gummersbach (51643),695.000 2.044,10 Zimmer,340 m²,788 m² Grundstuck,https://www.immowelt.de/expose/1ffa0459-a706-4d15-87b9-4f5c8c459f00,2756,"Gummersbach,  Gummersbach (51643)",322
+Bernberg, Gummersbach (51647),85.000 1.000,3 Zimmer,85 m²,4. Geschoss,https://www.immowelt.de/expose/93b37342-2db2-4f5d-bc2e-f97ea9256bce,2756,"Bernberg,  Gummersbach (51647)",126
+Gummersbach, Gummersbach (51643),345.000 1.527,226 m²,136 m² Grundstuck,Unknown,https://www.immowelt.de/expose/90d6338d-1c99-489d-9604-cd7f545c3bbe,2756,"Gummersbach,  Gummersbach (51643)",322
+StraÃŸe, Gummersbach (51647),459.000 2.272,6 Zimmer,202 m²,5.218 m² Grundstuck,https://www.immowelt.de/expose/943fac18-2f70-40c9-9dc0-67f507c2aa21,2756,"StraÃŸe,  Gummersbach (51647)",0
+Hulsenbusch, Gummersbach (51647),167.000 2.227,4 Zimmer,75 m²,869 m² Grundstuck,https://www.immowelt.de/expose/a07737b7-0930-44dc-b85c-1c720357ccc3,2756,"Hulsenbusch,  Gummersbach (51647)",48
+Dieringhausen, Gummersbach (51645),250.000 4.167,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/1fc32ebf-7519-41d6-a30e-441c6e0b03a0,2756,"Dieringhausen,  Gummersbach (51645)",96
+Derschlag, Gummersbach / Derschlag (51645),849.000 1.882,15 Zimmer,451 m²,1.176 m² Grundstuck,https://www.immowelt.de/expose/cb3d0d85-1815-4bbe-b8bb-ab18eb3525e4,2756,"Derschlag,  Gummersbach / Derschlag (51645)",81
+Berghausen, Gummersbach (51647),899.000 1.720,22 Zimmer,"522,7 m²",2.355 m² Grundstuck,https://www.immowelt.de/expose/69e6ca0e-2ada-4d8d-b6fc-3a6ae5277fe1,2756,"Berghausen,  Gummersbach (51647)",47
+Lobscheid, Gummersbach (51645),450.000 2.143,8 Zimmer,210 m²,840 m² Grundstuck,https://www.immowelt.de/expose/23864b13-862c-4dc8-a9a9-04b08c8ff9eb,2756,"Lobscheid,  Gummersbach (51645)",44
+Rospe, Gummersbach (51643),169.000 2.522,3 Zimmer,67 m²,3. Geschoss,https://www.immowelt.de/expose/afc4ae1d-c15d-4dca-a908-bf0db7ddb7e2,2756,"Rospe,  Gummersbach (51643)",135
+Huckeswagener Strasse, Gummersbach (51647),140.000 2.000,3 Zimmer,70 m²,frei ab sofort,https://www.immowelt.de/expose/283725ff-43c1-4944-a3ba-caf555fe3d76,2756,"Huckeswagener Strasse,  Gummersbach (51647)",46
+Strombach, Gummersbach (51643),179.000 1.444,124 m²,Unknown,Unknown,https://www.immowelt.de/expose/bdd5edfc-e11c-4d86-a00b-25ed22729184,2756,"Strombach,  Gummersbach (51643)",65
+Oesinghausen, Engelskirchen (51766),536.000 2.897,7 Zimmer,185 m²,33.381 m² Grundstuck,https://www.immowelt.de/expose/8c607143-d4e4-408b-a5c2-22cbfc6603b2,2756,"Oesinghausen,  Engelskirchen (51766)",18
+Oesinghausen, Engelskirchen (51766),536.000 2.897,7 Zimmer,185 m²,33.381 m² Grundstuck,https://www.immowelt.de/expose/20599c93-6e11-438b-ae10-f0e448284979,2756,"Oesinghausen,  Engelskirchen (51766)",18
+Kalsbach, Marienheide (51709),275.000 1.833,6 Zimmer,150 m²,747 m² Grundstuck,https://www.immowelt.de/expose/ce744603-eae3-43f3-96c9-b7353dac161d,2756,"Kalsbach,  Marienheide (51709)",38
+Uellendahl - Ost, Wuppertal (42111),434.169 3.174,4 Zimmer,"136,8 m²",465 m² Grundstuck,https://www.immowelt.de/expose/2440a478-0b6b-4138-a4bd-2fd9607f384c,2756,"Uellendahl - Ost,  Wuppertal (42111)",124
+Kalsbach, Marienheide (51709),476.709 1.270,8 Zimmer,"375,3 m²","1,1 m² Grundstuck",https://www.immowelt.de/expose/fb3aa693-d1c4-42b4-91d6-76dd6b29f981,2756,"Kalsbach,  Marienheide (51709)",38
+Kotthausen, Marienheide (51709),395.000 3.726,4 Zimmer,106 m²,1.295 m² Grundstuck,https://www.immowelt.de/expose/52b63d11-9ed4-4421-ad32-e0a2f97c84d9,2756,"Kotthausen,  Marienheide (51709)",19
+Kalsbach, Marienheide (51709),225.000 2.123,3 Zimmer,106 m²,Unknown,https://www.immowelt.de/expose/63160d21-61c2-4c25-967d-9e396fa7560b,2756,"Kalsbach,  Marienheide (51709)",38
+Kalsbach, Marienheide (51709),225.000 2.123,3 Zimmer,106 m²,100 m² Grundstuck,https://www.immowelt.de/expose/99f876df-3ca8-49f6-85e5-660126a57092,2756,"Kalsbach,  Marienheide (51709)",38
+Kalsbach, Marienheide (51709),423.039 3.387,4 Zimmer,"124,9 m²",580 m² Grundstuck,https://www.immowelt.de/expose/0144e775-2e38-4d18-b5cf-029157c27861,2756,"Kalsbach,  Marienheide (51709)",38
+Kalsbach, Marienheide (51709),649.000 4.160,6 Zimmer,156 m²,11.334 m² Grundstuck,https://www.immowelt.de/expose/d498f6d7-3651-470b-b3f1-efa12b9e5aa3,2756,"Kalsbach,  Marienheide (51709)",38
+Kalsbach, Marienheide (51709),963.759 3.863,5 Zimmer,"249,5 m²",2.200 m² Grundstuck,https://www.immowelt.de/expose/8e19e69b-5554-48bc-9fc5-4feb9b4fb75e,2756,"Kalsbach,  Marienheide (51709)",38
+Blutfinke, Wuppertal (42369),810.399 2.159,8 Zimmer,"375,3 m²",924 m² Grundstuck,https://www.immowelt.de/expose/4ecf883f-001a-4f71-b5c1-6a80aef4d1f7,2756,"Blutfinke,  Wuppertal (42369)",129
+Osberghausen, Engelskirchen (51766),328.500 1.749,7 Zimmer,205 m²,1.104 m² Grundstuck,https://www.immowelt.de/expose/e1130951-3e25-49f7-b947-b11ee7d54d9f,2756,"Osberghausen,  Engelskirchen (51766)",33
+Kalsbach, Marienheide / Kalsbach (51709),228.000 1.900,5 Zimmer,120 m²,343 m² Grundstuck,https://www.immowelt.de/expose/7e3529f7-5c32-4249-aef3-a08a42158314,2756,"Kalsbach,  Marienheide / Kalsbach (51709)",42
+Bad Laasphe, Bad Laasphe (57334),477.289 1.867,7 Zimmer,"255,6 m²",970 m² Grundstuck,https://www.immowelt.de/expose/4add9221-1405-4723-a13c-42ed3d1e9875,2756,"Bad Laasphe,  Bad Laasphe (57334)",79
+Kalsbach, Marienheide (51709),439.329 3.212,4 Zimmer,"136,8 m²",580 m² Grundstuck,https://www.immowelt.de/expose/04e780ac-62bf-4905-a26a-9b358190812e,2756,"Kalsbach,  Marienheide (51709)",38
+Kotthausen, Marienheide (51709),199.000 1.555,6 Zimmer,128 m²,1.296 m² Grundstuck,https://www.immowelt.de/expose/abb00128-f78e-40f3-8760-6270780e7a75,2756,"Kotthausen,  Marienheide (51709)",19
+Dorn, Reichshof (51580),99.750 656,8 Zimmer,152 m²,541 m² Grundstuck,https://www.immowelt.de/expose/79b0ec73-b0b6-4f33-8fd7-2c08d27bd6dc,2756,"Dorn,  Reichshof (51580)",5
+Kotthausen, Marienheide (51709),325.000 1.300,11 Zimmer,250 m²,799 m² Grundstuck,https://www.immowelt.de/expose/51754c4f-e922-48a6-8efd-53b128103f25,2756,"Kotthausen,  Marienheide (51709)",19
+Wallefeld, Engelskirchen (51766),425.000 3.320,5 Zimmer,128 m²,500 m² Grundstuck,https://www.immowelt.de/expose/b915b9aa-b96a-463a-94cf-e9ddda1544b5,2756,"Wallefeld,  Engelskirchen (51766)",49
+Erfttal, Neuss (41469),275.000 3.585,3 Zimmer,"76,7 m²",5. Geschoss,https://www.immowelt.de/expose/87efed3f-faa8-4e3a-82c9-02d4687d6b38,2767,"Erfttal,  Neuss (41469)",126
+Norf, Neuss (41469),398.000 3.416,5 Zimmer,"116,5 m²","208,1 m² Grundstuck",https://www.immowelt.de/expose/08c9e145-f5f9-4507-879c-be03110c549c,2767,"Norf,  Neuss (41469)",212
+Rosellen, Neuss (41470),375.000 2.500,6 Zimmer,150 m²,614 m² Grundstuck,https://www.immowelt.de/expose/459f32b5-45df-4b4e-9512-4410b0aa7cb6,2767,"Rosellen,  Neuss (41470)",122
+Holzheim, Neuss (41472),210.000 2.442,3 Zimmer,86 m²,Unknown,https://www.immowelt.de/expose/e5577e0e-528f-4e9b-88bf-93b5cfaea176,2767,"Holzheim,  Neuss (41472)",139
+Lohausen, Neuss (41462),749.999 5.289,5 Zimmer,"141,8 m²",400 m² Grundstuck,https://www.immowelt.de/expose/85aa0312-5d4b-44d7-8221-e95d936e26bc,2767,"Lohausen,  Neuss (41462)",115
+Lohausen, Neuss (41462),675.999 4.364,4 Zimmer,"154,9 m²",400 m² Grundstuck,https://www.immowelt.de/expose/39915d5c-cccd-4737-a646-ff922eb041e5,2767,"Lohausen,  Neuss (41462)",115
+Lohausen, Neuss (41462),689.999 5.530,4 Zimmer,"124,8 m²",400 m² Grundstuck,https://www.immowelt.de/expose/c8a5bf68-ed40-4ca2-b497-5fafd8408b46,2767,"Lohausen,  Neuss (41462)",115
+Lohausen, Neuss (41462),600.999 8.231,1 Zimmer,73 m²,400 m² Grundstuck,https://www.immowelt.de/expose/e7cacf38-72ce-401e-8d42-ba8216c765cb,2767,"Lohausen,  Neuss (41462)",115
+Holzheim, Neuss / Holzheim (41472),225.000 2.250,3 Zimmer,100 m²,3. Geschoss,https://www.immowelt.de/expose/38e5004c-7956-4c93-b8db-9cbeaf52b3e6,2767,"Holzheim,  Neuss / Holzheim (41472)",92
+Uedesheim, Neuss / Uedesheim (41468),557.000 4.781,4 Zimmer,"116,5 m²",932 m² Grundstuck,https://www.immowelt.de/expose/50086d18-4065-419f-8295-ba58d1b728db,2767,"Uedesheim,  Neuss / Uedesheim (41468)",35
+Vogelsang, Neuss (41462),298.000 3.071,3 Zimmer,97 m²,2. Geschoss,https://www.immowelt.de/expose/ac67125e-d559-453a-86ca-3494f998729a,2767,"Vogelsang,  Neuss (41462)",164
+Norf, Neuss (41469),398.000 4.189,5 Zimmer,95 m²,355 m² Grundstuck,https://www.immowelt.de/expose/20875dfe-3ac4-4c96-b86e-30c24465ee29,2767,"Norf,  Neuss (41469)",212
+Reuschenberg, Neuss (41466),429.000 3.250,5 Zimmer,132 m²,492 m² Grundstuck,https://www.immowelt.de/expose/9a1d05c1-7b97-42d8-9b31-2a91cbc5ee3a,2767,"Reuschenberg,  Neuss (41466)",176
+Reuschenberg, Neuss (41466),498.000 3.037,6 Zimmer,164 m²,827 m² Grundstuck,https://www.immowelt.de/expose/54537dc8-8b63-4f82-a802-999e81fb492c,2767,"Reuschenberg,  Neuss (41466)",176
+Stegerwaldstrasse 14, Neuss (41462),450.000 3.022,6 Zimmer,"148,9 m²",338 m² Grundstuck,https://www.immowelt.de/expose/ee8324e0-2d41-48f5-8141-9a1b311d6922,2767,"Stegerwaldstrasse 14,  Neuss (41462)",171
+Robert Koch Str., Neuss (41464),435.000 2.643,6 Zimmer,"164,6 m²",207 m² Grundstuck,https://www.immowelt.de/expose/f2846dd8-227a-4c04-9c7d-e9b212f63974,2767,"Robert Koch Str.,  Neuss (41464)",338
+Innenstadt, Neuss (41460),749.000 2.492,10 Zimmer,"300,5 m²",184 m² Grundstuck,https://www.immowelt.de/expose/0a3e53c3-83cd-43bd-915e-e70681d87d6d,2767,"Innenstadt,  Neuss (41460)",655
+Furth - Mitte, Neuss (41462),360.000 4.000,4 Zimmer,90 m²,236 m² Grundstuck,https://www.immowelt.de/expose/388b2436-c0cc-49b3-ab81-37ae221f4390,2767,"Furth - Mitte,  Neuss (41462)",177
+Augustinusviertel, Neuss (41464),229.000 3.735,2 Zimmer,"61,3 m²",Unknown,https://www.immowelt.de/expose/cf55d170-e973-40f6-9af8-776cee0c2fe5,2767,"Augustinusviertel,  Neuss (41464)",132
+Grimlinghausen, Neuss (41468),237.900 2.309,3 Zimmer,103 m²,Unknown,https://www.immowelt.de/expose/b751db15-a1bb-41a4-96ea-be928c48932b,2767,"Grimlinghausen,  Neuss (41468)",127
+Hammfeld, Neuss (41460),550.000 2.709,4 Zimmer,203 m²,16. Geschoss,https://www.immowelt.de/expose/5258ce57-1439-4272-bb77-5a728b947323,2767,"Hammfeld,  Neuss (41460)",111
+Innenstadt, Neuss (41460),725.000 2.197,12 Zimmer,330 m²,142 m² Grundstuck,https://www.immowelt.de/expose/287b41aa-cbec-49f2-8673-992347aa3b81,2767,"Innenstadt,  Neuss (41460)",655
+Grimlinghausen, Neuss (41468),435.900 2.382,5 Zimmer,183 m²,Unknown,https://www.immowelt.de/expose/34dcfc9c-27d0-467b-b5bd-d84586a46f0f,2767,"Grimlinghausen,  Neuss (41468)",127
+Rosellen, Neuss (41470),440.000 3.308,4 Zimmer,133 m²,300 m² Grundstuck,https://www.immowelt.de/expose/4858fda5-8388-4bfe-97c3-aac49dd61770,2767,"Rosellen,  Neuss (41470)",122
+Hafengebiet, Neuss (41460),395.200 2.971,4 Zimmer,133 m²,300 m² Grundstuck,https://www.immowelt.de/expose/08642896-3f0b-4fc5-9fc4-207cf98fe2bd,2767,"Hafengebiet,  Neuss (41460)",22
+Erfttal, Neuss / Erfttal (41469),190.000 2.533,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/e24f3361-066c-4f23-bb06-1759d0d5fb84,2767,"Erfttal,  Neuss / Erfttal (41469)",84
+Stadionviertel, Neuss (41464),790.000 4.463,5 Zimmer,177 m²,909 m² Grundstuck,https://www.immowelt.de/expose/f760a3fd-4006-4e65-8fa7-582647715f8a,2767,"Stadionviertel,  Neuss (41464)",133
+Holzheim, Neuss (41472),639.000 3.435,5 Zimmer,186 m²,490 m² Grundstuck,https://www.immowelt.de/expose/97b86528-5b87-4606-a36d-3071e35aacc7,2767,"Holzheim,  Neuss (41472)",139
+Weckhoven, Neuss (41466),420.000 4.000,5 Zimmer,105 m²,199 m² Grundstuck,https://www.immowelt.de/expose/b513bcb6-7174-49a4-a316-b216654d0d28,2767,"Weckhoven,  Neuss (41466)",99
+Drususallee 21, Neuss (41460),1.100.000 2.075,530 m²,684 m² Grundstuck,Unknown,https://www.immowelt.de/expose/3a7ae4ba-76ad-48c4-a575-cdc644548c00,2767,"Drususallee 21,  Neuss (41460)",614
+Norf, Neuss (41469),298000,4 Zimmer,110 m²,frei ab sofort,https://www.immowelt.de/expose/d30505d4-40ac-48b3-92c4-beed152fedd5,2767,"Norf,  Neuss (41469)",212
+GÃ¶rlitzerstr. 4, Neuss (41460),115.000 2.091,2 Zimmer,55 m²,1. Geschoss,https://www.immowelt.de/expose/64105a9e-700b-4174-b921-9fc08023df19,2767,"GÃ¶rlitzerstr. 4,  Neuss (41460)",0
+Norf, Neuss (41469),298000,4 Zimmer,110 m²,1.035 m² Grundstuck,https://www.immowelt.de/expose/144a5d36-e218-42c7-ae0d-74d8717aa3c0,2767,"Norf,  Neuss (41469)",212
+Maximilianstrasse, Neuss (41472),75.000 2.679,1 Zimmer,28 m²,2. Geschoss,https://www.immowelt.de/expose/ca287791-244d-426d-aa6c-c0a4dc5cd7ab,2767,"Maximilianstrasse,  Neuss (41472)",122
+Stadionviertel, Neuss (41464),620.000 2.385,"13,5 Zimmer",260 m²,550 m² Grundstuck,https://www.immowelt.de/expose/0e910e90-392e-46ac-9a3a-fb276714a5ad,2767,"Stadionviertel,  Neuss (41464)",133
+Norf, Neuss (41469),898.000 4.726,6 Zimmer,190 m²,501 m² Grundstuck,https://www.immowelt.de/expose/fe8c676a-34b3-4969-8538-7cf65cee7f2a,2767,"Norf,  Neuss (41469)",212
+Rosellen, Neuss (41470),598.000 5.486,4 Zimmer,109 m²,190 m² Grundstuck,https://www.immowelt.de/expose/58c53b5a-0b2f-4e40-9383-6a30532f9cdf,2767,"Rosellen,  Neuss (41470)",122
+Rosellen, Neuss (41470),2.450.000 5.500,9 Zimmer,"445,5 m²",7.822 m² Grundstuck,https://www.immowelt.de/expose/89d118f7-82ab-488e-8f3c-a4d80c63c1ee,2767,"Rosellen,  Neuss (41470)",122
+Hammfeld, Neuss (41460),298.000 4.585,3 Zimmer,65 m²,4. Geschoss,https://www.immowelt.de/expose/0a05df38-4e53-4ac6-a91f-64950b16c9f1,2767,"Hammfeld,  Neuss (41460)",111
+Rosellen, Neuss (41470),465.000 4.814,3 Zimmer,"96,7 m²",EG,https://www.immowelt.de/expose/399e10df-6b09-4e5f-affc-8b496e652ff9,2767,"Rosellen,  Neuss (41470)",122
+Holzheim, Neuss (41472),83.000 2.677,1 Zimmer,"31,1 m²",EG,https://www.immowelt.de/expose/4f355490-4faf-457a-b3b3-3ece4fc58e84,2767,"Holzheim,  Neuss (41472)",139
+Vogelsang, Neuss (41462),699.000 4.112,4 Zimmer,170 m²,592 m² Grundstuck,https://www.immowelt.de/expose/de55bfdc-31a6-4c18-a064-ce2cd1d3664f,2767,"Vogelsang,  Neuss (41462)",164
+Grimlinghausen, Neuss (41468),785.000 2.608,12 Zimmer,301 m²,483 m² Grundstuck,https://www.immowelt.de/expose/2fffea1d-acb0-43e7-a9a5-4ca0d49b8f40,2767,"Grimlinghausen,  Neuss (41468)",127
+Grefrath, Neuss (41472),419.000 3.953,5 Zimmer,106 m²,237 m² Grundstuck,https://www.immowelt.de/expose/1f82c03a-bf57-4a7c-8681-38c25ad8f418,2767,"Grefrath,  Neuss (41472)",72
+Furth - Sud, Neuss (41462),448.000 4.436,4 Zimmer,101 m²,306 m² Grundstuck,https://www.immowelt.de/expose/443e0ed2-dc41-4a6c-9a78-3f8f2eed0dd2,2767,"Furth - Sud,  Neuss (41462)",377
+Hammfeld, Neuss (41460),330.000 2.750,4 Zimmer,120 m²,1. Geschoss,https://www.immowelt.de/expose/dd980d93-35b9-4906-a785-014daa7cb428,2767,"Hammfeld,  Neuss (41460)",111
+Furth - Sud, Neuss (41462),149.000 2.811,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/5380e552-6751-46f5-93a6-718cb49b7f67,2767,"Furth - Sud,  Neuss (41462)",377
+Uedesheim, Neuss (41468),749.000 4.771,6 Zimmer,157 m²,768 m² Grundstuck,https://www.immowelt.de/expose/a0aaf7f1-b587-4ada-8c13-7bb8cdf7c25d,2767,"Uedesheim,  Neuss (41468)",98
+Stadionviertel, Neuss (41464),998.000 3.914,7 Zimmer,255 m²,600 m² Grundstuck,https://www.immowelt.de/expose/ff6a5973-6096-4a47-9ffb-e8fb346fd7be,2767,"Stadionviertel,  Neuss (41464)",133
+GÃ¶rlitzer StraÃŸe 4, Neuss (41460),185.000 3.195,2 Zimmer,"57,9 m²",Unknown,https://www.immowelt.de/expose/91239158-b318-4792-b995-432c3a55cc7f,2767,"GÃ¶rlitzer StraÃŸe 4,  Neuss (41460)",0
+Innenstadt, Neuss (41460),649.000 3.056,8 Zimmer,"147,9 m²",109 m² Grundstuck,https://www.immowelt.de/expose/433a5dbb-92a1-4029-9f1a-50249740df34,2767,"Innenstadt,  Neuss (41460)",655
+Stadionviertel, Neuss (41464),880.750 5.379,5 Zimmer,"163,7 m²",2. Geschoss,https://www.immowelt.de/expose/8d604289-9db9-4188-ad02-a58d145f9aa5,2767,"Stadionviertel,  Neuss (41464)",133
+Stadionviertel, Neuss (41464),545.750 5.161,3 Zimmer,"105,7 m²",1. Geschoss,https://www.immowelt.de/expose/f352d716-014f-43db-b02f-e5861fad500c,2767,"Stadionviertel,  Neuss (41464)",133
+Stadionviertel, Neuss (41464),598.750 5.139,4 Zimmer,"116,5 m²",EG,https://www.immowelt.de/expose/953d9d7d-ba4a-44f3-a4f4-53abc5496a6f,2767,"Stadionviertel,  Neuss (41464)",133
+Innenstadt, Neuss (41460),649.000 3.056,8 Zimmer,"212,4 m²",109 m² Grundstuck,https://www.immowelt.de/expose/aab21223-1337-445f-96ce-3c636a64eb25,2767,"Innenstadt,  Neuss (41460)",655
+Am Goldberg 110, Neuss (41469),169.000 2.726,2 Zimmer,62 m²,5. Geschoss,https://www.immowelt.de/expose/7ec4e8c2-3769-435a-b4f6-c0560a730034,2767,"Am Goldberg 110,  Neuss (41469)",139
+Hubertusweg 35b, Neuss (41466),559.000 4.300,4 Zimmer,130 m²,320 m² Grundstuck,https://www.immowelt.de/expose/a3227088-3ee5-43d6-af3d-cea527f59557,2767,"Hubertusweg 35b,  Neuss (41466)",96
+Holzheim, Neuss (41472),629.000 5.265,4 Zimmer,"119,5 m²",265 m² Grundstuck,https://www.immowelt.de/expose/02825381-310c-46b3-856d-ebc2e493a608,2767,"Holzheim,  Neuss (41472)",139
+Rosellen, Neuss (41470),789.000 4.318,5 Zimmer,"182,7 m²",535 m² Grundstuck,https://www.immowelt.de/expose/46aea5ca-f3d0-4a31-8cdf-abbc4ca2b659,2767,"Rosellen,  Neuss (41470)",122
+Vogelsang, Neuss (41462),729.000 4.129,5 Zimmer,"188,7 m²",940 m² Grundstuck,https://www.immowelt.de/expose/b7829453-7b98-42ab-af9d-bfda6df237ae,2767,"Vogelsang,  Neuss (41462)",164
+Furth - Sud, Neuss (41462),141.000 2.520,3 Zimmer,56 m²,1. Geschoss,https://www.immowelt.de/expose/aac98094-7550-41c2-ba16-f20b21642053,2767,"Furth - Sud,  Neuss (41462)",377
+Furth - Sud, Neuss (41462),137.000 2.521,3 Zimmer,"54,3 m²",EG,https://www.immowelt.de/expose/0c7f59f3-2542-4680-856c-8257eb49f6ef,2767,"Furth - Sud,  Neuss (41462)",377
+BurgunderstraÃŸe 27, Neuss (41462),133.000 2.529,2 Zimmer,"52,6 m²",EG,https://www.immowelt.de/expose/bde9a178-f9d3-4165-b2b9-2d62851c52bd,2767,"BurgunderstraÃŸe 27,  Neuss (41462)",0
+Hoisten, Neuss (41469),224.000 3.294,2 Zimmer,68 m²,2. Geschoss,https://www.immowelt.de/expose/4ff5d35e-32c4-415b-8d98-84b6a5d8053f,2767,"Hoisten,  Neuss (41469)",53
+An der Obererft, Neuss (41464),239.900 3.930,2 Zimmer,61 m²,EG,https://www.immowelt.de/expose/5c5564fe-7c7c-4368-a048-d7479defe716,2767,"An der Obererft,  Neuss (41464)",288
+WeiÃŸenberg, Neuss (41462),259.000 3.597,3 Zimmer,72 m²,2. Geschoss,https://www.immowelt.de/expose/d9506a1f-4d82-4e26-90e7-344ff6a55b0a,2767,"WeiÃŸenberg,  Neuss (41462)",0
+Furth - Sud, Neuss (41462),164.000 2.448,3 Zimmer,67 m²,1. Geschoss,https://www.immowelt.de/expose/644868a2-1925-436e-bfa9-a0e007933de4,2767,"Furth - Sud,  Neuss (41462)",377
+Furth - Sud, Neuss (41462),122.000 2.494,2 Zimmer,"48,9 m²",1. Geschoss,https://www.immowelt.de/expose/a5abbbe1-ba67-4832-8637-748d7bb9ebfe,2767,"Furth - Sud,  Neuss (41462)",377
+GÃ¶rlitzer Str. 5-7, Neuss (41460),Preis auf Anfrage,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/4344aec8-d20f-42a4-8ffe-4e2394a5111a,2767,"GÃ¶rlitzer Str. 5-7,  Neuss (41460)",0
+GÃ¶rlitzer Str. 5-7, Neuss (41460),Preis auf Anfrage,2 Zimmer,52 m²,2. Geschoss,https://www.immowelt.de/expose/78c714f3-be46-4d29-a27b-c50b9a427d4b,2767,"GÃ¶rlitzer Str. 5-7,  Neuss (41460)",0
+GÃ¶rlitzer Str. 5-7, Neuss (41460),Preis auf Anfrage,1 Zimmer,34 m²,2. Geschoss,https://www.immowelt.de/expose/7aceb889-b694-4bcf-8963-719fd63ac2f5,2767,"GÃ¶rlitzer Str. 5-7,  Neuss (41460)",0
+GÃ¶rlitzer Str. 5-7, Neuss (41460),Preis auf Anfrage,2 Zimmer,66 m²,5. Geschoss,https://www.immowelt.de/expose/fb1ecfaf-c6ca-4e0a-bb3a-b2319bade27d,2767,"GÃ¶rlitzer Str. 5-7,  Neuss (41460)",0
+GÃ¶rlitzer Str. 5-7, Neuss (41460),Preis auf Anfrage,2 Zimmer,52 m²,9. Geschoss,https://www.immowelt.de/expose/05c3ccef-c5cd-4814-84d2-11a94e19895e,2767,"GÃ¶rlitzer Str. 5-7,  Neuss (41460)",0
+Rosellen, Neuss (41470),1.300.000 3.611,9 Zimmer,360 m²,2.389 m² Grundstuck,https://www.immowelt.de/expose/55727082-665c-4a3c-91ff-f5fd184f61f0,2767,"Rosellen,  Neuss (41470)",122
+Vogelsang, Neuss (41462),120.000 3.333,1 Zimmer,36 m²,EG,https://www.immowelt.de/expose/f2fa0ea4-d8f0-4783-9e2a-e877402a02d0,2767,"Vogelsang,  Neuss (41462)",164
+Speck - Wehl - Helpenstein, Neuss (41472),475.000 3.654,7 Zimmer,130 m²,1.095 m² Grundstuck,https://www.immowelt.de/expose/537ba238-eda7-4567-a935-1d235d3df305,2767,"Speck - Wehl - Helpenstein,  Neuss (41472)",20
+Furth - Nord, Neuss (41462),249.000 2.736,3 Zimmer,91 m²,2. Geschoss,https://www.immowelt.de/expose/afa91a72-502c-4262-8af7-98ad2789d72e,2767,"Furth - Nord,  Neuss (41462)",117
+Rosellen, Neuss (41470),489.000 4.223,4 Zimmer,"115,8 m²","169,2 m² Grundstuck",https://www.immowelt.de/expose/06ae40db-7fcb-4876-be64-7006b78f0629,2767,"Rosellen,  Neuss (41470)",122
+Norf, Neuss (41469),549.000 2.801,6 Zimmer,196 m²,186 m² Grundstuck,https://www.immowelt.de/expose/3e78a601-f8e1-4682-be59-77cd45d5af32,2767,"Norf,  Neuss (41469)",212
+Norf, Neuss (41469),Preis auf Anfrage,6 Zimmer,130 m²,249 m² Grundstuck,https://www.immowelt.de/expose/8f930a78-0835-4907-b5ed-ad370ec4f5bc,2767,"Norf,  Neuss (41469)",212
+Furth - Mitte, Neuss (41462),669.000 4.208,6 Zimmer,159 m²,262 m² Grundstuck,https://www.immowelt.de/expose/81bcf962-eeaa-40ab-934e-93d853938e63,2767,"Furth - Mitte,  Neuss (41462)",177
+Reuschenberg, Neuss (41466),495.000 4.231,5 Zimmer,117 m²,750 m² Grundstuck,https://www.immowelt.de/expose/9ee4838a-2027-447d-b82a-6c57609010f3,2767,"Reuschenberg,  Neuss (41466)",176
+Grefrath, Neuss / Grefrath (41472),620.000 3.605,5 Zimmer,172 m²,205 m² Grundstuck,https://www.immowelt.de/expose/918ae2a7-e858-453d-8c53-0bc4d6d60f24,2767,"Grefrath,  Neuss / Grefrath (41472)",64
+Holzheim, Neuss (41464),679.999 4.795,5 Zimmer,"141,8 m²",500 m² Grundstuck,https://www.immowelt.de/expose/e8ae2476-0790-4ac4-8338-256b3eca4e6d,2767,"Holzheim,  Neuss (41464)",139
+Holzheim, Neuss (41464),939.999 3.042,5 Zimmer,309 m²,500 m² Grundstuck,https://www.immowelt.de/expose/d6439d05-646d-4b32-81fa-d63460495196,2767,"Holzheim,  Neuss (41464)",139
+Holzheim, Neuss (41464),910.999 4.104,7 Zimmer,222 m²,500 m² Grundstuck,https://www.immowelt.de/expose/87201b7c-93ca-4937-ac53-8889d2ab3cbb,2767,"Holzheim,  Neuss (41464)",139
+Holzheim, Neuss (41464),829.999 3.294,6 Zimmer,252 m²,500 m² Grundstuck,https://www.immowelt.de/expose/eff72450-25af-472b-88cb-30dbf0b69ee8,2767,"Holzheim,  Neuss (41464)",139
+Holzheim, Neuss (41464),639.999 4.103,5 Zimmer,156 m²,500 m² Grundstuck,https://www.immowelt.de/expose/8d804065-62d8-4e23-94ec-ea8533a5676e,2767,"Holzheim,  Neuss (41464)",139
+Holzheim, Neuss (41464),656.999 4.242,4 Zimmer,"154,9 m²",500 m² Grundstuck,https://www.immowelt.de/expose/852e32d3-452e-4df7-b056-cabd21e57ab2,2767,"Holzheim,  Neuss (41464)",139
+Holzheim, Neuss (41464),689.999 4.563,5 Zimmer,"151,2 m²",500 m² Grundstuck,https://www.immowelt.de/expose/2e44e0c4-3886-4588-bbfa-0562b65f4859,2767,"Holzheim,  Neuss (41464)",139
+Holzheim, Neuss (41464),605.999 4.489,5 Zimmer,135 m²,500 m² Grundstuck,https://www.immowelt.de/expose/6e515fd7-5d01-465f-8339-4e04972e7167,2767,"Holzheim,  Neuss (41464)",139
+Holzheim, Neuss (41464),619.999 4.003,4 Zimmer,"154,9 m²",500 m² Grundstuck,https://www.immowelt.de/expose/14d351ce-ac2e-48bb-ac84-d20710c1deef,2767,"Holzheim,  Neuss (41464)",139
+Holzheim, Neuss (41464),530.999 7.272,1 Zimmer,73 m²,500 m² Grundstuck,https://www.immowelt.de/expose/2d7f578c-d988-4b30-828b-61f27d302d8a,2767,"Holzheim,  Neuss (41464)",139
+Weckhoven, Neuss (41466),221.000 1.687,5 Zimmer,131 m²,239 m² Grundstuck,https://www.immowelt.de/expose/607140ec-e180-4d32-869f-18aa6620d079,2767,"Weckhoven,  Neuss (41466)",99
+Furth - Sud, Neuss (41462),188.000 3.357,3 Zimmer,56 m²,2. Geschoss,https://www.immowelt.de/expose/d434084f-2611-4aa6-b29d-61f3651c0781,2767,"Furth - Sud,  Neuss (41462)",377
+Rosellen, Neuss (41470),445.000 3.771,5 Zimmer,118 m²,149 m² Grundstuck,https://www.immowelt.de/expose/39946a30-c14c-4984-8744-c723cd583004,2767,"Rosellen,  Neuss (41470)",122
+Reuschenberg, Neuss (41466),339.000 4.185,3 Zimmer,81 m²,655 m² Grundstuck,https://www.immowelt.de/expose/7bae22fe-538d-4d9d-a1e5-b7a236e8d861,2767,"Reuschenberg,  Neuss (41466)",176
+Furth - Nord, Neuss / Furth-Nord (41462),285.000 3.098,3 Zimmer,92 m²,2. Geschoss,https://www.immowelt.de/expose/2d1bfb24-3cb8-4de5-9e6e-46eda719bab1,2767,"Furth - Nord,  Neuss / Furth-Nord (41462)",253
+Lohausen, Neuss (41462),1.009.999 3.268,5 Zimmer,309 m²,400 m² Grundstuck,https://www.immowelt.de/expose/ad47d748-2cba-4128-90c2-160189a649b8,2767,"Lohausen,  Neuss (41462)",115
+Lohausen, Neuss (41462),980.999 4.419,7 Zimmer,222 m²,400 m² Grundstuck,https://www.immowelt.de/expose/3d55fffb-2d0b-463f-85ab-a0fab65e743d,2767,"Lohausen,  Neuss (41462)",115
+Lohausen, Neuss (41462),899.999 3.571,6 Zimmer,252 m²,400 m² Grundstuck,https://www.immowelt.de/expose/6720b811-95ba-4e33-975e-dfe713982bef,2767,"Lohausen,  Neuss (41462)",115
+WeiÃŸenberg, Neuss (41462),710.999 4.558,5 Zimmer,156 m²,400 m² Grundstuck,https://www.immowelt.de/expose/3a43cbeb-eaa7-4bcf-a380-4158d964504f,2767,"WeiÃŸenberg,  Neuss (41462)",0
+Lohausen, Neuss (41462),759.999 5.026,5 Zimmer,"151,2 m²",400 m² Grundstuck,https://www.immowelt.de/expose/0619ea57-0aea-40b4-91d9-daecf809d987,2767,"Lohausen,  Neuss (41462)",115
+Grefrath, Neuss (41472),400.000 2.878,5 Zimmer,139 m²,552 m² Grundstuck,https://www.immowelt.de/expose/714257a8-c928-4c14-98e2-e39e3d8c1169,2767,"Grefrath,  Neuss (41472)",72
+Holzheim, Neuss / Holzheim (41472),230.000 1.966,5 Zimmer,117 m²,432 m² Grundstuck,https://www.immowelt.de/expose/536b4711-658a-4e15-90c0-546859a61e4d,2767,"Holzheim,  Neuss / Holzheim (41472)",92
+Grimlinghausen, Neuss / Grimlinghausen (41468),495.000 3.117,7 Zimmer,"158,8 m²",217 m² Grundstuck,https://www.immowelt.de/expose/4f5c2b2f-987f-4bf0-80c0-1472157d8ba9,2767,"Grimlinghausen,  Neuss / Grimlinghausen (41468)",82
+BurgunderstraÃŸe 25, Neuss (41462),135.000 2.492,2 Zimmer,"54,2 m²",2. Geschoss,https://www.immowelt.de/expose/ea8e6622-bef1-4d42-a6b1-f873539bf2af,2767,"BurgunderstraÃŸe 25,  Neuss (41462)",0
+Furth - Mitte, Neuss (41468),109.000 4.192,1 Zimmer,26 m²,EG,https://www.immowelt.de/expose/cf115e67-2123-4105-9be9-8968897563c0,2767,"Furth - Mitte,  Neuss (41468)",177
+Reuschenberg, Neuss (41466),853.000 2.825,10 Zimmer,302 m²,791 m² Grundstuck,https://www.immowelt.de/expose/8b0aba50-9964-49c7-a2b5-191bb5463bf4,2767,"Reuschenberg,  Neuss (41466)",176
+Reuschenberg, Neuss (41466),853000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/11bad5ec-db69-448a-90ee-f9e5b5f47927,2767,"Reuschenberg,  Neuss (41466)",176
+Grimlinghausen, Neuss (41468),499.000 5.424,3 Zimmer,92 m²,1. Geschoss,https://www.immowelt.de/expose/73cc1db8-0aee-4115-b4ab-aeec59fb7fe1,2767,"Grimlinghausen,  Neuss (41468)",127
+Reuschenberg, Neuss (41466),853.000 2.825,302 m²,791 m² Grundstuck,Unknown,https://www.immowelt.de/expose/3367f688-5d62-46c0-90d7-2fc284689fe7,2767,"Reuschenberg,  Neuss (41466)",176
+Rosellen, Neuss / Allerheiligen (41470),255.000 3.098,3 Zimmer,"82,3 m²",3. Geschoss,https://www.immowelt.de/expose/b1d99e49-5ab6-4171-917f-05dba86ebce8,2767,"Rosellen,  Neuss / Allerheiligen (41470)",112
+Norf, Neuss (41469),539.000 4.146,4 Zimmer,130 m²,236 m² Grundstuck,https://www.immowelt.de/expose/4ad2ee9e-cd35-466e-96e6-f5f89a6621f8,2767,"Norf,  Neuss (41469)",212
+Reuschenberg, Neuss (41466),560.000 3.862,6 Zimmer,145 m²,1.332 m² Grundstuck,https://www.immowelt.de/expose/dcaf8f83-e842-4210-be50-3912ec86129a,2767,"Reuschenberg,  Neuss (41466)",176
+Innenstadt, Neuss (41460),645.000 3.000,7 Zimmer,215 m²,134 m² Grundstuck,https://www.immowelt.de/expose/d7b519d1-89f9-4d37-b169-edd31929a9ca,2767,"Innenstadt,  Neuss (41460)",655
+Vogelsang, Neuss (41462),995.000 3.317,8 Zimmer,300 m²,1.587 m² Grundstuck,https://www.immowelt.de/expose/4399e409-07f8-432c-b679-3b92fe1af732,2767,"Vogelsang,  Neuss (41462)",164
+Norf, Neuss / Norf (41469),399.000 4.807,3 Zimmer,83 m²,2. Geschoss,https://www.immowelt.de/expose/6128e909-dee4-4616-b455-844e43b18564,2767,"Norf,  Neuss / Norf (41469)",212
+Grefrath, Neuss (41472),449.000 2.916,6 Zimmer,154 m²,351 m² Grundstuck,https://www.immowelt.de/expose/bd757957-69d8-4858-b28c-edacfb28a751,2767,"Grefrath,  Neuss (41472)",72
+Pomona, Neuss (41464),598.000 5.339,4 Zimmer,112 m²,714 m² Grundstuck,https://www.immowelt.de/expose/59a960b8-6f4a-428d-9d4a-e4d299eac248,2767,"Pomona,  Neuss (41464)",141
+Innenstadt, Neuss (41460),715.000 4.965,10 Zimmer,144 m²,Unknown,https://www.immowelt.de/expose/cb103384-cc76-4f30-9812-e3334ecca840,2767,"Innenstadt,  Neuss (41460)",655
+Innenstadt, Neuss (41460),715.000 2.883,248 m²,288 m² Grundstuck,Unknown,https://www.immowelt.de/expose/a5c910dd-dd8f-478c-814d-ff489444ca41,2767,"Innenstadt,  Neuss (41460)",655
+Norf, Neuss (41469),209.500 2.686,3 Zimmer,78 m²,2. Geschoss,https://www.immowelt.de/expose/ceadfa17-4a48-4b98-846e-600ce8d39b24,2767,"Norf,  Neuss (41469)",212
+Innenstadt, Neuss (41460),715.000 4.965,10 Zimmer,144 m²,288 m² Grundstuck,https://www.immowelt.de/expose/7c41ec37-0e2d-49d5-b33a-e20dc4db5e98,2767,"Innenstadt,  Neuss (41460)",655
+Rosellen, Neuss (41470),560.000 3.011,7 Zimmer,186 m²,779 m² Grundstuck,https://www.immowelt.de/expose/5a72237f-a23c-421f-9fe7-8d33ee784613,2767,"Rosellen,  Neuss (41470)",122
+Rosellen, Neuss (41470),498.000 4.080,5 Zimmer,"122,1 m²",643 m² Grundstuck,https://www.immowelt.de/expose/06f892ca-2bf4-4745-aa28-4c166435f13f,2767,"Rosellen,  Neuss (41470)",122
+Weckhoven, Neuss (41466),598.000 4.271,5 Zimmer,140 m²,508 m² Grundstuck,https://www.immowelt.de/expose/68722191-0c6a-430d-8fe2-9cdd59e6136a,2767,"Weckhoven,  Neuss (41466)",99
+Vogelsang, Neuss (41462),134.000 2.577,2 Zimmer,52 m²,3. Geschoss,https://www.immowelt.de/expose/a909bf83-7dcb-42f9-9cb9-30b98f392425,2767,"Vogelsang,  Neuss (41462)",164
+Speck - Wehl - Helpenstein, Neuss (41472),459.000 3.279,6 Zimmer,140 m²,662 m² Grundstuck,https://www.immowelt.de/expose/6a3cfb9d-06fb-4167-b07d-b22b77108496,2767,"Speck - Wehl - Helpenstein,  Neuss (41472)",20
+Selikum, Neuss / Selikum (41466),589.000 4.908,4 Zimmer,120 m²,635 m² Grundstuck,https://www.immowelt.de/expose/89348688-0bb2-49f0-b53a-3c8041746f40,2767,"Selikum,  Neuss / Selikum (41466)",40
+Furth - Nord, Neuss (41462),769.000 2.203,13 Zimmer,349 m²,231 m² Grundstuck,https://www.immowelt.de/expose/f7e39796-8a0e-45e1-b3f1-43d8c9f0128c,2767,"Furth - Nord,  Neuss (41462)",117
+Speck - Wehl - Helpenstein, Neuss (41472),398.000 2.653,150 m²,431 m² Grundstuck,Unknown,https://www.immowelt.de/expose/c8fb0c46-953a-48ac-a2c6-65bcecde99f5,2767,"Speck - Wehl - Helpenstein,  Neuss (41472)",20
+Grimlinghausen, Neuss (41468),329.000 4.202,3 Zimmer,"78,3 m²",1. Geschoss,https://www.immowelt.de/expose/b0f793c6-b115-4e7d-88f8-c896cd0c1d6a,2767,"Grimlinghausen,  Neuss (41468)",127
+Innenstadt, Neuss (41460),1.050.000 1.211,805 m²,1.084 m² Grundstuck,Unknown,https://www.immowelt.de/expose/76e044a5-e1a0-4402-b2ff-926af1c94643,2767,"Innenstadt,  Neuss (41460)",655
+Innenstadt, Neuss (41460),285.000 2.369,7 Zimmer,125 m²,165 m² Grundstuck,https://www.immowelt.de/expose/4c1d0c0b-9ce3-4bdd-af96-dc5f6b16f18e,2767,"Innenstadt,  Neuss (41460)",655
+Furth - Sud, Neuss (41462),3.995.000 1.525,54 Zimmer,2.619 m²,2.843 m² Grundstuck,https://www.immowelt.de/expose/7cd6eaf9-832a-4d5a-8a2f-56df2de54815,2767,"Furth - Sud,  Neuss (41462)",377
+Grimlinghausen, Neuss (41468),341.900 2.124,5 Zimmer,161 m²,Unknown,https://www.immowelt.de/expose/c0da9705-e904-4984-a51f-f3850352cee6,2767,"Grimlinghausen,  Neuss (41468)",127
+Grimlinghausen, Neuss (41468),484.900 2.585,6 Zimmer,"187,6 m²",Unknown,https://www.immowelt.de/expose/b43452ea-e866-4d4f-b811-a9fcf80c80c4,2767,"Grimlinghausen,  Neuss (41468)",127
+Grimlinghausen, Neuss (41468),400.800 2.690,4 Zimmer,149 m²,Unknown,https://www.immowelt.de/expose/5942b583-6e89-4091-9559-771065d5f5c1,2767,"Grimlinghausen,  Neuss (41468)",127
+Grimlinghausen, Neuss (41468),326.400 3.079,4 Zimmer,106 m²,Unknown,https://www.immowelt.de/expose/d1c54755-340a-43cf-8786-d8d9dbc0b767,2767,"Grimlinghausen,  Neuss (41468)",127
+Gnadental, Neuss (41468),369.000 3.514,4 Zimmer,105 m²,194 m² Grundstuck,https://www.immowelt.de/expose/deba52b7-c058-48d5-8080-0e48b3c63ab6,2767,"Gnadental,  Neuss (41468)",149
+Vogelsang, Neuss (41462),245.000 2.722,4 Zimmer,90 m²,1. Geschoss,https://www.immowelt.de/expose/023444e0-1157-4a16-a544-1d6ab67ffbdf,2767,"Vogelsang,  Neuss (41462)",164
+Innenstadt, Neuss (41460),135.000 4.655,1 Zimmer,29 m²,2. UG,https://www.immowelt.de/expose/cc502008-5a53-480e-9295-b178a0fb7c1c,2767,"Innenstadt,  Neuss (41460)",655
+DreikÃ¶nigenviertel, Neuss (41466),769.000 3.454,5 Zimmer,"222,6 m²",890 m² Grundstuck,https://www.immowelt.de/expose/d99614b7-7ebd-46c3-9a1c-7a7da96359f1,2767,"DreikÃ¶nigenviertel,  Neuss (41466)",0
+Vogelsang, Neuss (41462),969.000 4.353,5 Zimmer,"222,6 m²",890 m² Grundstuck,https://www.immowelt.de/expose/500ef608-a417-4a38-9327-109c0d8a4c38,2767,"Vogelsang,  Neuss (41462)",164
+Reuschenberg, Neuss (41466),259.000 1.824,4 Zimmer,142 m²,1 m² Grundstuck,https://www.immowelt.de/expose/9474cf69-9d56-4225-b676-01000691afcd,2767,"Reuschenberg,  Neuss (41466)",176
+Innenstadt, Neuss (41460),230.000 2.500,5 Zimmer,92 m²,67 m² Grundstuck,https://www.immowelt.de/expose/dc02b6cc-f747-4756-97f3-21b068cad0c9,2767,"Innenstadt,  Neuss (41460)",655
+Speck - Wehl - Helpenstein, Neuss (41472),499.000 2.228,8 Zimmer,224 m²,1.790 m² Grundstuck,https://www.immowelt.de/expose/db4c7dbe-e280-4e5b-bc5e-ace9c4d09767,2767,"Speck - Wehl - Helpenstein,  Neuss (41472)",20
+Julicher Strasse 36, Neuss (41464),750.000 2.870,7 Zimmer,277 m²,220 m² Grundstuck,https://www.immowelt.de/expose/ad9b0a0f-dc54-4296-8702-2103659d6a62,2767,"Julicher Strasse 36,  Neuss (41464)",359
+HertzstraÃŸe 2, Neuss (41464),249.000 3.011,3 Zimmer,"82,7 m²",1. Geschoss,https://www.immowelt.de/expose/50dbf264-0695-41fb-9b95-ac02218d84b8,2767,"HertzstraÃŸe 2,  Neuss (41464)",0
+Speck - Wehl - Helpenstein, Neuss (41472),554.000 3.184,"6,5 Zimmer",174 m²,600 m² Grundstuck,https://www.immowelt.de/expose/15e1e7e0-e81f-4f4e-a0e7-3f30dee853b7,2767,"Speck - Wehl - Helpenstein,  Neuss (41472)",20
+WeiÃŸenberg, Neuss (41462),595.000 4.337,6 Zimmer,"137,2 m²",267 m² Grundstuck,https://www.immowelt.de/expose/37057688-c5ab-43fc-9c38-4bf3a3f16e47,2767,"WeiÃŸenberg,  Neuss (41462)",0
+Gnadental, Neuss - Gnadental (41468),1.250.000 4.513,7 Zimmer,277 m²,1.188 m² Grundstuck,https://www.immowelt.de/expose/06245af3-e6e1-4be9-aa49-6369ed9b8c8d,2767,"Gnadental,  Neuss - Gnadental (41468)",85
+Holzheim, Neuss (41472),769.000 4.104,7 Zimmer,"187,4 m²",347 m² Grundstuck,https://www.immowelt.de/expose/c1586e94-da74-4fae-b9eb-514807f4130f,2767,"Holzheim,  Neuss (41472)",139
+Innenstadt, Neuss (41460),169.000 3.314,2 Zimmer,51 m²,1. Geschoss,https://www.immowelt.de/expose/0dd51bc8-27f3-4253-98d1-e63e4db8c523,2767,"Innenstadt,  Neuss (41460)",655
+Vogelsang, Neuss (41462),395.000 4.247,4 Zimmer,93 m²,564 m² Grundstuck,https://www.immowelt.de/expose/479aa475-8eb2-4553-84f3-bc0f635750e5,2767,"Vogelsang,  Neuss (41462)",164
+Holzheim, Neuss (41472),469.000 3.212,5 Zimmer,146 m²,350 m² Grundstuck,https://www.immowelt.de/expose/c54d3a4c-d96e-4de4-90cb-2ec8c2c26bf4,2767,"Holzheim,  Neuss (41472)",139
+Norf, Neuss (41469),497.300 3.739,4 Zimmer,133 m²,300 m² Grundstuck,https://www.immowelt.de/expose/66f2ddc3-048d-4243-8d84-d1e3bdff931a,2767,"Norf,  Neuss (41469)",212
+Grimlinghausen, Neuss (41468),495.900 3.397,5 Zimmer,146 m²,350 m² Grundstuck,https://www.immowelt.de/expose/be9b08f4-c08d-42f2-be55-4ef44913f9b6,2767,"Grimlinghausen,  Neuss (41468)",127
+Pomona, Neuss (41464),638.200 3.940,6 Zimmer,162 m²,400 m² Grundstuck,https://www.immowelt.de/expose/4ef7f799-0250-4b2d-9550-24c97febaf2f,2767,"Pomona,  Neuss (41464)",141
+Barbaraviertel, Neuss (41460),480.000 3.288,5 Zimmer,146 m²,350 m² Grundstuck,https://www.immowelt.de/expose/e2d263cb-69fa-48b0-9084-4beb871bc119,2767,"Barbaraviertel,  Neuss (41460)",107
+Gnadental, Neuss (41468),895.000 2.640,339 m²,491 m² Grundstuck,Unknown,https://www.immowelt.de/expose/dd8c1e77-c252-42bc-b579-0ca559b7110d,2767,"Gnadental,  Neuss (41468)",149
+Pomona, Neuss (41464),979.000 2.448,15 Zimmer,400 m²,508 m² Grundstuck,https://www.immowelt.de/expose/a210fdf0-9645-430a-823d-c158d95dff35,2767,"Pomona,  Neuss (41464)",141
+Stadionviertel, Neuss (41464),149.000 3.104,1 Zimmer,48 m²,Unknown,https://www.immowelt.de/expose/b18b8c4e-f9bd-48ec-b16f-5ab8dbc34772,2767,"Stadionviertel,  Neuss (41464)",133
+GÃ¶rlitzer Str. 2-6, Neuss (41460),125.000 2.273,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/7a0b4b34-5227-4ade-b361-05081b39d424,2767,"GÃ¶rlitzer Str. 2-6,  Neuss (41460)",0
+Grimlinghausen, Neuss (41468),249.000 5.631,2 Zimmer,"44,2 m²",2. Geschoss,https://www.immowelt.de/expose/6e635245-2ad5-40bd-9c5a-0347ed807f3f,2767,"Grimlinghausen,  Neuss (41468)",127
+Grimlinghausen, Neuss (41468),259.000 6.353,2 Zimmer,"40,8 m²",3. Geschoss,https://www.immowelt.de/expose/d9e1dde3-cbc7-4596-9da1-0d1851bfc49e,2767,"Grimlinghausen,  Neuss (41468)",127
+Furth - Mitte, Neuss (41462),249.000 4.549,2 Zimmer,"54,7 m²",1. Geschoss,https://www.immowelt.de/expose/99030eb2-35a3-4207-ab35-0aea2402f5df,2767,"Furth - Mitte,  Neuss (41462)",177
+Barbaraviertel, Neuss (41460),249.000 3.931,3 Zimmer,"63,4 m²",5. Geschoss,https://www.immowelt.de/expose/fcdcb787-7fde-4676-a066-6323419f29db,2767,"Barbaraviertel,  Neuss (41460)",107
+Innenstadt, Neuss (41460),215.000 3.258,2 Zimmer,66 m²,Unknown,https://www.immowelt.de/expose/15234e6f-28c6-46f0-8122-00d7c1b1ea24,2767,"Innenstadt,  Neuss (41460)",655
+Vogelsang, Neuss (41462),165.000 3.271,2 Zimmer,"50,4 m²",3. Geschoss,https://www.immowelt.de/expose/e7fe3171-e524-45f9-9e60-e82b6eaecf51,2767,"Vogelsang,  Neuss (41462)",164
+Eichenallee 33, Neuss (41469),698.500 7.010,4 Zimmer,"134,8 m²",352 m² Grundstuck,https://www.immowelt.de/expose/105f8acc-9ec9-4e3f-a9aa-c773ead9f475,2767,"Eichenallee 33,  Neuss (41469)",112
+Hahnenweg 2, Neuss (41466),250.000 2.273,4 Zimmer,110 m²,110 m² Grundstuck,https://www.immowelt.de/expose/02205505-c2a2-48d3-8c66-bf57cc8e107d,2767,"Hahnenweg 2,  Neuss (41466)",107
+Grefrather Weg 24, Neuss (41464),280.000 2.222,6 Zimmer,126 m²,382 m² Grundstuck,https://www.immowelt.de/expose/f48122e0-f4ae-448a-a2a6-3018d1c271ec,2767,"Grefrather Weg 24,  Neuss (41464)",258
+Norf, Neuss (41469),305.000 2.103,5 Zimmer,145 m²,173 m² Grundstuck,https://www.immowelt.de/expose/f814fda7-631d-43d7-8239-fb77b63b14d6,2767,"Norf,  Neuss (41469)",212
+Rosellen, Neuss (41470),490.000 3.853,5 Zimmer,"127,2 m²",366 m² Grundstuck,https://www.immowelt.de/expose/17d86159-8141-4a1e-bbcd-01104496b38c,2767,"Rosellen,  Neuss (41470)",122
+Hamm, Dusseldorf (40221),3.590.000 9.972,9 Zimmer,360 m²,1.393 m² Grundstuck,https://www.immowelt.de/expose/412c6c4b-cf00-40d0-b544-af7fcac096f9,2767,"Hamm,  Dusseldorf (40221)",82
+Buttgen, Kaarst (41564),895.999 2.899,5 Zimmer,309 m²,460 m² Grundstuck,https://www.immowelt.de/expose/3ee05554-7b8b-4174-8ef0-507e1c10e91c,2767,"Buttgen,  Kaarst (41564)",59
+Buttgen, Kaarst (41564),485.999 6.656,1 Zimmer,73 m²,460 m² Grundstuck,https://www.immowelt.de/expose/2e310950-f9c3-4edc-8d6c-747f0ad74648,2767,"Buttgen,  Kaarst (41564)",59
+Eschendorf - Sud, Rheine (48432),690.546 4.263,7 Zimmer,162 m²,476 m² Grundstuck,https://www.immowelt.de/expose/64a3d5e0-21af-409d-9001-9034150d22ed,2784,"Eschendorf - Sud,  Rheine (48432)",0
+Eschendorf - Nord, Rheine (48429),139.000 1.813,4 Zimmer,"76,7 m²",1. Geschoss,https://www.immowelt.de/expose/3e48650d-4447-4409-a892-35ecbbb0c0ec,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Eschendorf - Sud, Rheine (48432),592.246 4.084,7 Zimmer,145 m²,482 m² Grundstuck,https://www.immowelt.de/expose/4990bc0b-979b-4886-9c0f-05196f9f16a9,2784,"Eschendorf - Sud,  Rheine (48432)",0
+Eschendorf - Sud, Rheine (48432),580.246 3.582,6 Zimmer,162 m²,446 m² Grundstuck,https://www.immowelt.de/expose/72fe40eb-7e23-4116-991d-d2e4bea947b0,2784,"Eschendorf - Sud,  Rheine (48432)",0
+Hauenhorst, Rheine (48432),220.000 2.418,91 m²,Unknown,Unknown,https://www.immowelt.de/expose/13656cc7-b4a4-4a78-849a-49f3e334d1a8,2784,"Hauenhorst,  Rheine (48432)",49
+Elte, Rheine (48432),249.000 2.841,3 Zimmer,"87,7 m²",EG,https://www.immowelt.de/expose/480f660f-c3df-4257-8d8d-78e4a6b81451,2784,"Elte,  Rheine (48432)",55
+Sudesch, Rheine (48429),378.000 4.076,3 Zimmer,"92,7 m²",1. Geschoss,https://www.immowelt.de/expose/27468d21-e595-4c15-8e23-1f1969044e54,2784,"Sudesch,  Rheine (48429)",166
+Dorenkamp - Nord, Rheine (48431),165.000 1.918,4 Zimmer,86 m²,"397,5 m² Grundstuck",https://www.immowelt.de/expose/ca00aed9-f2e5-4a82-afc4-b2b269c6ea86,2784,"Dorenkamp - Nord,  Rheine (48431)",262
+Gellendorf, Rheine (48429),Preis auf Anfrage,5 Zimmer,"125,4 m²",312 m² Grundstuck,https://www.immowelt.de/expose/d2a33105-c1cd-47b5-be39-1ce8f88f164c,2784,"Gellendorf,  Rheine (48429)",48
+Eschendorf - Nord, Rheine (48429),139.000 1.377,6 Zimmer,"100,9 m²",343 m² Grundstuck,https://www.immowelt.de/expose/465950ee-4638-42f5-9e50-f6e873fe6e2b,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Stadtberg, Rheine / Schotthock (48429),283.000 3.993,2 Zimmer,"70,9 m²",EG,https://www.immowelt.de/expose/3599f86b-bc91-4e91-8a9a-868f15889992,2784,"Stadtberg,  Rheine / Schotthock (48429)",243
+Mesum Dorf, Rheine / Mesum (48432),200.000 1.429,6 Zimmer,140 m²,773 m² Grundstuck,https://www.immowelt.de/expose/0b28c01c-8892-49d1-b8a2-8ced0dbf3ad7,2784,"Mesum Dorf,  Rheine / Mesum (48432)",26
+Eschendorf - Nord, Rheine (48429),199.000 1.491,6 Zimmer,"133,5 m²",440 m² Grundstuck,https://www.immowelt.de/expose/392b9c9a-1328-4f63-b41d-1ff9af549acd,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Innenstadt - West, Rheine (48431),450.000 1.226,367 m²,275 m² Grundstuck,Unknown,https://www.immowelt.de/expose/252d5071-b632-4875-b657-d70a3cf3d867,2784,"Innenstadt - West,  Rheine (48431)",0
+Hadubrandweg 44, Rheine (48432),480.000 998,481 m²,1.258 m² Grundstuck,Unknown,https://www.immowelt.de/expose/24c010cd-26f9-4540-b8d7-dcd5a0b86cd1,2784,"Hadubrandweg 44,  Rheine (48432)",172
+Mesum Dorf, Rheine / Mesum (48432),222.000 1.915,5 Zimmer,"115,9 m²",1. Geschoss,https://www.immowelt.de/expose/ee11c958-e6ff-4c2b-803a-afd366b7ffa2,2784,"Mesum Dorf,  Rheine / Mesum (48432)",26
+Stadtberg, Rheine (48429),189.000 2.589,3 Zimmer,73 m²,EG,https://www.immowelt.de/expose/71df93fc-065d-46ed-90dd-31e18902df75,2784,"Stadtberg,  Rheine (48429)",226
+Mesum Feld, Rheine (48432),245.000 1.207,203 m²,262 m² Grundstuck,Unknown,https://www.immowelt.de/expose/6d619123-72d6-490c-a223-4001539f2884,2784,"Mesum Feld,  Rheine (48432)",0
+Innenstadt - West, Rheine (48431),491.000 3.558,5 Zimmer,138 m²,486 m² Grundstuck,https://www.immowelt.de/expose/44b1a83d-9779-4437-99d4-902070f50aea,2784,"Innenstadt - West,  Rheine (48431)",0
+Schotthock - Ost, Rheine (48429),330.000 2.357,6 Zimmer,140 m²,1.010 m² Grundstuck,https://www.immowelt.de/expose/8404d7b5-3de1-4deb-8b7d-89b5f4cca38d,2784,"Schotthock - Ost,  Rheine (48429)",0
+Sudesch, Rheine (48429),289.000 2.299,"125,7 m²",Unknown,Unknown,https://www.immowelt.de/expose/417b1ce0-515f-40d8-a288-9056e13f1847,2784,"Sudesch,  Rheine (48429)",166
+Innenstadt - Ost, Rheine (48429),180.000 1.020,8 Zimmer,"176,5 m²",425 m² Grundstuck,https://www.immowelt.de/expose/24733a38-b875-4da2-859a-419adff937cc,2784,"Innenstadt - Ost,  Rheine (48429)",0
+Hauenhorst, Rheine (48432),159.000 2.465,3 Zimmer,"64,8 m²",3. Geschoss,https://www.immowelt.de/expose/783c6fec-84ac-4f65-b3ac-68ef1969e149,2784,"Hauenhorst,  Rheine (48432)",49
+Schotthock - West / Baarentelgen, Rheine (48429),110.000 2.204,2 Zimmer,"49,9 m²",EG,https://www.immowelt.de/expose/8956ad13-7bdf-4966-9dad-b3b98d976b2a,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+Dorenkamp - Nord, Rheine (48431),849.000 2.557,14 Zimmer,332 m²,1.671 m² Grundstuck,https://www.immowelt.de/expose/f98b53f7-866f-4034-9846-7d048c2b00b1,2784,"Dorenkamp - Nord,  Rheine (48431)",262
+Hauenhorst, Rheine (48432),220.000 2.418,91 m²,605 m² Grundstuck,Unknown,https://www.immowelt.de/expose/4f065a54-b75a-4132-ae78-39daf720b68c,2784,"Hauenhorst,  Rheine (48432)",49
+Hauenhorst, Rheine (48432),220.000 2.418,4 Zimmer,91 m²,605 m² Grundstuck,https://www.immowelt.de/expose/62c5b24a-783f-4147-b2ec-660d361e2e8a,2784,"Hauenhorst,  Rheine (48432)",49
+Gellendorf, Rheine (48429),199.000 1.748,6 Zimmer,"113,9 m²",643 m² Grundstuck,https://www.immowelt.de/expose/b25e200b-f176-4a10-beb9-51f4f9dc8142,2784,"Gellendorf,  Rheine (48429)",48
+Elte, Rheine (48432),285.000 1.889,6 Zimmer,"150,9 m²",402 m² Grundstuck,https://www.immowelt.de/expose/fee85e52-5c89-4d8a-9c13-b63d502918eb,2784,"Elte,  Rheine (48432)",55
+HÃ¶rstkamp, Rheine (48431),1.250.000 5.310,8 Zimmer,"235,4 m²",1.770 m² Grundstuck,https://www.immowelt.de/expose/32c7e565-1801-431c-a344-a6e5bc8b691d,2784,"HÃ¶rstkamp,  Rheine (48431)",0
+Innenstadt - Ost, Rheine (48429),269.000 1.842,8 Zimmer,146 m²,391 m² Grundstuck,https://www.immowelt.de/expose/651adab5-d895-4f4c-a223-8be01df4ebac,2784,"Innenstadt - Ost,  Rheine (48429)",0
+Schotthock - Ost, Rheine (48429),219.000 1.719,5 Zimmer,"127,4 m²",431 m² Grundstuck,https://www.immowelt.de/expose/8217b4ac-3e6c-4680-b362-cc2f002c0c3f,2784,"Schotthock - Ost,  Rheine (48429)",0
+Eschendorf - Sud, Rheine (48429),285.000 1.484,8 Zimmer,192 m²,733 m² Grundstuck,https://www.immowelt.de/expose/1f7e99c7-9484-4425-9b70-72b935bb1650,2784,"Eschendorf - Sud,  Rheine (48429)",0
+Schotthock - West / Baarentelgen, Rheine (48429),298.000 1.761,7 Zimmer,"169,2 m²",265 m² Grundstuck,https://www.immowelt.de/expose/7161b229-923a-4d0b-b5f8-ce978de35033,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+Eschendorf - Sud, Rheine (48429),385.000 1.618,10 Zimmer,"237,9 m²",824 m² Grundstuck,https://www.immowelt.de/expose/b9a65a45-2f66-4d4c-8f33-58d3eee3cbe5,2784,"Eschendorf - Sud,  Rheine (48429)",0
+Dorenkamp - Nord, Rheine (48431),495.000 3.180,6 Zimmer,"155,6 m²",577 m² Grundstuck,https://www.immowelt.de/expose/8288dd65-73db-43ca-9255-dc792bd015b3,2784,"Dorenkamp - Nord,  Rheine (48431)",262
+Sudesch, Rheine (48429),327.000 4.086,3 Zimmer,80 m²,frei ab sofort,https://www.immowelt.de/expose/1ce16e99-d499-49ad-ae3e-417b87a08556,2784,"Sudesch,  Rheine (48429)",166
+Sudesch, Rheine (48429),238.000 4.123,2 Zimmer,"57,7 m²",Unknown,https://www.immowelt.de/expose/493fa90f-d10c-4637-a957-1ffb10896d61,2784,"Sudesch,  Rheine (48429)",166
+Sudesch, Rheine (48429),351.000 4.091,3 Zimmer,"85,8 m²",1. Geschoss,https://www.immowelt.de/expose/77390e99-2145-4b84-80d6-7bc89f0ecc1d,2784,"Sudesch,  Rheine (48429)",166
+HÃ¶rstkamp, Rheine (48431),164.000 2.000,3 Zimmer,82 m²,4. Geschoss,https://www.immowelt.de/expose/a5cbbf5d-19f3-415d-a12d-4da22fcaa71e,2784,"HÃ¶rstkamp,  Rheine (48431)",0
+Schotthock - West / Baarentelgen, Rheine (48429),122.000 1.488,3 Zimmer,82 m²,frei ab sofort,https://www.immowelt.de/expose/31173b96-cb54-4507-b09f-1975e615254f,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+Innenstadt - West, Rheine (48431),160.000 2.603,2 Zimmer,"61,5 m²",Unknown,https://www.immowelt.de/expose/bc187369-a677-4ba1-a35f-74b3396828e1,2784,"Innenstadt - West,  Rheine (48431)",0
+Allensteiner Weg 33-35, Rheine (48431),130.000 2.054,3 Zimmer,"63,3 m²",Unknown,https://www.immowelt.de/expose/766001c8-3d68-4013-a021-70ad456b489f,2784,"Allensteiner Weg 33-35,  Rheine (48431)",158
+Schotthock - West / Baarentelgen, Rheine (48429),139.000 1.782,3 Zimmer,78 m²,Unknown,https://www.immowelt.de/expose/c10e03ba-8634-4001-a33e-f2c59db9302b,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+Mesum Feld, Rheine / Mesum (48432),469.000 1.954,8 Zimmer,240 m²,665 m² Grundstuck,https://www.immowelt.de/expose/d9b2df7d-4ee5-41d7-95e2-3db874c9273f,2784,"Mesum Feld,  Rheine / Mesum (48432)",0
+Gellendorf, Rheine (48429),415.000 1.895,6 Zimmer,219 m²,633 m² Grundstuck,https://www.immowelt.de/expose/cdcc9b1e-08a1-4a21-97c6-8394b6c24eee,2784,"Gellendorf,  Rheine (48429)",48
+Eschendorf - Nord, Rheine (48429),235.000 2.181,4 Zimmer,"107,7 m²",379 m² Grundstuck,https://www.immowelt.de/expose/676e474d-6c28-4422-857f-727f346eedba,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Wietesch, Rheine (48431),320.000 2.560,5 Zimmer,125 m²,450 m² Grundstuck,https://www.immowelt.de/expose/654153b2-e6b0-432d-a04d-20510b0b019d,2784,"Wietesch,  Rheine (48431)",153
+Wietesch, Rheine (48431),225.000 2.744,5 Zimmer,82 m²,595 m² Grundstuck,https://www.immowelt.de/expose/1607c5fb-0ffb-4700-9bf9-e9a859c0ff34,2784,"Wietesch,  Rheine (48431)",153
+Dorenkamp - Nord, Rheine / Dutum (48431),795.000 3.664,7 Zimmer,217 m²,1.076 m² Grundstuck,https://www.immowelt.de/expose/c97d9836-d19c-4972-aca5-4e245a9e5166,2784,"Dorenkamp - Nord,  Rheine / Dutum (48431)",317
+Dorenkamp - Sud, Rheine (48431),163.000 3.105,2 Zimmer,"52,5 m²",Unknown,https://www.immowelt.de/expose/6cef5386-cafd-4dde-a9b5-c2bfb8924145,2784,"Dorenkamp - Sud,  Rheine (48431)",0
+Eschendorf - Nord, Rheine (48429),300.000 2.443,5 Zimmer,"122,8 m²",464 m² Grundstuck,https://www.immowelt.de/expose/c50e55a2-3ab1-4654-b9cc-9f6eda2491b8,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Hauenhorst, Rheine (48432),489.000 2.593,7 Zimmer,"188,6 m²","642,4 m² Grundstuck",https://www.immowelt.de/expose/a52e9418-689f-48cd-a556-2f4db45de2de,2784,"Hauenhorst,  Rheine (48432)",49
+Sudesch, Rheine (48431),575.000 3.912,4 Zimmer,147 m²,EG,https://www.immowelt.de/expose/4f942ec5-08be-4130-b896-c1692480415a,2784,"Sudesch,  Rheine (48431)",166
+Bevergerner Str. 32, Rheine (48429),260.000 3.291,3 Zimmer,79 m²,1. Geschoss,https://www.immowelt.de/expose/d07accf1-92a5-490c-841f-c163ef25f553,2784,"Bevergerner Str. 32,  Rheine (48429)",336
+Stadtberg, Rheine (48429),150.000 1.136,6 Zimmer,132 m²,243 m² Grundstuck,https://www.immowelt.de/expose/32f77a90-cddb-4d4d-9900-5baf33aa8f0b,2784,"Stadtberg,  Rheine (48429)",226
+Eschendorf - Sud, Rheine / Eschendorf (48429),290.000 2.148,6 Zimmer,135 m²,355 m² Grundstuck,https://www.immowelt.de/expose/77757cea-ba08-4305-99ee-991072224409,2784,"Eschendorf - Sud,  Rheine / Eschendorf (48429)",0
+Eschendorf - Nord, Rheine (48429),990.000 1.036,42 Zimmer,"955,2 m²",2.682 m² Grundstuck,https://www.immowelt.de/expose/87b7518b-d64f-41d2-be28-66cdc7f8c3ab,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Mesum Feld, Rheine (48432),265.000 2.581,4 Zimmer,"102,7 m²",585 m² Grundstuck,https://www.immowelt.de/expose/c590f4e4-fe7a-4bc3-af44-7d455f69880c,2784,"Mesum Feld,  Rheine (48432)",0
+Schotthock - Ost, Rheine (48429),385.000 2.702,4 Zimmer,"142,5 m²",490 m² Grundstuck,https://www.immowelt.de/expose/568eecb8-c44a-4355-abf5-389320fcb5cf,2784,"Schotthock - Ost,  Rheine (48429)",0
+Gellendorf, Rheine (48429),395.000 2.297,8 Zimmer,172 m²,598 m² Grundstuck,https://www.immowelt.de/expose/f5a663d7-eecb-41ec-8a05-b847ee577e55,2784,"Gellendorf,  Rheine (48429)",48
+Eschendorf - Nord, Rheine (48429),315.000 3.176,4 Zimmer,"99,2 m²",713 m² Grundstuck,https://www.immowelt.de/expose/ca95eb37-57b3-4410-9328-35ea18e50906,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Rodde / Kanalhafen, Rheine (48432),289.000 1.806,5 Zimmer,160 m²,796 m² Grundstuck,https://www.immowelt.de/expose/a714d9c7-5b70-4008-b174-d30f399ce2c4,2784,"Rodde / Kanalhafen,  Rheine (48432)",37
+Schotthock - West / Baarentelgen, Rheine (48429),449.000 3.326,3 Zimmer,135 m²,561 m² Grundstuck,https://www.immowelt.de/expose/adaea96c-44b1-40d5-a665-b3b7ed95da18,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+Elte, Rheine (48432),529.000 2.405,4 Zimmer,220 m²,1.600 m² Grundstuck,https://www.immowelt.de/expose/10a9b141-c7ab-401f-8c1c-62f6eddf11c3,2784,"Elte,  Rheine (48432)",55
+Schotthock - Ost, Rheine (48429),399.000 3.410,4 Zimmer,117 m²,365 m² Grundstuck,https://www.immowelt.de/expose/bf3001a5-9b48-4f7a-b9be-da27bc27743a,2784,"Schotthock - Ost,  Rheine (48429)",0
+Dorenkamp - Sud, Rheine (48431),339.000 1.625,5 Zimmer,"208,7 m²",625 m² Grundstuck,https://www.immowelt.de/expose/8a0e5ddf-09e1-40f9-bd32-fe42a7ed7b57,2784,"Dorenkamp - Sud,  Rheine (48431)",0
+Sudesch, Rheine (48429),480.000 1.853,8 Zimmer,259 m²,516 m² Grundstuck,https://www.immowelt.de/expose/9592b000-aff5-4cd1-8310-d18d9eb66884,2784,"Sudesch,  Rheine (48429)",166
+Schotthock - Ost, Rheine (48429),199.000 2.326,3 Zimmer,"85,6 m²",241 m² Grundstuck,https://www.immowelt.de/expose/2eb2a147-7d25-41e1-8c74-c52ffd0d6b8f,2784,"Schotthock - Ost,  Rheine (48429)",0
+HÃ¶rstkamp, Rheine (48431),190.000 3.065,2 Zimmer,62 m²,1. Geschoss,https://www.immowelt.de/expose/57bf1804-6b66-4758-b80b-436b860943aa,2784,"HÃ¶rstkamp,  Rheine (48431)",0
+Eschendorf - Sud, Rheine (48432),590.239 3.643,6 Zimmer,162 m²,439 m² Grundstuck,https://www.immowelt.de/expose/bce7760a-07cb-45cd-85fa-c0285597e644,2784,"Eschendorf - Sud,  Rheine (48432)",0
+Eschendorf - Sud, Rheine (48432),660.509 4.028,7 Zimmer,164 m²,492 m² Grundstuck,https://www.immowelt.de/expose/13c45f11-7453-4a2b-b493-e776b7b7a4ea,2784,"Eschendorf - Sud,  Rheine (48432)",0
+Schotthock - West / Baarentelgen, Rheine (48429),179.000 1.884,5 Zimmer,95 m²,442 m² Grundstuck,https://www.immowelt.de/expose/6ece2bfa-851c-4bdf-ac23-c8a63449e879,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+Dorenkamp - Nord, Rheine (48431),750.000 2.252,12 Zimmer,333 m²,602 m² Grundstuck,https://www.immowelt.de/expose/33550bf0-ede0-4710-8005-117bb52c5e1c,2784,"Dorenkamp - Nord,  Rheine (48431)",262
+Elte, Rheine / Elte (48432),330.000 2.115,5 Zimmer,156 m²,650 m² Grundstuck,https://www.immowelt.de/expose/5a50fe89-53e7-4740-9eb9-983d54e2eae7,2784,"Elte,  Rheine / Elte (48432)",55
+Bentlage, Rheine (48431),149.000 1.419,5 Zimmer,105 m²,Unknown,https://www.immowelt.de/expose/56255c38-e997-45ae-b9c5-bafbaef3086b,2784,"Bentlage,  Rheine (48431)",22
+Schotthock - Ost, Rheine (48429),159.000 1.332,6 Zimmer,"119,3 m²",484 m² Grundstuck,https://www.immowelt.de/expose/aabf8f0b-b6d0-4717-909e-15ecafd4aa76,2784,"Schotthock - Ost,  Rheine (48429)",0
+Stadtberg, Rheine (48429),649.000 2.189,12 Zimmer,"296,5 m²",387 m² Grundstuck,https://www.immowelt.de/expose/1d728dc7-26e3-4026-8f64-2e8e0fbd0791,2784,"Stadtberg,  Rheine (48429)",226
+Eschendorf - Nord, Rheine (48429),445.000 1.639,12 Zimmer,"278,9 m²",612 m² Grundstuck,https://www.immowelt.de/expose/f82c4d4e-751a-4982-9003-a2c739fbe706,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Mesum Dorf, Rheine (48432),300.000 2.586,116 m²,Unknown,Unknown,https://www.immowelt.de/expose/248fdfaf-240a-4f1e-9b8a-3fef6ebc2cc8,2784,"Mesum Dorf,  Rheine (48432)",148
+Mesum Dorf, Rheine (48432),300.000 2.586,116 m²,278 m² Grundstuck,Unknown,https://www.immowelt.de/expose/f67e843f-1ce3-45f1-8e22-c0200b36c6f2,2784,"Mesum Dorf,  Rheine (48432)",148
+Mesum Dorf, Rheine (48432),300.000 2.586,5 Zimmer,116 m²,278 m² Grundstuck,https://www.immowelt.de/expose/7fa0f59f-2035-4328-bd2f-f27fe490e872,2784,"Mesum Dorf,  Rheine (48432)",148
+Stadtberg, Rheine (48429),198.000 1.165,6 Zimmer,170 m²,639 m² Grundstuck,https://www.immowelt.de/expose/7c4de71a-032d-4982-97db-31073a1284f6,2784,"Stadtberg,  Rheine (48429)",226
+Innenstadt - Ost, Rheine (48431),381.000 4.703,2 Zimmer,81 m²,1. Geschoss,https://www.immowelt.de/expose/4a0091f5-ce16-4798-9d3d-04480f018ff1,2784,"Innenstadt - Ost,  Rheine (48431)",0
+Innenstadt - Ost, Rheine (48431),623.000 4.950,3 Zimmer,"125,9 m²",1. Geschoss,https://www.immowelt.de/expose/def0add4-1077-4e8a-80e5-b2141ffa25b4,2784,"Innenstadt - Ost,  Rheine (48431)",0
+Innenstadt - Ost, Rheine (48431),545.000 4.701,3 Zimmer,"115,9 m²",1. Geschoss,https://www.immowelt.de/expose/029c17e1-9ace-43e1-b525-c45fd16b62af,2784,"Innenstadt - Ost,  Rheine (48431)",0
+Innenstadt - Ost, Rheine (48431),554.000 4.701,3 Zimmer,"117,9 m²",1. Geschoss,https://www.immowelt.de/expose/4b2cb8e2-3939-4482-b586-97568eecedd2,2784,"Innenstadt - Ost,  Rheine (48431)",0
+Innenstadt - West, Rheine (48431),301.000 4.503,2 Zimmer,"66,9 m²",1. Geschoss,https://www.immowelt.de/expose/1d144183-d7b2-47bb-bcd9-e3e337643e76,2784,"Innenstadt - West,  Rheine (48431)",0
+Innenstadt - Ost, Rheine (48431),446.000 4.606,3 Zimmer,"96,8 m²",1. Geschoss,https://www.immowelt.de/expose/5b927679-b923-4920-a0ff-27afa4936129,2784,"Innenstadt - Ost,  Rheine (48431)",0
+Innenstadt - Ost, Rheine (48431),470.000 4.606,3 Zimmer,102 m²,1. Geschoss,https://www.immowelt.de/expose/d006b9c7-823e-4d85-8c6d-073c22590972,2784,"Innenstadt - Ost,  Rheine (48431)",0
+Innenstadt - Ost, Rheine (48431),466.000 4.603,3 Zimmer,"101,2 m²",1. Geschoss,https://www.immowelt.de/expose/d068dbcb-1bf0-4457-977c-bab90cdbedb5,2784,"Innenstadt - Ost,  Rheine (48431)",0
+Innenstadt - Ost, Rheine (48431),267.000 4.513,2 Zimmer,"59,2 m²",1. Geschoss,https://www.immowelt.de/expose/02e832bf-c079-451c-a86a-31c4ca82d6e1,2784,"Innenstadt - Ost,  Rheine (48431)",0
+Innenstadt - Ost, Rheine (48431),516.000 4.957,3 Zimmer,"104,1 m²",1. Geschoss,https://www.immowelt.de/expose/e0eef4da-5d19-46cc-b7f7-72097d5873e0,2784,"Innenstadt - Ost,  Rheine (48431)",0
+Dorenkamp - Sud, Rheine (48431),499.000 2.803,7 Zimmer,178 m²,330 m² Grundstuck,https://www.immowelt.de/expose/88082137-e4ed-4ece-9493-d507933c63eb,2784,"Dorenkamp - Sud,  Rheine (48431)",0
+Dorenkamp - Sud, Rheine (48431),499.000 2.803,7 Zimmer,178 m²,330 m² Grundstuck,https://www.immowelt.de/expose/19c8489a-ac4c-4691-ae2f-ac1e473d4a46,2784,"Dorenkamp - Sud,  Rheine (48431)",0
+Schleupe, Rheine (48431),449.000 1.841,8 Zimmer,244 m²,837 m² Grundstuck,https://www.immowelt.de/expose/1182396e-d89c-4dc8-8276-db6ad20479b9,2784,"Schleupe,  Rheine (48431)",207
+Eschendorf - Nord, Rheine (48429),239.000 1.672,6 Zimmer,143 m²,457 m² Grundstuck,https://www.immowelt.de/expose/f4b53616-da69-415b-925e-726ccca21ef6,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Innenstadt - Ost, Rheine (48429),340.000 3.334,3 Zimmer,102 m²,2. Geschoss,https://www.immowelt.de/expose/3d59031b-0c5e-4960-bf24-78a706a29cef,2784,"Innenstadt - Ost,  Rheine (48429)",0
+Innenstadt - Ost, Rheine (48429),310.000 2.385,5 Zimmer,130 m²,261 m² Grundstuck,https://www.immowelt.de/expose/8a226029-e10a-4fd6-b7a8-e10ea6acc9f5,2784,"Innenstadt - Ost,  Rheine (48429)",0
+Hauenhorst, Rheine / Hauenhorst (48432),320.000 2.936,3 Zimmer,109 m²,Unknown,https://www.immowelt.de/expose/e3beea42-8f7c-452c-95c2-22f3bee17264,2784,"Hauenhorst,  Rheine / Hauenhorst (48432)",3
+HÃ¶rstkamp, Rheine (48431),370.000 1.709,6 Zimmer,"216,5 m²",404 m² Grundstuck,https://www.immowelt.de/expose/a984dc1b-1b83-4259-b402-ebec2066e903,2784,"HÃ¶rstkamp,  Rheine (48431)",0
+Dorenkamp - Nord, Rheine (48431),195.000 1.360,7 Zimmer,"143,4 m²",209 m² Grundstuck,https://www.immowelt.de/expose/02708ed8-9920-47b7-afd6-8e7ac97ec8b2,2784,"Dorenkamp - Nord,  Rheine (48431)",262
+Schleupe, Rheine (48431),395.000 2.107,8 Zimmer,"187,5 m²",699 m² Grundstuck,https://www.immowelt.de/expose/1b67feb4-1c56-4719-9b1a-276c12956e46,2784,"Schleupe,  Rheine (48431)",207
+Wietesch, Rheine (48431),360.000 3.273,4 Zimmer,110 m²,EG,https://www.immowelt.de/expose/a62fc64b-a6ad-455d-a82b-78190beed4a0,2784,"Wietesch,  Rheine (48431)",153
+Eschendorf - Nord, Rheine (48429),259.000 1.666,6 Zimmer,"155,5 m²",506 m² Grundstuck,https://www.immowelt.de/expose/9767a84e-2130-47a5-9812-a898b7cbbe7b,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Rodde / Kanalhafen, Rheine (48432),179000,3 Zimmer,1.901 m² Grundstuck,Unknown,https://www.immowelt.de/expose/d3569fc2-4b4c-4d1f-83fa-0f81333868f1,2784,"Rodde / Kanalhafen,  Rheine (48432)",37
+Stadtberg, Rheine (48429),179.000 1.751,5 Zimmer,"102,3 m²",160 m² Grundstuck,https://www.immowelt.de/expose/c1da374f-37c7-4ff2-896c-dd4f3e3abd92,2784,"Stadtberg,  Rheine (48429)",226
+HÃ¶rstkamp, Rheine (48431),160.000 2.909,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/ac5cb05b-6e32-4e27-9997-2b42db9d86b7,2784,"HÃ¶rstkamp,  Rheine (48431)",0
+Innenstadt - West, Rheine (48431),165.000 2.063,3 Zimmer,80 m²,4. Geschoss,https://www.immowelt.de/expose/6af71f52-53b8-4fe0-96d1-3b5a4968c9c5,2784,"Innenstadt - West,  Rheine (48431)",0
+Schotthock - West / Baarentelgen, Rheine (48429),168.500 1.990,3 Zimmer,"84,7 m²",1. Geschoss,https://www.immowelt.de/expose/1e49e9ee-3e1b-4d6b-8548-b9371dda5188,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+Schotthock - West / Baarentelgen, Rheine (48429),405.000 2.158,7 Zimmer,"187,7 m²",596 m² Grundstuck,https://www.immowelt.de/expose/3f0b39fd-728b-4d67-8446-1b0e807ac802,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+Innenstadt - Ost, Rheine (48429),342.000 2.426,8 Zimmer,141 m²,308 m² Grundstuck,https://www.immowelt.de/expose/5e94eb34-78b0-4a44-a0b5-5effd3302d8b,2784,"Innenstadt - Ost,  Rheine (48429)",0
+Innenstadt - Ost, Rheine (48429),1.450.000 5.070,7 Zimmer,286 m²,2.540 m² Grundstuck,https://www.immowelt.de/expose/2bf75e5e-f347-444e-9a34-fe88c264e296,2784,"Innenstadt - Ost,  Rheine (48429)",0
+Wadelheim, Rheine (48431),319.000 2.346,9 Zimmer,136 m²,636 m² Grundstuck,https://www.immowelt.de/expose/a2d7c15d-4121-4d4a-b133-96a94de0bdf3,2784,"Wadelheim,  Rheine (48431)",53
+Wietesch, Rheine (48431),289.000 4.568,2 Zimmer,"63,3 m²",EG,https://www.immowelt.de/expose/795d1ed9-ae3e-4395-a2c3-bc947bf90185,2784,"Wietesch,  Rheine (48431)",153
+Wietesch, Rheine (48431),320.000 4.474,2 Zimmer,"71,5 m²",EG,https://www.immowelt.de/expose/7e7b845b-2bb6-4a74-a6f0-55a40a170df2,2784,"Wietesch,  Rheine (48431)",153
+Wadelheim, Rheine (48431),320.000 2.604,5 Zimmer,"122,9 m²",247 m² Grundstuck,https://www.immowelt.de/expose/1a0e5e8b-28dd-4b6b-b190-2bb6b79a8f0e,2784,"Wadelheim,  Rheine (48431)",53
+Dorenkamp - Sud, Rheine (48431),230.000 1.998,"5,5 Zimmer","115,1 m²",705 m² Grundstuck,https://www.immowelt.de/expose/959d7de7-5316-4ec1-bdc4-7ff3dbd39563,2784,"Dorenkamp - Sud,  Rheine (48431)",0
+Stadtberg, Rheine (48429),259.000 1.570,6 Zimmer,165 m²,412 m² Grundstuck,https://www.immowelt.de/expose/eab503b7-beb5-47b2-b9f2-5f27388282c1,2784,"Stadtberg,  Rheine (48429)",226
+Dutum, Rheine (48431),339.000 2.565,5 Zimmer,"132,2 m²",1.007 m² Grundstuck,https://www.immowelt.de/expose/f993c4fa-2958-4daf-bb98-05d96fb3cbb1,2784,"Dutum,  Rheine (48431)",135
+Stadtberg, Rheine / Eschendorf (48429),550.000 3.748,5 Zimmer,"146,8 m²",326 m² Grundstuck,https://www.immowelt.de/expose/010cdc8f-75b7-489a-af07-f0fb92ea6205,2784,"Stadtberg,  Rheine / Eschendorf (48429)",243
+Stadtberg, Rheine / Schotthock (48429),313.000 3.918,3 Zimmer,"79,9 m²",1. Geschoss,https://www.immowelt.de/expose/f315724e-f4bd-4ff8-af05-e93bf4e530d1,2784,"Stadtberg,  Rheine / Schotthock (48429)",243
+Dorenkamp - Nord, Rheine (48431),1.200.000 3.209,374 m²,664 m² Grundstuck,Unknown,https://www.immowelt.de/expose/f950fcbf-81c2-4688-910d-83c08e04762a,2784,"Dorenkamp - Nord,  Rheine (48431)",262
+Dorenkamp - Sud, Rheine (48431),197.000 1.775,6 Zimmer,111 m²,232 m² Grundstuck,https://www.immowelt.de/expose/21c1e216-2f65-47d9-b5c5-d0d47608ab23,2784,"Dorenkamp - Sud,  Rheine (48431)",0
+Stadtberg, Rheine (48429),395.000 2.021,7 Zimmer,"195,5 m²",572 m² Grundstuck,https://www.immowelt.de/expose/946e58a6-0672-4638-80cb-81568febe9bf,2784,"Stadtberg,  Rheine (48429)",226
+Eschendorf - Nord, Rheine (48429),275.000 2.114,5 Zimmer,"130,1 m²",482 m² Grundstuck,https://www.immowelt.de/expose/99a015bb-1526-4257-80cc-ec4be4814fa9,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Schotthock - West / Baarentelgen, Rheine (48429),221.000 2.318,3 Zimmer,"95,3 m²",EG,https://www.immowelt.de/expose/8eb4bee3-1e53-4083-83be-9b5d43f6b695,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+Schotthock - West / Baarentelgen, Rheine (48429),239.000 2.437,2 Zimmer,"98,1 m²",EG,https://www.immowelt.de/expose/9845f54d-a702-41f6-b9ea-701bddeeb4af,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+Sudesch, Rheine (48429),326.000 3.816,3 Zimmer,"85,4 m²",Unknown,https://www.immowelt.de/expose/226c5633-6c11-4266-a4c4-20d5c1b53113,2784,"Sudesch,  Rheine (48429)",166
+Sudesch, Rheine (48429),231.000 4.025,2 Zimmer,"57,4 m²",Unknown,https://www.immowelt.de/expose/6f80bc2b-d5fe-4d12-a5cc-0d6bde76d21c,2784,"Sudesch,  Rheine (48429)",166
+Sudesch, Rheine (48429),1.360.000 3.002,453 m²,886 m² Grundstuck,Unknown,https://www.immowelt.de/expose/9845165a-30ff-4f73-a51c-31136e7670ee,2784,"Sudesch,  Rheine (48429)",166
+Eschendorf - Nord, Rheine / Eschendorf (48429),165.000 1.435,5 Zimmer,115 m²,339 m² Grundstuck,https://www.immowelt.de/expose/c3702d3c-e3ef-40f3-ae18-cadefb5c8a99,2784,"Eschendorf - Nord,  Rheine / Eschendorf (48429)",164
+Gellendorf, Rheine / Gellendorf (48432),399.960 3.389,4 Zimmer,118 m²,354 m² Grundstuck,https://www.immowelt.de/expose/601061e4-d6bf-43df-aafa-ff2466f8b2a1,2784,"Gellendorf,  Rheine / Gellendorf (48432)",25
+HÃ¶rstkamp, Rheine (48431),129.000 1.817,3 Zimmer,71 m²,1. Geschoss,https://www.immowelt.de/expose/5434784d-f5fb-44d6-8773-fe53c120d167,2784,"HÃ¶rstkamp,  Rheine (48431)",0
+Stadtberg, Rheine / Schotthock (48429),278.000 3.923,2 Zimmer,"70,9 m²",1. Geschoss,https://www.immowelt.de/expose/bdf66f3d-ef7c-4793-8d7d-59cc52a0eec0,2784,"Stadtberg,  Rheine / Schotthock (48429)",243
+Schotthock - Ost, Rheine (48429),485.875 3.374,5 Zimmer,144 m²,501 m² Grundstuck,https://www.immowelt.de/expose/00256b21-086e-4285-8943-803745139bf7,2784,"Schotthock - Ost,  Rheine (48429)",0
+Schotthock - Ost, Rheine (48429),523.698 3.294,5 Zimmer,159 m²,512 m² Grundstuck,https://www.immowelt.de/expose/93614cfe-b30e-422a-8234-4eb8927a24a6,2784,"Schotthock - Ost,  Rheine (48429)",0
+Altenrheine, Rheine (48429),344.568 3.161,4 Zimmer,109 m²,388 m² Grundstuck,https://www.immowelt.de/expose/6bf0fad7-1846-45b3-8281-54ef103ee2bc,2784,"Altenrheine,  Rheine (48429)",46
+Sudesch, Rheine (48432),568.562 3.124,5 Zimmer,182 m²,455 m² Grundstuck,https://www.immowelt.de/expose/45ca5daf-54c0-4935-b2d9-4c145fa46671,2784,"Sudesch,  Rheine (48432)",166
+Dutum, Rheine (48432),471.358 4.209,4 Zimmer,112 m²,521 m² Grundstuck,https://www.immowelt.de/expose/993da6a9-2636-460c-8a28-c993aed51c00,2784,"Dutum,  Rheine (48432)",135
+Dutum, Rheine (48432),445.621 3.326,5 Zimmer,134 m²,525 m² Grundstuck,https://www.immowelt.de/expose/00f140ab-af7c-4aa8-a694-3c5055938e00,2784,"Dutum,  Rheine (48432)",135
+Schleupe, Rheine / Dorenkamp (48431),349.000 1.992,6 Zimmer,"175,2 m²",353 m² Grundstuck,https://www.immowelt.de/expose/43f5a570-60e0-47a7-ba3e-56430770b86c,2784,"Schleupe,  Rheine / Dorenkamp (48431)",249
+Schotthock - West / Baarentelgen, Rheine (48429),765.000 4.081,6 Zimmer,"187,5 m²",1.288 m² Grundstuck,https://www.immowelt.de/expose/5a5b5942-f475-402b-8deb-047995d68527,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+SchÃ¶neberg, Rheine (48429),225.000 1.875,5 Zimmer,120 m²,340 m² Grundstuck,https://www.immowelt.de/expose/5e1e2045-3fec-4ab1-8687-258cbea3db40,2784,"SchÃ¶neberg,  Rheine (48429)",0
+HÃ¶rstkamp, Rheine (48431),179.000 2.387,2 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/372a7b11-8a24-484a-bbc6-8866e128c305,2784,"HÃ¶rstkamp,  Rheine (48431)",0
+Eschendorf - Nord, Rheine (48429),820.000 1.661,21 Zimmer,"493,6 m²",756 m² Grundstuck,https://www.immowelt.de/expose/02d6d562-6e9d-4797-b748-5790242f9266,2784,"Eschendorf - Nord,  Rheine (48429)",206
+Sudesch, Rheine / Eschendorf (48429),215.000 2.529,3 Zimmer,85 m²,280 m² Grundstuck,https://www.immowelt.de/expose/718e9ecd-a4de-44a2-8d9f-910f5b823aa8,2784,"Sudesch,  Rheine / Eschendorf (48429)",166
+Schotthock - West / Baarentelgen, Rheine (48429),149.000 1.854,4 Zimmer,"80,4 m²",127 m² Grundstuck,https://www.immowelt.de/expose/f566192f-c10b-4ae9-b4b4-acef4097a753,2784,"Schotthock - West / Baarentelgen,  Rheine (48429)",0
+Wadelheim, Rheine / Wadelheim (48432),299.000 2.646,5 Zimmer,113 m²,241 m² Grundstuck,https://www.immowelt.de/expose/56d66210-de1b-449d-8c71-11ae2f5b9ebb,2784,"Wadelheim,  Rheine / Wadelheim (48432)",0
+Mesum Dorf, Rheine (48432),325.000 2.793,4 Zimmer,"116,4 m²",820 m² Grundstuck,https://www.immowelt.de/expose/1d381cba-9e90-4ec2-a279-832a4519d9a5,2784,"Mesum Dorf,  Rheine (48432)",148
+Esterfeld, Meppen (49716),Preis auf Anfrage,9 Zimmer,371 m²,967 m² Grundstuck,https://www.immowelt.de/expose/179cca3a-c6cd-4d34-8ac2-91b35852ea5e,2789,"Esterfeld,  Meppen (49716)",125
+Esterfeld, Meppen (49716),195.000 2.438,2 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/a978fffa-e581-492a-9e9f-afc236402dc9,2789,"Esterfeld,  Meppen (49716)",125
+Esterfeld, Meppen (49716),450.000 2.866,7 Zimmer,157 m²,340 m² Grundstuck,https://www.immowelt.de/expose/e30298dd-f666-4ae2-bae8-8f54ea3292a9,2789,"Esterfeld,  Meppen (49716)",125
+Esterfeld, Meppen (49716),299.000 1.294,6 Zimmer,231 m²,671 m² Grundstuck,https://www.immowelt.de/expose/33269dfc-71d6-47ae-8427-c4951dafcff6,2789,"Esterfeld,  Meppen (49716)",125
+Esterfeld, Meppen / Esterfeld (49716),219.000 1.360,5 Zimmer,161 m²,801 m² Grundstuck,https://www.immowelt.de/expose/3901c050-7620-429d-8229-e591d24371a5,2789,"Esterfeld,  Meppen / Esterfeld (49716)",125
+Bokeloh, Meppen / Bokeloh (49716),269.000 1.724,6 Zimmer,156 m²,742 m² Grundstuck,https://www.immowelt.de/expose/1381d388-0165-435c-ac73-8b8668a29033,2789,"Bokeloh,  Meppen / Bokeloh (49716)",21
+Esterfeld, Meppen (49716),1.499.000 4.789,8 Zimmer,313 m²,1.786 m² Grundstuck,https://www.immowelt.de/expose/a9e722e2-d668-4abb-855d-cf14c0894146,2789,"Esterfeld,  Meppen (49716)",125
+NÃ¶dike, Meppen - NÃ¶dike (49716),1.200.000 2.620,18 Zimmer,458 m²,841 m² Grundstuck,https://www.immowelt.de/expose/1ff284ad-f33d-4ef9-a043-29204917f3a1,2789,"NÃ¶dike,  Meppen - NÃ¶dike (49716)",0
+Teglingen, Meppen (49716),285.000 1.084,9 Zimmer,263 m²,1.641 m² Grundstuck,https://www.immowelt.de/expose/837f9417-abff-4aa2-87af-9f899aa46864,2789,"Teglingen,  Meppen (49716)",31
+Esterfeld, Meppen / Esterfeld (49716),175.000 2.431,3 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/59a214e4-ab3f-4cfc-a594-a37ef548a151,2789,"Esterfeld,  Meppen / Esterfeld (49716)",125
+Esterfeld, Meppen (49716),235.000 1.865,5 Zimmer,126 m²,583 m² Grundstuck,https://www.immowelt.de/expose/cc4717f5-9b29-4d42-83b0-22b07296b2c0,2789,"Esterfeld,  Meppen (49716)",125
+Altstadt, Meppen (49716),515.000 4.221,5 Zimmer,122 m²,Unknown,https://www.immowelt.de/expose/e1907d13-8448-433f-b87b-48da99d0cee3,2789,"Altstadt,  Meppen (49716)",213
+Hasebrink, Meppen (49716),375.000 2.155,4 Zimmer,174 m²,660 m² Grundstuck,https://www.immowelt.de/expose/e9723467-93bf-4ece-ae79-02c91fa42abe,2789,"Hasebrink,  Meppen (49716)",130
+Kuhweide, Meppen (49716),225.000 2.009,5 Zimmer,112 m²,761 m² Grundstuck,https://www.immowelt.de/expose/c77da70a-85c4-404d-a5c6-c82cb5d70dd8,2789,"Kuhweide,  Meppen (49716)",93
+Ruhle, Meppen (49716),249.000 1.509,165 m²,440 m² Grundstuck,Unknown,https://www.immowelt.de/expose/12646707-fd9a-4880-b526-084640f0691e,2789,"Ruhle,  Meppen (49716)",24
+Schwefingen, Meppen / Schwefingen (49716),269.000 1.055,8 Zimmer,255 m²,1.068 m² Grundstuck,https://www.immowelt.de/expose/0ab4a67c-3f26-48dc-b409-17299671ba11,2789,"Schwefingen,  Meppen / Schwefingen (49716)",10
+Schleusengruppe, Meppen (49716),219.000 2.988,2 Zimmer,"73,3 m²",1. Geschoss,https://www.immowelt.de/expose/d3345932-e0af-47b0-99e4-e5e63d1e4545,2789,"Schleusengruppe,  Meppen (49716)",73
+Neustadt, Meppen / Neustadt (49716),199.900 1.709,6 Zimmer,117 m²,693 m² Grundstuck,https://www.immowelt.de/expose/75e79290-624b-4cd2-8699-bf1851a41af3,2789,"Neustadt,  Meppen / Neustadt (49716)",235
+Neustadt, Meppen (49716),269.000 1.908,4 Zimmer,141 m²,439 m² Grundstuck,https://www.immowelt.de/expose/11c1c101-b301-4d4a-ab09-7616f0982537,2789,"Neustadt,  Meppen (49716)",215
+Neustadt, Meppen (49716),139.000 1.862,3 Zimmer,"74,7 m²",Unknown,https://www.immowelt.de/expose/6436e25e-9c81-4cfa-be72-b7dbccdacd44,2789,"Neustadt,  Meppen (49716)",215
+Esterfeld, Meppen (49716),465.000 2.583,7 Zimmer,180 m²,618 m² Grundstuck,https://www.immowelt.de/expose/101037cd-54c4-4ed7-b393-c5b36bff865a,2789,"Esterfeld,  Meppen (49716)",125
+Esterfeld, Meppen (49716),98.000 1.782,2 Zimmer,55 m²,2. Geschoss,https://www.immowelt.de/expose/caabf907-6668-4633-a26a-c1d18e36d454,2789,"Esterfeld,  Meppen (49716)",125
+Altstadt, Meppen (49716),Preis auf Anfrage,122 m²,1.185 m² Grundstuck,Unknown,https://www.immowelt.de/expose/6d3e7234-f9fd-4822-b6e3-8e7afa07e6f3,2789,"Altstadt,  Meppen (49716)",213
+NÃ¶dike, Meppen (49716),267.000 1.571,6 Zimmer,170 m²,534 m² Grundstuck,https://www.immowelt.de/expose/969edc53-1003-48fe-8dd0-582c69884c43,2789,"NÃ¶dike,  Meppen (49716)",0
+Hafenstr. 19, Meppen (49716),472.000 4.154,4 Zimmer,"113,6 m²",3. Geschoss,https://www.immowelt.de/expose/791b8c3e-c346-4eaa-8234-39843387d8fc,2789,"Hafenstr. 19,  Meppen (49716)",228
+Hafenstr. 19, Meppen (49716),242.000 3.647,2 Zimmer,"66,4 m²",2. Geschoss,https://www.immowelt.de/expose/3f5a68a6-ba42-41bc-b155-891654c28711,2789,"Hafenstr. 19,  Meppen (49716)",228
+Altstadt, Meppen (49716),498.000 4.082,4 Zimmer,122 m²,Unknown,https://www.immowelt.de/expose/65019d8e-d99d-43bb-ae7d-4db64c5cd182,2789,"Altstadt,  Meppen (49716)",213
+Altstadt, Meppen (49716),529.000 4.266,5 Zimmer,124 m²,Unknown,https://www.immowelt.de/expose/598a999b-a428-457b-8b89-f56b5526204d,2789,"Altstadt,  Meppen (49716)",213
+Bokeloh, Meppen (49716),359.000 1.889,7 Zimmer,190 m²,678 m² Grundstuck,https://www.immowelt.de/expose/2ff584ba-58d5-4e87-a595-b32d4206be41,2789,"Bokeloh,  Meppen (49716)",26
+Esterfeld, Meppen - Esterfeld (49716),169.000 2.800,2 Zimmer,"60,4 m²",2. Geschoss,https://www.immowelt.de/expose/b2fd615c-c97b-4139-ad88-c88e64ad0852,2789,"Esterfeld,  Meppen - Esterfeld (49716)",125
+Neustadt, Meppen - Neustadt (49716),149.000 2.346,2 Zimmer,"63,5 m²",Unknown,https://www.immowelt.de/expose/6b751b54-0c07-4605-b5f3-e75e8d25f825,2789,"Neustadt,  Meppen - Neustadt (49716)",235
+Esterfeld, Meppen (49716),229.500 3.101,3 Zimmer,74 m²,Unknown,https://www.immowelt.de/expose/f8bb0bf2-2c9c-4871-b097-b69549b525da,2789,"Esterfeld,  Meppen (49716)",125
+Borken, Meppen (49716),245.000 2.188,5 Zimmer,112 m²,548 m² Grundstuck,https://www.immowelt.de/expose/aa3b8d68-464d-4047-8900-dee7b3eb2c92,2789,"Borken,  Meppen (49716)",26
+Bokeloh, Meppen - Bokeloh (49716),Preis auf Anfrage,4 Zimmer,127 m²,1.100 m² Grundstuck,https://www.immowelt.de/expose/a0fff738-4534-4626-9943-473e7e6b8150,2789,"Bokeloh,  Meppen - Bokeloh (49716)",21
+Versen, Meppen / Versen (49716),249.000 1.554,8 Zimmer,"160,3 m²",803 m² Grundstuck,https://www.immowelt.de/expose/b3b0389b-e40c-43d3-85a4-97063a85f28d,2789,"Versen,  Meppen / Versen (49716)",8
+Neustadt, Meppen (49716),225.000 1.406,7 Zimmer,160 m²,799 m² Grundstuck,https://www.immowelt.de/expose/f034a63c-802b-4d9d-993f-5e5598c86f6a,2789,"Neustadt,  Meppen (49716)",215
+Neustadt, Meppen (49716),184.500 1.538,5 Zimmer,120 m²,213 m² Grundstuck,https://www.immowelt.de/expose/371475a1-fe49-49b1-bbbe-1b48a7bd33b8,2789,"Neustadt,  Meppen (49716)",215
+Neustadt, Meppen (49716),1.750.000 1.557,1.124 m²,1.588 m² Grundstuck,Unknown,https://www.immowelt.de/expose/b978994e-a484-4626-83db-3b3331c20e35,2789,"Neustadt,  Meppen (49716)",215
+Neustadt, Meppen (49716),1.750.000 1.514,1.156 m²,1.588 m² Grundstuck,Unknown,https://www.immowelt.de/expose/49e441c6-66b4-45a9-81e9-adc7c9aea613,2789,"Neustadt,  Meppen (49716)",215
+Esterfeld, Meppen (49716),399.000 3.476,4 Zimmer,"114,8 m²",377 m² Grundstuck,https://www.immowelt.de/expose/7e9a64b8-dd2f-4a8e-bace-d8464783dab1,2789,"Esterfeld,  Meppen (49716)",125
+Neustadt, Meppen (49716),Preis auf Anfrage,2 Zimmer,"59,1 m²",frei ab 01.03.2025,https://www.immowelt.de/expose/b00eda6f-a791-4b1c-a04c-0a140d776c91,2789,"Neustadt,  Meppen (49716)",215
+Esterfeld, Meppen (49716),369.000 3.181,4 Zimmer,116 m²,300 m² Grundstuck,https://www.immowelt.de/expose/476a378c-936c-4bb4-a83f-4519d7412f8f,2789,"Esterfeld,  Meppen (49716)",125
+Neustadt, Meppen (49716),179.000 1.999,3 Zimmer,"89,6 m²",EG,https://www.immowelt.de/expose/f8654e1d-77a0-4788-b19d-27c6972756df,2789,"Neustadt,  Meppen (49716)",215
+Deichort 6, Meppen (49716),210.000 2.517,3 Zimmer,"83,4 m²",Unknown,https://www.immowelt.de/expose/1da8c206-e3c5-411e-9edb-ad38ccf9fb7d,2789,"Deichort 6,  Meppen (49716)",228
+Neustadt, Meppen (49716),437.000 3.735,5 Zimmer,117 m²,254 m² Grundstuck,https://www.immowelt.de/expose/cf65718c-12f5-4f40-bbc2-16abda32806a,2789,"Neustadt,  Meppen (49716)",215
+Altstadt, Meppen (49716),199.000 995,5 Zimmer,200 m²,1.000 m² Grundstuck,https://www.immowelt.de/expose/42d2813b-0855-4986-b6a6-d3c0ee74d2b8,2789,"Altstadt,  Meppen (49716)",213
+Neustadt, Meppen (49716),586.119 3.510,8 Zimmer,167 m²,600 m² Grundstuck,https://www.immowelt.de/expose/5585f3ee-00a6-4bb1-ac96-6c6be5bdd77a,2789,"Neustadt,  Meppen (49716)",215
+Neustadt, Meppen (49716),524.586 4.903,3 Zimmer,107 m²,590 m² Grundstuck,https://www.immowelt.de/expose/80337f74-6ca3-44ce-af61-27553d788a10,2789,"Neustadt,  Meppen (49716)",215
+Helte, Meppen (49716),410.300 2.487,5 Zimmer,165 m²,Unknown,https://www.immowelt.de/expose/4972f0a2-f9e3-42d9-bdd5-2128a180f010,2789,"Helte,  Meppen (49716)",31
+Apeldorn, Meppen (49716),298.000 1.372,8 Zimmer,"217,3 m²",1.488 m² Grundstuck,https://www.immowelt.de/expose/bc49abd9-83d8-4f21-aa1d-5a676867f4c6,2789,"Apeldorn,  Meppen (49716)",30
+Schleusengruppe, Meppen (49716),395.000 2.219,7 Zimmer,178 m²,800 m² Grundstuck,https://www.immowelt.de/expose/fc118d3c-86f4-4b50-846b-41877fd817f5,2789,"Schleusengruppe,  Meppen (49716)",73
+Altstadt, Meppen (49716),509.500 2.426,12 Zimmer,210 m²,531 m² Grundstuck,https://www.immowelt.de/expose/35fa2625-cc68-417d-bd13-ef6384ada960,2789,"Altstadt,  Meppen (49716)",213
+Neustadt, Meppen (49716),550.000 1.833,16 Zimmer,300 m²,624 m² Grundstuck,https://www.immowelt.de/expose/3dbd3394-40d2-4cc3-9abe-56553d4e5608,2789,"Neustadt,  Meppen (49716)",215
+Schleusengruppe, Meppen (49716),285.000 3.098,3 Zimmer,92 m²,EG,https://www.immowelt.de/expose/020a1523-c81a-4e82-a136-0c3a4bfe6fac,2789,"Schleusengruppe,  Meppen (49716)",73
+Neustadt, Meppen (49716),595.000 1.912,17 Zimmer,"311,2 m²",352 m² Grundstuck,https://www.immowelt.de/expose/5e4aaf31-fe8a-4de6-b4a0-06bd445f3f97,2789,"Neustadt,  Meppen (49716)",215
+Neustadt, Meppen (49716),385.921 2.680,"4,5 Zimmer",144 m²,612 m² Grundstuck,https://www.immowelt.de/expose/9bb48bbe-3646-4464-8f3f-6f76f44edaac,2789,"Neustadt,  Meppen (49716)",215
+Neustadt, Meppen (49716),513.420 2.806,6 Zimmer,183 m²,652 m² Grundstuck,https://www.immowelt.de/expose/fce589d6-d06a-49cf-b385-3b08686aa6a1,2789,"Neustadt,  Meppen (49716)",215
+Neustadt, Meppen (49716),385.921 2.680,"4,5 Zimmer",144 m²,612 m² Grundstuck,https://www.immowelt.de/expose/eec81829-16db-4d80-92bb-3c1830dd71ce,2789,"Neustadt,  Meppen (49716)",215
+Neustadt, Meppen (49716),419.845 3.528,4 Zimmer,119 m²,481 m² Grundstuck,https://www.immowelt.de/expose/d0ed526b-2f4f-450c-ab6c-33942496578d,2789,"Neustadt,  Meppen (49716)",215
+Neustadt, Meppen (49716),419.201 3.846,109 m²,652 m² Grundstuck,Unknown,https://www.immowelt.de/expose/4f941b6f-83ae-44d4-b4c1-c04fa8243809,2789,"Neustadt,  Meppen (49716)",215
+Neustadt, Meppen - Neustadt (49716),230.000 1.983,5 Zimmer,116 m²,Unknown,https://www.immowelt.de/expose/20c83ca6-37c2-43f0-bcad-08291e02ad36,2789,"Neustadt,  Meppen - Neustadt (49716)",235
+Huntel, Meppen / Huntel (49716),339.000 1.363,"248,8 m²",1.000 m² Grundstuck,Unknown,https://www.immowelt.de/expose/cf92d5bb-080a-416b-9c89-f531e4f9cab6,2789,"Huntel,  Meppen / Huntel (49716)",0
+Esterfeld, Meppen (49716),149.900 1.102,7 Zimmer,136 m²,1.207 m² Grundstuck,https://www.immowelt.de/expose/e6b02671-4a05-44b6-b1f9-1fa65d5c81c2,2789,"Esterfeld,  Meppen (49716)",125
+Hemsen, Meppen / Hemsen (49716),439.000 2.897,"151,5 m²",1.460 m² Grundstuck,Unknown,https://www.immowelt.de/expose/e593f675-91f7-4a47-a1cf-60ab96fe1ff2,2789,"Hemsen,  Meppen / Hemsen (49716)",39
+Lingener StraÃŸe 35, Meppen (49716),291.900 3.812,3 Zimmer,"76,6 m²",2. Geschoss,https://www.immowelt.de/expose/119df084-e106-4ef7-adc6-bff0c242d59f,2789,"Lingener StraÃŸe 35,  Meppen (49716)",0
+Lingener StraÃŸe 35, Meppen (49716),293.900 3.808,3 Zimmer,"77,2 m²",2. Geschoss,https://www.immowelt.de/expose/c154ceb5-a2bc-4c67-b145-dc70593e5568,2789,"Lingener StraÃŸe 35,  Meppen (49716)",0
+Ruhle, Meppen (49716),582.000 1.608,10 Zimmer,362 m²,939 m² Grundstuck,https://www.immowelt.de/expose/a604e793-bd99-41a7-a3a5-c80638d275d4,2789,"Ruhle,  Meppen (49716)",24
+Kuhweide, Meppen (49716),127.000 1.740,4 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/ca09066a-f764-4c9b-8e52-92b1e0046ef5,2789,"Kuhweide,  Meppen (49716)",93
+Neustadt, Meppen - Neustadt (49716),98.000 2.207,2 Zimmer,"44,4 m²",Unknown,https://www.immowelt.de/expose/b2b9700c-96f8-4da0-bab1-5c67034fcc3c,2789,"Neustadt,  Meppen - Neustadt (49716)",235
+Esterfeld, Meppen (49716),250.000 4.167,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/06c04fa3-3ea1-4ef8-8911-b3ba7e3f06a2,2789,"Esterfeld,  Meppen (49716)",125
+Esterfeld, Meppen (49716),189.000 1.813,3 Zimmer,"104,2 m²",Unknown,https://www.immowelt.de/expose/b9afba31-b6bb-4f92-90a2-437e5fcd1632,2789,"Esterfeld,  Meppen (49716)",125
+NÃ¶dike, Meppen (49716),211.900 2.553,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/b7fca8c7-afcf-4683-984e-f59c6ea5b3a8,2789,"NÃ¶dike,  Meppen (49716)",0
+NÃ¶dike, Meppen (49716),400000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/0d223755-d57b-47a5-adc1-5a14f5d8c0b6,2789,"NÃ¶dike,  Meppen (49716)",0
+Altstadt, Meppen (49716),425.000 4.014,6 Zimmer,"105,9 m²",325 m² Grundstuck,https://www.immowelt.de/expose/b62a9782-629b-4b2f-83fd-7b1cfccd1ffa,2789,"Altstadt,  Meppen (49716)",213
+Altstadt, Meppen (49716),415.000 3.591,4 Zimmer,"115,6 m²",355 m² Grundstuck,https://www.immowelt.de/expose/b0aba93e-a60b-40bb-9e5a-38a4e9a2e96b,2789,"Altstadt,  Meppen (49716)",213
+Altstadt, Meppen (49716),595.000 5.667,5 Zimmer,105 m²,1.000 m² Grundstuck,https://www.immowelt.de/expose/57cd9f4b-3771-47f1-be3c-83869cd34f65,2789,"Altstadt,  Meppen (49716)",213
+Lohe, Haselunne (49740),975.000 3.588,6 Zimmer,"271,7 m²",5.870 m² Grundstuck,https://www.immowelt.de/expose/87d02e5f-c84b-4cc8-894c-5956ca57861d,2789,"Lohe,  Haselunne (49740)",0
+Emmeln, Haren / Emmeln (49733),169.000 1.662,5 Zimmer,"101,7 m²",448 m² Grundstuck,https://www.immowelt.de/expose/538edbbc-0c77-4d79-8d34-11a07888103c,2789,"Emmeln,  Haren / Emmeln (49733)",70
+Wesuwe, Haren/ Wesuwe-Siedlung (49733),385.000 2.750,3 Zimmer,140 m²,868 m² Grundstuck,https://www.immowelt.de/expose/0cf58b15-1c42-4e49-86fe-1b1cdff7b608,2789,"Wesuwe,  Haren/ Wesuwe-Siedlung (49733)",6
+Wesuwe, Haren(Ems) (49733),585.000 1.950,8 Zimmer,300 m²,6.705 m² Grundstuck,https://www.immowelt.de/expose/48910182-41cf-4c98-b06d-17cdb43e5272,2789,"Wesuwe,  Haren(Ems) (49733)",15
+Klein Hesepe, Geeste (49744),269.900 1.999,5 Zimmer,135 m²,855 m² Grundstuck,https://www.immowelt.de/expose/38bc7b42-ca87-4ac9-936c-f0bbfbdfb240,2789,"Klein Hesepe,  Geeste (49744)",10
+Ruhlerfeld, Twist (49767),550.000 2.157,8 Zimmer,255 m²,7.000 m² Grundstuck,https://www.immowelt.de/expose/94793b5c-b9e5-4a1b-adea-d29cb94c043f,2789,"Ruhlerfeld,  Twist (49767)",5
+Stadtkern, Haren (Ems) (49733),199.000 2.432,3 Zimmer,"81,8 m²",EG,https://www.immowelt.de/expose/6643d506-89d4-4a4d-9703-3cbf1f04bcba,2789,"Stadtkern,  Haren (Ems) (49733)",0
+Emmeln, Haren (Ems) / Emmeln (49733),174.900 1.588,5 Zimmer,"110,2 m²",577 m² Grundstuck,https://www.immowelt.de/expose/243cd9ae-0fbb-48fe-bb0a-90cfc378c03d,2789,"Emmeln,  Haren (Ems) / Emmeln (49733)",70
+Wesuwe, Wesuwe (49733),299.000 2.457,3 Zimmer,"121,7 m²",876 m² Grundstuck,https://www.immowelt.de/expose/13b1ce76-661c-49f4-a4e4-295672966aa4,2789,"Wesuwe,  Wesuwe (49733)",18
+Osterbrock, Geeste / Osterbrock (49744),359.000 1.260,13 Zimmer,285 m²,9.967 m² Grundstuck,https://www.immowelt.de/expose/03f199e4-730a-4837-978a-a5efc748276d,2789,"Osterbrock,  Geeste / Osterbrock (49744)",0
+Emmeln, Haren / Emmeln (49733),199.000 1.542,6 Zimmer,"129,1 m²",734 m² Grundstuck,https://www.immowelt.de/expose/f7ddee5b-b40f-4554-8700-5670c970edb7,2789,"Emmeln,  Haren / Emmeln (49733)",70
+Jasminstr. 8, Haren (Ems) (49733),359.000 3.068,5 Zimmer,117 m²,284 m² Grundstuck,https://www.immowelt.de/expose/f663a6f8-d74e-4e8a-9629-37d3f3d88bae,2789,"Jasminstr. 8,  Haren (Ems) (49733)",71
+Osterbrock, Geeste / Osterbrock (49744),449.000 1.978,8 Zimmer,227 m²,956 m² Grundstuck,https://www.immowelt.de/expose/08ff4b8e-cf3a-414c-af78-71eb7d801977,2789,"Osterbrock,  Geeste / Osterbrock (49744)",0
+Ettlingen - Kernstadt 2, Ettlingen (76275),1.200.000 5.000,6 Zimmer,240 m²,800 m² Grundstuck,https://www.immowelt.de/expose/3d673e51-3c4e-4205-94df-4a88ae660fd9,2790,"Ettlingen - Kernstadt 2,  Ettlingen (76275)",0
+Ettlingen - Kernstadt 2, SchÃ¶llbronn (76275),679.000 5.476,4 Zimmer,124 m²,450 m² Grundstuck,https://www.immowelt.de/expose/8a949c2a-8a31-47e8-b2c5-3f9d9c47b11d,2790,"Ettlingen - Kernstadt 2,  SchÃ¶llbronn (76275)",0
+Schluttenbach, Ettlingen (76275),659.000 5.069,5 Zimmer,130 m²,375 m² Grundstuck,https://www.immowelt.de/expose/e60b502c-1781-43ca-99d6-7be22b181a80,2790,"Schluttenbach,  Ettlingen (76275)",3
+Ettlingen - Kernstadt 2, Ettlingen (76275),549.000 3.000,9 Zimmer,183 m²,313 m² Grundstuck,https://www.immowelt.de/expose/4e00948c-045e-48a7-8229-2d45cc2ce4c5,2790,"Ettlingen - Kernstadt 2,  Ettlingen (76275)",0
+Ettlingenweier, Ettlingen (76275),649.000 4.636,4 Zimmer,140 m²,450 m² Grundstuck,https://www.immowelt.de/expose/6782f4ff-b61d-4044-bca9-bcbf8898e197,2790,"Ettlingenweier,  Ettlingen (76275)",5
+Oberweier, Ettlingen (76275),425.000 1.085,"391,8 m²",954 m² Grundstuck,Unknown,https://www.immowelt.de/expose/9770c6eb-4edc-4dba-a35a-de766aeafdd7,2790,"Oberweier,  Ettlingen (76275)",0
+Ettlingen - Kernstadt 2, Ettlingen (76275),309.000 3.692,3 Zimmer,"83,7 m²",Unknown,https://www.immowelt.de/expose/a2b6e18b-a9d5-4f61-8792-e47cacf3b730,2790,"Ettlingen - Kernstadt 2,  Ettlingen (76275)",0
+Ettlingen - Kernstadt 1, Ettlingen (76275),450.000 3.191,5 Zimmer,141 m²,6. Geschoss,https://www.immowelt.de/expose/e154fe7c-7db3-42c3-b731-71b4f0d1e80e,2790,"Ettlingen - Kernstadt 1,  Ettlingen (76275)",0
+Bruchhausen, Ettlingen (76275),630.000 3.500,7 Zimmer,180 m²,480 m² Grundstuck,https://www.immowelt.de/expose/248cdad8-0d3d-4818-ad9c-30ad5d0dfd7d,2790,"Bruchhausen,  Ettlingen (76275)",36
+Oberweier, Ettlingen (76275),690.000 3.286,9 Zimmer,210 m²,540 m² Grundstuck,https://www.immowelt.de/expose/8abbd1b6-c72f-4da3-a5e8-2d788ccac57f,2790,"Oberweier,  Ettlingen (76275)",0
+Schluttenbach, Ettlingen (76275),739.000 4.479,6 Zimmer,165 m²,411 m² Grundstuck,https://www.immowelt.de/expose/5ef4efbd-e9d6-492b-be88-de1f79a955f8,2790,"Schluttenbach,  Ettlingen (76275)",3
+Bruchhausen, Ettlingen / Bruchhausen (76275),785.000 5.567,6 Zimmer,141 m²,497 m² Grundstuck,https://www.immowelt.de/expose/9ef5fc12-d9c4-4ba6-b1fe-ff381a8380e1,2790,"Bruchhausen,  Ettlingen / Bruchhausen (76275)",19
+Ettlingen - Kernstadt 2, Ettlingen (76275),385.000 4.425,4 Zimmer,87 m²,1. Geschoss,https://www.immowelt.de/expose/a9c4989d-50f6-4041-9465-7198c3e462ea,2790,"Ettlingen - Kernstadt 2,  Ettlingen (76275)",0
+Bruchhausen, Ettlingen (76275),850.000 2.705,12 Zimmer,"314,3 m²",574 m² Grundstuck,https://www.immowelt.de/expose/007de293-4104-4ddb-96ae-12348bcff27e,2790,"Bruchhausen,  Ettlingen (76275)",36
+Ettlingen - Kernstadt 2, Ettlingen (76275),699.000 4.629,6 Zimmer,151 m²,900 m² Grundstuck,https://www.immowelt.de/expose/9913356e-2d27-4e90-9c57-d53edc530dc7,2790,"Ettlingen - Kernstadt 2,  Ettlingen (76275)",0
+Ettlingen - Kernstadt 1, Ettlingen (76275),168.000 3.170,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/e9fb0c98-23f4-4c8b-b3c3-8611eeac515f,2790,"Ettlingen - Kernstadt 1,  Ettlingen (76275)",0
+Bruchhausen, Ettlingen (76275),549.000 4.233,5 Zimmer,"129,7 m²",637 m² Grundstuck,https://www.immowelt.de/expose/56e7b766-9d38-4900-9f2f-376a126e5bfe,2790,"Bruchhausen,  Ettlingen (76275)",36
+Ettlingen - Kernstadt 2, Ettlingen (76275),290.000 3.816,3 Zimmer,76 m²,2. Geschoss,https://www.immowelt.de/expose/eddc9405-2c08-40df-aa8a-59fdedd198bf,2790,"Ettlingen - Kernstadt 2,  Ettlingen (76275)",0
+Ettlingen - Kernstadt 2, Ettlingen (76275),725.000 5.847,4 Zimmer,124 m²,460 m² Grundstuck,https://www.immowelt.de/expose/26638bc5-7d61-46a0-b61b-feca94a8d8b0,2790,"Ettlingen - Kernstadt 2,  Ettlingen (76275)",0
+Bruchhausen, Ettlingen (76275),578.000 3.932,4 Zimmer,147 m²,267 m² Grundstuck,https://www.immowelt.de/expose/5dbf9454-6c1c-41c7-8cb0-2deae9760f39,2790,"Bruchhausen,  Ettlingen (76275)",36
+Oberweier, Ettlingen (76275),530.000 2.718,195 m²,391 m² Grundstuck,Unknown,https://www.immowelt.de/expose/8e775509-9862-4b23-ad30-6219aad43bf1,2790,"Oberweier,  Ettlingen (76275)",0
+Ettlingen - Kernstadt 1, Ettlingen (76275),279.000 3.420,3 Zimmer,"81,6 m²",1. Geschoss,https://www.immowelt.de/expose/612b22ee-b41a-4be4-a2d9-fa8048079174,2790,"Ettlingen - Kernstadt 1,  Ettlingen (76275)",0
+Ettlingen - Kernstadt 1, Ettlingen (76275),979.000 4.430,8 Zimmer,221 m²,624 m² Grundstuck,https://www.immowelt.de/expose/80276ec6-6dd8-4d1d-9956-56672e475e79,2790,"Ettlingen - Kernstadt 1,  Ettlingen (76275)",0
+Bruchhausen, Ettlingen (76275),539.000 4.146,"4,5 Zimmer",130 m²,296 m² Grundstuck,https://www.immowelt.de/expose/6fe2c52a-e27a-41da-bc5d-201fc484d93d,2790,"Bruchhausen,  Ettlingen (76275)",36
+Ettlingen - Kernstadt 2, Ettlingen (76275),849.000 4.717,4 Zimmer,180 m²,350 m² Grundstuck,https://www.immowelt.de/expose/ece1297f-9927-4d4f-ae3a-94f9e2e5011d,2790,"Ettlingen - Kernstadt 2,  Ettlingen (76275)",0
+Bruchhausen, Ettlingen (76275),689.000 2.713,8 Zimmer,254 m²,443 m² Grundstuck,https://www.immowelt.de/expose/45cfd1c8-430c-443f-8048-e4cceb3fea26,2790,"Bruchhausen,  Ettlingen (76275)",36
+Ettlingen - Kernstadt 1, Ettlingen (76275),1.590.000 5.679,280 m²,600 m² Grundstuck,Unknown,https://www.immowelt.de/expose/9d604a7c-c9c4-4def-8926-39284508a109,2790,"Ettlingen - Kernstadt 1,  Ettlingen (76275)",0
+Belzerweg 8, Ettlingen (76275),629.000 2.939,5 Zimmer,214 m²,440 m² Grundstuck,https://www.immowelt.de/expose/2d67c7a4-cab6-4006-a398-8c414e1f1aed,2790,"Belzerweg 8,  Ettlingen (76275)",0
+Ettlingenweier, Ettlingen (76275),649.000 3.606,4 Zimmer,180 m²,450 m² Grundstuck,https://www.immowelt.de/expose/8b93e29d-6c75-4a0e-afd4-9ab8f1c2ab03,2790,"Ettlingenweier,  Ettlingen (76275)",5
+Ettlingen - Kernstadt 2, Ettlingen (76275),799.000 4.439,4 Zimmer,180 m²,350 m² Grundstuck,https://www.immowelt.de/expose/9006f6de-de4e-425d-ba31-9d85602fb4a8,2790,"Ettlingen - Kernstadt 2,  Ettlingen (76275)",0
+SchÃ¶llbronn, Ettlingen (76275),549.000 3.776,5 Zimmer,"145,4 m²",145 m² Grundstuck,https://www.immowelt.de/expose/34c20480-1ef6-4ec8-a49a-9e2afc1a0c18,2790,"SchÃ¶llbronn,  Ettlingen (76275)",0
+Ettlingen - Kernstadt 2, Ettlingen (76275),900.000 6.000,4 Zimmer,150 m²,Unknown,https://www.immowelt.de/expose/aacd92d1-4e2d-49f3-9fbf-0916b1336f50,2790,"Ettlingen - Kernstadt 2,  Ettlingen (76275)",0
+Bruchhausen, Ettlingen / Bruchhausen (76275),Preis auf Anfrage,7 Zimmer,202 m²,486 m² Grundstuck,https://www.immowelt.de/expose/f5522069-0eb1-417e-9b84-4212d080b4c4,2790,"Bruchhausen,  Ettlingen / Bruchhausen (76275)",19
+Spessart, Ettlingen / Spessart (76275),490.000 3.500,4 Zimmer,140 m²,EG,https://www.immowelt.de/expose/a7543fcd-35a1-4445-b421-db5706fc58d0,2790,"Spessart,  Ettlingen / Spessart (76275)",10
+SchÃ¶llbronn, Ettlingen / SchÃ¶llbronn (76275),329.000 3.102,"3,5 Zimmer","106,1 m²",Unknown,https://www.immowelt.de/expose/9bf321c0-fafe-4ca4-92af-9d530069c434,2790,"SchÃ¶llbronn,  Ettlingen / SchÃ¶llbronn (76275)",0
+Ettlingen - Kernstadt 1, Ettlingen (76275),399.000 3.595,4 Zimmer,111 m²,Unknown,https://www.immowelt.de/expose/f32cca4e-aa51-484b-a07f-9a815c2161da,2790,"Ettlingen - Kernstadt 1,  Ettlingen (76275)",0
+Spessart, Ettlingen (76275),430.000 3.440,4 Zimmer,125 m²,1. Geschoss,https://www.immowelt.de/expose/47eda99c-aba2-4ee7-8b2a-61d438ac61e8,2790,"Spessart,  Ettlingen (76275)",10
+Ettlingen - West, Ettlingen (76275),310.000 2.981,5 Zimmer,104 m²,164 m² Grundstuck,https://www.immowelt.de/expose/8b8ae932-a5c3-4896-9206-7b2b27ba9f9e,2790,"Ettlingen - West,  Ettlingen (76275)",73
+Ettlingen - Kernstadt 1, Ettlingen (76275),1.200.000 4.839,10 Zimmer,248 m²,583 m² Grundstuck,https://www.immowelt.de/expose/11f56795-478b-44f3-ad3a-9d7e8a0ca303,2790,"Ettlingen - Kernstadt 1,  Ettlingen (76275)",0
+Ettlingen - Kernstadt 1, Ettlingen (76275),1.100.000 3.431,15 Zimmer,"320,6 m²",1.431 m² Grundstuck,https://www.immowelt.de/expose/6859bdb5-b4f2-4483-9979-796eccd5cff7,2790,"Ettlingen - Kernstadt 1,  Ettlingen (76275)",0
+SchÃ¶llbronn, Ettlingen-SchÃ¶llbronn (76275),470.000 2.179,8 Zimmer,"215,7 m²",490 m² Grundstuck,https://www.immowelt.de/expose/239c853a-d966-40b1-bf01-a22e8e6d8d60,2790,"SchÃ¶llbronn,  Ettlingen-SchÃ¶llbronn (76275)",0
+SchÃ¶llbronn, Ettlingen (76275),499.000 2.901,8 Zimmer,172 m²,497 m² Grundstuck,https://www.immowelt.de/expose/e9c4c219-3253-4cc1-bd5f-a921617660a9,2790,"SchÃ¶llbronn,  Ettlingen (76275)",0
+Ettlingen - Kernstadt 1, Ettlingen (76275),695.000 2.633,"10,5 Zimmer",264 m²,362 m² Grundstuck,https://www.immowelt.de/expose/eee28d8b-543d-49bb-a383-c01e645af7c1,2790,"Ettlingen - Kernstadt 1,  Ettlingen (76275)",0
+Busenbach, Waldbronn (76337),1.150.000 3.108,6 Zimmer,370 m²,998 m² Grundstuck,https://www.immowelt.de/expose/239d405e-da4a-4244-9bfa-cb5d6576699c,2790,"Busenbach,  Waldbronn (76337)",21
+Busenbach, Waldbronn (76337),280.000 3.457,3 Zimmer,81 m²,Unknown,https://www.immowelt.de/expose/056c25a6-ff31-40df-be8f-399a8f32578b,2790,"Busenbach,  Waldbronn (76337)",21
+Grunwettersbach, Karlsruhe (76228),754.000 3.307,228 m²,Unknown,Unknown,https://www.immowelt.de/expose/7a069f06-5e40-4e3b-87f1-4c0b29ebc827,2790,"Grunwettersbach,  Karlsruhe (76228)",60
+Grunwettersbach, Karlsruhe (76228),799.000 2.663,10 Zimmer,300 m²,316 m² Grundstuck,https://www.immowelt.de/expose/a9bbb26e-5bb3-4cb5-b8c2-8ce1981c035b,2790,"Grunwettersbach,  Karlsruhe (76228)",60
+Busenbach, Waldbronn (76337),179.000 2.983,"2,5 Zimmer",60 m²,4. Geschoss,https://www.immowelt.de/expose/a7f0cf26-6027-4f3b-b8c9-cefbe803aa32,2790,"Busenbach,  Waldbronn (76337)",21
+Ruppurr - Ruppurr - Sudost, Karlsruhe (76199),190.000 3.016,2 Zimmer,63 m²,9. Geschoss,https://www.immowelt.de/expose/98f0e660-ec61-4977-a48c-15acbc431982,2790,"Ruppurr - Ruppurr - Sudost,  Karlsruhe (76199)",0
+Spielberg, Karlsbad (76307),301.000 2.290,5 Zimmer,"131,5 m²",387 m² Grundstuck,https://www.immowelt.de/expose/1c7ca358-69a2-438a-b252-4fe427b7042e,2790,"Spielberg,  Karlsbad (76307)",13
+Grunwettersbach, Karlsruhe (76228),1.050.000 5.147,"6,5 Zimmer",204 m²,1.122 m² Grundstuck,https://www.immowelt.de/expose/5057cad7-f9a1-4b0c-bd23-3a44d869091d,2790,"Grunwettersbach,  Karlsruhe (76228)",60
+Sulzbach, Malsch (76316),650.000 2.995,8 Zimmer,217 m²,586 m² Grundstuck,https://www.immowelt.de/expose/dd310a36-7126-42c6-9764-ff13e4e1ea65,2790,"Sulzbach,  Malsch (76316)",10
+GartenstraÃŸe 4, Waldbronn (76337),289.000 2.643,4 Zimmer,"109,4 m²",7. Geschoss,https://www.immowelt.de/expose/1c0a8b22-21ae-4a97-998f-f6287adce6a7,2790,"GartenstraÃŸe 4,  Waldbronn (76337)",0
+GartenstraÃŸe 4, Waldbronn (76337),159.000 2.681,2 Zimmer,"59,3 m²",7. Geschoss,https://www.immowelt.de/expose/f4394168-c531-4357-a1c1-dc654cc17d17,2790,"GartenstraÃŸe 4,  Waldbronn (76337)",0
+GartenstraÃŸe 4, Waldbronn (76337),139.000 2.777,2 Zimmer,"50,1 m²",7. Geschoss,https://www.immowelt.de/expose/f15596b5-a693-4dfa-94c8-37d91f6206aa,2790,"GartenstraÃŸe 4,  Waldbronn (76337)",0
+GartenstraÃŸe 4, Waldbronn (76337),349.000 2.900,4 Zimmer,"120,4 m²",7. Geschoss,https://www.immowelt.de/expose/f660816d-3524-40e7-b586-36ce487ef529,2790,"GartenstraÃŸe 4,  Waldbronn (76337)",0
+Forchheim, Rheinstetten (76287),899.000 2.855,11 Zimmer,"314,8 m²",604 m² Grundstuck,https://www.immowelt.de/expose/934775de-7a4d-4eb2-97d0-959341360f3c,2790,"Forchheim,  Rheinstetten (76287)",10
+Ruppurr - Ruppurr - Sudost, Karlsruhe (76199),540.000 2.872,8 Zimmer,188 m²,3. Geschoss,https://www.immowelt.de/expose/a6e20084-bb64-49be-8684-5fe55ed5a35f,2790,"Ruppurr - Ruppurr - Sudost,  Karlsruhe (76199)",0
+Falkenhain, Falkensee (14612),285.000 4.524,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/021d38be-fba6-4ac7-9b75-032a95cfbe90,2791,"Falkenhain,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),735.000 6.391,5 Zimmer,115 m²,230 m² Grundstuck,https://www.immowelt.de/expose/87ec4f88-3a13-4be2-bbe6-78a31233cc81,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),549.213 4.121,9 Zimmer,"133,3 m²",688 m² Grundstuck,https://www.immowelt.de/expose/020636e6-fb2e-456f-a55f-3def330d5017,2791,"Falkenhain,  Falkensee (14612)",109
+Clara-Zetkin-StraÃŸe 25, Falkensee (14612),555.000 4.625,4 Zimmer,120 m²,800 m² Grundstuck,https://www.immowelt.de/expose/44dfb6eb-208e-43fc-87ae-23ffd62cc55a,2791,"Clara-Zetkin-StraÃŸe 25,  Falkensee (14612)",0
+Falkenhagen, Falkensee (14612),226.998 1.911,3 Zimmer,"118,8 m²",500 m² Grundstuck,https://www.immowelt.de/expose/df70c98c-0b4c-450a-a380-9084a6134662,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhain, Falkensee (14612),495.000 7.615,2 Zimmer,65 m²,835 m² Grundstuck,https://www.immowelt.de/expose/9d3d9eb6-17fc-4d2e-9cda-09b8b572a7c1,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhagen, Falkensee (14612),579.959 4.744,4 Zimmer,"122,3 m²",359 m² Grundstuck,https://www.immowelt.de/expose/f77d3ff3-d8cf-459b-b46d-c001bdc48105,2791,"Falkenhagen,  Falkensee (14612)",140
+Seegefeld, Falkensee (14612),490.000 4.083,5 Zimmer,120 m²,953 m² Grundstuck,https://www.immowelt.de/expose/686ddc05-55cc-470d-ac3a-a09c4228bff7,2791,"Seegefeld,  Falkensee (14612)",274
+FalkenhÃ¶h, Falkensee (14612),1.450.000 4.833,300 m²,1.000 m² Grundstuck,Unknown,https://www.immowelt.de/expose/79ea52d8-a55d-4d4d-b803-a6d563b6f0a7,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+Falkenhain, Falkensee (14612),849.000 4.994,6 Zimmer,170 m²,680 m² Grundstuck,https://www.immowelt.de/expose/2bb53eb1-f519-45bc-9536-be2398b43ca5,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),631.555 4.479,5 Zimmer,141 m²,552 m² Grundstuck,https://www.immowelt.de/expose/223f7b81-1fe1-4cfc-8a9d-c7a181525242,2791,"Falkenhain,  Falkensee (14612)",109
+Finkenkrug, Falkensee (14612),265.000 5.304,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/9c22db42-ee8d-4689-931b-13d5b9bb00fe,2791,"Finkenkrug,  Falkensee (14612)",109
+Finkenkrug, Falkensee (14612),265.000 5.687,2 Zimmer,"46,6 m²",Unknown,https://www.immowelt.de/expose/5e120c84-5a8c-4013-ad28-472b40fe1316,2791,"Finkenkrug,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),420.000 4.158,4 Zimmer,101 m²,477 m² Grundstuck,https://www.immowelt.de/expose/af4a9fce-93f1-4a62-80a6-0031bb79dc62,2791,"Falkenhain,  Falkensee (14612)",109
+FalkenhÃ¶h, Falkensee (14612),295.000 3.512,3 Zimmer,84 m²,Unknown,https://www.immowelt.de/expose/6a2f2df8-42fa-402b-bf33-0610838208eb,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+Seegefeld, Falkensee (14612),390.000 4.333,4 Zimmer,90 m²,1.127 m² Grundstuck,https://www.immowelt.de/expose/175f833f-04ae-4a25-a795-78a116447bec,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhagen, Falkensee (14612),921.000 631,5 Zimmer,149 m²,1.470 m² Grundstuck,https://www.immowelt.de/expose/a40b74dc-d40d-4aa3-b4a4-4183161eb35a,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhagen, Falkensee (14612),900.000 4.500,6 Zimmer,200 m²,597 m² Grundstuck,https://www.immowelt.de/expose/0c1ee843-1856-479a-b627-6405cadeffec,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhagen, Falkensee (14612),740.000 3.149,8 Zimmer,235 m²,1.160 m² Grundstuck,https://www.immowelt.de/expose/35d222fd-9c74-4b27-b4fe-b119c3a75293,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhagen, Falkensee (14612),598.000 2.207,11 Zimmer,271 m²,1.120 m² Grundstuck,https://www.immowelt.de/expose/1b1e07a9-5730-4222-82d1-11bcd0cf68e7,2791,"Falkenhagen,  Falkensee (14612)",140
+Seegefeld, Falkensee (14612),570.000 3.931,6 Zimmer,145 m²,998 m² Grundstuck,https://www.immowelt.de/expose/297875e9-6bb8-4b37-aac0-fdd709b11d1f,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),512.000 5.333,3 Zimmer,96 m²,457 m² Grundstuck,https://www.immowelt.de/expose/8f514d90-5aef-4a33-ab38-703d6ef86de6,2791,"Seegefeld,  Falkensee (14612)",274
+Berchtesgadener Str. 47a, Falkensee (14612),1.290.000 3.981,8 Zimmer,324 m²,1.003 m² Grundstuck,https://www.immowelt.de/expose/60ecc4e8-445d-42ec-840f-79da5433fa07,2791,"Berchtesgadener Str. 47a,  Falkensee (14612)",75
+DurerstraÃŸe 39, Falkensee (14612),495.000 4.304,4 Zimmer,115 m²,851 m² Grundstuck,https://www.immowelt.de/expose/12b0792f-329c-4620-898b-c9792d2208c3,2791,"DurerstraÃŸe 39,  Falkensee (14612)",0
+Berchtesgadener Str. 47a, Falkensee (14612),695.000 6.205,4 Zimmer,112 m²,1. Geschoss,https://www.immowelt.de/expose/26759db5-3bd6-4372-a7a3-cd5c0ceed467,2791,"Berchtesgadener Str. 47a,  Falkensee (14612)",75
+Berchtesgadener Str. 47a, Falkensee (14612),595.000 5.313,4 Zimmer,112 m²,EG,https://www.immowelt.de/expose/a510fd50-7796-403c-aa08-99e35b86fcc9,2791,"Berchtesgadener Str. 47a,  Falkensee (14612)",75
+MoselstraÃŸe 22 A, Falkensee (14612),695.000 5.121,"135,7 m²",470 m² Grundstuck,frei ab sofort,https://www.immowelt.de/expose/a813b545-9fdf-41ec-a618-79cf12420297,2791,"MoselstraÃŸe 22 A,  Falkensee (14612)",0
+Waldheim, Falkensee (14612),750.000 5.068,5 Zimmer,148 m²,606 m² Grundstuck,https://www.immowelt.de/expose/6df404f0-f125-462e-9bd1-d200c555bfdb,2791,"Waldheim,  Falkensee (14612)",26
+Seegefeld, Falkensee (14612),589.999 4.370,4 Zimmer,135 m²,460 m² Grundstuck,https://www.immowelt.de/expose/6c444b77-379f-4e67-b2eb-39dae852941c,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),735.000 6.391,5 Zimmer,115 m²,230 m² Grundstuck,https://www.immowelt.de/expose/a7f0fe7f-f5e2-48f3-8665-fdfd311a5348,2791,"Seegefeld,  Falkensee (14612)",274
+Finkenkrug, Falkensee (14612),440.000 4.000,5 Zimmer,110 m²,940 m² Grundstuck,https://www.immowelt.de/expose/a31fd6ab-a3e2-4e1b-87b0-55504d802cda,2791,"Finkenkrug,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),729.000 5.283,5 Zimmer,138 m²,1.089 m² Grundstuck,https://www.immowelt.de/expose/2ff0a87f-2142-4ffd-91b7-14274b9d198e,2791,"Seegefeld,  Falkensee (14612)",274
+Waldheim, Falkensee (14612),750.000 5.068,5 Zimmer,148 m²,606 m² Grundstuck,https://www.immowelt.de/expose/3aa6f27a-2afb-4f08-9676-bd9978ae65be,2791,"Waldheim,  Falkensee (14612)",26
+Seegefeld, Falkensee (14612),649.000 4.703,5 Zimmer,138 m²,848 m² Grundstuck,https://www.immowelt.de/expose/fcb65f07-5d0f-4904-aed6-4a521db963e5,2791,"Seegefeld,  Falkensee (14612)",274
+Waldheim, Falkensee (14612),750.000 5.068,5 Zimmer,148 m²,606 m² Grundstuck,https://www.immowelt.de/expose/9e2887a0-c064-4e5d-94ac-e3fde606b441,2791,"Waldheim,  Falkensee (14612)",26
+FalkenhÃ¶h, Falkensee (14612),1.090.000 2.899,7 Zimmer,376 m²,786 m² Grundstuck,https://www.immowelt.de/expose/d313bd59-5c3f-44dd-b4b6-92e2842a19f5,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+FalkenhÃ¶h, Falkensee (14612),1.090.000 2.899,7 Zimmer,376 m²,786 m² Grundstuck,https://www.immowelt.de/expose/25f4913d-d0d3-41ac-ad09-c033ffd5af33,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+Falkenhain, Falkensee (14612),885.900 2.644,9 Zimmer,335 m²,1.055 m² Grundstuck,https://www.immowelt.de/expose/04fe9b00-a642-41ab-b3d8-38f558103394,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),507.990 2.953,5 Zimmer,172 m²,1.055 m² Grundstuck,https://www.immowelt.de/expose/cd5680a3-b4de-4c3f-98da-8e578d3be064,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),501.990 3.260,5 Zimmer,154 m²,1.055 m² Grundstuck,https://www.immowelt.de/expose/9e93cd0e-f746-4025-87ce-bc04da0539ef,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),582.900 2.816,7 Zimmer,207 m²,1.055 m² Grundstuck,https://www.immowelt.de/expose/d317b8f7-f1ca-4dfa-b544-256e45a38689,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),508.900 3.141,4 Zimmer,162 m²,787 m² Grundstuck,https://www.immowelt.de/expose/40ea83bb-4487-4dc0-8eab-f2e572e73c1e,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),1.898.000 6.306,6 Zimmer,301 m²,1.690 m² Grundstuck,https://www.immowelt.de/expose/2dd1abfd-4bd9-4ea2-9593-0f0dfb0370bd,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),499.800 3.029,5 Zimmer,165 m²,787 m² Grundstuck,https://www.immowelt.de/expose/99cbc678-d6cd-4bde-8a97-7d695ee6ed40,2791,"Falkenhain,  Falkensee (14612)",109
+WolffstraÃŸe 16, Falkensee (14612),564.899 4.184,4 Zimmer,135 m²,650 m² Grundstuck,https://www.immowelt.de/expose/4b8f568d-bb2b-45de-8822-8e439eecbb68,2791,"WolffstraÃŸe 16,  Falkensee (14612)",0
+Seegefeld, Falkensee (14612),639.899 3.999,5 Zimmer,160 m²,650 m² Grundstuck,https://www.immowelt.de/expose/76e72053-bb1b-4671-9105-4ea052c848a9,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),549.000 4.289,6 Zimmer,128 m²,759 m² Grundstuck,https://www.immowelt.de/expose/9d7f32ba-e574-4b6f-b0a2-41a7560a458f,2791,"Seegefeld,  Falkensee (14612)",274
+Hauptstr 1, Falkensee (14612),454.900 1.805,5 Zimmer,252 m²,1.141 m² Grundstuck,https://www.immowelt.de/expose/3e7e15af-5e03-4d02-99bc-95cfa645a585,2791,"Hauptstr 1,  Falkensee (14612)",0
+Hauptstr 1, Falkensee (14612),274.900 1.785,5 Zimmer,154 m²,1.141 m² Grundstuck,https://www.immowelt.de/expose/d3c41cf5-c39a-46f7-aff0-b4858407d75a,2791,"Hauptstr 1,  Falkensee (14612)",0
+Hauptstr 3, Falkensee (14612),318.900 2.112,5 Zimmer,151 m²,1.141 m² Grundstuck,https://www.immowelt.de/expose/a6f0ae75-ec16-4ee6-b790-64a567466e11,2791,"Hauptstr 3,  Falkensee (14612)",0
+Hauptstr 1, Falkensee (14612),194.900 2.670,2 Zimmer,73 m²,1.141 m² Grundstuck,https://www.immowelt.de/expose/5cf41743-0404-4f9e-a67f-dbb7dfd412f2,2791,"Hauptstr 1,  Falkensee (14612)",0
+Hauptstr 1, Falkensee (14612),251.900 1.866,5 Zimmer,135 m²,1.141 m² Grundstuck,https://www.immowelt.de/expose/fe2cdbab-9541-46e6-992c-8cde8aeb7902,2791,"Hauptstr 1,  Falkensee (14612)",0
+Hauptstr 3, Falkensee (14612),266.900 2.152,4 Zimmer,124 m²,1.141 m² Grundstuck,https://www.immowelt.de/expose/f573fce7-551b-4aec-8e1a-bdf80f89fbc7,2791,"Hauptstr 3,  Falkensee (14612)",0
+Hauptstr 3, Falkensee (14612),297.900 1.934,5 Zimmer,154 m²,1.141 m² Grundstuck,https://www.immowelt.de/expose/ac1c407a-1f61-462b-84b0-d077bb0d4f0e,2791,"Hauptstr 3,  Falkensee (14612)",0
+Gladbacher StraÃŸe 10, Falkensee (14612),139.000 4.177,1 Zimmer,"33,3 m²",EG,https://www.immowelt.de/expose/789e4bd7-bd95-4bb1-9130-7a130db74e78,2791,"Gladbacher StraÃŸe 10,  Falkensee (14612)",0
+Finkenkrug, Falkensee (14612),280.000 5.385,2 Zimmer,52 m²,EG,https://www.immowelt.de/expose/06850c06-5140-45d0-a309-6c33659d939d,2791,"Finkenkrug,  Falkensee (14612)",109
+Finkenkrug, Falkensee (14612),427.000 5.931,3 Zimmer,72 m²,919 m² Grundstuck,https://www.immowelt.de/expose/3b26d435-7c5d-404b-8469-a59e05c5c967,2791,"Finkenkrug,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),664.000 3.320,8 Zimmer,200 m²,798 m² Grundstuck,https://www.immowelt.de/expose/5099d3c0-d76f-416e-8633-5f156fbc1c5b,2791,"Seegefeld,  Falkensee (14612)",274
+Finkenkrug, Falkensee (14612),559.000 4.080,4 Zimmer,137 m²,552 m² Grundstuck,https://www.immowelt.de/expose/991e3604-d61a-43b3-9276-dcad41a527ea,2791,"Finkenkrug,  Falkensee (14612)",109
+Falkenhagen, Falkensee (14612),650.000 3.250,6 Zimmer,200 m²,560 m² Grundstuck,https://www.immowelt.de/expose/618dc7c6-f1a4-425e-b153-1baaf8f7b22d,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhagen, Falkensee (14612),1.299.000 4.177,8 Zimmer,311 m²,820 m² Grundstuck,https://www.immowelt.de/expose/0a9c3848-9a2e-43c0-a036-afb632bdad43,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhain, Falkensee (14612),599.700 4.442,5 Zimmer,135 m²,650 m² Grundstuck,https://www.immowelt.de/expose/e8ec7a1a-b173-4e12-a8a6-49f5b45fcfad,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhagen, Falkensee (14612),242.199 1.780,4 Zimmer,"136,1 m²",500 m² Grundstuck,https://www.immowelt.de/expose/5ddec746-88b4-4135-9829-8287a42b60af,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhagen, Falkensee (14612),225.709 1.963,3 Zimmer,115 m²,444 m² Grundstuck,https://www.immowelt.de/expose/bb1c9986-0e7a-467e-95be-e495c45e89d1,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhagen, Falkensee (14612),436.999 3.665,3 Zimmer,"119,2 m²",Unknown,https://www.immowelt.de/expose/74ef6826-44b6-4490-b49c-80810b87c9cd,2791,"Falkenhagen,  Falkensee (14612)",140
+Seegefeld, Falkensee (14612),535.000 5.350,3 Zimmer,100 m²,1.212 m² Grundstuck,https://www.immowelt.de/expose/7bcdf069-63b4-4226-a9ec-482b0046de62,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),285.000 4.524,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/7bddf117-af55-4742-ab72-90b9bc280909,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14513),188.285 1.358,4 Zimmer,"138,6 m²",750 m² Grundstuck,https://www.immowelt.de/expose/66fba873-f444-4293-82eb-2404be591d4e,2791,"Falkenhain,  Falkensee (14513)",109
+Seegefeld, Falkensee (14612),790.000 3.854,7 Zimmer,205 m²,791 m² Grundstuck,https://www.immowelt.de/expose/4efdddb6-a14a-4b95-8910-fa0f4f9ac441,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),649.000 4.715,4 Zimmer,"137,7 m²",669 m² Grundstuck,https://www.immowelt.de/expose/453aa7c9-7852-4197-8f4b-a28f897de288,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhagen, Falkensee (14612),694.875 5.186,5 Zimmer,134 m²,288 m² Grundstuck,https://www.immowelt.de/expose/f6bc8a7c-2a6e-4b8a-9804-4171e40f2ec9,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhain, Falkensee (14612),595.000 4.577,5 Zimmer,130 m²,882 m² Grundstuck,https://www.immowelt.de/expose/0cbde8f0-3c36-4ed8-9904-9a3f64447de0,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),365.000 2.920,6 Zimmer,125 m²,753 m² Grundstuck,https://www.immowelt.de/expose/0257d9e3-1d14-4e0a-aa1d-49c8b0d67fdb,2791,"Falkenhain,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),610.000 2.033,1 Zimmer,300 m²,953 m² Grundstuck,https://www.immowelt.de/expose/9d8c3445-736f-4ed3-8b51-f0eecab051c3,2791,"Seegefeld,  Falkensee (14612)",274
+Finkenkrug, Falkensee (14612),596.000 5.163,5 Zimmer,"115,4 m²",643 m² Grundstuck,https://www.immowelt.de/expose/a04e6053-2e7a-486c-bbec-7da2e10f1922,2791,"Finkenkrug,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),348.500 4.126,3 Zimmer,"84,5 m²",3. Geschoss,https://www.immowelt.de/expose/5c67706b-05fd-47e2-b20b-582d188933ab,2791,"Seegefeld,  Falkensee (14612)",274
+Elbeallee 47, Falkensee (14612),Preis auf Anfrage,4 Zimmer,118 m²,789 m² Grundstuck,https://www.immowelt.de/expose/85c72253-4cef-4012-89ee-e5afb31c7596,2791,"Elbeallee 47,  Falkensee (14612)",119
+Seegefeld, Falkensee (14612),429.000 3.326,6 Zimmer,129 m²,279 m² Grundstuck,https://www.immowelt.de/expose/b09a7f06-3dd0-4705-a77b-f4f7d3bd0cd7,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),729.000 5.283,5 Zimmer,138 m²,1.089 m² Grundstuck,https://www.immowelt.de/expose/5b53c1a3-5c57-407a-9003-21595752e0dd,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhagen, Falkensee (14612),750.000 3.731,"6,5 Zimmer",201 m²,774 m² Grundstuck,https://www.immowelt.de/expose/a9c0b623-ee3f-4995-b9b3-115a4a79d19e,2791,"Falkenhagen,  Falkensee (14612)",140
+Waldheim, Falkensee (14612),584.967 4.032,6 Zimmer,"145,1 m²",669 m² Grundstuck,https://www.immowelt.de/expose/5e6df354-8af8-44d9-99ec-2a9b7bb07eb4,2791,"Waldheim,  Falkensee (14612)",26
+Seegefeld, Falkensee (14612),209.000 4.447,2 Zimmer,47 m²,Unknown,https://www.immowelt.de/expose/00106c91-dc51-483d-b906-3e7316021774,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),1.395.000 5.217,8 Zimmer,"267,4 m²",1.288 m² Grundstuck,https://www.immowelt.de/expose/861205ab-e077-43a1-85bc-a900be234f6e,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),875.000 4.344,7 Zimmer,"201,4 m²",942 m² Grundstuck,https://www.immowelt.de/expose/4ec9cab3-7086-4f8b-9aa2-26ff2a45211e,2791,"Falkenhain,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),930.000 3.196,11 Zimmer,291 m²,786 m² Grundstuck,https://www.immowelt.de/expose/92c64449-c75c-4531-883c-fe23b49b649e,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),437.571 2.119,9 Zimmer,"206,5 m²",515 m² Grundstuck,https://www.immowelt.de/expose/e2a3669f-15ec-4982-8e93-a61a56f91616,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),970.000 4.217,6 Zimmer,230 m²,1.101 m² Grundstuck,https://www.immowelt.de/expose/96d149f9-caab-4ea7-8d76-fbef26c72a33,2791,"Falkenhain,  Falkensee (14612)",109
+Finkenkrug, Falkensee (14612),515.000 3.140,5 Zimmer,164 m²,236 m² Grundstuck,https://www.immowelt.de/expose/dc5a88eb-13b5-4b51-984f-2578f91f5011,2791,"Finkenkrug,  Falkensee (14612)",109
+Finkenkrug, Falkensee (14612),469.000 3.722,4 Zimmer,126 m²,895 m² Grundstuck,https://www.immowelt.de/expose/b2bfbcb6-8e54-49bd-9021-d49ee18633dc,2791,"Finkenkrug,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),633.000 3.956,160 m²,Unknown,Unknown,https://www.immowelt.de/expose/7953ede6-5b5b-41ef-ac0a-d0d2fafe8b52,2791,"Seegefeld,  Falkensee (14612)",274
+Waldheim, Falkensee (14612),562.058 4.847,6 Zimmer,116 m²,669 m² Grundstuck,https://www.immowelt.de/expose/c928764c-cca1-404d-9a5d-5535a5dbe767,2791,"Waldheim,  Falkensee (14612)",26
+Falkenhain, Falkensee (14612),604.562 3.275,9 Zimmer,"184,6 m²",668 m² Grundstuck,https://www.immowelt.de/expose/cfaa826d-86fe-482b-ac91-6b523435f82d,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),727.288 3.749,7 Zimmer,194 m²,668 m² Grundstuck,https://www.immowelt.de/expose/f424306c-c6ce-4a90-a84b-38d29647babf,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhagen, Falkensee (14612),589.900 4.783,4 Zimmer,"123,3 m²",1. Geschoss,https://www.immowelt.de/expose/02680e5b-9b42-4f7b-aae7-ae4e23996b8f,2791,"Falkenhagen,  Falkensee (14612)",140
+Seegefeld, Falkensee (14612),633.000 3.956,160 m²,1.682 m² Grundstuck,Unknown,https://www.immowelt.de/expose/cbc1ffc5-7ee0-4848-a369-b2a3598bc69c,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),602.571 2.918,9 Zimmer,"206,5 m²",668 m² Grundstuck,https://www.immowelt.de/expose/2128d6c9-6f2a-4dff-a0fc-0bcacbfc569d,2791,"Falkenhain,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),633.000 3.956,1 Zimmer,160 m²,1.682 m² Grundstuck,https://www.immowelt.de/expose/9669e2b3-26b4-4aef-b3f8-96a547ca908d,2791,"Seegefeld,  Falkensee (14612)",274
+FalkenhÃ¶h, Falkensee (14612),845.000 5.581,5 Zimmer,"151,4 m²",634 m² Grundstuck,https://www.immowelt.de/expose/7580bc34-ac62-4392-8583-3fc2e846b987,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+Falkenhagen, Falkensee (14612),835.000 6.128,6 Zimmer,"136,3 m²",318 m² Grundstuck,https://www.immowelt.de/expose/49fb6fc0-579a-4f90-86cc-cd65a2474c86,2791,"Falkenhagen,  Falkensee (14612)",140
+Seegefeld, Falkensee (14612),595.000 3.967,5 Zimmer,150 m²,497 m² Grundstuck,https://www.immowelt.de/expose/f243f35d-40d4-48d8-a7c0-a55190a610ba,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),499.900 3.048,5 Zimmer,164 m²,787 m² Grundstuck,https://www.immowelt.de/expose/af4d8b0e-ddcc-4117-b637-123bf2dc73e8,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhagen, Falkensee (14612),1.249.000 4.367,8 Zimmer,286 m²,750 m² Grundstuck,https://www.immowelt.de/expose/352937aa-85b0-473b-8cb3-a08db6560d06,2791,"Falkenhagen,  Falkensee (14612)",140
+Seegefeld, Falkensee (14612),598.000 5.980,4 Zimmer,100 m²,1.571 m² Grundstuck,https://www.immowelt.de/expose/5737662b-857b-4e37-85fe-13688938973a,2791,"Seegefeld,  Falkensee (14612)",274
+Finkenkrug, Falkensee (14612),448.000 3.528,6 Zimmer,127 m²,172 m² Grundstuck,https://www.immowelt.de/expose/fdb8c0d1-094d-4457-af30-449224846218,2791,"Finkenkrug,  Falkensee (14612)",109
+FalkenhÃ¶h, Falkensee (14612),445.000 3.708,3 Zimmer,120 m²,178 m² Grundstuck,https://www.immowelt.de/expose/7acc04f5-135d-41d1-927f-4a16d8896d5b,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+Falkenhagen, Falkensee (14612),892.188 5.416,6 Zimmer,"164,7 m²",719 m² Grundstuck,https://www.immowelt.de/expose/df033286-b719-4254-9d18-56831492b504,2791,"Falkenhagen,  Falkensee (14612)",140
+Finkenkrug, Falkensee (14612),895.000 3.841,8 Zimmer,233 m²,825 m² Grundstuck,https://www.immowelt.de/expose/d0e5beee-6775-4152-bd26-06d9a9fc2f9e,2791,"Finkenkrug,  Falkensee (14612)",109
+FalkenhÃ¶h, Falkensee (14612),180.000 3.333,2 Zimmer,54 m²,Unknown,https://www.immowelt.de/expose/bee6eb60-13e9-4d2c-8455-82f098b4ed21,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+Finkenkrug, Falkensee (14612),777.000 4.544,3 Zimmer,171 m²,1.035 m² Grundstuck,https://www.immowelt.de/expose/557e3244-80ce-4239-845a-8deda8eb1acd,2791,"Finkenkrug,  Falkensee (14612)",109
+Falkenhagen, Falkensee (14612),1.750.000 5.627,8 Zimmer,311 m²,1.652 m² Grundstuck,https://www.immowelt.de/expose/e6aebb74-573a-4dcd-9a29-5c7e9b17d750,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhain, Falkensee (14612),384.212 2.883,6 Zimmer,"133,3 m²",515 m² Grundstuck,https://www.immowelt.de/expose/1684b2ea-60a7-47a7-99ed-f03733a3d4dd,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),565.378 4.876,6 Zimmer,116 m²,515 m² Grundstuck,https://www.immowelt.de/expose/4472dbea-009a-4ebf-8826-e32e09a87e31,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),447.773 2.426,9 Zimmer,"184,6 m²",515 m² Grundstuck,https://www.immowelt.de/expose/1ad15403-4f1b-4791-8426-b8c8353a7621,2791,"Falkenhain,  Falkensee (14612)",109
+Waldheim, Falkensee (14612),677.052 3.668,9 Zimmer,"184,6 m²",669 m² Grundstuck,https://www.immowelt.de/expose/4d5faf23-b525-4ec6-a674-dcbbdd4518fe,2791,"Waldheim,  Falkensee (14612)",26
+Waldheim, Falkensee (14612),621.103 4.660,6 Zimmer,"133,3 m²",669 m² Grundstuck,https://www.immowelt.de/expose/1c6c071f-510b-4203-b2ec-b8e38cde5f57,2791,"Waldheim,  Falkensee (14612)",26
+Falkenhain, Falkensee (14612),743.125 6.409,6 Zimmer,116 m²,1.049 m² Grundstuck,https://www.immowelt.de/expose/2937f408-ec67-48a7-a609-dd07abaed131,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),793.550 5.954,6 Zimmer,"133,3 m²",1.049 m² Grundstuck,https://www.immowelt.de/expose/0f70763b-3211-4382-b97e-abc3b18bb331,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),858.119 4.649,9 Zimmer,"184,6 m²",1.049 m² Grundstuck,https://www.immowelt.de/expose/799ddaa8-7b6d-428f-8dbc-e800d033f722,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhagen, Falkensee (14612),1.299.000 4.177,8 Zimmer,311 m²,820 m² Grundstuck,https://www.immowelt.de/expose/3f751b01-c98f-4865-9095-a3e7cdd99417,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhagen, Falkensee (14612),1.299.000 4.177,8 Zimmer,311 m²,820 m² Grundstuck,https://www.immowelt.de/expose/d5fce51d-9124-40db-a52c-90f7cfe17250,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhain, Falkensee (14612),766.034 5.280,6 Zimmer,"145,1 m²",1.049 m² Grundstuck,https://www.immowelt.de/expose/1789fba5-59d7-477e-a926-197004544659,2791,"Falkenhain,  Falkensee (14612)",109
+FalkenhÃ¶h, Falkensee (14612),1.375.000 6.166,5 Zimmer,223 m²,922 m² Grundstuck,https://www.immowelt.de/expose/f99c9d10-6179-44be-bbec-d05de411dad9,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+Falkenhain, Falkensee (14612),299.000 5.980,2 Zimmer,50 m²,EG,https://www.immowelt.de/expose/a6aee197-38da-4eea-93f2-a3002b39ff04,2791,"Falkenhain,  Falkensee (14612)",109
+FalkenhÃ¶h, Falkensee (14612),Preis auf Anfrage,5 Zimmer,136 m²,199 m² Grundstuck,https://www.immowelt.de/expose/074b2fe1-2d2c-43a5-a5ed-14ce1752cfdd,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+FalkenhÃ¶h, Falkensee (14612),180.000 3.333,54 m²,Unknown,Unknown,https://www.immowelt.de/expose/1cd39511-812d-4ac5-b4f7-aec162b41fbc,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+Seegefeld, Falkensee (14612),649.000 5.643,4 Zimmer,115 m²,891 m² Grundstuck,https://www.immowelt.de/expose/3f119843-e655-4490-8094-68e6740f8a56,2791,"Seegefeld,  Falkensee (14612)",274
+FalkenhÃ¶h, Falkensee (14612),580.000 4.833,4 Zimmer,120 m²,583 m² Grundstuck,https://www.immowelt.de/expose/488264b6-9337-4c38-a03c-e6818406ff02,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+FalkenhÃ¶h, Falkensee (14612),180.000 3.333,2 Zimmer,54 m²,Unknown,https://www.immowelt.de/expose/a8016448-9642-4613-b1c6-32d4260d0280,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+Falkenhagen, Falkensee (14612),875.000 6.076,5 Zimmer,144 m²,350 m² Grundstuck,https://www.immowelt.de/expose/319c40b7-e0ad-400d-94c8-265c406776e2,2791,"Falkenhagen,  Falkensee (14612)",140
+Seegefeld, Falkensee (14612),1.750.000 2.436,28 Zimmer,"718,5 m²",1.143 m² Grundstuck,https://www.immowelt.de/expose/04cafec5-2ddb-4e40-b585-e9a3254dd65b,2791,"Seegefeld,  Falkensee (14612)",274
+Finkenkrug, Falkensee (14612),1.395.000 5.514,7 Zimmer,253 m²,1.258 m² Grundstuck,https://www.immowelt.de/expose/f9bdf777-e946-4590-a458-38ab0e427aba,2791,"Finkenkrug,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),612.000 5.231,4 Zimmer,117 m²,747 m² Grundstuck,https://www.immowelt.de/expose/d8090268-5eb7-4840-8704-8abd32b076b7,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),790.000 5.338,5 Zimmer,148 m²,1.733 m² Grundstuck,https://www.immowelt.de/expose/7c356bb2-c028-4d19-bb9e-96e3a7188eca,2791,"Falkenhain,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),610000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/1f59b43a-2152-432e-8581-8b3f32cb4e08,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),610000,953 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/6829f48f-7d82-46ed-af3c-c60ca4018736,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),380.000 3.800,4 Zimmer,96 m²,630 m² Grundstuck,https://www.immowelt.de/expose/e60770b4-9835-450b-9160-4f47d931a9f7,2791,"Falkenhain,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),529.500 3.652,5 Zimmer,145 m²,475 m² Grundstuck,https://www.immowelt.de/expose/f0e30067-3c6d-47f7-a8af-1dd35cf9d070,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),448.000 5.271,4 Zimmer,85 m²,968 m² Grundstuck,https://www.immowelt.de/expose/428835d5-d8ba-4cc7-8af6-256f33a80b0d,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),655.000 3.342,9 Zimmer,196 m²,Unknown,https://www.immowelt.de/expose/207ae5db-f0cc-4d07-bfa7-a69fbdcba9e9,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),680.000 2.021,"336,5 m²",Unknown,Unknown,https://www.immowelt.de/expose/0f636753-7f91-4a45-b59b-df4740b68bab,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),745.000 5.140,4 Zimmer,"144,9 m²",698 m² Grundstuck,https://www.immowelt.de/expose/68e73dd6-7ae4-4021-a6d1-a35a01c32554,2791,"Falkenhain,  Falkensee (14612)",109
+Dusseldorfer StraÃŸe 8, Falkensee (14612),549.000 4.256,129 m²,300 m² Grundstuck,Unknown,https://www.immowelt.de/expose/6d0b042c-95d8-470d-ab2f-2ad0d28c023d,2791,"Dusseldorfer StraÃŸe 8,  Falkensee (14612)",0
+Falkenhain, Falkensee (14612),320.000 3.200,5 Zimmer,100 m²,299 m² Grundstuck,https://www.immowelt.de/expose/9fe96a1a-3ae0-4327-ba94-807c1d9fe268,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhagen, Falkensee (14612),455.000 3.640,5 Zimmer,125 m²,813 m² Grundstuck,https://www.immowelt.de/expose/f7c818e8-39c9-4495-adc3-5b646e538852,2791,"Falkenhagen,  Falkensee (14612)",140
+Seegefeld, Falkensee (14612),399.000 2.871,6 Zimmer,139 m²,660 m² Grundstuck,https://www.immowelt.de/expose/f1aa255d-2bec-44dc-bf86-16e33fd49441,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),435.000 3.919,5 Zimmer,111 m²,383 m² Grundstuck,https://www.immowelt.de/expose/d165495a-a610-412d-96ce-c03cf807dba9,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),605.000 5.550,3 Zimmer,109 m²,2. Geschoss,https://www.immowelt.de/expose/0d66dc78-884e-4264-8e9e-839afc62a37f,2791,"Falkenhain,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),898.000 12.829,3 Zimmer,70 m²,2.280 m² Grundstuck,https://www.immowelt.de/expose/2ddbe425-cb47-4f49-80ad-81ba68a8f611,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhagen, Falkensee (14612),420.000 4.038,4 Zimmer,104 m²,1.325 m² Grundstuck,https://www.immowelt.de/expose/50057e99-609b-49c6-9d65-0be8db221317,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhain, Falkensee (14612),Preis auf Anfrage,6 Zimmer,179 m²,786 m² Grundstuck,https://www.immowelt.de/expose/827dc974-7ed0-4e81-b122-3a7ccec3f9cb,2791,"Falkenhain,  Falkensee (14612)",109
+Finkenkrug, Falkensee (14612),240.000 3.429,3 Zimmer,70 m²,804 m² Grundstuck,https://www.immowelt.de/expose/3c1fd23a-a3b6-4388-9396-db6cbd5a4d58,2791,"Finkenkrug,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),485.000 6.063,3 Zimmer,80 m²,EG,https://www.immowelt.de/expose/3343d430-3c1f-4940-b2ba-8305c1870e4c,2791,"Falkenhain,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),465.000 5.167,4 Zimmer,90 m²,1.197 m² Grundstuck,https://www.immowelt.de/expose/41b27fa2-93ba-4144-bcba-5dd52ca49303,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhagen, Falkensee (14612),1.265.000 3.355,377 m²,545 m² Grundstuck,Unknown,https://www.immowelt.de/expose/c7d99ca6-d8a4-4ae4-892e-432402b4fca7,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhain, Falkensee (14612),395.000 6.810,2 Zimmer,58 m²,898 m² Grundstuck,https://www.immowelt.de/expose/126a8837-3f03-4ac7-be20-15f27db05664,2791,"Falkenhain,  Falkensee (14612)",109
+FalkenhÃ¶h, Falkensee (14612),290.000 2.980,4 Zimmer,"97,3 m²",2. Geschoss,https://www.immowelt.de/expose/43037175-78d2-4be8-af52-2f24c8339262,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+Seegefeld, Falkensee (14612),830.000 5.929,4 Zimmer,140 m²,1.366 m² Grundstuck,https://www.immowelt.de/expose/be9f780a-9f03-4060-ae89-f84c1a8f195e,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),1.250.000 4.717,11 Zimmer,265 m²,1.567 m² Grundstuck,https://www.immowelt.de/expose/424aff49-63ce-4afe-82a7-88f9ae753649,2791,"Falkenhain,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),979.000 4.166,12 Zimmer,235 m²,1.324 m² Grundstuck,https://www.immowelt.de/expose/9e411d90-b848-4055-b067-3bb5bc380bed,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),199.000 3.980,2 Zimmer,50 m²,725 m² Grundstuck,https://www.immowelt.de/expose/3d2c6b5b-1377-49a0-8c3d-72e2341a1343,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhagen, Falkensee (14612),675.000 5.947,3 Zimmer,131 m²,EG,https://www.immowelt.de/expose/2eee2033-2aa3-4771-903d-2b5fcbaac402,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhagen, Falkensee (14612),375.000 5.886,2 Zimmer,"72,2 m²",1. Geschoss,https://www.immowelt.de/expose/347131d3-93e8-4248-9338-bd63873ee246,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhain, Falkensee (14612),1.295.000 5.756,"5,5 Zimmer",225 m²,959 m² Grundstuck,https://www.immowelt.de/expose/11846e0e-048e-4578-a6c0-f60883430aed,2791,"Falkenhain,  Falkensee (14612)",109
+Finkenkrug, Falkensee (14612),850.000 6.538,4 Zimmer,130 m²,1.545 m² Grundstuck,https://www.immowelt.de/expose/b2da19b9-df76-4c7d-8c8a-8297b5d595f6,2791,"Finkenkrug,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),220.000 4.000,3 Zimmer,55 m²,417 m² Grundstuck,https://www.immowelt.de/expose/3f652509-024a-48b8-9c56-7cd96802005c,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),630.000 4.565,4 Zimmer,138 m²,667 m² Grundstuck,https://www.immowelt.de/expose/346f946b-cefe-422d-8db7-6fd562ab01eb,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),1195000,1.046 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/818846ed-bdf4-4838-9d0a-97b4c1c65348,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),725.000 5.254,4 Zimmer,138 m²,1.089 m² Grundstuck,https://www.immowelt.de/expose/6f91a4c9-6cfe-41bb-8ead-7241a94d6d25,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),299.000 5.944,2 Zimmer,"50,3 m²",EG,https://www.immowelt.de/expose/ca15b82a-aa1e-4eca-8aca-a523d98499ed,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),550.000 6.250,3 Zimmer,88 m²,1. Geschoss,https://www.immowelt.de/expose/a94fcddf-7700-40b8-9dca-c166697006ae,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),320.000 6.400,2 Zimmer,50 m²,1. Geschoss,https://www.immowelt.de/expose/84d4a9de-ddd4-4576-aa3e-50d943e82954,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhagen, Falkensee (14612),220.000 4.074,1 Zimmer,54 m²,Unknown,https://www.immowelt.de/expose/b2de275b-83d4-4053-9261-ebbcf7622afd,2791,"Falkenhagen,  Falkensee (14612)",140
+Finkenkrug, Falkensee (14612),650.000 5.963,3 Zimmer,109 m²,1.293 m² Grundstuck,https://www.immowelt.de/expose/0da3f6d8-908a-4cd8-8735-1c1363a41ba0,2791,"Finkenkrug,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),950.000 3.333,10 Zimmer,285 m²,1.155 m² Grundstuck,https://www.immowelt.de/expose/49ee4861-0ccb-4000-8a87-10ab05d362c9,2791,"Seegefeld,  Falkensee (14612)",274
+FalkenhÃ¶h, Falkensee (14612),599.000 3.744,5 Zimmer,160 m²,966 m² Grundstuck,https://www.immowelt.de/expose/9606d981-5b9a-4826-9994-2c29a55a5ca7,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+FalkenhÃ¶h, Falkensee (14612),985.000 6.006,4 Zimmer,164 m²,Unknown,https://www.immowelt.de/expose/53b5b744-9c93-46b6-a675-cfa01b2a6a5d,2791,"FalkenhÃ¶h,  Falkensee (14612)",0
+Falkenhagen, Falkensee (14612),1.299.000 4.639,9 Zimmer,280 m²,780 m² Grundstuck,https://www.immowelt.de/expose/5898db7f-a66e-4225-83eb-025257f6c0df,2791,"Falkenhagen,  Falkensee (14612)",140
+Falkenhain, Falkensee (14612),495.000 4.125,4 Zimmer,120 m²,999 m² Grundstuck,https://www.immowelt.de/expose/6bdfab2e-1089-4220-ba99-a34f14d4e882,2791,"Falkenhain,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),Preis auf Anfrage,3 Zimmer,96 m²,1.500 m² Grundstuck,https://www.immowelt.de/expose/33fc0275-dc5a-4a2f-b6fb-70311dd07aaa,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhain, Falkensee (14612),599.000 4.341,4 Zimmer,138 m²,550 m² Grundstuck,https://www.immowelt.de/expose/17da1097-368c-4ec5-bc1c-20a8ddceb2de,2791,"Falkenhain,  Falkensee (14612)",109
+Leistikowstr. 55, Falkensee (14612),445.000 4.045,"4,5 Zimmer",110 m²,804 m² Grundstuck,https://www.immowelt.de/expose/f6e026c0-f860-46bb-a7c1-18d816adc118,2791,"Leistikowstr. 55,  Falkensee (14612)",95
+Seegefeld, Falkensee (14612),950.000 3.333,285 m²,1.155 m² Grundstuck,Unknown,https://www.immowelt.de/expose/c2d8e64a-ea85-4c46-9a60-3ed1acbbc84f,2791,"Seegefeld,  Falkensee (14612)",274
+Berliner StraÃŸe 17, Falkensee (14612),297.000 3.291,3 Zimmer,"90,3 m²",EG,https://www.immowelt.de/expose/30ae554c-7dc9-400f-b60f-de4dc06376e7,2791,"Berliner StraÃŸe 17,  Falkensee (14612)",0
+Seegefeld, Falkensee (14612),498.000 3.234,6 Zimmer,154 m²,749 m² Grundstuck,https://www.immowelt.de/expose/cdd115ca-8215-4369-9f50-2cd1c269bc96,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),1.870.000 7.792,5 Zimmer,240 m²,1.200 m² Grundstuck,https://www.immowelt.de/expose/3068888e-6e78-4853-b230-05ac1b0b3a3c,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhagen, Falkensee (14612),1.899.000 6.782,9 Zimmer,280 m²,1.652 m² Grundstuck,https://www.immowelt.de/expose/a82ff817-3baf-404c-8607-f645d0540e41,2791,"Falkenhagen,  Falkensee (14612)",140
+Seegefeld, Falkensee (14612),629.000 427,"3,5 Zimmer",85 m²,1.474 m² Grundstuck,https://www.immowelt.de/expose/bd960769-c361-4f4d-977b-7a2049b5b20d,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),319.500 434,"3,5 Zimmer",85 m²,737 m² Grundstuck,https://www.immowelt.de/expose/15aa5adf-040c-421b-bc1f-45dccfe97e6b,2791,"Seegefeld,  Falkensee (14612)",274
+Finkenkrug, Falkensee (14612),492.000 3.280,4 Zimmer,150 m²,1.141 m² Grundstuck,https://www.immowelt.de/expose/5512e0ec-cb64-43fd-a23d-1e1cbedc81c5,2791,"Finkenkrug,  Falkensee (14612)",109
+Montessoristr. 2, Falkensee (14612),298.000 4.904,2 Zimmer,"60,8 m²",1. Geschoss,https://www.immowelt.de/expose/f4c8b764-4732-4009-92b7-f69ccb5da4c8,2791,"Montessoristr. 2,  Falkensee (14612)",94
+Falkenhain, Falkensee (14612),525.000 5.250,"3,5 Zimmer",100 m²,710 m² Grundstuck,https://www.immowelt.de/expose/31d65e05-99c5-4954-b695-9b2c0b49c8b2,2791,"Falkenhain,  Falkensee (14612)",109
+Falkenhain, Falkensee (14612),1.650.000 2.609,"632,5 m²",2.122 m² Grundstuck,Unknown,https://www.immowelt.de/expose/8aa30ad0-7698-4749-9e02-e3db41a72887,2791,"Falkenhain,  Falkensee (14612)",109
+Seegefeld, Falkensee (14612),895.000 5.629,6 Zimmer,159 m²,583 m² Grundstuck,https://www.immowelt.de/expose/3773cf55-bf8c-4259-8968-0863a845815a,2791,"Seegefeld,  Falkensee (14612)",274
+Seegefeld, Falkensee (14612),895.000 5.629,6 Zimmer,159 m²,583 m² Grundstuck,https://www.immowelt.de/expose/e0c6e980-3c86-484f-991e-de6ea6dfa504,2791,"Seegefeld,  Falkensee (14612)",274
+Falkenhagen, Falkensee (14612),597.000 4.776,4 Zimmer,125 m²,937 m² Grundstuck,https://www.immowelt.de/expose/ea8061e9-b3a8-4069-932b-00eac04639b7,2791,"Falkenhagen,  Falkensee (14612)",140
+Berliner Str., Falkensee (14612),170.000 2.023,3 Zimmer,84 m²,frei ab sofort,https://www.immowelt.de/expose/f85f5f0f-751c-4b32-bca3-4b7669a56bfa,2791,"Berliner Str.,  Falkensee (14612)",113
+Brieselang, Brieselang (14656),425.988 2.974,4 Zimmer,"143,3 m²",405 m² Grundstuck,https://www.immowelt.de/expose/0124eb9c-54ca-4887-8512-5c9de8619dd8,2791,"Brieselang,  Brieselang (14656)",32
+SchÃ¶nwalde-Siedlung, SchÃ¶nwalde-Glien (14621),1.052.555 4.441,7 Zimmer,237 m²,920 m² Grundstuck,https://www.immowelt.de/expose/b9855ee4-170b-466a-a2a6-617c452e651b,2791,"SchÃ¶nwalde-Siedlung,  SchÃ¶nwalde-Glien (14621)",0
+Brieselang, Brieselang (14656),509.000 3.799,6 Zimmer,134 m²,403 m² Grundstuck,https://www.immowelt.de/expose/3646e9ad-04b8-45ae-b6d5-ffc36222d10e,2791,"Brieselang,  Brieselang (14656)",32
+SchÃ¶nwalde-Siedlung, SchÃ¶nwalde-Glien (14621),765.000 4.135,10 Zimmer,185 m²,870 m² Grundstuck,https://www.immowelt.de/expose/1fd4b544-3da9-4be6-9fb1-3c970be9d9d8,2791,"SchÃ¶nwalde-Siedlung,  SchÃ¶nwalde-Glien (14621)",0
+SchÃ¶nwalde-Siedlung, SchÃ¶nwalde-Glien (14621),544.899 4.036,4 Zimmer,135 m²,650 m² Grundstuck,https://www.immowelt.de/expose/5c2649b2-7a4f-4f97-abb8-15339fc6921c,2791,"SchÃ¶nwalde-Siedlung,  SchÃ¶nwalde-Glien (14621)",0
+Brieselang, Brieselang (14656),499.000 3.724,5 Zimmer,134 m²,1.181 m² Grundstuck,https://www.immowelt.de/expose/eab776bd-a4a2-425b-9ce2-e006b430cf5e,2791,"Brieselang,  Brieselang (14656)",32
+Brieselang, Brieselang (14656),656.666 4.141,5 Zimmer,"158,6 m²",585 m² Grundstuck,https://www.immowelt.de/expose/958729f5-793f-4128-93da-62d01666c641,2791,"Brieselang,  Brieselang (14656)",32
+SchÃ¶nwalde-Siedlung, SchÃ¶nwalde-Glien (14621),755.000 5.593,4 Zimmer,135 m²,918 m² Grundstuck,https://www.immowelt.de/expose/b5cca3d0-3587-4649-b741-08a3140a4845,2791,"SchÃ¶nwalde-Siedlung,  SchÃ¶nwalde-Glien (14621)",0
+Brieselang, Brieselang (14656),645.000 9.214,1 Zimmer,70 m²,900 m² Grundstuck,https://www.immowelt.de/expose/cbd9d137-4d31-4c51-a8aa-e47c14cc2d6b,2791,"Brieselang,  Brieselang (14656)",32
+Brieselang, Brieselang (14656),939.989 4.136,6 Zimmer,"227,3 m²",765 m² Grundstuck,https://www.immowelt.de/expose/4dc0bf6c-b17c-4dee-b77a-0af7912d57ab,2791,"Brieselang,  Brieselang (14656)",32
+Dallgow, Dallgow-DÃ¶beritz (14624),699.500 4.484,5 Zimmer,156 m²,765 m² Grundstuck,https://www.immowelt.de/expose/b96ed221-d6d4-4083-a7c4-36dbeb93ace3,2791,"Dallgow,  Dallgow-DÃ¶beritz (14624)",0
+Am Wald 92, Brieselang (14656),1.590.000 4.789,"7,5 Zimmer",332 m²,1.523 m² Grundstuck,https://www.immowelt.de/expose/e0884c64-db87-4572-83c7-93130baddde2,2791,"Am Wald 92,  Brieselang (14656)",10
+Priort, Wustermark (14624),259.949 1.955,4 Zimmer,133 m²,500 m² Grundstuck,https://www.immowelt.de/expose/6dbedaed-a76f-4f58-85f9-8f78011edb22,2791,"Priort,  Wustermark (14624)",35
+SchÃ¶nwalde-Siedlung, SchÃ¶nwalde-Glien (14621),738.000 4.446,5 Zimmer,166 m²,925 m² Grundstuck,https://www.immowelt.de/expose/3bbcad92-c4f4-4279-ba2f-73e0c420c01d,2791,"SchÃ¶nwalde-Siedlung,  SchÃ¶nwalde-Glien (14621)",0
+Fellbach - Kernstadt, Fellbach (70736),420.000 5.250,"3,5 Zimmer",80 m²,2. Geschoss,https://www.immowelt.de/expose/8303e2c5-2b3f-4b16-a373-4776707eae61,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Fellbach - Kernstadt, Fellbach (70734),435.000 4.142,"3,5 Zimmer",105 m²,EG,https://www.immowelt.de/expose/60adcb75-155a-4e8e-be51-eb07dba3c23c,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Schmiden, Fellbach / Schmiden (70736),448.000 2.422,8 Zimmer,185 m²,2. Geschoss,https://www.immowelt.de/expose/d6f29f1a-7b58-4a7b-8dc4-061433f0d318,2793,"Schmiden,  Fellbach / Schmiden (70736)",26
+Oeffingen, Fellbach (70736),410.000 3.727,"4,5 Zimmer",110 m²,167 m² Grundstuck,https://www.immowelt.de/expose/210d317d-07e9-4201-8cd5-cadd70b09ff6,2793,"Oeffingen,  Fellbach (70736)",97
+Fellbach - Kernstadt, Fellbach (70734),240.000 3.509,3 Zimmer,68 m²,1. Geschoss,https://www.immowelt.de/expose/1259e24d-3a7e-4a0d-b33d-508c94b1ad2c,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70734),449.000 5.054,3 Zimmer,"88,8 m²",Unknown,https://www.immowelt.de/expose/95ce9f2b-d75d-4786-ae7c-20efaf32cfbe,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Schmiden, Fellbach (70736),779.000 3.895,9 Zimmer,200 m²,799 m² Grundstuck,https://www.immowelt.de/expose/4a92dbf8-bcb0-43aa-b0aa-fe8c7eff5514,2793,"Schmiden,  Fellbach (70736)",141
+Fellbach - Kernstadt, Fellbach (70734),399.500 4.342,"3,5 Zimmer",92 m²,EG,https://www.immowelt.de/expose/182766bb-35e1-43b2-a4d1-dd9ec6ed4492,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Schmiden, Fellbach (70736),349.500 3.718,4 Zimmer,94 m²,EG,https://www.immowelt.de/expose/65ed5a85-59a3-4110-9606-16492198bd77,2793,"Schmiden,  Fellbach (70736)",141
+Fellbach - Kernstadt, Fellbach (70736),599.000 2.951,9 Zimmer,203 m²,401 m² Grundstuck,https://www.immowelt.de/expose/59f0191a-dce7-4f83-a662-a569259efe39,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Schmiden, Fellbach / Schmiden (70736),249.000 2.677,4 Zimmer,93 m²,2. Geschoss,https://www.immowelt.de/expose/66d79265-1a00-4d13-bd05-f271e63f7492,2793,"Schmiden,  Fellbach / Schmiden (70736)",26
+Schmiden, Fellbach / Schmiden (70736),199.000 2.163,4 Zimmer,92 m²,2. Geschoss,https://www.immowelt.de/expose/dd902599-b377-4aee-a56d-a9b42eda583d,2793,"Schmiden,  Fellbach / Schmiden (70736)",26
+Fellbach - Kernstadt, Fellbach (70736),549.900 6.043,3 Zimmer,91 m²,3. Geschoss,https://www.immowelt.de/expose/25f93ea4-e081-4260-bbf9-f989ad4257ad,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Fellbach - Kernstadt, Fellbach (70736),699.000 6.078,3 Zimmer,115 m²,3. Geschoss,https://www.immowelt.de/expose/0261731c-6476-4dd5-bb05-214c13cf2ea7,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Fellbach - Kernstadt, Fellbach (70736),435.000 3.199,4 Zimmer,136 m²,411 m² Grundstuck,https://www.immowelt.de/expose/1d7c7071-d158-4379-8410-579699a75c0b,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Oeffingen, Fellbach (70736),297.400 6.099,"2,5 Zimmer","48,8 m²",Unknown,https://www.immowelt.de/expose/e26cce7e-82c5-4484-8ed1-0c3777f30432,2793,"Oeffingen,  Fellbach (70736)",97
+Fellbach - Kernstadt, Fellbach (70734),259.000 3.548,3 Zimmer,73 m²,1. Geschoss,https://www.immowelt.de/expose/e0a7d37d-7058-4893-93b0-b8ed46c53e8b,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Schmiden, Fellbach (70736),210.000 4.038,"2,5 Zimmer",52 m²,Unknown,https://www.immowelt.de/expose/49da04f2-ec0b-4807-b951-0d7f43c4bd42,2793,"Schmiden,  Fellbach (70736)",141
+Fellbach - Kernstadt, Fellbach (70734),349.000 4.155,"3,5 Zimmer",84 m²,Unknown,https://www.immowelt.de/expose/cb0924d9-bdcc-490c-897f-e975bbdda665,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+PfarrstraÃŸe 5, Fellbach (70734),269.500 4.146,"2,5 Zimmer",65 m²,3. Geschoss,https://www.immowelt.de/expose/f95564f3-f951-4c11-991f-0d2d25b60352,2793,"PfarrstraÃŸe 5,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70734),1.199.500 3.559,16 Zimmer,337 m²,536 m² Grundstuck,https://www.immowelt.de/expose/68e4954a-da82-4c6d-b6e6-30a2c05560ed,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70734),1.230.000 4.362,11 Zimmer,282 m²,516 m² Grundstuck,https://www.immowelt.de/expose/7d9886e6-7e6a-488f-8c0c-a55dc7a33177,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70736),1.250.000 5.144,11 Zimmer,243 m²,676 m² Grundstuck,https://www.immowelt.de/expose/e32f55de-b03a-44d6-b587-402304c6c827,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Fellbach - Kernstadt, Fellbach (70736),950.000 4.292,8 Zimmer,"221,5 m²","226,1 m² Grundstuck",https://www.immowelt.de/expose/3ff97ce0-b6cf-4599-b2d1-daf3dbf10b72,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Schmiden, Fellbach (70736),295.000 3.598,3 Zimmer,82 m²,Unknown,https://www.immowelt.de/expose/5f0be297-6940-49f9-9044-cb815b82e7e4,2793,"Schmiden,  Fellbach (70736)",141
+Fellbach - Kernstadt, Fellbach (70734),307.500 3.942,"2,5 Zimmer",78 m²,1. Geschoss,https://www.immowelt.de/expose/bbf6374b-2b60-4643-bb9a-a171c6ed6f49,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70734),425.000 5.592,"3,5 Zimmer",76 m²,Unknown,https://www.immowelt.de/expose/04650e79-3832-4766-b29e-ea6b1c61e9d9,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Schmiden, Fellbach (70736),275.000 3.560,3 Zimmer,"77,3 m²",Unknown,https://www.immowelt.de/expose/2b5a0582-c2a3-4307-8ae3-36e773952ecc,2793,"Schmiden,  Fellbach (70736)",141
+Schmiden, Fellbach (70736),659.000 5.473,6 Zimmer,"120,4 m²",126 m² Grundstuck,https://www.immowelt.de/expose/9208fdb9-e1ab-4235-bad3-6a53135125ff,2793,"Schmiden,  Fellbach (70736)",141
+Schmiden, Fellbach (70736),849.000 3.683,11 Zimmer,"230,5 m²",452 m² Grundstuck,https://www.immowelt.de/expose/32e7c7b9-005e-4e9a-95ad-4b9475871b26,2793,"Schmiden,  Fellbach (70736)",141
+Fellbach - Kernstadt, Fellbach (70734),499.000 3.395,6 Zimmer,147 m²,Unknown,https://www.immowelt.de/expose/6ec24aca-31c6-421d-b339-d83375e82573,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70734),425.000 5.592,"3,5 Zimmer",76 m²,119 m² Grundstuck,https://www.immowelt.de/expose/d544fad9-a268-4acf-b191-8acb9904fb50,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70734),499.000 3.395,6 Zimmer,147 m²,164 m² Grundstuck,https://www.immowelt.de/expose/c6e6db4a-892e-455b-b013-72a678b2ebd3,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70734),267.000 3.658,3 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/7533f499-7eb0-452e-8d73-2df2540e1894,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Oeffingen, Fellbach (70736),150.000 3.626,2 Zimmer,"41,4 m²",2. Geschoss,https://www.immowelt.de/expose/bf3acd88-18e5-4497-a58b-ed45726897d3,2793,"Oeffingen,  Fellbach (70736)",97
+Fellbach - Kernstadt, Fellbach (70734),850.000 3.208,10 Zimmer,265 m²,493 m² Grundstuck,https://www.immowelt.de/expose/a229a8d3-4869-40b4-80b0-d4ff17f574ec,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Oeffingen, Fellbach (70736),363.000 5.042,"3,5 Zimmer",72 m²,2. Geschoss,https://www.immowelt.de/expose/1da075ea-103e-42ca-836e-42288e684158,2793,"Oeffingen,  Fellbach (70736)",97
+Oeffingen, Fellbach/Ã–ffingen (70736),449.000 2.595,7 Zimmer,173 m²,Unknown,https://www.immowelt.de/expose/f19666c4-1579-4a7f-8373-4106268c8205,2793,"Oeffingen,  Fellbach/Ã–ffingen (70736)",0
+Oeffingen, Fellbach (70736),493.000 3.287,8 Zimmer,150 m²,416 m² Grundstuck,https://www.immowelt.de/expose/bce4d9c2-8d76-4c2d-ad76-d6a734325bfa,2793,"Oeffingen,  Fellbach (70736)",97
+Schmiden, Fellbach - Schmiden (70736),389.000 4.863,3 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/56a35e4c-e124-4887-8954-4b0772b4a5cc,2793,"Schmiden,  Fellbach - Schmiden (70736)",26
+Fellbach - Kernstadt, Fellbach (70734),269.000 4.111,3 Zimmer,"65,4 m²",1. Geschoss,https://www.immowelt.de/expose/f036250e-1d92-4370-acd1-dc21bd75979a,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70734),259.000 3.866,3 Zimmer,67 m²,4. Geschoss,https://www.immowelt.de/expose/f4727ce7-7a3d-4099-b375-6209cec0b27d,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Oeffingen, Fellbach (70736),699.000 5.947,8 Zimmer,"117,5 m²",755 m² Grundstuck,https://www.immowelt.de/expose/53a01f4a-f1a2-4be3-a39e-ed6bd1448cbc,2793,"Oeffingen,  Fellbach (70736)",97
+Fellbach - Kernstadt, Fellbach (70736),459.000 3.375,4 Zimmer,136 m²,409 m² Grundstuck,https://www.immowelt.de/expose/15ec0a23-20df-4b29-ab8e-38d4663902fd,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Fellbach - Kernstadt, Fellbach (70736),485.000 2.870,4 Zimmer,169 m²,401 m² Grundstuck,https://www.immowelt.de/expose/4820728c-85bf-4f93-9ec6-80e3bda689e0,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Schmiden, Fellbach (70736),770.000 4.667,9 Zimmer,165 m²,160 m² Grundstuck,https://www.immowelt.de/expose/b380cd7b-ab2f-428c-82b4-93bbab2cc9c0,2793,"Schmiden,  Fellbach (70736)",141
+Fellbach - Kernstadt, Fellbach (70734),1.100.000 4.280,11 Zimmer,257 m²,633 m² Grundstuck,https://www.immowelt.de/expose/0b22f3c8-39ab-4077-b970-272aa5c4737e,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70736),198.000 3.300,3 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/b6f9c0a4-98f5-4124-aeec-26e718478311,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Fellbach - Kernstadt, Fellbach (70734),335.500 3.687,"3,5 Zimmer",91 m²,1. Geschoss,https://www.immowelt.de/expose/e1cc9be2-10e8-4cc5-88a5-2064fe6e69f4,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Schmiden, Fellbach (70736),175.000 4.557,2 Zimmer,"38,4 m²",EG,https://www.immowelt.de/expose/dc406a3f-ff63-43f8-bd7b-b50fa5262a09,2793,"Schmiden,  Fellbach (70736)",141
+Schmiden, Fellbach (70736),135.000 4.552,1 Zimmer,"29,7 m²",Unknown,https://www.immowelt.de/expose/9820d01b-30a9-42b6-b536-1b46ae89e8b6,2793,"Schmiden,  Fellbach (70736)",141
+Schmiden, Fellbach - Schmiden (70736),483.529 4.155,4 Zimmer,"116,4 m²",453 m² Grundstuck,https://www.immowelt.de/expose/d7e6bfed-d560-46eb-ae0c-72134a07cbbc,2793,"Schmiden,  Fellbach - Schmiden (70736)",26
+Fellbach - Kernstadt, Fellbach (70734),389.000 2.735,4 Zimmer,"142,2 m²",300 m² Grundstuck,https://www.immowelt.de/expose/f955fc94-1e3a-4f7e-b456-6e343b9cdef7,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70734),249.000 4.527,3 Zimmer,55 m²,1. Geschoss,https://www.immowelt.de/expose/1a2dea82-c40a-4023-a245-93bf60ab8cb5,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Schmiden, Fellbach / Schmiden (70736),569.000 3.948,"4,5 Zimmer","144,1 m²",2. Geschoss,https://www.immowelt.de/expose/4fd60f2b-bfbe-4497-a9d8-a42b767b3b09,2793,"Schmiden,  Fellbach / Schmiden (70736)",26
+Schmiden, Fellbach (70736),990.000 5.211,6 Zimmer,190 m²,890 m² Grundstuck,https://www.immowelt.de/expose/0b322b00-d17a-4cbc-9f2f-33f5c931a587,2793,"Schmiden,  Fellbach (70736)",141
+Fellbach - Kernstadt, Fellbach (70736),1.499.000 5.765,8 Zimmer,260 m²,440 m² Grundstuck,https://www.immowelt.de/expose/869c6dc5-cc29-4f99-9c03-15495d4f3fa9,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Oeffingen, Fellbach (70736),1.290.000 5.079,7 Zimmer,254 m²,281 m² Grundstuck,https://www.immowelt.de/expose/c0ceab9c-d364-459b-83a2-3a61cdc7079b,2793,"Oeffingen,  Fellbach (70736)",97
+Fellbach - Kernstadt, Fellbach (70736),29.500 176,3 Zimmer,168 m²,300 m² Grundstuck,https://www.immowelt.de/expose/3d69a009-e231-4d57-b5f8-f87100188941,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Fellbach - Kernstadt, Fellbach (70734),1.520.000 3.269,"14,5 Zimmer",465 m²,311 m² Grundstuck,https://www.immowelt.de/expose/25b65e46-c690-4557-bfa8-2094fbdc5fa9,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70736),199.000 3.431,2 Zimmer,58 m²,Unknown,https://www.immowelt.de/expose/6fd4b361-9f04-4acc-bd1f-f6131d451bbc,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+KlosterstraÃŸe 5, Fellbach (70736),499.000 4.090,6 Zimmer,122 m²,55 m² Grundstuck,https://www.immowelt.de/expose/cf0c12a8-e29a-4ca5-bb6e-4f02365878a9,2793,"KlosterstraÃŸe 5,  Fellbach (70736)",0
+Oeffingen, Fellbach (70734),468.499 1.775,9 Zimmer,264 m²,Unknown,https://www.immowelt.de/expose/11475b81-117d-4e2f-b7a9-256d0a8c9ede,2793,"Oeffingen,  Fellbach (70734)",97
+Fellbach - Kernstadt, Fellbach (70734),850.000 4.802,"5,5 Zimmer",177 m²,frei ab sofort,https://www.immowelt.de/expose/ccfe83a6-c112-46b3-8700-782de060876b,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Fellbach - Kernstadt, Fellbach (70734),1.380.000 4.000,14 Zimmer,345 m²,359 m² Grundstuck,https://www.immowelt.de/expose/719b0e67-f1e2-4605-be0c-e1b958db2eb7,2793,"Fellbach - Kernstadt,  Fellbach (70734)",0
+Schmiden, Fellbach (70736),390.000 3.861,4 Zimmer,101 m²,2. Geschoss,https://www.immowelt.de/expose/3632c23d-9786-49ea-83b8-4d80c7899793,2793,"Schmiden,  Fellbach (70736)",141
+Lindberghstrasse, Fellbach (70736),200.000 2.632,3 Zimmer,76 m²,frei ab sofort,https://www.immowelt.de/expose/e06dc60e-f1b6-4890-b0b5-ea749fc6893d,2793,"Lindberghstrasse,  Fellbach (70736)",106
+Fellbach - Kernstadt, Fellbach (70736),950.000 4.292,8 Zimmer,"221,5 m²","226,1 m² Grundstuck",https://www.immowelt.de/expose/8ecbb2f3-d656-43d1-a722-fb522bdb780f,2793,"Fellbach - Kernstadt,  Fellbach (70736)",0
+Waiblingen - Kernstadt, Waiblingen (71334),259.000 3.810,"2,5 Zimmer",68 m²,Unknown,https://www.immowelt.de/expose/0ec55602-aa1a-4270-b702-6e5ea828dbac,2793,"Waiblingen - Kernstadt,  Waiblingen (71334)",0
+Waiblingen - Kernstadt, Waiblingen (71334),229.000 2.974,3 Zimmer,77 m²,3. Geschoss,https://www.immowelt.de/expose/27aec1f5-4466-4a61-9987-81aceab60fa7,2793,"Waiblingen - Kernstadt,  Waiblingen (71334)",0
+Aldingen 203, Remseck (71686),394.000 7.164,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/6d2ac9c2-d46b-4984-a966-56b05f450ccc,2793,"Aldingen 203,  Remseck (71686)",95
+Neugereut, Stuttgart / Neugereut (70378),340.000 3.441,"4,5 Zimmer","98,8 m²",Unknown,https://www.immowelt.de/expose/d1113641-926b-475c-b688-f773a6897c3f,2793,"Neugereut,  Stuttgart / Neugereut (70378)",106
+Waiblingen - Kernstadt, Waiblingen (71332),319.000 3.798,3 Zimmer,84 m²,1. Geschoss,https://www.immowelt.de/expose/0ed3a69b-a444-4f93-9be0-3ffa6f069c8a,2793,"Waiblingen - Kernstadt,  Waiblingen (71332)",0
+Neugereut, Stuttgart (70378),320.000 3.239,"4,5 Zimmer",99 m²,8. Geschoss,https://www.immowelt.de/expose/18d46d61-85e0-4d6b-ab1d-ba49084fdf78,2793,"Neugereut,  Stuttgart (70378)",148
+Waiblingen - Kernstadt, Waiblingen (71334),695.000 7.809,4 Zimmer,89 m²,Unknown,https://www.immowelt.de/expose/fab9258b-c621-4539-bb52-e97d7e28d9c6,2793,"Waiblingen - Kernstadt,  Waiblingen (71334)",0
+Neugereut, Stuttgart (70378),415.000 4.109,3 Zimmer,101 m²,4. Geschoss,https://www.immowelt.de/expose/b4a82669-9b67-4d84-8a8c-6aa518d55051,2793,"Neugereut,  Stuttgart (70378)",148
+Aldingen 203, Remseck (71686),547.000 6.924,3 Zimmer,79 m²,Unknown,https://www.immowelt.de/expose/d6f99cd9-63da-45fa-9a2b-1648f2861935,2793,"Aldingen 203,  Remseck (71686)",95
+Aldingen 203, Remseck (71686),768.000 7.350,4 Zimmer,"104,5 m²",Unknown,https://www.immowelt.de/expose/3f19ec51-6753-4b6e-a0f6-76c218bfe5c8,2793,"Aldingen 203,  Remseck (71686)",95
+Neugereut, Stuttgart (70378),339.000 3.433,"4,5 Zimmer","98,7 m²",2. Geschoss,https://www.immowelt.de/expose/db267bf9-6cbc-41c1-8fe3-4183094bf117,2793,"Neugereut,  Stuttgart (70378)",148
+Waiblingen - Kernstadt, Waiblingen (71332),930.000 4.794,7 Zimmer,194 m²,370 m² Grundstuck,https://www.immowelt.de/expose/bf7f2708-35d5-4974-9370-9d4e3f02c758,2793,"Waiblingen - Kernstadt,  Waiblingen (71332)",0
+Neugereut, Stuttgart / Neugereut (70378),329.000 3.970,"3,5 Zimmer","82,9 m²",3. Geschoss,https://www.immowelt.de/expose/07f99034-d105-4e06-badb-5b18503b4363,2793,"Neugereut,  Stuttgart / Neugereut (70378)",106
+Aldingen 203, Remseck am Neckar-Aldingen (71686),399.000 4.640,3 Zimmer,86 m²,Unknown,https://www.immowelt.de/expose/e24dc78b-e5ac-40a1-a197-fddec410a9ec,2793,"Aldingen 203,  Remseck am Neckar-Aldingen (71686)",42
+Aldingen 203, Remseck (71686),389.000 7.073,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/ab614383-de6e-4549-bf20-78b85b2f2ebd,2793,"Aldingen 203,  Remseck (71686)",95
+Pelikanstr. 32, Stuttgart (70378),338.900 4.060,3 Zimmer,"83,5 m²",2. Geschoss,https://www.immowelt.de/expose/b6f0233e-221d-4465-9f78-53157fb2b617,2793,"Pelikanstr. 32,  Stuttgart (70378)",145
+Aldingen 203, Remseck (71686),523.000 6.620,3 Zimmer,79 m²,Unknown,https://www.immowelt.de/expose/e24e571b-ed44-4f69-b40f-024c3ef81e17,2793,"Aldingen 203,  Remseck (71686)",95
+Hegnach, Waiblingen (71334),520.000 5.200,5 Zimmer,100 m²,706 m² Grundstuck,https://www.immowelt.de/expose/66557f60-d669-49ac-a08d-6eda43b0d6b3,2793,"Hegnach,  Waiblingen (71334)",49
+Fley / Helfe, Hagen (58099),497.450 3.015,5 Zimmer,165 m²,451 m² Grundstuck,https://www.immowelt.de/expose/02fae0ea-74f5-4fad-8ba4-de1d004ce8f5,2802,"Fley / Helfe,  Hagen (58099)",0
+Elsey-Nord, Hagen (58119),350.000 2.333,"9,5 Zimmer",150 m²,562 m² Grundstuck,https://www.immowelt.de/expose/5f195061-9d0e-40af-9cc3-34f0be8d3193,2802,"Elsey-Nord,  Hagen (58119)",220
+Westerbauer - Nord, Hagen (58135),308.000 2.154,5 Zimmer,143 m²,512 m² Grundstuck,https://www.immowelt.de/expose/e734eae6-87c3-425b-a739-09338db9f1d0,2802,"Westerbauer - Nord,  Hagen (58135)",287
+Holthausen, Hagen (58119),850.000 1.311,"648,1 m²",7.400 m² Grundstuck,Unknown,https://www.immowelt.de/expose/3c231620-806b-4880-a7f3-b0691df39bb6,2802,"Holthausen,  Hagen (58119)",67
+Boeler StraÃŸe, Hagen (58097),385.000 795,484 m²,728 m² Grundstuck,Unknown,https://www.immowelt.de/expose/e1982e1b-b495-4ade-99a3-3fd5fae031f3,2802,"Boeler StraÃŸe,  Hagen (58097)",0
+Gewecke / Tucking, Hagen (58135),484.541 3.412,"5,5 Zimmer",142 m²,526 m² Grundstuck,https://www.immowelt.de/expose/6c0c8e19-b5b5-4157-94ea-8af36f00174f,2802,"Gewecke / Tucking,  Hagen (58135)",0
+Gewecke / Tucking, Hagen (58135),498.245 3.610,"5,5 Zimmer",138 m²,383 m² Grundstuck,https://www.immowelt.de/expose/a05ab04c-8264-490f-b782-945b5bac0ef0,2802,"Gewecke / Tucking,  Hagen (58135)",0
+Fley / Helfe, Hagen (58099),368.000 2.726,5 Zimmer,135 m²,453 m² Grundstuck,https://www.immowelt.de/expose/ff1ae37a-56e9-4279-9960-8c8bf0ade8a1,2802,"Fley / Helfe,  Hagen (58099)",0
+Wehringhausen - Ost, Hagen (58095),87.600 736,4 Zimmer,119 m²,Unknown,https://www.immowelt.de/expose/63913b73-b3f8-4db4-9d82-5adb2aeadc9b,2802,"Wehringhausen - Ost,  Hagen (58095)",0
+Boelerheide, Hagen (58099),170.000 1.491,114 m²,Unknown,Unknown,https://www.immowelt.de/expose/edd4a63b-ac0e-41e6-b2af-6b8c2c2d0d39,2802,"Boelerheide,  Hagen (58099)",188
+Wehringhausen - Ost, Hagen (58091),683.408 4.142,"5,5 Zimmer",165 m²,734 m² Grundstuck,https://www.immowelt.de/expose/b2a7cbd7-ab5c-4052-8d24-5f024958c780,2802,"Wehringhausen - Ost,  Hagen (58091)",0
+Haspe-Sud, Hagen (58135),418.000 2.923,5 Zimmer,143 m²,699 m² Grundstuck,https://www.immowelt.de/expose/b7a5d3c8-ec58-4606-a19a-00260ea56283,2802,"Haspe-Sud,  Hagen (58135)",0
+Hohlestr. 19 a, Hagen (58091),322.210 3.222,3 Zimmer,100 m²,450 m² Grundstuck,https://www.immowelt.de/expose/97904bde-9f6e-4626-92fb-093f1965dc5f,2802,"Hohlestr. 19 a,  Hagen (58091)",263
+Hohenhof, Hagen (58091),Preis auf Anfrage,9 Zimmer,275 m²,880 m² Grundstuck,https://www.immowelt.de/expose/1026610f-84d0-4bdf-8a83-a376a9543399,2802,"Hohenhof,  Hagen (58091)",177
+Dahl, Hagen (58091),890.000 1.018,68 Zimmer,884 m²,942 m² Grundstuck,https://www.immowelt.de/expose/37a9c902-1f41-4888-bede-30dcedba12b1,2802,"Dahl,  Hagen (58091)",88
+Haspe-Zentrum, Hagen (58135),148.000 1.417,"3,5 Zimmer","104,4 m²",4. Geschoss,https://www.immowelt.de/expose/c03c6d48-b7f3-4505-8907-975e51887510,2802,"Haspe-Zentrum,  Hagen (58135)",423
+Oege / Nahmer, Hagen (58119),142.490 1.381,4 Zimmer,"103,2 m²",Unknown,https://www.immowelt.de/expose/8f44147d-1a0e-4d42-a1bb-41b7ac36f0cd,2802,"Oege / Nahmer,  Hagen (58119)",0
+Heuerfeld 2, Hagen (58097),476.000 2.848,5 Zimmer,"167,1 m²",310 m² Grundstuck,https://www.immowelt.de/expose/0c88aed6-89e3-4c64-8e70-0d13a09d85e5,2802,"Heuerfeld 2,  Hagen (58097)",194
+Heuerfeld 2, Hagen (58097),463.000 2.771,5 Zimmer,"167,1 m²",310 m² Grundstuck,https://www.immowelt.de/expose/efa05c40-eb58-4dd7-b70f-4f1dfbd29991,2802,"Heuerfeld 2,  Hagen (58097)",194
+Fley / Helfe, Hagen (58089),169.000 1.779,"4,5 Zimmer",95 m²,17. Geschoss,https://www.immowelt.de/expose/90848af7-d534-4761-839b-4a15d8839270,2802,"Fley / Helfe,  Hagen (58089)",0
+Hugelstr. 8, Hagen (58099),190.000 2.320,"3,5 Zimmer","81,9 m²",Unknown,https://www.immowelt.de/expose/4f44d747-43cb-4f9d-ac50-b6b397bf96ef,2802,"Hugelstr. 8,  Hagen (58099)",206
+Roggenkamp 8, Hagen (58093),59.950 1.665,"1,5 Zimmer",36 m²,7. Geschoss,https://www.immowelt.de/expose/1541ed88-1ef7-4bfd-afca-b913b10b927d,2802,"Roggenkamp 8,  Hagen (58093)",217
+HeinitzstraÃŸe 20, Hagen (58097),450.000 1.119,402 m²,Unknown,Unknown,https://www.immowelt.de/expose/b3fdf9d2-e157-44e5-a26c-7fd92170b671,2802,"HeinitzstraÃŸe 20,  Hagen (58097)",0
+Remberg, Hagen (58097),995.000 1.382,21 Zimmer,720 m²,233 m² Grundstuck,https://www.immowelt.de/expose/6c777777-0681-480f-bb23-ce99a9fb1b19,2802,"Remberg,  Hagen (58097)",491
+Emst-West, Hagen (58093),195.000 1.822,4 Zimmer,107 m²,Unknown,https://www.immowelt.de/expose/5b9b7488-4c54-448a-adbd-a789eb87fe8e,2802,"Emst-West,  Hagen (58093)",0
+Wehringhauser Str. 13, Hagen (58089),590.000 797,740 m²,240 m² Grundstuck,Unknown,https://www.immowelt.de/expose/859b1125-0037-4f7b-8c24-97411247b30d,2802,"Wehringhauser Str. 13,  Hagen (58089)",505
+Eckesey - Nord, Hagen (58089),890.000 842,1.057 m²,1.385 m² Grundstuck,Unknown,https://www.immowelt.de/expose/81d5b262-d54b-430d-8318-b1708f5f5c74,2802,"Eckesey - Nord,  Hagen (58089)",206
+Haspe-Zentrum, Hagen (58135),Preis auf Anfrage,650 m²,695 m² Grundstuck,Unknown,https://www.immowelt.de/expose/a049e827-070f-4cd6-8446-d775256a7fd7,2802,"Haspe-Zentrum,  Hagen (58135)",423
+Boeler StraÃŸe, Hagen (58097),1.055.000 1.049,1.006 m²,1.354 m² Grundstuck,Unknown,https://www.immowelt.de/expose/df5f7d91-ef3d-4175-863f-db942a5efeb4,2802,"Boeler StraÃŸe,  Hagen (58097)",0
+Halden / Herbeck, Hagen (58093),1.550.000 2.273,682 m²,5.690 m² Grundstuck,frei ab sofort,https://www.immowelt.de/expose/4580efaf-50dc-4ed3-9ce0-ad28688ec7dc,2802,"Halden / Herbeck,  Hagen (58093)",101
+Haspe-Zentrum, Hagen (58135),120.000 1.364,3 Zimmer,88 m²,1. Geschoss,https://www.immowelt.de/expose/15ad7e25-84c8-4b69-bc1e-1d3b54b58bd7,2802,"Haspe-Zentrum,  Hagen (58135)",423
+Remberg, Hagen (58095),345.000 2.018,7 Zimmer,171 m²,180 m² Grundstuck,https://www.immowelt.de/expose/5baf3cfc-8427-4d9b-9176-d436abc79ef5,2802,"Remberg,  Hagen (58095)",293
+Remberg, Hagen (58095),345.000 2.018,7 Zimmer,171 m²,180 m² Grundstuck,https://www.immowelt.de/expose/eb673df3-098e-47cd-8f73-5de0be6f51aa,2802,"Remberg,  Hagen (58095)",293
+Remberg, Hagen (58097),995.000 1.382,21 Zimmer,720 m²,233 m² Grundstuck,https://www.immowelt.de/expose/0529c3a7-d418-4826-aced-395b700cb7eb,2802,"Remberg,  Hagen (58097)",491
+-, Hagen (58097),799.000 4.994,6 Zimmer,160 m²,230 m² Grundstuck,https://www.immowelt.de/expose/6e9bdb81-c4f7-4f76-a2b1-f443f7118226,2802,"-,  Hagen (58097)",746
+Kuhlerkamp, Hagen (58135),595.000 2.390,10 Zimmer,249 m²,700 m² Grundstuck,https://www.immowelt.de/expose/b8d79fb8-c913-4d3d-8ed0-46d103ce672d,2802,"Kuhlerkamp,  Hagen (58135)",202
+Kuhlerkamp, Hagen (58135),595.000 2.390,10 Zimmer,249 m²,700 m² Grundstuck,https://www.immowelt.de/expose/4efd8e43-76fc-4a95-9e25-d94f9b05d686,2802,"Kuhlerkamp,  Hagen (58135)",202
+Kochstrasse, Hagen (58089),176.000 3.295,1 Zimmer,"53,4 m²",Unknown,https://www.immowelt.de/expose/6a0168f6-0a0b-495a-a770-c3e8499ca86f,2802,"Kochstrasse,  Hagen (58089)",268
+Eilpe-Nord, Hagen (58091),438.199 3.810,4 Zimmer,115 m²,500 m² Grundstuck,https://www.immowelt.de/expose/7290eb4d-fecf-4795-83c0-7edbb1eecb2e,2802,"Eilpe-Nord,  Hagen (58091)",284
+Holthausen, Hagen (59088),495.267 3.669,5 Zimmer,135 m²,570 m² Grundstuck,https://www.immowelt.de/expose/4de9b0de-a2be-4cca-b2d7-ebdae16dbd55,2802,"Holthausen,  Hagen (59088)",67
+Halden / Herbeck, Hagen (58099),482.796 3.862,5 Zimmer,125 m²,550 m² Grundstuck,https://www.immowelt.de/expose/62bf761d-9c73-46b6-8e4b-d746e08e98c3,2802,"Halden / Herbeck,  Hagen (58099)",101
+Spielbrink, Hagen (58135),419.000 3.495,4 Zimmer,"119,9 m²",161 m² Grundstuck,https://www.immowelt.de/expose/f4b03ef0-535a-469f-839e-02cc5ef0ba09,2802,"Spielbrink,  Hagen (58135)",165
+Eilpe-Sud / Selbecke, Hagen (58091),1.850.000 1.542,20 Zimmer,1.200 m²,4.300 m² Grundstuck,https://www.immowelt.de/expose/3aa568d1-13a1-450c-857f-bd60460f5463,2802,"Eilpe-Sud / Selbecke,  Hagen (58091)",0
+Altenhagen - Sud, Hagen (58097),429.000 894,24 Zimmer,480 m²,402 m² Grundstuck,https://www.immowelt.de/expose/597f7038-ee79-43ad-ae6a-4513e9f80430,2802,"Altenhagen - Sud,  Hagen (58097)",0
+Altenhagen - Sud, Hagen (58097),429.000 894,24 Zimmer,480 m²,402 m² Grundstuck,https://www.immowelt.de/expose/94246380-a118-45f2-93e3-e39e63179d31,2802,"Altenhagen - Sud,  Hagen (58097)",0
+AlleestraÃŸe, Hagen (58097),94.900 1.636,2 Zimmer,58 m²,1. Geschoss,https://www.immowelt.de/expose/3d7737ed-7cb4-4cce-8b6c-83e967d459ba,2802,"AlleestraÃŸe,  Hagen (58097)",0
+Boelerheide, Hagen (58099),170.000 1.491,114 m²,206 m² Grundstuck,Unknown,https://www.immowelt.de/expose/b8c8ad36-63c5-4f62-8ecb-06ea92c47ba9,2802,"Boelerheide,  Hagen (58099)",188
+Emst-West, Hagen (58093),120.000 1.229,4 Zimmer,"97,6 m²",4. Geschoss,https://www.immowelt.de/expose/ff48baf2-c631-4365-9b40-20d7e20e66c2,2802,"Emst-West,  Hagen (58093)",0
+Oege / Nahmer, Hagen (58119),176.000 703,10 Zimmer,"250,3 m²",279 m² Grundstuck,https://www.immowelt.de/expose/dddd9a84-d6b7-4267-8333-9d8341b0215b,2802,"Oege / Nahmer,  Hagen (58119)",0
+Selbeckerstr. 116, Hagen (58091),149.500 1.625,3 Zimmer,92 m²,frei ab 01.02.2025,https://www.immowelt.de/expose/9581b584-9468-4cbd-b87f-21efb6232003,2802,"Selbeckerstr. 116,  Hagen (58091)",206
+Boelerheide, Hagen (58099),170.000 1.491,4 Zimmer,114 m²,206 m² Grundstuck,https://www.immowelt.de/expose/4235137f-0d71-48aa-b19b-83293efa3b52,2802,"Boelerheide,  Hagen (58099)",188
+Dahl, Hagen (58091),340.000 971,1 Zimmer,350 m²,822 m² Grundstuck,https://www.immowelt.de/expose/d9dca642-9b15-4739-a3b3-75e909df8f9a,2802,"Dahl,  Hagen (58091)",88
+Eilpe-Nord, Hagen (58091),659.000 1.302,20 Zimmer,506 m²,300 m² Grundstuck,https://www.immowelt.de/expose/4d6c8987-c1cf-4451-9ef7-4c8e018e2cfc,2802,"Eilpe-Nord,  Hagen (58091)",284
+Eilpe-Sud / Selbecke, Hagen (58091),292.500 1.924,5 Zimmer,152 m²,Unknown,https://www.immowelt.de/expose/e8e1b6b1-62f0-40cc-a9b3-e1f25d0272c4,2802,"Eilpe-Sud / Selbecke,  Hagen (58091)",0
+Hohlestr. 19a, Hagen (58091),373.000 2.454,5 Zimmer,152 m²,500 m² Grundstuck,https://www.immowelt.de/expose/46ee96c1-c2d2-4c53-80fd-f7f201d1d937,2802,"Hohlestr. 19a,  Hagen (58091)",263
+Dahl, Hagen (58091),340.000 971,350 m²,Unknown,Unknown,https://www.immowelt.de/expose/0ae5b7ee-b68a-4ac1-8800-955db232574c,2802,"Dahl,  Hagen (58091)",88
+Fleyerviertel, Hagen (58097),120.000 1.238,"3,5 Zimmer","96,9 m²",frei ab 01.01.2025,https://www.immowelt.de/expose/58143c28-0d06-4afa-a806-51843225ece7,2802,"Fleyerviertel,  Hagen (58097)",0
+Kuhlerkamp, Hagen (58089),Preis auf Anfrage,4 Zimmer,"83,4 m²",Unknown,https://www.immowelt.de/expose/409d8f4f-137b-4dd9-8794-fcdd30813490,2802,"Kuhlerkamp,  Hagen (58089)",202
+Dahl, Hagen (58091),340000,822 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/12a9b2d8-0792-4326-b538-4cc091f371e0,2802,"Dahl,  Hagen (58091)",88
+Gewecke / Tucking, Hagen (58135),349.000 3.009,3 Zimmer,116 m²,502 m² Grundstuck,https://www.immowelt.de/expose/ab4c8cbe-675d-4cb4-85b4-33f019c0c88b,2802,"Gewecke / Tucking,  Hagen (58135)",0
+Altenhagen - Sud, Hagen (58097),229.000 2.694,"3,5 Zimmer","86,7 m²",Unknown,https://www.immowelt.de/expose/73318766-8aca-4c0a-a585-6f5bf889a6ea,2802,"Altenhagen - Sud,  Hagen (58097)",0
+Zentrum, Hagen (58095),830.000 2.024,15 Zimmer,410 m²,218 m² Grundstuck,https://www.immowelt.de/expose/5ff3288a-43e4-4f3a-969e-b3c28e2f39e5,2802,"Zentrum,  Hagen (58095)",763
+Hangweg 17, Hagen (58091),285.000 1.827,6 Zimmer,156 m²,403 m² Grundstuck,https://www.immowelt.de/expose/1e164017-538b-41f2-a1d5-784493380f84,2802,"Hangweg 17,  Hagen (58091)",39
+Westerbauer - Sud, Hagen (58135),89.000 1.369,3 Zimmer,65 m²,4. Geschoss,https://www.immowelt.de/expose/6001afc5-7709-4af7-987f-aea00731f45e,2802,"Westerbauer - Sud,  Hagen (58135)",0
+Delstern, Hagen (58091),950.000 2.520,11 Zimmer,377 m²,15.449 m² Grundstuck,https://www.immowelt.de/expose/88ba08af-72ce-43ca-8507-12b9d3e618e3,2802,"Delstern,  Hagen (58091)",143
+Wehringhausen - Ost, Hagen (58089),25.000 210,4 Zimmer,119 m²,EG,https://www.immowelt.de/expose/ea817999-33bd-4b35-b651-f9c9faa3e1df,2802,"Wehringhausen - Ost,  Hagen (58089)",0
+Eckesey - Sud, Hagen (58097),119.900 1.689,3 Zimmer,71 m²,Unknown,https://www.immowelt.de/expose/d36e173f-a38b-426f-8ab3-072eb09b26a6,2802,"Eckesey - Sud,  Hagen (58097)",0
+AlleestraÃŸe, Hagen (58097),107.900 1.439,3 Zimmer,75 m²,2. Geschoss,https://www.immowelt.de/expose/0ef717bd-2658-47e8-961c-189c887cd846,2802,"AlleestraÃŸe,  Hagen (58097)",0
+Altenhagen - Sud, Hagen (58097),250.000 455,22 Zimmer,550 m²,Unknown,https://www.immowelt.de/expose/6222fbc4-a798-4547-849d-4de986733e3c,2802,"Altenhagen - Sud,  Hagen (58097)",0
+Wehringhausen - Ost, Hagen (58089),87.600 730,4 Zimmer,120 m²,Unknown,https://www.immowelt.de/expose/690e1a3a-f2da-42c0-9633-97ca7e47d8ef,2802,"Wehringhausen - Ost,  Hagen (58089)",0
+Elsey-Sud, Hagen (58119),350.000 2.258,7 Zimmer,155 m²,164 m² Grundstuck,https://www.immowelt.de/expose/9e92e9ed-34b7-48d4-8400-43b5fd0a76f0,2802,"Elsey-Sud,  Hagen (58119)",0
+Wehringhausen - Ost, Hagen (58089),29.500 236,4 Zimmer,125 m²,211 m² Grundstuck,https://www.immowelt.de/expose/ae55bca2-b794-4a2e-aa92-a2653d30fa88,2802,"Wehringhausen - Ost,  Hagen (58089)",0
+Wehringhausen - Ost, Hagen (58089),29.500 236,4 Zimmer,125 m²,2. Geschoss,https://www.immowelt.de/expose/875979e6-3ce7-464d-8bf0-6aff15d11c1b,2802,"Wehringhausen - Ost,  Hagen (58089)",0
+Fleyerviertel, Hagen (58097),375.000 1.697,7 Zimmer,221 m²,430 m² Grundstuck,https://www.immowelt.de/expose/7a427305-ec37-483e-b5f7-af16fa260912,2802,"Fleyerviertel,  Hagen (58097)",0
+Remberg, Hagen (58093),429.000 1.265,19 Zimmer,339 m²,"152,3 m² Grundstuck",https://www.immowelt.de/expose/4b82b534-9753-4332-909b-2370773e5977,2802,"Remberg,  Hagen (58093)",268
+Remberg, Hagen (58093),429.000 1.265,19 Zimmer,"339,3 m²","152,3 m² Grundstuck",https://www.immowelt.de/expose/6091d6fe-b87c-4e42-89da-b47ed7187969,2802,"Remberg,  Hagen (58093)",268
+Wehringhausen - Ost, Hagen (58089),100.900 807,4 Zimmer,125 m²,Unknown,https://www.immowelt.de/expose/0fcaa47b-b7ee-4d58-a967-f244ec30ca84,2802,"Wehringhausen - Ost,  Hagen (58089)",0
+Eilpe-Nord, Hagen (58091),474.000 1.206,4 Zimmer,393 m²,Unknown,https://www.immowelt.de/expose/ec9a67fa-52ec-43cd-acdb-9f8c75db064f,2802,"Eilpe-Nord,  Hagen (58091)",284
+Eilpe-Nord, Hagen (58091),474.000 1.206,4 Zimmer,393 m²,3. Geschoss,https://www.immowelt.de/expose/3e4cef44-8abd-4174-b38a-3dbd093cadf4,2802,"Eilpe-Nord,  Hagen (58091)",284
+Eilpe-Nord, Hagen (58091),174.000 1.328,4 Zimmer,131 m²,Unknown,https://www.immowelt.de/expose/313b93e4-78df-45a4-9528-3c94a6fe240c,2802,"Eilpe-Nord,  Hagen (58091)",284
+Eilpe-Nord, Hagen (58091),174.000 1.328,4 Zimmer,131 m²,3. Geschoss,https://www.immowelt.de/expose/7f10c3e4-7ceb-4327-ad2d-04c2ae6dac17,2802,"Eilpe-Nord,  Hagen (58091)",284
+Fleyerviertel, Hagen (58097),579.000 3.147,6 Zimmer,184 m²,715 m² Grundstuck,https://www.immowelt.de/expose/1dd12d55-91dd-4180-aafe-9da0ff193d9e,2802,"Fleyerviertel,  Hagen (58097)",0
+Eilpe-Nord, Hagen (58091),174.000 1.328,4 Zimmer,131 m²,3. Geschoss,https://www.immowelt.de/expose/0fe3a38c-b309-4e84-adc2-43cedf6a7514,2802,"Eilpe-Nord,  Hagen (58091)",284
+Eilpe-Nord, Hagen (58091),474.000 1.206,4 Zimmer,393 m²,3. Geschoss,https://www.immowelt.de/expose/4a40f7d5-7cc3-474a-ae37-ed22cabe08c4,2802,"Eilpe-Nord,  Hagen (58091)",284
+Elsey-Nord, Hagen (58119),89.000 1.336,3 Zimmer,"66,7 m²",1. Geschoss,https://www.immowelt.de/expose/d4d68bc6-98c7-4a3d-9a17-e7650ce67552,2802,"Elsey-Nord,  Hagen (58119)",220
+Emst-West, Hagen (58093),35.000 1.082,1 Zimmer,"32,3 m²",11. Geschoss,https://www.immowelt.de/expose/93545cc0-d3de-4879-b095-a6cd27a7ed1e,2802,"Emst-West,  Hagen (58093)",0
+Haspe-Zentrum, Hagen (58135),125.000 1.488,"3,5 Zimmer",84 m²,4. Geschoss,https://www.immowelt.de/expose/e6c1fe05-9977-414a-a746-e39c01ebce91,2802,"Haspe-Zentrum,  Hagen (58135)",423
+Altenhagen - Sud, Hagen (58097),521.000 789,660 m²,438 m² Grundstuck,Unknown,https://www.immowelt.de/expose/0c4af129-f79b-4edc-ab75-af78c30cd139,2802,"Altenhagen - Sud,  Hagen (58097)",0
+Altenhagen - Sud, Hagen (58097),521.000 1.097,18 Zimmer,475 m²,438 m² Grundstuck,https://www.immowelt.de/expose/4f95a711-a8dc-4244-bdb4-dbede1bd2bdd,2802,"Altenhagen - Sud,  Hagen (58097)",0
+Wehringhausen - Ost, Hagen (58095),87.600 730,120 m²,Unknown,Unknown,https://www.immowelt.de/expose/bbf51c3d-e22d-4f77-97c1-362c7ffed3e3,2802,"Wehringhausen - Ost,  Hagen (58095)",0
+Wehringhausen - Ost, Hagen (58095),87.600 736,4 Zimmer,119 m²,Unknown,https://www.immowelt.de/expose/49afebc2-15ab-4567-bb7c-206877f42787,2802,"Wehringhausen - Ost,  Hagen (58095)",0

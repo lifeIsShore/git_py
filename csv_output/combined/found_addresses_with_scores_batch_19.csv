@@ -1,0 +1,1001 @@
+﻿Street,City_Code,Price,Number of Rooms,Living Area,Land Size,URL,city_id,full_address,score
+Epe, Gronau (48599),289.000 2.408,5 Zimmer,120 m²,348 m² Grundstuck,https://www.immowelt.de/expose/c171a683-ff71-49bb-a84d-6b2d31169c75,3146,"Epe,  Gronau (48599)",247
+Epe, Gronau (48599),270.000 1.677,6 Zimmer,161 m²,352 m² Grundstuck,https://www.immowelt.de/expose/49f49825-7782-4905-beb7-04aaf2063079,3146,"Epe,  Gronau (48599)",247
+Gronau, Gronau (Westfalen) (48599),550.000 2.145,11 Zimmer,310 m²,1.254 m² Grundstuck,https://www.immowelt.de/expose/7f2b1fde-b9d7-46e2-a8a5-e10ebd8d89b4,3146,"Gronau,  Gronau (Westfalen) (48599)",284
+Epe, Gronau (Westfalen) (48599),342.660 3.808,3 Zimmer,90 m²,Unknown,https://www.immowelt.de/expose/78d390f1-b307-4346-bb7d-2421df207d45,3146,"Epe,  Gronau (Westfalen) (48599)",247
+Epe, Gronau (Westfalen) (48599),292.690 3.812,3 Zimmer,"76,8 m²",Unknown,https://www.immowelt.de/expose/819332fe-45f5-4a92-b87c-c4ab2e78b85e,3146,"Epe,  Gronau (Westfalen) (48599)",247
+Epe, Gronau (Westfalen) (48599),385.130 3.812,4 Zimmer,101 m²,1. Geschoss,https://www.immowelt.de/expose/7b52f0e8-60a9-492b-8d54-1223e4bebdc5,3146,"Epe,  Gronau (Westfalen) (48599)",247
+Epe, Gronau (Westfalen) (48599),469.450 3.812,4 Zimmer,"123,2 m²",1. Geschoss,https://www.immowelt.de/expose/92ea25ae-5b49-44f1-bbf2-b24433d35bbe,3146,"Epe,  Gronau (Westfalen) (48599)",247
+Epe, Gronau (Westfalen) (48599),385.130 3.812,4 Zimmer,101 m²,2. Geschoss,https://www.immowelt.de/expose/ce3559e2-00e3-4d87-8803-8d9e4f4e6c18,3146,"Epe,  Gronau (Westfalen) (48599)",247
+Gronau, Gronau (Westfalen) (48599),1.199.000 3.947,6 Zimmer,"303,8 m²",682 m² Grundstuck,https://www.immowelt.de/expose/f08a7f20-456f-4b4f-9138-2078036a10ef,3146,"Gronau,  Gronau (Westfalen) (48599)",284
+Epe, Gronau (Westfalen) (48599),282.660 3.812,3 Zimmer,"74,2 m²",EG,https://www.immowelt.de/expose/ad63c95b-3a38-4b14-a5b0-d21805a7f9e6,3146,"Epe,  Gronau (Westfalen) (48599)",247
+Epe, Gronau (Westfalen) (48599),322.080 3.812,3 Zimmer,"84,5 m²",1. Geschoss,https://www.immowelt.de/expose/f6744e43-7992-4b54-8c3c-b05b185d6a95,3146,"Epe,  Gronau (Westfalen) (48599)",247
+Epe, Gronau (Westfalen) (48599),292.880 3.812,3 Zimmer,"76,8 m²",1. Geschoss,https://www.immowelt.de/expose/890d671d-94c2-4971-b72f-d7cc286ebc76,3146,"Epe,  Gronau (Westfalen) (48599)",247
+Epe, Gronau (Westfalen) (48599),321.430 3.812,3 Zimmer,"84,3 m²",EG,https://www.immowelt.de/expose/75b07f13-eebf-4c85-ae35-58a7e16010e1,3146,"Epe,  Gronau (Westfalen) (48599)",247
+Gronau, Gronau (48599),564.799 3.552,5 Zimmer,159 m²,769 m² Grundstuck,https://www.immowelt.de/expose/b87dd2b6-bf91-4c48-81aa-c7951121bbad,3146,"Gronau,  Gronau (48599)",284
+Epe, Gronau Epe (48599),678.195 4.212,6 Zimmer,161 m²,601 m² Grundstuck,https://www.immowelt.de/expose/0c56a327-2db0-40b2-9f7e-9af0abe7c7b4,3146,"Epe,  Gronau Epe (48599)",160
+Epe, Gronau Epe (48599),662.252 4.139,6 Zimmer,160 m²,599 m² Grundstuck,https://www.immowelt.de/expose/8ada701f-319d-469d-a21c-fcb3c8e17a1b,3146,"Epe,  Gronau Epe (48599)",160
+Epe, Gronau Epe (48599),461.366 3.633,5 Zimmer,127 m²,349 m² Grundstuck,https://www.immowelt.de/expose/5d4165fe-1af9-4c64-88dd-ac45e08bb506,3146,"Epe,  Gronau Epe (48599)",160
+Nienborg, Heek (48619),295.000 2.658,3 Zimmer,111 m²,311 m² Grundstuck,https://www.immowelt.de/expose/e85468cf-26fb-4e26-af5f-e000dd6aeee6,3146,"Nienborg,  Heek (48619)",120
+Ochtrup, Ochtrup (48607),499.000 3.024,6 Zimmer,"165,1 m²","748,1 m² Grundstuck",https://www.immowelt.de/expose/7c80f50c-ee4c-4779-a881-3b439f969f0d,3146,"Ochtrup,  Ochtrup (48607)",197
+AlstÃ¤tte, Ahaus (48683),340.500 1.935,176 m²,Unknown,Unknown,https://www.immowelt.de/expose/677cbf70-ff5f-4a18-bb79-87a53cd62ec8,3146,"AlstÃ¤tte,  Ahaus (48683)",0
+Ochtrup, Ochtrup (48607),530.000 2.255,1 Zimmer,235 m²,975 m² Grundstuck,https://www.immowelt.de/expose/3d32dce0-1616-414d-b333-2b2fbfa8a9b6,3146,"Ochtrup,  Ochtrup (48607)",197
+Nienborg, Heek-Nienborg (48619),479.672 3.017,5 Zimmer,159 m²,531 m² Grundstuck,https://www.immowelt.de/expose/fa2fe677-a980-4102-8059-d7d72b95b76c,3146,"Nienborg,  Heek-Nienborg (48619)",110
+invalsweg 7, overdinkel (7586 RB),895.000 4.222,6 Zimmer,212 m²,29.215 m² Grundstuck,https://www.immowelt.de/expose/6dd9618b-b08e-4d7f-9352-c75cec6b045d,3146,"invalsweg 7,  overdinkel (7586 RB)",6
+Heek, Heek (48619),296.000 1.723,5 Zimmer,"171,8 m²",400 m² Grundstuck,https://www.immowelt.de/expose/c95fbc2f-4635-4c83-b659-4220947e0733,3146,"Heek,  Heek (48619)",0
+Nienborg, Heek (48619),359.999 2.250,7 Zimmer,160 m²,Unknown,https://www.immowelt.de/expose/903315be-84df-436a-b05a-2ed9f817b957,3146,"Nienborg,  Heek (48619)",120
+Nienborg, Heek-Nienborg (48619),620.561 4.165,5 Zimmer,149 m²,659 m² Grundstuck,https://www.immowelt.de/expose/87425c6d-652b-4ab9-b39f-ec144d37acd4,3146,"Nienborg,  Heek-Nienborg (48619)",110
+Nienborg, Heek (48619),320.000 2.462,5 Zimmer,130 m²,856 m² Grundstuck,https://www.immowelt.de/expose/52f752cc-917a-496d-b7dd-f369ef23954a,3146,"Nienborg,  Heek (48619)",120
+Ochtrup, Ochtrup (48607),662.500 4.665,6 Zimmer,142 m²,786 m² Grundstuck,https://www.immowelt.de/expose/71aab38c-165c-40dc-8653-0e1e8c7d8c2c,3146,"Ochtrup,  Ochtrup (48607)",197
+Nienborg, Heek-Nienborg (48619),758.462 3.312,6 Zimmer,229 m²,660 m² Grundstuck,https://www.immowelt.de/expose/ba1277f7-6508-41e4-a57c-98120d77021e,3146,"Nienborg,  Heek-Nienborg (48619)",110
+AlstÃ¤tte, Ahaus (48683),795.000 2.109,11 Zimmer,377 m²,898 m² Grundstuck,https://www.immowelt.de/expose/0b113e5f-e1f0-4709-83e0-afb40dbcfcec,3146,"AlstÃ¤tte,  Ahaus (48683)",0
+Alte StraÃŸe 10, Frechen (50226),530.000 6.023,3 Zimmer,88 m²,1. Geschoss,https://www.immowelt.de/expose/6d820b2a-a8ca-4e01-b1fb-533dfb63f152,316,"Alte StraÃŸe 10,  Frechen (50226)",0
+Innenstadt, Frechen (50226),265.000 3.581,3 Zimmer,74 m²,1. Geschoss,https://www.immowelt.de/expose/0da8d22f-fa77-404b-88b1-31ea0dc3e162,316,"Innenstadt,  Frechen (50226)",0
+Grefrath, Frechen (50226),269.000 3.494,3 Zimmer,77 m²,1. Geschoss,https://www.immowelt.de/expose/562996cc-08e0-4052-8927-9e0e3f1bfb9d,316,"Grefrath,  Frechen (50226)",60
+Innenstadt, Frechen (50226),265.000 3.416,3 Zimmer,"77,6 m²",385 m² Grundstuck,https://www.immowelt.de/expose/b97f4b74-4e7e-4463-8e62-513b17a9c3fb,316,"Innenstadt,  Frechen (50226)",0
+KÃ¶nigsdorf, Frechen (50226),699.000 4.539,5 Zimmer,154 m²,162 m² Grundstuck,https://www.immowelt.de/expose/6b6b74ab-187f-404d-8cf4-25cb04666500,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+KÃ¶nigsdorf, Frechen-KÃ¶nigsdorf (50226),649.000 3.910,6 Zimmer,166 m²,419 m² Grundstuck,https://www.immowelt.de/expose/1d6d58e7-77f7-4fc1-b818-2e3a5494ee7f,316,"KÃ¶nigsdorf,  Frechen-KÃ¶nigsdorf (50226)",0
+Innenstadt, Frechen (50226),240.000 3.599,3 Zimmer,"66,7 m²",3. Geschoss,https://www.immowelt.de/expose/005151d0-4482-45d4-b88c-d0a94c10e5a7,316,"Innenstadt,  Frechen (50226)",0
+KÃ¶nigsdorf, Frechen (50226),Preis auf Anfrage,4 Zimmer,125 m²,205 m² Grundstuck,https://www.immowelt.de/expose/d47ce9d7-f6d0-49e4-9651-cd40c65bcb0f,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+Habbelrath, Frechen (50226),2.190.000 2.335,"937,9 m²",978 m² Grundstuck,Unknown,https://www.immowelt.de/expose/457a595d-695c-4106-b78a-596468a7c171,316,"Habbelrath,  Frechen (50226)",67
+Habbelrath, Frechen (50226),2.190.000 2.335,28 Zimmer,"937,9 m²",978 m² Grundstuck,https://www.immowelt.de/expose/c74838e0-d78a-40dd-8402-7aa208ed5b39,316,"Habbelrath,  Frechen (50226)",67
+Alte StraÃŸe 16, Frechen (50226),470.000 6.026,2 Zimmer,78 m²,1. Geschoss,https://www.immowelt.de/expose/cb8ab461-5719-4348-b8ae-70c4aa6179f7,316,"Alte StraÃŸe 16,  Frechen (50226)",0
+Innenstadt, Frechen (50226),699.000 5.295,6 Zimmer,132 m²,143 m² Grundstuck,https://www.immowelt.de/expose/22901a2d-cf72-4f60-8b14-a020f2ce3ba4,316,"Innenstadt,  Frechen (50226)",0
+-, Frechen (50226),799.000 4.994,6 Zimmer,160 m²,230 m² Grundstuck,https://www.immowelt.de/expose/bdf1bf3f-744e-405c-81d2-fa716ad36436,316,"-,  Frechen (50226)",462
+KÃ¶nigsdorf, Frechen (50226),549.000 4.967,3 Zimmer,"110,5 m²",298 m² Grundstuck,https://www.immowelt.de/expose/ceab9a0c-694d-43d1-88ca-9129319112f9,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+Bernhard-Letterhaus-StraÃŸe 12, Frechen (50226),459.000 3.166,5 Zimmer,145 m²,334 m² Grundstuck,https://www.immowelt.de/expose/74deeba6-8039-45e0-9098-a3845ce5678c,316,"Bernhard-Letterhaus-StraÃŸe 12,  Frechen (50226)",0
+Habbelrath, Frechen (50226),399.000 4.534,3 Zimmer,88 m²,2. Geschoss,https://www.immowelt.de/expose/d3ae3e97-6956-4ff4-a5cf-a6eb77a59df5,316,"Habbelrath,  Frechen (50226)",67
+Habbelrath, Frechen (50226),425.000 4.570,3 Zimmer,93 m²,1. Geschoss,https://www.immowelt.de/expose/db28e028-8869-48e9-9b21-19f92ce16edc,316,"Habbelrath,  Frechen (50226)",67
+Grube Carl, Frechen (50226),415.000 2.427,6 Zimmer,171 m²,248 m² Grundstuck,https://www.immowelt.de/expose/00e61825-7356-4adb-b99f-c2eade37abee,316,"Grube Carl,  Frechen (50226)",98
+KÃ¶nigsdorf, Frechen (50226),390.000 3.980,3 Zimmer,98 m²,5. Geschoss,https://www.immowelt.de/expose/c140413c-c12a-4373-a62c-f2c0655c1025,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+Innenstadt, Frechen (50226),720.000 4.500,6 Zimmer,160 m²,785 m² Grundstuck,https://www.immowelt.de/expose/64771237-8de0-426c-a1bb-8b166ab36958,316,"Innenstadt,  Frechen (50226)",0
+Innenstadt, Frechen (50226),549.900 3.940,5 Zimmer,"139,6 m²",145 m² Grundstuck,https://www.immowelt.de/expose/a2caaa25-8ad4-4353-b7a4-ecd2310abb55,316,"Innenstadt,  Frechen (50226)",0
+Innenstadt, Frechen (50226),299.000 3.115,4 Zimmer,96 m²,3. Geschoss,https://www.immowelt.de/expose/a0b1f553-562b-4842-927c-4c72f15d3ee3,316,"Innenstadt,  Frechen (50226)",0
+Habbelrath, Frechen (50226),699.000 3.548,6 Zimmer,197 m²,597 m² Grundstuck,https://www.immowelt.de/expose/7b5c8b1e-124d-452f-81e6-2a73e5e4b3c7,316,"Habbelrath,  Frechen (50226)",67
+Hucheln, Frechen (50226),619.000 4.855,4 Zimmer,"127,5 m²","572,5 m² Grundstuck",https://www.immowelt.de/expose/a623049f-c996-4695-b3a0-148ee15a4a26,316,"Hucheln,  Frechen (50226)",129
+Buschbell, Frechen (50226),1.370.000 5.269,8 Zimmer,260 m²,852 m² Grundstuck,https://www.immowelt.de/expose/72438d81-6dca-49e2-a1a7-2875d13f1ce8,316,"Buschbell,  Frechen (50226)",86
+KÃ¶nigsdorf, Frechen (50226),580.000 4.531,5 Zimmer,128 m²,426 m² Grundstuck,https://www.immowelt.de/expose/29c1811e-d8a4-4cda-947a-e70baa517320,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+Innenstadt, Frechen (50226),650.000 3.552,183 m²,189 m² Grundstuck,Unknown,https://www.immowelt.de/expose/70970947-0cc8-4c98-8ab0-a85c2d6ef734,316,"Innenstadt,  Frechen (50226)",0
+KÃ¶nigsdorf, Frechen-KÃ¶nigsdorf (50226),979.000 4.113,6 Zimmer,238 m²,988 m² Grundstuck,https://www.immowelt.de/expose/5edfbeef-afd3-403a-9c8b-114d57705341,316,"KÃ¶nigsdorf,  Frechen-KÃ¶nigsdorf (50226)",0
+Habbelrath, Frechen (50226),365.000 3.724,3 Zimmer,98 m²,727 m² Grundstuck,https://www.immowelt.de/expose/b4b47b6b-f29b-43b6-9bdb-6749867e2185,316,"Habbelrath,  Frechen (50226)",67
+Hucheln, Frechen / Hucheln (50226),385.000 4.185,3 Zimmer,92 m²,648 m² Grundstuck,https://www.immowelt.de/expose/84aca721-c9b2-4685-b024-4932676f3745,316,"Hucheln,  Frechen / Hucheln (50226)",30
+Innenstadt, Frechen (50226),399.000 4.071,4 Zimmer,98 m²,339 m² Grundstuck,https://www.immowelt.de/expose/3d415d67-4000-4a18-819d-eab2302d303d,316,"Innenstadt,  Frechen (50226)",0
+KÃ¶nigsdorf, Frechen / KÃ¶nigsdorf (50226),449.000 3.585,5 Zimmer,"125,2 m²",323 m² Grundstuck,https://www.immowelt.de/expose/3785adf4-c2fc-45e4-8ade-91a147778ee3,316,"KÃ¶nigsdorf,  Frechen / KÃ¶nigsdorf (50226)",0
+Habbelrath, Frechen (50226),365.000 3.724,98 m²,Unknown,Unknown,https://www.immowelt.de/expose/2f773421-fe1d-4f89-a01c-4406528bfe8c,316,"Habbelrath,  Frechen (50226)",67
+Habbelrath, Frechen (50226),365.000 3.724,98 m²,727 m² Grundstuck,Unknown,https://www.immowelt.de/expose/4204f0e0-027b-48ae-af7d-2399d4f45278,316,"Habbelrath,  Frechen (50226)",67
+Buschbell, Frechen / KÃ¶nigsdorf (50226),849.000 3.590,8 Zimmer,"236,5 m²",791 m² Grundstuck,https://www.immowelt.de/expose/f2b1324a-43f4-49f0-ba1d-a04b65a21fa3,316,"Buschbell,  Frechen / KÃ¶nigsdorf (50226)",0
+Innenstadt, Frechen (50226),549.000 4.191,4 Zimmer,131 m²,3. Geschoss,https://www.immowelt.de/expose/818518ef-f75a-4c2c-a4ba-5ad2f6b08761,316,"Innenstadt,  Frechen (50226)",0
+Grube Carl, Frechen (50226),530.000 2.763,6 Zimmer,"191,8 m²",588 m² Grundstuck,https://www.immowelt.de/expose/fbff53cc-bd28-407c-856d-6d71b6f1eb9f,316,"Grube Carl,  Frechen (50226)",98
+Innenstadt, Frechen (50226),619.000 3.756,5 Zimmer,"164,8 m²",752 m² Grundstuck,https://www.immowelt.de/expose/c734af35-7bb6-4f2b-8b36-d5cd1707ada0,316,"Innenstadt,  Frechen (50226)",0
+Bachem, Frechen (50226),145.000 2.745,2 Zimmer,"52,8 m²",2. Geschoss,https://www.immowelt.de/expose/c39d903e-caeb-4a6b-a722-d5ebd1e7a619,316,"Bachem,  Frechen (50226)",160
+Am Bitzenkamp 16, Frechen (50226),440.000 4.190,5 Zimmer,105 m²,600 m² Grundstuck,https://www.immowelt.de/expose/8cc9b033-2ebc-41d5-abe8-8ccb0f8a8efd,316,"Am Bitzenkamp 16,  Frechen (50226)",191
+KÃ¶nigsdorf, Frechen (50226),999.900 6.097,5 Zimmer,164 m²,600 m² Grundstuck,https://www.immowelt.de/expose/d180f07f-9726-42fd-8091-fc51b4a9d2a4,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+KÃ¶nigsdorf, Frechen (50226),489.000 4.327,6 Zimmer,113 m²,296 m² Grundstuck,https://www.immowelt.de/expose/a3a62098-29dd-4b5f-a542-8992005c86c3,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+Buschbell, Frechen (50226),459.000 4.480,4 Zimmer,"102,5 m²","151,5 m² Grundstuck",https://www.immowelt.de/expose/be8cd850-d821-4127-a8e8-aae0374c689d,316,"Buschbell,  Frechen (50226)",86
+Innenstadt, Frechen (50226),529.000 2.757,"191,9 m²",174 m² Grundstuck,Unknown,https://www.immowelt.de/expose/d2dc4f52-64f6-4d5e-975c-b9240da7028a,316,"Innenstadt,  Frechen (50226)",0
+KÃ¶nigsdorf, Frechen (50226),329.000 3.937,3 Zimmer,"83,6 m²",EG,https://www.immowelt.de/expose/9e88731b-aca3-4c69-95b4-502371891115,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+Innenstadt, Frechen (50226),499.000 4.947,5 Zimmer,"100,9 m²",235 m² Grundstuck,https://www.immowelt.de/expose/26cf1be2-0590-4c80-a334-9bcae3a73796,316,"Innenstadt,  Frechen (50226)",0
+Bachem, Frechen / Bachem (50226),319.000 2.684,5 Zimmer,"118,9 m²",842 m² Grundstuck,https://www.immowelt.de/expose/e5af929e-9b9a-49c8-b8f4-20ded151f113,316,"Bachem,  Frechen / Bachem (50226)",71
+Buschbell, Frechen / Buschbell (50226),345.000 3.306,4 Zimmer,"104,4 m²",202 m² Grundstuck,https://www.immowelt.de/expose/fe32566d-6c71-4798-8a48-09bf385febb3,316,"Buschbell,  Frechen / Buschbell (50226)",157
+KÃ¶nigsdorf, Frechen (50226),336.000 4.459,2 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/65f156e0-c3d7-41a3-8fae-1db72acb0146,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+Habbelrath, Frechen-Habbelrath (50226),418.000 4.918,4 Zimmer,85 m²,689 m² Grundstuck,https://www.immowelt.de/expose/3df8e629-4a5c-42a9-8dc8-eabf8357f04c,316,"Habbelrath,  Frechen-Habbelrath (50226)",63
+Durener StraÃŸe 15, Frechen (50226),1.150.000 4.553,13 Zimmer,"252,6 m²",190 m² Grundstuck,https://www.immowelt.de/expose/89ad550e-da8d-40b0-b769-bb71bb23fdd8,316,"Durener StraÃŸe 15,  Frechen (50226)",0
+KÃ¶nigsdorf, Frechen / KÃ¶nigsdorf (50226),424.000 4.659,"2,5 Zimmer",91 m²,Unknown,https://www.immowelt.de/expose/8ac7cea2-c4e9-41ff-b072-67265583ac48,316,"KÃ¶nigsdorf,  Frechen / KÃ¶nigsdorf (50226)",0
+Innenstadt, Frechen (50226),3.050.000 1.896,1.609 m²,Unknown,Unknown,https://www.immowelt.de/expose/0bd46213-ccf2-47d1-8d77-45f413d56964,316,"Innenstadt,  Frechen (50226)",0
+Benzelrath, Frechen (50226),319.000 3.917,3 Zimmer,"81,4 m²",2. Geschoss,https://www.immowelt.de/expose/d6ffd4ff-41f8-426d-bb24-4a51767e3c03,316,"Benzelrath,  Frechen (50226)",151
+KÃ¶nigsdorf, Frechen (50226),235.000 3.852,2 Zimmer,61 m²,3. Geschoss,https://www.immowelt.de/expose/0e11a031-c017-47a0-9bd4-736bb685397b,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+Innenstadt, Frechen (50226),485.000 4.826,3 Zimmer,"100,5 m²",Unknown,https://www.immowelt.de/expose/7a9420bd-f33e-483d-b175-2296d33a6721,316,"Innenstadt,  Frechen (50226)",0
+Innenstadt, Frechen (50226),299.000 3.560,3 Zimmer,84 m²,EG,https://www.immowelt.de/expose/9cb7ca0d-58cd-4db2-9fca-295ce1f2b098,316,"Innenstadt,  Frechen (50226)",0
+Habbelrath, Frechen (50226),449.000 3.670,3 Zimmer,"122,3 m²",376 m² Grundstuck,https://www.immowelt.de/expose/03f705a7-b050-46dc-8f85-ef4a354b0fa0,316,"Habbelrath,  Frechen (50226)",67
+Innenstadt, Frechen (50226),799.000 1.278,10 Zimmer,625 m²,1.557 m² Grundstuck,https://www.immowelt.de/expose/e719202e-ce16-46fc-ab78-bbba7ce6855c,316,"Innenstadt,  Frechen (50226)",0
+Bachem, Frechen (50226),1.490.000 2.350,25 Zimmer,634 m²,849 m² Grundstuck,https://www.immowelt.de/expose/ab33aabe-b3d3-42b2-bc9e-e36337ba7294,316,"Bachem,  Frechen (50226)",160
+Buschbell, Frechen (50226),269.000 3.280,3 Zimmer,82 m²,Unknown,https://www.immowelt.de/expose/73aa769c-b42e-47dc-9a23-bbc2dbfcfe4b,316,"Buschbell,  Frechen (50226)",86
+Innenstadt, Frechen (50226),224.000 3.797,2 Zimmer,59 m²,Unknown,https://www.immowelt.de/expose/69779b64-7832-4727-a70a-28124571ecd9,316,"Innenstadt,  Frechen (50226)",0
+Bachem, Frechen (50226),1.189.000 2.005,593 m²,684 m² Grundstuck,Unknown,https://www.immowelt.de/expose/3bd7dfb9-ead5-4e8c-a884-dd32c57abf68,316,"Bachem,  Frechen (50226)",160
+KÃ¶nigsdorf, Frechen (50226),799.900 4.877,5 Zimmer,164 m²,353 m² Grundstuck,https://www.immowelt.de/expose/29a33dbb-5031-49e2-ae5b-5d3bc6278633,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+Bachem, Frechen (50226),725.000 3.571,8 Zimmer,203 m²,551 m² Grundstuck,https://www.immowelt.de/expose/cb83534e-0a5f-46ad-9c24-55aebca3a606,316,"Bachem,  Frechen (50226)",160
+KÃ¶nigsdorf, Frechen (50226),449.000 4.082,4 Zimmer,110 m²,213 m² Grundstuck,https://www.immowelt.de/expose/caefa97e-5bdb-446d-a6dc-0eb6e7bc5a16,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+KÃ¶nigsdorf, Frechen KÃ¶nigsdorf (50226),Preis auf Anfrage,8 Zimmer,144 m²,850 m² Grundstuck,https://www.immowelt.de/expose/9451ee5f-88d1-4604-96d2-2191ccf89232,316,"KÃ¶nigsdorf,  Frechen KÃ¶nigsdorf (50226)",0
+Innenstadt, Frechen (50226),155.000 2.385,3 Zimmer,65 m²,5. Geschoss,https://www.immowelt.de/expose/c99bb5cc-d8d3-4e9c-af37-941ad12f6896,316,"Innenstadt,  Frechen (50226)",0
+Alte StraÃŸe 30, Frechen (50226),525.000 6.034,3 Zimmer,87 m²,2. Geschoss,https://www.immowelt.de/expose/9c6ae577-6384-45de-a203-0871d4fe45de,316,"Alte StraÃŸe 30,  Frechen (50226)",0
+Alte StraÃŸe 10, Frechen (50226),350.000 6.034,2 Zimmer,58 m²,1. Geschoss,https://www.immowelt.de/expose/fe8f0c5f-5112-4092-84af-75488acefaa7,316,"Alte StraÃŸe 10,  Frechen (50226)",0
+Alte StraÃŸe 10, Frechen (50226),475.000 6.013,3 Zimmer,79 m²,1. Geschoss,https://www.immowelt.de/expose/13a8c804-371f-4c12-a760-8b4a958af958,316,"Alte StraÃŸe 10,  Frechen (50226)",0
+Alte StraÃŸe 10, Frechen (50226),480.000 6.076,3 Zimmer,79 m²,EG,https://www.immowelt.de/expose/cf12a13e-69b9-42cf-8274-3557dd036e75,316,"Alte StraÃŸe 10,  Frechen (50226)",0
+Alte StraÃŸe 12, Frechen (50226),655.000 6.121,3 Zimmer,107 m²,2. Geschoss,https://www.immowelt.de/expose/7d6645eb-1e9d-4a92-a9f3-7704b11a49c6,316,"Alte StraÃŸe 12,  Frechen (50226)",0
+Alte StraÃŸe 12, Frechen (50226),540.000 6.000,3 Zimmer,90 m²,1. Geschoss,https://www.immowelt.de/expose/2d9872ff-a8e9-4368-8964-71713123e234,316,"Alte StraÃŸe 12,  Frechen (50226)",0
+Alte StraÃŸe 12, Frechen (50226),415.000 6.014,2 Zimmer,69 m²,1. Geschoss,https://www.immowelt.de/expose/485289d5-6dfa-4c26-94c0-992454f49f41,316,"Alte StraÃŸe 12,  Frechen (50226)",0
+Alte StraÃŸe 12, Frechen (50226),545.000 6.056,3 Zimmer,90 m²,EG,https://www.immowelt.de/expose/19b62978-d026-4ad3-b24f-6688b5be1285,316,"Alte StraÃŸe 12,  Frechen (50226)",0
+Alte StraÃŸe 8, Frechen (50226),415.000 6.014,2 Zimmer,69 m²,1. Geschoss,https://www.immowelt.de/expose/e9b44a9d-e5e6-42ee-9a42-ce8452e25916,316,"Alte StraÃŸe 8,  Frechen (50226)",0
+Alte StraÃŸe 8, Frechen (50226),540.000 6.000,3 Zimmer,90 m²,1. Geschoss,https://www.immowelt.de/expose/e2bb20c3-f781-44df-a4f6-1d8771e59050,316,"Alte StraÃŸe 8,  Frechen (50226)",0
+Alte StraÃŸe 8, Frechen (50226),720.000 6.102,4 Zimmer,118 m²,EG,https://www.immowelt.de/expose/09fc04a4-bd8d-43b6-9d2f-e445bddb3c4a,316,"Alte StraÃŸe 8,  Frechen (50226)",0
+Alte StraÃŸe 8, Frechen (50226),545.000 6.056,3 Zimmer,90 m²,EG,https://www.immowelt.de/expose/7f5f7fa6-0dca-4449-992c-45ea11167bb9,316,"Alte StraÃŸe 8,  Frechen (50226)",0
+Alte StraÃŸe 14, Frechen (50226),565.000 6.011,3 Zimmer,94 m²,Unknown,https://www.immowelt.de/expose/00fe834b-48bf-41e2-89d0-fa4692c6f0b8,316,"Alte StraÃŸe 14,  Frechen (50226)",0
+Alte StraÃŸe 14, Frechen (50226),365.000 5.984,2 Zimmer,61 m²,1. Geschoss,https://www.immowelt.de/expose/f1a2a7ee-2940-4b80-83da-d4b14e25458a,316,"Alte StraÃŸe 14,  Frechen (50226)",0
+Alte StraÃŸe 14, Frechen (50226),370.000 6.066,2 Zimmer,61 m²,EG,https://www.immowelt.de/expose/fdece62c-a354-496d-9948-112fcc197579,316,"Alte StraÃŸe 14,  Frechen (50226)",0
+Alte StraÃŸe 16, Frechen (50226),700.000 6.034,4 Zimmer,116 m²,1. Geschoss,https://www.immowelt.de/expose/c512384e-0db1-4c4d-b3d2-abf39c795e4c,316,"Alte StraÃŸe 16,  Frechen (50226)",0
+Alte StraÃŸe 6, Frechen (50226),690.000 6.000,4 Zimmer,115 m²,1. Geschoss,https://www.immowelt.de/expose/fdd64de6-b7f4-47a7-8dc4-60aa899dbe5f,316,"Alte StraÃŸe 6,  Frechen (50226)",0
+Alte StraÃŸe 6, Frechen (50226),580.000 6.042,4 Zimmer,96 m²,1. Geschoss,https://www.immowelt.de/expose/cc9419f2-fc90-44be-b187-bdaa18d8e34a,316,"Alte StraÃŸe 6,  Frechen (50226)",0
+Alte StraÃŸe 6, Frechen (50226),610.000 6.040,3 Zimmer,101 m²,EG,https://www.immowelt.de/expose/f4d5d730-0f5c-4bc6-b453-92aa5b534366,316,"Alte StraÃŸe 6,  Frechen (50226)",0
+Alte StraÃŸe 30, Frechen (50226),520.000 5.977,3 Zimmer,87 m²,1. Geschoss,https://www.immowelt.de/expose/d76afa82-0216-4ebf-9ddf-6074a3d189db,316,"Alte StraÃŸe 30,  Frechen (50226)",0
+Alte StraÃŸe 30, Frechen (50226),370.000 6.066,2 Zimmer,61 m²,1. Geschoss,https://www.immowelt.de/expose/6361ff83-570e-4f0a-9bd6-c6a060f4acaf,316,"Alte StraÃŸe 30,  Frechen (50226)",0
+Alte StraÃŸe 30, Frechen (50226),525.000 6.034,3 Zimmer,87 m²,EG,https://www.immowelt.de/expose/94888490-30cb-4470-ac6f-6d6094b92175,316,"Alte StraÃŸe 30,  Frechen (50226)",0
+Alte StraÃŸe 30, Frechen (50226),375.000 6.148,2 Zimmer,61 m²,EG,https://www.immowelt.de/expose/23d8df75-b3e7-4c18-a89c-f254a014208c,316,"Alte StraÃŸe 30,  Frechen (50226)",0
+Alte StraÃŸe 30, Frechen (50226),520.000 5.977,3 Zimmer,87 m²,EG,https://www.immowelt.de/expose/3c377e7f-58d8-401a-a45f-e48bb375c43d,316,"Alte StraÃŸe 30,  Frechen (50226)",0
+Alte StraÃŸe 32, Frechen (50226),630.000 6.000,3 Zimmer,105 m²,2. Geschoss,https://www.immowelt.de/expose/6e232500-a520-40a4-b9c0-9decc9bf9f3d,316,"Alte StraÃŸe 32,  Frechen (50226)",0
+Alte StraÃŸe 32, Frechen (50226),525.000 6.034,3 Zimmer,87 m²,2. Geschoss,https://www.immowelt.de/expose/c385208a-a68e-4513-873e-c407281c63cc,316,"Alte StraÃŸe 32,  Frechen (50226)",0
+Alte StraÃŸe 32, Frechen (50226),590.000 5.960,4 Zimmer,99 m²,1. Geschoss,https://www.immowelt.de/expose/ee1cbb76-8ca4-4c56-aa8f-dbb7669748f6,316,"Alte StraÃŸe 32,  Frechen (50226)",0
+Alte StraÃŸe 32, Frechen (50226),525.000 5.966,3 Zimmer,88 m²,1. Geschoss,https://www.immowelt.de/expose/09ae0a94-fd0e-4fa8-9ec0-120054c2d128,316,"Alte StraÃŸe 32,  Frechen (50226)",0
+Alte StraÃŸe 32, Frechen (50226),525.000 6.034,3 Zimmer,87 m²,EG,https://www.immowelt.de/expose/0fe5c933-e85c-4ffd-bb78-b2fd08bb4260,316,"Alte StraÃŸe 32,  Frechen (50226)",0
+Alte StraÃŸe 32, Frechen (50226),380.000 6.032,2 Zimmer,63 m²,EG,https://www.immowelt.de/expose/a4ea173c-9e09-4e93-81b2-6c1bb8ef79cc,316,"Alte StraÃŸe 32,  Frechen (50226)",0
+KÃ¶nigsdorf, Frechen (50226),1.590.000 3.034,16 Zimmer,524 m²,495 m² Grundstuck,https://www.immowelt.de/expose/eea09c62-750e-4b6f-982e-414704b94e84,316,"KÃ¶nigsdorf,  Frechen (50226)",0
+Buschbell, Frechen (50226),620.000 1.931,16 Zimmer,321 m²,1.670 m² Grundstuck,https://www.immowelt.de/expose/201ff6c3-6ee7-4a1e-8626-08d2150c9013,316,"Buschbell,  Frechen (50226)",86
+Kapfenberger StraÃŸe 43, Frechen (50226),275.000 3.354,3 Zimmer,82 m²,Unknown,https://www.immowelt.de/expose/8de6b99a-76ad-42db-9a69-f6f02e97ce5d,316,"Kapfenberger StraÃŸe 43,  Frechen (50226)",0
+KÃ¶nigsdorf, Frechen / KÃ¶nigsdorf (50226),849.000 5.190,4 Zimmer,"163,6 m²",243 m² Grundstuck,https://www.immowelt.de/expose/b1c9ccf7-829a-4297-b24a-6a6e040e9c4d,316,"KÃ¶nigsdorf,  Frechen / KÃ¶nigsdorf (50226)",0
+Neu-Bottenbroich, Kerpen (50169),775.000 3.200,7 Zimmer,"242,2 m²",550 m² Grundstuck,https://www.immowelt.de/expose/b7ead29d-735f-4f08-9867-fe1d89de216f,316,"Neu-Bottenbroich,  Kerpen (50169)",49
+Horrem, Kerpen (50169),Preis auf Anfrage,12 Zimmer,242 m²,3.868 m² Grundstuck,https://www.immowelt.de/expose/0743823c-616b-4cf6-bfbf-61db36ff50dd,316,"Horrem,  Kerpen (50169)",187
+Horrem, Kerpen / Horrem (50169),495.000 1.869,10 Zimmer,"264,9 m²",620 m² Grundstuck,https://www.immowelt.de/expose/021f2159-0608-494f-a612-0640645680cd,316,"Horrem,  Kerpen / Horrem (50169)",187
+Balkhausen, Kerpen (50169),547.360 3.620,5 Zimmer,"151,2 m²",456 m² Grundstuck,https://www.immowelt.de/expose/3ce64a13-085d-43a2-88a2-1f43756b9da2,316,"Balkhausen,  Kerpen (50169)",72
+Horrem, Kerpen (50169),239.000 1.959,5 Zimmer,122 m²,238 m² Grundstuck,https://www.immowelt.de/expose/6bb99000-b9c1-492e-a384-da62de022af9,316,"Horrem,  Kerpen (50169)",187
+Quadrath-Ichendorf, Bergheim (50127),394.960 2.628,4 Zimmer,"150,3 m²",748 m² Grundstuck,https://www.immowelt.de/expose/b1461c43-6fcc-4aed-b0f2-cd4462cb7567,316,"Quadrath-Ichendorf,  Bergheim (50127)",178
+Weiden, KÃ¶ln (50859),615.000 6.634,3 Zimmer,"92,7 m²",1. Geschoss,https://www.immowelt.de/expose/9647fee7-3f93-4a3a-bfcc-fc56d67380bb,316,"Weiden,  KÃ¶ln (50859)",0
+Weiden, KÃ¶ln (50858),576.000 7.811,3 Zimmer,"73,7 m²",2. Geschoss,https://www.immowelt.de/expose/dc73a263-9c87-4db5-9473-b1844afa258a,316,"Weiden,  KÃ¶ln (50858)",0
+Gleuel, Hurth (50354),539.900 5.138,3 Zimmer,"105,1 m²",3. Geschoss,https://www.immowelt.de/expose/02c94f7a-0042-4a4c-89e5-02d0ca4a5028,316,"Gleuel,  Hurth (50354)",155
+Weiden, KÃ¶ln / Weiden (50859),859.000 5.162,"4,5 Zimmer","166,4 m²",482 m² Grundstuck,https://www.immowelt.de/expose/58403ff3-2215-4570-8765-70066fccd554,316,"Weiden,  KÃ¶ln / Weiden (50859)",0
+Weiden, KÃ¶ln (50858),190.000 3.604,2 Zimmer,"52,7 m²",3. Geschoss,https://www.immowelt.de/expose/225d986f-dfa1-4574-89d6-2333489c21ca,316,"Weiden,  KÃ¶ln (50858)",0
+Weiden, KÃ¶ln (50858),256.000 4.267,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/1018237c-9f17-4c3b-a9d4-da734e2d1d06,316,"Weiden,  KÃ¶ln (50858)",0
+Weiden, KÃ¶ln (50858),576.000 7.811,3 Zimmer,"73,7 m²",2. Geschoss,https://www.immowelt.de/expose/4f6554f1-5e56-46d4-b2fd-424022111351,316,"Weiden,  KÃ¶ln (50858)",0
+Weiden, KÃ¶ln (50859),939.000 3.251,10 Zimmer,"288,8 m²",607 m² Grundstuck,https://www.immowelt.de/expose/dc46c702-f96f-4310-903f-dc5c863df75b,316,"Weiden,  KÃ¶ln (50859)",0
+Weiden, KÃ¶ln (50858),1.770.000 5.549,319 m²,Unknown,Unknown,https://www.immowelt.de/expose/5c8ecd61-b135-4ed8-b6db-afa248834196,316,"Weiden,  KÃ¶ln (50858)",0
+Turnich, Kerpen (50169),150.000 1.807,3 Zimmer,83 m²,EG,https://www.immowelt.de/expose/d1d2698f-f32e-4bb8-8ffe-58bc86c1217c,316,"Turnich,  Kerpen (50169)",101
+Weiden, KÃ¶ln (50858),780.000 4.216,8 Zimmer,185 m²,"404,3 m² Grundstuck",https://www.immowelt.de/expose/af639924-ddfd-4504-8264-a2ff51666835,316,"Weiden,  KÃ¶ln (50858)",0
+Quadrath-Ichendorf, Bergheim (50127),419.000 2.504,8 Zimmer,"167,3 m²",620 m² Grundstuck,https://www.immowelt.de/expose/c7023e6e-43e7-4373-bf92-8c89ca50aa5d,316,"Quadrath-Ichendorf,  Bergheim (50127)",178
+Weiden, KÃ¶ln (50859),690.000 5.122,3 Zimmer,"134,7 m²",630 m² Grundstuck,https://www.immowelt.de/expose/0cf72b6b-bd84-41b0-a0d6-ed7e8a238278,316,"Weiden,  KÃ¶ln (50859)",0
+Weiden, KÃ¶ln (50858),799.000 4.700,6 Zimmer,170 m²,289 m² Grundstuck,https://www.immowelt.de/expose/c2cea000-ea42-4faf-86bc-51de00e0c767,316,"Weiden,  KÃ¶ln (50858)",0
+Weiden, KÃ¶ln (50858),562.000 7.910,3 Zimmer,"71,1 m²",2. Geschoss,https://www.immowelt.de/expose/7742449d-39d7-421b-8416-e5b2b6161d3e,316,"Weiden,  KÃ¶ln (50858)",0
+Weiden, KÃ¶ln (50858),623.000 7.441,3 Zimmer,"83,7 m²",1. Geschoss,https://www.immowelt.de/expose/98f83009-3150-4b61-a81e-ed8e33addff7,316,"Weiden,  KÃ¶ln (50858)",0
+Turnich, Kerpen (50169),530.000 4.953,5 Zimmer,107 m²,431 m² Grundstuck,https://www.immowelt.de/expose/bf3584d0-7e4a-41b7-9648-af9f7449789e,316,"Turnich,  Kerpen (50169)",101
+Balkhausen, Kerpen (50169),532.310 3.972,4 Zimmer,134 m²,456 m² Grundstuck,https://www.immowelt.de/expose/1345584d-2e09-4d72-9be2-0d9fec88205a,316,"Balkhausen,  Kerpen (50169)",72
+Quadrath-Ichendorf, Quadrath-Ichendorf (50127),329.000 2.570,5 Zimmer,128 m²,397 m² Grundstuck,https://www.immowelt.de/expose/0d6b65da-b1de-422f-bbd3-0a1fd1ecc7e1,316,"Quadrath-Ichendorf,  Quadrath-Ichendorf (50127)",208
+Turnich, Kerpen / Turnich (50169),202.000 2.434,3 Zimmer,83 m²,Unknown,https://www.immowelt.de/expose/4bb31e48-064a-44a2-9fcc-5b21043b6ccf,316,"Turnich,  Kerpen / Turnich (50169)",43
+GroÃŸ Hehlen, Celle (29229),457.000 3.196,5 Zimmer,143 m²,670 m² Grundstuck,https://www.immowelt.de/expose/472ab935-4273-4aa2-b3f7-123b93f0c3c0,3169,"GroÃŸ Hehlen,  Celle (29229)",0
+Harburger Strasse 56, Celle (29223),185000,572 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/4b78d539-99e4-4636-8379-85bed39e2800,3169,"Harburger Strasse 56,  Celle (29223)",167
+NeuenhÃ¤usen, Celle (29221),125.000 1.923,2 Zimmer,65 m²,4. Geschoss,https://www.immowelt.de/expose/3aecfeb5-0c44-4342-bdde-882723a8bf37,3169,"NeuenhÃ¤usen,  Celle (29221)",0
+Westercelle, Celle (29227),294.000 2.000,4 Zimmer,147 m²,988 m² Grundstuck,https://www.immowelt.de/expose/b7a53666-1f55-4c10-a380-f06845042749,3169,"Westercelle,  Celle (29227)",99
+Vorwerk, Celle (29229),104.000 1.387,3 Zimmer,75 m²,137 m² Grundstuck,https://www.immowelt.de/expose/128b0be0-a4e1-4a1b-862a-952a08d29ca3,3169,"Vorwerk,  Celle (29229)",65
+Westercelle, Celle (29227),247.000 1.945,4 Zimmer,127 m²,338 m² Grundstuck,https://www.immowelt.de/expose/ef649843-50cc-4563-8a6a-86c91c8652f4,3169,"Westercelle,  Celle (29227)",99
+Wietzenbruch, Celle (29225),274.900 1.774,5 Zimmer,155 m²,580 m² Grundstuck,https://www.immowelt.de/expose/5e639a8e-599c-4fa6-8e8f-af70b60aff7a,3169,"Wietzenbruch,  Celle (29225)",88
+Wietzenbruch, Celle (29225),498.900 3.687,4 Zimmer,"135,3 m²",525 m² Grundstuck,https://www.immowelt.de/expose/88d87b42-92dd-4404-a201-8c23e20a6b41,3169,"Wietzenbruch,  Celle (29225)",88
+GarÃŸen, Celle / GarÃŸen (29229),285.000 2.036,7 Zimmer,140 m²,723 m² Grundstuck,https://www.immowelt.de/expose/d209767b-7bb0-4632-baee-6f3af456a084,3169,"GarÃŸen,  Celle / GarÃŸen (29229)",0
+Vorwerk, Celle (29229),517.000 3.357,6 Zimmer,154 m²,680 m² Grundstuck,https://www.immowelt.de/expose/7fbbc6f7-9bd2-4550-b4bc-9b80a098c167,3169,"Vorwerk,  Celle (29229)",65
+Heese, Celle (29225),149.000 2.292,3 Zimmer,65 m²,frei ab sofort,https://www.immowelt.de/expose/c4be08cf-1c1a-413b-af7f-5d0dcc905a3a,3169,"Heese,  Celle (29225)",190
+GarÃŸen, Celle (29229),360.000 2.000,6 Zimmer,180 m²,766 m² Grundstuck,https://www.immowelt.de/expose/258f94b9-771e-4acf-8245-f7809f57ce0c,3169,"GarÃŸen,  Celle (29229)",0
+Hehlentor, Celle (29223),119.000 1.351,3 Zimmer,"88,1 m²",5. Geschoss,https://www.immowelt.de/expose/ee7dd9cf-b5aa-4133-a14f-3ea2b32190ac,3169,"Hehlentor,  Celle (29223)",197
+Am Schnuckenstall, Celle (29229),299.690 2.518,5 Zimmer,119 m²,678 m² Grundstuck,https://www.immowelt.de/expose/d7e50639-b294-4c58-8211-754922badcf1,3169,"Am Schnuckenstall,  Celle (29229)",0
+Hehlentor, Celle (29223),185.000 1.156,10 Zimmer,160 m²,572 m² Grundstuck,https://www.immowelt.de/expose/8e98493c-bf4b-4d0e-8d73-252421640abc,3169,"Hehlentor,  Celle (29223)",197
+Altencelle, Celle (29227),715.000 2.170,10 Zimmer,"329,5 m²",6.680 m² Grundstuck,https://www.immowelt.de/expose/14fb21c0-d833-45ca-a2e4-f7abefde9ee7,3169,"Altencelle,  Celle (29227)",45
+Altstadt, Celle (29221),Preis auf Anfrage,14 Zimmer,"490,2 m²","4.296,2 m² Grundstuck",https://www.immowelt.de/expose/46168e46-a012-40f9-aca2-ed23cef149da,3169,"Altstadt,  Celle (29221)",357
+Wietzenbruch, Celle (29225),265.000 2.208,5 Zimmer,120 m²,474 m² Grundstuck,https://www.immowelt.de/expose/73f6e6a6-ee95-416f-a00e-12e7c8e0cc1a,3169,"Wietzenbruch,  Celle (29225)",88
+Blaues Land, Celle (29229),338.590 2.351,5 Zimmer,144 m²,610 m² Grundstuck,https://www.immowelt.de/expose/c50587ff-59bd-42bb-a202-b0379ea51ae3,3169,"Blaues Land,  Celle (29229)",95
+Am Schnuckenstall, Celle (29229),334.550 2.573,6 Zimmer,130 m²,678 m² Grundstuck,https://www.immowelt.de/expose/99dd4347-14f1-48dc-9078-d570fd13b2c7,3169,"Am Schnuckenstall,  Celle (29229)",0
+Heese, Celle (29225),235.000 1.728,4 Zimmer,136 m²,680 m² Grundstuck,https://www.immowelt.de/expose/e4ec6a4b-929c-4fc6-998e-0fcfb6aa2b1a,3169,"Heese,  Celle (29225)",190
+Blumlage, Celle / Altencelle (29227),359.000 1.436,10 Zimmer,250 m²,2.129 m² Grundstuck,https://www.immowelt.de/expose/2df191e4-27a5-4238-a3cc-81b4e56490c0,3169,"Blumlage,  Celle / Altencelle (29227)",14
+Bilderbeckstrasse, Celle (29221),159.000 1.871,"4,5 Zimmer",85 m²,139 m² Grundstuck,https://www.immowelt.de/expose/5d2d468b-5288-4917-b82a-042a03354896,3169,"Bilderbeckstrasse,  Celle (29221)",70
+Westercelle, Celle / Westercelle (29227),239.000 2.414,4 Zimmer,99 m²,206 m² Grundstuck,https://www.immowelt.de/expose/ef27107a-2cfb-4fd5-bfce-102216e6667b,3169,"Westercelle,  Celle / Westercelle (29227)",124
+Altencelle, Celle (29227),265.000 2.096,6 Zimmer,"126,4 m²",1.250 m² Grundstuck,https://www.immowelt.de/expose/7f69e982-a9ee-4a81-951c-d9aee3db3c33,3169,"Altencelle,  Celle (29227)",45
+Heese, Celle (29225),249.000 2.767,6 Zimmer,90 m²,378 m² Grundstuck,https://www.immowelt.de/expose/ac8cf1a2-47af-42e4-89c9-956cdda28027,3169,"Heese,  Celle (29225)",190
+Vorwerk, Celle (29229),120.003 1.818,66 m²,170 m² Grundstuck,Unknown,https://www.immowelt.de/expose/3faaeb5d-2190-4208-8050-bcd4dd34ea6c,3169,"Vorwerk,  Celle (29229)",65
+Klein Hehlen, Celle (29223),141.000 2.043,69 m²,253 m² Grundstuck,Unknown,https://www.immowelt.de/expose/e700d354-e5e9-40f3-9a0d-b5ad57e6ce30,3169,"Klein Hehlen,  Celle (29223)",102
+Klein Hehlen, Celle (29223),205.000 2.278,5 Zimmer,90 m²,236 m² Grundstuck,https://www.immowelt.de/expose/22b2871b-3b44-4776-962d-b5420466d114,3169,"Klein Hehlen,  Celle (29223)",102
+Vorwerk, Celle (29229),120.003 1.818,66 m²,Unknown,Unknown,https://www.immowelt.de/expose/ca7751ac-a6f4-4856-82ba-b3d9efcb3a5d,3169,"Vorwerk,  Celle (29229)",65
+NeuenhÃ¤usen, Celle (29221),179.000 1.279,9 Zimmer,140 m²,298 m² Grundstuck,https://www.immowelt.de/expose/f146983d-0a51-4b5f-a8f2-04483e9cd05c,3169,"NeuenhÃ¤usen,  Celle (29221)",0
+Vorwerk, Celle (29229),120.003 1.818,3 Zimmer,66 m²,173 m² Grundstuck,https://www.immowelt.de/expose/deba45c4-5a3f-4511-897d-7d111236b160,3169,"Vorwerk,  Celle (29229)",65
+Vorwerk, Celle (29229),119.003 1.803,66 m²,168 m² Grundstuck,Unknown,https://www.immowelt.de/expose/bda4983b-72b6-4e5f-aed2-d4f4c75cd284,3169,"Vorwerk,  Celle (29229)",65
+Klein Hehlen, Celle (29223),140.000 2.029,69 m²,249 m² Grundstuck,Unknown,https://www.immowelt.de/expose/0ea4da47-f605-43f4-91c0-fb610b195fa3,3169,"Klein Hehlen,  Celle (29223)",102
+Hehlentor, Celle (29223),140.000 1.250,112 m²,318 m² Grundstuck,Unknown,https://www.immowelt.de/expose/06cc5019-730e-401a-97be-8257908803c9,3169,"Hehlentor,  Celle (29223)",197
+Vorwerk, Celle (29229),119.003 1.803,3 Zimmer,66 m²,168 m² Grundstuck,https://www.immowelt.de/expose/3545ec50-2c75-49a0-a329-ef18df77cb27,3169,"Vorwerk,  Celle (29229)",65
+Klein Hehlen, Celle (29223),141.000 2.043,3 Zimmer,69 m²,236 m² Grundstuck,https://www.immowelt.de/expose/c09078ea-33e9-4daa-9f6e-3c92d8c28bb7,3169,"Klein Hehlen,  Celle (29223)",102
+Klein Hehlen, Celle (29223),140.000 2.029,3 Zimmer,69 m²,249 m² Grundstuck,https://www.immowelt.de/expose/9d703d3d-a18b-41aa-8ce6-43fa266c8e9b,3169,"Klein Hehlen,  Celle (29223)",102
+Hehlentor, Celle (29223),140.000 1.250,5 Zimmer,112 m²,318 m² Grundstuck,https://www.immowelt.de/expose/73585547-193c-4c3d-80cb-2a7ce61275ab,3169,"Hehlentor,  Celle (29223)",197
+Westercelle, Celle (29227),270.000 1.688,5 Zimmer,160 m²,1.251 m² Grundstuck,https://www.immowelt.de/expose/0d93f3c9-9df0-493a-89c7-b8922dac09bb,3169,"Westercelle,  Celle (29227)",99
+Vorwerk, Celle (29229),119.003 1.803,66 m²,Unknown,Unknown,https://www.immowelt.de/expose/5b231350-9893-4763-a76a-97cf6ee68193,3169,"Vorwerk,  Celle (29229)",65
+Vorwerk, Celle / Vorwerk (29229),299.900 1.999,5 Zimmer,150 m²,990 m² Grundstuck,https://www.immowelt.de/expose/f11ad8d3-7636-48af-92dd-c657965d512a,3169,"Vorwerk,  Celle / Vorwerk (29229)",58
+Altencelle, Celle / Altencelle (29227),424.000 1.927,9 Zimmer,220 m²,2.299 m² Grundstuck,https://www.immowelt.de/expose/ec7ce4f3-2e8e-45ef-bf89-36a8221ac404,3169,"Altencelle,  Celle / Altencelle (29227)",73
+Klein Hehlen, Celle (29223),141.000 2.074,68 m²,Unknown,Unknown,https://www.immowelt.de/expose/aba86d49-0f38-4f6e-b932-d69f33ae7ed1,3169,"Klein Hehlen,  Celle (29223)",102
+Heese, Celle (29225),199.000 2.287,3 Zimmer,87 m²,268 m² Grundstuck,https://www.immowelt.de/expose/8c68339e-0e6c-49d5-beed-897ade2ea1fc,3169,"Heese,  Celle (29225)",190
+Klein Hehlen, Celle (29223),140.000 2.029,69 m²,Unknown,Unknown,https://www.immowelt.de/expose/9790f04e-bced-4dea-8470-170af0ec283b,3169,"Klein Hehlen,  Celle (29223)",102
+Klein Hehlen, Celle (29223),141.000 2.043,69 m²,Unknown,Unknown,https://www.immowelt.de/expose/7b852a1e-cdc9-4c4a-b7c2-dee018c4294c,3169,"Klein Hehlen,  Celle (29223)",102
+Hehlentor, Celle (29223),140.000 1.250,112 m²,Unknown,Unknown,https://www.immowelt.de/expose/729d3148-4fdf-4f0c-a105-0dc2fa2765c8,3169,"Hehlentor,  Celle (29223)",197
+Hehlentor, Celle (29223),180.000 1.607,3 Zimmer,112 m²,Unknown,https://www.immowelt.de/expose/3ea7a67d-1310-4dde-bf49-28c81287da7b,3169,"Hehlentor,  Celle (29223)",197
+Vorwerk, Celle (29229),104.000 1.238,84 m²,Unknown,Unknown,https://www.immowelt.de/expose/61c68d59-ffe6-4d12-a40b-5d60eb4191c5,3169,"Vorwerk,  Celle (29229)",65
+Adelheidsdorf, Celle (29225),599.000 2.995,8 Zimmer,200 m²,625 m² Grundstuck,https://www.immowelt.de/expose/b57067f0-8921-4667-b557-a59c7612a0a1,3169,"Adelheidsdorf,  Celle (29225)",36
+Vorwerk, Celle (29229),104.000 1.238,4 Zimmer,84 m²,940 m² Grundstuck,https://www.immowelt.de/expose/89333990-9024-4174-99f3-39124da3bd53,3169,"Vorwerk,  Celle (29229)",65
+Westercelle, Celle (29227),229.000 2.160,4 Zimmer,106 m²,643 m² Grundstuck,https://www.immowelt.de/expose/b4f5aaf5-3b96-44f3-81c8-72c6a6cdefdf,3169,"Westercelle,  Celle (29227)",99
+Heese, Celle (29225),285.000 1.267,9 Zimmer,225 m²,1.761 m² Grundstuck,https://www.immowelt.de/expose/82f82933-bfbf-41dc-8db7-ec30b2e39644,3169,"Heese,  Celle (29225)",190
+Adelheidsdorf, Celle (29225),955.000 3.081,5 Zimmer,310 m²,975 m² Grundstuck,https://www.immowelt.de/expose/66c2d920-742c-4067-bfa6-6a33d991dd91,3169,"Adelheidsdorf,  Celle (29225)",36
+Altencelle, Celle / Altencelle (29227),99.000 1.456,3 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/27ba4f38-4500-4d5e-99c1-ff885e950a30,3169,"Altencelle,  Celle / Altencelle (29227)",73
+Boye, Celle (29223),770.000 2.312,8 Zimmer,333 m²,1.396 m² Grundstuck,https://www.immowelt.de/expose/b6a806b0-585b-4190-8e69-09d6e3f60175,3169,"Boye,  Celle (29223)",25
+Vorwerk, Celle (29229),104.000 1.238,84 m²,154 m² Grundstuck,Unknown,https://www.immowelt.de/expose/f88aaedc-a363-4044-86b9-d22b692c6266,3169,"Vorwerk,  Celle (29229)",65
+Westercelle, Celle (29227),299.000 2.392,"5,5 Zimmer",125 m²,469 m² Grundstuck,https://www.immowelt.de/expose/b727d872-a5b3-4177-bea3-e0da77e49ef3,3169,"Westercelle,  Celle (29227)",99
+Altencelle, Celle / Altencelle (29227),125.000 1.250,5 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/02114b38-3e16-492d-9f39-b1e89a549cee,3169,"Altencelle,  Celle / Altencelle (29227)",73
+Wietzenbruch, Celle (29225),575.595 4.264,5 Zimmer,135 m²,550 m² Grundstuck,https://www.immowelt.de/expose/fc47891e-2b25-4396-9dd8-1e322244f9c9,3169,"Wietzenbruch,  Celle (29225)",88
+Scheuen, Celle (29229),399.000 1.167,"13,5 Zimmer",411 m²,2.395 m² Grundstuck,https://www.immowelt.de/expose/db1f5d55-20c3-4b94-8d9d-65db25770905,3169,"Scheuen,  Celle (29229)",39
+Wietzenbruch, Celle / Wietzenbruch (29225),220.000 2.417,4 Zimmer,91 m²,637 m² Grundstuck,https://www.immowelt.de/expose/8726dc11-dda3-4dfe-8aac-60d2aba00e18,3169,"Wietzenbruch,  Celle / Wietzenbruch (29225)",88
+Wietzenbruch, Celle (29225),799.980 3.670,6 Zimmer,218 m²,775 m² Grundstuck,https://www.immowelt.de/expose/f953c5eb-80be-4e0f-8741-92675e051e89,3169,"Wietzenbruch,  Celle (29225)",88
+Altstadt, Celle (29221),419.000 3.492,3 Zimmer,120 m²,frei ab 01.03.2025,https://www.immowelt.de/expose/67d1e58d-31a0-43fd-a4bf-20c7b5c18d9f,3169,"Altstadt,  Celle (29221)",357
+Hehlentor, Celle (29223),149.000 1.910,3 Zimmer,78 m²,2. Geschoss,https://www.immowelt.de/expose/215a4d04-91e0-404c-928a-26da4b1e5829,3169,"Hehlentor,  Celle (29223)",197
+Fasanenweg 10, Celle (29223),185.000 2.128,4 Zimmer,"86,9 m²",477 m² Grundstuck,https://www.immowelt.de/expose/691018c2-af5e-4919-80fc-a4931db6ec70,3169,"Fasanenweg 10,  Celle (29223)",56
+Blumlage, Celle (29227),159.000 1.656,4 Zimmer,96 m²,Unknown,https://www.immowelt.de/expose/57c9f9c4-2d93-479b-a7d2-f0d6e554e7dd,3169,"Blumlage,  Celle (29227)",136
+An der Promenade 10, Celle (29223),389.000 4.588,2 Zimmer,"84,8 m²",EG,https://www.immowelt.de/expose/adeb5b34-3411-4d5b-a554-1dd8c6570583,3169,"An der Promenade 10,  Celle (29223)",229
+Hehlentor, Celle (29221),450.000 1.991,226 m²,300 m² Grundstuck,Unknown,https://www.immowelt.de/expose/da631df5-609f-4119-ac0c-1ccca0f36955,3169,"Hehlentor,  Celle (29221)",197
+Westercelle, Celle (29227),299.000 1.616,6 Zimmer,185 m²,971 m² Grundstuck,https://www.immowelt.de/expose/b8967dcc-e5c2-40b6-aa53-9c902751a204,3169,"Westercelle,  Celle (29227)",99
+Vorwerk, Celle (29229),114.000 1.357,3 Zimmer,84 m²,257 m² Grundstuck,https://www.immowelt.de/expose/e3508628-eb40-4b42-a789-d480b1da45e1,3169,"Vorwerk,  Celle (29229)",65
+Heese, Celle (29225),329.000 2.350,4 Zimmer,140 m²,254 m² Grundstuck,https://www.immowelt.de/expose/7bd86bb5-842f-4946-98a8-efe122f6379a,3169,"Heese,  Celle (29225)",190
+Altenceller Schneede 1, Celle (29227),59.900 1.711,1 Zimmer,35 m²,Unknown,https://www.immowelt.de/expose/7a127033-8e63-4a23-b417-97d35ab798da,3169,"Altenceller Schneede 1,  Celle (29227)",59
+Altstadt, Celle (29221),475.000 1.067,327 m²,445 m² Grundstuck,Unknown,https://www.immowelt.de/expose/fe9906de-edc6-4bbc-9bc4-46f834c81e24,3169,"Altstadt,  Celle (29221)",357
+GarÃŸen, Celle (29229),274.950 1.740,5 Zimmer,158 m²,685 m² Grundstuck,https://www.immowelt.de/expose/1ca69f3d-3a4e-4ae3-b2f4-a7ed997ba30d,3169,"GarÃŸen,  Celle (29229)",0
+GarÃŸen, Celle (29229),250.750 1.791,5 Zimmer,140 m²,685 m² Grundstuck,https://www.immowelt.de/expose/7b2441d1-4a7a-4052-b5a9-e9e2b03a60cf,3169,"GarÃŸen,  Celle (29229)",0
+GarÃŸen, Celle (29229),231.750 1.869,4 Zimmer,124 m²,685 m² Grundstuck,https://www.immowelt.de/expose/e44d78f9-0b6b-416b-9250-011284334fb1,3169,"GarÃŸen,  Celle (29229)",0
+Scheuen, Celle (29229),254.550 1.958,6 Zimmer,130 m²,685 m² Grundstuck,https://www.immowelt.de/expose/d5aca5a4-383a-4bea-98b1-74cbc74746ed,3169,"Scheuen,  Celle (29229)",39
+GarÃŸen, Celle (29229),227.250 2.144,3 Zimmer,106 m²,685 m² Grundstuck,https://www.immowelt.de/expose/88fcc79e-8e5c-439e-9ec3-e1ccecdf667f,3169,"GarÃŸen,  Celle (29229)",0
+Scheuen, Celle (29229),219.690 1.846,4 Zimmer,119 m²,648 m² Grundstuck,https://www.immowelt.de/expose/549d76da-1476-48e9-b697-aa54bc4c5157,3169,"Scheuen,  Celle (29229)",39
+Scheuen, Celle (29229),245.390 1.831,5 Zimmer,134 m²,648 m² Grundstuck,https://www.immowelt.de/expose/d969fabe-e1b5-44ca-b4cb-145004e9052b,3169,"Scheuen,  Celle (29229)",39
+Scheuen, Celle (29229),221.090 2.047,5 Zimmer,108 m²,648 m² Grundstuck,https://www.immowelt.de/expose/76038d8a-5749-4c49-b650-dd8ec9f86439,3169,"Scheuen,  Celle (29229)",39
+Scheuen, Celle (29229),232.150 1.814,5 Zimmer,128 m²,648 m² Grundstuck,https://www.immowelt.de/expose/60b086c7-20ea-4b91-b2ec-34a4a90819a7,3169,"Scheuen,  Celle (29229)",39
+Scheuen, Celle (29229),203.950 2.040,4 Zimmer,100 m²,648 m² Grundstuck,https://www.immowelt.de/expose/00e9958a-b756-45c8-9404-4390857ffe9e,3169,"Scheuen,  Celle (29229)",39
+HaydnstraÃŸe 6, Celle (29223),195.000 2.868,3 Zimmer,68 m²,1. Geschoss,https://www.immowelt.de/expose/a0907e31-9b44-4897-909f-badaa46c6299,3169,"HaydnstraÃŸe 6,  Celle (29223)",0
+Heese, Celle (29225),149.000 1.863,4 Zimmer,80 m²,320 m² Grundstuck,https://www.immowelt.de/expose/32d09c11-2bba-4965-ad02-48cd94d437fb,3169,"Heese,  Celle (29225)",190
+Wietzenbruch, Celle (29225),735.995 2.909,7 Zimmer,253 m²,823 m² Grundstuck,https://www.immowelt.de/expose/7ed99126-0274-4b06-bdc3-6946cfbf7540,3169,"Wietzenbruch,  Celle (29225)",88
+Wietzenbruch, Celle (29225),759.855 3.373,8 Zimmer,"225,3 m²",575 m² Grundstuck,https://www.immowelt.de/expose/ea508d36-736c-41d4-b2b3-c2494af41a51,3169,"Wietzenbruch,  Celle (29225)",88
+Vorwerk, Celle (29229),123.000 1.783,3 Zimmer,69 m²,176 m² Grundstuck,https://www.immowelt.de/expose/75d54896-e3c7-40cd-ae37-dab74d592dbb,3169,"Vorwerk,  Celle (29229)",65
+Scheuen, Celle/Scheuen (29229),Preis auf Anfrage,5 Zimmer,144 m²,750 m² Grundstuck,https://www.immowelt.de/expose/db7c426d-3523-4067-bcd0-77d31fc76997,3169,"Scheuen,  Celle/Scheuen (29229)",37
+Lachtehausen, Celle (29223),345.000 2.156,6 Zimmer,160 m²,906 m² Grundstuck,https://www.immowelt.de/expose/81ee4a63-f746-40c6-a999-4567ffd98462,3169,"Lachtehausen,  Celle (29223)",15
+Wietzenbruch, Celle (29225),746.995 2.953,7 Zimmer,253 m²,745 m² Grundstuck,https://www.immowelt.de/expose/8c918ee7-74b4-4734-a50d-76549e200143,3169,"Wietzenbruch,  Celle (29225)",88
+Wietzenbruch, Celle (29225),575.995 4.267,5 Zimmer,135 m²,575 m² Grundstuck,https://www.immowelt.de/expose/4cb996f3-43c5-4aa5-88b3-a312b98a9dea,3169,"Wietzenbruch,  Celle (29225)",88
+NeuenhÃ¤usen, Celle-NeuenhÃ¤usen (29221),375.000 2.500,"4,5 Zimmer",150 m²,Unknown,https://www.immowelt.de/expose/3319cf1f-5550-48e8-a5d4-a45400bade65,3169,"NeuenhÃ¤usen,  Celle-NeuenhÃ¤usen (29221)",0
+GroÃŸ Hehlen, Celle (29229),545.000 2.998,6 Zimmer,"181,8 m²",600 m² Grundstuck,https://www.immowelt.de/expose/722d4a33-8550-4be7-a83c-e88a43816f57,3169,"GroÃŸ Hehlen,  Celle (29229)",0
+Vorwerk, Celle (29229),102.700 1.510,3 Zimmer,68 m²,179 m² Grundstuck,https://www.immowelt.de/expose/626e83cc-ab2d-44ac-abb3-8dde5cb7f6ba,3169,"Vorwerk,  Celle (29229)",65
+Wietzenbruch, Celle (29225),799.970 3.670,6 Zimmer,218 m²,750 m² Grundstuck,https://www.immowelt.de/expose/9b239a2e-d4b9-4361-baaa-3df9a3218929,3169,"Wietzenbruch,  Celle (29225)",88
+Westercelle, Celle (29227),545.000 2.019,9 Zimmer,270 m²,765 m² Grundstuck,https://www.immowelt.de/expose/100b9108-83cc-4f11-b2ad-87316d8310e4,3169,"Westercelle,  Celle (29227)",99
+Vorwerk, Celle (29229),142.000 1.690,4 Zimmer,84 m²,394 m² Grundstuck,https://www.immowelt.de/expose/a4e5b98d-e9a5-4d04-ad67-3db93cf3761c,3169,"Vorwerk,  Celle (29229)",65
+Klein Hehlen, Celle-Klein Hehlen (29223),465.000 1.921,10 Zimmer,242 m²,2.626 m² Grundstuck,https://www.immowelt.de/expose/6414a403-28fb-48c8-8fef-084bc610ec6d,3169,"Klein Hehlen,  Celle-Klein Hehlen (29223)",102
+GroÃŸ Hehlen, Celle (29229),222.000 2.075,3 Zimmer,107 m²,1.400 m² Grundstuck,https://www.immowelt.de/expose/3bf54ec4-896a-4bb4-bf85-8b0f4b2db428,3169,"GroÃŸ Hehlen,  Celle (29229)",0
+Hehlentor, Celle (29223),359.000 3.205,4 Zimmer,112 m²,Unknown,https://www.immowelt.de/expose/4178ca71-94fd-4b46-830f-8bbd9bae6108,3169,"Hehlentor,  Celle (29223)",197
+Hehlentor, Celle (29221),549.000 2.336,235 m²,433 m² Grundstuck,Unknown,https://www.immowelt.de/expose/5a6404a4-6d92-4c33-9d37-26b5c298b663,3169,"Hehlentor,  Celle (29221)",197
+Altstadt, Landkreis Celle (29221),213.750 2.138,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/f5257533-a6b4-4f22-bdcf-1a786d5945fe,3169,"Altstadt,  Landkreis Celle (29221)",357
+Altstadt, Landkreis Celle (29221),183.050 2.034,3 Zimmer,90 m²,Unknown,https://www.immowelt.de/expose/bd3f38a8-f1e9-4382-a362-89c6c00346b3,3169,"Altstadt,  Landkreis Celle (29221)",357
+NeuenhÃ¤usen, Celle (29221),1.200.000 3.871,8 Zimmer,310 m²,690 m² Grundstuck,https://www.immowelt.de/expose/5fd21353-140a-4af9-b2a7-12f4409a0e29,3169,"NeuenhÃ¤usen,  Celle (29221)",0
+Klein Hehlen, Celle (29223),199.000 2.182,4 Zimmer,"91,2 m²",322 m² Grundstuck,https://www.immowelt.de/expose/8cde091e-49dc-48d1-a810-12b0b27ed91f,3169,"Klein Hehlen,  Celle (29223)",102
+Hehlentor, Celle (29223),386.000 2.398,5 Zimmer,161 m²,670 m² Grundstuck,https://www.immowelt.de/expose/09fdbaba-8d90-41c2-986b-be5108d3cce1,3169,"Hehlentor,  Celle (29223)",197
+NeuenhÃ¤usen, Celle (29221),99.000 2.357,2 Zimmer,42 m²,EG,https://www.immowelt.de/expose/6b5bb63c-9dad-4f46-bbbc-2253ba26aef3,3169,"NeuenhÃ¤usen,  Celle (29221)",0
+Adelheidsdorf, Celle (29225),527.985 3.902,4 Zimmer,"135,3 m²",445 m² Grundstuck,https://www.immowelt.de/expose/361e0e89-c858-4961-850b-e76328922edf,3169,"Adelheidsdorf,  Celle (29225)",36
+Wietzenbruch, Celle (29225),798.950 3.665,6 Zimmer,218 m²,798 m² Grundstuck,https://www.immowelt.de/expose/caa6e796-ae58-420e-bed7-a814c09c1476,3169,"Wietzenbruch,  Celle (29225)",88
+Wietzenbruch, Celle (29225),579.975 3.744,6 Zimmer,"154,9 m²",782 m² Grundstuck,https://www.immowelt.de/expose/2d8a9886-04d9-49af-a581-fc5e6947eeb9,3169,"Wietzenbruch,  Celle (29225)",88
+Wietzenbruch, Celle (29225),749.755 3.329,8 Zimmer,"225,3 m²",498 m² Grundstuck,https://www.immowelt.de/expose/dbb8b3b0-0143-4fb7-b2cd-596917675288,3169,"Wietzenbruch,  Celle (29225)",88
+Wietzenbruch, Celle (29225),527.955 3.902,4 Zimmer,"135,3 m²",445 m² Grundstuck,https://www.immowelt.de/expose/92e82bdf-2bfb-4926-a572-a5b070277e2b,3169,"Wietzenbruch,  Celle (29225)",88
+Wietzenbruch, Celle (29225),734.955 2.905,7 Zimmer,253 m²,729 m² Grundstuck,https://www.immowelt.de/expose/024afe94-c628-4576-a63f-07691dcb375d,3169,"Wietzenbruch,  Celle (29225)",88
+Wietzenbruch, Celle (29225),749.555 3.328,8 Zimmer,"225,3 m²",498 m² Grundstuck,https://www.immowelt.de/expose/e90b6087-27b4-427d-aa75-9f582150cd66,3169,"Wietzenbruch,  Celle (29225)",88
+Vorwerk, Celle (29229),120.000 1.818,3 Zimmer,66 m²,173 m² Grundstuck,https://www.immowelt.de/expose/c008d0fe-799e-4e5f-a4db-f1e802921b2d,3169,"Vorwerk,  Celle (29229)",65
+Vorwerk, Celle (29229),119.000 1.803,3 Zimmer,66 m²,168 m² Grundstuck,https://www.immowelt.de/expose/c31c91bd-03b6-41f3-8977-bde0411f822d,3169,"Vorwerk,  Celle (29229)",65
+LisztstraÃŸe 6, Celle (Klein Hehlen) (29223),390.000 2.438,7 Zimmer,160 m²,1.123 m² Grundstuck,https://www.immowelt.de/expose/a939bc7d-4441-4238-b1da-f423682c9868,3169,"LisztstraÃŸe 6,  Celle (Klein Hehlen) (29223)",0
+Altstadt, Celle (29221),250.000 4.167,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/28245753-42bf-42b1-bbad-4d71fd884949,3169,"Altstadt,  Celle (29221)",357
+Altencelle, Celle (29227),250.000 4.167,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/02273634-7918-41fa-971e-3340b68470b5,3169,"Altencelle,  Celle (29227)",45
+Altstadt, Celle (29221),190.000 3.800,"1,5 Zimmer",50 m²,frei ab sofort,https://www.immowelt.de/expose/2adfe841-0b90-4604-9880-7c1aab70dd5a,3169,"Altstadt,  Celle (29221)",357
+Altstadt, Celle (29221),169.000 983,5 Zimmer,172 m²,95 m² Grundstuck,https://www.immowelt.de/expose/86b4bf1d-9a33-4d4f-98b9-a4f99c0290e7,3169,"Altstadt,  Celle (29221)",357
+Klein Hehlen, Celle (29223),439.000 1.986,7 Zimmer,221 m²,870 m² Grundstuck,https://www.immowelt.de/expose/a4cb1b1d-e376-4537-8901-c146f66ea6df,3169,"Klein Hehlen,  Celle (29223)",102
+Hehlentor, Celle (29223),295.000 2.269,5 Zimmer,130 m²,747 m² Grundstuck,https://www.immowelt.de/expose/f16359ae-973b-4c6b-ad35-cf289d05b719,3169,"Hehlentor,  Celle (29223)",197
+Vorwerk, Celle (29229),115.000 1.667,3 Zimmer,69 m²,176 m² Grundstuck,https://www.immowelt.de/expose/823472f3-393d-4160-a08c-67c4cad58e8d,3169,"Vorwerk,  Celle (29229)",65
+Vorwerk, Celle (29229),115.000 1.667,3 Zimmer,69 m²,176 m² Grundstuck,https://www.immowelt.de/expose/68870e50-6dec-420b-acb0-91cf6e4008fd,3169,"Vorwerk,  Celle (29229)",65
+Vorwerk, Celle (29229),156.000 2.364,3 Zimmer,66 m²,550 m² Grundstuck,https://www.immowelt.de/expose/a13b15ed-fe9f-439e-8f1a-daada9d98373,3169,"Vorwerk,  Celle (29229)",65
+Hehlentor, Celle (29223),239.000 1.299,8 Zimmer,184 m²,536 m² Grundstuck,https://www.immowelt.de/expose/3802c306-bf75-41f0-bb61-3e69f810fbb7,3169,"Hehlentor,  Celle (29223)",197
+Altstadt, Celle (29221),349.000 2.566,6 Zimmer,136 m²,255 m² Grundstuck,https://www.immowelt.de/expose/f73e519c-50f1-40f4-94fd-18d0f314dcb7,3169,"Altstadt,  Celle (29221)",357
+Altstadt, Celle (29221),169.000 983,5 Zimmer,172 m²,95 m² Grundstuck,https://www.immowelt.de/expose/8ef08faf-258e-4c62-b2c5-11014dcc1bb7,3169,"Altstadt,  Celle (29221)",357
+Klein Hehlen, Celle (29223),136.000 1.971,3 Zimmer,69 m²,251 m² Grundstuck,https://www.immowelt.de/expose/b8e2e282-7a0f-4e4e-b06d-ea0cc5dfa656,3169,"Klein Hehlen,  Celle (29223)",102
+Blumlage, Celle (29221),449.000 709,437 m²,633 m² Grundstuck,Unknown,https://www.immowelt.de/expose/9e1bfa47-f374-4b2c-a78e-a8863b038d1c,3169,"Blumlage,  Celle (29221)",136
+Westercelle, Celle (29227),450.000 1.257,6 Zimmer,358 m²,654 m² Grundstuck,https://www.immowelt.de/expose/5f014994-91da-4b4c-9362-a6b6ff991086,3169,"Westercelle,  Celle (29227)",99
+Vorwerk, Celle (29229),85.000 1.024,4 Zimmer,83 m²,2. Geschoss,https://www.immowelt.de/expose/0e28ed1a-0303-4494-b496-3823debe781d,3169,"Vorwerk,  Celle (29229)",65
+GroÃŸ Hehlen, Celle (29229),295.000 2.203,"6,5 Zimmer","133,9 m²",1.011 m² Grundstuck,https://www.immowelt.de/expose/524dfffa-5866-4ec7-a586-1dbcad176203,3169,"GroÃŸ Hehlen,  Celle (29229)",0
+Blumlage, Celle (29221),359.000 2.959,4 Zimmer,"121,3 m²",frei ab sofort,https://www.immowelt.de/expose/0dd2e2b4-f740-4808-904e-451fba205e16,3169,"Blumlage,  Celle (29221)",136
+An der Beeke 22, Celle (29223),300.000 1.765,8 Zimmer,170 m²,541 m² Grundstuck,https://www.immowelt.de/expose/1af66344-484f-4058-a391-4ecc8be66f60,3169,"An der Beeke 22,  Celle (29223)",85
+Altstadt, Celle (29221),1.290.000 645,2.000 m²,1.290 m² Grundstuck,Unknown,https://www.immowelt.de/expose/63771c17-f9bb-4885-836c-2b37b2628332,3169,"Altstadt,  Celle (29221)",357
+Altstadt, Celle (29221),549.000 2.250,7 Zimmer,270 m²,235 m² Grundstuck,https://www.immowelt.de/expose/3a0a3d67-54a2-4a12-b583-9f419e96c197,3169,"Altstadt,  Celle (29221)",357
+Altstadt, Celle (29229),356.529 2.476,5 Zimmer,144 m²,600 m² Grundstuck,https://www.immowelt.de/expose/8c93d60d-b238-4000-acd6-d35a8a94f230,3169,"Altstadt,  Celle (29229)",357
+Vorwerk, Celle (29229),468.000 3.273,5 Zimmer,143 m²,630 m² Grundstuck,https://www.immowelt.de/expose/4403a488-9e8d-4f28-a380-c3284c9bca79,3169,"Vorwerk,  Celle (29229)",65
+GroÃŸ Hehlen, Celle (29229),629.000 3.437,7 Zimmer,183 m²,650 m² Grundstuck,https://www.immowelt.de/expose/762520d4-0e0c-4e29-b457-3c365584cdbc,3169,"GroÃŸ Hehlen,  Celle (29229)",0
+GroÃŸ Hehlen, Celle (29229),435.000 4.307,4 Zimmer,101 m²,660 m² Grundstuck,https://www.immowelt.de/expose/4370d9fb-f0d6-43a1-afd1-052f49841a6d,3169,"GroÃŸ Hehlen,  Celle (29229)",0
+Vorwerk, Celle (29229),472.000 4.291,5 Zimmer,110 m²,670 m² Grundstuck,https://www.immowelt.de/expose/f631c5f4-f6ff-4231-ae98-a59137a3d760,3169,"Vorwerk,  Celle (29229)",65
+GroÃŸ Hehlen, Celle (29229),677.000 2.943,9 Zimmer,230 m²,640 m² Grundstuck,https://www.immowelt.de/expose/d457ef53-d342-4a99-aacb-bfb44ff18fc5,3169,"GroÃŸ Hehlen,  Celle (29229)",0
+GroÃŸ Hehlen, Celle (29229),449.000 4.082,5 Zimmer,110 m²,670 m² Grundstuck,https://www.immowelt.de/expose/f9958e1b-5f73-4063-9636-f6bcdf7a9293,3169,"GroÃŸ Hehlen,  Celle (29229)",0
+Vorwerk, Celle (29229),496.000 3.006,6 Zimmer,165 m²,670 m² Grundstuck,https://www.immowelt.de/expose/cebaa3e0-bfa0-4a60-993f-0af4ce64e80a,3169,"Vorwerk,  Celle (29229)",65
+Klein Hehlen, Celle (29223),141.000 2.014,3 Zimmer,70 m²,253 m² Grundstuck,https://www.immowelt.de/expose/a34a35db-ce3c-4bd2-9856-fca612268e64,3169,"Klein Hehlen,  Celle (29223)",102
+Prinzengarten, Celle (29223),140.000 1.556,3 Zimmer,90 m²,frei ab sofort,https://www.immowelt.de/expose/fd34715c-6bce-4e56-95b6-c02dfbd443a2,3169,"Prinzengarten,  Celle (29223)",125
+Prinzengarten, Celle (29223),160.000 1.151,4 Zimmer,139 m²,frei ab sofort,https://www.immowelt.de/expose/d097a939-1d1c-43ac-9eb5-cb29d94c04bd,3169,"Prinzengarten,  Celle (29223)",125
+Dupmoor 65, Celle (29229),495.000 2.360,5 Zimmer,"209,8 m²",758 m² Grundstuck,https://www.immowelt.de/expose/b55f6e04-aca7-42a9-9a72-6ca5ea06f2e1,3169,"Dupmoor 65,  Celle (29229)",66
+Gockenholz, Lachendorf (29331),350.000 3.933,2 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/fe306117-f0dc-4419-bac9-cea98917e171,3169,"Gockenholz,  Lachendorf (29331)",16
+Stedden, Winsen (29308),380.000 1.900,8 Zimmer,200 m²,4.000 m² Grundstuck,https://www.immowelt.de/expose/3da2f4bb-eeab-4152-aeb7-8a594b344e68,3169,"Stedden,  Winsen (29308)",10
+Eversen, Bergen (29303),202.650 2.252,4 Zimmer,90 m²,753 m² Grundstuck,https://www.immowelt.de/expose/9c84e5d9-dc7a-498a-b86f-eebf61b4704a,3169,"Eversen,  Bergen (29303)",34
+Stedden, Winsen (Aller) (29308),250.000 4.167,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/e549ac6a-2c26-4299-889e-c788e6f2861e,3169,"Stedden,  Winsen (Aller) (29308)",10
+Lachendorf, Lachendorf (29331),368.500 2.541,5 Zimmer,145 m²,560 m² Grundstuck,https://www.immowelt.de/expose/7bfb9b54-d922-4af0-88a7-aa55d02bfe8e,3169,"Lachendorf,  Lachendorf (29331)",76
+Wienhausen, Wienhausen (29342),285.000 2.036,6 Zimmer,140 m²,1.275 m² Grundstuck,https://www.immowelt.de/expose/52c71aa9-386c-4101-85dd-2ab90bbd9585,3169,"Wienhausen,  Wienhausen (29342)",26
+Hambuhren I, Hambuhren (29313),350.000 3.933,2 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/be11e877-5d69-425a-8c1b-841b22877f7f,3169,"Hambuhren I,  Hambuhren (29313)",13
+Bockelskamp, Wienhausen (29342),250.000 4.167,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/c80bc705-3ce7-4888-985c-f8f7cf418626,3169,"Bockelskamp,  Wienhausen (29342)",10
+Lachendorf, Lachendorf (29331),200.000 2.105,2 Zimmer,95 m²,872 m² Grundstuck,https://www.immowelt.de/expose/a53074e8-ee71-4bfc-9bdd-f688d942f617,3169,"Lachendorf,  Lachendorf (29331)",76
+Lachendorf, Lachendorf (29331),352.000 1.903,7 Zimmer,185 m²,598 m² Grundstuck,https://www.immowelt.de/expose/0c927740-fb41-4cc6-af20-7628d7271a56,3169,"Lachendorf,  Lachendorf (29331)",76
+Wienhausen, Wienhausen (29342),259.000 1.378,5 Zimmer,188 m²,1.060 m² Grundstuck,https://www.immowelt.de/expose/ceebdd6b-b451-4594-b28b-eac21b250cfb,3169,"Wienhausen,  Wienhausen (29342)",26
+Bockelskamp, Wienhausen (29342),650.000 2.165,6 Zimmer,"300,3 m²",2.742 m² Grundstuck,https://www.immowelt.de/expose/13adb5ab-61bb-4098-8233-6ef7cf80e376,3169,"Bockelskamp,  Wienhausen (29342)",10
+Eversen, Bergen (29303),349.000 1.212,282 m²,820 m² Grundstuck,Unknown,https://www.immowelt.de/expose/b9b8be58-94e0-4f1b-b73f-147960566258,3169,"Eversen,  Bergen (29303)",34
+Gockenholz, Lachendorf (29331),350.000 3.933,2 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/3f8d0b02-29d7-4b40-8919-95a33e4e9743,3169,"Gockenholz,  Lachendorf (29331)",16
+HÃ¶fer, HÃ¶fer (29361),175.000 1.094,7 Zimmer,160 m²,480 m² Grundstuck,https://www.immowelt.de/expose/4a5dd463-0f66-4dde-9b9d-d05f29997c2f,3169,"HÃ¶fer,  HÃ¶fer (29361)",0
+Lachendorf, Lachendorf (29331),369.000 2.563,144 m²,790 m² Grundstuck,Unknown,https://www.immowelt.de/expose/d167e830-ff5c-4627-8c4d-d35ed60da895,3169,"Lachendorf,  Lachendorf (29331)",76
+Hambuhren I, Hambuhren (29313),359.000 1.994,8 Zimmer,180 m²,804 m² Grundstuck,https://www.immowelt.de/expose/f9e34ed9-5222-4ede-b1cc-f04fbe101f3a,3169,"Hambuhren I,  Hambuhren (29313)",13
+Eversen, Bergen (29303),227.250 2.144,3 Zimmer,106 m²,753 m² Grundstuck,https://www.immowelt.de/expose/37c24c50-e589-4359-b85c-38a4d105ff6c,3169,"Eversen,  Bergen (29303)",34
+Habighorst, Habighorst (29359),170.000 1.417,5 Zimmer,120 m²,799 m² Grundstuck,https://www.immowelt.de/expose/da75a0fd-7609-420c-920e-bd247c04e8d3,3169,"Habighorst,  Habighorst (29359)",10
+Eversen, Bergen (29303),242.650 1.784,4 Zimmer,136 m²,753 m² Grundstuck,https://www.immowelt.de/expose/4e417a75-bcbf-4c8a-964f-f0d99148e306,3169,"Eversen,  Bergen (29303)",34
+Hambuhren II, Hambuhren (29313),379.000 1.223,10 Zimmer,310 m²,970 m² Grundstuck,https://www.immowelt.de/expose/373789c8-6622-44db-9654-4bab8c2b2d41,3169,"Hambuhren II,  Hambuhren (29313)",37
+Haferkamp, Beedenbostel (29355),325.750 1.962,5 Zimmer,166 m²,700 m² Grundstuck,https://www.immowelt.de/expose/98a69fd9-61a7-4a0b-b36d-2fd7b65ed0ef,3169,"Haferkamp,  Beedenbostel (29355)",14
+HÃ¶fer, Eschede (29361),339.000 1.555,6 Zimmer,218 m²,1.073 m² Grundstuck,https://www.immowelt.de/expose/1f21c1a3-93be-40fb-ab59-2809842757f5,3169,"HÃ¶fer,  Eschede (29361)",0
+Nienhagen, Nienhagen (29336),255.000 2.125,5 Zimmer,120 m²,569 m² Grundstuck,https://www.immowelt.de/expose/51b79a5a-e8ee-4b98-b5f0-98484abfdd27,3169,"Nienhagen,  Nienhagen (29336)",0
+Lachendorf, Lachendorf (29331),245.000 1.929,4 Zimmer,127 m²,672 m² Grundstuck,https://www.immowelt.de/expose/117bee2f-09cb-46be-b9dc-0b4fdf0313f3,3169,"Lachendorf,  Lachendorf (29331)",76
+Hambuhren II, Hambuhren (29313),650.000 2.610,8 Zimmer,249 m²,1.281 m² Grundstuck,https://www.immowelt.de/expose/9f3d0d0d-6fdf-460e-aefc-1a656388b728,3169,"Hambuhren II,  Hambuhren (29313)",37
+Habighorster-HÃ¶he, Habighorst (29359),149.000 1.146,6 Zimmer,130 m²,1.247 m² Grundstuck,https://www.immowelt.de/expose/9d251f92-3114-423a-9fb8-5808a8e77019,3169,"Habighorster-HÃ¶he,  Habighorst (29359)",0
+Ortsstr. 24, BÃ¶hlen (98701),70.000 350,10 Zimmer,200 m²,880 m² Grundstuck,https://www.immowelt.de/expose/205fa64a-c507-4779-9e09-1c875969236f,3194,"Ortsstr. 24,  BÃ¶hlen (98701)",0
+Am Gemeindegut 2, GroÃŸbreitenbach (98701),345.000 1.154,10 Zimmer,299 m²,3.832 m² Grundstuck,https://www.immowelt.de/expose/1e3b243d-9f99-4934-a0ea-a8ac21e87684,3194,"Am Gemeindegut 2,  GroÃŸbreitenbach (98701)",0
+Friedersdorf 12, GroÃŸbreitenbach (98701),45.000 324,13 Zimmer,139 m²,660 m² Grundstuck,https://www.immowelt.de/expose/c6fa5da3-4c1e-4dd6-bdbc-55f25d00a5e6,3194,"Friedersdorf 12,  GroÃŸbreitenbach (98701)",0
+BahnhofstraÃŸe 63, Katzhutte (98746),1000,98 m²,128 m² Grundstuck,Unknown,https://www.immowelt.de/expose/78dc3ef2-68a3-4c39-ae9c-865037fa8e5f,3194,"BahnhofstraÃŸe 63,  Katzhutte (98746)",0
+Oelze, Katzhutte (98746),99.900 908,6 Zimmer,110 m²,363 m² Grundstuck,https://www.immowelt.de/expose/29591c20-cf0e-45cf-a16e-f72ac69bd4c4,3194,"Oelze,  Katzhutte (98746)",23
+Oelze, Katzhutte (98746),8000,3.650 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/83474065-2246-4e2c-a3d3-67665da17f91,3194,"Oelze,  Katzhutte (98746)",23
+BergstraÃŸe 53, GroÃŸbreitenbach (98701),Preis auf Anfrage,8 Zimmer,120 m²,442 m² Grundstuck,https://www.immowelt.de/expose/240efe58-38f9-4e1a-be02-43ecd1f60fcc,3194,"BergstraÃŸe 53,  GroÃŸbreitenbach (98701)",0
+Meuselbach, Schwarzatal (98744),16.000 121,132 m²,Unknown,Unknown,https://www.immowelt.de/expose/c55497ee-5c5e-4095-a67f-2637dfbf49fb,3194,"Meuselbach,  Schwarzatal (98744)",10
+NeuhÃ¤user StraÃŸe 22, Katzhutte (98746),98.000 583,6 Zimmer,168 m²,1.172 m² Grundstuck,https://www.immowelt.de/expose/b7129041-be7b-43b6-b2f6-1ce68eab8261,3194,"NeuhÃ¤user StraÃŸe 22,  Katzhutte (98746)",0
+Willmersdorf, Gehren (98694),473.648 3.789,4 Zimmer,125 m²,900 m² Grundstuck,https://www.immowelt.de/expose/f13053a8-88ca-4b13-9602-cb52ee729786,3194,"Willmersdorf,  Gehren (98694)",0
+Willmersdorf, Gehren (98694),439.930 3.606,4 Zimmer,122 m²,900 m² Grundstuck,https://www.immowelt.de/expose/bab311a6-1352-4fd6-95f7-76a05aa2e988,3194,"Willmersdorf,  Gehren (98694)",0
+Katzhutte, Katzhutte (98746),215.999 1.508,4 Zimmer,"143,3 m²",648 m² Grundstuck,https://www.immowelt.de/expose/18ac25ab-f425-4d55-b730-056d77c180d1,3194,"Katzhutte,  Katzhutte (98746)",20
+Katzhutte, Katzhutte (98746),25.000 200,8 Zimmer,125 m²,450 m² Grundstuck,https://www.immowelt.de/expose/ef65a618-e27c-45a9-9725-1a4eecdb7074,3194,"Katzhutte,  Katzhutte (98746)",20
+MÃ¶hrenbach, Ilmenau (98694),65.000 1.300,2 Zimmer,50 m²,993 m² Grundstuck,https://www.immowelt.de/expose/df2eab99-ac14-4012-9c62-c0521d4d2307,3194,"MÃ¶hrenbach,  Ilmenau (98694)",0
+Gruner Baum / Festspielhugel, Bayreuth (95445),419.000 3.036,6 Zimmer,138 m²,666 m² Grundstuck,https://www.immowelt.de/expose/71322d38-d6e0-4f74-9b85-1b7b933a59ca,3246,"Gruner Baum / Festspielhugel,  Bayreuth (95445)",8
+City, Bayreuth (95444),230.000 2.875,3 Zimmer,80 m²,frei ab sofort,https://www.immowelt.de/expose/f9c9bb5c-6fea-45f3-86fd-f44f8c51b94b,3246,"City,  Bayreuth (95444)",509
+Bamberger Str. 64a, Bayreuth (95445),219.000 2.639,3 Zimmer,83 m²,2. Geschoss,https://www.immowelt.de/expose/55335a2a-fd2d-47c0-b9e1-287605cb13db,3246,"Bamberger Str. 64a,  Bayreuth (95445)",64
+Roter Hugel, Bayreuth (95445),97.000 3.233,1 Zimmer,30 m²,Unknown,https://www.immowelt.de/expose/9f3f39b1-2be4-4f25-b7f3-f0b934e0160f,3246,"Roter Hugel,  Bayreuth (95445)",30
+Meyernberg, Bayreuth (95447),263.000 2.798,"3,5 Zimmer",94 m²,Unknown,https://www.immowelt.de/expose/8a457d47-e14a-4777-8bb0-e8d07a5a2086,3246,"Meyernberg,  Bayreuth (95447)",24
+KÃ¶nigsallee / Eichelberg, Bayreuth (95445),287.000 2.540,4 Zimmer,113 m²,Unknown,https://www.immowelt.de/expose/05ba5ec8-13a2-4209-97f1-84497f8252e0,3246,"KÃ¶nigsallee / Eichelberg,  Bayreuth (95445)",0
+FrÃ¶belstr, Bayreuth (95445),990.000 2.250,440 m²,600 m² Grundstuck,Unknown,https://www.immowelt.de/expose/e1e3aa66-39cf-4432-be5e-2aec10984c05,3246,"FrÃ¶belstr,  Bayreuth (95445)",0
+Meyernberg, Bayreuth (95447),1.110.000 6.453,4 Zimmer,172 m²,3. Geschoss,https://www.immowelt.de/expose/efa8f838-1031-4dfa-b156-133576a8c656,3246,"Meyernberg,  Bayreuth (95447)",24
+Nurnberger Str. 38, Bayreuth (95448),482.000 5.563,4 Zimmer,"86,7 m²",4. Geschoss,https://www.immowelt.de/projekte/expose/k2wx832,3246,"Nurnberger Str. 38,  Bayreuth (95448)",20
+Gruner Baum / Festspielhugel, Bayreuth (95445),495.000 2.929,6 Zimmer,169 m²,276 m² Grundstuck,https://www.immowelt.de/expose/9c7b542b-5c94-4262-991a-b1779e21a909,3246,"Gruner Baum / Festspielhugel,  Bayreuth (95445)",8
+Altstadt, Bayreuth (95445),162.000 3.985,1 Zimmer,"40,7 m²",1. Geschoss,https://www.immowelt.de/expose/d5f59153-0382-4f73-a71b-1b19b43c5ebc,3246,"Altstadt,  Bayreuth (95445)",139
+Nurnberger Str. 38, Bayreuth (95448),314.000 5.246,3 Zimmer,"59,9 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wx832,3246,"Nurnberger Str. 38,  Bayreuth (95448)",20
+Nurnberger Str. 38, Bayreuth (95448),294.000 5.171,"2,5 Zimmer","56,9 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wx832,3246,"Nurnberger Str. 38,  Bayreuth (95448)",20
+Nurnberger Str. 38, Bayreuth (95448),439.000 5.476,"3,5 Zimmer","80,2 m²",4. Geschoss,https://www.immowelt.de/projekte/expose/k2wx832,3246,"Nurnberger Str. 38,  Bayreuth (95448)",20
+Nurnberger Str. 38, Bayreuth (95448),195.000 5.384,1 Zimmer,"36,2 m²",1. Geschoss,https://www.immowelt.de/projekte/expose/k2wx832,3246,"Nurnberger Str. 38,  Bayreuth (95448)",20
+Aichig, Bayreuth (95444),393.999 3.825,4 Zimmer,103 m²,750 m² Grundstuck,https://www.immowelt.de/expose/3f7cb99f-004f-4648-acc9-1f688bed5f96,3246,"Aichig,  Bayreuth (95444)",34
+Gruner Baum / Festspielhugel, Bayreuth (95445),535.000 2.833,8 Zimmer,"188,9 m²",1.100 m² Grundstuck,https://www.immowelt.de/expose/84a590e8-44cf-45a8-b070-20e54ab4d08a,3246,"Gruner Baum / Festspielhugel,  Bayreuth (95445)",8
+Heinrich-Fickenscher-Str. 18, Bayreuth (95448),109.000 4.037,1 Zimmer,27 m²,Unknown,https://www.immowelt.de/expose/134ac456-c9ea-4427-9d67-48599e0eae01,3246,"Heinrich-Fickenscher-Str. 18,  Bayreuth (95448)",295
+WendelhÃ¶fen / Gartenstadt, Bayreuth (95445),2.250.000 6.303,10 Zimmer,357 m²,1.519 m² Grundstuck,https://www.immowelt.de/expose/9db02087-541e-49ea-8a31-5d637e0ada64,3246,"WendelhÃ¶fen / Gartenstadt,  Bayreuth (95445)",0
+Markgrafenallee 21, Bayreuth (95448),275.000 2.750,3 Zimmer,100 m²,2. Geschoss,https://www.immowelt.de/expose/eb006a6c-ae1e-4d32-ab7d-fb386f3eee4d,3246,"Markgrafenallee 21,  Bayreuth (95448)",273
+Roter Hugel, Bayreuth (95445),169.000 2.674,2 Zimmer,"63,2 m²",1. Geschoss,https://www.immowelt.de/expose/d6f37b98-7977-430d-a016-0b364b95f8f9,3246,"Roter Hugel,  Bayreuth (95445)",30
+KÃ¶nigsallee / Eichelberg, Bayreuth (95448),290.000 2.148,5 Zimmer,135 m²,600 m² Grundstuck,https://www.immowelt.de/expose/04c247d5-7426-401b-8e2a-ac0a3e339151,3246,"KÃ¶nigsallee / Eichelberg,  Bayreuth (95448)",0
+Industriegebiet, Bayreuth (95448),169.750 2.612,2 Zimmer,65 m²,5. Geschoss,https://www.immowelt.de/expose/6cdb71a5-a65e-4176-92da-1a4d54c3c781,3246,"Industriegebiet,  Bayreuth (95448)",96
+Meyernberg, Bayreuth (95447),165.000 2.369,2 Zimmer,"69,7 m²",7. Geschoss,https://www.immowelt.de/expose/336bdc12-709a-4b02-984b-d3234dfd5041,3246,"Meyernberg,  Bayreuth (95447)",24
+Nurnberger Str. 38, Bayreuth (95448),483.000 5.821,"3,5 Zimmer",83 m²,4. Geschoss,https://www.immowelt.de/projekte/expose/k2wx832,3246,"Nurnberger Str. 38,  Bayreuth (95448)",20
+Birken / QuellhÃ¶fe, Bayreuth (95444),795.000 3.245,8 Zimmer,245 m²,1.000 m² Grundstuck,https://www.immowelt.de/expose/ae5dc5a6-4880-4d00-9121-e233ab320568,3246,"Birken / QuellhÃ¶fe,  Bayreuth (95444)",0
+Glocke / Saas, Bayreuth (95447),545.300 5.100,4 Zimmer,"106,9 m²",EG,https://www.immowelt.de/expose/c55929cc-3e56-44dd-8ec4-efe0b2990b0a,3246,"Glocke / Saas,  Bayreuth (95447)",47
+Glocke / Saas, Bayreuth (95447),422.700 5.250,2 Zimmer,"80,5 m²",1. Geschoss,https://www.immowelt.de/expose/bb636e4f-b408-4c22-bd52-c5421a21fcc6,3246,"Glocke / Saas,  Bayreuth (95447)",47
+Roter Hugel, Bayreuth (95445),"155.000 76,30",2 Zimmer,"76,3 m²",Unknown,https://www.immowelt.de/expose/fa181f2d-d286-4b54-a347-25869b9a2c50,3246,"Roter Hugel,  Bayreuth (95445)",30
+Sankt Johannis, Bayreuth (95448),427.966 4.900,3 Zimmer,"87,3 m²",1. Geschoss,https://www.immowelt.de/expose/b851409e-5041-4b3f-98df-96b4f9cc1dd1,3246,"Sankt Johannis,  Bayreuth (95448)",27
+Oberpreuschwitz, Bayreuth (95445),499.000 2.467,6 Zimmer,"202,3 m²",685 m² Grundstuck,https://www.immowelt.de/expose/87c3965f-974d-48f1-8d8b-440eab17d525,3246,"Oberpreuschwitz,  Bayreuth (95445)",0
+City, Bayreuth (95444),5500000,874 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/e266a34f-6c08-4312-919a-0c88c83f684f,3246,"City,  Bayreuth (95444)",509
+WendelhÃ¶fen / Gartenstadt, Bayreuth (95444),290.000 4.143,2 Zimmer,70 m²,Unknown,https://www.immowelt.de/expose/8f0f6b70-d76d-4efe-bc8e-120f3d598208,3246,"WendelhÃ¶fen / Gartenstadt,  Bayreuth (95444)",0
+Frankenstr. 4b, Bayreuth (95448),169.900 2.499,2 Zimmer,68 m²,3. Geschoss,https://www.immowelt.de/expose/b102dada-786c-4346-9851-1932f81fda6d,3246,"Frankenstr. 4b,  Bayreuth (95448)",18
+KÃ¶nigsallee / Eichelberg, Bayreuth (95448),170.000 3.094,2 Zimmer,"54,9 m²",5. Geschoss,https://www.immowelt.de/expose/71804cde-4f84-499f-8059-352fe354454a,3246,"KÃ¶nigsallee / Eichelberg,  Bayreuth (95448)",0
+Hammerstatt / St. Georgen, Bayreuth (95448),179.000 2.864,"2,5 Zimmer","62,5 m²",2. Geschoss,https://www.immowelt.de/expose/bf376234-6b2f-4b8b-8191-52229c21d9f5,3246,"Hammerstatt / St. Georgen,  Bayreuth (95448)",156
+Roter Hugel, Bayreuth (95445),76.000 3.167,1 Zimmer,24 m²,1. Geschoss,https://www.immowelt.de/expose/6e6fd09c-0e98-47ce-baef-9b788ff7fe61,3246,"Roter Hugel,  Bayreuth (95445)",30
+Roter Hugel, Bayreuth (95445),139.000 2.896,1 Zimmer,48 m²,Unknown,https://www.immowelt.de/expose/fa85e237-87fb-40f6-8685-66e5816b62ec,3246,"Roter Hugel,  Bayreuth (95445)",30
+Roter Hugel, Bayreuth (95445),232.000 2.900,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/7a1d3f35-b0f5-4ba1-acd8-550388fb1110,3246,"Roter Hugel,  Bayreuth (95445)",30
+Altstadt, Bayreuth (95447),179.500 3.452,2 Zimmer,52 m²,Unknown,https://www.immowelt.de/expose/cf478875-61e0-47b3-820c-3a3a5e15f430,3246,"Altstadt,  Bayreuth (95447)",139
+Roter Hugel, Bayreuth (95445),299.000 3.738,4 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/753e7e5a-425a-4a31-b16a-a7d02b5a204b,3246,"Roter Hugel,  Bayreuth (95445)",30
+Industriegebiet, Bayreuth (95448),138.500 3.463,1 Zimmer,40 m²,Unknown,https://www.immowelt.de/expose/bb0ffd9b-6349-4384-8eff-34bce1ceec4e,3246,"Industriegebiet,  Bayreuth (95448)",96
+City, Bayreuth (95444),1.000.000 682,1.467 m²,570 m² Grundstuck,Unknown,https://www.immowelt.de/expose/cae629fe-267f-42dc-985e-aaab3aeac1ee,3246,"City,  Bayreuth (95444)",509
+MaximilianstraÃŸe 32, Bayreuth (95444),1.000.000 3.448,290 m²,570 m² Grundstuck,Unknown,https://www.immowelt.de/expose/2f630199-059a-4a9d-a28f-acbc0a62f7eb,3246,"MaximilianstraÃŸe 32,  Bayreuth (95444)",0
+Altstadt, Bayreuth (95447),315.000 2.917,"3,5 Zimmer",108 m²,1. Geschoss,https://www.immowelt.de/expose/05e857e6-045e-4f4b-9bbc-6be24ea13f35,3246,"Altstadt,  Bayreuth (95447)",139
+Brandenburger StraÃŸe 49, Bayreuth (95448),375.000 4.054,"2,5 Zimmer","92,5 m²",2. Geschoss,https://www.immowelt.de/expose/af07f334-9853-46ed-a0d0-6f42cba6964a,3246,"Brandenburger StraÃŸe 49,  Bayreuth (95448)",0
+Altstadt, Bayreuth (95447),246.000 3.727,2 Zimmer,66 m²,3. Geschoss,https://www.immowelt.de/expose/b7ebd942-1648-4d8b-bbca-4a9e2b8bfc14,3246,"Altstadt,  Bayreuth (95447)",139
+Meyernberg, Bayreuth (95447),399.000 3.167,5 Zimmer,126 m²,227 m² Grundstuck,https://www.immowelt.de/expose/9455423c-168e-4c48-bd4f-4320e1dcb44b,3246,"Meyernberg,  Bayreuth (95447)",24
+Meyernberg, Bayreuth / Roter Hugel (95445),1.285.000 6.731,8 Zimmer,"190,9 m²",952 m² Grundstuck,https://www.immowelt.de/expose/06589d94-6b4f-40b1-b343-dea108ab8b86,3246,"Meyernberg,  Bayreuth / Roter Hugel (95445)",30
+WendelhÃ¶fen / Gartenstadt, Bayreuth (95444),299.000 3.738,3 Zimmer,80 m²,9. Geschoss,https://www.immowelt.de/expose/e12c5abb-741d-43bd-851c-e48cf9e2c1f5,3246,"WendelhÃ¶fen / Gartenstadt,  Bayreuth (95444)",0
+Altstadt, Bayreuth (95444),159.000 2.650,2 Zimmer,60 m²,Unknown,https://www.immowelt.de/expose/49940942-b835-4d0d-bad3-febc5fd3f284,3246,"Altstadt,  Bayreuth (95444)",139
+City, Bayreuth (95448),213.000 3.046,3 Zimmer,"69,9 m²",3. Geschoss,https://www.immowelt.de/expose/f4889d88-b9c9-4eb5-af45-fc428d099d0d,3246,"City,  Bayreuth (95448)",509
+Altstadt, Bayreuth (95444),243.000 11.045,62 Zimmer,22 m²,7.400 m² Grundstuck,https://www.immowelt.de/expose/4fcb7436-3032-4e16-9408-91f510eb5bd7,3246,"Altstadt,  Bayreuth (95444)",139
+City, Bayreuth (95444),199.000 3.109,2 Zimmer,64 m²,2. Geschoss,https://www.immowelt.de/expose/91a8f2e6-e654-4550-9d33-c0f1ef41abf4,3246,"City,  Bayreuth (95444)",509
+Altstadt, Bayreuth (95444),124.000 2.818,1 Zimmer,44 m²,Unknown,https://www.immowelt.de/expose/eb783967-4489-433f-ac43-b564813d995d,3246,"Altstadt,  Bayreuth (95444)",139
+Meyernberg, Bayreuth (95445),349.000 2.983,"4,5 Zimmer",117 m²,1. Geschoss,https://www.immowelt.de/expose/3d4b7522-4282-4b92-99d7-d3fd65cbe2df,3246,"Meyernberg,  Bayreuth (95445)",24
+Altstadt, Bayreuth (95445),212.000 2.554,"2,5 Zimmer",83 m²,Unknown,https://www.immowelt.de/expose/895bc50b-f400-4354-9697-f27ded85bc24,3246,"Altstadt,  Bayreuth (95445)",139
+Roter Hugel, Bayreuth (95445),159.000 2.912,2 Zimmer,"54,6 m²",Unknown,https://www.immowelt.de/expose/03fe983b-6ae1-4bf3-8ca0-e2bb936d00df,3246,"Roter Hugel,  Bayreuth (95445)",30
+Sankt Johannis, Bayreuth (95448),599.500 4.282,5 Zimmer,140 m²,490 m² Grundstuck,https://www.immowelt.de/expose/6f124db7-3220-4764-9c74-1b9a4ecadac1,3246,"Sankt Johannis,  Bayreuth (95448)",27
+BismarckstraÃŸe 65, Bayreuth (95444),298.000 3.472,3 Zimmer,"85,8 m²",Unknown,https://www.immowelt.de/expose/d928c885-9dfe-41de-9dce-00afd92bdabe,3246,"BismarckstraÃŸe 65,  Bayreuth (95444)",0
+BismarckstraÃŸe 65, Bayreuth (95444),320.000 3.835,3 Zimmer,"83,4 m²",Unknown,https://www.immowelt.de/expose/743a1e5c-a1e1-470c-8ca7-7fb5a30b8220,3246,"BismarckstraÃŸe 65,  Bayreuth (95444)",0
+BismarckstraÃŸe 65, Bayreuth (95444),205.000 3.385,2 Zimmer,"60,6 m²",Unknown,https://www.immowelt.de/expose/12147fe9-c3db-48f3-83ad-8a3defcbce28,3246,"BismarckstraÃŸe 65,  Bayreuth (95444)",0
+BismarckstraÃŸe 65, Bayreuth (95444),1.156.000 3.662,11 Zimmer,"315,7 m²",490 m² Grundstuck,https://www.immowelt.de/expose/691901fb-9fb2-4c41-9ea3-7495f17c9987,3246,"BismarckstraÃŸe 65,  Bayreuth (95444)",0
+Hammerstatt / St. Georgen, Bayreuth (95448),219.000 2.882,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/da6e8db2-39c9-443b-9885-fb2ffb0d74f2,3246,"Hammerstatt / St. Georgen,  Bayreuth (95448)",156
+Meistersingerstr 4, bayreuth (95444),384.000 3.938,4 Zimmer,"97,5 m²",2. Geschoss,https://www.immowelt.de/expose/10d15ef3-0645-4061-a3ee-6136fbb94a75,3246,"Meistersingerstr 4,  bayreuth (95444)",332
+Hammerstatt / St. Georgen, Bayreuth (95448),159.000 2.607,2 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/9623e731-8dd3-49dd-a3ac-2fc74602d4ee,3246,"Hammerstatt / St. Georgen,  Bayreuth (95448)",156
+Roter Hugel, Bayreuth (95445),399.000 2.850,5 Zimmer,140 m²,284 m² Grundstuck,https://www.immowelt.de/expose/7d8709e2-54b2-4ded-830a-cd54492d3a2d,3246,"Roter Hugel,  Bayreuth (95445)",30
+Altstadt, Bayreuth (95447),299.000 3.312,4 Zimmer,"90,3 m²",1. Geschoss,https://www.immowelt.de/expose/4b74d168-ef66-4eda-999a-4372d0817e6c,3246,"Altstadt,  Bayreuth (95447)",139
+FurtwÃ¤nglerstraÃŸe 6a, Bayreuth (95445),169.000 3.189,2 Zimmer,53 m²,Unknown,https://www.immowelt.de/expose/244201e4-a574-4d24-b539-7592394eab20,3246,"FurtwÃ¤nglerstraÃŸe 6a,  Bayreuth (95445)",0
+City, Bayreuth (95444),174.000 2.260,3 Zimmer,77 m²,2. Geschoss,https://www.immowelt.de/expose/fa1394e6-ad88-4ed3-b263-7d7677b6568a,3246,"City,  Bayreuth (95444)",509
+WendelhÃ¶fen / Gartenstadt, Bayreuth (95445),625.000 3.378,"5,5 Zimmer",185 m²,501 m² Grundstuck,https://www.immowelt.de/expose/dd0c94bf-ec21-4da0-8341-637fb53527da,3246,"WendelhÃ¶fen / Gartenstadt,  Bayreuth (95445)",0
+Erlanger Str. 51, Bayreuth (95444),498.800 5.483,4 Zimmer,91 m²,Unknown,https://www.immowelt.de/expose/5bff6a85-eff1-4f0f-8a54-cd9d6422c8db,3246,"Erlanger Str. 51,  Bayreuth (95444)",222
+City, Bayreuth (95445),120000,2 Zimmer,52 m²,EG,https://www.immowelt.de/expose/6d0d02f0-dc3a-4a47-88a4-1d6906c82d09,3246,"City,  Bayreuth (95445)",509
+Roter Hugel, Bayreuth (95445),757.000 5.283,4 Zimmer,"143,3 m²",frei ab sofort,https://www.immowelt.de/expose/df96c3a4-2af7-454c-ab03-c934f35123a6,3246,"Roter Hugel,  Bayreuth (95445)",30
+Gruner Baum / Festspielhugel, Bayreuth (95445),167.000 2.616,3 Zimmer,"63,8 m²",1. Geschoss,https://www.immowelt.de/expose/cea8130e-a67f-49cc-8a11-db5af8124547,3246,"Gruner Baum / Festspielhugel,  Bayreuth (95445)",8
+Glocke / Saas, Bayreuth (95445),399.000 2.541,6 Zimmer,157 m²,440 m² Grundstuck,https://www.immowelt.de/expose/5248845d-b309-4bc3-854b-fdbdce34ea91,3246,"Glocke / Saas,  Bayreuth (95445)",47
+Erlanger Str. 51, Bayreuth (95444),299.900 5.408,2 Zimmer,"55,5 m²",Unknown,https://www.immowelt.de/expose/ce6afb5f-d389-495a-acca-fe3012e5c40d,3246,"Erlanger Str. 51,  Bayreuth (95444)",222
+Erlanger Str. 51, Bayreuth (95444),403.900 5.348,3 Zimmer,"75,5 m²",Unknown,https://www.immowelt.de/expose/f9edbca0-9e80-4762-b27a-5c3711e0de6a,3246,"Erlanger Str. 51,  Bayreuth (95444)",222
+JahnstraÃŸe 8-10, Bayreuth (95444),850.000 5.318,3 Zimmer,"159,8 m²",Unknown,https://www.immowelt.de/expose/de9e15e2-abcd-438d-8ca3-5e73c6fbccdb,3246,"JahnstraÃŸe 8-10,  Bayreuth (95444)",0
+JahnstraÃŸe 8-10, Bayreuth (95444),750.000 4.914,3 Zimmer,"152,6 m²",1. Geschoss,https://www.immowelt.de/expose/6943f985-5396-479f-ae48-a8de58df2220,3246,"JahnstraÃŸe 8-10,  Bayreuth (95444)",0
+Altstadt, Bayreuth (95447),119.000 3.746,1 Zimmer,"31,8 m²",Unknown,https://www.immowelt.de/expose/b72c5842-7ba6-4cfe-bbda-5b437c2f667c,3246,"Altstadt,  Bayreuth (95447)",139
+KÃ¶nigsallee / Eichelberg, Bayreuth (95448),1.149.000 2.528,16 Zimmer,"454,6 m²",390 m² Grundstuck,https://www.immowelt.de/expose/67dfe0ef-407d-4a21-88a7-b67e777125ea,3246,"KÃ¶nigsallee / Eichelberg,  Bayreuth (95448)",0
+Glocke / Saas, Bayreuth / Saas (95447),320.000 2.730,6 Zimmer,"117,2 m²",479 m² Grundstuck,https://www.immowelt.de/expose/81ad2e2e-249c-4e9c-923b-6dc77fd41f28,3246,"Glocke / Saas,  Bayreuth / Saas (95447)",47
+Erlanger Str. 51, Bayreuth (95444),403.300 5.525,3 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/a70397d4-824e-4bec-803a-65efc810dce8,3246,"Erlanger Str. 51,  Bayreuth (95444)",222
+Hammerstatt / St. Georgen, Bayreuth (95448),1.690.000 4.311,14 Zimmer,392 m²,580 m² Grundstuck,https://www.immowelt.de/expose/453da67f-cdf7-4237-92a4-57f56f1cd4d9,3246,"Hammerstatt / St. Georgen,  Bayreuth (95448)",156
+TristanstraÃŸe 6a, Bayreuth (95445),360.000 2.432,5 Zimmer,148 m²,2. Geschoss,https://www.immowelt.de/expose/b20e4045-8fd8-409b-8e11-de84a285b822,3246,"TristanstraÃŸe 6a,  Bayreuth (95445)",0
+City, Bayreuth (95444),325.000 3.551,3 Zimmer,"91,5 m²",2. Geschoss,https://www.immowelt.de/expose/eb3bfbe0-24fd-40e1-a78f-7ba6c127aa00,3246,"City,  Bayreuth (95444)",509
+Hammerstatt / St. Georgen, Bayreuth (95448),679.000 2.154,15 Zimmer,"315,3 m²",421 m² Grundstuck,https://www.immowelt.de/expose/1077f748-d6cb-4b95-9cef-cb9dbb07eb1b,3246,"Hammerstatt / St. Georgen,  Bayreuth (95448)",156
+Roter Hugel, Bayreuth (95445),530.000 3.345,7 Zimmer,"158,5 m²",400 m² Grundstuck,https://www.immowelt.de/expose/65ca1d8d-2af2-4169-b64b-9e60f8b2d1a5,3246,"Roter Hugel,  Bayreuth (95445)",30
+Industriegebiet, Bayreuth (95448),105.000 3.030,1 Zimmer,"34,7 m²",2. Geschoss,https://www.immowelt.de/expose/32bae878-a464-4546-b8bc-46fb57f038ae,3246,"Industriegebiet,  Bayreuth (95448)",96
+Hammerstatt / St. Georgen, Bayreuth (95448),160.000 2.353,2 Zimmer,68 m²,Unknown,https://www.immowelt.de/expose/9e7ec665-cc33-4ade-997b-e560aadd6320,3246,"Hammerstatt / St. Georgen,  Bayreuth (95448)",156
+Altstadt, Bayreuth (95447),1.189.000 2.858,9 Zimmer,416 m²,1.071 m² Grundstuck,https://www.immowelt.de/expose/65c0b31c-aa76-4c10-ac25-87bcea10f225,3246,"Altstadt,  Bayreuth (95447)",139
+City, Bayreuth (95444),799.000 1.769,11 Zimmer,"451,7 m²",238 m² Grundstuck,https://www.immowelt.de/expose/c7fc71e9-3268-4d80-b3f1-8617d8c3f653,3246,"City,  Bayreuth (95444)",509
+Meyernberg, Bayreuth (95447),648.000 3.192,6 Zimmer,203 m²,585 m² Grundstuck,https://www.immowelt.de/expose/325098ea-a284-4269-8026-738a643eff52,3246,"Meyernberg,  Bayreuth (95447)",24
+Meyernberg, Bayreuth / Meyernberg (95447),495.000 3.345,"5,5 Zimmer",148 m²,645 m² Grundstuck,https://www.immowelt.de/expose/5c352259-34b7-4bbf-b7d0-b96f926eadbf,3246,"Meyernberg,  Bayreuth / Meyernberg (95447)",29
+Aichig, Bayreuth (95448),774.640 3.074,5 Zimmer,252 m²,788 m² Grundstuck,https://www.immowelt.de/expose/5e59fb9b-fc6e-4ddb-9302-f28058b6b117,3246,"Aichig,  Bayreuth (95448)",34
+Aichig, Bayreuth (95448),754.900 2.996,5 Zimmer,252 m²,788 m² Grundstuck,https://www.immowelt.de/expose/568ce08e-4f0e-4026-9ddc-29263dabeee9,3246,"Aichig,  Bayreuth (95448)",34
+City, Bayreuth (95444),372.837 4.660,2 Zimmer,80 m²,2. Geschoss,https://www.immowelt.de/expose/f2d47afd-566d-46f6-95d1-8b38d0e4ca9b,3246,"City,  Bayreuth (95444)",509
+City, Bayreuth (95444),565.998 4.639,4 Zimmer,122 m²,1. Geschoss,https://www.immowelt.de/expose/e141b95c-32ad-4f05-b71a-35d81db9b216,3246,"City,  Bayreuth (95444)",509
+City, Bayreuth (95444),240.638 4.628,"2,5 Zimmer",52 m²,Unknown,https://www.immowelt.de/expose/e46e904f-e593-428d-a93d-fa08d8d3b734,3246,"City,  Bayreuth (95444)",509
+City, Bayreuth (95444),462.768 4.674,4 Zimmer,99 m²,Unknown,https://www.immowelt.de/expose/5be972c5-3fcc-4f35-90a1-ce59525edc2f,3246,"City,  Bayreuth (95444)",509
+FurtwÃ¤nglerstrasse 23A, Bayreuth (95445),980.000 4.083,9 Zimmer,240 m²,628 m² Grundstuck,https://www.immowelt.de/expose/ca367f46-9722-422a-b523-0cced5631303,3246,"FurtwÃ¤nglerstrasse 23A,  Bayreuth (95445)",0
+LudwigstraÃŸe 24 a, Bayreuth (95445),755.000 5.947,3 Zimmer,127 m²,Unknown,https://www.immowelt.de/expose/5274ddc3-1bcb-4f47-ad4f-ae4f58199358,3246,"LudwigstraÃŸe 24 a,  Bayreuth (95445)",0
+KÃ¶nigsallee / Eichelberg, Bayreuth (95448),460.000 3.211,4 Zimmer,"143,3 m²",Unknown,https://www.immowelt.de/expose/7e46feaa-8586-4224-948f-00e8af66be07,3246,"KÃ¶nigsallee / Eichelberg,  Bayreuth (95448)",0
+Seulbitz, Bayreuth (95448),820.000 3.679,5 Zimmer,"222,9 m²",986 m² Grundstuck,https://www.immowelt.de/expose/7c9ed3b4-44f2-4986-a2f7-04604398fc56,3246,"Seulbitz,  Bayreuth (95448)",0
+LudwigstraÃŸe 24 a, Bayreuth (95445),690.000 5.389,3 Zimmer,"128,1 m²",Unknown,https://www.immowelt.de/expose/d3cde857-3230-4c90-9763-85a3eb7ff260,3246,"LudwigstraÃŸe 24 a,  Bayreuth (95445)",0
+Johannes-Lupi-Ring 4c, Bayreuth / Oberkonnersreuth (95448),480.000 4.211,5 Zimmer,114 m²,204 m² Grundstuck,https://www.immowelt.de/expose/bdc28540-6468-41fc-ad8d-e0f0b6cae77b,3246,"Johannes-Lupi-Ring 4c,  Bayreuth / Oberkonnersreuth (95448)",11
+Sankt Johannis, St. Johannes (95448),733.000 3.288,5 Zimmer,"222,9 m²",630 m² Grundstuck,https://www.immowelt.de/expose/d5966cf7-2603-4d72-9f84-f81dd8863254,3246,"Sankt Johannis,  St. Johannes (95448)",0
+City, Bayreuth (95444),145.000 2.360,2 Zimmer,"61,5 m²",Unknown,https://www.immowelt.de/expose/42129d62-c130-4721-ba0e-3c7a10a91745,3246,"City,  Bayreuth (95444)",509
+Luitpoldplatz 18, Bayreuth (95444),757.000 3.923,6 Zimmer,193 m²,1. Geschoss,https://www.immowelt.de/expose/719cf3e6-8008-4faa-918f-b7e405b96af4,3246,"Luitpoldplatz 18,  Bayreuth (95444)",702
+WendelhÃ¶fen 17, Bayreuth (95445),940.000 2.866,10 Zimmer,328 m²,2.350 m² Grundstuck,https://www.immowelt.de/expose/4469072d-d50b-4534-9d4c-37691b313c0c,3246,"WendelhÃ¶fen 17,  Bayreuth (95445)",0
+KÃ¶sseinestraÃŸe 21, Bayreuth / Sankt Johannis (95448),540.000 2.903,9 Zimmer,186 m²,788 m² Grundstuck,https://www.immowelt.de/expose/0793f112-a51f-4f60-888f-8d3a94910b0f,3246,"KÃ¶sseinestraÃŸe 21,  Bayreuth / Sankt Johannis (95448)",0
+Gruner Baum / Festspielhugel, Bayreuth (95445),349.000 2.904,4 Zimmer,"120,2 m²",155 m² Grundstuck,https://www.immowelt.de/expose/c2b4c933-84ea-4799-948b-5a7f64208f61,3246,"Gruner Baum / Festspielhugel,  Bayreuth (95445)",8
+Gruner Baum / Festspielhugel, Bayreuth (95447),712.000 6.118,4 Zimmer,"116,4 m²",682 m² Grundstuck,https://www.immowelt.de/expose/72daf5f8-c5c1-4876-bc64-1d080068d92e,3246,"Gruner Baum / Festspielhugel,  Bayreuth (95447)",8
+Industriegebiet, Bayreuth (95447),966.300 3.873,5 Zimmer,"249,5 m²",804 m² Grundstuck,https://www.immowelt.de/expose/b7e5e4a6-5842-47bb-91de-9eb159d40e47,3246,"Industriegebiet,  Bayreuth (95447)",96
+Gruner Baum / Festspielhugel, Bayreuth (95445),309.900 3.068,4 Zimmer,101 m²,215 m² Grundstuck,https://www.immowelt.de/expose/b81d282b-1805-45f5-8858-4ee49984482b,3246,"Gruner Baum / Festspielhugel,  Bayreuth (95445)",8
+BreslaustraÃŸe 2B, Bayreuth (95448),225.000 3.571,2 Zimmer,63 m²,2. Geschoss,https://www.immowelt.de/expose/94a9c2ad-fbf5-48f7-aea5-904b2fe4bfcf,3246,"BreslaustraÃŸe 2B,  Bayreuth (95448)",0
+City, Bayreuth (95444),1.550.000 4.814,322 m²,Unknown,Unknown,https://www.immowelt.de/expose/5b700ee8-b068-48c6-af26-af5f7ff59028,3246,"City,  Bayreuth (95444)",509
+Thiergarten, Bayreuth (95448),529.000 1.824,11 Zimmer,290 m²,703 m² Grundstuck,https://www.immowelt.de/expose/3e4f0ba5-9038-472a-b4d4-2271454239dc,3246,"Thiergarten,  Bayreuth (95448)",0
+Meyernberg, Bayreuth (95447),199.000 2.551,3 Zimmer,78 m²,4. Geschoss,https://www.immowelt.de/expose/e35eb694-9b05-4ad2-abe9-80c5cf96fa86,3246,"Meyernberg,  Bayreuth (95447)",24
+Glocke / Saas, Bayreuth (95447),270.000 2.443,5 Zimmer,"110,5 m²",515 m² Grundstuck,https://www.immowelt.de/expose/fa9e9edc-4201-4d9c-969d-bcafe016860e,3246,"Glocke / Saas,  Bayreuth (95447)",47
+Sankt Johannis, Bayreuth (95448),465.000 3.577,5 Zimmer,130 m²,266 m² Grundstuck,https://www.immowelt.de/expose/84dcea0d-2ea5-4901-93ad-ba8a4c1428a2,3246,"Sankt Johannis,  Bayreuth (95448)",27
+KÃ¶nigsallee / Eichelberg, Bayreuth (95448),165.000 2.115,2 Zimmer,78 m²,Unknown,https://www.immowelt.de/expose/156cc13a-27f1-4701-b434-8954614cf913,3246,"KÃ¶nigsallee / Eichelberg,  Bayreuth (95448)",0
+KÃ¶nigsallee 28, Bayreuth / Aichig (95448),169.000 2.485,3 Zimmer,68 m²,1. Geschoss,https://www.immowelt.de/expose/1702c881-a663-4594-97b6-5e277a23aa08,3246,"KÃ¶nigsallee 28,  Bayreuth / Aichig (95448)",0
+Sankt Johannis, Bayreuth / Sankt Johannis (95448),340.000 3.238,4 Zimmer,105 m²,"185,7 m² Grundstuck",https://www.immowelt.de/expose/34701927-c922-4abd-8094-9010af15ff70,3246,"Sankt Johannis,  Bayreuth / Sankt Johannis (95448)",21
+Glocke / Saas, Bayreuth (95447),432.300 5.370,3 Zimmer,"80,5 m²",2. Geschoss,https://www.immowelt.de/expose/6cc9d74d-3079-4a38-bf6f-36ccc0c08994,3246,"Glocke / Saas,  Bayreuth (95447)",47
+Glocke / Saas, Bayreuth (95447),426.300 5.250,2 Zimmer,"81,2 m²",1. Geschoss,https://www.immowelt.de/expose/57e8cd4b-1d3d-4f20-9d4b-857c926a7ed7,3246,"Glocke / Saas,  Bayreuth (95447)",47
+Glocke / Saas, Bayreuth (95447),422.200 5.100,3 Zimmer,"82,8 m²",EG,https://www.immowelt.de/expose/f8d4ae84-6330-4abd-921e-f38ceac6bcab,3246,"Glocke / Saas,  Bayreuth (95447)",47
+Glocke / Saas, Bayreuth (95447),459.400 5.300,3 Zimmer,"86,7 m²",2. Geschoss,https://www.immowelt.de/expose/1c6f2cb1-7d4e-4d5c-a35e-5daa1d1bec5f,3246,"Glocke / Saas,  Bayreuth (95447)",47
+Glocke / Saas, Bayreuth (95447),412.200 5.100,2 Zimmer,"80,8 m²",2. Geschoss,https://www.immowelt.de/expose/200bd37f-171c-4018-a2d6-0060257e592b,3246,"Glocke / Saas,  Bayreuth (95447)",47
+Eichelweg, Bayreuth (95445),162.000 3.985,1 Zimmer,"40,7 m²",Unknown,https://www.immowelt.de/expose/44f9e0fc-3c2a-4bc3-b742-effd954dc6e2,3246,"Eichelweg,  Bayreuth (95445)",115
+Meyernberg, Bayreuth (95447),465.000 3.692,6 Zimmer,"125,9 m²",311 m² Grundstuck,https://www.immowelt.de/expose/0b0cad5c-ae56-4075-97e4-7e0bef0871ec,3246,"Meyernberg,  Bayreuth (95447)",24
+Sankt Johannis, Bayreuth (95448),349.900 3.096,5 Zimmer,113 m²,359 m² Grundstuck,https://www.immowelt.de/expose/7650c80d-ffd6-438e-8274-462c6f7789fd,3246,"Sankt Johannis,  Bayreuth (95448)",27
+AlexanderstraÃŸe 1, Bayreuth (95444),630.000 3.214,6 Zimmer,196 m²,Unknown,https://www.immowelt.de/expose/a4a429e4-2518-46bf-87d0-b309a22a45fd,3246,"AlexanderstraÃŸe 1,  Bayreuth (95444)",0
+KÃ¶nigsallee / Eichelberg, Bayreuth (95448),1.100.000 5.500,7 Zimmer,200 m²,27.000 m² Grundstuck,https://www.immowelt.de/expose/5b893803-1286-4e59-94ed-237adadc22b5,3246,"KÃ¶nigsallee / Eichelberg,  Bayreuth (95448)",0
+WendelhÃ¶fen / Gartenstadt, Bayreuth (95444),279.000 2.937,4 Zimmer,95 m²,Unknown,https://www.immowelt.de/expose/3c96bf6f-2a99-439a-91fe-1287068f79dd,3246,"WendelhÃ¶fen / Gartenstadt,  Bayreuth (95444)",0
+Meyernberg, Bayreuth (95447),725.000 2.266,12 Zimmer,320 m²,876 m² Grundstuck,https://www.immowelt.de/expose/7fb954e6-c862-4a0f-be35-4ce025a931e0,3246,"Meyernberg,  Bayreuth (95447)",24
+Sankt Johannis, Bayreuth (95448),768.705 5.250,"4,5 Zimmer","146,4 m²",2. Geschoss,https://www.immowelt.de/expose/94da23fe-4e34-4adf-9f5c-80f0602bb76f,3246,"Sankt Johannis,  Bayreuth (95448)",27
+Sankt Johannis, Bayreuth (95448),450.898 4.900,3 Zimmer,92 m²,1. Geschoss,https://www.immowelt.de/expose/6bbe0d1d-5277-4e78-bf47-059b9690a255,3246,"Sankt Johannis,  Bayreuth (95448)",27
+Sankt Johannis, Bayreuth (95448),247.744 4.900,2 Zimmer,"50,6 m²",1. Geschoss,https://www.immowelt.de/expose/a8f088c2-a639-498d-a8dd-8565e124289a,3246,"Sankt Johannis,  Bayreuth (95448)",27
+Seulbitz, Bayreuth (95448),1.179.760 4.872,6 Zimmer,"242,2 m²",943 m² Grundstuck,https://www.immowelt.de/expose/1374c188-edb5-4961-b743-72cbaadba323,3246,"Seulbitz,  Bayreuth (95448)",0
+Seulbitz, Bayreuth (95448),1.221.500 4.981,5 Zimmer,"245,3 m²",943 m² Grundstuck,https://www.immowelt.de/expose/fd91ddc2-9488-4d57-a167-94d4e7d7893f,3246,"Seulbitz,  Bayreuth (95448)",0
+Sankt Johannis, Bayreuth (95448),458.717 4.950,3 Zimmer,"92,7 m²",EG,https://www.immowelt.de/expose/60c7e25f-1ab0-44fa-a46a-1549ad6692e2,3246,"Sankt Johannis,  Bayreuth (95448)",27
+Sankt Johannis, Bayreuth (95448),251.856 4.950,2 Zimmer,"50,9 m²",EG,https://www.immowelt.de/expose/326a22c8-8f4a-475f-9b0e-b73678c87fa9,3246,"Sankt Johannis,  Bayreuth (95448)",27
+Sankt Johannis, Bayreuth (95448),433.224 4.950,3 Zimmer,"87,5 m²",EG,https://www.immowelt.de/expose/d2cbb823-74b5-4942-b76c-f0136c303685,3246,"Sankt Johannis,  Bayreuth (95448)",27
+Industriegebiet, Bayreuth (95448),180.000 4.500,1 Zimmer,40 m²,Unknown,https://www.immowelt.de/expose/ad5a9c04-8c07-443e-a1bc-14870326ab52,3246,"Industriegebiet,  Bayreuth (95448)",96
+Industriegebiet, Bayreuth (95448),180.000 4.500,1 Zimmer,40 m²,Unknown,https://www.immowelt.de/expose/aebbc59f-be8b-4acb-b561-722c398e4687,3246,"Industriegebiet,  Bayreuth (95448)",96
+City, Bayreuth (95444),420.000 4.078,4 Zimmer,103 m²,Unknown,https://www.immowelt.de/expose/eefbbaaf-2e48-4620-8a38-3f48f2e02175,3246,"City,  Bayreuth (95444)",509
+City, Bayreuth (95444),360.000 4.000,3 Zimmer,90 m²,Unknown,https://www.immowelt.de/expose/fc64ec84-2476-4812-a402-5cff1998c410,3246,"City,  Bayreuth (95444)",509
+WendelhÃ¶fen / Gartenstadt, Bayreuth (95444),340.000 4.250,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/3f1be276-f7bf-42e6-8a7c-758c3c28d917,3246,"WendelhÃ¶fen / Gartenstadt,  Bayreuth (95444)",0
+Roter Hugel, Bayreuth (95445),229.000 2.045,5 Zimmer,112 m²,319 m² Grundstuck,https://www.immowelt.de/expose/1d9d958d-52e8-4e97-b077-64a1d09bccb7,3246,"Roter Hugel,  Bayreuth (95445)",30
+Oberpreuschwitz, Bayreuth (95445),785.900 2.543,4 Zimmer,309 m²,620 m² Grundstuck,https://www.immowelt.de/expose/225ef72a-5ca5-4bbb-981f-588cab80727e,3246,"Oberpreuschwitz,  Bayreuth (95445)",0
+Aichig, Bayreuth (95448),1.131.900 4.744,9 Zimmer,"238,6 m²",1.099 m² Grundstuck,https://www.immowelt.de/expose/4622b1f6-d0b9-4726-acda-c1428c6d3a27,3246,"Aichig,  Bayreuth (95448)",34
+Hammerstatt / St. Georgen, Bayreuth (95448),697.000 5.942,4 Zimmer,"117,3 m²",200 m² Grundstuck,https://www.immowelt.de/expose/80a42d3e-970c-4fa4-b0d5-7e7444e84184,3246,"Hammerstatt / St. Georgen,  Bayreuth (95448)",156
+Ã„uÃŸere BadstraÃŸe 5, Bayreuth (95448),777.000 5.535,5 Zimmer,"140,4 m²",150 m² Grundstuck,https://www.immowelt.de/expose/2be8cb0f-87fe-4351-9446-29e1d82a5574,3246,"Ã„uÃŸere BadstraÃŸe 5,  Bayreuth (95448)",0
+Gruner Baum / Festspielhugel, Bayreuth (95445),199.000 2.689,2 Zimmer,74 m²,Unknown,https://www.immowelt.de/expose/ea7e68c1-367f-4f40-bae7-38d9ac62b65a,3246,"Gruner Baum / Festspielhugel,  Bayreuth (95445)",8
+KÃ¶nigsallee / Eichelberg, Bayreuth (95448),199.500 2.494,3 Zimmer,80 m²,3. Geschoss,https://www.immowelt.de/expose/511bbbbd-6533-44c9-84bf-211a8d9ce302,3246,"KÃ¶nigsallee / Eichelberg,  Bayreuth (95448)",0
+Roter Hugel, Bayreuth (95445),239.000 2.915,3 Zimmer,82 m²,2. Geschoss,https://www.immowelt.de/expose/dfdd4554-abe9-424f-88b3-49199886f737,3246,"Roter Hugel,  Bayreuth (95445)",30
+Altstadt, Bayreuth (95445),699.000 2.219,10 Zimmer,315 m²,680 m² Grundstuck,https://www.immowelt.de/expose/4e3687ed-87e2-493f-9e64-b7ad12645bc5,3246,"Altstadt,  Bayreuth (95445)",139
+Hammerstatt / St. Georgen, Bayreuth (95448),259.000 2.063,4 Zimmer,"125,6 m²",84 m² Grundstuck,https://www.immowelt.de/expose/b903674b-1e87-4b49-bc9a-1aae58ceefb8,3246,"Hammerstatt / St. Georgen,  Bayreuth (95448)",156
+Altstadt, Bayreuth (95447),199.000 3.532,2 Zimmer,"56,3 m²",3. Geschoss,https://www.immowelt.de/expose/a608e459-610b-465a-b765-fcb005e9407b,3246,"Altstadt,  Bayreuth (95447)",139
+Aichig, Bayreuth / Aichig (95448),1.087.000 3.660,"9,5 Zimmer",297 m²,771 m² Grundstuck,https://www.immowelt.de/expose/e7dd86fb-e0f3-43e6-9824-d2c255456040,3246,"Aichig,  Bayreuth / Aichig (95448)",31
+Aichig, Bayreuth / Aichig (95448),549.000 3.660,"4,5 Zimmer",150 m²,1. Geschoss,https://www.immowelt.de/expose/aab75935-5ef6-4d80-bd98-6c6632930a47,3246,"Aichig,  Bayreuth / Aichig (95448)",31
+City, Bayreuth (95444),240.000 4.118,2 Zimmer,"58,3 m²",Unknown,https://www.immowelt.de/expose/415af715-20e4-41e0-b04d-a3adeb50fe66,3246,"City,  Bayreuth (95444)",509
+City, Bayreuth (95444),99000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/b71aa347-3f91-415c-b39c-7845e1699e0a,3246,"City,  Bayreuth (95444)",509
+Birken / QuellhÃ¶fe, Bayreuth (95444),1.485.000 3.908,14 Zimmer,380 m²,1.223 m² Grundstuck,https://www.immowelt.de/expose/c62710f2-bc29-4bae-a721-0b3a6691c50e,3246,"Birken / QuellhÃ¶fe,  Bayreuth (95444)",0
+Sankt Johannis, Bayreuth (95444),255.000 2.318,3 Zimmer,110 m²,312 m² Grundstuck,https://www.immowelt.de/expose/362fa3c2-8f06-423b-8973-aea9dc4e9f73,3246,"Sankt Johannis,  Bayreuth (95444)",27
+Gruner Baum / Festspielhugel, Bayreuth (95448),Preis auf Anfrage,4 Zimmer,80 m²,1. Geschoss,https://www.immowelt.de/expose/1c8905c7-3b4c-4b4f-8851-00f139a9aaeb,3246,"Gruner Baum / Festspielhugel,  Bayreuth (95448)",8
+Hammerstatt / St. Georgen, Bayreuth (95448),Preis auf Anfrage,12 Zimmer,1.100 m²,1.489 m² Grundstuck,https://www.immowelt.de/expose/b79fd1ac-4d1b-4141-bb63-7e237c1849a6,3246,"Hammerstatt / St. Georgen,  Bayreuth (95448)",156
+Ludwig-Thoma-StraÃŸe 68, Bayreuth (95447),180.000 2.501,3 Zimmer,72 m²,3. Geschoss,https://www.immowelt.de/expose/fa4abf29-1fed-4753-9777-f77640fa9b43,3246,"Ludwig-Thoma-StraÃŸe 68,  Bayreuth (95447)",0
+KÃ¶nigsallee / Eichelberg, Bayreuth (95448),954.900 3.789,5 Zimmer,252 m²,1.089 m² Grundstuck,https://www.immowelt.de/expose/02510e59-e94a-4547-9b1e-780a8bc4ed21,3246,"KÃ¶nigsallee / Eichelberg,  Bayreuth (95448)",0
+Richard-Wagner-StraÃŸe 9, Bayreuth (95444),1.850.000 2.441,23 Zimmer,758 m²,4. Geschoss,https://www.immowelt.de/expose/3d42859f-a0e7-42fd-81e5-63f061bb2755,3246,"Richard-Wagner-StraÃŸe 9,  Bayreuth (95444)",0
+Meyernberg, Bayreuth (95447),165.000 2.408,2 Zimmer,"68,5 m²",Unknown,https://www.immowelt.de/expose/f83b8baf-cda2-4b8d-bb30-1af3b800da87,3246,"Meyernberg,  Bayreuth (95447)",24
+KÃ¶nigsallee / Eichelberg, Bayreuth (95444),299.750 2.750,5 Zimmer,109 m²,3. Geschoss,https://www.immowelt.de/expose/9ba876aa-d559-470e-8715-7d535c7b17ca,3246,"KÃ¶nigsallee / Eichelberg,  Bayreuth (95444)",0
+Thiergarten, Bayreuth (95448),839.000 5.244,6 Zimmer,160 m²,1.025 m² Grundstuck,https://www.immowelt.de/expose/2f8e0f50-6ae8-4e4d-a143-3f11151f4d64,3246,"Thiergarten,  Bayreuth (95448)",0
+WendelhÃ¶fen / Gartenstadt, Bayreuth (95444),159.900 2.957,2 Zimmer,"54,1 m²",1. Geschoss,https://www.immowelt.de/expose/27a36ac5-b6fd-402a-ba9d-cb83b3d1175e,3246,"WendelhÃ¶fen / Gartenstadt,  Bayreuth (95444)",0
+FrankenwaldstraÃŸe 4, Bayreuth (95448),227.500 3.832,2 Zimmer,"59,4 m²",Unknown,https://www.immowelt.de/expose/0f6abbf1-981d-4f4a-9f58-6c2ab32ae6be,3246,"FrankenwaldstraÃŸe 4,  Bayreuth (95448)",0
+Meyernberg, Bayreuth (95447),202.000 2.904,2 Zimmer,"69,6 m²",Unknown,https://www.immowelt.de/expose/cdd136b1-ef5d-4b7e-91cc-dd707214182c,3246,"Meyernberg,  Bayreuth (95447)",24
+Birken / QuellhÃ¶fe, Bayreuth (95447),349.000 4.106,2 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/66a58189-488d-41ce-9a7d-886266b7d119,3246,"Birken / QuellhÃ¶fe,  Bayreuth (95447)",0
+City, Bayreuth (95444),436.000 2.436,8 Zimmer,179 m²,70 m² Grundstuck,https://www.immowelt.de/expose/0ea2b095-25a6-488f-b2a0-413b9c2b9b84,3246,"City,  Bayreuth (95444)",509
+Altstadt, Bayreuth (95447),1.295.000 3.809,15 Zimmer,340 m²,530 m² Grundstuck,https://www.immowelt.de/expose/431ac429-7228-4d3d-9cbc-ac456c10c1d5,3246,"Altstadt,  Bayreuth (95447)",139
+Glocke / Saas, Bayreuth (95447),459.200 3.892,4 Zimmer,118 m²,460 m² Grundstuck,https://www.immowelt.de/expose/94069a9b-6c9b-472d-9560-f8a5b7b83a04,3246,"Glocke / Saas,  Bayreuth (95447)",47
+Gruner Baum / Festspielhugel, Bayreuth (95445),189.000 3.000,2 Zimmer,63 m²,Unknown,https://www.immowelt.de/expose/dec2f241-cf00-4a47-b484-4914a2866ea9,3246,"Gruner Baum / Festspielhugel,  Bayreuth (95445)",8
+GutrunestraÃŸe 9b, Bayreuth (95445),695.000 4.070,4 Zimmer,"170,8 m²",2. Geschoss,https://www.immowelt.de/expose/079f93ff-88a8-4fa1-8d84-4fe8ba177908,3246,"GutrunestraÃŸe 9b,  Bayreuth (95445)",0
+Forstmuhle, Gesees (95494),499.000 3.048,5 Zimmer,"163,7 m²",4.042 m² Grundstuck,https://www.immowelt.de/expose/5be7947d-60fb-44b2-9587-5d8b055dd319,3246,"Forstmuhle,  Gesees (95494)",0
+Donndorf, Eckersdorf (95488),239.000 2.173,5 Zimmer,110 m²,1. Geschoss,https://www.immowelt.de/expose/755a0ffc-f92f-4de6-8d38-a56341e82a33,3246,"Donndorf,  Eckersdorf (95488)",38
+Donndorf, Eckersdorf (95488),590.000 3.849,4 Zimmer,"153,3 m²","309,5 m² Grundstuck",https://www.immowelt.de/expose/eda5c829-0b80-4fa5-bb8b-69a3e2fbfe88,3246,"Donndorf,  Eckersdorf (95488)",38
+Bindlach, Bindlach (95463),149.000 1.817,82 m²,EG,Unknown,https://www.immowelt.de/expose/68ea565f-3878-44c9-a76e-7f25ce361e72,3246,"Bindlach,  Bindlach (95463)",79
+Bindlach, Bindlach (95463),285.000 1.516,7 Zimmer,188 m²,600 m² Grundstuck,https://www.immowelt.de/expose/419bbfe3-aeab-473d-9431-cecd99fce32e,3246,"Bindlach,  Bindlach (95463)",79
+Donndorf, Eckersdorf (95488),412.500 4.044,3 Zimmer,102 m²,Unknown,https://www.immowelt.de/expose/61e8bc8a-4b89-43a9-a165-f77ae478c239,3246,"Donndorf,  Eckersdorf (95488)",38
+Bindlach, Bindlach (95463),299.900 4.107,1 Zimmer,73 m²,442 m² Grundstuck,https://www.immowelt.de/expose/1653da24-1e83-4833-b0c5-47663365b32f,3246,"Bindlach,  Bindlach (95463)",79
+Bindlach, Bindlach (95463),499.000 3.564,6 Zimmer,140 m²,303 m² Grundstuck,https://www.immowelt.de/expose/4f1a0f47-49ca-4d8c-b2a0-232c8ac432ad,3246,"Bindlach,  Bindlach (95463)",79
+Bindlach, Bindlach (95463),452.000 2.717,5 Zimmer,"166,4 m²",486 m² Grundstuck,https://www.immowelt.de/expose/c36af3de-e95d-4cea-96b3-6f29027adb90,3246,"Bindlach,  Bindlach (95463)",79
+Bindlach, Bindlach (95463),369.900 2.740,5 Zimmer,135 m²,442 m² Grundstuck,https://www.immowelt.de/expose/ad1a1ebc-0b96-4d08-8b13-3f404a54653b,3246,"Bindlach,  Bindlach (95463)",79
+Donndorf, Eckersdorf (95488),595.000 3.881,4 Zimmer,"153,3 m²","319,9 m² Grundstuck",https://www.immowelt.de/expose/6447dec9-e688-4848-8666-0ecde4860659,3246,"Donndorf,  Eckersdorf (95488)",38
+Donndorf, Eckersdorf (95488),395.000 2.692,6 Zimmer,143 m²,450 m² Grundstuck,https://www.immowelt.de/expose/43b557a5-3739-45be-9f74-dbc88e0c1e05,3246,"Donndorf,  Eckersdorf (95488)",38
+Unternschreez, Haag / Unternschreez (95473),380.000 1.538,9 Zimmer,247 m²,674 m² Grundstuck,https://www.immowelt.de/expose/e7756751-01c5-4d74-89d5-ceee269d85e0,3246,"Unternschreez,  Haag / Unternschreez (95473)",0
+Bindlach, Bindlach (95463),399.000 3.093,5 Zimmer,129 m²,Unknown,https://www.immowelt.de/expose/c83b7e0c-4933-45d7-817b-4799ee897cfa,3246,"Bindlach,  Bindlach (95463)",79
+Donndorf, Eckersdorf (95488),385.000 5.133,3 Zimmer,75 m²,300 m² Grundstuck,https://www.immowelt.de/expose/9d4333d0-90f4-4c46-a57f-d19bb66b955c,3246,"Donndorf,  Eckersdorf (95488)",38
+Allersdorf, Bindlach (95463),159.000 2.607,2 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/77134ff3-447a-4143-9c2a-4d5e60982a43,3246,"Allersdorf,  Bindlach (95463)",0
+Donndorf, Eckersdorf (95488),429.000 3.000,6 Zimmer,143 m²,1.107 m² Grundstuck,https://www.immowelt.de/expose/f1a0b0b4-c99f-49f8-ade4-9c0379b62436,3246,"Donndorf,  Eckersdorf (95488)",38
+Gesees, Gesees (95494),259.000 1.824,6 Zimmer,142 m²,735 m² Grundstuck,https://www.immowelt.de/expose/9abb26fb-9319-40f4-a2a8-2ad02383d0e8,3246,"Gesees,  Gesees (95494)",0
+Mistelbach, Mistelbach (95511),124.900 3.012,1 Zimmer,"41,5 m²",Unknown,https://www.immowelt.de/expose/99c04b3c-6258-494d-ae29-5e3b6af4495a,3246,"Mistelbach,  Mistelbach (95511)",42
+Laineck, Bayreuth (95448),149.000 1.863,3 Zimmer,80 m²,4.951 m² Grundstuck,https://www.immowelt.de/expose/7f93975a-3022-49bc-92be-bc1a6889e7e6,3246,"Laineck,  Bayreuth (95448)",57
+Grunthal-Viermorgen, Stralsund (18437),99.000 1.303,3 Zimmer,76 m²,1. Geschoss,https://www.immowelt.de/expose/66113a81-6d23-41ed-a4e0-535e2f64fdfd,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+Andershof, Stralsund (18439),288.683 3.502,3 Zimmer,"82,4 m²",EG,https://www.immowelt.de/expose/9a970116-d127-4a81-a8eb-fce5ed0ac6ea,3279,"Andershof,  Stralsund (18439)",40
+Altstadt, Stralsund (18439),451.999 2.940,4 Zimmer,"153,8 m²",550 m² Grundstuck,https://www.immowelt.de/expose/fdf635e7-92a4-4f15-bc97-1f82e5898de2,3279,"Altstadt,  Stralsund (18439)",475
+Grunthal-Viermorgen, Stralsund (18437),125.000 1.894,3 Zimmer,66 m²,3. Geschoss,https://www.immowelt.de/expose/c71bd4c7-49c3-47f0-b860-e32a676ed945,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+Knieper West, Stralsund (18435),495.000 3.750,4 Zimmer,132 m²,290 m² Grundstuck,https://www.immowelt.de/expose/49481823-2b72-4641-8793-b9d11a6b8521,3279,"Knieper West,  Stralsund (18435)",176
+Altstadt, Stralsund (18439),796.000 2.645,17 Zimmer,301 m²,278 m² Grundstuck,https://www.immowelt.de/expose/a6a67ffb-befd-4939-beaa-83db31030fe6,3279,"Altstadt,  Stralsund (18439)",475
+Kniepervorstadt, Stralsund (18435),120.000 2.553,2 Zimmer,47 m²,EG,https://www.immowelt.de/expose/2b588940-a94a-48ea-9175-ffa1c97ef43d,3279,"Kniepervorstadt,  Stralsund (18435)",126
+Dr. Wilhelm Kulz Str. 6, Stralsund (18435),765.000 4.500,"4,5 Zimmer",170 m²,430 m² Grundstuck,https://www.immowelt.de/expose/a6d83e08-0394-4f6f-a188-59626159eadc,3279,"Dr. Wilhelm Kulz Str. 6,  Stralsund (18435)",260
+Altstadt, Stralsund (18439),1.300.000 2.241,30 Zimmer,580 m²,350 m² Grundstuck,https://www.immowelt.de/expose/a9b5ac92-3b0e-4970-a100-82301d66115b,3279,"Altstadt,  Stralsund (18439)",475
+Altstadt, Stralsund (18439),325.000 4.552,3 Zimmer,"71,4 m²",2. Geschoss,https://www.immowelt.de/expose/aedfd9d2-d330-4750-946d-7d83c91c1cc4,3279,"Altstadt,  Stralsund (18439)",475
+Grunthal-Viermorgen, Stralsund (18437),115.000 2.212,2 Zimmer,52 m²,3. Geschoss,https://www.immowelt.de/expose/e58dedb0-6dbb-4526-bef1-7bec3976893a,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+LangenstraÃŸe 70, Stralsund (18439),110.000 2.391,2 Zimmer,46 m²,2. Geschoss,https://www.immowelt.de/expose/417faaab-c5ec-4df7-ad8c-501f5ad2dc68,3279,"LangenstraÃŸe 70,  Stralsund (18439)",0
+Kniepervorstadt, Stralsund (18435),299.000 3.691,3 Zimmer,81 m²,2. Geschoss,https://www.immowelt.de/expose/98116388-22a5-43cc-8627-e228d5888f95,3279,"Kniepervorstadt,  Stralsund (18435)",126
+Frankenvorstadt, Stralsund (18439),165.000 2.121,3 Zimmer,"77,8 m²",Unknown,https://www.immowelt.de/expose/c2cdb4eb-4957-4739-abac-a9917a882b88,3279,"Frankenvorstadt,  Stralsund (18439)",270
+Triebseer Siedlung, Stralsund (18437),275.000 2.696,3 Zimmer,102 m²,536 m² Grundstuck,https://www.immowelt.de/expose/90c97c68-9c8b-475c-8bcd-6c451f924a49,3279,"Triebseer Siedlung,  Stralsund (18437)",0
+Triebseer Siedlung, Stralsund (18437),7.545.000 1.755,140 Zimmer,4.300 m²,5.500 m² Grundstuck,https://www.immowelt.de/expose/be60af91-74f6-48cc-b376-c1c2005dbf93,3279,"Triebseer Siedlung,  Stralsund (18437)",0
+Knieper Nord, Stralsund (18435),738.053 3.515,4 Zimmer,210 m²,900 m² Grundstuck,https://www.immowelt.de/expose/49e388b6-1554-4d50-95ff-eff99bc95900,3279,"Knieper Nord,  Stralsund (18435)",149
+Langendorfer Berg, Stralsund (18437),379.000 2.141,8 Zimmer,177 m²,650 m² Grundstuck,https://www.immowelt.de/expose/00686351-66cd-46e7-ab35-9e507266e011,3279,"Langendorfer Berg,  Stralsund (18437)",22
+Knieper Nord, Stralsund (18435),450.000 3.333,4 Zimmer,135 m²,629 m² Grundstuck,https://www.immowelt.de/expose/968b4c1e-9fae-4215-8f9d-0c3ee3e2c634,3279,"Knieper Nord,  Stralsund (18435)",149
+Triebseer Vorstadt, Stralsund (18437),145.000 2.900,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/ecfb4b0e-75d3-4c16-91d4-6f339d99dc09,3279,"Triebseer Vorstadt,  Stralsund (18437)",0
+Grunthal-Viermorgen, Stralsund (18437),416.280 3.084,6 Zimmer,135 m²,544 m² Grundstuck,https://www.immowelt.de/expose/bd76cfd0-312a-4b2d-b18f-0988a11b221d,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+Altstadt, Stralsund (18439),1.300.000 3.118,417 m²,400 m² Grundstuck,Unknown,https://www.immowelt.de/expose/40b7143c-d022-4ff1-9a9f-1a51e1de1ddb,3279,"Altstadt,  Stralsund (18439)",475
+Knieper West, Stralsund (18435),579.000 3.886,5 Zimmer,149 m²,290 m² Grundstuck,https://www.immowelt.de/expose/fbd3cbf6-c65c-454a-b6f0-f1fb31bb8b53,3279,"Knieper West,  Stralsund (18435)",176
+Triebseer Siedlung, Stralsund (18437),498.000 1.245,14 Zimmer,400 m²,1.280 m² Grundstuck,https://www.immowelt.de/expose/5ba843ce-6753-4b40-9ce5-344bce77cb3a,3279,"Triebseer Siedlung,  Stralsund (18437)",0
+Lubecker-Allee 65, Stralsund (18437),174.999 2.050,3 Zimmer,"85,4 m²",Unknown,https://www.immowelt.de/expose/a4bee88e-5b61-4813-8c83-43e4b3e40382,3279,"Lubecker-Allee 65,  Stralsund (18437)",122
+Lubecker-Allee 61, Stralsund (18437),65.000 1.555,1 Zimmer,"41,8 m²",Unknown,https://www.immowelt.de/expose/1a4426dd-9110-4c6e-a7fb-b3e3486c68b2,3279,"Lubecker-Allee 61,  Stralsund (18437)",112
+Lubecker-Allee 57, Stralsund (18437),115.000 2.243,2 Zimmer,"51,3 m²",Unknown,https://www.immowelt.de/expose/caa3f40f-ea0b-4048-b6c9-5b5dc86c3e05,3279,"Lubecker-Allee 57,  Stralsund (18437)",111
+Grunthal-Viermorgen, Stralsund (18437),308.402 3.194,4 Zimmer,"96,6 m²",650 m² Grundstuck,https://www.immowelt.de/expose/f0410c05-6c9e-4fed-9236-adad7a68fd82,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+Andershof, Stralsund (18439),487.731 3.209,5 Zimmer,152 m²,600 m² Grundstuck,https://www.immowelt.de/expose/e3b4046c-c87e-42e5-b84d-e507cfaa0efb,3279,"Andershof,  Stralsund (18439)",40
+Andershof, Stralsund (18439),342.951 2.858,4 Zimmer,120 m²,600 m² Grundstuck,https://www.immowelt.de/expose/08effd85-7ab8-4ae4-ae09-730e3584a845,3279,"Andershof,  Stralsund (18439)",40
+Andershof, Stralsund (18439),410.117 2.563,5 Zimmer,160 m²,600 m² Grundstuck,https://www.immowelt.de/expose/c1590138-1ff4-4ddd-ab4b-cef088eaf99f,3279,"Andershof,  Stralsund (18439)",40
+Altstadt, Stralsund (18439),130.000 3.094,"1,5 Zimmer",42 m²,Unknown,https://www.immowelt.de/expose/8c65a98c-595a-44d7-8232-c5c08c971614,3279,"Altstadt,  Stralsund (18439)",475
+Altstadt, Stralsund (18439),240.000 2.629,3 Zimmer,"91,3 m²",Unknown,https://www.immowelt.de/expose/daacad32-3f86-499e-aaad-2e7f0a49bd0c,3279,"Altstadt,  Stralsund (18439)",475
+Andershof, Stralsund (18439),320.000 3.210,4 Zimmer,"99,7 m²",1. Geschoss,https://www.immowelt.de/expose/74b27e22-509a-48b4-af16-0fce4d0d68ea,3279,"Andershof,  Stralsund (18439)",40
+Grunthal-Viermorgen, Stralsund (18435),139.000 2.199,2 Zimmer,"63,2 m²",EG,https://www.immowelt.de/expose/d380e84b-5bf7-4ad0-87ad-8933f51630d6,3279,"Grunthal-Viermorgen,  Stralsund (18435)",126
+Friedrich-Wolf-StraÃŸe 78, Stralsund (18435),130.000 2.131,3 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/279cc987-a153-406c-b83b-1d3b03fb1c64,3279,"Friedrich-Wolf-StraÃŸe 78,  Stralsund (18435)",0
+Frankenvorstadt, Stralsund (18439),444.000 3.849,3 Zimmer,"115,4 m²",1. Geschoss,https://www.immowelt.de/expose/7211634e-2141-4694-a54e-0afbc86e99e8,3279,"Frankenvorstadt,  Stralsund (18439)",270
+Knieper Nord, Stralsund (18435),665.437 4.436,5 Zimmer,150 m²,900 m² Grundstuck,https://www.immowelt.de/expose/18af4f56-31ef-4b39-b027-6e288d17cf81,3279,"Knieper Nord,  Stralsund (18435)",149
+Altstadt, Stralsund (18439),1.490.000 1.632,20 Zimmer,913 m²,647 m² Grundstuck,https://www.immowelt.de/expose/248ad383-4561-415f-8091-41d7ae108b13,3279,"Altstadt,  Stralsund (18439)",475
+Altstadt, Stralsund (18439),1.490.000 1.632,20 Zimmer,913 m²,647 m² Grundstuck,https://www.immowelt.de/expose/28e0bb76-e4a0-4f3f-93bf-5a8c2c980ebd,3279,"Altstadt,  Stralsund (18439)",475
+Grunthal-Viermorgen, Stralsund (18437),328.600 2.629,5 Zimmer,125 m²,650 m² Grundstuck,https://www.immowelt.de/expose/4ae6fef6-56e4-4c32-81fa-cb92289a5cef,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+Grunthal-Viermorgen, Stralsund (18437),165.000 2.143,3 Zimmer,77 m²,Unknown,https://www.immowelt.de/expose/1ebb0bcd-db54-41bb-8990-ff6d8788d054,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+Knieper West, Stralsund (18435),340.487 2.753,5 Zimmer,"123,7 m²",550 m² Grundstuck,https://www.immowelt.de/expose/969523ae-4799-4776-b9aa-3770f8b23248,3279,"Knieper West,  Stralsund (18435)",176
+Andershof, Stralsund (18439),345.388 2.808,4 Zimmer,123 m²,600 m² Grundstuck,https://www.immowelt.de/expose/b7eb354e-1e08-492c-b62b-7947d1e175e8,3279,"Andershof,  Stralsund (18439)",40
+Lubecker-Allee 61, Stralsund (18437),150.000 2.096,3 Zimmer,71 m²,Unknown,https://www.immowelt.de/expose/358be6de-5a5a-4c21-9abc-b3954382df29,3279,"Lubecker-Allee 61,  Stralsund (18437)",112
+Triebseer Siedlung, Stralsund (18437),399.000 3.500,4 Zimmer,"114,1 m²","850,1 m² Grundstuck",https://www.immowelt.de/expose/02d68795-c59a-48dd-ac8e-1ea0b46f7d1d,3279,"Triebseer Siedlung,  Stralsund (18437)",0
+Lindenallee, Stralsund (18437),358.755 2.925,4 Zimmer,"122,7 m²",666 m² Grundstuck,https://www.immowelt.de/expose/4c634874-d593-4afb-a02b-4478aa5d78f5,3279,"Lindenallee,  Stralsund (18437)",130
+Triebseer Siedlung, Stralsund (18437),249.000 2.264,4 Zimmer,"110,1 m²","137,1 m² Grundstuck",https://www.immowelt.de/expose/85bb91cd-9012-456f-abfa-1b750d6f7598,3279,"Triebseer Siedlung,  Stralsund (18437)",0
+Richtenberger Chaussee, Stralsund (18437),589.000 2.653,8 Zimmer,222 m²,272 m² Grundstuck,https://www.immowelt.de/expose/0fcda61a-a903-4a73-aed3-3651b112141b,3279,"Richtenberger Chaussee,  Stralsund (18437)",70
+Kniepervorstadt, Stralsund (18435),290.000 3.152,4 Zimmer,"92,2 m²","211,2 m² Grundstuck",https://www.immowelt.de/expose/0b817e8d-cec0-4e6f-9525-58a5dca5a3d7,3279,"Kniepervorstadt,  Stralsund (18435)",126
+Knieper Nord, Stralsund (18435),120.000 2.022,3 Zimmer,"59,6 m²",2. Geschoss,https://www.immowelt.de/expose/c8aaed4d-9e6b-47ea-b288-7bde7143788e,3279,"Knieper Nord,  Stralsund (18435)",149
+Andershof, Stralsund (18435),936.000 4.061,"230,5 m²",1.162 m² Grundstuck,Unknown,https://www.immowelt.de/expose/4970f8e1-0c78-49a8-a512-5779c266d249,3279,"Andershof,  Stralsund (18435)",40
+Vogelsang, Stralsund (18437),Preis auf Anfrage,1.506 m² Grundstuck,Unknown,Unknown,https://www.immowelt.de/expose/3f4e46ce-3f17-469d-91e8-125cba78929a,3279,"Vogelsang,  Stralsund (18437)",117
+Andershof, Stralsund (18439),357.185 3.328,4 Zimmer,"107,3 m²",1. Geschoss,https://www.immowelt.de/expose/7b9a6f17-d992-4d8f-8dda-da5d628d9c0f,3279,"Andershof,  Stralsund (18439)",40
+Andershof, Stralsund (18439),343.655 3.355,4 Zimmer,"102,4 m²",1. Geschoss,https://www.immowelt.de/expose/5b2f474b-3153-47ac-b430-dfabfa2d90c9,3279,"Andershof,  Stralsund (18439)",40
+Franken Mitte, Stralsund (18439),259.000 2.214,4 Zimmer,117 m²,248 m² Grundstuck,https://www.immowelt.de/expose/118dabea-79e3-4e71-9f86-a9abf7226598,3279,"Franken Mitte,  Stralsund (18439)",88
+Franken Mitte, Stralsund (18439),259.000 2.214,4 Zimmer,117 m²,247 m² Grundstuck,https://www.immowelt.de/expose/102bfd08-2eaf-41e6-8fa1-e79ff7d774c5,3279,"Franken Mitte,  Stralsund (18439)",88
+Franken Mitte, Stralsund (18439),518.000 2.726,8 Zimmer,190 m²,488 m² Grundstuck,https://www.immowelt.de/expose/4fa6b004-c494-4739-bac6-6fef9641fde8,3279,"Franken Mitte,  Stralsund (18439)",88
+Andershof, Stralsund (18435),360.000 3.130,5 Zimmer,115 m²,377 m² Grundstuck,https://www.immowelt.de/expose/a26fd5fd-4bd8-4902-a341-7bb72d999d01,3279,"Andershof,  Stralsund (18435)",40
+Triebseer Vorstadt, Stralsund (18437),1.998.000 1.582,62 Zimmer,1.263 m²,1.032 m² Grundstuck,https://www.immowelt.de/expose/6d889bc8-7d71-4128-9b45-bbd87452bb48,3279,"Triebseer Vorstadt,  Stralsund (18437)",0
+Devin, Stralsund (18439),149.000 1.490,5 Zimmer,"100,1 m²","1.194,1 m² Grundstuck",https://www.immowelt.de/expose/7da4b7a8-78c3-43e9-9fad-ce5ab2a7f305,3279,"Devin,  Stralsund (18439)",31
+Frankenvorstadt, Stralsund (18439),195.000 2.566,3 Zimmer,"76,3 m²",2. Geschoss,https://www.immowelt.de/expose/5f93a95f-ae83-4e8b-9016-7b3de107c5d9,3279,"Frankenvorstadt,  Stralsund (18439)",270
+Franken Mitte, Stralsund (18439),455.000 2.642,5 Zimmer,"172,3 m²",680 m² Grundstuck,https://www.immowelt.de/expose/d5ea2f2a-7182-401c-bdda-6c9ebff75dcf,3279,"Franken Mitte,  Stralsund (18439)",88
+Frankensiedlung, Stralsund (18439),365.000 2.730,4 Zimmer,"133,7 m²",540 m² Grundstuck,https://www.immowelt.de/expose/05ba6322-6063-4ace-9c55-0a027d8a5c1d,3279,"Frankensiedlung,  Stralsund (18439)",35
+Franken Mitte, Stralsund (18439),605.000 3.142,7 Zimmer,"192,5 m²",1.350 m² Grundstuck,https://www.immowelt.de/expose/a7b7ad5f-474b-4ad8-ab73-6bb8023ef20c,3279,"Franken Mitte,  Stralsund (18439)",88
+Andershof, Stralsund (18439),Preis auf Anfrage,4 Zimmer,113 m²,1. Geschoss,https://www.immowelt.de/expose/9a645c61-350a-43f6-bb9f-5f0d4d13f594,3279,"Andershof,  Stralsund (18439)",40
+Triebseer Siedlung, Stralsund (18437),405.000 2.813,6 Zimmer,144 m²,853 m² Grundstuck,https://www.immowelt.de/expose/00f4ff35-843a-49b6-a2b4-a9e87730e811,3279,"Triebseer Siedlung,  Stralsund (18437)",0
+Andershof, Stralsund (18439),679.000 3.593,4 Zimmer,"189,2 m²","448,2 m² Grundstuck",https://www.immowelt.de/expose/c4f836c0-5ccc-406e-91ec-8ed0351f50cc,3279,"Andershof,  Stralsund (18439)",40
+Kniepervorstadt, Stralsund (18435),289.900 4.141,2 Zimmer,"70,2 m²",2. Geschoss,https://www.immowelt.de/expose/70588f5f-483c-466d-9838-778033dfb4c5,3279,"Kniepervorstadt,  Stralsund (18435)",126
+Andershof, Stralsund (18439),259.000 4.111,2 Zimmer,63 m²,1. Geschoss,https://www.immowelt.de/expose/054751df-e23f-4d7f-98c4-37bf0cd42e55,3279,"Andershof,  Stralsund (18439)",40
+Knieper Nord, Stralsund (18435),599.000 4.047,4 Zimmer,148 m²,165 m² Grundstuck,https://www.immowelt.de/expose/d6ca2789-3810-44d1-b436-cdefd5cdb174,3279,"Knieper Nord,  Stralsund (18435)",149
+Grunthal-Viermorgen, Stralsund (18437),125.000 1.894,3 Zimmer,"66,1 m²",1. Geschoss,https://www.immowelt.de/expose/6aa8fa21-a87b-42ca-b9a8-1cd665d31848,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+Grunthal-Viermorgen, Stralsund (18437),125.000 1.786,3 Zimmer,"70,3 m²",1. Geschoss,https://www.immowelt.de/expose/342eb5e8-ee81-4c57-a2c4-273e4615988b,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+Am Strelasund 1, Stralsund (18439),449.000 3.929,3 Zimmer,"114,3 m²",Unknown,https://www.immowelt.de/expose/e84eee69-34ea-45dd-b96f-3a7a907a1f82,3279,"Am Strelasund 1,  Stralsund (18439)",46
+Frankensiedlung, Stralsund (18439),449.000 1.855,9 Zimmer,"242,2 m²","917,2 m² Grundstuck",https://www.immowelt.de/expose/d5b509b7-5000-4b83-9aa2-68dc1c98baf3,3279,"Frankensiedlung,  Stralsund (18439)",35
+Altstadt, Stralsund (18439),235.000 1.934,5 Zimmer,"121,5 m²",350 m² Grundstuck,https://www.immowelt.de/expose/ee3b458e-c93a-457e-8585-2c2590b4473f,3279,"Altstadt,  Stralsund (18439)",475
+* *, Stralsund (18435),459.900 2.986,5 Zimmer,154 m²,350 m² Grundstuck,https://www.immowelt.de/expose/fbc883ca-fbb8-4c2a-ae79-0d1dee2bee62,3279,"* *,  Stralsund (18435)",398
+Kniepervorstadt, Stralsund / Knieper Nord (18435),249.000 3.320,2 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/21bb8a64-d2eb-41b3-bb08-e6e5d530c060,3279,"Kniepervorstadt,  Stralsund / Knieper Nord (18435)",0
+Knieper Nord, Stralsund (18435),130.000 2.206,3 Zimmer,"58,9 m²",2. Geschoss,https://www.immowelt.de/expose/7726b2af-0037-450a-b472-68c7cdce3260,3279,"Knieper Nord,  Stralsund (18435)",149
+Knieper Nord, Stralsund (18435),350.000 4.795,2 Zimmer,73 m²,350 m² Grundstuck,https://www.immowelt.de/expose/5767d67e-af52-45e6-a2bb-6c6223d03387,3279,"Knieper Nord,  Stralsund (18435)",149
+Triebseer Vorstadt, Stralsund (18437),950.000 1.397,24 Zimmer,680 m²,400 m² Grundstuck,https://www.immowelt.de/expose/79d04d2b-d436-4615-b2a6-37438ad4ac50,3279,"Triebseer Vorstadt,  Stralsund (18437)",0
+Knieper Nord, Stralsund (18435),440.000 3.548,4 Zimmer,124 m²,350 m² Grundstuck,https://www.immowelt.de/expose/284f3b58-17ef-42bc-b66b-0ab3fe9c2e5b,3279,"Knieper Nord,  Stralsund (18435)",149
+Grunthal-Viermorgen, Stralsund (18437),430.000 2.966,5 Zimmer,145 m²,838 m² Grundstuck,https://www.immowelt.de/expose/2271a7fd-ba41-4ef7-9c66-54f3969db64c,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+Knieper Nord, Stralsund (18435),1.240.000 7.251,5 Zimmer,171 m²,1.011 m² Grundstuck,https://www.immowelt.de/expose/740605fb-59a7-4df9-a989-1c459c5e02ee,3279,"Knieper Nord,  Stralsund (18435)",149
+Kniepervorstadt, Stralsund (18435),349.000 3.116,4 Zimmer,112 m²,700 m² Grundstuck,https://www.immowelt.de/expose/af07b6f6-a2ff-4b1e-9ee9-e615435345f4,3279,"Kniepervorstadt,  Stralsund (18435)",126
+Stadtkoppel, Stralsund (18437),375.000 2.168,6 Zimmer,173 m²,330 m² Grundstuck,https://www.immowelt.de/expose/3b9e31ad-de30-4f75-902f-6e0474969938,3279,"Stadtkoppel,  Stralsund (18437)",111
+GroÃŸ Kedingshagen, Stralsund (18435),633.543 5.068,4 Zimmer,125 m²,900 m² Grundstuck,https://www.immowelt.de/expose/e1820e96-8156-42e3-82d9-04d9fb3823e5,3279,"GroÃŸ Kedingshagen,  Stralsund (18435)",0
+GroÃŸ Kedingshagen, Stralsund (18435),609.994 4.485,4 Zimmer,136 m²,900 m² Grundstuck,https://www.immowelt.de/expose/4011eb9c-c347-4708-b1c5-89599f535594,3279,"GroÃŸ Kedingshagen,  Stralsund (18435)",0
+GroÃŸ Kedingshagen, Stralsund (18435),656.732 3.933,6 Zimmer,167 m²,900 m² Grundstuck,https://www.immowelt.de/expose/9df0c915-c759-4503-a6da-114f5707808c,3279,"GroÃŸ Kedingshagen,  Stralsund (18435)",0
+GroÃŸ Kedingshagen, Stralsund (18435),668.406 4.002,6 Zimmer,167 m²,900 m² Grundstuck,https://www.immowelt.de/expose/03c4e11d-6092-4593-b89f-5f381efd3efd,3279,"GroÃŸ Kedingshagen,  Stralsund (18435)",0
+Andershof, Stralsund (18439),295.000 3.422,4 Zimmer,"86,2 m²",227 m² Grundstuck,https://www.immowelt.de/expose/ea65e550-13ae-4a53-b437-7c9a1ea9d648,3279,"Andershof,  Stralsund (18439)",40
+Grunhufe 5, Stralsund (18437),129.000 2.081,3 Zimmer,62 m²,1. Geschoss,https://www.immowelt.de/expose/e8784050-58de-44bc-b14e-6bc4f5dae6f4,3279,"Grunhufe 5,  Stralsund (18437)",130
+Devin, Stralsund (18435),260.000 2.261,4 Zimmer,115 m²,1.489 m² Grundstuck,https://www.immowelt.de/expose/46a7dfe1-adb9-4f75-a950-c7332718fd81,3279,"Devin,  Stralsund (18435)",31
+Andershof, Stralsund (18439),469.000 3.302,4 Zimmer,142 m²,600 m² Grundstuck,https://www.immowelt.de/expose/ec9fb950-5624-4a13-aeb5-270bb4b61c28,3279,"Andershof,  Stralsund (18439)",40
+Andershof, Stralsund (18439),642.000 2.447,8 Zimmer,"262,4 m²",700 m² Grundstuck,https://www.immowelt.de/expose/a3825334-7270-427c-9af1-2cf89232dd40,3279,"Andershof,  Stralsund (18439)",40
+Andershof, Stralsund (18439),639.999 2.683,7 Zimmer,"238,6 m²",600 m² Grundstuck,https://www.immowelt.de/expose/ecd3344d-336f-48a3-a34c-318fb4578510,3279,"Andershof,  Stralsund (18439)",40
+Grunthal-Viermorgen, Stralsund (18437),414.999 3.783,4 Zimmer,"109,7 m²",340 m² Grundstuck,https://www.immowelt.de/expose/6f374460-e7a5-4283-81b4-6ca979b49adf,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+Triebseer Vorstadt, Stralsund (18437),100.000 1.629,2 Zimmer,"61,4 m²",2. Geschoss,https://www.immowelt.de/expose/0297d8cc-3a4a-4d6e-90a3-2d03c10e1b23,3279,"Triebseer Vorstadt,  Stralsund (18437)",0
+Andershof, Stralsund (18439),584.999 2.497,5 Zimmer,"234,3 m²",600 m² Grundstuck,https://www.immowelt.de/expose/6b0d04bd-bcf0-4b26-9388-37b664dedc7c,3279,"Andershof,  Stralsund (18439)",40
+Andershof, Stralsund (18439),461.999 3.005,4 Zimmer,"153,8 m²",600 m² Grundstuck,https://www.immowelt.de/expose/159392ba-3100-40d2-a671-720fff1f4537,3279,"Andershof,  Stralsund (18439)",40
+Andershof, Stralsund (18439),437.999 3.080,4 Zimmer,"142,2 m²",600 m² Grundstuck,https://www.immowelt.de/expose/e41b2a4d-fa12-4189-8b23-90a81320b2ea,3279,"Andershof,  Stralsund (18439)",40
+Andershof, Stralsund (18439),479.999 2.641,6 Zimmer,"181,8 m²",600 m² Grundstuck,https://www.immowelt.de/expose/fcd78fce-da1f-4502-87e4-c15bff94b14f,3279,"Andershof,  Stralsund (18439)",40
+Andershof, Stralsund (18439),423.000 3.164,4 Zimmer,"133,7 m²",600 m² Grundstuck,https://www.immowelt.de/expose/fa3d11cd-204c-42f1-9c3f-fabf1abad501,3279,"Andershof,  Stralsund (18439)",40
+Altstadt, Stralsund (18439),1.850.000 5.286,5 Zimmer,350 m²,3. Geschoss,https://www.immowelt.de/expose/15418021-0ba3-441b-b371-eb0394446e0e,3279,"Altstadt,  Stralsund (18439)",475
+Altstadt, Stralsund (18439),139.000 2.673,2 Zimmer,52 m²,Unknown,https://www.immowelt.de/expose/981f4646-7308-4b9c-b142-475b87746f29,3279,"Altstadt,  Stralsund (18439)",475
+Grunthal-Viermorgen, Stralsund (18437),110.000 2.037,2 Zimmer,54 m²,1. Geschoss,https://www.immowelt.de/expose/82a5fadf-521e-44f7-9016-6aeb728ea44c,3279,"Grunthal-Viermorgen,  Stralsund (18437)",126
+Lindenallee, Stralsund (18437),353.872 2.945,5 Zimmer,"120,2 m²",544 m² Grundstuck,https://www.immowelt.de/expose/eb1fa239-4f5c-4ee3-beca-9d9457c648ec,3279,"Lindenallee,  Stralsund (18437)",132
+Triebseer Vorstadt, Stralsund (18437),229.000 2.861,3 Zimmer,"80,1 m²",Unknown,https://www.immowelt.de/expose/fb70c52a-5381-4ad7-ac11-85571c799ddc,3279,"Triebseer Vorstadt,  Stralsund (18437)",0
+Gresenhorst, Marlow (18337),410.870 3.043,6 Zimmer,135 m²,749 m² Grundstuck,https://www.immowelt.de/expose/02416daf-e002-4057-80b8-6386138da8de,3279,"Gresenhorst,  Marlow (18337)",25
+Triebseer Siedlung, Stralsund (18437),395.000 3.950,4 Zimmer,100 m²,324 m² Grundstuck,https://www.immowelt.de/expose/1bb4f115-de40-4d9f-9de3-bf25aa5f4551,3279,"Triebseer Siedlung,  Stralsund (18437)",0
+Andershof, Stralsund (18439),699.000 4.953,4 Zimmer,"141,1 m²",697 m² Grundstuck,https://www.immowelt.de/expose/f41e526e-ba42-47f6-a1de-e368d4584fe8,3279,"Andershof,  Stralsund (18439)",40
+Dorfstr. 15, Stralsund / Devin (18439),980.000 1.508,27 Zimmer,650 m²,2.685 m² Grundstuck,https://www.immowelt.de/expose/d4ad2ac3-74ba-43a7-937a-375279838dbb,3279,"Dorfstr. 15,  Stralsund / Devin (18439)",13
+Kniepervorstadt, Stralsund (18437),389.000 1.677,7 Zimmer,232 m²,Unknown,https://www.immowelt.de/expose/af135f80-a5fc-4102-8a21-38a9b8ffc2b1,3279,"Kniepervorstadt,  Stralsund (18437)",126
+Knieper Nord, Stralsund (18437),390.000 2.910,5 Zimmer,134 m²,710 m² Grundstuck,https://www.immowelt.de/expose/a244a198-8729-4886-a9ec-791b9af4665c,3279,"Knieper Nord,  Stralsund (18437)",149
+Knieper Nord, Stralsund (18437),385.000 3.738,3 Zimmer,103 m²,940 m² Grundstuck,https://www.immowelt.de/expose/3cac8f9b-9e71-4d99-84dc-f8b1b537a89e,3279,"Knieper Nord,  Stralsund (18437)",149
+Altstadt, Stralsund (18439),Preis auf Anfrage,1 Zimmer,95 m²,EG,https://www.immowelt.de/expose/d047ceaa-b28a-45b7-a69f-90fc8ece343d,3279,"Altstadt,  Stralsund (18439)",475
+Andershof, Stralsund (18439),360.000 3.789,4 Zimmer,95 m²,Unknown,https://www.immowelt.de/expose/bafdca25-d58c-4148-b0ab-085cc4f1d9a0,3279,"Andershof,  Stralsund (18439)",40
+Frankensiedlung, Stralsund (18439),940.000 1.958,480 m²,Unknown,Unknown,https://www.immowelt.de/expose/f1e1d2ff-ad7c-4723-8156-8e4b27a6cf1f,3279,"Frankensiedlung,  Stralsund (18439)",35
+Lindenallee, Stralsund (18437),327.770 2.728,5 Zimmer,"120,2 m²",544 m² Grundstuck,https://www.immowelt.de/expose/10c921ba-d500-4c92-85a2-d510cd4cf541,3279,"Lindenallee,  Stralsund (18437)",132
+Knieper Nord, Stralsund (18435),135.000 2.275,3 Zimmer,"59,4 m²",3. Geschoss,https://www.immowelt.de/expose/6f545775-6920-4e20-8848-cf9678003028,3279,"Knieper Nord,  Stralsund (18435)",149
+Altstadt, Stralsund (18439),160.000 2.909,2 Zimmer,55 m²,Unknown,https://www.immowelt.de/expose/1c93059b-3ea8-4648-ba13-02bd05d29632,3279,"Altstadt,  Stralsund (18439)",475
+Lindenallee, Stralsund (18437),382.610 2.733,3 Zimmer,140 m²,712 m² Grundstuck,https://www.immowelt.de/expose/40b423f0-2895-4fb9-aff9-8a0077e8fc57,3279,"Lindenallee,  Stralsund (18437)",132
+Lindenallee, Stralsund (18437),315.675 2.721,4 Zimmer,116 m²,633 m² Grundstuck,https://www.immowelt.de/expose/f36751b1-2647-473a-b36c-2439570906a0,3279,"Lindenallee,  Stralsund (18437)",132
+Lindenallee, Stralsund (18437),388.335 2.735,5 Zimmer,142 m²,633 m² Grundstuck,https://www.immowelt.de/expose/70292a2c-4530-48d6-8be7-44b1456b676a,3279,"Lindenallee,  Stralsund (18437)",132
+DÃ¤nholm, Stralsund (18439),381.030 1.597,7 Zimmer,"238,6 m²",600 m² Grundstuck,https://www.immowelt.de/expose/548f71f4-55f9-41a9-bfbd-c296c5042afa,3279,"DÃ¤nholm,  Stralsund (18439)",0
+Andershof, Stralsund (18439),360.000 4.000,3 Zimmer,90 m²,650 m² Grundstuck,https://www.immowelt.de/expose/04fb8566-15cd-4981-99d6-8e987f9c6ebc,3279,"Andershof,  Stralsund (18439)",40
+Lindenallee, Stralsund (18437),433.870 2.951,4 Zimmer,147 m²,712 m² Grundstuck,https://www.immowelt.de/expose/b7b1402f-24d3-4523-bdc6-d4973a170f59,3279,"Lindenallee,  Stralsund (18437)",132
+Lindenallee, Stralsund (18437),598.320 2.997,5 Zimmer,"199,7 m²",666 m² Grundstuck,https://www.immowelt.de/expose/dd3d64f4-6a6b-4971-bf98-54ba675cbfa8,3279,"Lindenallee,  Stralsund (18437)",132
+Lindenallee, Stralsund (18437),351.750 2.477,5 Zimmer,142 m²,666 m² Grundstuck,https://www.immowelt.de/expose/4e1e9f06-7a23-47ea-b5d9-26219d872f90,3279,"Lindenallee,  Stralsund (18437)",132
+Lindenallee, Stralsund (18437),426.570 2.894,4 Zimmer,"147,4 m²",712 m² Grundstuck,https://www.immowelt.de/expose/d144493b-004b-4d60-a7c8-be4137872b42,3279,"Lindenallee,  Stralsund (18437)",132
+Lindenallee, Stralsund (18437),368.310 2.743,4 Zimmer,"134,3 m²",625 m² Grundstuck,https://www.immowelt.de/expose/532195e9-fcf7-4441-bea0-e949d6b5d44e,3279,"Lindenallee,  Stralsund (18437)",132
+Lindenallee, Stralsund (18437),420.885 2.920,5 Zimmer,"144,2 m²",625 m² Grundstuck,https://www.immowelt.de/expose/c7508a59-dcd8-4755-acf0-74f27e06ec3f,3279,"Lindenallee,  Stralsund (18437)",132
+Lindenallee, Stralsund (18437),312.535 2.694,4 Zimmer,116 m²,625 m² Grundstuck,https://www.immowelt.de/expose/81f80202-9c71-46a2-a9a6-fb6aefd0fc16,3279,"Lindenallee,  Stralsund (18437)",132
+Lindenallee, Stralsund (18437),340.195 2.819,4 Zimmer,"120,7 m²",625 m² Grundstuck,https://www.immowelt.de/expose/7aa8d2c8-f3b0-44e1-b719-0cace69dea8b,3279,"Lindenallee,  Stralsund (18437)",132
+Lubecker Allee 62, Stralsund (18437),375.000 3.409,4 Zimmer,110 m²,270 m² Grundstuck,https://www.immowelt.de/expose/7023f565-713b-40c2-9e4a-699bf7d5b934,3279,"Lubecker Allee 62,  Stralsund (18437)",124
+Knieper West, Stralsund (18435),805.000 4.458,7 Zimmer,"180,6 m²",332 m² Grundstuck,https://www.immowelt.de/expose/66c4c68c-0bdd-49e1-b71f-d246e4db014d,3279,"Knieper West,  Stralsund (18435)",176
+BahnhofstraÃŸe 25, AltefÃ¤hr (18573),780.000 1.871,16 Zimmer,417 m²,921 m² Grundstuck,https://www.immowelt.de/expose/edf4be58-3521-47c4-90ee-cd4ddaaf4267,3279,"BahnhofstraÃŸe 25,  AltefÃ¤hr (18573)",0
+GroÃŸ Kedingshagen, GroÃŸ Kedingshagen (18445),790.000 1.513,20 Zimmer,522 m²,1.334 m² Grundstuck,https://www.immowelt.de/expose/09c1987b-715e-4eca-b41c-0ac7b8ab05f7,3279,"GroÃŸ Kedingshagen,  GroÃŸ Kedingshagen (18445)",0
+Koppelring, AltefÃ¤hr (18573),Preis auf Anfrage,4 Zimmer,139 m²,435 m² Grundstuck,https://www.immowelt.de/expose/95093cdf-536e-4d97-bb43-3205f7b7755d,3279,"Koppelring,  AltefÃ¤hr (18573)",0
+AltefÃ¤hr, AltefÃ¤hr (18573),436.500 5.820,3 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/ac2f3402-95d2-42cb-b2ff-8d923fedfcfc,3279,"AltefÃ¤hr,  AltefÃ¤hr (18573)",0
+Parow, Kramerhof (18445),74.000 2.313,1 Zimmer,32 m²,Unknown,https://www.immowelt.de/expose/4d1d3d90-dc1f-4de6-9c1d-637ac4d12960,3279,"Parow,  Kramerhof (18445)",15
+GroÃŸ Kedingshagen, Kramerhof (18445),359.000 2.992,4 Zimmer,120 m²,540 m² Grundstuck,https://www.immowelt.de/expose/9b033ccb-fbb4-4979-b64a-cb43e08d2842,3279,"GroÃŸ Kedingshagen,  Kramerhof (18445)",0
+Parow, Kramerhof (18445),689.000 4.873,4 Zimmer,"141,4 m²",906 m² Grundstuck,https://www.immowelt.de/expose/f4ca5fe5-e3c3-465b-900e-8b7f4ea3ed14,3279,"Parow,  Kramerhof (18445)",15
+GroÃŸ Ludershagen, Wendorf (18442),350000,4 Zimmer,625 m² Grundstuck,frei ab sofort,https://www.immowelt.de/expose/f706abf5-b018-441a-ae6a-82c39fc89428,3279,"GroÃŸ Ludershagen,  Wendorf (18442)",0
+Grahlhof, AltefÃ¤hr (18573),1.080.000 2.700,16 Zimmer,400 m²,1.658 m² Grundstuck,https://www.immowelt.de/expose/02d7bd0e-26cf-41bc-b50b-0b40cd68b95b,3279,"Grahlhof,  AltefÃ¤hr (18573)",0
+AltefÃ¤hr, AltefÃ¤hr (18573),Preis auf Anfrage,3 Zimmer,65 m²,Unknown,https://www.immowelt.de/expose/bfb10b38-9d1b-484a-ab32-326d6fe0d180,3279,"AltefÃ¤hr,  AltefÃ¤hr (18573)",0
+Parow, Kramerhof (18445),74.000 2.313,32 m²,Unknown,Unknown,https://www.immowelt.de/expose/c414b672-481b-49f2-aaed-97bb306ceeba,3279,"Parow,  Kramerhof (18445)",15
+AltefÃ¤hr, AltefÃ¤hr (18573),558.000 4.014,6 Zimmer,139 m²,EG,https://www.immowelt.de/expose/f1ccee27-7fd5-4f10-b376-d5b067182e3f,3279,"AltefÃ¤hr,  AltefÃ¤hr (18573)",0
+Jarkvitz, AltefÃ¤hr (18573),119.000 1.983,2 Zimmer,60 m²,1.450 m² Grundstuck,https://www.immowelt.de/expose/f92532c1-0cf2-42d6-8dd7-d3d4ca061381,3279,"Jarkvitz,  AltefÃ¤hr (18573)",0
+Wendorf, Wendorf (18442),345.050 2.805,5 Zimmer,123 m²,1.054 m² Grundstuck,https://www.immowelt.de/expose/0e0a7345-b1b1-47a8-ad5c-cbc4ce6a72ec,3279,"Wendorf,  Wendorf (18442)",5
+Haarhausen, Borken / Haarhausen (34582),180.000 1.053,5 Zimmer,171 m²,697 m² Grundstuck,https://www.immowelt.de/expose/70361e0d-3cc9-4da0-a34e-937af9ff670f,3283,"Haarhausen,  Borken / Haarhausen (34582)",0
+Arnsbach, Borken / Arnsbach (34582),198.000 770,11 Zimmer,257 m²,1.056 m² Grundstuck,https://www.immowelt.de/expose/ed5c0eaf-875d-4d40-a39e-c75a9488923e,3283,"Arnsbach,  Borken / Arnsbach (34582)",0
+Lendorf, Borken (34582),164.000 1.025,6 Zimmer,160 m²,800 m² Grundstuck,https://www.immowelt.de/expose/a038352e-b323-43b3-b92c-9ebd6946360b,3283,"Lendorf,  Borken (34582)",0
+Borken, Borken (34582),199.000 1.579,5 Zimmer,126 m²,878 m² Grundstuck,https://www.immowelt.de/expose/9cebba2d-3313-4358-8162-a76fc6817e70,3283,"Borken,  Borken (34582)",64
+Trockenerfurth, Borken (34582),219.000 1.288,6 Zimmer,170 m²,2.211 m² Grundstuck,https://www.immowelt.de/expose/49d647a4-be79-4eb8-93c7-d463cbc06d7e,3283,"Trockenerfurth,  Borken (34582)",0
+GroÃŸenenglis, Borken (34582),37.000 597,5 Zimmer,62 m²,64 m² Grundstuck,https://www.immowelt.de/expose/617f86b3-9d3b-49e5-808a-5077f8602fe3,3283,"GroÃŸenenglis,  Borken (34582)",0
+GroÃŸenenglis, Borken (34582),159.900 1.088,5 Zimmer,147 m²,662 m² Grundstuck,https://www.immowelt.de/expose/3a6e64e9-2792-41b7-8d25-fc563c572d44,3283,"GroÃŸenenglis,  Borken (34582)",0
+Borken, Borken (34582),Preis auf Anfrage,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/e674e8fd-1823-4910-9328-2305db58df9b,3283,"Borken,  Borken (34582)",64
+Kleinenglis, Borken (34582),220.000 1.243,6 Zimmer,177 m²,950 m² Grundstuck,https://www.immowelt.de/expose/7d2df920-1cd0-4640-82c2-1507bb5f6a8d,3283,"Kleinenglis,  Borken (34582)",20
+Trockenerfurth, Borken (Hessen) - Trockenerfurth (34582),720.000 2.544,283 m²,1.688 m² Grundstuck,Unknown,https://www.immowelt.de/expose/eecefc11-e16c-48dd-b788-6c1d4088cce6,3283,"Trockenerfurth,  Borken (Hessen) - Trockenerfurth (34582)",0
+Trockenerfurth, Borken (Hessen) - Trockenerfurth (34582),720.000 2.544,10 Zimmer,283 m²,1.688 m² Grundstuck,https://www.immowelt.de/expose/1e3c23ff-58d7-44b3-83fd-cd95166bae76,3283,"Trockenerfurth,  Borken (Hessen) - Trockenerfurth (34582)",0
+Borken, Borken (Hessen) (34582),320.000 2.065,6 Zimmer,155 m²,1.000 m² Grundstuck,https://www.immowelt.de/expose/2fc8d979-b506-4684-8e3c-14bbbb802ece,3283,"Borken,  Borken (Hessen) (34582)",64
+Borken, Borken (34582),185.000 1.652,6 Zimmer,112 m²,952 m² Grundstuck,https://www.immowelt.de/expose/d42f3831-85bf-4059-9649-688a9f01d305,3283,"Borken,  Borken (34582)",64
+Gombeth, Borken (34582),230.000 1.237,6 Zimmer,186 m²,816 m² Grundstuck,https://www.immowelt.de/expose/68854093-55bd-4bb5-9bb2-37416fcc1258,3283,"Gombeth,  Borken (34582)",0
+Borken, Borken (34582),200.000 1.250,4 Zimmer,160 m²,Unknown,https://www.immowelt.de/expose/572c1fca-2fda-4cf5-b40d-2e1be2535805,3283,"Borken,  Borken (34582)",64
+Dillich, Borken / Dillich (34582),199.000 642,10 Zimmer,310 m²,430 m² Grundstuck,https://www.immowelt.de/expose/ba5f6501-7d05-4946-9d9f-56918f70bdf2,3283,"Dillich,  Borken / Dillich (34582)",10
+An der Lust 11, Borken (34582),180.000 1.440,3 Zimmer,125 m²,2. Geschoss,https://www.immowelt.de/expose/c2102ff2-67f5-43d6-b719-7200d6289cf2,3283,"An der Lust 11,  Borken (34582)",24
+Arnsbach, Borken (Hessen) (34582),199000,12 Zimmer,450 m²,2.341 m² Grundstuck,https://www.immowelt.de/expose/57efb715-d04d-4d97-b2f8-b7f9af9cc784,3283,"Arnsbach,  Borken (Hessen) (34582)",0
+Arnsbach, Borken (Hessen) (34582),199000,12 Zimmer,300 m²,2.341 m² Grundstuck,https://www.immowelt.de/expose/9888858c-c4bf-4ded-b9ec-d32a617c78ba,3283,"Arnsbach,  Borken (Hessen) (34582)",0
+Wildunger Str. 16, Borken (34582),240.000 1.600,4 Zimmer,150 m²,Unknown,https://www.immowelt.de/expose/a7aa8ef1-9956-41f3-a475-738cefef5184,3283,"Wildunger Str. 16,  Borken (34582)",0
+Lembach, Homberg (34576),189.000 1.454,3 Zimmer,130 m²,290 m² Grundstuck,https://www.immowelt.de/expose/98620cfd-19cf-4e4e-a772-dfc03561dfe0,3283,"Lembach,  Homberg (34576)",0
+Zimmersrode, Neuental (34599),269.000 1.121,7 Zimmer,240 m²,1.592 m² Grundstuck,https://www.immowelt.de/expose/f10a0a2f-3611-454b-8ada-d471407e4d42,3283,"Zimmersrode,  Neuental (34599)",28
+Neuenhain, Neuental (34599),89.000 627,4 Zimmer,142 m²,443 m² Grundstuck,https://www.immowelt.de/expose/fef848b7-92c7-499c-a007-94e2e2c51e74,3283,"Neuenhain,  Neuental (34599)",0
+CaÃŸdorf, Homberg efze (34576),147.995 1.138,5 Zimmer,130 m²,223 m² Grundstuck,https://www.immowelt.de/expose/af2852f8-cfd0-4c71-bea5-9d02e548aaee,3283,"CaÃŸdorf,  Homberg efze (34576)",0
+Bad Zwesten, Bad Zwesten (34596),330.000 1.958,5 Zimmer,"168,5 m²",886 m² Grundstuck,https://www.immowelt.de/expose/7a083482-cbc4-4393-856a-9318ea007baa,3283,"Bad Zwesten,  Bad Zwesten (34596)",44
+Muhlhausen, Homberg (34576),260.750 1.571,4 Zimmer,166 m²,789 m² Grundstuck,https://www.immowelt.de/expose/d6392255-ac25-47aa-80c8-18dedc1f4880,3283,"Muhlhausen,  Homberg (34576)",10
+Muhlhausen, Homberg (34576),250.450 1.941,4 Zimmer,129 m²,789 m² Grundstuck,https://www.immowelt.de/expose/186a321f-b918-493b-99a0-37df59983314,3283,"Muhlhausen,  Homberg (34576)",10
+Wernswig, Homberg (Efze) (34576),175.000 1.329,6 Zimmer,"131,7 m²",320 m² Grundstuck,https://www.immowelt.de/expose/7d2b8046-b088-42e5-97ad-4c03ec6824f1,3283,"Wernswig,  Homberg (Efze) (34576)",43
+Wabern, Wabern (34590),350.000 3.933,2 Zimmer,89 m²,frei ab sofort,https://www.immowelt.de/expose/accf4138-2945-423a-b80e-a553a5014f85,3283,"Wabern,  Wabern (34590)",54
+Muhlhausen, Homberg (34576),259.550 1.997,6 Zimmer,130 m²,789 m² Grundstuck,https://www.immowelt.de/expose/e88795b8-9edb-44ba-a461-7539039937b7,3283,"Muhlhausen,  Homberg (34576)",10
+Hackenbroich, Dormagen / Hackenbroich (41540),550.000 3.394,6 Zimmer,"162,1 m²",689 m² Grundstuck,https://www.immowelt.de/expose/386d3069-2a58-491a-8f1c-8a8aedc363df,3285,"Hackenbroich,  Dormagen / Hackenbroich (41540)",99
+Sturzelberg, Dormagen (41541),562.000 3.849,4 Zimmer,146 m²,Unknown,https://www.immowelt.de/expose/7e9db8e1-3c34-468d-9a97-614e01b6774f,3285,"Sturzelberg,  Dormagen (41541)",68
+Dormagen - Mitte, Dormagen (41539),"242 3,31",1 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/9010b29a-30a9-480b-b147-a0cae1fc61b7,3285,"Dormagen - Mitte,  Dormagen (41539)",258
+Stadt Zons, Dormagen (41541),237.900 2.309,3 Zimmer,103 m²,Unknown,https://www.immowelt.de/expose/2aaa1c60-bfcc-448c-a220-9eb40d1b6fd8,3285,"Stadt Zons,  Dormagen (41541)",47
+Walhovener Str. 53, Dormagen (41539),128.000 2.951,2 Zimmer,"43,4 m²",2. Geschoss,https://www.immowelt.de/expose/36e7dda8-8ef5-4e4b-a93a-c5f9d566859a,3285,"Walhovener Str. 53,  Dormagen (41539)",176
+Stadt Zons, Dormagen (41541),400.800 2.690,4 Zimmer,149 m²,Unknown,https://www.immowelt.de/expose/e5d9ef4e-7768-4860-ad7b-0de76c2b5c50,3285,"Stadt Zons,  Dormagen (41541)",47
+Stadt Zons, Dormagen (41541),326.400 3.079,4 Zimmer,106 m²,Unknown,https://www.immowelt.de/expose/be073eea-0639-4d3a-a5aa-69899fcb093c,3285,"Stadt Zons,  Dormagen (41541)",47
+-, Dormagen (41540),799.000 4.994,6 Zimmer,160 m²,230 m² Grundstuck,https://www.immowelt.de/expose/b1e74bf7-2b8e-42de-91b3-58365190f8fe,3285,"-,  Dormagen (41540)",262
+Rheinfeld, Dormagen (41539),360.000 3.600,4 Zimmer,100 m²,Unknown,https://www.immowelt.de/expose/db9f893f-b973-4048-a1cc-5599e480a17f,3285,"Rheinfeld,  Dormagen (41539)",124
+WiedstraÃŸe 1, Dormagen (41540),72.500 2.062,1 Zimmer,"35,2 m²",2. Geschoss,https://www.immowelt.de/expose/da98d57d-a2a9-446b-b9c8-0a590f9b0c02,3285,"WiedstraÃŸe 1,  Dormagen (41540)",0
+Dormagen - Mitte, Dormagen (41539),491.678 4.097,4 Zimmer,120 m²,300 m² Grundstuck,https://www.immowelt.de/expose/ccb1c863-db6f-4699-a0e5-3a2475d5080a,3285,"Dormagen - Mitte,  Dormagen (41539)",258
+Stadt Zons, Dormagen (41541),469.242 4.692,4 Zimmer,100 m²,180 m² Grundstuck,https://www.immowelt.de/expose/bfe9ea61-e0b8-4269-b981-46e6d01d4a73,3285,"Stadt Zons,  Dormagen (41541)",47
+Hackenbroich, Dormagen (41540),549.000 4.067,4 Zimmer,135 m²,305 m² Grundstuck,https://www.immowelt.de/expose/46abff02-f3e0-43fe-9eb5-7d2ffb6e6a46,3285,"Hackenbroich,  Dormagen (41540)",129
+Hackenbroich, Dormagen (41540),995.000 4.252,7 Zimmer,242 m²,656 m² Grundstuck,https://www.immowelt.de/expose/5de15e1d-83a1-4f35-834b-86c85b53ac08,3285,"Hackenbroich,  Dormagen (41540)",129
+Hackenbroich, Dormagen (41540),465.000 4.043,5 Zimmer,115 m²,214 m² Grundstuck,https://www.immowelt.de/expose/1b2424ee-a12b-42b8-bf79-c3723b1cfefc,3285,"Hackenbroich,  Dormagen (41540)",129
+Hackenbroich, Dormagen (41540),190.000 2.492,3 Zimmer,"76,5 m²",4. Geschoss,https://www.immowelt.de/expose/e152ac62-6f61-462d-b9b5-e95ba08548f6,3285,"Hackenbroich,  Dormagen (41540)",129
+Rheinfeld, Dormagen (41539),795.000 4.098,7 Zimmer,194 m²,1.062 m² Grundstuck,https://www.immowelt.de/expose/b43998a4-1b37-4fd7-80d7-f6afd7ea694e,3285,"Rheinfeld,  Dormagen (41539)",124
+Auf dem Sandberg, Dormagen (41539),565.000 3.951,6 Zimmer,143 m²,297 m² Grundstuck,https://www.immowelt.de/expose/4529c30c-b64c-447f-b71f-98c666476af1,3285,"Auf dem Sandberg,  Dormagen (41539)",53
+BeethovenstraÃŸe 20, Dormagen (41539),160.000 2.133,3 Zimmer,75 m²,4. UG,https://www.immowelt.de/expose/180e15df-8bf6-4435-b425-35488ad31be1,3285,"BeethovenstraÃŸe 20,  Dormagen (41539)",0
+Delhoven, Dormagen (41540),486.346 4.266,4 Zimmer,114 m²,380 m² Grundstuck,https://www.immowelt.de/expose/31bacf97-d474-4eb2-b95e-0998c3709451,3285,"Delhoven,  Dormagen (41540)",78
+Stadt Zons, Dormagen (41541),233.000 2.378,5 Zimmer,98 m²,299 m² Grundstuck,https://www.immowelt.de/expose/71e01ed6-3a0c-401d-8934-ebd2975cea87,3285,"Stadt Zons,  Dormagen (41541)",47
+Horrem, Dormagen (41540),259.000 3.453,3 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/1d3440ce-fd31-476d-a3ba-bb45fdf7359b,3285,"Horrem,  Dormagen (41540)",149
+Dormagen - Mitte, Dormagen (41539),8.800.000 4.366,"2.015,4 m²",2.166 m² Grundstuck,Unknown,https://www.immowelt.de/expose/ea1a59c6-4191-4453-a79a-a250930f8880,3285,"Dormagen - Mitte,  Dormagen (41539)",258
+Stadt Zons, Dormagen (41541),1.075.000 3.895,6 Zimmer,276 m²,480 m² Grundstuck,https://www.immowelt.de/expose/2d6e7a16-039c-4c1a-9c45-414cffd5d441,3285,"Stadt Zons,  Dormagen (41541)",47
+Rheinfeld, Dormagen (41539),299.000 3.186,3 Zimmer,"93,9 m²",3. Geschoss,https://www.immowelt.de/expose/42b17d73-570d-4866-b507-f6e04e30a08d,3285,"Rheinfeld,  Dormagen (41539)",124
+Balgheimer StraÃŸe, Dormagen (41542),539.000 4.022,6 Zimmer,134 m²,289 m² Grundstuck,https://www.immowelt.de/expose/0f376297-40b0-4a0c-ae80-d0ea63708889,3285,"Balgheimer StraÃŸe,  Dormagen (41542)",0
+Sturzelberg, Dormagen (41541),650.000 2.321,"11,5 Zimmer",280 m²,500 m² Grundstuck,https://www.immowelt.de/expose/5dfe03b0-1217-48b5-802c-a97989a21a1a,3285,"Sturzelberg,  Dormagen (41541)",68
+Ãœckerath, Dormagen (41542),449.000 2.974,5 Zimmer,151 m²,680 m² Grundstuck,https://www.immowelt.de/expose/730ad3ab-9aed-4a7e-bc6a-517ebb1de3f5,3285,"Ãœckerath,  Dormagen (41542)",0
+Hackenbroich, Dormagen (41540),186.000 2.447,3 Zimmer,76 m²,Unknown,https://www.immowelt.de/expose/2fdd1f4c-7d9a-4236-9337-a1e2077050d6,3285,"Hackenbroich,  Dormagen (41540)",129
+Stadt Zons, Dormagen (41539),1.108.000 6.806,5 Zimmer,"162,8 m²",200 m² Grundstuck,https://www.immowelt.de/expose/bb1af62d-d3d5-4592-866d-0c75494e4e23,3285,"Stadt Zons,  Dormagen (41539)",47
+Stadt Zons, Dormagen (41539),748.000 6.800,"4,5 Zimmer",110 m²,Unknown,https://www.immowelt.de/expose/6beb3ca6-d147-48e1-93b1-aa16435d0cfb,3285,"Stadt Zons,  Dormagen (41539)",47
+Stadt Zons, Dormagen (41539),584.800 6.751,4 Zimmer,"86,6 m²",Unknown,https://www.immowelt.de/expose/81f49e5d-abbf-4655-a597-70a40890301e,3285,"Stadt Zons,  Dormagen (41539)",47
+Hackenbroich, Dormagen (41540),170.000 2.464,3 Zimmer,69 m²,3. Geschoss,https://www.immowelt.de/expose/f0f2f4a8-adb5-4f99-8655-f2a817a9f12d,3285,"Hackenbroich,  Dormagen (41540)",129
+Sturzelberg, Dormagen (41541),549.000 4.097,5 Zimmer,134 m²,682 m² Grundstuck,https://www.immowelt.de/expose/a88b0272-3ca9-48bd-a151-d2324e9ff424,3285,"Sturzelberg,  Dormagen (41541)",68
+Haberlandstr.7, Dormagen (41539),210.000 2.150,3 Zimmer,98 m²,2. Geschoss,https://www.immowelt.de/expose/a4b7d012-087d-454d-8366-35481295a6e1,3285,"Haberlandstr.7,  Dormagen (41539)",197
+Nievenheim, Dormagen (41542),80000,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/e89461f7-bbab-44aa-b38a-a90c1f429727,3285,"Nievenheim,  Dormagen (41542)",155
+Stadt Zons, Dormagen (41541),999.000 5.798,5 Zimmer,"172,3 m²",660 m² Grundstuck,https://www.immowelt.de/expose/6d4e3f05-d041-4098-801c-4d8e99d898eb,3285,"Stadt Zons,  Dormagen (41541)",47
+Stadt Zons, Dormagen (41541),341.900 2.124,5 Zimmer,161 m²,Unknown,https://www.immowelt.de/expose/5edde502-3cf1-4046-9fcf-dc6c1d202cdf,3285,"Stadt Zons,  Dormagen (41541)",47
+Stadt Zons, Dormagen (41541),435.900 2.382,5 Zimmer,183 m²,Unknown,https://www.immowelt.de/expose/d35a88a4-019f-48a0-81a4-d8ffd961133e,3285,"Stadt Zons,  Dormagen (41541)",47
+Stadt Zons, Dormagen (41541),484.900 2.585,6 Zimmer,"187,6 m²",Unknown,https://www.immowelt.de/expose/2a7ff6bd-dc0e-4aa4-96b4-a863542284e9,3285,"Stadt Zons,  Dormagen (41541)",47
+Hackenbroich, Dormagen (41540),520.000 3.152,"5,5 Zimmer",165 m²,360 m² Grundstuck,https://www.immowelt.de/expose/750914e8-1d51-4041-b033-d0438184ef81,3285,"Hackenbroich,  Dormagen (41540)",129
+Nievenheim, Dormagen (41542),379.200 2.851,4 Zimmer,133 m²,300 m² Grundstuck,https://www.immowelt.de/expose/5c1fa10e-9b8d-4fb8-8be8-e91ca53ad0b9,3285,"Nievenheim,  Dormagen (41542)",155
+Stadt Zons, Dormagen (41541),448.300 3.371,4 Zimmer,133 m²,300 m² Grundstuck,https://www.immowelt.de/expose/985e96b0-ea27-46df-b22e-4d3bcef89841,3285,"Stadt Zons,  Dormagen (41541)",47
+Hackenbroich, Dormagen (41540),419.900 2.876,5 Zimmer,146 m²,350 m² Grundstuck,https://www.immowelt.de/expose/6c065146-f251-4b05-b617-2e9e9c2ea64c,3285,"Hackenbroich,  Dormagen (41540)",129
+Rheinfeld, Dormagen (41539),388.000 2.917,4 Zimmer,133 m²,300 m² Grundstuck,https://www.immowelt.de/expose/5e420b6e-3d14-4c76-af74-3a44dabc15aa,3285,"Rheinfeld,  Dormagen (41539)",124
+Rheinfeld, Dormagen (41539),250.000 4.167,"1,5 Zimmer",60 m²,frei ab sofort,https://www.immowelt.de/expose/eeade57d-84b7-4ea1-97b7-e7179588cb75,3285,"Rheinfeld,  Dormagen (41539)",124
+Muhlenbuschweg, Dormagen (41542),300.000 3.125,3 Zimmer,96 m²,frei ab sofort,https://www.immowelt.de/expose/4f9caaff-815a-487c-90a2-ecb495820cff,3285,"Muhlenbuschweg,  Dormagen (41542)",6
+HÃ¶henberg, Dormagen (41539),300.000 3.191,3 Zimmer,94 m²,frei ab sofort,https://www.immowelt.de/expose/c5b5008d-a95b-483d-b278-7f90120e2f42,3285,"HÃ¶henberg,  Dormagen (41539)",0
+BruckenstraÃŸe, Dormagen (41542),351.000 1.618,7 Zimmer,217 m²,350 m² Grundstuck,https://www.immowelt.de/expose/668a8465-4a47-44ff-bacf-5b6f489ad248,3285,"BruckenstraÃŸe,  Dormagen (41542)",0
+Delhoven, Dormagen (41540),185.000 2.191,3 Zimmer,"84,4 m²",Unknown,https://www.immowelt.de/expose/60d895f0-1aa1-40ad-863a-f2c2dd2ac66b,3285,"Delhoven,  Dormagen (41540)",78
+Worringen, KÃ¶ln (50769),479.000 3.004,5 Zimmer,"159,5 m²",302 m² Grundstuck,https://www.immowelt.de/expose/c6570f8f-b335-477c-9391-44ab222c3337,3285,"Worringen,  KÃ¶ln (50769)",0
+Rosellen, Neuss / Allerheiligen (41470),255.000 3.098,3 Zimmer,"82,3 m²",3. Geschoss,https://www.immowelt.de/expose/b1d99e49-5ab6-4171-917f-05dba86ebce8,3285,"Rosellen,  Neuss / Allerheiligen (41470)",112
+Himmelgeist, Dusseldorf / Himmelgeist (40589),1.320.000 6.667,4 Zimmer,198 m²,Unknown,https://www.immowelt.de/expose/426635c1-f6b0-486a-aabd-bc816a4bd8ce,3285,"Himmelgeist,  Dusseldorf / Himmelgeist (40589)",92
+Worringen, KÃ¶ln (50769),795.000 2.286,12 Zimmer,"347,7 m²",686 m² Grundstuck,https://www.immowelt.de/expose/c5d5dbed-66b2-4fe6-a335-d6969fe95a5a,3285,"Worringen,  KÃ¶ln (50769)",0
+Worringen, KÃ¶ln / Worringen (50769),365.000 3.614,4 Zimmer,101 m²,299 m² Grundstuck,https://www.immowelt.de/expose/7b890f3d-345c-425d-8837-3ff81e782b78,3285,"Worringen,  KÃ¶ln / Worringen (50769)",0
+Rosellen, Neuss (41470),2.450.000 5.500,9 Zimmer,"445,5 m²",7.822 m² Grundstuck,https://www.immowelt.de/expose/89d118f7-82ab-488e-8f3c-a4d80c63c1ee,3285,"Rosellen,  Neuss (41470)",122
+Rosellen, Neuss (41470),789.000 4.318,5 Zimmer,"182,7 m²",535 m² Grundstuck,https://www.immowelt.de/expose/46aea5ca-f3d0-4a31-8cdf-abbc4ca2b659,3285,"Rosellen,  Neuss (41470)",122
+Rosellen, Neuss (41470),498.000 4.080,5 Zimmer,"122,1 m²",643 m² Grundstuck,https://www.immowelt.de/expose/06f892ca-2bf4-4745-aa28-4c166435f13f,3285,"Rosellen,  Neuss (41470)",122
+Uedesheim, Neuss / Uedesheim (41468),557.000 4.781,4 Zimmer,"116,5 m²",932 m² Grundstuck,https://www.immowelt.de/expose/50086d18-4065-419f-8295-ba58d1b728db,3285,"Uedesheim,  Neuss / Uedesheim (41468)",35
+Holthausen, Dusseldorf (40589),399.000 3.218,"3,5 Zimmer",124 m²,5. Geschoss,https://www.immowelt.de/expose/1759c620-f25f-4038-acb2-93b11c5ee776,3285,"Holthausen,  Dusseldorf (40589)",306
+Hagen, Hagen im Bremischen (27628),299.000 1.709,6 Zimmer,175 m²,1.000 m² Grundstuck,https://www.immowelt.de/expose/03d8d4f7-9b7f-4c38-891f-ca82d9d5cc54,3290,"Hagen,  Hagen im Bremischen (27628)",29
+Uthlede, Uthlede / Albstedt (27628),296.500 1.210,12 Zimmer,245 m²,1.404 m² Grundstuck,https://www.immowelt.de/expose/bc4ba108-c8c8-4071-847c-684173feb3ea,3290,"Uthlede,  Uthlede / Albstedt (27628)",0
+Hagen, Hagen im Bremischen (27628),340.500 2.724,5 Zimmer,125 m²,600 m² Grundstuck,https://www.immowelt.de/expose/f405b4d5-a22d-42c5-b4de-647ec1b7d7dd,3290,"Hagen,  Hagen im Bremischen (27628)",29
+Hagen, Hagen im Bremischen (27628),395.000 3.086,4 Zimmer,128 m²,780 m² Grundstuck,https://www.immowelt.de/expose/d2bb2a1b-bd87-410c-aaf0-30ea75e867e1,3290,"Hagen,  Hagen im Bremischen (27628)",29
+Bramstedt, Bramstedt (27628),129.000 1.613,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/6c0b087c-d2a2-48ba-b774-5dcdba3f5a44,3290,"Bramstedt,  Bramstedt (27628)",54
+Hagen, Hagen im Bremischen (27628),143.000 1.021,1 Zimmer,140 m²,495 m² Grundstuck,https://www.immowelt.de/expose/31f7914e-1213-46ad-bb1e-1276b6ad6477,3290,"Hagen,  Hagen im Bremischen (27628)",29
+Uthlede, Uthlede (27628),285.000 1.900,7 Zimmer,150 m²,1.632 m² Grundstuck,https://www.immowelt.de/expose/e348c6d0-bd3e-453a-b5cf-e9d598c9b2b1,3290,"Uthlede,  Uthlede (27628)",14
+Bramstedt, Bramstedt (27628),429.000 1.986,7 Zimmer,216 m²,1.050 m² Grundstuck,https://www.immowelt.de/expose/d47f0e13-4d63-47d8-89b6-92fd564dfa29,3290,"Bramstedt,  Bramstedt (27628)",54
+Wurthfleth, Sandstedt (27628),143.000 1.021,140 m²,Unknown,Unknown,https://www.immowelt.de/expose/f44b667c-e6c1-4cf3-9e9b-abb5e1553d1d,3290,"Wurthfleth,  Sandstedt (27628)",23
+Wurthfleth, Hagen (27628),143.000 1.021,140 m²,495 m² Grundstuck,Unknown,https://www.immowelt.de/expose/62baa103-f5d4-48af-b865-6d1379758a83,3290,"Wurthfleth,  Hagen (27628)",23
+Bramstedt, Bramstedt (27628),99.000 483,9 Zimmer,205 m²,6.865 m² Grundstuck,https://www.immowelt.de/expose/bc29a62f-a144-4018-9fd9-5a81ad1d49b2,3290,"Bramstedt,  Bramstedt (27628)",54
+Hagen, Hagen im Bremischen (27628),349.000 2.327,4 Zimmer,150 m²,800 m² Grundstuck,https://www.immowelt.de/expose/979bbbfb-39a0-4dd0-9320-8582e3ddad60,3290,"Hagen,  Hagen im Bremischen (27628)",29
+Bramstedt, Bramstedt (27628),129.000 1.613,3 Zimmer,80 m²,Unknown,https://www.immowelt.de/expose/53dcf198-600a-4ace-90df-cd301fa25f92,3290,"Bramstedt,  Bramstedt (27628)",54
+Hagen, Hagen im Bremischen (27628),369.000 2.236,4 Zimmer,165 m²,1.200 m² Grundstuck,https://www.immowelt.de/expose/b1016e72-78f8-4635-a2de-2046419b6c5e,3290,"Hagen,  Hagen im Bremischen (27628)",29
+Hagen, Hagen im Bremischen (27628),388.000 2.395,5 Zimmer,162 m²,1.032 m² Grundstuck,https://www.immowelt.de/expose/9857df3a-eef4-4a9f-9189-b4b2c1b1fe39,3290,"Hagen,  Hagen im Bremischen (27628)",29
+Wulsbuttel, Hagen im Bremischen (27628),889.000 2.615,7 Zimmer,340 m²,4.700 m² Grundstuck,https://www.immowelt.de/expose/4eda5ac0-31d5-4bd2-bd75-c53d292685a3,3290,"Wulsbuttel,  Hagen im Bremischen (27628)",23
+Bramstedt, Bramstedt (27628),109.000 1.591,3 Zimmer,"68,5 m²",1. Geschoss,https://www.immowelt.de/expose/95df55eb-e76a-47b9-8486-a3251944029c,3290,"Bramstedt,  Bramstedt (27628)",54
+Uthlede, Uthlede / Albstedt (27628),296.500 1.210,12 Zimmer,245 m²,1.404 m² Grundstuck,https://www.immowelt.de/expose/29e110db-d697-4567-88c4-b2b1ccab7532,3290,"Uthlede,  Uthlede / Albstedt (27628)",0
+Hagen, Hagen im Bremischen (27628),180.000 602,11 Zimmer,299 m²,1.134 m² Grundstuck,https://www.immowelt.de/expose/a3d7e07b-1155-4146-9181-9f44f82799fc,3290,"Hagen,  Hagen im Bremischen (27628)",29
+Uthlede, Uthlede (27628),375.000 2.767,4 Zimmer,"135,5 m²",1.446 m² Grundstuck,https://www.immowelt.de/expose/e503828f-131c-45c9-bd6b-d6830f61a3e1,3290,"Uthlede,  Uthlede (27628)",14
+Hagen, Hagen im Bremischen (27628),249.000 1.142,10 Zimmer,218 m²,905 m² Grundstuck,https://www.immowelt.de/expose/7525bcc6-f409-4e46-be6a-a3cd97cf6202,3290,"Hagen,  Hagen im Bremischen (27628)",29
+Rechtenfleth, Hagen im Bremischen / Rechtenfleth (27628),Preis auf Anfrage,10 Zimmer,"309,6 m²",4.000 m² Grundstuck,https://www.immowelt.de/expose/fb80fea6-b8f1-4d19-aa67-085ef3717bca,3290,"Rechtenfleth,  Hagen im Bremischen / Rechtenfleth (27628)",10
+Rechtenfleth, Hagen im Bremischen / Rechtenfleth (27628),74.990 3.043,1 Zimmer,23 m²,210 m² Grundstuck,https://www.immowelt.de/expose/eadb232c-0b21-4120-abf6-a6f12a13cc76,3290,"Rechtenfleth,  Hagen im Bremischen / Rechtenfleth (27628)",10
+Hagen, Hagen im Bremischen (27628),219.000 2.248,5 Zimmer,"97,4 m²",912 m² Grundstuck,https://www.immowelt.de/expose/79bd9c37-419f-45bc-a6c6-1e5f70bb3144,3290,"Hagen,  Hagen im Bremischen (27628)",29
+Wulsbuttel, Hagen (27628),439.000 4.028,3 Zimmer,109 m²,1.173 m² Grundstuck,https://www.immowelt.de/expose/759f8fb7-4ff7-4a58-9d7e-944b39c907c2,3290,"Wulsbuttel,  Hagen (27628)",23
+Bokel, Beverstedt (27616),287.000 1.276,8 Zimmer,225 m²,998 m² Grundstuck,https://www.immowelt.de/expose/1b3534db-9cca-4bcf-b1ba-116f02f721c4,3290,"Bokel,  Beverstedt (27616)",39
+Innenstadt, Osterholz-Scharmbeck (27711),498.000 1.844,7 Zimmer,270 m²,1.000 m² Grundstuck,https://www.immowelt.de/expose/16c775cd-d945-48d1-8f4e-922d659e8c3f,3290,"Innenstadt,  Osterholz-Scharmbeck (27711)",0
+Hamm, Hamm am Rhein (67580),110.000 2.200,2 Zimmer,50 m²,Unknown,https://www.immowelt.de/expose/3aa419f9-20dc-451e-a8b0-51b3a5838ff4,3330,"Hamm,  Hamm am Rhein (67580)",8
+Hamm, Hamm am Rhein (67580),399.000 1.209,12 Zimmer,330 m²,650 m² Grundstuck,https://www.immowelt.de/expose/896a5bd3-a28b-4f9e-93fd-271d1ad9ae01,3330,"Hamm,  Hamm am Rhein (67580)",8
+Gernsheim, Gernsheim (64579),386.000 2.644,4 Zimmer,146 m²,199 m² Grundstuck,https://www.immowelt.de/expose/b0f039d2-49bd-4a1e-b41a-8cbe8fd4c15a,3330,"Gernsheim,  Gernsheim (64579)",187
+Gernsheim, Gernsheim (64579),1.257.000 5.465,9 Zimmer,230 m²,1.147 m² Grundstuck,https://www.immowelt.de/expose/dfde72ef-54be-4aed-b460-426f95cffba4,3330,"Gernsheim,  Gernsheim (64579)",187
+Heidelberger StraÃŸe 21 b, Biebesheim (64584),250.200 2.174,4 Zimmer,"115,1 m²",EG,https://www.immowelt.de/expose/e6de58de-ff29-4e39-964e-558366b9eaf9,3330,"Heidelberger StraÃŸe 21 b,  Biebesheim (64584)",0
+Heidelberger StraÃŸe 21 c, Biebesheim (64584),250.200 2.174,4 Zimmer,"115,1 m²",EG,https://www.immowelt.de/expose/d2be756c-aba7-4618-a061-4740d16e9303,3330,"Heidelberger StraÃŸe 21 c,  Biebesheim (64584)",0
+Gernsheim, Gernsheim (64579),659.000 2.816,7 Zimmer,234 m²,240 m² Grundstuck,https://www.immowelt.de/expose/70f84a76-68e7-4b2a-9886-4087b6e5d9aa,3330,"Gernsheim,  Gernsheim (64579)",187
+Gernsheim, Gernsheim (64579),450.000 2.848,5 Zimmer,158 m²,594 m² Grundstuck,https://www.immowelt.de/expose/04a7cef9-4e6a-4bb7-b908-dbd31e9275f1,3330,"Gernsheim,  Gernsheim (64579)",187
+LahnstraÃŸe 4a, Gernsheim (64579),509.000 4.005,4 Zimmer,"127,1 m²",138 m² Grundstuck,https://www.immowelt.de/expose/791c6295-4fcc-4070-941c-1f2e9aae36fd,3330,"LahnstraÃŸe 4a,  Gernsheim (64579)",0
+LahnstraÃŸe 3, Gernsheim (64579),524.000 4.094,4 Zimmer,128 m²,140 m² Grundstuck,https://www.immowelt.de/expose/32ccaef4-d450-4466-b234-1ee0d47dde54,3330,"LahnstraÃŸe 3,  Gernsheim (64579)",0
+FuldastraÃŸe 4, Gernsheim (64579),523.000 4.086,4 Zimmer,128 m²,140 m² Grundstuck,https://www.immowelt.de/expose/fb810aec-84c3-40aa-a639-7bd5bde4095f,3330,"FuldastraÃŸe 4,  Gernsheim (64579)",0
+FuldastraÃŸe 4a, Gernsheim (64579),523.000 4.086,4 Zimmer,128 m²,140 m² Grundstuck,https://www.immowelt.de/expose/58da9b61-963c-4a08-8f14-7aa870b998a4,3330,"FuldastraÃŸe 4a,  Gernsheim (64579)",0
+FuldastraÃŸe 3a, Gernsheim (64579),524.000 4.094,4 Zimmer,128 m²,140 m² Grundstuck,https://www.immowelt.de/expose/56d7ae35-5c82-4203-8451-027edfaf7f40,3330,"FuldastraÃŸe 3a,  Gernsheim (64579)",0
+Gernsheim, Gernsheim (64579),450.000 3.333,5 Zimmer,135 m²,177 m² Grundstuck,https://www.immowelt.de/expose/e75aaedf-f364-4eff-9bce-e168beeddcff,3330,"Gernsheim,  Gernsheim (64579)",187
+Gernsheim, Gernsheim (64579),180.000 3.000,2 Zimmer,60 m²,2. Geschoss,https://www.immowelt.de/expose/98542b6b-b0aa-4c16-91d5-4976367b865d,3330,"Gernsheim,  Gernsheim (64579)",187
+Gernsheim, Gernsheim (64579),465.000 3.720,5 Zimmer,125 m²,198 m² Grundstuck,https://www.immowelt.de/expose/76ae40ac-3e36-4d36-a1a7-04a5e97359cb,3330,"Gernsheim,  Gernsheim (64579)",187
+Gernsheim, Gernsheim (64579),320.000 2.807,4 Zimmer,114 m²,1. Geschoss,https://www.immowelt.de/expose/3d77e6f1-af58-40d2-a52a-69deff2f284a,3330,"Gernsheim,  Gernsheim (64579)",187
+Gernsheim, Gernsheim (64579),199.999 2.299,2 Zimmer,87 m²,EG,https://www.immowelt.de/expose/3b331f0b-bae0-4663-bc49-0d9cdec0723d,3330,"Gernsheim,  Gernsheim (64579)",187
+Im Eck 4a, GroÃŸ Rohrheim (68649),849.900 5.059,6 Zimmer,168 m²,880 m² Grundstuck,https://www.immowelt.de/expose/c1899762-7ac4-4bc1-a655-7d6064d8ffd1,3330,"Im Eck 4a,  GroÃŸ Rohrheim (68649)",0
+Harthausen, Filderstadt (70794),854.000 5.972,6 Zimmer,143 m²,440 m² Grundstuck,https://www.immowelt.de/expose/2cd962a4-29bf-4d69-b7d4-8b89c8711df6,3336,"Harthausen,  Filderstadt (70794)",69
+Reutestr. 24/1, Filderstadt (70794),857.600 6.700,4 Zimmer,128 m²,2. Geschoss,https://www.immowelt.de/expose/6cc96db8-5af2-4cd8-855e-bdb4b6ba063f,3336,"Reutestr. 24/1,  Filderstadt (70794)",109
+Reutestr. 24/1, Filderstadt (70794),533.000 6.500,3 Zimmer,82 m²,UG,https://www.immowelt.de/expose/0975088d-5110-437e-a7db-cba1285f1f81,3336,"Reutestr. 24/1,  Filderstadt (70794)",109
+Reutestr. 24/2, Filderstadt (70794),646.750 5.988,4 Zimmer,108 m²,2. Geschoss,https://www.immowelt.de/expose/53e243c9-ccfc-4755-9094-a2d7ff2d35ff,3336,"Reutestr. 24/2,  Filderstadt (70794)",109
+Reutestr. 24/2, Filderstadt (70794),767.000 7.102,4 Zimmer,108 m²,2. Geschoss,https://www.immowelt.de/expose/7b8e27b0-26b7-4fc2-9ffb-976a9c26a8b5,3336,"Reutestr. 24/2,  Filderstadt (70794)",109
+Reutestr. 24/3, Filderstadt (70794),838.500 6.500,4 Zimmer,129 m²,1. Geschoss,https://www.immowelt.de/expose/f0d9e0f6-2ba0-45c4-9b74-521738efb654,3336,"Reutestr. 24/3,  Filderstadt (70794)",109
+Reutestr. 24, Filderstadt (70794),760.500 6.500,4 Zimmer,117 m²,2. Geschoss,https://www.immowelt.de/expose/efd0d3fb-1ee0-444c-8010-09155e9debd5,3336,"Reutestr. 24,  Filderstadt (70794)",117
+Plattenhardt, Filderstadt (70794),499.000 5.871,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/projekte/expose/k2wj832,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),349.000 6.232,2 Zimmer,56 m²,Unknown,https://www.immowelt.de/projekte/expose/k2wj832,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),499.000 5.929,3 Zimmer,"84,2 m²",Unknown,https://www.immowelt.de/expose/e522ada5-27bd-4997-a6ba-9820805d106e,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),349.000 6.270,2 Zimmer,"55,7 m²",Unknown,https://www.immowelt.de/expose/e228eb6a-f9ff-487f-a522-2a90babe1b3e,3336,"Plattenhardt,  Filderstadt (70794)",136
+Bonlanden, Filderstadt / Bonlanden (70794),330.000 3.548,"3,5 Zimmer",93 m²,Unknown,https://www.immowelt.de/expose/89938c2b-f2e7-4b07-b891-bdf9bfa68d3d,3336,"Bonlanden,  Filderstadt / Bonlanden (70794)",159
+UhlbergstraÃŸe 11, Filderstadt (70794),259.000 3.453,2 Zimmer,75 m²,1. Geschoss,https://www.immowelt.de/expose/b7090011-fce8-45f1-8bf8-004d4f2ab1e5,3336,"UhlbergstraÃŸe 11,  Filderstadt (70794)",0
+Bernhausen, Filderstadt (70794),697.000 5.280,"4,5 Zimmer",132 m²,3. Geschoss,https://www.immowelt.de/expose/485df1b4-df30-40ac-a9ed-77d40754caa1,3336,"Bernhausen,  Filderstadt (70794)",339
+Reutestr. 24/1, Filderstadt (70794),854.750 6.500,4 Zimmer,"131,5 m²",EG,https://www.immowelt.de/expose/0405c5a1-1789-42ee-8496-1d1f8e87e87e,3336,"Reutestr. 24/1,  Filderstadt (70794)",109
+Reutestr. 24/2, Filderstadt (70794),767.000 6.500,4 Zimmer,118 m²,2. Geschoss,https://www.immowelt.de/expose/00521572-c203-41da-8739-3844c3271720,3336,"Reutestr. 24/2,  Filderstadt (70794)",109
+Reutestr. 24, Filderstadt (70794),760.500 6.500,4 Zimmer,117 m²,EG,https://www.immowelt.de/expose/2d3229dd-f3bf-45d4-9f67-23ff1f797814,3336,"Reutestr. 24,  Filderstadt (70794)",117
+Reutestr. 24, Filderstadt (70794),711.000 6.000,4 Zimmer,"118,5 m²",UG,https://www.immowelt.de/expose/ddff0428-efd7-445e-811a-980ffd25bdec,3336,"Reutestr. 24,  Filderstadt (70794)",117
+Bonlanden, Filderstadt (70794),349.000 2.685,7 Zimmer,130 m²,1. Geschoss,https://www.immowelt.de/expose/b59c575a-c930-46d0-a1c4-5426800d3371,3336,"Bonlanden,  Filderstadt (70794)",162
+Plattenhardt, Filderstadt (70794),620.000 2.313,10 Zimmer,268 m²,546 m² Grundstuck,https://www.immowelt.de/expose/94b2d580-dae1-4154-ae04-096edaf3a42f,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),840.000 4.352,6 Zimmer,193 m²,frei ab sofort,https://www.immowelt.de/expose/04421639-9e2d-4786-b66c-8a04d38edceb,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),345.000 4.101,3 Zimmer,"84,1 m²",1. Geschoss,https://www.immowelt.de/expose/9e2be46a-2fdc-4695-b5e7-8c19f59ff0f5,3336,"Plattenhardt,  Filderstadt (70794)",136
+SchreiberstraÃŸe 22, Filderstadt (70794),207.500 3.347,"2,5 Zimmer",62 m²,frei ab sofort,https://www.immowelt.de/expose/09c891de-7752-4e60-8c74-cb60972360ea,3336,"SchreiberstraÃŸe 22,  Filderstadt (70794)",0
+Harthausen, Filderstadt (70794),598.000 4.041,"8,5 Zimmer",148 m²,236 m² Grundstuck,https://www.immowelt.de/expose/8075a55b-ca3e-4dc9-850f-91805456ef1b,3336,"Harthausen,  Filderstadt (70794)",69
+Bonlanden, Filderstadt (70794),737.800 5.425,5 Zimmer,136 m²,380 m² Grundstuck,https://www.immowelt.de/expose/d815effe-2bc7-45c9-bb84-29bfe6426fef,3336,"Bonlanden,  Filderstadt (70794)",162
+Bonlanden, Filderstadt (70794),413.000 4.394,"3,5 Zimmer",94 m²,3. Geschoss,https://www.immowelt.de/expose/685ac689-ae54-4a15-a1be-0db386c9a78f,3336,"Bonlanden,  Filderstadt (70794)",162
+Bonlanden, Filderstadt (70794),289.000 3.992,3 Zimmer,"72,4 m²",frei ab 01.02.2025,https://www.immowelt.de/expose/6800672c-07f6-47fc-bf1e-d703c9f7e79f,3336,"Bonlanden,  Filderstadt (70794)",162
+Plattenhardt, Filderstadt (70794),245.000 4.008,3 Zimmer,"61,1 m²",75 m² Grundstuck,https://www.immowelt.de/expose/ff08dee8-35b6-4381-bf16-963f0b5d0ca1,3336,"Plattenhardt,  Filderstadt (70794)",136
+Bonlanden, Filderstadt (70794),498.000 4.150,"5,5 Zimmer",120 m²,179 m² Grundstuck,https://www.immowelt.de/expose/aff76f64-3cc4-412c-8acc-e3f7d747a407,3336,"Bonlanden,  Filderstadt (70794)",162
+Sielmingen, Filderstadt (70794),229.000 3.644,"2,5 Zimmer","62,9 m²",Unknown,https://www.immowelt.de/expose/e8b3a6d6-f2a1-40ab-8dba-f0993dbe6e13,3336,"Sielmingen,  Filderstadt (70794)",155
+Plattenhardt, Filderstadt (70794),449.000 6.185,3 Zimmer,"72,6 m²",Unknown,https://www.immowelt.de/expose/e05160dd-caab-49a4-b14c-67e12987b092,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),499.000 5.922,3 Zimmer,"84,3 m²",Unknown,https://www.immowelt.de/expose/cdac0df0-5883-4db2-b8e2-995f6a9193c9,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),465.000 6.407,3 Zimmer,"72,6 m²",Unknown,https://www.immowelt.de/expose/eb68a0e2-af8b-43e6-96e8-97b6375b431e,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),499.000 5.922,3 Zimmer,"84,3 m²",Unknown,https://www.immowelt.de/expose/906e8666-098d-4431-85f4-81cecbbb7a22,3336,"Plattenhardt,  Filderstadt (70794)",136
+Bonlanden, Filderstadt / Bonlanden (70794),598.000 3.691,"5,5 Zimmer",162 m²,Unknown,https://www.immowelt.de/expose/6fac6549-2b69-4b9c-bbb8-21adf0cd7db2,3336,"Bonlanden,  Filderstadt / Bonlanden (70794)",159
+Harthausen, Filderstadt (70794),1.695.000 6.649,9 Zimmer,"254,9 m²",975 m² Grundstuck,https://www.immowelt.de/expose/f8554c03-e2de-4b30-94c8-8572cbede980,3336,"Harthausen,  Filderstadt (70794)",69
+Bernhausen, Filderstadt (70794),295.000 4.932,2 Zimmer,"59,8 m²",EG,https://www.immowelt.de/expose/be27658a-4d53-4197-b92f-dcfd62dccf50,3336,"Bernhausen,  Filderstadt (70794)",339
+Bernhausen, Filderstadt (70794),299.000 3.792,3 Zimmer,"78,9 m²",Unknown,https://www.immowelt.de/expose/5824196d-c1d2-49d5-bd78-8192d14a9875,3336,"Bernhausen,  Filderstadt (70794)",339
+Bernhausen, Filderstadt (70794),210.000 3.818,3 Zimmer,55 m²,2. Geschoss,https://www.immowelt.de/expose/aa4e9b45-eccc-44dd-ad7f-50c6c739749b,3336,"Bernhausen,  Filderstadt (70794)",339
+Harthausen, Filderstadt (70794),840.000 4.941,"5,5 Zimmer",170 m²,302 m² Grundstuck,https://www.immowelt.de/expose/d6c75ae9-d3c1-4247-a84e-a37ca4a331c3,3336,"Harthausen,  Filderstadt (70794)",69
+Bonlanden, Filderstadt (70794),295.000 3.642,3 Zimmer,81 m²,3. Geschoss,https://www.immowelt.de/expose/e5b5d4fd-c6ba-4c98-8198-7f4541aaae45,3336,"Bonlanden,  Filderstadt (70794)",162
+BonlÃ¤nder HauptstraÃŸe 26, Filderstadt (70794),230.000 2.949,3 Zimmer,78 m²,4. Geschoss,https://www.immowelt.de/expose/985724d9-6ca7-4c3e-9683-c7fadfc1a3bb,3336,"BonlÃ¤nder HauptstraÃŸe 26,  Filderstadt (70794)",0
+Sielmingen, Filderstadt (70794),549.000 4.241,4 Zimmer,"129,4 m²",3. Geschoss,https://www.immowelt.de/expose/090e5284-38fb-4e4a-b5d3-ad537ae7db48,3336,"Sielmingen,  Filderstadt (70794)",155
+Plattenhardt, Filderstadt (70794),223.000 3.901,2 Zimmer,"57,2 m²",Unknown,https://www.immowelt.de/expose/2fa2e9cc-6962-4d12-8be4-6952e5b7673e,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),276.000 4.059,"2,5 Zimmer",68 m²,Unknown,https://www.immowelt.de/expose/39e1ed71-1a43-4319-a6fd-576fca1195fe,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),1.450.000 3.662,16 Zimmer,396 m²,250 m² Grundstuck,https://www.immowelt.de/expose/56de15aa-04a5-41cd-9acc-f88cd345d81d,3336,"Plattenhardt,  Filderstadt (70794)",136
+RingstraÃŸe 13/1, Filderstadt (70794),650.000 5.242,"4,5 Zimmer",124 m²,480 m² Grundstuck,https://www.immowelt.de/expose/ad80a6de-805c-4865-9eb4-cdcb0102a6ab,3336,"RingstraÃŸe 13/1,  Filderstadt (70794)",0
+Bernhausen, Filderstadt (70794),590.000 3.856,"6,5 Zimmer",153 m²,261 m² Grundstuck,https://www.immowelt.de/expose/352690af-4e28-4c3f-8851-7a7badb79bbb,3336,"Bernhausen,  Filderstadt (70794)",339
+Bernhausen, Filderstadt (70794),497.000 3.248,5 Zimmer,153 m²,170 m² Grundstuck,https://www.immowelt.de/expose/1e0cc219-ee64-4b2f-9fe2-6457cc5c575d,3336,"Bernhausen,  Filderstadt (70794)",339
+Harthausen, Filderstadt (70794),958.000 6.221,5 Zimmer,154 m²,440 m² Grundstuck,https://www.immowelt.de/expose/abd4a1f7-6837-4217-8246-a08879767f61,3336,"Harthausen,  Filderstadt (70794)",69
+Harthausen, Harthausen (70794),899.000 4.682,"6,5 Zimmer",192 m²,339 m² Grundstuck,https://www.immowelt.de/expose/8d3a4cdb-0142-4f7d-a0bd-1c5a9256ac8e,3336,"Harthausen,  Harthausen (70794)",10
+Bonlanden, Filderstadt / Bonlanden (70794),928.000 3.639,9 Zimmer,255 m²,262 m² Grundstuck,https://www.immowelt.de/expose/ca74e6b0-7c6d-4928-8d35-847fe559af80,3336,"Bonlanden,  Filderstadt / Bonlanden (70794)",159
+Harthausen, Filderstadt (70794),923.000 5.628,6 Zimmer,164 m²,440 m² Grundstuck,https://www.immowelt.de/expose/dc84c806-6794-4ec8-843d-c8186390093a,3336,"Harthausen,  Filderstadt (70794)",69
+GrÃ¶tzinger StraÃŸe 47, Filderstadt (70794),799.000 5.587,"5,5 Zimmer",143 m²,255 m² Grundstuck,https://www.immowelt.de/expose/8268e32b-0783-49f2-8924-63efc6f7f573,3336,"GrÃ¶tzinger StraÃŸe 47,  Filderstadt (70794)",0
+Stuttgarter Str. 100, Filderstadt (70794),480.000 6.575,4 Zimmer,73 m²,191 m² Grundstuck,https://www.immowelt.de/expose/136efe52-4357-43bd-b106-c54495992d14,3336,"Stuttgarter Str. 100,  Filderstadt (70794)",123
+Reutestr. 24/1, Filderstadt (70794),854.750 6.500,4 Zimmer,"131,5 m²",EG,https://www.immowelt.de/expose/a5241b9b-7eed-4f5d-9299-f10b86cffaea,3336,"Reutestr. 24/1,  Filderstadt (70794)",109
+Reutestr. 24/3, Filderstadt (70794),598.000 6.500,3 Zimmer,92 m²,EG,https://www.immowelt.de/expose/e5e3ed5c-b6cc-452f-be25-2c95e8b0634a,3336,"Reutestr. 24/3,  Filderstadt (70794)",109
+Bernhausen, Filderstadt (70794),299.000 4.724,"3,5 Zimmer","63,3 m²",Unknown,https://www.immowelt.de/expose/b73eaff2-5201-493a-8366-889a2338226a,3336,"Bernhausen,  Filderstadt (70794)",339
+Bernhausen, Filderstadt (70794),290.000 3.867,3 Zimmer,75 m²,Unknown,https://www.immowelt.de/expose/e4290668-7e31-4e7e-946f-7e8667e2fcb2,3336,"Bernhausen,  Filderstadt (70794)",339
+Bonlanden, Filderstadt (70794),295.000 3.656,"3,5 Zimmer","80,7 m²",5. Geschoss,https://www.immowelt.de/expose/560c0b7a-26f4-462a-8ca1-7358afc9f13b,3336,"Bonlanden,  Filderstadt (70794)",162
+Plattenhardt, Filderstadt (70794),465.000 3.345,"5,5 Zimmer",139 m²,205 m² Grundstuck,https://www.immowelt.de/expose/65273101-b45e-4aab-a4b0-98b27f09935b,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),349.700 5.380,3 Zimmer,65 m²,EG,https://www.immowelt.de/expose/28150fac-f82f-41bd-9c87-bd6ae0d30861,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt-Plattenhardt (70794),Preis auf Anfrage,8 Zimmer,313 m²,924 m² Grundstuck,https://www.immowelt.de/expose/10cb029e-1fb3-4ff2-8161-653e4ee0fc43,3336,"Plattenhardt,  Filderstadt-Plattenhardt (70794)",101
+Plattenhardt, Filderstadt-Plattenhardt (70794),Preis auf Anfrage,8 Zimmer,313 m²,924 m² Grundstuck,https://www.immowelt.de/expose/958fbcbe-7956-42c9-b73b-ed02f22a6259,3336,"Plattenhardt,  Filderstadt-Plattenhardt (70794)",101
+Plattenhardt, Filderstadt (70794),459.900 5.475,4 Zimmer,84 m²,1. Geschoss,https://www.immowelt.de/expose/5fdcdc03-897b-4a20-92bf-712c5f3bc525,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),414.900 5.503,4 Zimmer,"75,4 m²",1. Geschoss,https://www.immowelt.de/expose/ddba07be-cfce-4a31-afb3-77b133a107d2,3336,"Plattenhardt,  Filderstadt (70794)",136
+Harthausen, Filderstadt-Harthausen (70794),956.214 7.413,4 Zimmer,129 m²,442 m² Grundstuck,https://www.immowelt.de/expose/7152592c-c61d-4a17-8929-707ce174c9a7,3336,"Harthausen,  Filderstadt-Harthausen (70794)",82
+Bernhausen, Filderstadt / Bernhausen (70794),779.000 4.376,"6,5 Zimmer",178 m²,142 m² Grundstuck,https://www.immowelt.de/expose/fc5ba55b-f0af-4cdd-9a78-43989d5bd9e7,3336,"Bernhausen,  Filderstadt / Bernhausen (70794)",312
+Bernhausen, Filderstadt (70794),725.000 5.800,5 Zimmer,125 m²,700 m² Grundstuck,https://www.immowelt.de/expose/b4544e1b-42b7-4561-8794-1f5febf4333c,3336,"Bernhausen,  Filderstadt (70794)",339
+Plattenhardt, Filderstadt (70794),899.000 5.619,6 Zimmer,160 m²,700 m² Grundstuck,https://www.immowelt.de/expose/f4241a5a-1ec1-47ae-aaae-5c42d9ffd469,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),469.700 5.462,4 Zimmer,86 m²,1. Geschoss,https://www.immowelt.de/expose/faaba8da-f322-4e04-8f65-146afe9af06e,3336,"Plattenhardt,  Filderstadt (70794)",136
+Bonlanden, Filderstadt (70794),690.000 3.366,9 Zimmer,205 m²,560 m² Grundstuck,https://www.immowelt.de/expose/9b3b1263-4904-4b5b-a252-34e9a53a27a3,3336,"Bonlanden,  Filderstadt (70794)",162
+Plattenhardt, Filderstadt (70794),979.000 4.944,10 Zimmer,198 m²,500 m² Grundstuck,https://www.immowelt.de/expose/fb5b44d3-5ed8-45f6-a618-828855e8e7be,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),899.000 5.619,6 Zimmer,160 m²,3. Geschoss,https://www.immowelt.de/expose/4a6e5968-3998-414b-89e4-5b10a39abe03,3336,"Plattenhardt,  Filderstadt (70794)",136
+Plattenhardt, Filderstadt (70794),725.000 5.800,5 Zimmer,125 m²,1. Geschoss,https://www.immowelt.de/expose/09fa2cde-5c56-454c-9e2c-3bb4473a1449,3336,"Plattenhardt,  Filderstadt (70794)",136
+Bernhausen, Filderstadt (70794),1.589.350 10.456,7 Zimmer,152 m²,714 m² Grundstuck,https://www.immowelt.de/expose/382d7ffc-3276-4e62-9c8c-b234ff793420,3336,"Bernhausen,  Filderstadt (70794)",339
+GrÃ¶tzingerstr., Filderstadt (70794),400.000 3.390,3 Zimmer,118 m²,frei ab sofort,https://www.immowelt.de/expose/3b9bbe92-b302-4c39-8d0a-0ed9f3193836,3336,"GrÃ¶tzingerstr.,  Filderstadt (70794)",0
+Echterdingen, Leinfelden-Echterdingen (70771),278.000 3.610,"3,5 Zimmer",77 m²,2. Geschoss,https://www.immowelt.de/expose/e8830cc1-050c-421e-a983-f29210fca3e3,3336,"Echterdingen,  Leinfelden-Echterdingen (70771)",258
+Stetten, Leinfelden-Echterdingen / Stetten (70771),255.000 3.890,"2,5 Zimmer","65,6 m²",Unknown,https://www.immowelt.de/expose/8c6fea1c-3988-443c-a9af-31e969e37a2c,3336,"Stetten,  Leinfelden-Echterdingen / Stetten (70771)",131
+Stetten, Leinfelden-Echterdingen (70771),300.000 4.545,2 Zimmer,66 m²,1. Geschoss,https://www.immowelt.de/expose/6c9f4616-f9ab-42fa-9e40-356783fd5b6a,3336,"Stetten,  Leinfelden-Echterdingen (70771)",144
+Echterdingen, Leinfelden- Echterdingen (70771),546.000 4.299,"4,5 Zimmer",127 m²,2. Geschoss,https://www.immowelt.de/expose/810dc31e-5107-4239-a94c-8995be490d51,3336,"Echterdingen,  Leinfelden- Echterdingen (70771)",258
+Echterdingen, Leinfelden-Echterdingen (70771),449.000 4.082,4 Zimmer,110 m²,4. Geschoss,https://www.immowelt.de/expose/ff3a3497-cd13-4ba0-8f62-ea52214fa6fb,3336,"Echterdingen,  Leinfelden-Echterdingen (70771)",258
+Echterdingen, Leinfelden-Echterdingen / Echterdingen (70771),235.000 3.191,3 Zimmer,"73,7 m²",1. Geschoss,https://www.immowelt.de/expose/052f9d59-f13d-49dd-beb5-6bc7bb914e84,3336,"Echterdingen,  Leinfelden-Echterdingen / Echterdingen (70771)",258
+Plieningen, Plieningen (70599),1.033.000 7.174,6 Zimmer,144 m²,675 m² Grundstuck,https://www.immowelt.de/expose/155509a5-2303-4e59-85d0-77d4c1763fa0,3336,"Plieningen,  Plieningen (70599)",163
+Stetten, Leinfelden-Echterdingen (70711),1.050.000 5.412,10 Zimmer,194 m²,653 m² Grundstuck,https://www.immowelt.de/expose/fe834444-8b49-4d0b-b8ba-105065d4aebb,3336,"Stetten,  Leinfelden-Echterdingen (70711)",144
+Stetten, Leinfelden-Echterdingen (70771),695.000 4.226,"8,5 Zimmer","164,4 m²",415 m² Grundstuck,https://www.immowelt.de/expose/e69693d9-8374-4f59-b371-e6e7cbd72f28,3336,"Stetten,  Leinfelden-Echterdingen (70771)",144
+Haueneberstein, Baden-Baden / Haueneberstein (76532),299.000 2.350,4 Zimmer,"127,2 m²",Unknown,https://www.immowelt.de/expose/a00ff6fa-b686-4d80-8b47-b605f4c15146,3341,"Haueneberstein,  Baden-Baden / Haueneberstein (76532)",42
+Baden-Baden - Kernstadt, Baden-Baden (76530),525.000 4.953,4 Zimmer,106 m²,Unknown,https://www.immowelt.de/expose/17c5ea6f-142f-48c2-a60d-2c5dfea2c562,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Neuweier, Baden-Baden (76534),605.000 3.418,1 Zimmer,177 m²,872 m² Grundstuck,https://www.immowelt.de/expose/6693ddd9-90f2-4e42-9714-bf1e10c6711a,3341,"Neuweier,  Baden-Baden (76534)",35
+Sandweier, Baden-Baden / Sandweier (76532),465.000 4.650,6 Zimmer,100 m²,1.061 m² Grundstuck,https://www.immowelt.de/expose/084b195a-8ce3-4633-8de5-6002c978dcaf,3341,"Sandweier,  Baden-Baden / Sandweier (76532)",86
+Steinbach, Baden-Baden (76534),899.000 3.746,6 Zimmer,240 m²,800 m² Grundstuck,https://www.immowelt.de/expose/b149fc0d-da3d-41f1-93d6-5e901db86bbc,3341,"Steinbach,  Baden-Baden (76534)",123
+Lichtental, Baden-Baden (76534),899.000 4.634,6 Zimmer,194 m²,800 m² Grundstuck,https://www.immowelt.de/expose/559fad33-62a2-4af2-8295-dd855519ed7d,3341,"Lichtental,  Baden-Baden (76534)",135
+Steinbach, Baden-Baden (76534),899.000 4.407,6 Zimmer,204 m²,800 m² Grundstuck,https://www.immowelt.de/expose/26df9a72-7e23-4b28-b63a-5fa189db4291,3341,"Steinbach,  Baden-Baden (76534)",123
+Baden-Baden - Kernstadt, Baden-Baden (76530),315.000 5.164,2 Zimmer,61 m²,Unknown,https://www.immowelt.de/expose/9137b560-42da-4a28-b361-66e57fa84a21,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),249.000 3.019,3 Zimmer,"82,5 m²",Unknown,https://www.immowelt.de/expose/5646e5df-7929-41b5-ab66-809425e9c655,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Oos, Baden-Baden (76532),495.000 3.837,4 Zimmer,129 m²,124 m² Grundstuck,https://www.immowelt.de/expose/dfb911a4-3ab2-4f11-9146-4379c7c722a6,3341,"Oos,  Baden-Baden (76532)",163
+Oos, Baden-Baden (76532),668.000 3.443,9 Zimmer,194 m²,frei ab sofort,https://www.immowelt.de/expose/1f5243ae-c898-4b51-b1df-0ffe88e93557,3341,"Oos,  Baden-Baden (76532)",163
+Baden-Baden - Kernstadt, Baden-Baden (76530),499.000 5.253,4 Zimmer,95 m²,Unknown,https://www.immowelt.de/expose/25768048-e81a-48af-b6fc-a6fecce7c598,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Haueneberstein, Baden-Baden (76532),599.000 4.189,6 Zimmer,143 m²,510 m² Grundstuck,https://www.immowelt.de/expose/8d507287-a1d4-401f-802b-26c9c752443d,3341,"Haueneberstein,  Baden-Baden (76532)",47
+Baden-Baden - Kernstadt, Baden-Baden (76530),420.000 5.000,2 Zimmer,84 m²,2. Geschoss,https://www.immowelt.de/expose/730bcb7f-56a4-48f8-9beb-bcb4145e2b42,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Lichtental, Baden-Baden (76530),3.198.000 8.423,13 Zimmer,"379,7 m²",2.330 m² Grundstuck,https://www.immowelt.de/expose/429a3c6a-83af-46ca-85cf-51624724ba4c,3341,"Lichtental,  Baden-Baden (76530)",135
+Lichtental, Baden-Baden (76530),2.712.000 10.157,5 Zimmer,267 m²,1.290 m² Grundstuck,https://www.immowelt.de/expose/c1e86ffe-70c9-4dec-9a71-0cc24d453ce5,3341,"Lichtental,  Baden-Baden (76530)",135
+Lichtental, Baden-Baden (76530),3.198.000 8.423,13 Zimmer,"379,7 m²",2.330 m² Grundstuck,https://www.immowelt.de/expose/698b028a-2d74-48b7-a963-22501f404eae,3341,"Lichtental,  Baden-Baden (76530)",135
+Lichtental, Baden-Baden (76530),2.712.000 10.157,5 Zimmer,267 m²,1.290 m² Grundstuck,https://www.immowelt.de/expose/45c4f268-ef50-48b2-881f-01ee26f07e17,3341,"Lichtental,  Baden-Baden (76530)",135
+Lichtental, Baden-Baden (76530),360.000 4.235,3 Zimmer,85 m²,Unknown,https://www.immowelt.de/expose/11ee34a0-3f41-40d3-b173-15581975b7b6,3341,"Lichtental,  Baden-Baden (76530)",135
+Lichtental, Baden-Baden (76534),549.000 4.392,4 Zimmer,125 m²,450 m² Grundstuck,https://www.immowelt.de/expose/144b7a26-0ae5-4ad7-a9c3-8320ed44a3bf,3341,"Lichtental,  Baden-Baden (76534)",135
+Baden-Baden - Kernstadt, Baden-Baden (76530),Preis auf Anfrage,1 Zimmer,44 m²,Unknown,https://www.immowelt.de/expose/d44930f8-151e-4f86-ad47-e38646518a43,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),Preis auf Anfrage,9 Zimmer,471 m²,1.000 m² Grundstuck,https://www.immowelt.de/expose/353df324-5c05-44b1-b031-49d45d3af0b2,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Haueneberstein, Baden-Baden / Haueneberstein (76532),275.000 3.056,3 Zimmer,89 m²,EG,https://www.immowelt.de/expose/611449ad-6f19-4a0a-b2b4-e38986655938,3341,"Haueneberstein,  Baden-Baden / Haueneberstein (76532)",42
+Sandweier, Baden-Baden (76532),599.000 2.147,10 Zimmer,279 m²,578 m² Grundstuck,https://www.immowelt.de/expose/4fb2b717-1d8e-44ac-b93f-2490702021d1,3341,"Sandweier,  Baden-Baden (76532)",89
+Oos, Baden-Baden (76532),695.000 2.848,10 Zimmer,244 m²,631 m² Grundstuck,https://www.immowelt.de/expose/a136176d-7fd3-4cc7-b627-deb69e595fe9,3341,"Oos,  Baden-Baden (76532)",163
+Baden-Baden - Kernstadt, Baden-Baden (76530),469.900 4.205,4 Zimmer,"111,8 m²",frei ab sofort,https://www.immowelt.de/expose/f6cf333c-414c-4150-8935-d509bf69aa39,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Haueneberstein, Baden-Baden (76532),327.500 3.302,"3,5 Zimmer","99,2 m²",1. Geschoss,https://www.immowelt.de/expose/15fa46e8-92fa-43cf-82fa-a844e73a200e,3341,"Haueneberstein,  Baden-Baden (76532)",47
+Neuweier, Baden-Baden / Neuweier (76534),170.000 3.426,2 Zimmer,58 m²,EG,https://www.immowelt.de/expose/b927328e-09a8-4408-9c7e-8d6a2c72fa87,3341,"Neuweier,  Baden-Baden / Neuweier (76534)",77
+Neuweier, Baden-Baden (76534),890.000 2.618,11 Zimmer,340 m²,1.009 m² Grundstuck,https://www.immowelt.de/expose/6285a184-289a-47d9-9115-e3f9ffd99e6c,3341,"Neuweier,  Baden-Baden (76534)",35
+Baden-Baden - Weststadt, Baden-Baden (76532),157.000 3.651,2 Zimmer,43 m²,3. Geschoss,https://www.immowelt.de/expose/57266e88-6dd2-4aaa-8ba5-6c5a1d275eea,3341,"Baden-Baden - Weststadt,  Baden-Baden (76532)",128
+Baden-Baden - Weststadt, Baden-Baden (76530),240.000 3.333,2 Zimmer,72 m²,Unknown,https://www.immowelt.de/expose/375c3c28-125f-49f2-99e6-e6b3a02ff2fd,3341,"Baden-Baden - Weststadt,  Baden-Baden (76530)",128
+Baden-Baden - Kernstadt, Baden-Baden (76530),2.200.000 7.509,6 Zimmer,293 m²,480 m² Grundstuck,https://www.immowelt.de/expose/3dc16b25-dd41-4974-b253-1c1bbb4df942,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Sandweier, Baden-Baden (76532),285.000 1.900,5 Zimmer,150 m²,874 m² Grundstuck,https://www.immowelt.de/expose/c0a983ce-f752-47cf-9581-26e27c2a8cce,3341,"Sandweier,  Baden-Baden (76532)",89
+Lichtental, Baden-Baden (76534),295.000 1.756,2 Zimmer,168 m²,Unknown,https://www.immowelt.de/expose/7450e5a9-faa6-4897-a67f-425e2a3fc7ee,3341,"Lichtental,  Baden-Baden (76534)",135
+Baden-Baden - Kernstadt, Baden-Baden (76530),740.000 4.664,4 Zimmer,"158,7 m²",1. Geschoss,https://www.immowelt.de/expose/fc13f4b0-361f-4d2d-9725-a0c2fefff06f,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),260.000 4.262,2 Zimmer,61 m²,2. Geschoss,https://www.immowelt.de/expose/47c13065-e3ea-43f6-94f8-3e2e5adb99c4,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),195.000 5.000,1 Zimmer,39 m²,4. Geschoss,https://www.immowelt.de/expose/34cb3dc9-6f25-4ae6-9488-ce86489e72b6,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Herrengut 6c, Baden-Baden (76530),119.000 2.380,3 Zimmer,50 m²,3. Geschoss,https://www.immowelt.de/expose/1e0aadc0-0810-4b03-a69a-2a5abde70ff2,3341,"Herrengut 6c,  Baden-Baden (76530)",336
+Balzenbergstr. 27, Baden-Baden (76530),250.000 3.425,3 Zimmer,73 m²,Unknown,https://www.immowelt.de/expose/0a9a474c-46de-45d2-8ea4-078c5a5638bc,3341,"Balzenbergstr. 27,  Baden-Baden (76530)",151
+Neuweier, Baden-Baden (76534),Preis auf Anfrage,"278,7 m²",574 m² Grundstuck,Unknown,https://www.immowelt.de/expose/9c2262d3-3e36-4357-9a9d-b7ef7866a801,3341,"Neuweier,  Baden-Baden (76534)",35
+Steinbach, Baden-Baden (76534),795.000 2.819,282 m²,944 m² Grundstuck,Unknown,https://www.immowelt.de/expose/85be0e6c-d41d-4030-b170-796fab1a9035,3341,"Steinbach,  Baden-Baden (76534)",123
+Baden-Baden - Kernstadt, Baden-Baden (76530),285.000 4.347,2 Zimmer,"65,6 m²",4. Geschoss,https://www.immowelt.de/expose/7cbaef71-3cb7-4342-a2b7-072309873bcf,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Weinstr. 14, Baden-Baden (76534),299.000 3.929,3 Zimmer,"76,1 m²",EG,https://www.immowelt.de/expose/3e6660aa-0afa-4336-9306-702b1d954485,3341,"Weinstr. 14,  Baden-Baden (76534)",37
+Weinstr. 14, Baden-Baden (76534),449.000 3.917,3 Zimmer,"114,6 m²",EG,https://www.immowelt.de/expose/2ed249dd-6cea-4d9a-9a96-d4193b193f36,3341,"Weinstr. 14,  Baden-Baden (76534)",37
+Baden-Baden - Kernstadt, Baden-Baden (76530),1.950.000 4.333,8 Zimmer,450 m²,1.550 m² Grundstuck,https://www.immowelt.de/expose/f5c4e2cd-7e48-426a-8a23-bd2ddce3a186,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+RotenbachtalstraÃŸe 33, Baden-Baden (76530),731.300 6.956,3 Zimmer,"105,1 m²",1. Geschoss,https://www.immowelt.de/expose/441be4ec-6e51-4a21-bf01-9d8be9ebea87,3341,"RotenbachtalstraÃŸe 33,  Baden-Baden (76530)",0
+RotenbachtalstraÃŸe 33, Baden-Baden (76530),691.500 6.692,3 Zimmer,"103,3 m²",EG,https://www.immowelt.de/expose/a9d3047c-57fc-42f8-84ff-f4a8c0c86262,3341,"RotenbachtalstraÃŸe 33,  Baden-Baden (76530)",0
+RotenbachtalstraÃŸe 31, Baden-Baden (76530),626.500 6.956,3 Zimmer,"90,1 m²",1. Geschoss,https://www.immowelt.de/expose/7a8d3559-d1e6-4279-9a5e-a25966f2c7fe,3341,"RotenbachtalstraÃŸe 31,  Baden-Baden (76530)",0
+RotenbachtalstraÃŸe 31, Baden-Baden (76530),732.200 8.120,3 Zimmer,"90,2 m²",2. Geschoss,https://www.immowelt.de/expose/993d3a5f-1620-40bf-8c71-47844ddb7f73,3341,"RotenbachtalstraÃŸe 31,  Baden-Baden (76530)",0
+RotenbachtalstraÃŸe 31, Baden-Baden (76530),831.500 6.798,3 Zimmer,"122,3 m²",EG,https://www.immowelt.de/expose/7dd44b87-d9c1-4fa5-867d-dcde45156c2d,3341,"RotenbachtalstraÃŸe 31,  Baden-Baden (76530)",0
+RotenbachtalstraÃŸe 29, Baden-Baden (76530),648.200 7.062,"91,8 m²",1. Geschoss,Unknown,https://www.immowelt.de/expose/3efc98be-b195-42df-b524-d5ae5c3aace9,3341,"RotenbachtalstraÃŸe 29,  Baden-Baden (76530)",0
+Baden-Baden - Kernstadt, Baden-Baden (76530),198.000 2.538,3 Zimmer,78 m²,2. Geschoss,https://www.immowelt.de/expose/9276e09c-581f-4952-947b-c1984a59fe5a,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Haueneberstein, Baden-Baden (76532),Preis auf Anfrage,Unknown,Unknown,Unknown,https://www.immowelt.de/expose/ae1b7f33-28d0-4f6d-8893-c53c08f5434f,3341,"Haueneberstein,  Baden-Baden (76532)",47
+Lichtental, Baden-Baden / Lichtental (76534),980.000 3.949,14 Zimmer,"303,9 m²",686 m² Grundstuck,https://www.immowelt.de/expose/a73a2166-0b55-4cde-9ab6-e8225952498e,3341,"Lichtental,  Baden-Baden / Lichtental (76534)",118
+Baden-Baden - Kernstadt, Baden-Baden (76530),Preis auf Anfrage,10 Zimmer,440 m²,811 m² Grundstuck,https://www.immowelt.de/expose/129a3cb6-8e07-4cbc-b55b-9e09a84275a7,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),1.080.000 7.200,"3,5 Zimmer",150 m²,Unknown,https://www.immowelt.de/expose/0e180f3a-8f10-464c-a35e-a90b6857083d,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),369000,2 Zimmer,Unknown,Unknown,https://www.immowelt.de/expose/b7a15229-1013-4a7e-a39c-b639d145b7ca,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),2.200.000 9.565,4 Zimmer,230 m²,Unknown,https://www.immowelt.de/expose/fe200cd8-4732-4c80-9426-bb69e46f099f,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Lichtental, Baden-Baden (76534),2.700.000 11.020,6 Zimmer,245 m²,2.616 m² Grundstuck,https://www.immowelt.de/expose/f5402f7d-5962-49b5-ae6d-ba665f8d0b6c,3341,"Lichtental,  Baden-Baden (76534)",135
+Baden-Baden - Kernstadt, Baden-Baden (76530),695.000 6.495,3 Zimmer,107 m²,1. Geschoss,https://www.immowelt.de/expose/e8f81646-acb8-4455-9e2c-4ec475805858,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),1.690.000 4.829,6 Zimmer,350 m²,Unknown,https://www.immowelt.de/expose/6e47f772-f9ac-42c2-bdf3-248edb5e03b9,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),650.000 4.924,3 Zimmer,132 m²,1. Geschoss,https://www.immowelt.de/expose/b9341df5-18ac-489c-8850-89e375294a91,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),780.000 7.429,2 Zimmer,105 m²,Unknown,https://www.immowelt.de/expose/93982ddc-fba0-4cb3-8696-f234c817269f,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),795.000 5.300,3 Zimmer,150 m²,Unknown,https://www.immowelt.de/expose/c93ca59a-8204-47cb-b9ab-b3b17f1447d2,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),630.000 6.429,"3,5 Zimmer",98 m²,Unknown,https://www.immowelt.de/expose/320d124a-9a80-434d-bcfa-1644e0207d69,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),270.000 4.655,2 Zimmer,58 m²,1. Geschoss,https://www.immowelt.de/expose/98be3859-44c9-41fd-b0e7-579a94b6eed8,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),700.000 4.094,5 Zimmer,171 m²,545 m² Grundstuck,https://www.immowelt.de/expose/a670c23a-4825-4e66-8edb-f2add67647d3,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),3.720.000 8.964,9 Zimmer,415 m²,3.900 m² Grundstuck,https://www.immowelt.de/expose/b7720c92-5758-411b-8439-98568f3d50f3,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),2.600.000 4.727,14 Zimmer,550 m²,2.100 m² Grundstuck,https://www.immowelt.de/expose/9bf98f51-3e5c-4128-a69d-f196f41fd088,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),2.600.000 4.727,14 Zimmer,550 m²,2.100 m² Grundstuck,https://www.immowelt.de/expose/df36ece0-f70a-4984-b373-c0324383353f,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),1.890.000 4.500,8 Zimmer,420 m²,847 m² Grundstuck,https://www.immowelt.de/expose/60538188-845c-419d-bebd-910af1639216,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
+Baden-Baden - Kernstadt, Baden-Baden (76530),2.250.000 8.824,4 Zimmer,255 m²,Unknown,https://www.immowelt.de/expose/25df278f-737c-46d3-ad97-921b5f32a4d1,3341,"Baden-Baden - Kernstadt,  Baden-Baden (76530)",239
