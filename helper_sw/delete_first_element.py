@@ -6,18 +6,18 @@ input_csv_path = r"C:\Users\ahmty\Desktop\Python\geo_DSproject_github_clone\git_
 # Read the input CSV file
 df = pd.read_csv(input_csv_path)
 
-# Function to extract the second number from the Price column
+# Function to extract and clean the second number from the Price column
 def extract_second_price(price):
     try:
         # Split the price by space and return the second part
         price_parts = price.split()
         
         if len(price_parts) == 2:
-            # Return the second part after cleaning
-            clean_price = price_parts[1].replace('.', '').replace(',', '.')
-            return clean_price  # Return the second part as a string for the updated Price column
+            # Clean the second part by removing dots and converting to float
+            clean_price = price_parts[1]# Remove dot characters
+            return float(clean_price)  # Convert the cleaned string to float
         
-        # If there's no space, return None to indicate invalid entry
+        # If there's no space or invalid format, return None
         return None
         
     except Exception:
