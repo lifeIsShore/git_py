@@ -22,6 +22,7 @@ def process_urls_from_csv(input_csv, output_dir):
             except Exception as e:
                 print(f"Error processing URL {url}: {e}")
 
+
     # Print message when all URLs have been processed
     print("Finished processing all URLs.")
 
