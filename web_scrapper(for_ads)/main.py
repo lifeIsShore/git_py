@@ -24,7 +24,6 @@ def process_urls_from_csv(input_csv, output_dir):
 
 
 
-
     # Print message when all URLs have been processed
     print("Finished processing all URLs.")
 
