@@ -133,6 +133,6 @@ def score_address(address):
         return 0
 
 # Example usage
-'''address = "Yıldırım Beyazıt, 38030 Melikgazi/Kayseri, Türkiye"
+address = "Sturmbühl, Villingen-Schwenningen (78056)"
 score = score_address(address)
-print("Final Score:", score)'''
+print("Final Score:", score)
